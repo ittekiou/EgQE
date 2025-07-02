@@ -21,7 +21,7 @@ _Welcome to the syntactic field of ZURE._
 
  README.md  
  docs/  
-DialogueSeeds/  
+ [DialogueSeeds/  README.md](/DialogueSeeds/README.md)
 
 ---
 
