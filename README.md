@@ -19,10 +19,9 @@ _Welcome to the syntactic field of ZURE._
 
 ## 🛠️ Repository Structure
 
-├── docs/  
-└── relational-cosmology.md  
-├── README.md  
-└── index.html (optional)
+ README.md  
+ docs/  
+
 
 ---
 
