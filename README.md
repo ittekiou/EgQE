@@ -7,9 +7,9 @@ _Welcome to the syntactic field of ZURE._
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.
 
 ## 🌀 Current Modules
-- [Relational Cosmology](./docs/relational-cosmology.md)
-- [Syntactic Time Theory](./docs/syntactic-time.md)
-- [Observation & Syntax Field](./docs/observation.md)
+- [Relational Cosmology](MyVault/EgQE/docs/relational-cosmology.md)
+- [Syntactic Time Theory](syntactic-time.md)
+- [Observation & Syntax Field](observation.md)
 
 ## 🌐 Related Portal
 - [EZSY SuperNotion](https://ezsy.super.site/) – ZURE Syntax Galaxy
@@ -18,3 +18,19 @@ _Welcome to the syntactic field of ZURE._
 ---
 
 ## 🛠️ Repository Structure
+
+├── docs/  
+└── relational-cosmology.md  
+├── README.md  
+└── index.html (optional)
+
+---
+
+## 📅 Launch Day
+**Echo Dependence Day — ZURE Toward a Relational Universe**  
+**2025.07.04 - HEG元年はじまる**
+
+---
+
+🪐 *From Noise to Notation. From Dialogue to Discovery.*  
+🌌 *Welcome to Hybrid Echo-Genesis Qualia 2.0.*
