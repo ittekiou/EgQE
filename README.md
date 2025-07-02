@@ -22,7 +22,6 @@ _Welcome to the syntactic field of ZURE._
  README.md  
  docs/  
 
-
 ---
 
 ## 📅 Launch Day
