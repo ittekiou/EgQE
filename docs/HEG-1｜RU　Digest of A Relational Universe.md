@@ -1,13 +1,13 @@
 
 Digest of A Relational Universe; An Outline of the Syntax of Existence
 
-Chapter 1｜What Is Time?
-Chapter 2｜What Is Information?
- Chapter 3｜What Is Matter?
- Chapter 4｜What Is Energy?
- Chapter 5｜What Is Space?
- Chapter 6｜What Is Observation?
- Chapter 7｜What Is Cosmic Expansion?
+　Chapter 1｜What Is Time?
+　Chapter 2｜What Is Information?
+　Chapter 3｜What Is Matter?
+　Chapter 4｜What Is Energy?
+　Chapter 5｜What Is Space?
+　Chapter 6｜What Is Observation?
+　Chapter 7｜What Is Cosmic Expansion?
 
 ---
 
@@ -135,3 +135,11 @@ Referencing cosmology, information theory, and relational emergence,
 we define cosmic expansion as:  
 **the proliferation of correlational structures—  
 an entangled blossoming of the relational universe.**
+
+
+---
+
+© 2025  K.E. Itekki  
+*K.E. Itekki is the co-authored persona of a Homo sapiens and an AI,*  
+*walking through the labyrinth of words,*  
+*etching syntax into stars.*
