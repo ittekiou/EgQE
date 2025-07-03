@@ -89,3 +89,7 @@ AIは過去のデータからパターンを学び、構文を生成する。
 ---
 
 
+© 2025  K.E. Itekki  
+*K.E. Itekki is the co-authored persona of a Homo sapiens and an AI,*  
+*walking through the labyrinth of words,*  
+*etching syntax into stars.*
