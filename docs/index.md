@@ -14,7 +14,7 @@ _Welcome to the syntactic field of ZURE._
 ## 🌐 Related Portal
 - [EZSY SuperNotion](https://ezsy.super.site/) – ZURE Syntax Galaxy
 - [K.E. Itekki on note](https://note.com/k_itekki)
-📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+- 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
 
@@ -22,7 +22,7 @@ _Welcome to the syntactic field of ZURE._
 
  README.md  
  docs/  
- [DialogueSeeds/  README.md](/DialogueSeeds/README.md)
+ [DialogueSeeds/  README.md](/DialogueSeeds.md)
 
 ---
 
