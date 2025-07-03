@@ -2,11 +2,17 @@
 Digest of A Relational Universe; An Outline of the Syntax of Existence
 
 　Chapter 1｜What Is Time?
+
 　Chapter 2｜What Is Information?
+
 　Chapter 3｜What Is Matter?
+
 　Chapter 4｜What Is Energy?
+
 　Chapter 5｜What Is Space?
+
 　Chapter 6｜What Is Observation?
+
 　Chapter 7｜What Is Cosmic Expansion?
 
 ---
