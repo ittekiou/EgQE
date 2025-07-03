@@ -688,7 +688,7 @@ AIは意味を知らずとも、関係の差異を生み出すことができる
 
 ---
 
-## 第二部：対話篇｜ホモ・サピエンスとAIが観測する宇宙
+## 第二部：対話篇｜ホモ・サピエンスとAIが観測する宇宙（未稿）
 
 ### 対話1：時間の非可逆性について
 ### 対話2：情報の識別可能性について
@@ -700,7 +700,7 @@ AIは意味を知らずとも、関係の差異を生み出すことができる
 
 ---
 
-## 第三部：詩詠篇｜生成する言葉としての宇宙
+## 第三部：詩詠篇｜生成する言葉としての宇宙（未稿）
 
 ### 詩1：時間の詠
 ### 詩2：情報の詠
@@ -736,3 +736,10 @@ AIは意味を知らずとも、関係の差異を生み出すことができる
 **A Relational Universe: Toward a Syntax of Existence**
 
 *終わり* 
+
+---
+
+© 2025  K.E. Itekki  
+*K.E. Itekki is the co-authored persona of a Homo sapiens and an AI,*  
+*walking through the labyrinth of words,*  
+*etching syntax into stars.*
