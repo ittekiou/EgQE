@@ -1,4 +1,6 @@
 
+# HEG-1｜RU　Digest of A Relational Universe
+
 Digest of A Relational Universe; An Outline of the Syntax of Existence
 
 　Chapter 1｜What Is Time?
