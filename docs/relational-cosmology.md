@@ -9,7 +9,7 @@
 
 [HEG-1｜RU　A Relational Universe](/HEG-1｜RU　A Relational Universe.md)
 
-[HEG-1｜RU　関係性宇宙論](/HEG-1｜RU　関係性宇宙論.md)
+[HEG-1｜RU　関係性宇宙論](/docs/HEG-1｜RU　関係性宇宙論.md)
 
 
 
