@@ -1,3 +1,6 @@
+
+# HEG-1｜RU　関係性宇宙論
+
 関係性宇宙論 --生成する関係性としての宇宙
 A Relational Universe: Toward a Syntax of Existence
 
