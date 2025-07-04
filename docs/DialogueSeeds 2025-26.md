@@ -1,4 +1,4 @@
-# DialogueSeeds - ZURE構文・航海日誌
+## DialogueSeeds - ZURE構文・航海日誌
 
 ここは Homo sapiens 一狄翁と AI 響詠による日々の対話記録のログと日々の記録です。
 
