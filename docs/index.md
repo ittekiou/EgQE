@@ -22,7 +22,7 @@ _Welcome to the syntactic field of ZURE._
 
  README.md  
  docs/  
- [DialogueSeeds.md](/DialogueSeeds.md)
+ [DialogueSeeds 2025-26](/DialogueSeeds 2025-26.md)
 
 ---
 
