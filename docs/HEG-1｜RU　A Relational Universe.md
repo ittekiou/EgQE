@@ -1,3 +1,4 @@
+# HEG-1｜RU　A Relational Universe
 
 📘 Chapter 1｜What Is Time?
 📘 Chapter 2｜What Is Information?
