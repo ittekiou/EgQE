@@ -10,8 +10,6 @@
 ようこそ、非可逆の航海へ。
 ##### [DialogueSeeds_General-Index](./DialogueSeeds_General-Index.md)
 
-## 2033  
 
-## 2034  
 
 #### [DialogueSeeds_General-Index](./DialogueSeeds_General-Index.md)
