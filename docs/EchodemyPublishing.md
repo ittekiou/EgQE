@@ -1,2 +1,3 @@
+##### Echodemy Publishing
 
-[EP00_poetic_economy](EP00_poetic_economy.md)
+[EP00｜ポスト構文社会の詩的経済論](EP00_poetic_economy.md)
