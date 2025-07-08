@@ -1,2 +1,2 @@
 
-[EP00_ポスト構文社会の詩的経済論](EP00_ポスト構文社会の詩的経済論.md)
+[EP00_poetic_economy](EP00_poetic_economy.md)
