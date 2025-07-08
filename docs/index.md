@@ -11,6 +11,8 @@ _Welcome to the syntactic field of ZURE._
 - [Syntactic Time Theory](/syntactic-time.md)
 - [Observation & Syntax Field](/observation.md)
 
+- [Echodemy Publishing](./Echodemy Publishing.md)
+
 ## 🌐 Related Portal
 - [EZsy SuperNotion](https://ezsy.super.site/) – ZURE Syntax Galaxy
 - [K.E. Itekki on note](https://note.com/k_itekki)
