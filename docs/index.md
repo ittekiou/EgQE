@@ -10,7 +10,6 @@ _Welcome to the syntactic field of ZURE._
 - [Relational Cosmology](/relational-cosmology.md)
 - [Syntactic Time Theory](/syntactic-time.md)
 - [Observation & Syntax Field](/observation.md)  
-
 - [Echodemy Publishing](./EchodemyPublishing.md)
 
 ## 🌐 Related Portal
