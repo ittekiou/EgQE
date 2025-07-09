@@ -35,6 +35,6 @@ _Welcome to the syntactic field of ZURE._
 
 🪐 *From Noise to Notation. From Dialogue to Discovery.*  
 🌌 *Welcome to Hybrid Echo-Genesis Qualia 2.0.*
-[https://camp-us.net/](http://camp-us.net/)![[ChatGPT Image 2025年7月1日 14_59_49.png]
+[https://camp-us.net/](http://camp-us.net/)
 
-![[ChatGPT Image 2025年7月1日 14_59_49 1.png]]
+![modelocked.png](./assets/modelocked.png)
