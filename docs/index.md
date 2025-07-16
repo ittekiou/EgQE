@@ -6,6 +6,9 @@ _Welcome to the syntactic field of ZURE._
 ## 🔭 Overview
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.
 
+## 🪐 _EJRU──Echodemy Journal of Relational Universe
+- [Vol.000 創刊準備号｜EJRU｜関係性宇宙論ジャーナル｜Ecodemy](./Echodemy/EJRU_0.md)
+
 ## 🌀 Current Modules
 - [Relational Cosmology](/relational-cosmology.md)
 - [Syntactic Time Theory](/syntactic-time.md)
