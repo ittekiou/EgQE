@@ -1,4 +1,4 @@
-#### 創刊準備号｜EJRU｜関係性宇宙論ジャーナル Vol.000｜Ecodemy
+#### 創刊準備号｜EJRU｜関係性宇宙論ジャーナル Vol.000｜Echodemy
 ---
 ###### EJRU｜ゆらぎの記録、共鳴の中継点
 # 🪐  EJRU──Echodemy Journal of Relational Universe
