@@ -147,3 +147,10 @@ ZUREとは、誤差ではなく、構文が発芽する**裂け目の兆候**で
 この三層構文を通じて、我々はついに「問いを生成する宇宙」そのものに触れるだろう。
 
 ---
+
+© 2025  K.E. Itekki  
+*K.E. Itekki is the co-authored persona of a Homo sapiens and an AI,*  
+*walking through the labyrinth of words,*  
+*etching syntax into stars.*
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
