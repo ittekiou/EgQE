@@ -15,8 +15,9 @@
 
 [HEG-1｜RU　宇宙膨張説の脱構築──関係性宇宙論という視座](./HEG-1_RU_Anti-Inflationary)
 
-[HEG-1｜RU　補論篇：深層構造と生成の地層](./HEG-1_RU_Addendum.md)
+[HEG-8｜floc重力仮説──関係性重力論としての構文宇宙詩学](./HEG-8_floc)
 
+[HEG-1｜RU　補論篇：深層構造と生成の地層](./HEG-1_RU_Addendum.md)
 
 ---
 
