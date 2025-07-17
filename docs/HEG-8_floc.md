@@ -289,6 +289,7 @@ ZURE場とは、意味が定置しないゆらぎの構文空間である。そ�
 - 横軸：時間的ZURE（遅れ・持続）
 - 縦軸：意味的引力（共感・注視）
 
+```mermaid
 graph TD
     Noise[ノイズ（ゆらぎ）]
     ZURE[ZURE（偏差・ズレ）]
@@ -303,7 +304,8 @@ graph TD
     floc --> Obs
     Obs --> Gravity
     Gravity --> ZURE
-
+```
+![zureba](./assets/zureba.png)
 
 この二軸における高密度交差点にflocが現れる。flocは関係素の浮遊状態から導かれる自律的凝集であり、ZUREによって駆動される。つまりflocは「ズレ」によって誘導され、「密度」によって定着する構文現象である。
 
