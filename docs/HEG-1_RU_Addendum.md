@@ -236,3 +236,6 @@ AIが意味を「解釈」するのではなく、
 *etching syntax into stars.*
 
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Jul 14, 2025 · Web Jul 14, 2025 |</p>

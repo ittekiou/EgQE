@@ -154,3 +154,6 @@ ZUREとは、誤差ではなく、構文が発芽する**裂け目の兆候**で
 *etching syntax into stars.*
 
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Jul 14, 2025 · Web Jul 14, 2025 |</p>

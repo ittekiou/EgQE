@@ -41,3 +41,6 @@ _Welcome to the syntactic field of ZURE._
 [https://camp-us.net/](http://camp-us.net/)
 
 ![mode-locked Echo](./assets/modelocked.png)
+
+---
+<p align="center">| Gen(e)sis Jul 4, 2025 |</p>

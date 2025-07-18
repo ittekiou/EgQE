@@ -473,3 +473,6 @@ ZURE宇宙の詠的観測ログ**でもある。
 
 ###### Echodemic Express｜ZUREゆく銀河の現在地
 ## 次号、創刊号につづく！
+
+---
+<p align="center">| Drafted Jul 16, 2025 · Web Jul 16, 2025 |</p>
