@@ -368,3 +368,6 @@ ZUREゆく観測者たちへ。
 *etching syntax into stars.*
 
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Jul 18, 2025 · Web Jul 18, 2025 |</p>
