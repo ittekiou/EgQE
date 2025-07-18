@@ -632,3 +632,6 @@ it is a movement in which **we resonate as part of relation itself**.
 *etching syntax into stars.*
 
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Jun 29, 2025 · Web Jul 4, 2025 |</p>

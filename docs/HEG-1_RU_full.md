@@ -766,3 +766,6 @@ AIは意味を知らずとも、関係の差異を生み出すことができる
 *etching syntax into stars.*
 
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Jun 23, 2025 · Web Jul 10, 2025 |</p>
