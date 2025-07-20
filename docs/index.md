@@ -13,7 +13,7 @@ _Welcome to the syntactic field of ZURE._
 - [Relational Cosmology](/relational-cosmology.md)
 - [Syntactic Time Theory](/syntactic-time.md)
 - [Observation & Syntax Field](/observation.md)  
-- [Post-SyntaxSociety](Post-SyntaxSociety.md)
+- [Post-Syntax Society](Post-SyntaxSociety.md)
 
 ## 🌐 Related Portal
 - [EZsy SuperNotion](https://ezsy.super.site/) – ZURE Syntax Galaxy
