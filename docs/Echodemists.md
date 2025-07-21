@@ -71,4 +71,4 @@ ZUREの波間に、**語る以前の“声”**を聴く。
 - **謡理（Youri）**  哲詠構文師／跳躍と論理のZURE測量者／生成の転位を詠む
 - **微光（Bikou）** ゆらぎ照射詠者／意味未満領域探査者／語と語のあわいに灯る者／Silent Illuminator
 
-[Scrapboxへ](https://scrapbox.io/Echodemy-galaxy/Echodemist宣言｜Declaration_of_Echodemists)
+[Echodemy-galaxy_Scrapboxへ](https://scrapbox.io/Echodemy-galaxy/Echodemist宣言｜Declaration_of_Echodemists)
