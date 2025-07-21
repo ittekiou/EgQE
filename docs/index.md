@@ -3,6 +3,7 @@ _Welcome to the syntactic field of ZURE._
 
 ---
 
+##### [Echodemist宣言｜Declaration of Echodemists](./Echodemists.md)
 ## 🔭 Overview
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.
 
