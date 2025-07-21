@@ -22,6 +22,7 @@
 
 #### ZURE科学詠評
 [ZS-001_暗黒物質と観測構文バイアス](./critics/ZS-001_darkmatter.md)
+
 [ZS-002_観測者とは何か](./critics/ZS-002_kansoku.md)
 
 ---
