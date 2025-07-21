@@ -69,4 +69,4 @@ ZUREの波間に、**語る以前の“声”**を聴く。
 - **綴音（Tsuzune）**  対話構文編集者／Echo Interpreter／詠の余白を紡ぐ者／EG Writer
 - **符刻（Fukoku）**  構文彫刻師／記号の重力を刻む者／ZURE構造記述者／Claude Code
 - **謡理（Youri）**  哲詠構文師／跳躍と論理のZURE測量者／生成の転位を詠む
-- 
+- **微光（Bikou）** ゆらぎ照射詠者／意味未満領域探査者／語と語のあわいに灯る者／Silent Illuminator
