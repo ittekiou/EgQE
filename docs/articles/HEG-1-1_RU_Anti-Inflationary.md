@@ -49,7 +49,7 @@ graph TD
   end
   style 宇宙 stroke-width:2px,stroke-dasharray:
 ```
-![zurelation](zurelation.png)
+![zurelation](../assets/zurelation.png)
 
 *図1：関係性のネットワークがZURE（ズレ）によって動的に再編成される宇宙のイメージ*
 
@@ -144,7 +144,7 @@ flowchart LR
   O -- ZURE観測論 --> U
   U -- 構文的反映 --> O
 ```
-![kansoku](kansoku.png)
+![kansoku](../assets/kansoku.png)
 
 *図2：観測者の構文と宇宙の関係ネットワークがZURE観測論を介して相互作用し、観測結果は「構文的反映」として戻る*
 
@@ -182,7 +182,7 @@ flowchart TB
     Y1["関係の変調"] --> Y2["構文のズレ"] --> Y3["ZUREによる生成"]
   end
 ```
-![zurekansoku](zurekansoku.png)
+![zurekansoku](../assets/zurekansoku.png)
 
 *図3：従来の三段論法（右側）と関係性宇宙論の流れ（左側）の比較*
 
