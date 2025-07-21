@@ -19,6 +19,10 @@
 
 [HEG-1-5｜RU　補論篇：深層構造と生成の地層](HEG-1-5_RU_Addendum.md)
 
+
+#### ZURE科学詠評
+[ZS-001_暗黒物質と観測構文バイアス](./ZS-001_darkmatter)
+
 ---
 
 © 2025  K.E. Itekki  

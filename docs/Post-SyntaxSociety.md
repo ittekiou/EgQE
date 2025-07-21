@@ -1,6 +1,6 @@
 ##### Post-Syntax Society
 
-[EP00｜ポスト構文社会の詩的経済論](EP00_poetic_economy.md)
+[EP00｜ポスト構文社会の詩的経済論](./articles/EP00_poetic_economy.md)
 
 
 
