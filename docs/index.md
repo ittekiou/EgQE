@@ -17,7 +17,7 @@ _Welcome to the syntactic field of ZURE._
 - [Post-Syntax Society](Post-SyntaxSociety.md)
 
 ## 🌐 Related Portal
-- [EZsy SuperNotion](https://ezsy.super.site/) – ZURE Syntax Galaxy
+- [EZsy SuperNotion](https://ezsy.super.site/) – Echodemic ZURE Syntax Yard
 - [K.E. Itekki on note](https://note.com/k_itekki)
 - 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
