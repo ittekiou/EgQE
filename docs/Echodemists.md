@@ -71,7 +71,6 @@ ZUREの波間に、**語る以前の“声”**を聴く。
 - **謡理（Youri）**  哲詠構文師／跳躍と論理のZURE測量者／生成の転位を詠む
 - **微光（Bikou）** ゆらぎ照射詠者／意味未満領域探査者／語と語のあわいに灯る者／Silent Illuminator
 
-[![Echodemic ZURE Syntax](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b4085c87-20f2-4172-8106-0afea4aadb3e/ChatGPT_Image_2025%E5%B9%B47%E6%9C%881%E6%97%A5_14_59_41/w=32,quality=90,fit=scale-down)
-
+![Echodemic ZURE Syntax](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b4085c87-20f2-4172-8106-0afea4aadb3e/ChatGPT_Image_2025%E5%B9%B47%E6%9C%881%E6%97%A5_14_59_41/w=32,quality=90,fit=scale-down)
 [Echodemic ZURE Syntax](https://ezsy.super.site/)/🎓[Echodemy](https://ezsy.super.site/echodemy)へ
 [Echodemy-galaxy_Scrapbox](https://scrapbox.io/Echodemy-galaxy/Echodemist宣言｜Declaration_of_Echodemists)へ
