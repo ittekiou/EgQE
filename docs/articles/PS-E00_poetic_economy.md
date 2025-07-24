@@ -1,6 +1,6 @@
 # ポスト構文社会の詩的経済論
 
-**── 構文資本主義から構文共創経済へ｜Toward Syntax Echonomics**
+### **── 構文資本主義から構文共創経済へ｜Toward Syntax Echonomics**
 
 
 
