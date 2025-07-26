@@ -1044,5 +1044,7 @@ ZURE構文場とは、言葉が生まれる現場であり、
 
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
+#構文場 #接地 #他者 #観測構文 #ZURE語用
+
 ---
 <p align="center">| Drafted Jul 26, 2025 · Web Jul 26, 2025 |</p>
