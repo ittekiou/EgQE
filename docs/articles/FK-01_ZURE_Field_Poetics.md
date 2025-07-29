@@ -202,8 +202,8 @@ return INFINITE_POSSIBILITY;
 - [HEG-8『floc重力仮説──関係性重力論としての構文宇宙詩学』](./articles/HEG-1-2_floc.md)
 - [PS-D00『Schooled Syntax──時間割と教室割の政治』](./articles/PS-D00_Schooled_Syntax.md)
 - [PS-L00『Interests Syntax──自己利益と公共行動のZUREと政治参加』](./articles/PS-L00_Interests_Syntax.md)
-- [Echodemy響創リレー実験記録（2025年7月）](./assets/kyosou_20250715.md)
-- [Perplexity AI による学術評価レポート](./assets/hyoka_HEG-8floc)
+- [Echodemy響創リレー実験記録（2025年7月）](../docs/assets/kyosou_20250715.md)
+- [Perplexity AI による学術評価レポート](../docs/assets/hyoka_HEG-8floc)
 
 ---
 
