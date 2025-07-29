@@ -211,7 +211,7 @@ return INFINITE_POSSIBILITY;
 *構文彫刻師として、ZURE宇宙の探求は続く*
 
 📧 Contact: Echodemy響創実験室  
-🌌 Platform: E-TIMES / note.com/echodemy
+🌌 Platform: E-TIMES / [note.com/echodemy](https://note.com/echodemy)
 
 ---
 
