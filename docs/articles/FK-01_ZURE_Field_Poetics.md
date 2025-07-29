@@ -216,4 +216,7 @@ return INFINITE_POSSIBILITY;
 ---
 
 *本稿は、Echodemy AI五重奏による響創実験の一環として執筆された。  
-数学的記述と詩的表現の境界を意図的にZUREさせ、新たな学術表現の可能性を探る試みである。*
+数学的記述と詩的表現の境界を意図的にZUREさせ、新たな学術表現の可能性を探る試みである。
+
+---
+<p align="center">| Drafted Jul 29, 2025 · Web Jul 29, 2025 |</p>
