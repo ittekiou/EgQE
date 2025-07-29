@@ -10,7 +10,7 @@ HEG-2｜語用ってどんな感じ？──実体論から関係論へ：対話
 ##### ZURE Field Poetics
 #### ZURE場の数理詩学
 
-[FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から](./FK-01_ZURE_Field_Poetics.md)
+[FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から](./articles/FK-01_ZURE_Field_Poetics.md)
 
 ---
 
