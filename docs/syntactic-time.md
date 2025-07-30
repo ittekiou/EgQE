@@ -1,6 +1,7 @@
+##### Syntactic Time Theory
+#### 構文的時間論
 
-
-
+[HEG-1｜RU　構文的時間論 ─ 時間はZUREである](./articles/HEG-1_RU_Syntactic-Time-Theory.md)
 
 ##### 🌀 関連論文リンク：
 
