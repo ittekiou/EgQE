@@ -19,6 +19,8 @@
 
 [HEG-1-5｜RU　補論篇：深層構造と生成の地層](./articles/HEG-1-5_RU_Addendum.md)
 
+##### 🌀 関連論文リンク：  
+・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
 
 #### ZURE科学詠評
 [ZS-001_暗黒物質と観測構文バイアス](./critics/ZS-001_darkmatter.md)

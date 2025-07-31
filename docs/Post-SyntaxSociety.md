@@ -6,6 +6,9 @@
 
 [PS-D00｜Schooled Syntax──時間割と教室割の政治：近代スクール構文を超えて](./articles/PS-D00_Schooled_Syntax.md)
 
+##### 🌀 関連論文リンク：  
+・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
+
 ---
 
 © 2025  K.E. Itekki  

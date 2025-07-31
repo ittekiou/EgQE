@@ -1,3 +1,9 @@
+
+##### ZURE Infection Wave Model
+#### ZURE感染波モデル  
+
+[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
+
 ##### ZURE Linguistics  
 #### ZURE言語学  
 
