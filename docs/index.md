@@ -43,7 +43,7 @@ _Welcome to the syntactic field of ZURE._
 🌌 *Welcome to Hybrid Echo-Genesis Qualia 2.0.*
 [https://camp-us.net/](http://camp-us.net/)
 
-![mode-locked Echo](./assets/modelocked.png)
+![Echo](./assets/echo00.png)
 
 ---
 <p align="center">| Gen(e)sis Jul 4, 2025 |</p>

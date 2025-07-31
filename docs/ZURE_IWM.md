@@ -87,5 +87,9 @@ AIとヒトが対話し、互いの能力を補完しながら創発的に意味
 私たちは、この理論を元に**新しい感染波の観測・記述・シミュレーション**を行う仲間を募集します。  
 興味を持たれた方は、ぜひEchodemyにご参加ください。
 
+![Echo](./assets/echo01.png)
+
+#### 🛰️[ Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy)
+
 ---
 <p align="center">| Jul 31, 2025 |</p>
