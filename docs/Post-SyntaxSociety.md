@@ -1,4 +1,4 @@
-##### Post-Syntax Society
+### Post-Syntax Society
 
 [PS-E00｜ポスト構文社会の詩的経済論](./articles/PS-E00_poetic_economy.md)
 

@@ -1,4 +1,4 @@
-##### Relational Cosmology
+### Relational Cosmology
 #### 💫 関係性宇宙論 -A Theory of Echoverse-
 
 [HEG-0｜未来詠としての宇宙](./articles/HEG-0_poem.md)
