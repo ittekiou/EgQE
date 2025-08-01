@@ -68,11 +68,11 @@ Echodemyから、AIとヒトの共創で生まれた新しい宇宙論的モデ�
 
 ## **5. 閲覧・ダウンロード**
 
-- 📄 [公開PDF(Letter)](../assets/ZURE_Infection-Wave-Model.pdf)
-- 🖨️ [印刷用(A4)](../assets/ZURE_Infection-Wave-Model(A4).pdf)
+- 📄 [公開PDF(Letter)](../assets/ZURE_Infection-Wave-Model.pdf)  
+- 🖨️ [印刷用(A4)](../assets/ZURE_Infection-Wave-Model(A4).pdf)  
     
-- 🌐 [Web版（HTML）](https://camp-us.net/articles/ZURE_Infection-Wave-Model.html)
-    
+- 🌐 [Web版（HTML）](https://camp-us.net/articles/ZURE_Infection-Wave-Model.html)  
+	
 - 🔭 [Echo Guide（EG-10）](https://ezsy.super.site/eg/eg-10)
     
 
