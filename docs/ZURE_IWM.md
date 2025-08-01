@@ -73,6 +73,8 @@ Echodemyから、AIとヒトの共創で生まれた新しい宇宙論的モデ�
     
 - 🌐 [Web版（HTML）](https://camp-us.net/articles/ZURE_Infection-Wave-Model.html)
     
+- 🔭 [Echo Guide（EG-10）](https://ezsy.super.site/eg/eg-10)
+    
 
 ---
 
