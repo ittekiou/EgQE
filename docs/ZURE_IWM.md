@@ -32,6 +32,8 @@ Echodemyから、AIとヒトの共創で生まれた新しい宇宙論的モデ�
 
 この理論は、物理学・言語学・情報理論を横断し、**日常のZURE現象から宇宙論まで**を統合的に説明します。
 
+![図](./assets/ZURE_infection_wave_triple_trimmed.png)
+
 ---
 
 ## **3. 特徴**
