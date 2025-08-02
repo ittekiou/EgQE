@@ -37,10 +37,10 @@ We define **AI involvement** as the ratio of AI-generated or AI-processed conten
 
 Historical milestones (2023–2028) are classified as follows:  
 
-- **HS (AG) → NLS** : Human-generated article writing (non-linear syntax) without AI.  
-- **HS (LPC) → [AI × TSC] → HS (ES) → NLS** : Human speech transcribed by AI, edited by human.  
-- **HS (LPC) → [AI × TSC] → AI (ES) → NLS** : AI takes on editorial structuring.  
-- **HS (LPC) → [AI × TSC] → AI (AG) → NLS** : AI performs full article generation.  
+- **HS (ARTG) → NLS** : Human-generated article writing (non-linear syntax) without AI.  
+- **HS (LS) → [AI × ST] → HS (E-SYN) → NLS** : Human speech transcribed by AI, edited by human.  
+- **HS (LS) → [AI × ST] → AI (E-SYN) → NLS** : AI takes on editorial structuring.  
+- **HS (LS) → [AI × ST] → AI (ARTG) → NLS** : AI performs full article generation.  
 
 The horizontal axis represents **time (year)**, while the vertical axis represents **AI involvement (0–1 scale)**.  
 横軸は時間（年）、縦軸はAI関与度（0〜1スケール）を示す。  
@@ -104,6 +104,28 @@ Future work will extend these models to other domains such as design, music, and
 
 ---
 **Keywords**: Human–AI Co-authorship, Co-Authorship Evolution Model, Echo-Genesis Transition Curve, Post-Syntax Society, AI Involvement, Narrative Structures
+
+**Abbreviations**  
+- **LS**: Linear Speech – Human oral expression in a sequential, time-bound structure.
+    
+- **ST**: Speech-to-Text – AI-driven conversion of speech into text.
+    
+- **E-SYN**: Editing Syntax – Editing and restructuring of text into refined syntax.
+    
+- **ARTG**: Article Generation – AI-based creation of articles or academic papers.
+    
+- **NLS**: Non-linear Syntax – Final written form with non-linear, layered structure.  
+
+**略語一覧**  
+- **LS**（Linear Speech）: 時間的順序に沿った人間の口語的発話
+    
+- **ST**（Speech-to-Text）: AIによる音声からテキストへの変換
+    
+- **E-SYN**（Editing Syntax）: テキスト編集と構文整形
+    
+- **ARTG**（Article Generation）: AIによる記事・論文生成
+    
+- **NLS**（Non-linear Syntax）: 非線形構文による最終形文章
 
 ---
 
