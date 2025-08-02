@@ -14,6 +14,7 @@ _Welcome to the syntactic field of ZURE._
 
 ## 🪐  EJRU──Echodemy Journal of Relational Universe  
 - [Vol.000 創刊準備号｜EJRU｜関係性宇宙論ジャーナル｜Ecodemy](./Echodemy/EJRU_0.md)  
+- [特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy](./Echodemy/EJRU_1.md)　🖨️ [公開PDF(A4)](../assets/EJRU_1.pdf)
 
 ## 🌀 Current Modules  
 - [Relational Cosmology](/relational-cosmology.md)  
