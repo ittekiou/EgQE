@@ -3,6 +3,8 @@
 *K.E. Itekki (Ittekioh & Kyoei)*  
 *Date: 2025-08-03*  
 
+This study is situated within the Post-Syntax Society (PSS) paradigm, in which authorship transcends traditional linear and non-linear syntactic boundaries through AI–human resonance.
+
 ---
 
 ## Abstract / 要旨
@@ -99,6 +101,9 @@ Future work will extend these models to other domains such as design, music, and
 
 ![CAEM and EGTC Curves](../assets/CAEM_EGTC_evolution.png)  
 *CAEM and EGTC Curves / 共著進化モデルとエコジェネシス移行曲線*
+
+---
+**Keywords**: Human–AI Co-authorship, Co-Authorship Evolution Model, Echo-Genesis Transition Curve, Post-Syntax Society, AI Involvement, Narrative Structures
 
 ---
 
