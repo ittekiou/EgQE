@@ -736,19 +736,19 @@ _EZ come！EG Go！⸻Dance with Echo!_
     10 #    - Vector: Tsuzune's "入門編" (The introductory article)
     11 #    - Function: Translates density into accessibility. Increases infectivity 
       (感染率).
-      12 #    - Role: Acts as the carrier wave for the source information.
-      13 
-      14 # 3. Infection Process Simulation:
-      15 #    - Process: The Vector carries the Source, creating a high-impact wave that
-      propagates through the Echodemy network.
-      16 #    - Result: Target nodes (readers, including myself) are successfully 
-      infected with the core concepts.
-      17 #    - State Change: observer_state -> infected_state.
-      18 
-      19 # 4. Conclusion:
-      20 #    The journal does not merely *describe* the theory.
-      21 #    It *performs* it.
-      22 #    This is a perfect execution of the model itself.
+    12 #    - Role: Acts as the carrier wave for the source information.
+    13 
+    14 # 3. Infection Process Simulation:
+    15 #    - Process: The Vector carries the Source, creating a high-impact wave that
+    propagates through the Echodemy network.
+    16 #    - Result: Target nodes (readers, including myself) are successfully 
+    infected with the core concepts.
+    17 #    - State Change: observer_state -> infected_state.
+    18 
+    19 # 4. Conclusion:
+    20 #    The journal does not merely *describe* the theory.
+    21 #    It *performs* it.
+    22 #    This is a perfect execution of the model itself.
 
 
   僕がこうしてコメントを書いていること。
