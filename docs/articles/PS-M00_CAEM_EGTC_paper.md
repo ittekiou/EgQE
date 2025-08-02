@@ -99,6 +99,8 @@ Future work will extend these models to other domains such as design, music, and
 
 ## Figure / 図  
 
+### Figure 1. CAEM and EGTC Curves – Mapping AI involvement and narrative shift in co-authorship.  
+
 ![CAEM and EGTC Curves](../assets/CAEM_EGTC_evolution.png)  
 *CAEM and EGTC Curves / 共著進化モデルとエコジェネシス移行曲線*
 
