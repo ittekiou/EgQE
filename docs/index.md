@@ -32,7 +32,7 @@ _Welcome to the syntactic field of ZURE._
 
 ## 🛠️ Repository Structure  / Ship's Log
 
-  Index/
+  Index/  
   articles/  
   assets/  
   critics/  
