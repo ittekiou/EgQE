@@ -35,7 +35,7 @@ _Welcome to the syntactic field of ZURE._
  README.md  
  docs/  
  [DialogueSeeds_2025-26](./DialogueSeeds_2025-26.md)  
-[k.i-log｜銀河航路季](https://ezsy.super.site/ki-log)
+ [k.i-log｜銀河航路季](https://ezsy.super.site/ki-log)
 
 ---
 
