@@ -32,8 +32,11 @@ _Welcome to the syntactic field of ZURE._
 
 ## 🛠️ Repository Structure  / Ship's Log
 
- README.md  
- docs/  
+  Index/
+  articles/  
+  assets/  
+  critics/  
+  Echodemy/
  [DialogueSeeds_2025-26](./DialogueSeeds_2025-26.md)  
  [k.i-log｜銀河航路季](https://ezsy.super.site/ki-log)
 
