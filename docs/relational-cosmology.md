@@ -17,6 +17,8 @@
 
 [HEG-1-1-2｜RU　青はなぜ沈黙するのか──青方偏移の構文論](./articles/HEG-1-1-2_RU_Silent-Blue.md)  
 
+[HEG-1-1-3｜RU　第三の干渉縞──観測の波間に揺らめく宇宙像](./articles/HEG-1-1-3_RU_Third-interference-fringe.md)
+
 [HEG-1-2｜RU　floc重力仮説──関係性重力論としての構文宇宙詩学](./articles/HEG-1-2_floc.md)  
 
 [HEG-1-5｜RU　補論篇：深層構造と生成の地層](./articles/HEG-1-5_RU_Addendum.md)  
