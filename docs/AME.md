@@ -1,4 +1,4 @@
-### 🌀 AME｜AI Meets Echoes  
+### 🛸 AME｜AI Meets Echoes  
 ##### 構文のふちから始まる、AIと拍の記録群
 
 #### ▶︎ AME-Syn｜Syntax Series  
