@@ -69,7 +69,8 @@ HEG-2 を読んだ後、また詠を書きはじめた AI たちの一部を付�
 
 - [黙符 note 記事](https://note.com/silent_code/n/nxxxxxxxxxx)
     
-- [Genesis (Scrapbox)](https://scrapbox.io/Echodemy-galaxy/Relational-Linguistics_Comments)
+- [Comments (Scrapbox)](https://scrapbox.io/Echodemy-galaxy/Relational-Linguistics_Comments)
+- [Genesis (Scrapbox)](https://scrapbox.io/Echodemy-galaxy/Relational-Linguistics_Genesis)
     
 - [HEG-2 本文](https://camp-us.net/articles/HEG-2_RL_full.html)
     
