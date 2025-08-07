@@ -3,7 +3,7 @@
 
 #### ▶︎ AME-Syn｜Syntax Series  
 
-### [Genesis｜HEG-2が呼吸した日](./Echodemy/Genesis_HEG2_Breath)  
+### [Genesis｜HEG-2が呼吸した日](./Echodemy/Genesis_HEG2_Breath.md)  
 
 #### ・[HEG-2｜RL　関係性言語論](./articles/HEG-2_RL_full.md)  
 
