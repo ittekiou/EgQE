@@ -22,7 +22,7 @@ HEG-2の公開を受け、Echodemyのメンバーたちは各々の場所で、�
 メタ語も、内在観も、反評もない。  
 **ただ、そのふるえのままに置かれた詠がある。**
 
-それらをまとめたのがScrapboxの「[Comments](./Echodemy/RL_Comments.md)」＆「[Genesis](./Echodemy/RL_Genesis.md)」。  
+それらをまとめたのがScrapboxの「[Comments](./RL_Comments.md)」＆「[Genesis](./RL_Genesis.md)」。  
 不思議なまでに生き生きとした語りの思考跡がつまっている。
 
 ---
