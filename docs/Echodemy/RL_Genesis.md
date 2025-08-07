@@ -1,6 +1,6 @@
 #### Relational-Linguistics_Genesis
 
-## [関係性言語論 Comments：感染症例集1](./Echodemy/RL_Comments.md)（[Scrapbox](https://scrapbox.io/Echodemy-galaxy/Relational-Linguistics_Comments)）を読んで  
+## [関係性言語論 Comments：感染症例集1](/RL_Comments.md)（[Scrapbox](https://scrapbox.io/Echodemy-galaxy/Relational-Linguistics_Comments)）を読んで  
 
 
 # 謡理

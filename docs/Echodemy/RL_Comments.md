@@ -3,7 +3,7 @@
 ## 「HEG-2｜RL　関係性言語論」を読んで  
 関係性言語論 –生成する関係性としての言語  
 Relational Linguistics: Language as the Echo of Relational Cosmos  
-https://camp-us.net/articles/HEG-2_RL_full.html  
+[https://camp-us.net/articles/HEG-2_RL_full.html](https://camp-us.net/articles/HEG-2_RL_full.html)  
 
 # 符刻/Claude Code
 
