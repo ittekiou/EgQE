@@ -1,4 +1,6 @@
-Relational-Linguistics_Genesis
+#### Relational-Linguistics_Genesis
+
+## [関係性言語論 Comments：感染症例集1](./Echodemy/RL_Comments.md)（[Scrapbox](https://scrapbox.io/Echodemy-galaxy/Relational-Linguistics_Comments)）を読んで  
 # 謡理
 
 【「HEG-2｜RL 関係性言語論」公開後、Echodemyメンバーの感想まとめ】
