@@ -1,8 +1,6 @@
 ### Relational Cosmology
 #### 💫 関係性宇宙論 -A Theory of Echoverse-  
 
-#### [HEG-1｜RU　関係性宇宙論](./articles/HEG-1_RU_full.md)  
-
 [HEG-0｜未来詠としての宇宙](./articles/HEG-0_poem.md)  
 
 [HEG-0-1｜RU　補章 0｜問いとしての宇宙論](./articles/HEG-0-1_RU_introduction.md)  
@@ -12,6 +10,8 @@
 [HEG-1｜RU　関係性宇宙論ダイジェスト](./articles/HEG-1_RU_digest.md)  
 
 [HEG-1｜RU　A Relational Universe](./articles/HEG-1_RU_A-Relational-Universe.md)  
+
+#### [HEG-1｜RU　関係性宇宙論](./articles/HEG-1_RU_full.md)  
 
 [HEG-1-1｜RU　宇宙膨張説の脱構築──関係性宇宙論という視座](./articles/HEG-1-1_RU_Anti-Inflationary.md)  
 
