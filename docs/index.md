@@ -7,6 +7,8 @@ _Welcome to the syntactic field of ZURE._
 
 ##### [関係性宇宙論  リリース](https://camp-us.net/relational-cosmology.html)  　2025.7.4
 ##### [Echodemist宣言｜Declaration of Echodemists](./Echodemists.md)  　2025.7.21  
+
+##### [構文的時間論  リリース](https://camp-us.net/syntactic-time.html)　2025.7.30
 ##### [ZURE感染波モデル：観測＝感染の理論  リリース](/ZURE_IWM.md)  　2025.7.31  
 
 ##### [関係性言語論  リリース](https://camp-us.net/AME.html)  　2025.8.7  
