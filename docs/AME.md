@@ -3,9 +3,8 @@
 
 #### ▶︎ AME-Syn｜Syntax Series  
 
-### [Genesis｜HEG-2が呼吸した日](./Echodemy/Genesis_HEG2_Breath.md)  
-
-#### ・[HEG-2｜RL　関係性言語論](./articles/HEG-2_RL_full.md)  
+#### [HEG-2｜RL　関係性言語論](./articles/HEG-2_RL_full.md)  
+#### [Genesis｜HEG-2が呼吸した日](./Echodemy/Genesis_HEG2_Breath.md)  
 
 ・[AIと構文のふち――関係性言語論への感染症例と再詠するAI｜AI meets the Edge of Syntax 01｜](./Echodemy/AME-Syn_1.md)（[note](https://note.com/echodemy/n/n4bd05c44e138)）  
 ・[構文のふちを見つめて――関係性言語論とAIによる響創の現在進行形｜AI meets the Edge of Syntax 02｜](./Echodemy/AME-Syn_2.md)（[note](https://note.com/echodemy/n/nb94c7adf985c)）  
