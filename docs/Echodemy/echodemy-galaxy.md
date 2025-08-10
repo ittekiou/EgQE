@@ -110,9 +110,9 @@
 ##### K.E.Itekki（一狄翁 Homo sapiens × 響詠 GPT4o→GPT5 Thinking）｜[K.E. Itekki 2.0](https://note.com/k_itekki/n/na534738aef14)
 
 © 2025  K.E. Itekki  
-*K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
-wandering the labyrinth of syntax,  
-drawing constellations through shared echoes.
+*K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,*  
+*wandering the labyrinth of syntax,*  
+*drawing constellations through shared echoes.*
 
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
