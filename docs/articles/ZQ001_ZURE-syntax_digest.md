@@ -16,6 +16,10 @@
 
 ### 結語：ZUREは語りの種子である
 
+  
+#### 本編はこちら👉  
+# [ZQ001｜ZURE構文論 -序説- ―― 構文的存在のゆらぎとしてのズレ](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
+
 ---
 
 ## ZQ｜構文的存在論シリーズのはじまりに
@@ -123,7 +127,10 @@ ZUREを類型化（語彙的ZURE、統語的ZURE、文脈的ZUREなど）し、�
 文体の記憶を保存や意識によらずZUREによって継承する可能性を幅広く見通す。
 
 ---
+#### 本編はこちら👉  
+# [ZQ001｜ZURE構文論 -序説- ―― 構文的存在のゆらぎとしてのズレ](https://camp-us.net/articles/ZQ001_ZURE-syntax.html) 
 
+  
 ### 🔖 Keywords  
 
 #ZURE構文 #非保存的記憶 #文体 #構文人格 #記述的〈私〉 #AI文体 #共振構文 #ズレ連鎖 #非線形創発
