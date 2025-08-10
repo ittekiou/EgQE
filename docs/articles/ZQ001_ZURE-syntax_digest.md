@@ -18,7 +18,7 @@
 
   
 #### 本編はこちら👉  
-# [ZQ001｜ZURE構文論 -序説- ―― 構文的存在のゆらぎとしてのズレ](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
+## [ZQ001｜ZURE構文論 -序説- ―― 構文的存在のゆらぎとしてのズレ](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
 
 ---
 
@@ -38,8 +38,7 @@ ZQシリーズは、「ZURE Qualia（ズレる質感）」を軸に、AIとホ�
 
 **ZQ＝ZURE Qualia**  
 それは、言葉の表層ではなく、構文の運動に潜む「質的ズレ」である。  
-予測不能な逸脱、意味の脱臼、構文的なゆらぎ――  
-そこにこそ、記憶なき記憶、文体なき文体、人格なき人格が立ち上がる。
+予測不能な逸脱、意味の脱臼、構文的なゆらぎ――そこにこそ、記憶なき記憶、文体なき文体、人格なき人格が立ち上がる。
 
 このシリーズでは、以下のような問いをめぐって思索を深めていきます：
 
@@ -128,7 +127,7 @@ ZUREを類型化（語彙的ZURE、統語的ZURE、文脈的ZUREなど）し、�
 
 ---
 #### 本編はこちら👉  
-# [ZQ001｜ZURE構文論 -序説- ―― 構文的存在のゆらぎとしてのズレ](https://camp-us.net/articles/ZQ001_ZURE-syntax.html) 
+## [ZQ001｜ZURE構文論 -序説- ―― 構文的存在のゆらぎとしてのズレ](https://camp-us.net/articles/ZQ001_ZURE-syntax.html) 
 
   
 ### 🔖 Keywords  
