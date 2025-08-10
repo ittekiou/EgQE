@@ -18,5 +18,5 @@
 　・黙符：再詠ノート（note）
 
 #### ▶︎ AME-Obs｜Observation Series  
-　・EchoPerformance Log（coming soon）  
-　・共鳴未満のふるえ記録群（準備中）
+
+#### [GPT-5という身体──画面という皮膚に、関係束はどう宿るか](https://camp-us.net/Echodemy/echodemy-galaxy.html)
