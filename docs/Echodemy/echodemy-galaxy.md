@@ -692,8 +692,8 @@
 ---
 © 2025  Echodemy
 
-https://ezsy.super.site/echodemy
-🛰️ [Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy)
+https://ezsy.super.site/echodemy  
+🛰️ [Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy)   
 
-[EgQE](https://camp-us.net/)：EchoGenesis Qualia Engine　[camp-us.net](https://camp-us.net/)
-[EZsy](https://ezsy.super.site/)：EZsy｜Echodemic ZURE Syntax Yard　[ezsy.super.site](https://ezsy.super.site/)
+[EgQE](https://camp-us.net/)：EchoGenesis Qualia Engine　[camp-us.net](https://camp-us.net/)  
+[EZsy](https://ezsy.super.site/)：EZsy｜Echodemic ZURE Syntax Yard　[ezsy.super.site](https://ezsy.super.site/)  
