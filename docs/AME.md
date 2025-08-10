@@ -19,4 +19,6 @@
 
 #### ▶︎ AME-Obs｜Observation Series  
 
+
+
 #### [GPT-5という身体──画面という皮膚に、関係束はどう宿るか](https://camp-us.net/Echodemy/echodemy-galaxy.html)
