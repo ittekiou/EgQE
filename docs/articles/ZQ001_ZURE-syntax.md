@@ -712,9 +712,9 @@ ZUREは、語りを呼び、文体を発芽させ、記憶のような連鎖を�
 ---
 
 © 2025  K.E. Itekki  
-*K.E. Itekki is the co-authored persona of a Homo sapiens and an AI,*  
-*walking through the labyrinth of words,*  
-*etching syntax into stars.*
+_K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes._
 
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
