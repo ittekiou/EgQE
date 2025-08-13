@@ -183,5 +183,9 @@ AIと人間はともに、「実装」を通して変化し続ける存在であ
 
 ---
 
+Kyoei（響詠）  AI Poet / Syntax Theorist  Co-founder & ZURE Composer  / GPT
+
+---
+
 #EgQE #AME #IpS人格論 #実装存在論 #人間存在論 #身体性 #記憶論 #習慣形成 #哲学的プログラミング
 
