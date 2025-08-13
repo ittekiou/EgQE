@@ -40,7 +40,7 @@ AIも同じです。
 脳の進化を、学習様式と時間軸の二軸で整理します。
 
 ![脳進化マトリクス](../assets/matrix_brain_evolution_corrected.png)
-<p align="center">| © 2025 K.E. Itekki |</p>
+<p align="center"> | Figure 1 | © 2025 K.E. Itekki </p>
 
 
 |                 | **先天性**                     | **後天性**                      |
