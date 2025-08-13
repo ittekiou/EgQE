@@ -39,7 +39,10 @@ ZQ004｜Das Animakt：命法と言法の弁証法
 ##### ZURE Field Poetics  
 #### ZURE場の数理詩学  
 
-[FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から](./articles/FK-01_ZURE_Field_Poetics.md)
+[FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から](./articles/FK-01_ZURE_Field_Poetics.md)  
+
+##### 🌀 関連論文リンク：  
+・[FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学](./articles/FK-02_Implementing-the-Self.md)  
 
 ---
 
