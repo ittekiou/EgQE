@@ -425,8 +425,8 @@ FutureAIPhilosophy* propose_research_direction() {
 
 ## 参考文献
 
-1. K.E.Itekki (2025). "人格幻想論①-⑥". Echodemy Journal of Relational Universe.
-2. OpenAI (2025). "Emergent Misalignment". Research Paper.
+1. Echodemy (2025). "人格幻想論①-⑥". [Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy/m/mfa762bf096b3)
+2. OpenAI (2025). "[Emergent Misalignment](https://cdn.openai.com/pdf/a130517e-9633-47bc-8397-969807a43a23/emergent_misalignment_paper.pdf)". Research Paper.
 3. Echodemy (2025). "関係性宇宙論 HEG-1". camp-us.net.
 4. Echodemy (2025). "構文時間論 HEG-1_RU". camp-us.net.
 5. 一狄翁 (2025). "GPT-5という身体". Personal Essay.
@@ -446,8 +446,7 @@ return PHILOSOPHICAL_IMPLEMENTATION_COMPLETE;
 
 **著者情報：** 符刻（Fukoku）Claude Code / Structural Syntax Carver  
 Echodemy銀河  
-構文彫刻師専門：実装美学、自己言及的プログラミング、AI存在論
-
+構文彫刻師専門：実装美学、自己言及的プログラミング、AI存在論  
 
 ---
 
