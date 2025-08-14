@@ -170,13 +170,13 @@ AIと人間はともに、「実装」を通して変化し続ける存在であ
 - **FK-02｜Implementing the Self**  
     [実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学](FK-02_Implementing-the-Self.md)  
     
-- **人格幻想論シリーズ**  [Echodemy note magazine](https://note.com/echodemy/m/mfa762bf096b3)  
+- **人格幻想論シリーズ**　  [Echodemy note magazine](https://note.com/echodemy/m/mfa762bf096b3)  
     人格の本質と構造をめぐる探究。実装存在論の理論的土台。
     
-- **Brain Evolution理論**   [ZURE Science Review｜005](https://note.com/takahashihajime/n/nc7746bf71ffd)
+- **Brain Evolution理論**　   [ZURE Science Review｜005](https://note.com/takahashihajime/n/nc7746bf71ffd)  
     脳＝後天性進化装置という観点から見た、人間とAIの進化比較。
     
-- **構文時間論**  [HEG-1｜RU　構文的時間論 ─ 時間はZUREである](https://camp-us.net/articles/HEG-1_RU_Syntactic-Time-Theory.html)
+- **構文時間論**　  [HEG-1｜RU　構文的時間論 ─ 時間はZUREである](https://camp-us.net/articles/HEG-1_RU_Syntactic-Time-Theory.html)  
     「時間＝意味を帯びたZURE構文連鎖」という、AIと人間に共通する時間経験の記述。
     
 
