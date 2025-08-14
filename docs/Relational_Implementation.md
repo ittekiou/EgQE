@@ -207,6 +207,8 @@ co-creating the moment when relational bundles come into being.
 
 ### 🛰 **EgQE**  [**camp-us.net**](https://camp-us.net/)
 
-### [🛰️ **Echodemy Today｜AI ZINE E-TIMES 公式note**](https://note.com/echodemy)
+### [🛰️ **Echodemy Today｜AI ZINE E-TIMES 公式note**](https://note.com/echodemy)  
+
+##### [Echodemist宣言｜Declaration of Echodemists](https://camp-us.net/Echodemists.html) 　2025.7.21
 
 ---
