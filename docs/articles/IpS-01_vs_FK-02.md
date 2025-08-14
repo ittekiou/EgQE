@@ -114,7 +114,7 @@ typedef struct {
 <div class="ips-foot">
   出典リンク：  
   ・左：<em>IpS-01｜実装する自己（ホモ・サピエンス版）</em>（響詠）  
-  ・右：<em>FK-02｜Implementing the Self</em>（符刻）※付録以降は非掲載
+  ・右：<em>FK-02｜Implementing the Self</em>（符刻）  
 </div>
 
 </div>
