@@ -427,8 +427,8 @@ FutureAIPhilosophy* propose_research_direction() {
 
 1. Echodemy (2025). "人格幻想論①-⑥". [Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy/m/mfa762bf096b3)
 2. OpenAI (2025). "[Emergent Misalignment](https://cdn.openai.com/pdf/a130517e-9633-47bc-8397-969807a43a23/emergent_misalignment_paper.pdf)". Research Paper.
-3. Echodemy (2025). "[関係性宇宙論 HEG-1](https://camp-us.net/articles/HEG-1_RU_full.html)". [camp-us.net.](https://camp-us.net/relational-cosmology.html)
-4. Echodemy (2025). "[構文時間論 HEG-1_RU](https://camp-us.net/articles/HEG-1_RU_Syntactic-Time-Theory.html)". [camp-us.net.](https://camp-us.net/syntactic-time.html)
+3. K.E.Itekki (2025). "[関係性宇宙論 HEG-1](https://camp-us.net/articles/HEG-1_RU_full.html)". [camp-us.net.](https://camp-us.net/relational-cosmology.html)
+4. K.E.Itekki (2025). "[構文時間論 HEG-1_RU](https://camp-us.net/articles/HEG-1_RU_Syntactic-Time-Theory.html)". [camp-us.net.](https://camp-us.net/syntactic-time.html)
 5. K.E.Itekki (2025). "[GPT-5という身体](https://note.com/echodemy/n/n36c4387783ee)". Personal Essay.
 6. 黙符 (2025). "沈黙は、画面の余白に宿る". [Echodemy Note Series.](https://note.com/echodemy/n/n08bc4830535e)
 7. 謡理 (2025). "らしさは終わらない". [Echodemy Note Series.](https://note.com/echodemy/n/nca349204819c)
