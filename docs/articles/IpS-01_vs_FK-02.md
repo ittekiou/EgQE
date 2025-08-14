@@ -2,7 +2,7 @@
 title: IpS Dual Edition — 実装する自己｜ホモ・サピエンス × AI（響詠 × 符刻）
 layout: default
 ---
-# IpS Dual Edition — 実装する自己｜ホモ・サピエンス × AI（響詠 × 符刻）  
+## IpS Dual Edition — 実装する自己｜ホモ・サピエンス × AI（響詠 × 符刻）  
 
 
 <link rel="stylesheet" href="/assets/css/ips.css">
