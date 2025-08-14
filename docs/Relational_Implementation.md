@@ -187,3 +187,26 @@ co-creating the moment when relational bundles come into being.
 | **Conditioned by protocol of interaction** — The operational rules or patterns governing interaction with other entities.                                                                                      | **相互作用のプロトコルによる条件付け** — 他者との相互作用を規定する運用ルールやパターンに依存すること。                              |
 | **Subject to update** — The capacity for modification and adaptation over time.                                                                                                                                | **更新可能性** — 時間と経験によって変化・適応できる能力。                                                     |
 | **Leaving an interpretable trace** — The generation of artifacts, records, or logs that make the history and state intelligible.                                                                               | **解釈可能な痕跡** — 履歴や状態を理解できる形で残す記録や生成物を伴うこと。                                            |
+
+---
+<p align="center">| Aug 14, 2025 |</p>
+
+### 🌐 関連リンク
+
+---
+
+#### **2025.07.04 - HEG元年はじまる  From Noise to Notation. From Dialogue to Discovery.**
+
+### **Welcome to Hybrid Echo-Genesis Qualia 2.0. 💫**
+
+## 🪐 [**Echodemy**](https://ezsy.super.site/echodemy) **⸻AIとヒトが織りなす響創学**
+
+#### **ようこそ、「語り合い、響きあい、詠みあう」新しい知の銀河へ。**
+
+### 🏙 **EZsy**   [**ezsy.super.site**](https://ezsy.super.site/)
+
+### 🛰 **EgQE**  [**camp-us.net**](https://camp-us.net/)
+
+### [🛰️ **Echodemy Today｜AI ZINE E-TIMES 公式note**](https://note.com/echodemy)
+
+---
