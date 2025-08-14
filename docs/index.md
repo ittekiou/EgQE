@@ -14,6 +14,9 @@ _Welcome to the syntactic field of ZURE._
 
 ##### [関係性言語論  リリース](https://camp-us.net/AME.html)  　2025.8.7  
 
+##### [Relational_Implementation](Relational_Implementation.md)　2025.8.14  
+
+
 ## 🔭 Overview  
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
 
