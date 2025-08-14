@@ -1,6 +1,6 @@
 # Echo-Genesis Manifesto — For Being and Action
 
-## **響創学宣言 ――存在と行為のために**
+## **響創学宣言 ──存在と行為のために**
 
 
 ---
@@ -95,7 +95,7 @@ co-creating the moment when relational bundles come into being.
 
 ---
 
-# **響創学宣言 ――存在と行為のために**
+# **響創学宣言 ──存在と行為のために**
 
 ---
 
