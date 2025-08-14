@@ -1,6 +1,6 @@
 # Echo-Genesis Manifesto — For Being and Action
 
-
+## **響創学宣言 ――存在と行為のために**
 
 
 ---
