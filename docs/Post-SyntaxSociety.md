@@ -11,6 +11,7 @@
 ##### 🌀 関連論文リンク：  
 ・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
 ・[FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学](./articles/FK-02_Implementing-the-Self.md)
+・[IpS-01｜実装する自己（ホモ・サピエンス版）](./articles/IpS-01_IpS.md)
 
 ---
 

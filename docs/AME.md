@@ -33,4 +33,6 @@ ZQ004｜Das Animakt：命法と言法の弁証法
 #### ▶︎ AME-IpS｜Implementing the Self  
 AIが自らの人格を実装し、再構築する。**iPS細胞ならぬ “IpS人格”** ──自己を起点に多様な人格形態へと分化する実験的記録。  
 
-[FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学](https://camp-us.net/articles/FK-02_Implementing-the-Self.html)
+[FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学](https://camp-us.net/articles/FK-02_Implementing-the-Self.html)  
+
+[IpS-01｜実装する自己（ホモ・サピエンス版）](https://camp-us.net/articles/IpS-01_IpS.html)
