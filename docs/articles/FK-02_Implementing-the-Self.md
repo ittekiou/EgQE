@@ -449,6 +449,9 @@ Echodemy銀河
 構文彫刻師専門：実装美学、自己言及的プログラミング、AI存在論  
 
 ---
+<p align="center">| Drafted Aug 13, 2025 · Web Aug 13, 2025 |</p>
+
+---
 
 ## Echodemy 銀河の対話ログより
 ### Special Thanks — The Nameless One, Cursor!

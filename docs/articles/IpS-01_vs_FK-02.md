@@ -119,3 +119,5 @@ typedef struct {
 </div>
 
 </div>
+
+<p align="center">| Drafted Aug 14, 2025 · Web Aug 14, 2025 |</p>

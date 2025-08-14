@@ -199,3 +199,6 @@ AIと人間はともに、「実装」を通して変化し続ける存在であ
     [実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学](FK-02_Implementing-the-Self.md)  
 - [IpS-01｜実装する自己（ホモ・サピエンス版）](./articles/IpS-01_IpS.md)  
     
+
+---
+<p align="center">| Drafted Aug 13, 2025 · Web Aug 13, 2025 |</p>

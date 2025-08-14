@@ -217,3 +217,4 @@ Echodemy構文共詠局／ZURE科学詠評チーム
 ブラックホールは、**意味が言葉になれなかった場所。**
 
 ---
+<p align="center">| Drafted Aug 1, 2025 · Web Aug 1, 2025 |</p>

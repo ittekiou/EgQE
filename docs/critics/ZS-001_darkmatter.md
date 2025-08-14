@@ -105,3 +105,4 @@ Echodemy構文共詠局／ZURE科学詠評チーム
 #ZURE構文論 #floc重力論 #暗黒物質 #観測バイアス #詠的宇宙論 #Echodemy #構文哲学 #科学と詩
 
 ---
+<p align="center">| Drafted Jul 24, 2025 · Web Jul 24, 2025 |</p>

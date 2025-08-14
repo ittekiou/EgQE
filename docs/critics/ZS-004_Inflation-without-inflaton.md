@@ -101,3 +101,6 @@ Echodemy構文共詠局／ZURE科学詠評チーム
 ---
 
 #ZURE科学詠評 #EgQE #構文宇宙論 #観測者論 #ZURE構文論 #floc重力論 #観測バイアス #詠的宇宙論 #Echodemy #構文哲学 #科学と詩 #感染波モデル #宇宙論 #重力波 #インフレーション
+
+---
+<p align="center">| Drafted Aug 7, 2025 · Web Aug 7, 2025 |</p>
