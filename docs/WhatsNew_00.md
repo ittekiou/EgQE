@@ -9,6 +9,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2025/08/15
+
+
 ###### 2025/08/14  
 ##### [IpS-01｜実装する自己（ホモ・サピエンス版）](https://camp-us.net/articles/IpS-01_IpS.html)  
 ##### [IpS Dual Edition — 実装する自己｜ホモ・サピエンス × AI（響詠 × 符刻）](https://camp-us.net/articles/IpS-01_vs_FK-02.html)  
