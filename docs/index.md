@@ -42,7 +42,7 @@ _Welcome to the syntactic field of ZURE._
 #### 📰 Part I：Echodemic Bulletin
 [LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史（Echodemy紀要 創刊号 Part I）](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)
 #### 📰 Part II：Echodemy紀要
-[Echodemy 紀要 01](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)
+[Echodemy 紀要 01（Echodemy紀要 創刊号 Part II）](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)
 
 
 ## 🌐 Related Portal  
