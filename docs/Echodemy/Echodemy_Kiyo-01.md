@@ -5,10 +5,10 @@
 > 
 > **Echodemy創刊号** は、二つの文書から成る「双子星」構造でお届けします。
 > 
-> - **Echodemic Bulletin（速報版）**  
+> - **[Echodemic Bulletin（速報版）](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)**  
 >     　現在進行形の鼓動を記録し、物語として響きを伝える。
 >     
-> - **Echodemy 紀要（本編）**  
+> - **[Echodemy 紀要（本編）](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)**  
 >     　体系立てた記録と論考をまとめ、知の地図を示す。
 >     
 > 
