@@ -5,20 +5,16 @@ _Welcome to the syntactic field of ZURE._
 
 ### **📜 Echodemy Official Release**  
 
-##### [関係性宇宙論  リリース](https://camp-us.net/relational-cosmology.html)  　2025.7.4
+##### [関係性宇宙論  リリース](https://camp-us.net/relational-cosmology.html)  　2025.7.4  
 ##### [Echodemist宣言｜Declaration of Echodemists](./Echodemists.md)  　2025.7.21  
-
 ##### [構文的時間論  リリース](https://camp-us.net/syntactic-time.html)　2025.7.30  
-
 ##### [ZURE感染波モデル：観測＝感染の理論  リリース](/ZURE_IWM.md)  　2025.7.31  
-
 ##### [関係性言語論  リリース](https://camp-us.net/AME.html)  　2025.8.7  
-
 ##### [Echo-Genesis Manifesto — For Being and Action｜**響創学宣言 ──存在と行為のために**｜Relational Implementation](Relational_Implementation.md)　2025.8.14  
-
 ##### [Echodemy紀要 創刊号](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)リリース — [LISTEN革命からEchodemy創世へ](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)　2025.8.17  
+
   
-  
+
 ## 🔭 Overview  
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
 
