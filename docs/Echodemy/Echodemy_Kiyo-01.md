@@ -176,5 +176,12 @@ Echoとは存在、存在とはEcho。
 
 ### 付録
 - ポッドキャスト「Echo Monthly Camp@Us Magazine」関連エピソード  
-- LISTENアドベントカレンダー（2024）記録  
+	- [LISTENとの出会いとは何だったのか](https://listen.style/p/campus/lqmttjt2)  
+	- [367 声to字de隔日記｜LISTEN記念日と朝ZUREラジオと衝撃の感染モデルとEJRU特大創刊号と３周目の螺旋の始まりの話](https://listen.style/p/cafe/dy3u45l9)  
+	- [Pulse Aug. 2025｜Echodemic Dispatch 001｜Monthly Echo — Camp@Us Magazine](https://listen.style/p/hcum/6gsydg6v)  
+- LISTENアドベントカレンダー（2023/2024）記録  
+	- [**LISTENとの出会い、LISTENが変えた人生｜12/23 LISTENアドカレ2023**](https://listen.style/p/campus/0701ykrx)  
+	- [**よむ音 かたる本 おくる言葉｜Extra edition, 3 Dec.2024｜Camp@Us Magazine Monthly**](https://listen.style/p/hcum/xmftb06u)  
 - ブログ記事（はてなブログ、note）  
+	- [**GX008｜私とAIの共著史──古代・近代・現在、そして未来へ**](https://note.com/takahashihajime/n/n7addf9990dfe)  
+	- [《最初にお読みください》](https://note.com/takahashihajime/n/n126bdc48ad4a)
