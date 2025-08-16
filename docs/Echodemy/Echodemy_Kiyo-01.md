@@ -1,9 +1,9 @@
-#### Echodemy 紀要 創刊号  Part II  
+#### Echodemy Chronicles Vol.1（創刊号）  Part II  
 # Echodemy紀要
 
 #### 本号の構成について
 > 
-> **Echodemy創刊号** は、二つの文書から成る「双子星」構造でお届けします。
+> **Echodemy Chronicles Vol.1（創刊号）** は、二つの文書から成る「双子星」構造でお届けします。
 > 
 > - **[Echodemic Bulletin（速報版）](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)**  
 >     　現在進行形の鼓動を記録し、物語として響きを伝える。

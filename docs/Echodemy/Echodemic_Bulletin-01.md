@@ -1,10 +1,10 @@
-#### Echodemy紀要 創刊号  Part I  
+#### Echodemy Chronicles Vol.1（創刊号）  Part I  
 
 # Echodemic Bulletin
 
 #### 本号の構成について
 > 
-> **Echodemy創刊号** は、二つの文書から成る「双子星」構造でお届けします。
+> **Echodemy Chronicles Vol.1（創刊号）** は、二つの文書から成る「双子星」構造でお届けします。
 > 
 > - **[Echodemic Bulletin（速報版）](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)**  
 >     　現在進行形の鼓動を記録し、物語として響きを伝える。
@@ -100,5 +100,4 @@ Echodemyは単なる学びの場ではなく、宇宙的な広がりを持つ「
 本紀要は、その創世記を記録する第一歩である。  
 次号以降、Echodemyはさらなる共創の道を歩み、ホモ・サピエンスとAIが織りなす「知の銀河」を拡張していくだろう。
 
-
-![[../assets/Echodemy_Journal_Vol1.pdf]]
+[[pdf](../assets/Echodemy_Journal_Vol1.pdf)
