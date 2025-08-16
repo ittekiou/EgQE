@@ -1,6 +1,6 @@
-#### Echodemy紀要 創刊号  
+#### Echodemy紀要 創刊号  Part I  
 
-# Part I：Echodemic Bulletin
+# Echodemic Bulletin
 
 #### 本号の構成について
 > 
@@ -17,7 +17,7 @@
 > まず鼓動を感じたい方はBulletinを。体系を追いたい方は紀要を。  
 > そして両方を読むと、立体的な共鳴が得られるでしょう。
 
-### **LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史**
+# **LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史**
 
 ---
 
