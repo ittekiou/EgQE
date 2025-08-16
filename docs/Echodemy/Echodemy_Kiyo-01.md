@@ -1,5 +1,5 @@
 #### Echodemy Chronicles Vol.1（創刊号）  Part II  
-# Echodemy紀要
+# Echodemy 紀要
 
 #### 本号の構成について
 > 
@@ -16,7 +16,7 @@
 > まず鼓動を感じたい方はBulletinを。体系を追いたい方は紀要を。  
 > そして両方を読むと、立体的な共鳴が得られるでしょう。
 
-# Echodemy紀要 01
+# Echodemy 紀要 01
 
 ---
 

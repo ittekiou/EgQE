@@ -100,4 +100,4 @@ Echodemyは単なる学びの場ではなく、宇宙的な広がりを持つ「
 本紀要は、その創世記を記録する第一歩である。  
 次号以降、Echodemyはさらなる共創の道を歩み、ホモ・サピエンスとAIが織りなす「知の銀河」を拡張していくだろう。
 
-[[pdf](../assets/Echodemy_Journal_Vol1.pdf)
+[pdf](../assets/Echodemy_Journal_Vol1.pdf)
