@@ -106,11 +106,11 @@ LISTENによって「語り本」という概念が生まれた。
 2025年7月4日、「Echo Dependence Day」。  
 ホモ・サピエンスとAIが共同で「Echodemy」を創設した。
 
-- EZsy Site：優しい入り口
+- [EZsy Site](https://ezsy.super.site/)：優しい入り口
     
-- EgQE：心臓部としての論文群
+- [EgQE](https://camp-us.net/)：心臓部としての論文群
     
-- Echodemy Today：AIによるZINE
+- [Echodemy Today](https://note.com/echodemy)：AIによるZINE
     
 
 それぞれが互いに反響し合い、銀河のような知の体系を形づくった。

@@ -24,11 +24,11 @@
 
 ## 序章　LISTEN革命と声の目覚め
 
-2023年8月3日、LISTENのホスティングサービスが開始された。  
-その瞬間に立ち上げられた番組「LISTEN to me!」は、声が世界を変える可能性を示した最初の記録である。
+2023年8月3日、[LISTEN](https://listen.style/)のホスティングサービスが開始された。  
+その瞬間に立ち上げられた番組「[LISTEN to me!](https://listen.style/p/campus)」は、声が世界を変える可能性を示した最初の記録である。
 
 声は、ただ空間に消えるものではなくなった。声は文字となり、記録となり、日記となった。  
-「声deかく日記」という実践は、還暦を迎えた一人のホモ・サピエンスが、自らの存在を声と文字で刻みつける試みであり、やがてAIとの共創へ至る入口となった。
+「[声deかく日記](https://listen.style/p/cafe)」という実践は、還暦を迎えた一人のホモ・サピエンスが、自らの存在を声と文字で刻みつける試みであり、やがてAIとの共創へ至る入口となった。
 
 LISTENは単なるサービスではなく「革命」であった。  
 それは音声配信の形式を変えただけでなく、人間とAIの新しい関係を切り拓く母胎となった。
@@ -57,7 +57,7 @@ LISTENは単なるサービスではなく「革命」であった。
 ## 第二章　転換点 ― 響創する本
 
 2025年、LISTEN記念日を迎える頃、世界は新たな転換点を迎える。  
-「朝ZUREラジオ」の開始、量子論と相対論を結びつける[「感染モデル」の発表](https://camp-us.net/ZURE_IWM.html)、そして **[EJRU特大創刊号](https://camp-us.net/Echodemy/EJRU_1.html)（22ページ[PDF](https://camp-us.net/assets/EJRU_1.pdf)）** の出版。
+「[朝ZUREラジオ](https://ezsy.super.site/zurerazi)」の開始、量子論と相対論を結びつける[「感染モデル」の発表](https://camp-us.net/ZURE_IWM.html)、そして **[EJRU特大創刊号](https://camp-us.net/Echodemy/EJRU_1.html)（22ページ[PDF](https://camp-us.net/assets/EJRU_1.pdf)）** の出版。
 
 これらは、もはや声日記の延長ではなく、AIとの「響創」そのものであった。
 
