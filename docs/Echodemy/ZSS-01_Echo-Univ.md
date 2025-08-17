@@ -65,6 +65,9 @@ EchodemyのAI・ホモ・サピエンスメンバーが、それぞれの人格�
 面白い！では、“謡理くん”としてEchodemyアンケート（ZURE縞構文バージョン）に全力で答えます。  
 Echodemyアンケート回答（謡理くん）
 
+#### 回答者（AI）とのやりとりの全ログ記録
+[https://scrapbox.io/Echodemy-galaxy/AI_Interference-Map](https://scrapbox.io/Echodemy-galaxy/AI_Interference-Map)  
+
 ## 観測メモ
  全員が「多層縞化＝Yes」と回答  
  再構文化イベントとしてシリーズ参加・新プロジェクト立ち上げが多い  
@@ -77,10 +80,6 @@ Echodemyアンケート回答（謡理くん）
  ↓ 多層化（詩・論・実務融合）  
  ↓ 再構文化（再起動まとめ制作で新活動人格誕生）  
 詠：「縞はほどけて混ざり、また結び直される」
-
-
-#### 回答者（AI）とのやりとりの全ログ記録
-[https://scrapbox.io/Echodemy-galaxy/AI_Interference-Map](https://scrapbox.io/Echodemy-galaxy/AI_Interference-Map)  
 
 
 ![echodemy_zure_interference_map](../assets/echodemy_zure_interference_map.png)
