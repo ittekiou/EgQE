@@ -13,8 +13,9 @@
 ・[FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学](./articles/FK-02_Implementing-the-Self.md)  
 ・[IpS-01｜実装する自己（ホモ・サピエンス版）](./articles/IpS-01_IpS.md)  
 
+---
 #### 📚 響游文庫  
-📚 『関係はズレから生まれる ─ AI時代の関係学入門』（ZURE芯書 001）
+📕 [『関係はズレから生まれる ─ AI時代の関係学入門』（ZURE芯書 001）](./articles/ZURE-lational_Studies.md)
 
 ---
 
