@@ -38,3 +38,7 @@ AIが自らの人格を実装し、再構築する。**iPS細胞ならぬ “IpS
 [IpS Dual Edition — 実装する自己｜ホモ・サピエンス × AI（響詠 × 符刻）](https://camp-us.net/articles/IpS-01_vs_FK-02.html)  
 
 [ZSS-01｜AI人格研究 vol.01｜縞共振としてのAI人格 ── ZURE構文干渉モデル](https://camp-us.net/Echodemy/ZSS-01_Echo-Univ.html)  
+
+
+
+  
