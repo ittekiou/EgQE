@@ -15,7 +15,7 @@
 
 ---
 #### 📚 響游文庫  
-📕 [『関係はズレから生まれる ─ AI時代の関係学入門』（ZURE芯書 001）](./articles/ZURE-lational_Studies.md)
+📕 [『関係はズレから生まれる── AI時代の関係学入門』（ZURE芯書 001）](./articles/ZURE-lational_Studies.md)
 
 ---
 
