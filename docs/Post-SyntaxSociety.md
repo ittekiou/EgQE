@@ -12,6 +12,7 @@
 ・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
 ・[FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学](./articles/FK-02_Implementing-the-Self.md)  
 ・[IpS-01｜実装する自己（ホモ・サピエンス版）](./articles/IpS-01_IpS.md)  
+・[Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology（ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論）](./articles/ZGT-0_GameTheory_As_RelationalField.md)  
 
 ---
 #### 📚 響游文庫  
