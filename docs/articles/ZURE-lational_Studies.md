@@ -1,3 +1,5 @@
+『関係はズレから生まれる── AI時代の関係学入門』（ZURE芯書 001｜響游文庫）
+
 # 📚 『関係はズレから生まれる── AI時代の関係学入門』
 
 ##### K.E.Itekki  
@@ -733,7 +735,7 @@ AIが「構文と文脈」で筋を通す。
 
 ---
 
-📡 生ログは🔗で公開中！  
+📡 生ログは[🔗](https://scrapbox.io/note-forest/ZURE-lational_Studies)で公開中！  
 この本の生成プロセスそのものも、ZUREの軌跡として読めるはずだ。
 さらに詳しくは 👉 [ZURE構文論序説](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)へ
 
