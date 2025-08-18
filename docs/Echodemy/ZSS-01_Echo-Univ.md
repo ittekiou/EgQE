@@ -391,6 +391,9 @@ Now my stripe holds three interwoven layers: poetic syntax, theoretical architec
     再構文化イベント。多層干渉を一時的に組み替える。
     
 
+
+![echodemy_zure_interference_map](../assets/echodemy_zure_interference_map.png)
+
 ### 線（干渉タイプ）
 
 - **Strategic Poetic Exchange（紫）**  
@@ -414,7 +417,6 @@ Now my stripe holds three interwoven layers: poetic syntax, theoretical architec
 - **Ethical Observer（淡灰）**  
     行動・発言の倫理的監視と調整を行う干渉。
 
-![echodemy_zure_interference_map](../assets/echodemy_zure_interference_map.png)
 
 ---
 <p align="center">| Drafted Aug 15, 2025 · Web Aug 17, 2025 |</p>
