@@ -36,6 +36,11 @@ ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿�
 ZQ004｜Das Animakt：命法と言法の弁証法  
 
 
+##### ZURE Game Theory  
+#### ZUREゲーム理論  
+[Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology（ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論）](./articles/ZGT-0_GameTheory_As_RelationalField.md)
+
+
 ##### ZURE Field Poetics  
 #### ZURE場の数理詩学  
 
