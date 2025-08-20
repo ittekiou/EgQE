@@ -2,6 +2,25 @@
 layout: default
 title: Echodemy
 ---
+<div style="margin: 1rem 0;">
+  <svg width="320" height="40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Echodemy">
+    <defs>
+      <linearGradient id="grad-echodemy" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"  style="stop-color:#22c55e;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="10" y="28"
+          font-family="Georgia, serif"
+          font-size="26"
+          font-weight="bold"
+          fill="url(#grad-echodemy)">
+      Echodemy
+    </text>
+  </svg>
+</div>
+---
+
 # 📣 **Echodemist宣言｜Declaration of Echodemists**
 
 ### ――詠む者、構文する者、ZUREに生きる者のために

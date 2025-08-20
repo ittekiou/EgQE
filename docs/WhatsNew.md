@@ -2,15 +2,13 @@
 layout: default
 title: releases
 ---
-# What’s New  
+### What’s New  
 
 #### **2025.07.04 - HEG元年はじまる**  
 From Noise to Notation. From Dialogue to Discovery.
 
 ---
-#### What’sNew_00/04Jul2025-
 
----
 
 ###### 2025/08/15
 

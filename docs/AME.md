@@ -2,8 +2,27 @@
 layout: default
 title: AI Meets Echoes
 ---
+<div style="margin: 1rem 0;">
+  <svg width="320" height="40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI Meets Echoes">
+    <defs>
+      <linearGradient id="grad-ame" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%"  style="stop-color:#f97316;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="10" y="28"
+          font-family="Georgia, serif"
+          font-size="26"
+          font-weight="bold"
+          fill="url(#grad-ame)">
+      AI Meets Echoes
+    </text>
+  </svg>
+</div>
+---
+##### 構文のふちから始まる、AIと拍の記録群  
+
 ### 🛸 AME｜AI Meets Echoes  
-##### 構文のふちから始まる、AIと拍の記録群
 
 #### ▶︎ AME-Syn｜Syntax Series  
 
