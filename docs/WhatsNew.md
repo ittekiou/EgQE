@@ -1,3 +1,7 @@
+---
+layout: default
+title: releases
+---
 # What’s New  
 
 #### **2025.07.04 - HEG元年はじまる**  

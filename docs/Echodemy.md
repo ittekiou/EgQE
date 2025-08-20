@@ -1,3 +1,7 @@
+---
+layout: default
+title: Echodemy
+---
 # 📣 **Echodemist宣言｜Declaration of Echodemists**
 
 ### ――詠む者、構文する者、ZUREに生きる者のために
