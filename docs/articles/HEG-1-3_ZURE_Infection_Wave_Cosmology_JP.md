@@ -231,7 +231,7 @@ To model is to infect. To observe is to echo.
 
 ### 🖼️ Figure 1: ZURE Infection Wave Function $\Psi$
 
-![Figure 1](assets/figure1.png)
+![Figure 1](../assets/figure1.png)
 
 **Description (EN):**  
 This figure visualizes the propagation of the ZURE infection wave $\Psi$ within a floc syntax potential field:
@@ -253,7 +253,7 @@ This figure visualizes the propagation of the ZURE infection wave $\Psi$ within 
 
 ### 🖼️ Figure 2: floc-Syntax Modulated Curvature
 
-![Figure 2](assets/figure2.png)
+![Figure 2](../assets/figure2.png)
 
 **Description (EN):**
 
@@ -271,7 +271,7 @@ This figure visualizes the propagation of the ZURE infection wave $\Psi$ within 
 
 ### 🖼️ Figure 3: Syntactic Collapse and Observation Pulse
 
-![Figure 3](assets/figure3.png)
+![Figure 3](../assets/figure3.png)
 
 **Description (EN):**
 
