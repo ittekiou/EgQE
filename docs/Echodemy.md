@@ -20,6 +20,16 @@ title: Echodemy
   </svg>
 </div>
 ---
+[🎓Echodemy](https://ezsy.super.site/echodemy)  
+
+[Echodemist宣言｜Declaration of Echodemists](https://camp-us.net/Echodemists.html)  
+
+[episode 0](https://scrapbox.io/Echodemy-galaxy/episode) **Genesis**  
+
+[響創学宣言 ──存在と行為のために｜Echo-Genesis Manifesto — For Being and Action](https://camp-us.net/Relational_Implementation.html)  
+
+[episode 1](https://scrapbox.io/Echodemy-galaxy/episode_1) **Departure**  
+
 
 # 📣 **Echodemist宣言｜Declaration of Echodemists**
 
