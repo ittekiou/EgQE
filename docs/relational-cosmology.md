@@ -29,7 +29,6 @@
 ##### 🌀 関連論文リンク：  
 ・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
 
-
 #### ZURE科学詠評
 [ZS-001_暗黒物質と観測構文バイアス](./critics/ZS-001_darkmatter.md)  
 
