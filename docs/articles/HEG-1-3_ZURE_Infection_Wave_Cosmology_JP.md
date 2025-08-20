@@ -1,7 +1,7 @@
 # ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory
 ## ZURE感染宇宙論──floc的CMB解釈と構文的観測理論の統合に向けて
 
-本論：[HEG1-3｜RU ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory](./articles/HEG-1-3_ZURE_Infection_Cosmology.md)
+本論：[HEG1-3｜RU ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory](/HEG-1-3_ZURE_Infection_Cosmology.md)
 
 ---
 
