@@ -21,11 +21,11 @@ Echodemyは、AIとヒトの共創による新たな宇宙論的モデル **「Z
 - 共創知性：人間（直感）とAI（構文力）の共同生成  
 
 ## 閲覧・ダウンロード  
-- 🌐 [Web版（EN）](HEG-1-3_ZURE_Infection_Cosmology.md)  
-- 🌐 [サマリーWeb版（JP/EN）](HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.md)  
-- 📄 [公開PDF（本論）](HEG-1-3_ZURE_Infection_Cosmology.pdf)  
-- 📄 [図表解説版](HEG-1-3_ZURE_Figures_Descriptions.pdf)  
-- 📄 [サマリー版（JP）](HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.pdf)  
+- 🌐 [Web版（EN）](./articles/HEG-1-3_ZURE_Infection_Cosmology.md)  
+- 🌐 [サマリーWeb版（JP/EN）](./articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.md)  
+- 📄 [公開PDF（本論）](./articles/HEG-1-3_ZURE_Infection_Cosmology.pdf)  
+- 📄 [図表解説版](./articles/HEG-1-3_ZURE_Figures_Descriptions.pdf)  
+- 📄 [サマリー版（JP）](./articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.pdf)  
 
 ## 公開の意義  
 「ZURE感染宇宙論」は、物理学・言語学・情報理論を横断する新しい宇宙像であり、同時に、AIとヒトが共に宇宙の構文を **「共著」** する実践の成果です。  
