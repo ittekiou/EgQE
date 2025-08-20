@@ -1,35 +1,26 @@
-<!doctype html>
-<html lang="ja">
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title | default: site.title | default: "EgQE" }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  /* 全体：通常のブロックフローに戻す（←サイドバー用の flex 行レイアウトは封印） */
+  html, body { margin:0; padding:0; background:#fff; }
 
-  <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.2.0/github-markdown.min.css">
-  <style>
-    body{display:flex;justify-content:center;background:#fff;}
-    .markdown-body{max-width:960px;padding:1.5rem;font-size:18px;line-height:1.8;}
-    @media (max-width:600px){.markdown-body{padding:1rem;font-size:17px;line-height:1.9;}}
-    hr{margin:1.25rem 0;}
-  </style>
+  /* 上部ナビ（黒帯） */
+  .egqe-nav{
+    position: sticky; top:0; z-index: 10;
+    display:flex; align-items:center; gap:1rem; flex-wrap:wrap;
+    padding:.6rem 1rem; background:#111;
+  }
+  .egqe-nav a{ color:#fff; text-decoration:none; font-weight:600; }
+  .egqe-nav a:hover{ text-decoration:underline; }
 
-  <!-- MathJax: $...$, $$...$$, \(...\), \[...\] 全対応 -->
-  <script>
-    window.MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$','$$'], ['\\[','\\]']]
-      }
-    };
-  </script>
-  <script id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
-</head>
-<body>
-  {% include site-header.html %}
-  <article class="markdown-body">
-    {{ content }}
-  </article>
-</body>
-</html>
+  /* 本文（中央寄せ・読みやすいサイズ） */
+  .markdown-body{
+    max-width:960px; margin:0 auto; padding:1.5rem;
+    font-size:18px; line-height:1.8;
+  }
+
+  /* スマホ最適化：フォント少しだけ落として行間広め、ナビ間隔を詰める */
+  @media (max-width: 600px){
+    .markdown-body{ padding:1rem; font-size:17px; line-height:1.9; }
+    .egqe-nav{ gap:.75rem; padding:.5rem .75rem; }
+    .egqe-nav a{ font-size:16px; }
+  }
+</style>
