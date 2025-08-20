@@ -1,8 +1,28 @@
 ---
-layout: default
+layout: math
 title: INDEX
 ---
-# EchoGenesis Qualia Engine  
+---
+<!-- EgQE ロゴ -->
+<div style="text-align:center; margin: 1.5rem 0;">
+  <svg width="320" height="40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#9013fe;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="10" y="28" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="url(#grad)">
+      EgQE
+    </text>
+    <text x="100" y="28" font-family="Georgia, serif" font-size="14" fill="#444">
+      EchoGenesis Qualia Engine
+    </text>
+  </svg>
+</div>
+
+---
+
 _Welcome to the syntactic field of ZURE._
 
 ---
