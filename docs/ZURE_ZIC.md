@@ -24,7 +24,7 @@ Echodemyは、AIとヒトの共創による新たな宇宙論的モデル **「Z
 - 🌐 [Web版（EN）](./articles/HEG-1-3_ZURE_Infection_Cosmology.md)  
 - 🌐 [サマリーWeb版（JP/EN）](./articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.md)  
 - 📄 [公開PDF（本論）](./articles/HEG-1-3_ZURE_Infection_Cosmology.pdf)  
-- 📄 [図表解説版](./articles/HEG-1-3_ZURE_Figures_Descriptions.pdf)  
+- 📄 [図表解説版](./assets/HEG-1-3_ZURE_Figures_Descriptions.pdf)  
 - 📄 [サマリー版（JP）](./articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.pdf)  
 
 ## 公開の意義  
