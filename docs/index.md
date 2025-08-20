@@ -20,7 +20,7 @@ title: INDEX
     </text>
   </svg>
 </div>
-
+---
 _──Welcome to the syntactic field of ZURE._
 
 ---
