@@ -1,4 +1,7 @@
-
+---
+layout: math
+title: ZURE Figures Descriptions
+---
 ### 🖼️ Figure 1: ZURE Infection Wave Function $\Psi$
 
 ![Figure 1](./figure1.png)
