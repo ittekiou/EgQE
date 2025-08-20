@@ -4,8 +4,8 @@ title: INDEX
 ---
 ---
 <!-- EgQE ロゴ -->
-<div style="text-align:center; margin: 1.5rem 0;">
-  <svg width="320" height="40" xmlns="http://www.w3.org/2000/svg">
+<div style="text-align:left; margin: 1.5rem 0;">
+  <svg width="480" height="60" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1" />
