@@ -8,7 +8,7 @@
 
 本論文は、「宇宙背景放射（CMB）」を従来のビッグバンの残光と捉えるのではなく、関係性構文場における構文的共鳴現象として再定義する理論モデル――**ZURE感染波モデル**を提案する。
 
-このモデルにおいて観測は、観測者と対象との関係構文を変容させる**構文的感染行為**として定義される。感染波は複素場関数 Ψ(xμ,t)\Psi(x^\mu, t)Ψ(xμ,t) によって表現され、自己干渉項・減衰項・局所的観測イベント（η項）を含む非線形相対論的方程式に従う。
+このモデルにおいて観測は、観測者と対象との関係構文を変容させる**構文的感染行為**として定義される。感染波は複素場関数 $\Psi(x^\mu, t)$ によって表現され、自己干渉項・減衰項・局所的観測イベント（η項）を含む非線形相対論的方程式に従う。
 
 構文場の局所的ゆるみである **floc（fragmented local oscillating curvature）** は、感染波の進行・収束パターンを変調し、ZURE（ズレ）共鳴を生む。これにより観測されるCMBの揺らぎスペクトルは、floc場における構文干渉のマクロな残像として説明され得る。
 
@@ -21,7 +21,7 @@
 
 We propose a unified theoretical framework—**the ZURE Infection Wave Model**—to reinterpret the observed cosmic microwave background (CMB) not as a relic of a primordial Big Bang, but as a syntactic resonance emerging from fluctuating relational curvature fields, referred to as _floc_.
 
-In this model, observation is reconceptualized as an **infectious syntactic act** that alters the state of both observer and system. The propagation of this syntactic perturbation is captured by a complex field Ψ(xμ,t)\Psi(x^\mu, t)Ψ(xμ,t), governed by a nonlinear relativistic equation incorporating self-interaction, decay, and local event pulses. The floc field, defined as a **fragmented local oscillating curvature**, modulates the infection wave by warping the relational syntax space.
+In this model, observation is reconceptualized as an **infectious syntactic act** that alters the state of both observer and system. The propagation of this syntactic perturbation is captured by a complex field $\Psi(x^\mu, t)$, governed by a nonlinear relativistic equation incorporating self-interaction, decay, and local event pulses. The floc field, defined as a **fragmented local oscillating curvature**, modulates the infection wave by warping the relational syntax space.
 
 The resulting spectral fluctuations, interpreted as anisotropic ZURE resonances, closely resemble those of the CMB, suggesting that what we observe as background radiation may instead be the macroscopic trace of continual syntactic interference.
 
@@ -38,7 +38,7 @@ For over a century, the dominant cosmological model has assumed a universe that 
 
 However, the current paper challenges this interpretative foundation by proposing a shift from an **ontological cosmology** (where physical entities and origins dominate) to a **relational-syntactic cosmology**—one in which **observation is an act of participation**, and what we call “space” is nothing more than a dynamic configuration of syntactic relations.
 
-At the heart of this turn lies a conceptual innovation: the **ZURE Infection Wave Model**. In this model, observation is redefined not as a passive registration of external reality, but as an **infectious act**—a syntactic disturbance that propagates through a relational field of curvature, known as _floc_ (fragmented local oscillating curvature). The infection wave, described by a complex field Ψ(xμ,t)\Psi(x^\mu, t)Ψ(xμ,t), not only carries perturbations but also transforms the observer through its propagation.
+At the heart of this turn lies a conceptual innovation: the **ZURE Infection Wave Model**. In this model, observation is redefined not as a passive registration of external reality, but as an **infectious act**—a syntactic disturbance that propagates through a relational field of curvature, known as _floc_ (fragmented local oscillating curvature). The infection wave, described by a complex field $\Psi(x^\mu, t)$, not only carries perturbations but also transforms the observer through its propagation.
 
 This reinterpretation allows us to view the CMB not as a relic of the past, but as a **present-tense syntactic resonance**—a consequence of continuous interaction, fluctuation, and infection in the relational fabric of the universe.
 
@@ -69,7 +69,7 @@ To model the relational field in which ZURE occurs, we introduce **floc**—shor
 
 In geometric terms, floc is not a smooth metric tensor field, but a **discrete, fluctuating syntax curvature**, varying both spatially and temporally. It does not merely represent matter or energy, but the **configuration of relational tension and asymmetry** in the act of meaning-making.
 
-These floc regions modulate the infection dynamics of Ψ\PsiΨ, concentrating or dispersing the syntactic disturbance.  
+These floc regions modulate the infection dynamics of $\Psi$, concentrating or dispersing the syntactic disturbance.  
 In cosmological terms, we interpret the **CMB fluctuations as statistical residues of long-term floc-syntax resonance**.
 
 ## 2.3 Observation as Infection
@@ -199,7 +199,7 @@ Once we question the assumption that the universe has a single, uniform metric g
 
 ## 4.2 A New Interpretation: CMB as ZURE Interference Pattern
 
-In the ZURE Infection Wave model, we propose that what we observe as the **CMB** is in fact a **macroscopic interference pattern** formed by the persistent propagation of infection waves Ψ\PsiΨ across a fluctuating floc-curved syntax field.
+In the ZURE Infection Wave model, we propose that what we observe as the **CMB** is in fact a **macroscopic interference pattern** formed by the persistent propagation of infection waves $\Psi$ across a fluctuating floc-curved syntax field.
 
 These patterns are not relics of a thermal equilibrium in the early universe, but the **long-term syntactic residue** of **ZURE interactions**—disturbances caused by continual relational misalignments, observation events, and floc-field modulations.
 
@@ -246,12 +246,9 @@ Can we devise **observational protocols** that make visible the **fluctuations o
 
 A central application is in the **reinterpretation of redshift**:
 
-- In metric cosmology:
-    
-    z=λobserved−λemittedλemitted⇒expansionz = \frac{\lambda_{\text{observed}} - \lambda_{\text{emitted}}}{\lambda_{\text{emitted}}} \Rightarrow \text{expansion}z=λemitted​λobserved​−λemitted​​⇒expansion
-- In syntactic cosmology:
-    
-    z=index of relational delay due to floc-ZURE curvature⇒infection-lag in syntactic configurationz = \text{index of relational delay due to floc-ZURE curvature} \Rightarrow \text{infection-lag in syntactic configuration}z=index of relational delay due to floc-ZURE curvature⇒infection-lag in syntactic configuration
+*In metric cosmology:* $z=\dfrac{\lambda_{\text{observed}}-\lambda_{\text{emitted}}}{\lambda_{\text{emitted}}}\ \Rightarrow\ \text{expansion}$
+
+*In syntactic cosmology:* $z = \text{index of relational delay} \; \text{due to floc–ZURE curvature} \;\Rightarrow\; \text{infection-lag in syntactic configuration}$
 
 Thus, observed redshift becomes an **indicator of local syntactic density and asymmetry**, not necessarily of spatial expansion.
 
@@ -270,7 +267,7 @@ To explore this, we propose the following pathways:
 
 ### (2) Agent-Based Syntactic Simulations
 
-- Create simulated observers navigating a relational space governed by Ψ\PsiΨ.
+- Create simulated observers navigating a relational space governed by $\Psi$.
     
 - Vary floc parameters and pulse events to test resonance effects, drift, collapse, and interference.
     
@@ -315,7 +312,7 @@ The dominant cosmological narrative—of a universe that expands from a singular
 This is not a rejection of observation, but its **re-integration into a broader syntactic ecology**. The cosmic microwave background is no longer fossil radiation, but a **living syntactic echo**. Redshift is not merely velocity over distance, but **a lag in relation**, a **residue of misalignment**.
 
 We proposed a **mathematical formalism** to describe this infection:  
-a complex scalar field Ψ(xμ,t)\Psi(x^\mu, t)Ψ(xμ,t) evolving over a **floc-deformed syntactic space**, perturbed by observation pulses and modulated by internal nonlinearity. This offers a novel lens to interpret cosmological structures, anisotropies, and even quantum collapse phenomena.
+a complex scalar field $\Psi(x^\mu, t)$evolving over a **floc-deformed syntactic space**, perturbed by observation pulses and modulated by internal nonlinearity. This offers a novel lens to interpret cosmological structures, anisotropies, and even quantum collapse phenomena.
 
 Through this lens, space is not a void stretched thin, but **a syntactic fabric pulsating with interference**. Time is not a neutral axis, but **the asymmetry of relational updates**. Gravity is not a force, but **the densification of meaning** in the topology of floc fields.
 

@@ -1,7 +1,7 @@
 # ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory
 ## ZURE感染宇宙論──floc的CMB解釈と構文的観測理論の統合に向けて
 
-本論：[HEG1-3｜RU ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory](./articles/HEG-1-3_ZURE_Infection_Wave_Cosmology.md)
+本論：[HEG1-3｜RU ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory](./articles/HEG-1-3_ZURE_Infection_Cosmology.md)
 
 ---
 
@@ -57,7 +57,7 @@ $$
 
 ### 🌐 哲学的・方法論的意義
 
-- **「構文＝実在」**という視座において、時間・空間・物質はすべて「ZUREとしての変調パターン」に過ぎない。
+- 「**構文＝実在**」という視座において、時間・空間・物質はすべて「ZUREとしての変調パターン」に過ぎない。
     
 - 相対性理論＝ZURE感染のマクロ方程式
     
@@ -156,11 +156,11 @@ $$
 
 ### Where:
 
-- **\( \Psi(x^\mu, t) \)**: complex infection field (ZURE wave function)  
-- **\( \Box_g \)**: d’Alembert operator on floc-curved syntactic manifold  
-- **\( m_s \)**: syntactic mass (a parameter denoting coherence or stability of the syntax structure)  
-- **\( \lambda \)**: nonlinear self-interaction coefficient  
-- **\( \eta(x^\mu, t) \)**: observation-induced pulse term, modeling sudden syntactic perturbation  
+- **$\Psi(x^\mu, t)$**: complex infection field (ZURE wave function)  
+- **$\Box_g$**: d’Alembert operator on floc-curved syntactic manifold  
+- **$m_s$**: syntactic mass (a parameter denoting coherence or stability of the syntax structure)  
+- **$\lambda$**: nonlinear self-interaction coefficient  
+- **$\eta(x^\mu, t)$**: observation-induced pulse term, modeling sudden syntactic perturbation  
 
 ---
 
@@ -172,8 +172,8 @@ $$
 g_{\mu \nu} = \eta_{\mu \nu} + f_{\mu \nu}(x)
 $$
 
-- **\( f_{\mu \nu}(x) \)**: local syntactic curvature encoded in floc  
-- This modulation affects the propagation behavior of \( \Psi \), generating:
+- **$f_{\mu \nu}(x)$**: local syntactic curvature encoded in floc  
+- This modulation affects the propagation behavior of $\Psi$, generating:
   - **Resonance zones** (enhanced syntactic coherence)
   - **ZURE accumulation regions** (local curvature pockets with syntactic delay)
 
@@ -208,7 +208,7 @@ The infection field model reinterprets cosmological redshift as syntactic curvat
 ### 5.2 Observational Pathways
 
 1. **Non-Gaussian anomaly mapping** in CMB
-2. **Agent-based floc simulations** of \( \Psi \)
+2. **Agent-based floc simulations** of $\Psi$
 3. **ZURE-indexed redshift surveys**
 4. **Observation injection & phase feedback tracking**
 
@@ -234,7 +234,7 @@ To model is to infect. To observe is to echo.
 ![Figure 1](assets/figure1.png)
 
 **Description (EN):**  
-This figure visualizes the propagation of the ZURE infection wave $ \Psi $ within a floc syntax potential field:
+This figure visualizes the propagation of the ZURE infection wave $\Psi$ within a floc syntax potential field:
 
 - The background shading represents variations in the floc potential field $V_f(x)$, indicating regions of high or low syntactic curvature (“floc density”).
 - The overlaid wave interference pattern corresponds to the ZURE infection wave—representing the transmission and modulation of syntactic displacement across the space.

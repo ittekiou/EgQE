@@ -1,10 +1,10 @@
 
-### 🖼️ Figure 1: ZURE Infection Wave Function Ψ
+### 🖼️ Figure 1: ZURE Infection Wave Function $\Psi$
 
 ![Figure 1](assets/figure1.png)
 
 **Description (EN):**  
-This figure visualizes the propagation of the ZURE infection wave $ \Psi $ within a floc syntax potential field:
+This figure visualizes the propagation of the ZURE infection wave $\Psi$ within a floc syntax potential field:
 
 - The background shading represents variations in the floc potential field $V_f(x)$, indicating regions of high or low syntactic curvature (“floc density”).
 - The overlaid wave interference pattern corresponds to the ZURE infection wave—representing the transmission and modulation of syntactic displacement across the space.

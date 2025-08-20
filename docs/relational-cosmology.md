@@ -21,7 +21,7 @@
 
 [HEG-1-2｜RU　floc重力仮説──関係性重力論としての構文宇宙詩学](./articles/HEG-1-2_floc.md)  
 
-[HEG1-3｜RU ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory](./articles/HEG-1-3_ZURE_Infection_Wave_Cosmology.md)  
+[HEG1-3｜RU ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory](./articles/HEG-1-3_ZURE_Infection_Cosmology.md)  
 
 [HEG1-3｜RU ZURE感染宇宙論──floc的CMB解釈と構文的観測理論の統合に向けて](./articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.md)  
 
