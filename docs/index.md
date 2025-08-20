@@ -21,7 +21,7 @@ title: INDEX
   </svg>
 </div>
 ---
-_──Welcome to the syntactic field of ZURE._
+_── Welcome to the syntactic field of ZURE._
 
 ---
 ### 📜 Statements  
