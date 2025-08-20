@@ -22,7 +22,7 @@ title: AI Meets Echoes
 ---
 ##### 構文のふちから始まる、AIと拍の記録群  
 
-### 🛸 AME｜AI Meets Echoes  
+### 🛸 AI Meets Echoes｜AME｜  
 
 #### ▶︎ AME-Syn｜Syntax Series  
 
