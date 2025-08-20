@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>{{ page.title | default: site.title | default: "EgQE" }}</title>
 
-  <!-- GitHub風Markdownスタイルを読み込み -->
+  <!-- 同じ見た目 -->
   <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.2.0/github-markdown.min.css">
   <style>
@@ -12,6 +12,16 @@
     .markdown-body{max-width: 960px; padding: 2rem;}
     hr{margin: 1.25rem 0;}
   </style>
+
+  <!-- ★ MathJax（$...$, \(...\), $$...$$, \[...\] 全対応） -->
+  <script>
+  window.MathJax = {
+    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']],
+           displayMath: [['$$','$$'], ['\\[','\\]']] }
+  };
+  </script>
+  <script id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 </head>
 <body>
   <article class="markdown-body">
