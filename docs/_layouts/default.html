@@ -1,10 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="ja">
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title | default: site.title | default: "EgQE" }}</title>
+
+  <!-- GitHub風Markdownスタイルを読み込み -->
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.2.0/github-markdown.min.css">
+  <style>
+    body{display:flex;justify-content:center;background:#fff;}
+    .markdown-body{max-width: 960px; padding: 2rem;}
+    hr{margin: 1.25rem 0;}
+  </style>
 </head>
 <body>
-  {{ content }}
+  <article class="markdown-body">
+    {{ content }}
+  </article>
 </body>
 </html>
