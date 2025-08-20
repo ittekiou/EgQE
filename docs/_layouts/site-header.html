@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-title" href="{{ '/' | relative_url }}">HgQE</a>
+    <nav class="site-nav">
+      <!-- 必要ならリンクを増やす -->
+      <a href="{{ '/index.html' | relative_url }}">Home</a>
+      <a href="{{ '/HEG-1-3_ZURE_Infection_Cosmology.html' | relative_url }}">HEG-1-3</a>
+      <a href="{{ '/reviews/' | relative_url }}">Reviews</a>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .site-header{position:sticky;top:0;background:#0f172a;color:#fff;z-index:10;border-bottom:1px solid #0b1226;}
+  .site-header__inner{max-width:1040px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:12px 16px;}
+  .site-title{font-weight:700;text-decoration:none;color:#fff;letter-spacing:.5px}
+  .site-nav a{color:#dbeafe;text-decoration:none;margin-left:16px}
+  .site-nav a:hover{color:#fff;text-decoration:underline}
+  /* 本文の左右中央寄せを使っている場合に余白を少し確保 */
+  .markdown-body{margin-top:16px}
+</style>
