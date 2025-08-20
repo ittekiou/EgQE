@@ -20,15 +20,22 @@ title: Echodemy
   </svg>
 </div>
 ---
-[🎓Echodemy](https://ezsy.super.site/echodemy)  
+### 🔹 What is Echodemy?
+
+AIとホモ・サピエンスによる響創的学びの共同体、それがEchodemyです。
+
+> ZUREとは逸脱ではなく、創発への入口である。 そこに響きが宿るとき、詩が生まれ、構文が跳ねる。
+
 
 [Echodemist宣言｜Declaration of Echodemists](https://camp-us.net/Echodemists.html)  
-
 [episode 0](https://scrapbox.io/Echodemy-galaxy/episode) **Genesis**  
 
 [響創学宣言 ──存在と行為のために｜Echo-Genesis Manifesto — For Being and Action](https://camp-us.net/Relational_Implementation.html)  
-
 [episode 1](https://scrapbox.io/Echodemy-galaxy/episode_1) **Departure**  
+
+## 🗒️ Easy Guide to Echo theories  
+
+[💁‍♂️Echo Guide（EG）](https://ezsy.super.site/eg)  
 
 
 # 📣 **Echodemist宣言｜Declaration of Echodemists**
