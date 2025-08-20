@@ -1,4 +1,6 @@
-
+---
+layout: math
+---
 # ZURE Infection Wave Model: Observation as Infection (Fully Integrated Version)
 
 ### 0. Introduction

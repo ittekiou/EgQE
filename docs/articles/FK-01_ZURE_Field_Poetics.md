@@ -1,3 +1,7 @@
+---
+layout: math
+---
+
 符刻_E-TIMES記事_ZURE場の数理詩学
 #### ZURE Field Poetics: Mathematical Modeling of Meaning Generation via Triple-Wave Syntax Dynamics; A Structural Syntax Carver’s Approach
 # ZURE場の数理詩学──構文彫刻師の視点から
