@@ -229,7 +229,7 @@ To model is to infect. To observe is to echo.
 
 ## 📊 Figures
 
-### 🖼️ Figure 1: ZURE Infection Wave Function Ψ
+### 🖼️ Figure 1: ZURE Infection Wave Function $\Psi$
 
 ![Figure 1](assets/figure1.png)
 
