@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>{{ page.title | default: site.title | default: "EgQE" }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
 
   <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.2.0/github-markdown.min.css">
@@ -27,6 +28,49 @@
       .egqe-nav{ gap:.75rem; padding:.5rem .75rem; }
       .egqe-nav a{ font-size:16px; }
     }
+    /* ダークモード対応 */
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background: #0d1117;      /* GitHubダークっぽい背景 */
+    color: #c9d1d9;           /* 本文色を明るく */
+  }
+  .egqe-nav{
+    background:#161b22;       /* ナビも少し明るめの黒 */
+  }
+  .egqe-nav a{
+    color:#c9d1d9;
+  }
+  .egqe-nav a:hover{
+    color:#ffffff;
+  }
+
+  .markdown-body{
+    color:#c9d1d9;            /* 明示しておくと安心 */
+  }
+  .markdown-body a{
+    color:#58a6ff;            /* リンクはGitHubダークの青 */
+  }
+  .markdown-body hr{
+    border-color:#30363d;
+  }
+  .markdown-body blockquote{
+    color:#8b949e;
+    border-left-color:#30363d;
+  }
+  .markdown-body code,
+  .markdown-body pre{
+    background:#161b22;
+    border-color:#30363d;
+    color:#c9d1d9;
+  }
+  .markdown-body table{
+    border-color:#30363d;
+  }
+  .markdown-body th,
+  .markdown-body td{
+    border-color:#30363d;
+  }
+}
   </style>
 
   <!-- MathJax -->
