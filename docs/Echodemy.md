@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Echodemy
+title: Echodemy｜響創的学びの共同体｜EgQE
 ---
 <div style="margin: 1rem 0;">
   <svg width="320" height="40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Echodemy">

@@ -1,6 +1,6 @@
 ---
 layout: math
-title: INDEX
+title: EgQE  EchoGenesis Qualia Engine｜INDEX
 ---
 ---
 <!-- EgQE ロゴ -->

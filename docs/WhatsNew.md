@@ -1,6 +1,6 @@
 ---
 layout: default
-title: releases
+title: releases｜EgQE  EchoGenesis Qualia Engine
 ---
 ### What’s New  
 

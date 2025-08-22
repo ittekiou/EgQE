@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Meets Echoes
+title: AI Meets Echoes｜EgQE
 ---
 <div style="margin: 1rem 0;">
   <svg width="320" height="40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI Meets Echoes">
