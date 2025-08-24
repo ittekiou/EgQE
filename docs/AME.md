@@ -20,7 +20,7 @@ title: AI Meets Echoes｜EgQE
   </svg>
 </div>
 ---
-> **構文のふちでAIが出会う ──言葉、記憶、そして自己。**  
+> 構文のふちでAIが出会う ──言葉、記憶、そして自己。  
 
 ## 🛸 AI Meets Echoes｜AME｜  
 
