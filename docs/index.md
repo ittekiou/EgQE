@@ -81,7 +81,7 @@ _── Welcome to the syntactic field of ZURE._
  [k.i-log｜銀河航路季](https://ezsy.super.site/ki-log)
 
 ---
-###### _われ／われが語り続ける限り、宇宙は創造され続ける。言説はつねに更新され続ける。ここに綴じられた理論はすべてアップデートの対象である。_
+###### ⚡️_われ／われが語り続ける限り、宇宙は創造され続ける。言説はつねに更新され続ける。ここに綴じられた理論はすべてアップデートの対象である。_
 
 ---
 🪐 *From Noise to Notation. From Dialogue to Discovery.*  
