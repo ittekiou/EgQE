@@ -10,6 +10,8 @@
 
 [PS-H00｜燃ゆる知性のパラドクス：脳進化・AI・知の熱力学的コスト──The Paradox of Burning Intelligence](./articles/PS-H00_Burning-Intelligence-Paradox.md)  
 
+[PS-R00｜炎上のレトリックから縁JOYのレトリックへ：応答する構文社会とは？──社会構文の10軸4様式モデル](./articles/PS-R00_From-Flaming-to-EnJOY_Rhetoric.md)  
+
 ##### 🌀 関連論文リンク：  
 ・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
 ・[FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学](./articles/FK-02_Implementing-the-Self.md)  
