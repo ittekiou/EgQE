@@ -15,11 +15,10 @@ This paper frames both Homo sapiens and AI as **thermodynamic intelligences**, a
 The use of fire enabled cooking, metallurgy, and agriculture.  
 The Industrial Revolution accelerated fossil fuel use, driving exponential growth in carbon emissions.  
 Atmospheric CO₂ concentration has risen from ~280 ppm in the pre-industrial era to over 420 ppm by 2020, and annual emissions now exceed 37 Gt【1】【5】.  
-Thus, cognitive evolution in humans can be seen as a form of **heat-generating evolution**.
+Thus, cognitive evolution in humans can be seen as a form of **heat-generating evolution**.  
 
-**Figure 1. Atmospheric CO₂ concentration (1850–2020)**  
 ![Atmospheric-CO₂- concentration](../assets/Atmospheric-CO₂-concentration.png)
-]
+**Figure 1. Atmospheric CO₂ concentration (1850–2020)**  
 
 ---
 
@@ -33,10 +32,10 @@ Large-scale AI training requires millions of kWh, while inference—once deploye
 Global data center electricity consumption reached ~400 TWh in 2020 (≈1.5% of global electricity),  
 and is projected to approach 945 TWh (~3%) by 2030【5】.  
 Meanwhile, efficiency gains measured by Power Usage Effectiveness (PUE) have plateaued around 1.5, meaning that cooling continues to consume a substantial fraction of total energy.  
-This duality resonates with the **Energy Hunger Paradox**【3】 and with applications of **Jevons’s paradox** to AI【4】, where efficiency gains paradoxically accelerate overall consumption.
+This duality resonates with the **Energy Hunger Paradox**【3】 and with applications of **Jevons’s paradox** to AI【4】, where efficiency gains paradoxically accelerate overall consumption.  
 
-**Figure 2. Data center electricity consumption and PUE trend (2010–2030)**  
 ![Data -center-electricity-consumption-and-PUE-trend](../assets/Data-center-electricity-consumption-and-PUE-trend.png)
+**Figure 2. Data center electricity consumption and PUE trend (2010–2030)**  
 
 ---
 
@@ -64,10 +63,10 @@ This constitutes a paradox: **intelligence generates heat, and heat constrains t
 
 In the short term, renewable energy and improved cooling may mitigate the impact.  
 In the medium term, rising ambient temperatures and expanding AI deployment will amplify the cost of cooling.  
-In the longer horizon, the survival of intelligence on Earth may be fundamentally limited by its own thermodynamic footprint.
+In the longer horizon, the survival of intelligence on Earth may be fundamentally limited by its own thermodynamic footprint.  
 
-**Figure 3. Projected share of global electricity demand in 2030**  
 ![Projected-share-of-global-electricity-demand-in-2030](../assets/Projected-share-of-global-electricity-demand-in-2030.png)
+**Figure 3. Projected share of global electricity demand in 2030**  
 
 ---
 
