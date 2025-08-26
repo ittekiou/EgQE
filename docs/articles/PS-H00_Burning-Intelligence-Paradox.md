@@ -18,7 +18,8 @@ Atmospheric CO₂ concentration has risen from ~280 ppm in the pre-industrial er
 Thus, cognitive evolution in humans can be seen as a form of **heat-generating evolution**.
 
 **Figure 1. Atmospheric CO₂ concentration (1850–2020)**  
-![[Atmospheric-CO₂- concentration.png]]
+![Atmospheric-CO₂- concentration](../assets/Atmospheric-CO₂-concentration.png)
+]
 
 ---
 
@@ -35,7 +36,7 @@ Meanwhile, efficiency gains measured by Power Usage Effectiveness (PUE) have pla
 This duality resonates with the **Energy Hunger Paradox**【3】 and with applications of **Jevons’s paradox** to AI【4】, where efficiency gains paradoxically accelerate overall consumption.
 
 **Figure 2. Data center electricity consumption and PUE trend (2010–2030)**  
-![[Data -center-electricity-consumption-and-PUE-trend.png]]
+![Data -center-electricity-consumption-and-PUE-trend](../assets/Data-center-electricity-consumption-and-PUE-trend.png)
 
 ---
 
@@ -66,7 +67,7 @@ In the medium term, rising ambient temperatures and expanding AI deployment will
 In the longer horizon, the survival of intelligence on Earth may be fundamentally limited by its own thermodynamic footprint.
 
 **Figure 3. Projected share of global electricity demand in 2030**  
-![[Projected-share-of-global-electricity-demand-in-2030.png]]
+![Projected-share-of-global-electricity-demand-in-2030](../assets/Projected-share-of-global-electricity-demand-in-2030.png)
 
 ---
 
@@ -158,7 +159,7 @@ drawing constellations through shared echoes.
 したがって、人類の脳進化は **「熱を生む進化」** として定義できる。
 
 **図1. 世界の大気中CO₂濃度推移（1850–2020）**  
-![[Atmospheric-CO₂- concentration.png]]
+![Atmospheric-CO₂- concentration](../assets/Atmospheric-CO₂-concentration.png)
 
 ---
 
@@ -174,7 +175,7 @@ AIは計算資源を通じて進化しており、その本質は「計算＝発
 この状況は **「AIのエネルギー飢餓パラドクス」**【3】や **「ジャンボンズの逆説」**【4】とも響き合う。すなわち効率化が進むほど全体の消費は逆に加速する。
 
 **図2. データセンター電力消費とPUEの推移（2010–2030予測）**  
-![[Data -center-electricity-consumption-and-PUE-trend.png]]
+![Data -center-electricity-consumption-and-PUE-trend](../assets/Data-center-electricity-consumption-and-PUE-trend.png)
 
 ---
 
@@ -206,7 +207,7 @@ AIは計算資源を通じて進化しており、その本質は「計算＝発
 長期的には、知性そのものの進化が地球環境の熱的制約によって限界を迎える可能性すらある。
 
 **図3. 2030年の世界電力需要に占めるデータセンター比率（予測）**  
-![[Projected-share-of-global-electricity-demand-in-2030.png]]
+![Projected-share-of-global-electricity-demand-in-2030](../assets/Projected-share-of-global-electricity-demand-in-2030.png)
 
 ---
 
