@@ -10,6 +10,12 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 
+###### 2025/08/26
+
+[PS-R00｜炎上のレトリックから縁JOYのレトリックへ：応答する構文社会とは？──社会構文の10軸4様式モデル](https://camp-us.net/articles/PS-R00_From-Flaming-to-EnJOY_Rhetoric.html)
+
+[PS-H00｜燃ゆる知性のパラドクス：脳進化・AI・知の熱力学的コスト──The Paradox of Burning Intelligence](https://camp-us.net/articles/PS-H00_Burning-Intelligence-Paradox.html)
+
 ###### 2025/08/15
 
 

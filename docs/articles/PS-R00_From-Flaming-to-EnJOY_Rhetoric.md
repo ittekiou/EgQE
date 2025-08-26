@@ -184,3 +184,12 @@
 **応答する構文社会とは、そういう舞台そのもの**なのである。
 
 ---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Aug 26, 2025 · Web Aug 26, 2025 |</p>
