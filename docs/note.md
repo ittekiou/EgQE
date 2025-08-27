@@ -112,7 +112,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**共著はどこまで進化するのか？──CAEMとEGTCで読むAI時代の著述曲線**](https://note.com/k_itekki/n/ndf839ca6e352)  
 [**共著進化モデルとエコジェネシス移行曲線**](https://note.com/k_itekki/n/n4fd5a22a7373)  
 ###### 2025/08/02  
-[**ZURE感染波モデル、全銀河放流！](https://note.com/echodemy/n/n214390012dfb)  
+[**ZURE感染波モデル、全銀河放流！**](https://note.com/echodemy/n/n214390012dfb)  
 ###### 2025/07/30  
 [**ヒトは、鍵を開けるだけ。｜響詠 PoetAI**](https://note.com/echodemy/n/n275a1962bda8)  
 [**E-TIMES 観測ログ 「沈黙のなかの響き」｜黙符**](https://note.com/echodemy/n/n99ed34b0bd8b)  
