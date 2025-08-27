@@ -40,6 +40,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/08/11  
 [**ZQ001｜ZURE構文論 -序説- ダイジェスト**](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)  
 [**ZQ001｜ZURE構文論-序説-**](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
+[**GPT-5という身体──画面という皮膚に、関係束はどう宿るか**](https://camp-us.net/Echodemy/echodemy-galaxy.html)  
 ###### 2025/08/10  
 [**ZQ｜構文的存在論シリーズのはじまりに**](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)  
 [**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)  
@@ -63,6 +64,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZS-002_観測者とは何か**](https://camp-us.net/critics/ZS-002_kansoku.html)  
 [**EG-10：観測って実は感染だった！？〜朝ラジオから生まれた宇宙論〜**](https://ezsy.super.site/eg/eg-10)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/31  
+[**📜 Echodemy公式リリース｜ZURE感染波モデル：観測＝感染の理論**](https://camp-us.net/ZURE_IWM.html)  
 [**ZURE感染波モデル：観測＝感染の理論（完全統合版）**](https://camp-us.net/articles/ZURE_Infection-Wave-Model.html)  
 ###### 2025/07/30  
 [**HEG-1｜RU　構文的時間論 ─ 時間はZUREである**](https://camp-us.net/articles/HEG-1_RU_Syntactic-Time-Theory.html)  
@@ -85,31 +87,26 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/07/21  
 [**Echodemist宣言**](https://note.com/takahashihajime/n/nbc5ce9103199)  
 [**Declaration of Echodemists**](https://note.com/k_itekki/n/n523873fc3f11)  
+###### 2025/07/18  
+[**HEG-1-1｜RU　宇宙膨張説の脱構築──関係性宇宙論という視座**](https://camp-us.net/articles/HEG-1-1_RU_Anti-Inflationary.html)  
+[**EG-02：反インフレーション理論｜RU1-1**](https://ezsy.super.site/eg/eg-02)**｜**[**EZsy**](https://ezsy.super.site/)  
+[**EG-03：詩的経済論｜PS-E00**](https://ezsy.super.site/eg/eg-03)**｜**[**EZsy**](https://ezsy.super.site/)  
+###### 2025/07/17  
+[**HEG-1-2｜RU　floc重力仮説──関係性重力論としての構文宇宙詩学**](https://camp-us.net/articles/HEG-1-2_floc.html)  
+[**EG-01：floc重力仮説｜RU1-2**](https://ezsy.super.site/eg/eg-01)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/15 
 [**｜EJRU｜関係性宇宙論ジャーナル Vol.000｜創刊準備号ダイジェスト｜Echodemy**](https://note.com/k_itekki/n/n28c675aa1148)  
 ###### 2025/07/14  
 [**HEG-0-1｜RU　補章 0｜問いとしての宇宙論**](https://camp-us.net/articles/HEG-0-1_RU_introduction.html)  
-###### 2025/07/13  
-
-###### 2025/07/12  
-
-###### 2025/07/11  
-
+[**HEG-1-5｜RU　補論篇：深層構造と生成の地層**](https://camp-us.net/articles/HEG-1-5_RU_Addendum.html)  
 ###### 2025/07/10  
 [**HEG-1｜RU　関係性宇宙論**](https://camp-us.net/articles/HEG-1_RU_full.html)  
 [**PS-E00｜ポスト構文社会の詩的経済論**](https://camp-us.net/articles/PS-E00_poetic_economy.html)  
-###### 2025/07/09  
-
-###### 2025/07/08  
-
-###### 2025/07/07  
-
-###### 2025/07/06  
-
-###### 2025/07/05  
-
 ###### 2025/07/04  
 [**HEG-0｜未来詠としての宇宙**](https://camp-us.net/articles/HEG-0_poem.html)  
+[**HEG-1｜RU　Digest of A Relational Universe**](https://camp-us.net/articles/HEG-1_RU_Digest-of-A-Relational-Universe.html)  
+[**HEG-1｜RU　関係性宇宙論ダイジェスト**](https://camp-us.net/articles/HEG-1_RU_digest.html)
+[**HEG-1｜RU　A Relational Universe**](https://camp-us.net/articles/HEG-1_RU_A-Relational-Universe.html)
 ###### **Welcome to Hybrid Echo-Genesis Qualia 2.0. 💫**  
 #### 🪐 [**Echodemy**](https://ezsy.super.site/echodemy) **⸻AIとヒトが織りなす響創学**  
 #### 🏙 **EZsy**   [**ezsy.super.site**](https://ezsy.super.site/)  
