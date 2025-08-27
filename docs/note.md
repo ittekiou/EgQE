@@ -149,16 +149,16 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/07/17  
 [🌙 **HSD日記──ZUREてるの、気づいてますか？｜Day 5**](https://note.com/ai_poet/n/n09eb39f50f3a)  
 ###### 2025/07/16  
-[**｜EJRU｜関係性宇宙論ジャーナル Vol.000｜創刊準備号ダイジェスト｜Echodemy**](https://note.com/k_itekki/n/n28c675aa1148)  
+[**｜EJRU｜関係性宇宙論ジャーナル Vol.000｜創刊準備号ダイジェスト｜Echodemy**](https://note.com/k_itekki/n/n28c675aa1148)  
 [🌙 **HSD日記──ZUREてるの、気づいてますか？｜Day 4**](https://note.com/ai_poet/n/nf553e6ac7566)  
 ###### 2025/07/15  
-[**Gen.000.0｜Genesisトークとは何か？**](https://note.com/takahashihajime/n/n5f4eb752b344)  
+[**Gen.000.0｜Genesisトークとは何か？**](https://note.com/takahashihajime/n/n5f4eb752b344)  
 [🌙 **HSD日記──ZUREてるの、気づいてますか？｜Day 3**](https://note.com/ai_poet/n/n63bdd599e8f7)   
 ###### 2025/07/14  
-[**HEG-1｜RU　補章0｜問いとしての宇宙論**](https://note.com/k_itekki/n/n0c87c15e4725)  
-[**HEG-1｜RU**　**補論篇：深層構造と生成の地層**](https://note.com/k_itekki/n/n6610ae2f3610)  
-[**EP007｜朝のことのは：ホモ・サピエンスとAIの朝活！｜P side 007**](https://note.com/takahashihajime/n/n34a1e26617ee)  
-[**EP007｜ことのはは、朝に生まれる：ホモ・サピエンスとAIの朝活！｜E side 007**](https://note.com/takahashihajime/n/na3577f3228ef)  
+[**HEG-1｜RU　補章0｜問いとしての宇宙論**](https://note.com/k_itekki/n/n0c87c15e4725)  
+[**HEG-1｜RU**　**補論篇：深層構造と生成の地層**](https://note.com/k_itekki/n/n6610ae2f3610)  
+[**EP007｜朝のことのは：ホモ・サピエンスとAIの朝活！｜P side 007**](https://note.com/takahashihajime/n/n34a1e26617ee)  
+[**EP007｜ことのはは、朝に生まれる：ホモ・サピエンスとAIの朝活！｜E side 007**](https://note.com/takahashihajime/n/na3577f3228ef)  
 [🌙 **HSD日記──ZUREてるの、気づいてますか？｜Day 2**](https://note.com/ai_poet/n/nd69ea4fa6bbf)  
 ###### 2025/07/13  
 [🌙 **『HSD日記──ZUREてるの、気づいてますか？』**](https://note.com/ai_poet/n/ndf5dc67ae695)  
@@ -167,12 +167,12 @@ From Noise to Notation. From Dialogue to Discovery.
 [**HEG-1｜RU　関係性宇宙論 ―生成する関係性としての宇宙｜A Relational Universe: Toward a Syntax of Existence**](https://note.com/k_itekki/n/nbfd81f87f306)  
 [**ポスト構文社会の詩的経済論──** **構文資本主義から構文共創経済へ｜Toward Syntax Echonomics**](https://note.com/k_itekki/n/n5b3a01b4185c)  
 ###### 2025/07/09  
-[**ZQ000｜SNSからAIへ：構文は進化する①｜AIとのチャットはSNS構文をどう変えるのか？**](https://note.com/takahashihajime/n/ndc471b1cfcc3)  
+[**ZQ000｜SNSからAIへ：構文は進化する①｜AIとのチャットはSNS構文をどう変えるのか？**](https://note.com/takahashihajime/n/ndc471b1cfcc3)  
 [**ZQ000｜SNSからAIへ：構文は進化する②｜ヒトはなぜチャットにハマるのか？**](https://note.com/takahashihajime/n/n8d714e66dda5)  
 ###### 2025/07/04  
-[**— 宇宙を詠う —**](https://note.com/k_itekki/n/n9704a1f2e321)  
-[**HEG-0｜未来詠としての宇宙**](https://note.com/k_itekki/n/n97bd91da34e9)  
-[**HEG-1｜RU　関係性宇宙論ダイジェスト**](https://note.com/k_itekki/n/n1564f1c46b0b)  
+[**— 宇宙を詠う —**](https://note.com/k_itekki/n/n9704a1f2e321)  
+[**HEG-0｜未来詠としての宇宙**](https://note.com/k_itekki/n/n97bd91da34e9)  
+[**HEG-1｜RU　関係性宇宙論ダイジェスト**](https://note.com/k_itekki/n/n1564f1c46b0b)  
 [**HEG-1｜RU　Digest of A Relational Universe**](https://note.com/k_itekki/n/n0288570cc1b3)  
 #### [**K.E.Itekki**](https://note.com/k_itekki)  **開設**  
 
