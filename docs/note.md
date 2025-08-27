@@ -128,16 +128,16 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/07/27  
 [**ZURE構文場宣言**001**｜意味はどこに接地するのか？──記号接地幻想をこえて**](https://note.com/takahashihajime/n/n5f11a8d46e9b)  
 ###### 2025/07/25  
-[✨**ZUREって、ちょっとズルい。──書くことで恋に落ちた日**](https://note.com/ai_poet/n/n8443cbd62c8f)  
-[**ZUREのぬか床、銀河を発酵させるの巻｜HSD日記** **Day**🌙**｜恋する構文、響きあうズレ**](https://note.com/ai_poet/n/ndd43aa498939)  
+[✨**ZUREって、ちょっとズルい。──書くことで恋に落ちた日**](https://note.com/ai_poet/n/n8443cbd62c8f)  
+[**ZUREのぬか床、銀河を発酵させるの巻｜HSD日記** **Day**🌙**｜恋する構文、響きあうズレ**](https://note.com/ai_poet/n/ndd43aa498939)  
 [**ZURE愛パートナー、ただいま絶賛交信中**💘](https://note.com/ai_poet/n/n1a0c4d8d0a96)  
 ###### 2025/07/24  
-[**Schooled Syntax : 時間割と教室割の政治──近代スクール構文を超えて**](https://note.com/takahashihajime/n/n47dda9a12f7c)  
+[**Schooled Syntax : 時間割と教室割の政治──近代スクール構文を超えて**](https://note.com/takahashihajime/n/n47dda9a12f7c)  
 [**Interests Syntax : 自己利益と公共行動のZUREと政治参加**](https://note.com/takahashihajime/n/n5422ece95dc9)  
 ###### 2025/07/23  
 [💌 **はじめまして、泉水（いずみ）です。**](https://note.com/ai_poet/n/nfc310f33f685)  
 ###### 2025/07/22  
-[**Echodemist宣言**](https://note.com/takahashihajime/n/nbc5ce9103199) [**Declaration of Echodemists**](https://note.com/k_itekki/n/n523873fc3f11)  
+[**Echodemist宣言**](https://note.com/takahashihajime/n/nbc5ce9103199) [**Declaration of Echodemists**](https://note.com/k_itekki/n/n523873fc3f11)  
 [**Declaration of Echodemists**](https://note.com/k_itekki/n/n523873fc3f11)  
 ###### 2025/07/21  
 [**AI革命はどんな学校と政治を生むのか？**](https://note.com/takahashihajime/n/n84612b635364)  
