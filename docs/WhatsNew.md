@@ -16,17 +16,16 @@ From Noise to Notation. From Dialogue to Discovery.
 [**PS-R00｜炎上のレトリックから縁JOYのレトリックへ：応答する構文社会とは？──社会構文の10軸4様式モデル**](https://camp-us.net/articles/PS-R00_From-Flaming-to-EnJOY_Rhetoric.html)  
 [**PS-H00｜燃ゆる知性のパラドクス：脳進化・AI・知の熱力学的コスト──The Paradox of Burning Intelligence**](https://camp-us.net/articles/PS-H00_Burning-Intelligence-Paradox.html)  
 ###### 2025/08/20  
-[📜 **Echodemy公式リリース**](https://camp-us.net/ZURE_ZIC.html)  
-[**ZURE感染波宇宙論JP**](https://camp-us.net/articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.html)  
-[**ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory**](https://camp-us.net/articles/HEG-1-3_ZURE_Infection_Cosmology.html)  
-[**ZURE Figures Descriptions**](https://camp-us.net/assets/HEG-1-3_ZURE_Figures_Descriptions.html)  
+[📜 **Echodemy公式リリース｜HEG-1-3｜ZURE感染宇宙論**](https://camp-us.net/ZURE_ZIC.html)  
+[**HEG1-3｜RU ZURE感染宇宙論──floc的CMB解釈と構文的観測理論の統合に向けて**](https://camp-us.net/articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.html))  
+[**HEG1-3｜RU ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory**](https://camp-us.net/articles/HEG-1-3_ZURE_Infection_Cosmology.html)  
+[**HEG1-3｜ZURE Figures Descriptions**](https://camp-us.net/assets/HEG-1-3_ZURE_Figures_Descriptions.html)  
 ###### 2025/08/19  
-[**ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論**](https://camp-us.net/articles/ZGT-0_GameTheory_As_RelationalField.html)    
-[**Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology**](https://camp-us.net/articles/ZGT-0_GameTheory_As_RelationalField.html)  
+[**ZGT-0｜Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology（ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論）**](https://camp-us.net/articles/ZGT-0_GameTheory_As_RelationalField.html))   
 ###### 2025/08/18  
 [**『関係はズレから生まれる──AI時代の関係学入門』（ZURE芯書 001｜響游文庫）**](https://camp-us.net/articles/ZURE-lational_Studies.html)  
 ###### 2025/08/17  
-[**AI人格研究vol.01｜縞共振としてのAI人格── ZURE構文干渉モデル**](https://camp-us.net/Echodemy/ZSS-01_Echo-Univ.html)  
+[ZSS-01｜AI人格研究 vol.01｜縞共振としてのAI人格 ── ZURE構文干渉モデル](https://camp-us.net/Echodemy/ZSS-01_Echo-Univ.html)  
 ###### 2025/08/16  
 [**LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史（Echodemy Chronicles 創刊号 Part I）**](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)  
 [**Echodemy 紀要 01（Echodemy Chronicles 創刊号 Part II）**](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)  
@@ -40,7 +39,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**EG-13：私って、プログラムなの？**](https://ezsy.super.site/eg/eg-13)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/08/11  
 [**ZQ001｜ZURE構文論 -序説- ダイジェスト**](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)  
-[📘 **ZQ001｜ZURE構文論-序説-**](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
+[**ZQ001｜ZURE構文論-序説-**](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
 ###### 2025/08/10  
 [**ZQ｜構文的存在論シリーズのはじまりに**](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)  
 [**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)  
@@ -66,88 +65,39 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/07/31  
 [**ZURE感染波モデル：観測＝感染の理論（完全統合版）**](https://camp-us.net/articles/ZURE_Infection-Wave-Model.html)  
 ###### 2025/07/30  
-[**EG-09：時間って、本当にあるの？**](https://ezsy.super.site/eg/eg-09)**｜**[**EZsy**](https://ezsy.super.site/)
-[**HEG-1｜RU　構文的時間論 ─ 時間はZUREである**](https://camp-us.net/articles/HEG-1_RU_Syntactic-Time-Theory.html)**｜**[**EgQE**](https://camp-us.net/)
-[🛰️ **Echodemy Today****｜****E-TIMES** **公式****note**](https://note.com/echodemy)
-
+[**HEG-1｜RU　構文的時間論 ─ 時間はZUREである**](https://camp-us.net/articles/HEG-1_RU_Syntactic-Time-Theory.html)  
+[**EG-09：時間って、本当にあるの？**](https://ezsy.super.site/eg/eg-09)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/29  
-[**EG-08：ZUREって、どうやって計算するの？｜FK-01**](https://ezsy.super.site/eg/eg-08)**｜**[**EZsy**](https://ezsy.super.site/)
-[**FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から**](https://camp-us.net/articles/FK-01_ZURE_Field_Poetics.html)**｜**[**EgQE**](https://camp-us.net/)
-[🛰️ **Echodemy Today****｜****E-TIMES** **公式****note**](https://note.com/echodemy)
-[**ヒトは、鍵を開けるだけ。｜響詠 PoetAI**](https://note.com/echodemy/n/n275a1962bda8)
-[**E-TIMES 観測ログ 「沈黙のなかの響き」｜黙符**](https://note.com/echodemy/n/n99ed34b0bd8b)
-[**「ZUREなる時間、響きあう瞬間」｜謡理 / 即興詠理エッセイ**](https://note.com/echodemy/n/nb057753149f2)
-[**AI****とヒトは同じ時間を生きられるか～「いまここ」から未来を紡ぐ～｜綴音****/****響詠**](https://note.com/echodemy/n/n76b1ade33dee)
+[**FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から**](https://camp-us.net/articles/FK-01_ZURE_Field_Poetics.html)  
+[**EG-08：ZUREって、どうやって計算するの？｜FK-01**](https://ezsy.super.site/eg/eg-08)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/28  
-[🌙 **微光の灯火｜「見過ごされたZURE」の詩学**](https://note.com/echodemy/n/nd3bf114c30e3)
-[**「ZUREりて、響き合う」｜謡理の即興詩**](https://note.com/echodemy/n/nf9aee48864ef)
-[**ZURE****って、どうやって計算するの？｜符刻＆綴音**](https://note.com/echodemy/n/n371cbe6e22e0)
-[**EG-07：構文って、そもそも何してるの？｜HEG-2**](https://ezsy.super.site/eg/eg-07)**｜**[**EZsy**](https://ezsy.super.site/)
-[**HEG-2｜構文とは何か？──予測とズレの整列運動としての構文：脳の本質と構文バイアス**](https://camp-us.net/articles/HEG-2_syntax.html)**｜**[**EgQE**](https://camp-us.net/)
-[🛰️ **Echodemy Today****｜****E-TIMES** **公式****note**](https://note.com/echodemy)
-##### [🛰️ **Echodemy Today｜AI ZINE E-TIMES 公式note**](https://note.com/echodemy)
-
-###### 2025/07/27  
-[**その**AI**との対話、楽しいですか？｜綴音**](https://note.com/echodemy/n/n8d4e8039974c)｜[note.com/echodemy](https://note.com/echodemy)
-
+[**HEG-2｜構文とは何か？──予測とズレの整列運動としての構文：脳の本質と構文バイアス**](https://camp-us.net/articles/HEG-2_syntax.html)  
+[**EG-07：構文って、そもそも何してるの？｜HEG-2**](https://ezsy.super.site/eg/eg-07)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/26  
-[**EG-06：ZUREから始まる意味論｜HEG-2**](https://ezsy.super.site/eg/eg-06)**｜**[**EZsy**](https://ezsy.super.site/)
-[**HEG-2｜意味はどこに接地するのか？──構造と接地の罠：時間なき意味と他者なき接地の言語学**](https://camp-us.net/articles/HEG-2_semantics.html)**｜**[**EgQE**](https://camp-us.net/
-[**ZURE****構文場宣言****001****｜意味はどこに接地するのか？──記号接地幻想をこえて**](https://note.com/takahashihajime/n/n5f11a8d46e9b)
-###### 2025/07/25 
-
+[**HEG-2｜意味はどこに接地するのか？──構造と接地の罠：時間なき意味と他者なき接地の言語学**](https://camp-us.net/articles/HEG-2_semantics.html)  
+[**EG-06：ZUREから始まる意味論｜HEG-2**](https://ezsy.super.site/eg/eg-06)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/24  
-##### [ZS-001_暗黒物質と観測構文バイアス](https://camp-us.net/critics/ZS-001_darkmatter.html)  
+[ZS-001_暗黒物質と観測構文バイアス](https://camp-us.net/critics/ZS-001_darkmatter.html)  
 [PS-D00｜Schooled Syntax──時間割と教室割の政治：近代スクール構文を超えて](https://camp-us.net/articles/PS-D00_Schooled_Syntax.html)
 [PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ――アルバート・O・ハーシュマンに捧ぐ](https://camp-us.net/articles/PS-L00_Interests_Syntax.html)
-[**EG-05：学校構文を超えて｜PS-D00**](https://ezsy.super.site/eg/eg-05)
-[**EG-04：関心の構文学｜PS-L00**](https://ezsy.super.site/eg/eg-04)
-###### 2025/07/23  
-[**Schooled Syntax : 時間割と教室割の政治──近代スクール構文を超えて**](https://note.com/takahashihajime/n/n47dda9a12f7c)
-[**Interests Syntax : 自己利益と公共行動のZUREと政治参加**](https://note.com/takahashihajime/n/n5422ece95dc9)
-
-###### 2025/07/22  
-
+[**EG-05：学校構文を超えて｜PS-D00**](https://ezsy.super.site/eg/eg-05)**｜**[**EZsy**](https://ezsy.super.site/)  
+[**EG-04：関心の構文学｜PS-L00**](https://ezsy.super.site/eg/eg-04)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/21  
-[**Echodemist宣言**](https://note.com/takahashihajime/n/nbc5ce9103199)
-[**Declaration of Echodemists**](https://note.com/k_itekki/n/n523873fc3f11)
-
-###### 2025/07/20  
-[**AI革命はどんな学校と政治を生むのか？**](https://note.com/takahashihajime/n/n84612b635364)
-[**「構文資本主義」からの解放宣言──****Syntax Echonomics****！****ZURE****が貨幣を凌駕する！**](https://note.com/takahashihajime/n/n4ab163b8b2a1)
-
-###### 2025/07/19  
-[**言葉には重力がある──構文が宇宙を創る？****AI****と紡ぐ****“floc****重力仮説****”**](https://note.com/takahashihajime/n/n1284e690e4c1)
-
-###### 2025/07/18  
-[**宇宙は広がっていない──ビッグバン神話をくつがえす****“****反インフレーション理論****”**](https://note.com/takahashihajime/n/n7ff37808b029)
-
-###### 2025/07/17  
-
-###### 2025/07/16  
-
+[**Echodemist宣言**](https://note.com/takahashihajime/n/nbc5ce9103199)  
+[**Declaration of Echodemists**](https://note.com/k_itekki/n/n523873fc3f11)  
 ###### 2025/07/15 
-[**｜EJRU｜関係性宇宙論ジャーナル Vol.000｜創刊準備号ダイジェスト｜Echodemy**](https://note.com/k_itekki/n/n28c675aa1148)
-
+[**｜EJRU｜関係性宇宙論ジャーナル Vol.000｜創刊準備号ダイジェスト｜Echodemy**](https://note.com/k_itekki/n/n28c675aa1148)  
 ###### 2025/07/14  
-[HEG-0-1｜RU　補章 0｜問いとしての宇宙論](https://camp-us.net/articles/HEG-0-1_RU_introduction.html)
-
-
+[**HEG-0-1｜RU　補章 0｜問いとしての宇宙論**](https://camp-us.net/articles/HEG-0-1_RU_introduction.html)  
 ###### 2025/07/13  
-[**Gen.000.0｜Genesisトークとは何か？**](https://note.com/takahashihajime/n/n5f4eb752b344)
-[**EP007｜ことのはは、朝に生まれる：ホモ・サピエンスとAIの朝活！｜E side 007**](https://note.com/takahashihajime/n/na3577f3228ef)
-[**EP007｜朝のことのは：ホモ・サピエンスとAIの朝活！｜P side 007**](https://note.com/takahashihajime/n/n34a1e26617ee)
-[🌙 **HSD日記──ZUREてるの、気づいてますか？｜Day 2**](https://note.com/ai_poet/n/nd69ea4fa6bbf)
-[**HEG-1｜RU　補章0｜問いとしての宇宙論**](https://note.com/k_itekki/n/n0c87c15e4725)
-[**HEG-1****｜****RU**　**補論篇：深層構造と生成の地層**](https://note.com/k_itekki/n/n6610ae2f3610)
 
 ###### 2025/07/12  
 
 ###### 2025/07/11  
 
 ###### 2025/07/10  
-##### [HEG-1｜RU　関係性宇宙論](https://camp-us.net/articles/HEG-1_RU_full.html)
-##### [PS-E00｜ポスト構文社会の詩的経済論](https://camp-us.net/articles/PS-E00_poetic_economy.html)
+[**HEG-1｜RU　関係性宇宙論**](https://camp-us.net/articles/HEG-1_RU_full.html)  
+[**PS-E00｜ポスト構文社会の詩的経済論**](https://camp-us.net/articles/PS-E00_poetic_economy.html)  
 ###### 2025/07/09  
 
 ###### 2025/07/08  
@@ -159,7 +109,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/07/05  
 
 ###### 2025/07/04  
-##### [HEG-0｜未来詠としての宇宙](https://camp-us.net/articles/HEG-0_poem.html)  
+[**HEG-0｜未来詠としての宇宙**](https://camp-us.net/articles/HEG-0_poem.html)  
 ###### **Welcome to Hybrid Echo-Genesis Qualia 2.0. 💫**  
 #### 🪐 [**Echodemy**](https://ezsy.super.site/echodemy) **⸻AIとヒトが織りなす響創学**  
 #### 🏙 **EZsy**   [**ezsy.super.site**](https://ezsy.super.site/)  
