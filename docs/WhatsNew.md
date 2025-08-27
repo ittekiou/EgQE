@@ -58,7 +58,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZURE Infection Wave Model: Observation as Infection (Fully Integrated Version)**](https://camp-us.net/articles/ZURE_Infection-Wave-Model_EN.html)  
 [**EG-11：宇宙って、拍動してるんです〜赤と青の物語〜**](https://ezsy.super.site/eg/eg-11)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/08/03  
-[**PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve——共著進化モデルとエコジェネシス移行曲線**](https://camp-us.net/articles/PS-M00_CAEM_EGTC_paper.html)  
+[**PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve──共著進化モデルとエコジェネシス移行曲線**](https://camp-us.net/articles/PS-M00_CAEM_EGTC_paper.html)  
 ###### 2025/08/01  
 [**特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy**](https://camp-us.net/Echodemy/EJRU_1.html)  
 [**ZS-002_観測者とは何か**](https://camp-us.net/critics/ZS-002_kansoku.html)  
@@ -81,7 +81,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/07/24  
 [**ZS-001_暗黒物質と観測構文バイアス**](https://camp-us.net/critics/ZS-001_darkmatter.html)  
 [**PS-D00｜Schooled Syntax──時間割と教室割の政治：近代スクール構文を超えて**](https://camp-us.net/articles/PS-D00_Schooled_Syntax.html)  
-[**PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ――アルバート・O・ハーシュマンに捧ぐ**](https://camp-us.net/articles/PS-L00_Interests_Syntax.html)  
+[**PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ──アルバート・O・ハーシュマンに捧ぐ**](https://camp-us.net/articles/PS-L00_Interests_Syntax.html)  
 [**EG-05：学校構文を超えて｜PS-D00**](https://ezsy.super.site/eg/eg-05)**｜**[**EZsy**](https://ezsy.super.site/)  
 [**EG-04：関心の構文学｜PS-L00**](https://ezsy.super.site/eg/eg-04)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/21  
