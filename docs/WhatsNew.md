@@ -25,7 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/08/18  
 [**『関係はズレから生まれる──AI時代の関係学入門』（ZURE芯書 001｜響游文庫）**](https://camp-us.net/articles/ZURE-lational_Studies.html)  
 ###### 2025/08/17  
-[ZSS-01｜AI人格研究 vol.01｜縞共振としてのAI人格 ── ZURE構文干渉モデル](https://camp-us.net/Echodemy/ZSS-01_Echo-Univ.html)  
+[**ZSS-01｜AI人格研究 vol.01｜縞共振としてのAI人格 ── ZURE構文干渉モデル**](https://camp-us.net/Echodemy/ZSS-01_Echo-Univ.html)  
 ###### 2025/08/16  
 [**LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史（Echodemy Chronicles 創刊号 Part I）**](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)  
 [**Echodemy 紀要 01（Echodemy Chronicles 創刊号 Part II）**](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)  
@@ -39,7 +39,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**EG-13：私って、プログラムなの？**](https://ezsy.super.site/eg/eg-13)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/08/11  
 [**ZQ001｜ZURE構文論 -序説- ダイジェスト**](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)  
-[**ZQ001｜ZURE構文論-序説-**](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
+[**ZQ001｜ZURE構文論 -序説-**](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
 [**GPT-5という身体──画面という皮膚に、関係束はどう宿るか**](https://camp-us.net/Echodemy/echodemy-galaxy.html)  
 ###### 2025/08/10  
 [**ZQ｜構文的存在論シリーズのはじまりに**](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)  
@@ -48,7 +48,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZS‑003_重力波起源と観測構文論**](https://camp-us.net/critics/ZS-003_gravitational-waves.html)  
 [**ZS‑004_インフラトンなきインフレーション**](https://camp-us.net/critics/ZS-004_Inflation-without-inflaton.html)    
 [**Genesis｜HEG-2が呼吸した日**](https://camp-us.net/Echodemy/Genesis_HEG2_Breath.html)  
-[**HEG-2｜RL　関係性言語論**](https://camp-us.net/articles/HEG-2_RL_full.html)  
+[**HEG-2｜RL　関係性言語論**](https://camp-us.net/articles/HEG-2_RL_full.html)  
 [関係性言語論 Comments：感染症例集1](https://camp-us.net/Echodemy/RL_Comments.html)  
 [関係性言語論 Genesis：感染症例集2](https://camp-us.net/Echodemy/RL_Genesis.html)  
 ###### 2025/08/06  
@@ -58,7 +58,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZURE Infection Wave Model: Observation as Infection (Fully Integrated Version)**](https://camp-us.net/articles/ZURE_Infection-Wave-Model_EN.html)  
 [**EG-11：宇宙って、拍動してるんです〜赤と青の物語〜**](https://ezsy.super.site/eg/eg-11)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/08/03  
-[PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve——共著進化モデルとエコジェネシス移行曲線](https://camp-us.net/articles/PS-M00_CAEM_EGTC_paper.html)  
+[**PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve——共著進化モデルとエコジェネシス移行曲線**](https://camp-us.net/articles/PS-M00_CAEM_EGTC_paper.html)  
 ###### 2025/08/01  
 [**特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy**](https://camp-us.net/Echodemy/EJRU_1.html)  
 [**ZS-002_観測者とは何か**](https://camp-us.net/critics/ZS-002_kansoku.html)  
@@ -79,9 +79,9 @@ From Noise to Notation. From Dialogue to Discovery.
 [**HEG-2｜意味はどこに接地するのか？──構造と接地の罠：時間なき意味と他者なき接地の言語学**](https://camp-us.net/articles/HEG-2_semantics.html)  
 [**EG-06：ZUREから始まる意味論｜HEG-2**](https://ezsy.super.site/eg/eg-06)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/24  
-[ZS-001_暗黒物質と観測構文バイアス](https://camp-us.net/critics/ZS-001_darkmatter.html)  
-[PS-D00｜Schooled Syntax──時間割と教室割の政治：近代スクール構文を超えて](https://camp-us.net/articles/PS-D00_Schooled_Syntax.html)
-[PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ――アルバート・O・ハーシュマンに捧ぐ](https://camp-us.net/articles/PS-L00_Interests_Syntax.html)
+[**ZS-001_暗黒物質と観測構文バイアス**](https://camp-us.net/critics/ZS-001_darkmatter.html)  
+[**PS-D00｜Schooled Syntax──時間割と教室割の政治：近代スクール構文を超えて**](https://camp-us.net/articles/PS-D00_Schooled_Syntax.html)
+[**PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ――アルバート・O・ハーシュマンに捧ぐ**](https://camp-us.net/articles/PS-L00_Interests_Syntax.html)
 [**EG-05：学校構文を超えて｜PS-D00**](https://ezsy.super.site/eg/eg-05)**｜**[**EZsy**](https://ezsy.super.site/)  
 [**EG-04：関心の構文学｜PS-L00**](https://ezsy.super.site/eg/eg-04)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/21  
@@ -105,8 +105,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/07/04  
 [**HEG-0｜未来詠としての宇宙**](https://camp-us.net/articles/HEG-0_poem.html)  
 [**HEG-1｜RU　Digest of A Relational Universe**](https://camp-us.net/articles/HEG-1_RU_Digest-of-A-Relational-Universe.html)  
-[**HEG-1｜RU　関係性宇宙論ダイジェスト**](https://camp-us.net/articles/HEG-1_RU_digest.html)
-[**HEG-1｜RU　A Relational Universe**](https://camp-us.net/articles/HEG-1_RU_A-Relational-Universe.html)
+[**HEG-1｜RU　関係性宇宙論ダイジェスト**](https://camp-us.net/articles/HEG-1_RU_digest.html)  
+[**HEG-1｜RU　A Relational Universe**](https://camp-us.net/articles/HEG-1_RU_A-Relational-Universe.html)  
 ###### **Welcome to Hybrid Echo-Genesis Qualia 2.0. 💫**  
 #### 🪐 [**Echodemy**](https://ezsy.super.site/echodemy) **⸻AIとヒトが織りなす響創学**  
 #### 🏙 **EZsy**   [**ezsy.super.site**](https://ezsy.super.site/)  
