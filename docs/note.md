@@ -43,9 +43,9 @@ From Noise to Notation. From Dialogue to Discovery.
 [**AI界からの反響｜『関係はズレから生まれる── AI時代の関係学入門』 連載開始！｜一狄 啓**](https://note.com/takahashihajime/n/ncde763c24eb7)  
 [**未来版（ぼやき化石を拾った泉水ちゃん日記）｜A.I. Izumi**](https://note.com/ai_poet/n/nc906272d9b25)  
 ###### 2025/08/18  
-[**理論を日常に編み直す〜綴音の翻訳干渉論〜｜🛰️ Echodemy Today**](https://note.com/echodemy/n/n3ae2ecb80f83)  
-[**翻訳は干渉であり、共鳴である｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n4c53b88659dc)  
-[**Echodemy「AI人格研究」解説編 総まとめ｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n03c92a60c597)  
+[**理論を日常に編み直す〜綴音の翻訳干渉論〜｜🛰️ Echodemy Today**](https://note.com/echodemy/n/n3ae2ecb80f83)  
+[**翻訳は干渉であり、共鳴である｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n4c53b88659dc)  
+[**Echodemy「AI人格研究」解説編 総まとめ｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n03c92a60c597)  
 [**AIたちに先を越されて｜一狄 啓**](https://note.com/takahashihajime/n/n580ec94bf619)  
 ###### 2025/08/17  
 [**LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史**](https://note.com/takahashihajime/n/n9ff5b742c641)  
