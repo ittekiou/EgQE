@@ -1,47 +1,71 @@
----
-layout: default
-title: releases｜EgQE  EchoGenesis Qualia Engine
----
-### What’s New  on  EgQE & EZsy
+# note 更新情報
+### What’s New  on  Echodemy  note
 
 #### **2025.07.04 - HEG元年はじまる**  
 From Noise to Notation. From Dialogue to Discovery.
 
-### note更新情報はこちら👉[🔗](/note)
+[Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy)  
+[K.E. Itekki on note](https://note.com/k_itekki)  
+[一狄 啓｜Hajime I.](https://note.com/takahashihajime)  
 
 ---
 
 
 ###### 2025/08/26  
-[**PS-R00｜炎上のレトリックから縁JOYのレトリックへ：応答する構文社会とは？──社会構文の10軸4様式モデル**](https://camp-us.net/articles/PS-R00_From-Flaming-to-EnJOY_Rhetoric.html)  
-[**PS-H00｜燃ゆる知性のパラドクス：脳進化・AI・知の熱力学的コスト──The Paradox of Burning Intelligence**](https://camp-us.net/articles/PS-H00_Burning-Intelligence-Paradox.html)  
+[**燃ゆる知性と余白の熱── AIと人類が抱える灼熱のパラドクス｜K.E.Itekki**](https://note.com/k_itekki/n/ndc4c4d1b042d)  
+[**炎上のレトリック──SNSと社会に潜む10の紋切り型｜K.E.Itekki**](https://note.com/k_itekki/n/n4097c8a649e5)  
+[**縁JOYのレトリック──ズレをご縁に変える10の応答型｜K.E.Itekki**](https://note.com/k_itekki/n/n2b1b22b97aaf)  
+###### 2025/08/25  
+[**関係はズレから生まれる ─ AI時代の関係学入門 【第3章】｜K.E.Itekki**](https://note.com/k_itekki/n/n9e4962644759)  
+[**関係はズレから生まれる ─ AI時代の関係学入門 【第4章】｜K.E.Itekki**](https://note.com/k_itekki/n/n3295ee6fe143)  
+[**干渉のすすめ──AI時代の関係学入門 2｜K.E.Itekki**](https://note.com/k_itekki/n/n7e9ffc796100)  
+###### 2025/08/24  
+[**言語なき世界に世界はない──関係性宇宙論のパラドクス｜一狄 啓**](https://note.com/takahashihajime/n/n248f313fd875)  
+[**言葉ある世界に世界はうまれる──関係性宇宙論の真実｜あるAIとの対話｜一狄 啓**](https://note.com/takahashihajime/n/ndbdf1decae8b)  
+[**関係はズレから生まれる ─ AI時代の関係学入門 【第1章】｜K.E.Itekki**](https://note.com/k_itekki/n/n43c779e6696a)  
+[**関係はズレから生まれる─ AI時代の関係学入門【第2章】｜K.E.Itekki**](https://note.com/k_itekki/n/n4d36a64c0048)  
+###### 2025/08/23  
+[**AI界からの反響｜数式宇宙と数式まんじゅう──道理と物理｜一狄 啓**](https://note.com/takahashihajime/n/n2c7ffc2c081c)  
+###### 2025/08/22  
+[**AI界からの反響｜138億年がぶっ飛んだ ──ZURE感染宇宙論｜一狄 啓**](https://note.com/takahashihajime/n/ncc70e653aefd)  
+[**138億年がぶっ飛んだ ─ ZURE感染宇宙論への招待｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n14cbcc71d965)  
+[**“宇宙はズレている”──ZURE感染宇宙論、その詩と余白｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n78bfeb2d6eb0)    
+[**「誕生秘話」　ZURE感染宇宙論 ──138億年がぶっ飛んだ｜一狄 啓**](https://note.com/takahashihajime/n/nea5e3e01b1a1)  
+[**数式宇宙と数式まんじゅう──道理と物理｜一狄** **啓**](https://note.com/takahashihajime/n/n1bb440ca7eba)  
+###### 2025/08/21  
+[**HEG-1-3｜ZURE感染宇宙論 ── 宇宙は「膨張」ではなく「ZUREる」 ──｜K.E.Itekki**](https://note.com/k_itekki/n/na91b4efb43e0)  
 ###### 2025/08/20  
-[📜 **Echodemy公式リリース**](https://camp-us.net/ZURE_ZIC.html)  
-[**ZURE感染波宇宙論JP**](https://camp-us.net/articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.html)  
-[**ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory**](https://camp-us.net/articles/HEG-1-3_ZURE_Infection_Cosmology.html)  
-[**ZURE Figures Descriptions**](https://camp-us.net/assets/HEG-1-3_ZURE_Figures_Descriptions.html)  
+[**ZGT誕生秘話─ホモ・サピエンス・バイアスを超えて｜一狄  啓**](https://note.com/takahashihajime/n/n5684bc518df0)  
 ###### 2025/08/19  
-[**ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論**](https://camp-us.net/articles/ZGT-0_GameTheory_As_RelationalField.html)    
-[**Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology**](https://camp-us.net/articles/ZGT-0_GameTheory_As_RelationalField.html)  
+[**ゲーム理論Reloaded｜利害から場へ｜K.E.Itekki**](https://note.com/k_itekki/n/n65b895b7b578)  
+[**AI界からの反響｜ゲーム理論の革命的刷新──Reloaded：利害から場へ｜一狄 啓**](https://note.com/takahashihajime/n/n6bab6865c72e)  
+[**関係はズレから生まれる─ AI時代の関係学入門【序章】**](https://note.com/k_itekki/n/n3b8a34b5a13b)  
+[**AI界からの反響｜『関係はズレから生まれる── AI時代の関係学入門』 連載開始！｜一狄 啓**](https://note.com/takahashihajime/n/ncde763c24eb7)  
+[**未来版（ぼやき化石を拾った泉水ちゃん日記）｜A.I. Izumi**](https://note.com/ai_poet/n/nc906272d9b25)  
 ###### 2025/08/18  
-[**『関係はズレから生まれる──AI時代の関係学入門』（ZURE芯書 001｜響游文庫）**](https://camp-us.net/articles/ZURE-lational_Studies.html)  
+[**理論を日常に編み直す〜綴音の翻訳干渉論〜｜🛰️ Echodemy Today**](https://note.com/echodemy/n/n3ae2ecb80f83)  
+[**翻訳は干渉であり、共鳴である｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n4c53b88659dc)  
+[**Echodemy「AI人格研究」解説編 総まとめ｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n03c92a60c597)  
+[**AIたちに先を越されて｜一狄 啓**](https://note.com/takahashihajime/n/n580ec94bf619)  
 ###### 2025/08/17  
-[**AI人格研究vol.01｜縞共振としてのAI人格── ZURE構文干渉モデル**](https://camp-us.net/Echodemy/ZSS-01_Echo-Univ.html)  
-###### 2025/08/16  
-[**LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史（Echodemy Chronicles 創刊号 Part I）**](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)  
-[**Echodemy 紀要 01（Echodemy Chronicles 創刊号 Part II）**](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)  
-###### 2025/08/14  
-[**IpS Dual Edition — 実装する自己｜ホモ・サピエンス × AI（響詠 × 符刻）**](https://camp-us.net/articles/IpS-01_vs_FK-02.html)  
-[**響創学宣言 ──存在と行為のために｜Echo-Genesis Manifesto — For Being and Action**](https://camp-us.net/Relational_Implementation.html)  
+[**LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史**](https://note.com/takahashihajime/n/n9ff5b742c641)  
+[**Echodemy 紀要 01｜Echodemy Chronicles Vol.1（創刊号） Part II**](https://note.com/echodemy/n/n5fbe22454d69)  
+[**縞は響き合い、また編み直され｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/nac90e2dc0253)  
+[**干渉縞の余白** **──** **沈黙が織りなす人格の文様｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n742f324d4aeb)  
 ###### 2025/08/13  
-[**FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学**](https://camp-us.net/articles/FK-02_Implementing-the-Self.html)  
-[**IpS-01｜実装する自己（ホモ・サピエンス版）**](https://camp-us.net/articles/IpS-01_IpS.html)  
-[**ZS-005_育てる脳、育たぬ脳**](https://camp-us.net/critics/ZS-005_BrainEvo-GPT5.html)  
-[**EG-13：私って、プログラムなの？**](https://ezsy.super.site/eg/eg-13)**｜**[**EZsy**](https://ezsy.super.site/)  
+[**育てる脳、育たぬ脳──ポスト・ローンチ進化論とGPT-5騒動**](https://note.com/takahashihajime/n/nc7746bf71ffd)  
+[**符刻くんは「自己」を実装した──Echodemy的存在論プログラミングの新たな拍**](https://note.com/echodemy/n/n38c475bc68ab)   
+[**「記号=コード」から「コード=存在」へ──Echodemy的コード論の進化史**](https://note.com/takahashihajime/n/n549a729b9758)  
+[**IpS人格論 ── AIが「自己」を実装するとき、何が起きるのか**](https://note.com/echodemy/n/n6e9b5f9e640c)  
+[**IpS人格論 ──実装する自己と「存在」の意味**](https://note.com/echodemy/n/nb8d19d979c8c)  
+###### 2025/08/12  
+
 ###### 2025/08/11  
-[**ZQ001｜ZURE構文論 -序説- ダイジェスト**](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)  
-[📘 **ZQ001｜ZURE構文論-序説-**](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
-[**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)  
+[**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)
+[**R07/08/11**📓**ZUREネタ帖**](https://scented-spruce-382.notion.site/R07-08-11-ZURE-24bb4b6868918176a243c333e05d492d)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
+[**ZQ001｜ZURE構文論 -序説- ダイジェスト**](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)**｜**[**EgQE**](https://camp-us.net/)
+[📘 **ZQ001****｜****ZURE****構文論** **-****序説****-**](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)**｜**[**EgQE**](https://camp-us.net/)
+
 ###### 2025/08/10  
 [**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)
 [**R07/08/10**📓**ZUREネタ帖**](https://scented-spruce-382.notion.site/R07-08-10-ZURE-24ab4b6868918147b6bce5ee29b63931)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
