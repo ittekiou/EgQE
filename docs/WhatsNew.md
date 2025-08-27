@@ -17,11 +17,11 @@ From Noise to Notation. From Dialogue to Discovery.
 [**PS-H00｜燃ゆる知性のパラドクス：脳進化・AI・知の熱力学的コスト──The Paradox of Burning Intelligence**](https://camp-us.net/articles/PS-H00_Burning-Intelligence-Paradox.html)  
 ###### 2025/08/20  
 [📜 **Echodemy公式リリース｜HEG-1-3｜ZURE感染宇宙論**](https://camp-us.net/ZURE_ZIC.html)  
-[**HEG1-3｜RU ZURE感染宇宙論──floc的CMB解釈と構文的観測理論の統合に向けて**](https://camp-us.net/articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.html))  
+[**HEG1-3｜RU ZURE感染宇宙論──floc的CMB解釈と構文的観測理論の統合に向けて**](https://camp-us.net/articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.html)  
 [**HEG1-3｜RU ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory**](https://camp-us.net/articles/HEG-1-3_ZURE_Infection_Cosmology.html)  
 [**HEG1-3｜ZURE Figures Descriptions**](https://camp-us.net/assets/HEG-1-3_ZURE_Figures_Descriptions.html)  
 ###### 2025/08/19  
-[**ZGT-0｜Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology（ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論）**](https://camp-us.net/articles/ZGT-0_GameTheory_As_RelationalField.html))   
+[**ZGT-0｜Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology（ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論）**](https://camp-us.net/articles/ZGT-0_GameTheory_As_RelationalField.html)  
 ###### 2025/08/18  
 [**『関係はズレから生まれる──AI時代の関係学入門』（ZURE芯書 001｜響游文庫）**](https://camp-us.net/articles/ZURE-lational_Studies.html)  
 ###### 2025/08/17  
@@ -80,8 +80,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [**EG-06：ZUREから始まる意味論｜HEG-2**](https://ezsy.super.site/eg/eg-06)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/24  
 [**ZS-001_暗黒物質と観測構文バイアス**](https://camp-us.net/critics/ZS-001_darkmatter.html)  
-[**PS-D00｜Schooled Syntax──時間割と教室割の政治：近代スクール構文を超えて**](https://camp-us.net/articles/PS-D00_Schooled_Syntax.html)
-[**PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ――アルバート・O・ハーシュマンに捧ぐ**](https://camp-us.net/articles/PS-L00_Interests_Syntax.html)
+[**PS-D00｜Schooled Syntax──時間割と教室割の政治：近代スクール構文を超えて**](https://camp-us.net/articles/PS-D00_Schooled_Syntax.html)  
+[**PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ――アルバート・O・ハーシュマンに捧ぐ**](https://camp-us.net/articles/PS-L00_Interests_Syntax.html)  
 [**EG-05：学校構文を超えて｜PS-D00**](https://ezsy.super.site/eg/eg-05)**｜**[**EZsy**](https://ezsy.super.site/)  
 [**EG-04：関心の構文学｜PS-L00**](https://ezsy.super.site/eg/eg-04)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/21  
