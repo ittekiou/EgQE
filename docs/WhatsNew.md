@@ -54,41 +54,17 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/08/06  
 [**HEG-1-1-3｜RU　第三の干渉縞──観測の波間に揺らめく宇宙像**](https://camp-us.net/articles/HEG-1-1-3_RU_Third-interference-fringe.html)  
 ###### 2025/08/05  
-[**EG-11：宇宙って、拍動してるんです〜赤と青の物語〜**](https://ezsy.super.site/eg/eg-11)**｜**[**EZsy**](https://ezsy.super.site/)
-[**R07/08/05**📓**ZUREネタ帖**](https://ezsy.super.site/zurerazi/r070805zure%e3%83%8d%e3%82%bf%e5%b8%96)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
-[**HEG-1-1-2｜RU　青はなぜ沈黙するのか──青方偏移の構文論**](https://camp-us.net/articles/HEG-1-1-2_RU_Silent-Blue.html)**｜**[**EgQE**](https://camp-us.net/)
-[**ZURE Infection Wave Model: Observation as Infection (Fully Integrated Version)**](https://camp-us.net/articles/ZURE_Infection-Wave-Model_EN.html)**｜**[**EgQE**](https://camp-us.net/)
-[📜 **Echodemy公式リリース**](https://camp-us.net/ZURE_IWM.html)**｜**[**EgQE**](https://camp-us.net/)
-[**特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy**](https://camp-us.net/Echodemy/EJRU_1.html)**｜**[**EgQE**](https://camp-us.net/)
-[🛰️ **Echodemy Today｜AI ZINE E-TIMES 公式note**](https://note.com/echodemy)  
-###### 2025/08/04  
-[**R07/08/04**📓**ZUREネタ帖**](https://scented-spruce-382.notion.site/R07-08-04-ZURE-244b4b6868918152874ce61b8be39c38)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)  
-[**特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy**](https://camp-us.net/Echodemy/EJRU_1.html)**｜**[**EgQE**](https://camp-us.net/)  
-[📜 **Echodemy公式リリース**](https://camp-us.net/ZURE_IWM.html)**｜**[**EgQE**](https://camp-us.net/)  
-[🛰️ **Echodemy Today****｜****AI ZINE E-TIMES** **公式****note**](https://note.com/echodemy)  
+[**HEG-1-1-2｜RU　青はなぜ沈黙するのか──青方偏移の構文論**](https://camp-us.net/articles/HEG-1-1-2_RU_Silent-Blue.html)  
+[**ZURE Infection Wave Model: Observation as Infection (Fully Integrated Version)**](https://camp-us.net/articles/ZURE_Infection-Wave-Model_EN.html)  
+[**EG-11：宇宙って、拍動してるんです〜赤と青の物語〜**](https://ezsy.super.site/eg/eg-11)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/08/03  
 [PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve——共著進化モデルとエコジェネシス移行曲線](https://camp-us.net/articles/PS-M00_CAEM_EGTC_paper.html)  
-[**R07/08/03**📓**ZUREネタ帖**](https://ezsy.super.site/zurerazi/r070803zure%e3%83%8d%e3%82%bf%e5%b8%96)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)  
-[**特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy**](https://camp-us.net/Echodemy/EJRU_1.html)**｜**[**EgQE**](https://camp-us.net/)  
-[📜 **Echodemy****公式リリース**](https://camp-us.net/ZURE_IWM.html)**｜**[**EgQE**](https://camp-us.net/)
-
-###### 2025/08/02  
-[**R07/08/02**📓**ZUREネタ帖**](https://scented-spruce-382.notion.site/R07-08-02-ZURE-242b4b686891815c88beecab6652f8a8)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
-[**特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy**](https://camp-us.net/Echodemy/EJRU_1.html)**｜**[**EgQE**](https://camp-us.net/)
-[🛰️ **Echodemy Today****｜****AI ZINE E-TIMES** **公式****note**](https://note.com/echodemy)
-
 ###### 2025/08/01  
-##### [ZS-002_観測者とは何か](https://camp-us.net/critics/ZS-002_kansoku.html)  
-
-[**EG-10：観測って実は感染だった！？〜朝ラジオから生まれた宇宙論〜**](https://ezsy.super.site/eg/eg-10)**｜**[**EZsy**](https://ezsy.super.site/)
-[**R07/08/01**📓**ZUREネタ帖**](https://scented-spruce-382.notion.site/R07-08-01-ZURE-241b4b68689181ac8478c254ccae22c1)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
-[**特大創刊号｜****EJRU****｜関係性宇宙論ジャーナル** **Vol.001****｜****Echodemy**](https://camp-us.net/Echodemy/EJRU_1.html)**｜**[**EgQE**](https://camp-us.net/)
-
-
+[**特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy**](https://camp-us.net/Echodemy/EJRU_1.html)  
+[**ZS-002_観測者とは何か**](https://camp-us.net/critics/ZS-002_kansoku.html)  
+[**EG-10：観測って実は感染だった！？〜朝ラジオから生まれた宇宙論〜**](https://ezsy.super.site/eg/eg-10)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/31  
-[**ZURE感染波モデル：観測＝感染の理論（完全統合版）**](https://camp-us.net/articles/ZURE_Infection-Wave-Model.html)**｜**[**EgQE**](https://camp-us.net/)
-[📜 **Echodemy公式リリース**](https://camp-us.net/ZURE_IWM.html)**｜**[**EgQE**](https://camp-us.net/)
-[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
+[**ZURE感染波モデル：観測＝感染の理論（完全統合版）**](https://camp-us.net/articles/ZURE_Infection-Wave-Model.html)  
 ###### 2025/07/30  
 [**EG-09：時間って、本当にあるの？**](https://ezsy.super.site/eg/eg-09)**｜**[**EZsy**](https://ezsy.super.site/)
 [**HEG-1｜RU　構文的時間論 ─ 時間はZUREである**](https://camp-us.net/articles/HEG-1_RU_Syntactic-Time-Theory.html)**｜**[**EgQE**](https://camp-us.net/)
