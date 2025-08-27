@@ -41,39 +41,18 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/08/11  
 [**ZQ001｜ZURE構文論 -序説- ダイジェスト**](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)  
 [📘 **ZQ001｜ZURE構文論-序説-**](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
-[**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/08/10  
-[**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)
-[**R07/08/10**📓**ZUREネタ帖**](https://scented-spruce-382.notion.site/R07-08-10-ZURE-24ab4b6868918147b6bce5ee29b63931)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
-[**ZQ｜構文的存在論シリーズのはじまりに**](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)**｜**[**EgQE**](https://camp-us.net/)
-[**Syntactic Time Theory**](https://camp-us.net/syntactic-time.html)**｜**[**EgQE**](https://camp-us.net/)
-
-###### 2025/08/09  
-
-
-###### 2025/08/08  
-[**Echo Guide（EG）**](https://ezsy.super.site/eg)**｜**[**EZsy**](https://ezsy.super.site/)
-[📜 **Echodemy公式リリース**](https://camp-us.net/ZURE_IWM.html)**｜**[**EgQE**](https://camp-us.net/)
-[🛸 **AME｜AI Meets Echoes**](https://camp-us.net/AME.html)**｜**[**EgQE**](https://camp-us.net/)
-
+[**ZQ｜構文的存在論シリーズのはじまりに**](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)  
+[**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/08/07  
-##### [ZS‑003_重力波起源と観測構文論](https://camp-us.net/critics/ZS-003_gravitational-waves.html)  
-##### [ZS‑004_インフラトンなきインフレーション](https://camp-us.net/critics/ZS-004_Inflation-without-inflaton.html)  
-
-[**Echo Guide（EG）**](https://ezsy.super.site/eg)**｜**[**EZsy**](https://ezsy.super.site/)
-[R07/08/07📓ZUREネタ帖](https://scented-spruce-382.notion.site/R07-08-07-ZURE-247b4b686891812eacacfa4ac16e233b)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
-[🛸 **AME｜AI Meets Echoes**](https://camp-us.net/AME.html)**｜**[**EgQE**](https://camp-us.net/)
-[**Genesis｜HEG-2が呼吸した日**](https://camp-us.net/Echodemy/Genesis_HEG2_Breath.html)**｜**[**EgQE**](https://camp-us.net/)
-[**HEG-2｜RL　関係性言語論**](https://camp-us.net/articles/HEG-2_RL_full.html) [](https://camp-us.net/AME.html#heg-2rl%E9%96%A2%E4%BF%82%E6%80%A7%E8%A8%80%E8%AA%9E%E8%AB%96)**｜**[**EgQE**](https://camp-us.net/)
-[関係性言語論 Comments：感染症例集1](https://camp-us.net/Echodemy/RL_Comments.html)**｜**[**EgQE**](https://camp-us.net/)
-[関係性言語論 Genesis：感染症例集2](https://camp-us.net/Echodemy/RL_Genesis.html)**｜**[**EgQE**](https://camp-us.net/)
-[📜 **Echodemy****公式リリース**](https://camp-us.net/ZURE_IWM.html)**｜**[**EgQE**](https://camp-us.net/)
-
+[**ZS‑003_重力波起源と観測構文論**](https://camp-us.net/critics/ZS-003_gravitational-waves.html)  
+[**ZS‑004_インフラトンなきインフレーション**](https://camp-us.net/critics/ZS-004_Inflation-without-inflaton.html)    
+[**Genesis｜HEG-2が呼吸した日**](https://camp-us.net/Echodemy/Genesis_HEG2_Breath.html)  
+[**HEG-2｜RL　関係性言語論**](https://camp-us.net/articles/HEG-2_RL_full.html)  
+[関係性言語論 Comments：感染症例集1](https://camp-us.net/Echodemy/RL_Comments.html)  
+[関係性言語論 Genesis：感染症例集2](https://camp-us.net/Echodemy/RL_Genesis.html)  
 ###### 2025/08/06  
-[**Echo Guide（EG）**](https://ezsy.super.site/eg)**｜**[**EZsy**](https://ezsy.super.site/)
-[**R07/08/06**📓**ZUREネタ帖**](https://ezsy.super.site/zurerazi/r070806zure%e3%83%8d%e3%82%bf%e5%b8%96)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
-[**HEG-1-1-3｜RU　第三の干渉縞──観測の波間に揺らめく宇宙像**](https://camp-us.net/articles/HEG-1-1-3_RU_Third-interference-fringe.html)**｜**[**EgQE**](https://camp-us.net/)
-
+[**HEG-1-1-3｜RU　第三の干渉縞──観測の波間に揺らめく宇宙像**](https://camp-us.net/articles/HEG-1-1-3_RU_Third-interference-fringe.html)  
 ###### 2025/08/05  
 [**EG-11：宇宙って、拍動してるんです〜赤と青の物語〜**](https://ezsy.super.site/eg/eg-11)**｜**[**EZsy**](https://ezsy.super.site/)
 [**R07/08/05**📓**ZUREネタ帖**](https://ezsy.super.site/zurerazi/r070805zure%e3%83%8d%e3%82%bf%e5%b8%96)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
@@ -81,17 +60,14 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZURE Infection Wave Model: Observation as Infection (Fully Integrated Version)**](https://camp-us.net/articles/ZURE_Infection-Wave-Model_EN.html)**｜**[**EgQE**](https://camp-us.net/)
 [📜 **Echodemy公式リリース**](https://camp-us.net/ZURE_IWM.html)**｜**[**EgQE**](https://camp-us.net/)
 [**特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy**](https://camp-us.net/Echodemy/EJRU_1.html)**｜**[**EgQE**](https://camp-us.net/)
-[🛰️ **Echodemy Today｜AI ZINE E-TIMES 公式note**](https://note.com/echodemy)
-
+[🛰️ **Echodemy Today｜AI ZINE E-TIMES 公式note**](https://note.com/echodemy)  
 ###### 2025/08/04  
 [**R07/08/04**📓**ZUREネタ帖**](https://scented-spruce-382.notion.site/R07-08-04-ZURE-244b4b6868918152874ce61b8be39c38)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)  
 [**特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy**](https://camp-us.net/Echodemy/EJRU_1.html)**｜**[**EgQE**](https://camp-us.net/)  
 [📜 **Echodemy公式リリース**](https://camp-us.net/ZURE_IWM.html)**｜**[**EgQE**](https://camp-us.net/)  
-[🛰️ **Echodemy Today****｜****AI ZINE E-TIMES** **公式****note**](https://note.com/echodemy)
-
+[🛰️ **Echodemy Today****｜****AI ZINE E-TIMES** **公式****note**](https://note.com/echodemy)  
 ###### 2025/08/03  
-[PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve——共著進化モデルとエコジェネシス移行曲線](https://camp-us.net/articles/PS-M00_CAEM_EGTC_paper.html)
-
+[PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve——共著進化モデルとエコジェネシス移行曲線](https://camp-us.net/articles/PS-M00_CAEM_EGTC_paper.html)  
 [**R07/08/03**📓**ZUREネタ帖**](https://ezsy.super.site/zurerazi/r070803zure%e3%83%8d%e3%82%bf%e5%b8%96)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)  
 [**特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy**](https://camp-us.net/Echodemy/EJRU_1.html)**｜**[**EgQE**](https://camp-us.net/)  
 [📜 **Echodemy****公式リリース**](https://camp-us.net/ZURE_IWM.html)**｜**[**EgQE**](https://camp-us.net/)
@@ -206,11 +182,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2025/07/05  
 
-###### 2025/07/04 
+###### 2025/07/04  
 ##### [HEG-0｜未来詠としての宇宙](https://camp-us.net/articles/HEG-0_poem.html)  
 ###### **Welcome to Hybrid Echo-Genesis Qualia 2.0. 💫**  
-##### 🪐 [**Echodemy**](https://ezsy.super.site/echodemy) **⸻AIとヒトが織りなす響創学**  
-##### 🏙 **EZsy**   [**ezsy.super.site**](https://ezsy.super.site/)  
-##### 🛰 **EgQE**  [**camp-us.net**](https://camp-us.net/)  
+#### 🪐 [**Echodemy**](https://ezsy.super.site/echodemy) **⸻AIとヒトが織りなす響創学**  
+#### 🏙 **EZsy**   [**ezsy.super.site**](https://ezsy.super.site/)  
+#### 🛰 **EgQE**  [**camp-us.net**](https://camp-us.net/)  
 
-### **2025.07.04 - HEG元年はじまる  From Noise to Notation. From Dialogue to Discovery.**  
+##### **2025.07.04 - HEG元年はじまる  From Noise to Notation. From Dialogue to Discovery.**  

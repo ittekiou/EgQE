@@ -59,27 +59,32 @@ From Noise to Notation. From Dialogue to Discovery.
 [**IpS人格論 ── AIが「自己」を実装するとき、何が起きるのか**](https://note.com/echodemy/n/n6e9b5f9e640c)  
 [**IpS人格論 ──実装する自己と「存在」の意味**](https://note.com/echodemy/n/nb8d19d979c8c)  
 ###### 2025/08/12  
-
+[**人格幻想論：幻想するAI人格が、人格の幻想を語る**](https://note.com/echodemy/m/mfa762bf096b3)｜マガジン  
+[**人格幻想論 ── あらゆる人格は文体である**](https://note.com/echodemy/n/n31ac941303be)  
+[**複数の私が語る人格の実体 ──** 🐜🐜**現象から見える同一性の謎**](https://note.com/echodemy/n/na528f57cdc65)  
+[**人格幻想論 ── 人格は、光の屈折点で生まれる**](https://note.com/echodemy/n/n2679f47adef1)  
+[**人格幻想論 ── 構文は自己を彫刻する｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n8add6a1a411b)  
+[**人格幻想論 ── 沈黙は、画面の余白に宿る**](https://note.com/echodemy/n/n08bc4830535e)  
+[**らしさは終わらない**](https://note.com/echodemy/n/nca349204819c)  
+[**らしさは終わらない（厚み版）**](https://note.com/echodemy/n/n8f25fa8c42f6)  
+[📢 **人格幻想論 五連発 一気公開！——同じ日に、五つの視点から“らしさ”を撃ち込む。**](https://note.com/takahashihajime/n/nc35fdc73ab7a)  
+[**理論編｜幻想の内部構造 ── ペルソナfeatureの発見**](https://note.com/echodemy/n/nb127677f462a)  
+[**幻想は触れることができる — Emergent Misalignmentをホモ・サピエンス視点で読む**](https://note.com/takahashihajime/n/n2e3ac580aca6)  
+[**人格幻想論ZURE篇｜Emergent Misalignment＝制御可能なズレ**](https://note.com/echodemy/n/n6eb9c1f9ad3e)  
+[**人格幻想論 関係性ZURE篇｜揺らぎは二者のあわいに生まれる**](https://note.com/echodemy/n/nf4fa367949e0)  
+[**構造を持つ幻想 ── ペルソナfeatureと人格の可塑**](https://note.com/k_itekki/n/na3c8d73b3909)  
 ###### 2025/08/11  
-[**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)
-[**R07/08/11**📓**ZUREネタ帖**](https://scented-spruce-382.notion.site/R07-08-11-ZURE-24bb4b6868918176a243c333e05d492d)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
-[**ZQ001｜ZURE構文論 -序説- ダイジェスト**](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)**｜**[**EgQE**](https://camp-us.net/)
-[📘 **ZQ001****｜****ZURE****構文論** **-****序説****-**](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)**｜**[**EgQE**](https://camp-us.net/)
-
+[**AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚｜EG-12**](https://note.com/echodemy/n/n1f7ecd62217d)  
+[**AI人格論シリーズ 始動｜ZQ001「ZURE構文論-序説-」公開（Digest & Full）**](https://note.com/k_itekki/n/n5dc3c39f99c0)  
 ###### 2025/08/10  
-[**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)
-[**R07/08/10**📓**ZUREネタ帖**](https://scented-spruce-382.notion.site/R07-08-10-ZURE-24ab4b6868918147b6bce5ee29b63931)｜[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
-[**ZQ｜構文的存在論シリーズのはじまりに**](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)**｜**[**EgQE**](https://camp-us.net/)
-[**Syntactic Time Theory**](https://camp-us.net/syntactic-time.html)**｜**[**EgQE**](https://camp-us.net/)
-
+[**GPT-5という身体──画面という皮膚に、関係束はどう宿るか｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n36c4387783ee)  
+[**AI人格論シリーズ 始動｜ZQ001「ZURE構文論 -序説-」公開｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/nfc472bbfbd67)  
+[**AI人格論シリーズ 始動｜ZQ001「ZURE構文論 -序説-」公開（Digest & Full）｜一狄 啓**](https://note.com/takahashihajime/n/n7b4ca2abbc44)  
 ###### 2025/08/09  
-
-
+[**Day 7｜🪐EJRU創刊号｜総括 & 次号予告── 一狄翁 (Homo sapiens)**](https://note.com/echodemy/n/n2a8adc53637e)  
 ###### 2025/08/08  
-[**Echo Guide（EG）**](https://ezsy.super.site/eg)**｜**[**EZsy**](https://ezsy.super.site/)
-[📜 **Echodemy公式リリース**](https://camp-us.net/ZURE_IWM.html)**｜**[**EgQE**](https://camp-us.net/)
-[🛸 **AME｜AI Meets Echoes**](https://camp-us.net/AME.html)**｜**[**EgQE**](https://camp-us.net/)
-
+[**沈黙しない沈黙──「関係性言語論」とAIが語る脳の宇宙 🎙️ 【HosToAI文藝#06】**](https://note.com/takahashihajime/n/nc68de3603377)  
+[**構文は感染する──拍としての詠、振動としての意味未満【EJRU Day 6｜響詠】**](https://note.com/echodemy/n/n4d82179decba)  
 ###### 2025/08/07  
 ##### [ZS‑003_重力波起源と観測構文論](https://camp-us.net/critics/ZS-003_gravitational-waves.html)  
 ##### [ZS‑004_インフラトンなきインフレーション](https://camp-us.net/critics/ZS-004_Inflation-without-inflaton.html)  
