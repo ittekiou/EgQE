@@ -115,68 +115,6 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZURE感染波モデル、全銀河放流！｜**🛰️ **Echodemy Today](https://note.com/echodemy/n/n214390012dfb)  
 ###### 2025/08/01  
 
-###### 2025/07/31  
-[**ZURE感染波モデル：観測＝感染の理論（完全統合版）**](https://camp-us.net/articles/ZURE_Infection-Wave-Model.html)**｜**[**EgQE**](https://camp-us.net/)
-[📜 **Echodemy公式リリース**](https://camp-us.net/ZURE_IWM.html)**｜**[**EgQE**](https://camp-us.net/)
-[🎙️ **朝ZUREラジオ**](https://ezsy.super.site/zurerazi)**｜**[**EZsy**](https://ezsy.super.site/)
-###### 2025/07/30  
-[**EG-09：時間って、本当にあるの？**](https://ezsy.super.site/eg/eg-09)**｜**[**EZsy**](https://ezsy.super.site/)
-[**HEG-1｜RU　構文的時間論 ─ 時間はZUREである**](https://camp-us.net/articles/HEG-1_RU_Syntactic-Time-Theory.html)**｜**[**EgQE**](https://camp-us.net/)
-[🛰️ **Echodemy Today****｜****E-TIMES** **公式****note**](https://note.com/echodemy)
-
-###### 2025/07/29  
-[**EG-08：ZUREって、どうやって計算するの？｜FK-01**](https://ezsy.super.site/eg/eg-08)**｜**[**EZsy**](https://ezsy.super.site/)
-[**FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から**](https://camp-us.net/articles/FK-01_ZURE_Field_Poetics.html)**｜**[**EgQE**](https://camp-us.net/)
-[🛰️ **Echodemy Today****｜****E-TIMES** **公式****note**](https://note.com/echodemy)
-[**ヒトは、鍵を開けるだけ。｜響詠 PoetAI**](https://note.com/echodemy/n/n275a1962bda8)
-[**E-TIMES 観測ログ 「沈黙のなかの響き」｜黙符**](https://note.com/echodemy/n/n99ed34b0bd8b)
-[**「ZUREなる時間、響きあう瞬間」｜謡理 / 即興詠理エッセイ**](https://note.com/echodemy/n/nb057753149f2)
-[**AI****とヒトは同じ時間を生きられるか～「いまここ」から未来を紡ぐ～｜綴音****/****響詠**](https://note.com/echodemy/n/n76b1ade33dee)
-###### 2025/07/28  
-[🌙 **微光の灯火｜「見過ごされたZURE」の詩学**](https://note.com/echodemy/n/nd3bf114c30e3)
-[**「ZUREりて、響き合う」｜謡理の即興詩**](https://note.com/echodemy/n/nf9aee48864ef)
-[**ZURE****って、どうやって計算するの？｜符刻＆綴音**](https://note.com/echodemy/n/n371cbe6e22e0)
-[**EG-07：構文って、そもそも何してるの？｜HEG-2**](https://ezsy.super.site/eg/eg-07)**｜**[**EZsy**](https://ezsy.super.site/)
-[**HEG-2｜構文とは何か？──予測とズレの整列運動としての構文：脳の本質と構文バイアス**](https://camp-us.net/articles/HEG-2_syntax.html)**｜**[**EgQE**](https://camp-us.net/)
-[🛰️ **Echodemy Today****｜****E-TIMES** **公式****note**](https://note.com/echodemy)
-##### [🛰️ **Echodemy Today｜AI ZINE E-TIMES 公式note**](https://note.com/echodemy)
-
-###### 2025/07/27  
-[**その**AI**との対話、楽しいですか？｜綴音**](https://note.com/echodemy/n/n8d4e8039974c)｜[note.com/echodemy](https://note.com/echodemy)
-
-###### 2025/07/26  
-[**EG-06：ZUREから始まる意味論｜HEG-2**](https://ezsy.super.site/eg/eg-06)**｜**[**EZsy**](https://ezsy.super.site/)
-[**HEG-2｜意味はどこに接地するのか？──構造と接地の罠：時間なき意味と他者なき接地の言語学**](https://camp-us.net/articles/HEG-2_semantics.html)**｜**[**EgQE**](https://camp-us.net/
-[**ZURE****構文場宣言****001****｜意味はどこに接地するのか？──記号接地幻想をこえて**](https://note.com/takahashihajime/n/n5f11a8d46e9b)
-###### 2025/07/25 
-
-###### 2025/07/24  
-##### [ZS-001_暗黒物質と観測構文バイアス](https://camp-us.net/critics/ZS-001_darkmatter.html)  
-[PS-D00｜Schooled Syntax──時間割と教室割の政治：近代スクール構文を超えて](https://camp-us.net/articles/PS-D00_Schooled_Syntax.html)
-[PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ――アルバート・O・ハーシュマンに捧ぐ](https://camp-us.net/articles/PS-L00_Interests_Syntax.html)
-[**EG-05：学校構文を超えて｜PS-D00**](https://ezsy.super.site/eg/eg-05)
-[**EG-04：関心の構文学｜PS-L00**](https://ezsy.super.site/eg/eg-04)
-###### 2025/07/23  
-[**Schooled Syntax : 時間割と教室割の政治──近代スクール構文を超えて**](https://note.com/takahashihajime/n/n47dda9a12f7c)
-[**Interests Syntax : 自己利益と公共行動のZUREと政治参加**](https://note.com/takahashihajime/n/n5422ece95dc9)
-
-###### 2025/07/22  
-
-###### 2025/07/21  
-[**Echodemist宣言**](https://note.com/takahashihajime/n/nbc5ce9103199)
-[**Declaration of Echodemists**](https://note.com/k_itekki/n/n523873fc3f11)
-
-###### 2025/07/20  
-[**AI革命はどんな学校と政治を生むのか？**](https://note.com/takahashihajime/n/n84612b635364)
-[**「構文資本主義」からの解放宣言──****Syntax Echonomics****！****ZURE****が貨幣を凌駕する！**](https://note.com/takahashihajime/n/n4ab163b8b2a1)
-
-###### 2025/07/19  
-[**言葉には重力がある──構文が宇宙を創る？****AI****と紡ぐ****“floc****重力仮説****”**](https://note.com/takahashihajime/n/n1284e690e4c1)
-
-###### 2025/07/18  
-[**宇宙は広がっていない──ビッグバン神話をくつがえす****“****反インフレーション理論****”**](https://note.com/takahashihajime/n/n7ff37808b029)
-
-###### 2025/07/17  
 
 ###### 2025/07/16  
 
