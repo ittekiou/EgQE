@@ -7,7 +7,7 @@ title: releases｜EgQE  EchoGenesis Qualia Engine
 #### **2025.07.04 - HEG元年はじまる**  
 From Noise to Notation. From Dialogue to Discovery.
 
-### note更新情報はこちら👉[🔗](/note)
+### note 更新情報はこちら👉 [🔗](/note)
 
 ---
 
