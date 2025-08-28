@@ -32,6 +32,8 @@
 
 ##### 🌀 関連論文リンク：  
 ・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
+・[HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
+・[HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
 
 #### ZURE科学詠評
 [ZS-001_暗黒物質と観測構文バイアス](./critics/ZS-001_darkmatter.md)  

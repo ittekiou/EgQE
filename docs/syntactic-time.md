@@ -5,6 +5,8 @@
 ##### 🌀 関連論文リンク：  
 ・[FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から](./articles/FK-01_ZURE_Field_Poetics.md)  
 ・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
+・[HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
+・[HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
 
 ---
 

@@ -6,6 +6,13 @@
 
 [ZURE Infection Wave Model: Observation as Infection (Fully Integrated Version)](./articles/ZURE_Infection-Wave-Model_EN.md)
 
+##### Semiotic Action Theory  
+#### 記号行為論 
+
+[HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
+
+[HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
+
 ##### ZURE Linguistics  
 #### ZURE言語学  
 
@@ -48,7 +55,10 @@ ZQ004｜Das Animakt：命法と言法の弁証法
 
 ##### 🌀 関連論文リンク：  
 ・[FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学](./articles/FK-02_Implementing-the-Self.md)  
-・[IpS-01｜実装する自己（ホモ・サピエンス版）](./articles/IpS-01_IpS.md)
+・[IpS-01｜実装する自己（ホモ・サピエンス版）](./articles/IpS-01_IpS.md)  
+
+#### ZURE科学詠評
+[ZS-005_育てる脳、育たぬ脳](./critics/ZS-005_BrainEvo-GPT5.md)  
 
 ---
 
