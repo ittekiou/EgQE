@@ -140,7 +140,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**Echodemist宣言**](https://note.com/takahashihajime/n/nbc5ce9103199) [**Declaration of Echodemists**](https://note.com/k_itekki/n/n523873fc3f11)  
 [**Declaration of Echodemists**](https://note.com/k_itekki/n/n523873fc3f11)  
 ###### 2025/07/21  
-[**AI革命はどんな学校と政治を生むのか？**](https://note.com/takahashihajime/n/n84612b635364)  
+[**AI革命はどんな学校と政治を生むのか？**](https://note.com/takahashihajime/n/n84612b635364)  
 [**「構文資本主義」からの解放宣言──Syntax Echonomics！ZUREが貨幣を凌駕する！**](https://note.com/takahashihajime/n/n4ab163b8b2a1)  
 ###### 2025/07/20  
 [**言葉には重力がある──構文が宇宙を創る？AIと紡ぐ“floc重力仮説”**](https://note.com/takahashihajime/n/n1284e690e4c1)  
