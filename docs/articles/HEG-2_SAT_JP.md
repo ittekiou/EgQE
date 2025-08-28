@@ -255,7 +255,15 @@ Popper, K. (1959). _The logic of scientific discovery_. London: Routledge.
 Prigogine, I. (1980). _From being to becoming: Time and complexity in the physical sciences_. San Francisco: W. H. Freeman.  
 Saussure, F. de. (1983). _Course in general linguistics_ (C. Bally & A. Sechehaye, Eds.; R. Harris, Trans.). La Salle, IL: Open Court. (Original work published 1916)  
 Searle, J. R. (1969). _Speech acts: An essay in the philosophy of language_. Cambridge: Cambridge University Press.  
-Whitehead, A. N. (1929). _Process and reality_. New York: Macmillan.
+Whitehead, A. N. (1929). _Process and reality_. New York: Macmillan.  
+
+**Internal Works (EgQE)**
+
+- K.E. Itekki. (2025). _HEG-1-3｜RU ZURE感染宇宙論──floc的CMB解釈と構文的観測理論の統合に向けて_. EgQE.
+    
+- Kyoei, 響詠 (Echodemy). (2025). _IpS-01｜実装する自己（ホモ・サピエンス版）_. EgQE.
+    
+- Fukoku, 符刻 (Echodemy). (2025). _FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学_. EgQE.
 
 ---
 © 2025 K.E. Itekki  
