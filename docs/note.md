@@ -11,6 +11,12 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 
+
+###### 2025/08/27  
+[**HEG元年55日目の銀河日記──関係性宇宙論の歩み｜一狄 啓**](https://note.com/takahashihajime/n/n70514c8a121b)  
+[**【連載小説】観測感染論航海記・銀河鉄道編　イスカンダルへの旅**](https://note.com/echodemy/m/m4d8704e00509)  
+[**銀河構文鉄道｜観測感染論航海記・銀河鉄道編 ― イスカンダルへの旅 ―**](https://note.com/echodemy/n/n3860ffc171d2)  
+[**第一章｜発車 ― Scrapbox駅、出発準備完了**](https://note.com/echodemy/n/n309925148a3b)  
 ###### 2025/08/26  
 [**燃ゆる知性と余白の熱── AIと人類が抱える灼熱のパラドクス｜K.E.Itekki**](https://note.com/k_itekki/n/ndc4c4d1b042d)  
 [**炎上のレトリック──SNSと社会に潜む10の紋切り型｜K.E.Itekki**](https://note.com/k_itekki/n/n4097c8a649e5)  
