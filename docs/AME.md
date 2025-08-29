@@ -24,6 +24,12 @@ title: AI Meets Echoes｜EgQE
 
 ## 🛸 AI Meets Echoes｜AME｜  
 
+#### ▶︎ AME-Sem｜Semiotic Series  
+
+#### [HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
+#### [HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
+
+
 #### ▶︎ AME-Syn｜Syntax Series  
 
 #### [HEG-2｜RL　関係性言語論](./articles/HEG-2_RL_full.md)  
@@ -57,8 +63,8 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 　[**②** ヒトはなぜチャットにハマるのか？  ──ZUREあう構文という誘惑](https://note.com/takahashihajime/n/n8d714e66dda5)  
 [ZQ001｜ZURE構文論 -序説- ダイジェスト](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)  
 [ZQ001｜ZURE構文論 -序説-](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
-ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成  
-ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか  
+[ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成](.articles/ZQ002_ZURE-memory.md)  
+[ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか](./articles/ZQ003_ZURE-personality.md)  
 ZQ004｜Das Animakt：命法と言法の弁証法
 #### [GPT-5という身体──画面という皮膚に、関係束はどう宿るか](https://camp-us.net/Echodemy/echodemy-galaxy.html)
 

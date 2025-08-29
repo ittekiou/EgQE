@@ -10,7 +10,6 @@
 #### 記号行為論 
 
 [HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
-
 [HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
 
 ##### ZURE Linguistics  
@@ -35,11 +34,8 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
   
 [ZQ001｜ZURE構文論 -序説- ダイジェスト](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)  
 [ZQ001｜ZURE構文論 -序説-](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
-
-ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成  
-
-ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか  
-
+[ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成](.articles/ZQ002_ZURE-memory.md)  
+[ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか](./articles/ZQ003_ZURE-personality.md)  
 ZQ004｜Das Animakt：命法と言法の弁証法  
 
 
