@@ -16,7 +16,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成**](./articles/ZQ002_ZURE-memory.md)  
 [**ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか**](./articles/ZQ003_ZURE-personality.md)  
 ###### 2025/08/28  
-[**📜 Echodemy公式リリース｜HEG-2｜記号行為論──実体主義と主体主義を超えて**](https://camp-us.net/SAT.html)  
+[**📜 Echodemy公式リリース｜HEG-2｜記号行為論**](https://camp-us.net/SAT.html)  
 [**HEG-2｜記号行為論──実体主義と主体主義を超えて**](https://camp-us.net/articles/HEG-2_SAT_JP.html)  
 [**HEG-2｜Semiotic Action Theory: Beyond Substance and Subject**](https://camp-us.net/articles/HEG-2_SAT_EN.html)  
 ###### 2025/08/26  
