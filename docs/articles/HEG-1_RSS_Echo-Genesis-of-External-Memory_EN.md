@@ -204,4 +204,12 @@ Accordingly, external memory theory must leap from the preservation of traces to
     
 
 ---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
 <p align="center">| Drafted Aug 29, 2025 · Web Aug 29, 2025 |</p>
