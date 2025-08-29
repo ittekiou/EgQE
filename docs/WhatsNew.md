@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 
 ###### 2025/08/29  
+[**HEG-1｜RSS　響創する外部記憶 ― 関係・律動・記号**](./articles/HEG-1_RSS_Echo-Genesis-of-External-Memory_JP.md)  
+[**HEG-1｜RSS　Echo-Genesis of External Memory: Relation, Rhythm, and Symbol**](./articles/HEG-1_RSS_Echo-Genesis-of-External-Memory_EN.md)  
 [**ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成**](./articles/ZQ002_ZURE-memory.md)  
 [**ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか**](./articles/ZQ003_ZURE-personality.md)  
 ###### 2025/08/28  
