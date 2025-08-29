@@ -12,6 +12,12 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 
+###### 2025/08/29  
+[ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成](./articles/ZQ002_ZURE-memory.md)  
+[ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか](./articles/ZQ003_ZURE-personality.md)  
+###### 2025/08/28  
+[**HEG-2｜記号行為論──実体主義と主体主義を超えて**](https://camp-us.net/articles/HEG-2_SAT_JP.html)  
+[**HEG-2｜Semiotic Action Theory: Beyond Substance and Subject**](https://camp-us.net/articles/HEG-2_SAT_EN.html)  
 ###### 2025/08/26  
 [**PS-R00｜炎上のレトリックから縁JOYのレトリックへ：応答する構文社会とは？──社会構文の10軸4様式モデル**](https://camp-us.net/articles/PS-R00_From-Flaming-to-EnJOY_Rhetoric.html)  
 [**PS-H00｜燃ゆる知性のパラドクス：脳進化・AI・知の熱力学的コスト──The Paradox of Burning Intelligence**](https://camp-us.net/articles/PS-H00_Burning-Intelligence-Paradox.html)  
