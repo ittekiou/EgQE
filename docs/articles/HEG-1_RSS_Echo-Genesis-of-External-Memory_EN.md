@@ -23,7 +23,8 @@ External Memory, Trace-ology, Semiotic Action Theory, Relation, Rhythm, Symbol, 
 - **Distributed Cognition (Hutchins, 1995)**
     
 - **Memory Externalism**  
-    → All of these approaches remain grounded in informationism, focusing on traces as objects of storage and retrieval.
+    
+→ All of these approaches remain grounded in informationism, focusing on traces as objects of storage and retrieval.
     
 
 ### 2. The Relation–Rhythm–Symbol Model
