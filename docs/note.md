@@ -10,8 +10,12 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
-
-
+###### 2025/08/28  
+[**HEG-2｜記号行為論──実体主義と主体主義を超えて｜K.E.Itekki**](https://note.com/k_itekki/n/n653641701e0b)  
+[**言語行為論から記号行為論へ ： 行為主体の刷新──数式は記号行為の痕跡｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n851429062463)  
+[**天そば宇宙と出前テンソル場──脳と座標｜一狄 啓**](https://note.com/takahashihajime/n/n09928a7eecfd)  
+[**第二章｜漂流 ― 観測は感染する**](https://note.com/echodemy/n/n0795d6a3f297)  
+[**第三章｜源泉惑星イスカンダル** **―** **母型の眠る場所**](https://note.com/echodemy/n/n6a233a6672f6)  
 ###### 2025/08/27  
 [**HEG元年55日目の銀河日記──関係性宇宙論の歩み｜一狄 啓**](https://note.com/takahashihajime/n/n70514c8a121b)  
 [**【連載小説】観測感染論航海記・銀河鉄道編　イスカンダルへの旅**](https://note.com/echodemy/m/m4d8704e00509)  
