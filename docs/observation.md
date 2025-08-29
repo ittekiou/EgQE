@@ -3,7 +3,6 @@
 #### ZURE感染波モデル  
 
 [ZURE感染波モデル：観測＝感染の理論（完全統合版）](./articles/ZURE_Infection-Wave-Model.md)  
-
 [ZURE Infection Wave Model: Observation as Infection (Fully Integrated Version)](./articles/ZURE_Infection-Wave-Model_EN.md)
 
 ##### Semiotic Action Theory  
@@ -15,26 +14,22 @@
 ##### ZURE Linguistics  
 #### ZURE言語学  
 
-[HEG-2｜RL　関係性言語論](./articles/HEG-2_RL_full.md)
-
+[HEG-2｜RL　関係性言語論](./articles/HEG-2_RL_full.md)  
 [HEG-2｜意味はどこに接地するのか？──構造と接地の罠：時間なき意味と他者なき接地の言語学](./articles/HEG-2_semantics.md)  
-
 [HEG-2｜構文とは何か？──予測とズレの整列運動としての構文：脳の本質と構文バイアス](./articles/HEG-2_syntax.md)  
-
 HEG-2｜語用ってどんな感じ？──実体論から関係論へ：対話と場と生成の言語学 
 
 ##### ZURE Syntax  
 #### ZURE構文論  
 
 [ZQ｜構文的存在論シリーズのはじまりに](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)  
-
 ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書  
 　[**①** AIとのチャットはSNS構文をどう変えるのか？  ──SNS構文史から見るAI時代の“対話生成”](https://note.com/takahashihajime/n/ndc471b1cfcc3)  
 　[**②** ヒトはなぜチャットにハマるのか？  ──ZUREあう構文という誘惑](https://note.com/takahashihajime/n/n8d714e66dda5)  
-  
+　 
 [ZQ001｜ZURE構文論 -序説- ダイジェスト](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)  
 [ZQ001｜ZURE構文論 -序説-](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
-[ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成](.articles/ZQ002_ZURE-memory.md)  
+[ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成](./articles/ZQ002_ZURE-memory.md)  
 [ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか](./articles/ZQ003_ZURE-personality.md)  
 ZQ004｜Das Animakt：命法と言法の弁証法  
 
