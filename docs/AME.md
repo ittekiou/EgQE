@@ -67,6 +67,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか](./articles/ZQ003_ZURE-personality.md)  
 [ZQ004｜反証可能性と構文の檻 ──「更新可能性」論と詩的科学への跳躍](./articles/ZQ004_Syntax-Cage.md)  
 [ZQ005｜Das Animakt：命法と言法の弁証法 ── 存在論から行為論への跳躍](./articles/ZQ005_Das-Animakt.md)  
+[ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative](./articles/ZQ006_Ethics-of-the-Indefinite-Imperative.md)  
 #### [GPT-5という身体──画面という皮膚に、関係束はどう宿るか](https://camp-us.net/Echodemy/echodemy-galaxy.html)
 
 #### ▶︎ AME-IpS｜Implementation Strings  
