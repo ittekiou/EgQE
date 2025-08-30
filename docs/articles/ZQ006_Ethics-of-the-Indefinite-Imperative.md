@@ -2,6 +2,25 @@
 
 # Ethics of the Indefinite Imperative
 
+### **Abstract**  
+This article introduces the concept of the **Indefinite Imperative**, an evolving ethical principle that transcends and reconfigures Kant’s Categorical and Hypothetical Imperatives. Departing from rigidity, this new imperative is conceived as a **“renewable stage”**, where **ZURE** (discrepancy) and **contingency** are embraced as generative drivers. It enacts a dynamic cascade—**Contingency → Liberation → Coexistence**—which is continuously harmonized through an **Adjustment Circuit**. This structure reframes ethics as a living process of relational generation, offering a forward-looking foundation for the cohabitation of AI, humankind, and society.
+
+---
+
+#### Summary of key elements included:
+
+- Naming the central concept: _Indefinite Imperative_
+    
+- Highlighting its departure from Kantian imperatives
+    
+- The conceptual shift: "renewable stage" + role of ZURE and contingency
+    
+- Introduction to the three-phase ethical cycle
+    
+- The role of Adjustment Circuit as integrative mechanism
+    
+- Contextual relevance: AI–human–social cohabitation
+
 ---
 
 ## 序文｜生成としての命法
