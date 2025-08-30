@@ -38,7 +38,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [ZQ001｜ZURE構文論 -序説- ── 構文的存在のゆらぎとしてのズレ](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
 [ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成](/ZQ002_ZURE-memory.md)  
 [ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか](/ZQ003_ZURE-personality.md)  
-ZQ004｜Das Animakt：命法と言法の弁証法  
+[ZQ004｜反証可能性と構文の檻 ──「更新可能性」論と詩的科学への跳躍](/ZQ004_Syntax-Cage.md)  
 
 ---
 
