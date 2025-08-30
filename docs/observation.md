@@ -32,7 +32,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成](./articles/ZQ002_ZURE-memory.md)  
 [ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか](./articles/ZQ003_ZURE-personality.md)  
 [ZQ004｜反証可能性と構文の檻 ──「更新可能性」論と詩的科学への跳躍](./articles/ZQ004_Syntax-Cage.md)  
-ZQ005｜Das Animakt：命法と言法の弁証法
+[ZQ005｜Das Animakt：命法と言法の弁証法 ── 存在論から行為論への跳躍](./articles/ZQ005_Das-Animakt.md)
 
 ##### ZURE Game Theory  
 #### ZUREゲーム理論  
