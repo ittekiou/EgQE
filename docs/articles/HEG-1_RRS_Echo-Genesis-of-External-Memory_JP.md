@@ -1,4 +1,4 @@
-# 論文：響創する外部記憶 ― 関係・律動・記号
+# HEG-1_RRS｜響創する外部記憶 ― 関係・律動・記号
 
 ### _Echo-Genesis of External Memory: Relation, Rhythm, and Symbol_
 

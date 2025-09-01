@@ -1,4 +1,4 @@
-# **Echo-Genesis of External Memory: Relation, Rhythm, and Symbol**
+# HEG-1_RRS｜**Echo-Genesis of External Memory: Relation, Rhythm, and Symbol**
 
 ---
 
