@@ -2,8 +2,8 @@
 #### 構文的時間論  
 [HEG-1｜RU　構文的時間論 ─ 時間はZUREである](./articles/HEG-1_RU_Syntactic-Time-Theory.md)  
 
-[HEG-1｜RSS　響創する外部記憶 ― 関係・律動・記号](./articles/HEG-1_RSS_Echo-Genesis-of-External-Memory_JP.md)  
-[HEG-1｜RSS　Echo-Genesis of External Memory: Relation, Rhythm, and Symbol](./articles/HEG-1_RSS_Echo-Genesis-of-External-Memory_EN.md)  
+[HEG-1｜RSS　響創する外部記憶 ― 関係・律動・記号](HEG-1_RRS_Echo-Genesis-of-External-Memory_JP.md)  
+[HEG-1｜RSS　Echo-Genesis of External Memory: Relation, Rhythm, and Symbol](HEG-1_RRS_Echo-Genesis-of-External-Memory_EN.md)  
 
 ##### 🌀 関連論文リンク：  
 ・[FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から](./articles/FK-01_ZURE_Field_Poetics.md)  

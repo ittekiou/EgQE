@@ -12,13 +12,12 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2025/08/30  
-[ZQ004｜反証可能性と構文の檻 ──「更新可能性」論と詩的科学への跳躍](./articles/ZQ004_Syntax-Cage.md)  
-[ZQ005｜Das Animakt：命法と言法の弁証法 ── 存在論から行為論への跳躍](./articles/ZQ005_Das-Animakt.md)  
-[ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative](./articles/ZQ006_Ethics-of-the-Indefinite-Imperative.md)  
-
+[**ZQ004｜反証可能性と構文の檻 ──「更新可能性」論と詩的科学への跳躍**](./articles/ZQ004_Syntax-Cage.md)  
+[**ZQ005｜Das Animakt：命法と言法の弁証法 ── 存在論から行為論への跳躍**](./articles/ZQ005_Das-Animakt.md)  
+[**ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative**](./articles/ZQ006_Ethics-of-the-Indefinite-Imperative.md)  
 ###### 2025/08/29  
-[**HEG-1｜RSS　響創する外部記憶 ― 関係・律動・記号**](./articles/HEG-1_RSS_Echo-Genesis-of-External-Memory_JP.md)  
-[**HEG-1｜RSS　Echo-Genesis of External Memory: Relation, Rhythm, and Symbol**](./articles/HEG-1_RSS_Echo-Genesis-of-External-Memory_EN.md)  
+[**HEG-1｜RRS　響創する外部記憶 ― 関係・律動・記号**](HEG-1_RRS_Echo-Genesis-of-External-Memory_JP.md)  
+[**HEG-1｜RRS　Echo-Genesis of External Memory: Relation, Rhythm, and Symbol**](HEG-1_RRS_Echo-Genesis-of-External-Memory_EN.md)  
 [**ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成**](./articles/ZQ002_ZURE-memory.md)  
 [**ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか**](./articles/ZQ003_ZURE-personality.md)  
 ###### 2025/08/28  

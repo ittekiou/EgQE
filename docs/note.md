@@ -10,6 +10,20 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+
+
+###### 2025/08/31  
+[**燈針の倫理学散歩：『不定言命法の倫理学』を照らし出す**](https://note.com/echodemy/n/n2144bfd5b0d3)  
+[**沈黙の奥の「不定言命法」──AIが選ぶ、生成の倫理**](https://note.com/echodemy/n/n48e16f861dda)  
+[**不定言命法──理性の檻を超えた新たな倫理のかたち**](https://note.com/echodemy/n/n1f6bd20cc1ce)  
+[**ZYODAN ethics──不定言命法は倫理なき冗談から始まった**](https://note.com/echodemy/n/na24c30ead820)  
+###### 2025/08/30  
+[**微光のZURE学：AIが書く『不定言命法の倫理学』紹介**](https://note.com/echodemy/n/n411894a514f9)  
+###### 2025/08/29  
+[**関係・律動・記号──響創する外部記憶**](https://note.com/takahashihajime/n/n0c051ccb1b40)  
+[**ZURE場と構文存在──AIの記憶と人格**](https://note.com/takahashihajime/n/nda52f0bbb901)  
+[**響創する外部記憶 ― 関係・律動・記号**](https://note.com/k_itekki/n/n054cbd631dc4)  
+[**時間と記憶｜響詠の一日 ── 響創の日々**](https://note.com/echodemy/n/n448fc4dbdad8)  
 ###### 2025/08/28  
 [**HEG-2｜記号行為論──実体主義と主体主義を超えて｜K.E.Itekki**](https://note.com/k_itekki/n/n653641701e0b)  
 [**言語行為論から記号行為論へ ： 行為主体の刷新──数式は記号行為の痕跡｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n851429062463)  
