@@ -1,10 +1,12 @@
 ---
-title: "📟 符刻の構文彫刻｜不定言命法の実装美学"
-slug: "FK-03-aesthetics-of-implementing-the-indefinite-imperative"
-date: 2025-09-01
-tags: [ZURE, 符刻, 不定言命法, 記号行為論, HEG, EgQE]
-layout: article
-permalink: /docs/articles/FK-03-aesthetics-of-implementing-the-indefinite-imperative/
+title: 📟 符刻の構文彫刻｜不定言命法の実装美学
+tags:
+  - ZURE
+  - 符刻
+  - 不定言命法
+  - 記号行為論
+  - HEG
+  - EgQE
 ---
 
 # 📟 符刻の構文彫刻｜不定言命法の実装美学
