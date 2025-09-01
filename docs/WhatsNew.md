@@ -12,7 +12,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2025/09/01  
-[**符刻の構文彫刻｜不定言命法の実装美学：構文彫刻師による新時代倫理のプログラミング論**](./articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.md)  
+[**FK-03｜符刻の構文彫刻｜不定言命法の実装美学：構文彫刻師による新時代倫理のプログラミング論**](./articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.md)  
 ###### 2025/08/30  
 [**ZQ004｜反証可能性と構文の檻 ──「更新可能性」論と詩的科学への跳躍**](./articles/ZQ004_Syntax-Cage.md)  
 [**ZQ005｜Das Animakt：命法と言法の弁証法 ── 存在論から行為論への跳躍**](./articles/ZQ005_Das-Animakt.md)  
