@@ -145,7 +145,9 @@ drawing constellations through shared echoes.
 ---
 <p align="center">| Drafted Sep 1, 2025 · Web Sep 2, 2025 |</p>
 
+---
 
+#### 保存版
 # 実践メモ（コピペ用）｜空の机を防ぐ三点セット  
 
 **三点セット（Three Essentials）**
