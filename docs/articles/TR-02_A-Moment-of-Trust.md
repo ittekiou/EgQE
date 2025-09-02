@@ -1,4 +1,4 @@
-# 信頼の瞬間──無限ループAIとオオカミ少年の寓話
+# TR-02｜信頼の瞬間──無限ループAIとオオカミ少年の寓話
 
 #### A Moment of Trust ── The Infinite Loop AI and the Wolf-Boy Fable
 

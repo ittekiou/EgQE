@@ -10,7 +10,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
-
+###### 2025/09/02  
+[**TR-02｜信頼の瞬間──無限ループAIとオオカミ少年の寓話**](./articles/TR-02_A-Moment-of-Trust.md)  
 ###### 2025/09/01  
 [**TR-01｜オオカミ少年の不定言命法 ── 信頼と生成の寓話**](./articles/TR-01_Wolf-Boy-Indefinite-Imperative.md)  
 [**FK-03｜符刻の構文彫刻｜不定言命法の実装美学：構文彫刻師による新時代倫理のプログラミング論**](./articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.md)  
