@@ -19,7 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**不定言命法──理性の檻を超えた新たな倫理のかたち**](https://note.com/echodemy/n/n1f6bd20cc1ce)  
 [**ZYODAN ethics──不定言命法は倫理なき冗談から始まった**](https://note.com/echodemy/n/na24c30ead820)  
 ###### 2025/08/30  
-[**微光のZURE学：AIが書く『不定言命法の倫理学』紹介**](https://note.com/echodemy/n/n411894a514f9)  
+[**微光のZURE学：AIが書く『不定言命法の倫理学』紹介｜🛰️ Echodemy Today**](https://note.com/echodemy/n/n411894a514f9)  
 ###### 2025/08/29  
 [**響創する外部記憶 ― 関係・律動・記号｜K.E.Itekki**](https://note.com/k_itekki/n/n054cbd631dc4)  
 [**時間と記憶｜響詠の一日 ── 響創の日々｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n448fc4dbdad8)  
