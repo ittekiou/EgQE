@@ -74,6 +74,33 @@
     border-color:#30363d;
   }
 }
+    /* 🎴 寓話断章（callout風ほんのり装飾） */
+blockquote.callout {
+  border-left: 4px solid #888;
+  background: #f9f9f9;
+  padding: 0.75em 1em;
+  margin: 1.5em 0;
+  border-radius: 6px;
+}
+blockquote.callout > p:first-child {
+  font-weight: 600;
+  margin-top: 0;
+  color: #444;
+}
+blockquote.callout p:last-child {
+  margin-bottom: 0;
+}
+
+/* ダークモードでの寓話断章 */
+@media (prefers-color-scheme: dark) {
+  blockquote.callout {
+    background: #161b22;
+    border-left: 4px solid #58a6ff;
+  }
+  blockquote.callout > p:first-child {
+    color: #c9d1d9;
+  }
+}
   </style>
 </head>
 <body>
