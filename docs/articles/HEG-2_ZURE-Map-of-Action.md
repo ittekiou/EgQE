@@ -46,14 +46,17 @@ The purpose of this study is to articulate the ZURE Map of Action as a theoretic
 |**時間性**|共有|持続|経験|
 |**関係性**|応答|生成|意味|
 
-> Poetic Fragment / 寓話断章
+> Poetic Fragment / 寓話断章  
+> 
 > **EN**  
+> 
 > Action is a map.  
 > But this map is not carved in stone.  
 > It opens to the wind, carries shadows, and is ceaselessly redrawn like a mandala.  
 > We walk upon it, even as we draw it anew.  
 >
 > **JP**  
+> 
 > 行為は地図である。  
 > だが、その地図は石に刻まれたものではない。  
 > 風にひらかれ、影を孕み、絶えず書き換えられていく曼荼羅のような地図。  
@@ -84,8 +87,10 @@ ZURE Map of Action の中心には **コア曼荼羅** があり、これは時�
 
 この十二の構成は、行為の **光の表面** を形成する。現在は責任・安心・共有・応答によって定義され、未来は信頼・期待・持続・生成によって方向づけられ、過去は約束・充足・経験・意味によって刻まれる。  
 
-> Poetic Fragment / 寓話断章
+> Poetic Fragment / 寓話断章  
+> 
 > **EN**  
+> 
 > Responsibility is the rudder of a boat.  
 > Trust is its sail.  
 > Promise is the charted sea.  
@@ -97,6 +102,7 @@ ZURE Map of Action の中心には **コア曼荼羅** があり、これは時�
 > The light of action flashes in the shape of a mandala.  
 >
 > **JP**  
+> 
 > 責任は舟の舵。  
 > 信頼はその帆。  
 > 約束は海図。  
@@ -137,8 +143,10 @@ The **ZURE Map of Action** is thus a **double mandala**. Light and shadow are no
 |**時間性**|共有 ／ 孤立|持続 ／ 中断|経験 ／ 消失|
 |**関係性**|応答 ／ 無視|生成 ／ 停止|意味 ／ 無意味|
 
-> Poetic Fragment / 寓話断章
+> Poetic Fragment / 寓話断章  
+> 
 > **EN**  
+> 
 > Light is born with its shadow.  
 > To take responsibility is to hear the whisper of avoidance.  
 > To weave trust is to feel the gaze of distrust.  
@@ -158,6 +166,7 @@ The **ZURE Map of Action** is thus a **double mandala**. Light and shadow are no
 > The mandala spins as a double helix of light and shadow.  
 >
 > **JP**  
+> 
 > 光は影を連れて生まれる。  
 > 責任を取ろうとすれば、回避の声がささやく。  
 > 信頼を結べば、不信の眼差しが忍び寄る。  
@@ -199,8 +208,10 @@ The **outer mandala** thus reveals that action is never only personal or interna
 
 この **外部曼荼羅** は、行為が決して個人の内部に閉じていないことを示す。行為は規範的枠組み、文化的コード、時間的秩序、技術的インフラによって **共構成されている**。  
 
-> Poetic Fragment / 寓話断章
+> Poetic Fragment / 寓話断章  
+> 
 > **EN**  
+> 
 > Responsibility stands within the fortress of law.  
 > Trust crosses the bridge of institution.  
 > Promise is engraved with a seal.  
@@ -217,6 +228,7 @@ The **outer mandala** thus reveals that action is never only personal or interna
 > The mandala expands ceaselessly, crossing inward and outward.  
 >
 > **JP**  
+> 
 > 責任は法の砦に囲まれる。  
 > 信頼は制度の橋を渡る。  
 > 約束は印章に刻まれる。  
@@ -247,8 +259,10 @@ ZURE Map of Action は、光・影・外部という三層を統合し、行為�
 
 この枠組みは今後、社会・文化研究における **分析ツール** として、物語や芸術における **詩的フレームワーク** として、さらには日常における **実践的コンパス** として展開されうる。地図は静止せず、**共鳴の場（トポス）** として開かれ、行為の展開とともに絶えず書き換えられていく。  
 
-> Poetic Fragment / 寓話断章
+> Poetic Fragment / 寓話断章  
+> 
 > **EN**  
+> 
 > Action is a mandala.  
 > It carries light, wears shadow, and expands under external winds.  
 > We read the map, we draw it, we walk upon it.  
@@ -265,6 +279,7 @@ ZURE Map of Action は、光・影・外部という三層を統合し、行為�
 > in a world that is forever shifting.  
 >
 > **JP**  
+> 
 > 行為は曼荼羅である。  
 > 光を抱き、影をまとい、外部に揺らされながら広がっていく曼荼羅。  
 > 我々はその地図を読み、描き、歩む。  
