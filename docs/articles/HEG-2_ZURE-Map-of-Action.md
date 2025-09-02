@@ -275,3 +275,15 @@ ZURE Map of Action は、光・影・外部という三層を統合し、行為�
 > 曼荼羅は閉じることなく、  
 > 絶えずズレ続ける世界の中で、  
 > 新たな地図として開かれ続ける。  
+
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 2, 2025 · Web Sep 2, 2025 |</p>
