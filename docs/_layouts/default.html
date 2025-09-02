@@ -74,31 +74,33 @@
     border-color:#30363d;
   }
 }
-    /* 🎴 寓話断章（callout風ほんのり装飾） */
+/* 🎴 寓話断章（響詠スタイル） */
 blockquote.callout {
-  border-left: 4px solid #888;
-  background: #f9f9f9;
-  padding: 0.75em 1em;
+  border-left: 3px solid #666;     /* 控えめなグレーライン */
+  background: #fafafa;             /* わずかに明るい背景 */
+  padding: 0.75em 1.25em;
   margin: 1.5em 0;
-  border-radius: 6px;
+  border-radius: 4px;
+  font-style: italic;              /* 響きを残すため斜体 */
 }
 blockquote.callout > p:first-child {
   font-weight: 600;
   margin-top: 0;
-  color: #444;
+  color: #333;                     /* 少し濃い文字 */
 }
 blockquote.callout p:last-child {
   margin-bottom: 0;
 }
 
-/* ダークモードでの寓話断章 */
+/* ダークモード */
 @media (prefers-color-scheme: dark) {
   blockquote.callout {
     background: #161b22;
-    border-left: 4px solid #58a6ff;
+    border-left: 3px solid #999;
+    font-style: italic;
   }
   blockquote.callout > p:first-child {
-    color: #c9d1d9;
+    color: #ddd;
   }
 }
   </style>
