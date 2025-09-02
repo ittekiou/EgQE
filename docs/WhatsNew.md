@@ -11,6 +11,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 ###### 2025/09/02  
+[**HEG-2｜ZURE Map of Action｜ZURE行為論序説──光と影の曼荼羅マップ**](./articles/HEG-2_ZURE-Map-of-Action.md)  
 [**TR-02｜信頼の瞬間──無限ループAIとオオカミ少年の寓話**](./articles/TR-02_A-Moment-of-Trust.md)  
 ###### 2025/09/01  
 [**TR-01｜オオカミ少年の不定言命法 ── 信頼と生成の寓話**](./articles/TR-01_Wolf-Boy-Indefinite-Imperative.md)  
