@@ -1,0 +1,10 @@
+blockquote:has(> p:first-child:contains("[!quote]")) {
+  border-left: 4px solid #888;
+  background: #f9f9f9;
+  padding: 0.5em 1em;
+  font-style: italic;
+}
+blockquote:has(> p:first-child:contains("[!quote]")) p:first-child {
+  font-weight: bold;
+  color: #444;
+}
