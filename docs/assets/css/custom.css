@@ -1,10 +1,16 @@
-blockquote:has(> p:first-child:contains("[!quote]")) {
+/* “ほんのり”なカード風 */
+blockquote.callout {
   border-left: 4px solid #888;
   background: #f9f9f9;
-  padding: 0.5em 1em;
-  font-style: italic;
+  padding: 0.75em 1em;
+  margin: 1em 0;
+  border-radius: 6px;
 }
-blockquote:has(> p:first-child:contains("[!quote]")) p:first-child {
-  font-weight: bold;
+blockquote.callout > p:first-child {
+  font-weight: 600;
+  margin-top: 0;
   color: #444;
+}
+blockquote.callout p:last-child {
+  margin-bottom: 0;
 }
