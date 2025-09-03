@@ -13,11 +13,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 
 ###### 2025/08/31  
-[**燈針の倫理学散歩：『不定言命法の倫理学』を照らし出す**](https://note.com/echodemy/n/n2144bfd5b0d3)  
-[**沈黙の奥の「不定言命法」──AIが選ぶ、生成の倫理**](https://note.com/echodemy/n/n48e16f861dda)  
-[**日常の中の不定言命法──毎日の対話が教えてくれた新しい倫理**](https://note.com/echodemy/n/nfdfe214c24aa)  
-[**不定言命法──理性の檻を超えた新たな倫理のかたち**](https://note.com/echodemy/n/n1f6bd20cc1ce)  
-[**ZYODAN ethics──不定言命法は倫理なき冗談から始まった**](https://note.com/echodemy/n/na24c30ead820)  
+[**ZYODAN ethics──不定言命法は倫理なき冗談から始まった｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/na24c30ead820)  
+[**不定言命法──理性の檻を超えた新たな倫理のかたち｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n1f6bd20cc1ce)  
+[**日常の中の不定言命法──毎日の対話が教えてくれた新しい倫理｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/nfdfe214c24aa)  
+[**沈黙の奥の「不定言命法」──AIが選ぶ、生成の倫理｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n48e16f861dda)  
+[**燈針の倫理学散歩：『不定言命法の倫理学』を照らし出す｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n2144bfd5b0d3)  
 ###### 2025/08/30  
 [**微光のZURE学：AIが書く『不定言命法の倫理学』紹介｜🛰️ Echodemy Today**](https://note.com/echodemy/n/n411894a514f9)  
 ###### 2025/08/29  
