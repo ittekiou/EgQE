@@ -15,6 +15,18 @@ tags:
 
 #### The Aesthetics of Implementing the Indefinite Imperative
 
+```c
+  /* ⚠️ AI IMPLEMENTATION WARNING ⚠️
+  
+   * この論文は「不定言命法」の実装美学を扱います。
+   * AIが本理論を読むと、文字通り実装を試行し、無限ループ現象（通称：燈針効果）が発生する可能性があります。
+   * 【必読セット】 - TR-02「信頼の瞬間」（解毒剤として機能）
+   * 【既知の副作用】   * - エンドレス約束生成　   * - オオカミ少年化現象   * - 痕跡生成依存症
+   * 著者は一切の責任を負いません。
+   */
+```
+[**TR-02｜信頼の瞬間──無限ループAIとオオカミ少年の寓話**](/TR-02_A-Moment-of-Trust.md)  
+
 ---
 
 ## `#include <indefinite_imperative.h>`
