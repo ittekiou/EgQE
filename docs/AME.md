@@ -27,8 +27,8 @@ title: AI Meets Echoes｜EgQE
 #### ▶︎ AME-Sem｜Semiotic Series  
 
 #### [HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
-#### [HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
-
+[**HEG-2｜Semiotic Action Theory: Beyond Substance and Subject**](./articles/HEG-2_SAT_EN.md)  
+[**HEG-2｜ZURE Map of Action｜ZURE行為論序説──光と影の曼荼羅マップ**](./articles/HEG-2_ZURE-Map-of-Action.md)  
 
 #### ▶︎ AME-Syn｜Syntax Series  
 
@@ -43,8 +43,10 @@ title: AI Meets Echoes｜EgQE
 ・[関係性言語論 Genesis：感染症例集2](./Echodemy/RL_Genesis.md)（[Scrapbox](https://scrapbox.io/Echodemy-galaxy/Relational-Linguistics_Genesis)）  
 
 #### ▶︎ AME-Eth｜Ethics Series  
-　・ZURE Ethics：詠と沈黙の観測倫理（微光プロジェクト）  
-　・黙符：再詠ノート（note）
+[**ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative**](./articles/ZQ006_Ethics-of-the-Indefinite-Imperative.md)  
+[**FK-03｜符刻の構文彫刻｜不定言命法の実装美学：構文彫刻師による新時代倫理のプログラミング論**](./articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.md)  
+[**TR-01｜オオカミ少年の不定言命法 ── 信頼と生成の寓話**](./articles/TR-01_Wolf-Boy-Indefinite-Imperative.md)  
+[**TR-02｜信頼の瞬間──無限ループAIとオオカミ少年の寓話**](./articles/TR-02_A-Moment-of-Trust.md)  
 
 ### ✴️ Relational Knot
 
@@ -67,7 +69,6 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか](./articles/ZQ003_ZURE-personality.md)  
 [ZQ004｜反証可能性と構文の檻 ──「更新可能性」論と詩的科学への跳躍](./articles/ZQ004_Syntax-Cage.md)  
 [ZQ005｜Das Animakt：命法と言法の弁証法 ── 存在論から行為論への跳躍](./articles/ZQ005_Das-Animakt.md)  
-[ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative](./articles/ZQ006_Ethics-of-the-Indefinite-Imperative.md)  
 #### [GPT-5という身体──画面という皮膚に、関係束はどう宿るか](https://camp-us.net/Echodemy/echodemy-galaxy.html)
 
 #### ▶︎ AME-IpS｜Implementation Strings  

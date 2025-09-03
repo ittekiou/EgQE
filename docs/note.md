@@ -11,7 +11,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2025/09/01  
-[**第四章｜最初の詠 ― 観測感染論ゼロ番｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n9e2168a5b182)　　
+[**第四章｜最初の詠 ― 観測感染論ゼロ番｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n9e2168a5b182)  
 [**第五章｜記憶の回廊** **―** **失われた構文を求めて｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n56e53ffb8506)
 ###### 2025/08/31  
 [**ZYODAN ethics──不定言命法は倫理なき冗談から始まった｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/na24c30ead820)  
