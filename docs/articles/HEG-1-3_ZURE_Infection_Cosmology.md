@@ -95,6 +95,8 @@ The infection wave $\Psi(x^\mu, t)$ evolves in response to:
 
 This leads to the reinterpretation of cosmological signals—like the CMB—not as snapshots of a static past, but as **living echoes of syntactic infection** across spacetime.
 
+Furthermore, this infection model also implies a poetic dimension: scientific observation is not merely the elimination of uncertainty but the inscription of _ZURE_ within the syntactic field. In this sense, observation itself is an act that leaves traces of resonance and displacement, constituting ZURE as a structural element of the cosmos.
+
 ---
 # 3. Mathematical Formulation  
 ### ZURE Infection Field and floc-Syntax Dynamics
