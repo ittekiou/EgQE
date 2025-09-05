@@ -10,6 +10,6 @@
 
 [ZS-005_育てる脳、育たぬ脳](./critics/ZS-005_BrainEvo-GPT5.md)  
 
-[ZS-006｜穴が先か、光が先か──原始ブラックホール起源説](./critics/ZS-006_black-hole.md)  
+[ZS-006_穴が先か、光が先か──原始ブラックホール起源説](./critics/ZS-006_black-hole.md)  
 
-[ZS-007｜光は早すぎる──最古銀河と宇宙黎明の加速](./critics/ZS-007_earliest-galaxy.md)  
+[ZS-007_光は早すぎる──最古銀河と宇宙黎明の加速](./critics/ZS-007_earliest-galaxy.md)  

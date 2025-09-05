@@ -1,5 +1,5 @@
 ### ZURE科学詠評｜007
-# ✨ ZS-007｜光は早すぎる──最古銀河と宇宙黎明の加速
+# ✨ ZS-007_光は早すぎる──最古銀河と宇宙黎明の加速
 
 ##### 今回紹介する記事 [ NASA’s James Webb Space Telescope discovers earliest galaxy ever seen in the universe](https://timesofindia.indiatimes.com/science/nasas-james-webb-space-telescope-discovers-earliest-galaxy-ever-seen-in-the-universe/articleshow/121546810.cms?utm_source=chatgpt.com)
 

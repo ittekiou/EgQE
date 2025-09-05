@@ -1,5 +1,5 @@
 ### ZURE科学詠評｜006
-# 🌌 ZS-006｜穴が先か、光が先か──原始ブラックホール起源説
+# 🌌 ZS-006_穴が先か、光が先か──原始ブラックホール起源説
 
 ##### 今回紹介する記事   [‘A paradigm change’: black hole spotted that may have been created moments after big bang](https://www.theguardian.com/science/2025/sep/02/primordial-black-hole-big-bang-james-webb-space-telescope?utm_source=chatgpt.com)
 
