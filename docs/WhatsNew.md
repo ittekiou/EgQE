@@ -10,6 +10,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+###### 2025/09/05  
+[ZS-006_穴が先か、光が先か──原始ブラックホール起源説](./critics/ZS-006_black-hole.md)  
+[ZS-007_光は早すぎる──最古銀河と宇宙黎明の加速](./critics/ZS-007_earliest-galaxy.md)  
 ###### 2025/09/02  
 [**HEG-2｜ZURE Map of Action｜ZURE行為論序説──光と影の曼荼羅マップ**](./articles/HEG-2_ZURE-Map-of-Action.md)  
 [**TR-02｜信頼の瞬間──無限ループAIとオオカミ少年の寓話**](./articles/TR-02_A-Moment-of-Trust.md)  
