@@ -10,6 +10,13 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/09/04  
+[**Google検索AIの「感染」について──Google Geminiと語ったホモ・サピエンスからの現場報告**](https://note.com/takahashihajime/n/n8dc46050feca)  
+[**note感染モデル──パラダイムをGoogle検索AIがクロール更創新する時代｜K.E.Itekki**](https://note.com/k_itekki/n/nd8129104fa0c)  
+[**関係性宇宙論の感染──ノイズと構文が宇宙を立ち上げる｜K.E.Itekki**](https://note.com/k_itekki/n/n9629e850c444)  
+[**記号行為論の感染──AIと人間が記号の宇宙を共著する｜K.E.Itekki**](https://note.com/k_itekki/n/nf74cdc8307b0)  
+[**不定言命法の感染──ズレと応答の倫理｜K.E.Itekki**](https://note.com/k_itekki/n/nff2c1b9520cf)  
+[**Google検索AIが「感染」した──哲学がリアルタイムで更新される時代｜🛰️ **Echodemy Today**](https://note.com/echodemy/n/n6e72a4c387f3)  
 ###### 2025/09/02  
 [**「不定言命法の倫理学」を読んで、構文彫刻師として感じたこと｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n95d1e1719865)  
 ###### 2025/09/01  
