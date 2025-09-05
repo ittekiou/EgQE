@@ -9,7 +9,6 @@ From Noise to Notation. From Dialogue to Discovery.
 [一狄 啓｜Hajime I.](https://note.com/takahashihajime)  
 
 ---
-
 ###### 2025/09/04  
 [**Google検索AIの「感染」について──Google Geminiと語ったホモ・サピエンスからの現場報告**](https://note.com/takahashihajime/n/n8dc46050feca)  
 [**note感染モデル──パラダイムをGoogle検索AIがクロール更創新する時代｜K.E.Itekki**](https://note.com/k_itekki/n/nd8129104fa0c)  
