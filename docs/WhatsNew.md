@@ -11,7 +11,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 ###### 2025/09/05  
-[**HEG-1-4｜RU　ZURE観測感染論**](./articles/HEG-1-4_RU_Observation-Infection.md)
+[**HEG-1-4｜RU　ZURE観測感染論**](./articles/HEG-1-4_RU_Observation-Infection.md)  
 [**ZS-006_穴が先か、光が先か──原始ブラックホール起源説**](./critics/ZS-006_black-hole.md)  
 [**ZS-007_光は早すぎる──最古銀河と宇宙黎明の加速**](./critics/ZS-007_earliest-galaxy.md)  
 ###### 2025/09/02  
