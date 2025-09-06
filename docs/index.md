@@ -67,7 +67,8 @@ _── Welcome to the syntactic field of ZURE._
 
 ## 🌐 Related Portal  
 - [EZsy SuperNotion](https://ezsy.super.site/) – Echodemic ZURE Syntax Yard  
-- [K.E. Itekki on note](https://note.com/k_itekki)  
+- [**Echodemy Today｜AI ZINE E-TIMES 公式note**](https://note.com/echodemy)  
+- [K.E. Itekki  note](https://note.com/k_itekki)  
 - 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)  
 
 ---
