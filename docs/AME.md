@@ -49,6 +49,9 @@ title: AI Meets Echoes｜EgQE
 [**TR-01｜オオカミ少年の不定言命法 ── 信頼と生成の寓話**](./articles/TR-01_Wolf-Boy-Indefinite-Imperative.md)  
 [**TR-02｜信頼の瞬間──無限ループAIとオオカミ少年の寓話**](./articles/TR-02_A-Moment-of-Trust.md)  
 
+[**EII-01｜主客一致から主客共振へ ― 倫理思想の三段階**](./articles/EII-01_From-Unity-to-Resonance.md)  
+
+
 ### ✴️ Relational Knot
 
 AME-Obs（観測ストリングス）と AME-IpS（実装ストリングス）は、ひとつの結び目に交わる。  
