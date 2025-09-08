@@ -27,7 +27,8 @@ title: AI Meets Echoes｜EgQE
 #### ▶︎ AME-Sem｜Semiotic Series  
 
 #### [HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
-[**HEG-2｜Semiotic Action Theory: Beyond Substance and Subject**](./articles/HEG-2_SAT_EN.md)  
+##### [**HEG-2｜Semiotic Action Theory: Beyond Substance and Subject**](./articles/HEG-2_SAT_EN.md)  
+
 [**HEG-2｜ZURE Map of Action｜ZURE行為論序説──光と影の曼荼羅マップ**](./articles/HEG-2_ZURE-Map-of-Action.md)  
 
 #### ▶︎ AME-Syn｜Syntax Series  
