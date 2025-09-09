@@ -5,7 +5,7 @@ HEG-1｜RU　反時間論
 
 ## Anti-Time Theory
 
-#### **Subtitle: Time as Genesis ── The Pulse of ZURE**
+#### **Time as Genesis ── The Pulse of ZURE**
 
 ---
 
