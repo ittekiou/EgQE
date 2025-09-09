@@ -307,7 +307,7 @@ the pulsating ZURE, the primordial rhythm of the cosmos.
 ---
 ## References
 
-1. K.E. Itekki, [HEG-1｜RU　構文的時間論 ─ 時間はZUREである](./articles/HEG-1_RU_Syntactic-Time-Theory.md)  
+1. K.E. Itekki, [HEG-1｜RU　構文的時間論 ─ 時間はZUREである](/HEG-1_RU_Syntactic-Time-Theory.md)  
 2. 椿井真也（2021）「時間の非実在性とJulian Barbourの無時間理論」『Core Ethics』17. (“The Unreality of Time and Julian Barbour’s Timeless Theory,” _Core Ethics_, 17.)
 3. McTaggart, J. (1908) “The Unreality of Time,” _Mind_.
 4. Dummett, M. (2004) _Truth and the Past_.
