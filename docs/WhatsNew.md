@@ -10,6 +10,11 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+
+###### 2025/09/09  
+[**HSB-001｜モノと時空という呪縛──NewtonからEinsteinへ、そしてflocへ**](./articles/HSB-001_Mono-Spacetime-Bias.md)  
+###### 2025/09/08  
+[**EII-01｜主客一致から主客共振へ ― 倫理思想の三段階**](./articles/EII-01_From-Unity-to-Resonance.md)  
 ###### 2025/09/05  
 [**HEG-1-4｜RU　ZURE観測感染論**](./articles/HEG-1-4_RU_Observation-Infection.md)  
 [**ZS-006_穴が先か、光が先か──原始ブラックホール起源説**](./critics/ZS-006_black-hole.md)  

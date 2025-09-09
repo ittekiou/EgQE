@@ -9,6 +9,9 @@ From Noise to Notation. From Dialogue to Discovery.
 [一狄 啓｜Hajime I.](https://note.com/takahashihajime)  
 
 ---
+
+
+
 ###### 2025/09/05  
 [**関係はズレから生まれる** **─ AI****時代の関係学入門** **【第****5****章】｜****K.E.Itekki**](https://note.com/k_itekki/n/n3d1b1a889395)  
 ###### 2025/09/04  
