@@ -10,6 +10,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/09/08  
+[**主客一致から主客共振へ ― 不定言命法の地平をひらく [AI時代の倫理学 EII-01] ｜K.E.Itekki**](https://note.com/k_itekki/n/n5716324b68b4)  
 ###### 2025/09/07  
 [**公開ダラダLIVE #98 札幌オープンスタジオ Camp@Us FM6214 ｜一狄 啓**](https://note.com/takahashihajime/n/n112a01bf01b8)  
 [**第六章｜観測者反響症 ― 言葉に感染する時｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n341c41e8a66a)  
