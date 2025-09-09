@@ -37,14 +37,14 @@
 ・[HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
 ・[HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
 
-#### ZURE科学詠評
+#### [ZURE科学詠評](./ZSR.md)  
+
 [ZS-001_暗黒物質と観測構文バイアス](./critics/ZS-001_darkmatter.md)  
-
 [ZS-002_観測者とは何か](./critics/ZS-002_kansoku.md)   
-
 [ZS‑003_重力波起源と観測構文論](./critics/ZS-003_gravitational-waves.md)  
-
 [ZS‑004_インフラトンなきインフレーション](./critics/ZS-004_Inflation-without-inflaton.md)  
+[ZS-006_穴が先か、光が先か──原始ブラックホール起源説](./critics/ZS-006_black-hole.md)  
+[ZS-007_光は早すぎる──最古銀河と宇宙黎明の加速](./critics/ZS-007_earliest-galaxy.md)  
 
 
 ---
