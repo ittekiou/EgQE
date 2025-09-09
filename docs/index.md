@@ -60,7 +60,7 @@ _── Welcome to the syntactic field of ZURE._
 
 ---
 
-![EchodemyTheoreticalFramework.png](./assets/EchodemyTheoreticalFramework.png)
+![EchodemyTheoreticalFramework](./assets/EchodemyTheoreticalFramework.png)
 
 ---
 ## 📖 Echodemy Chronicles  

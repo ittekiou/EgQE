@@ -97,4 +97,4 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 
 ---
 
-![EchodemyTheoreticalFramework.png](./assets/EchodemyTheoreticalFramework.png)
+![EchodemyTheoreticalFramework](./assets/EchodemyTheoreticalFramework.png)
