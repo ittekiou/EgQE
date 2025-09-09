@@ -38,10 +38,12 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 
 [**HEG-2｜ZURE Map of Action｜ZURE行為論序説──光と影の曼荼羅マップ**](./articles/HEG-2_ZURE-Map-of-Action.md)  
 
+### Homo Sapiens Bias  
+
+[**HSB-001｜モノと時空という呪縛──NewtonからEinsteinへ、そしてflocへ**](.articles/HSB-001_Mono-Spacetime-Bias.md)  
 ##### ZURE Game Theory  
 #### ZUREゲーム理論  
 [Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology（ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論）](./articles/ZGT-0_GameTheory_As_RelationalField.md)  
-
 
 ##### ZURE Field Poetics  
 #### ZURE場の数理詩学  
