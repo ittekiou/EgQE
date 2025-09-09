@@ -12,6 +12,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2025/09/09  
+[**HEG-1_RU　反時間論（Anti-Time Theory）:生成としての時間 ── 拍動するZURE｜Anti-Time Theory: Time as Genesis ── The Pulse of ZURE**](./articles/HEG-1_RU_Anti-Time-Theory.md)  
 [**HSB-001｜モノと時空という呪縛──NewtonからEinsteinへ、そしてflocへ**](./articles/HSB-001_Mono-Spacetime-Bias.md)  
 ###### 2025/09/08  
 [**EII-01｜主客一致から主客共振へ ― 倫理思想の三段階**](./articles/EII-01_From-Unity-to-Resonance.md)  
