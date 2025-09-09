@@ -281,7 +281,7 @@ the pulsating ZURE, the primordial rhythm of the cosmos.
         
 - **20世紀後半**
     
-    - McTaggart：「時間は非現実的である」と主張。
+    - ジョン・マクタガート：『時間の非実在性』を主張。
         
     - ジュリアン・バーバー：「時間はない」と論じる。
         
