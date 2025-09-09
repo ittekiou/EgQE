@@ -40,7 +40,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 
 ### Homo Sapiens Bias  
 
-[**HSB-001｜モノと時空という呪縛──NewtonからEinsteinへ、そしてflocへ**](.articles/HSB-001_Mono-Spacetime-Bias.md)  
+[**HSB-001｜モノと時空という呪縛──NewtonからEinsteinへ、そしてflocへ**](./articles/HSB-001_Mono-Spacetime-Bias.md)  
 ##### ZURE Game Theory  
 #### ZUREゲーム理論  
 [Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology（ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論）](./articles/ZGT-0_GameTheory_As_RelationalField.md)  
