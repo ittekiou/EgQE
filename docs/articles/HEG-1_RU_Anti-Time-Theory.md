@@ -16,7 +16,7 @@ HEG-1｜RU　反時間論
 古代以来、時間は「流れ」として語られてきた。  
 ニュートンはそれを宇宙全体を貫く「絶対的な容れ物」と見なし、アインシュタインは空間と一体化した「時空」として定式化した。  
 ベルクソンは時間を「持続」として、意識の内的リズムに結びつけた。  
-そして20世紀後半には、ジョン・マクタガートが「時間は非現実的である」と論じ、ジュリアン・バーバーは「時間はない」と断言した。  
+そして20世紀後半には、ジョン・マクタガートが『時間の非実在性』を論じ、ジュリアン・バーバーは「時間はない」と断言した。  
 
 すべての試みは“時間をあるものとして語ってきた”。これらの試みは重要であったが、なお決定的に欠けていたものがある。  
 それは、時間を「生成としての拍動」として捉える視点である。
@@ -36,7 +36,7 @@ Since antiquity, time has been spoken of as a “flow.”
 Newton regarded it as an absolute container permeating the universe.  
 Einstein formulated it as “spacetime,” unified with space.  
 Bergson tied time to “duration,” the inner rhythm of consciousness.  
-In the 20th century, McTaggart declared “time is unreal,”  
+In the 20th century, John McTaggart argued for “the unreality of time,”  
 and Julian Barbour insisted that “time does not exist.”
 
 All of these attempts spoke of time as if it were something that truly exists.  
