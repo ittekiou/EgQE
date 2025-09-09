@@ -254,6 +254,11 @@ It redefines time as **genesis**:
 the pulsating ZURE, the primordial rhythm of the cosmos.
 
 ---
+## Reference
+
+1. K.E. Itekki, [HEG-1｜RU　構文的時間論 ─ 時間はZUREである](./articles/HEG-1_RU_Syntactic-Time-Theory.md)  
+
+---
 
 ## 📜 年表（反時間論の生成プロセス）
 
