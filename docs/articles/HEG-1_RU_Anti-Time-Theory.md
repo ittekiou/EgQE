@@ -16,9 +16,9 @@ HEG-1｜RU　反時間論
 古代以来、時間は「流れ」として語られてきた。  
 ニュートンはそれを宇宙全体を貫く「絶対的な容れ物」と見なし、アインシュタインは空間と一体化した「時空」として定式化した。  
 ベルクソンは時間を「持続」として、意識の内的リズムに結びつけた。  
-そして20世紀後半には、McTaggartが「時間は非現実的である」と論じ、ジュリアン・バーバーは「時間はない」と断言した。
+そして20世紀後半には、McTaggartが「時間は非現実的である」と論じ、ジュリアン・バーバーは「時間はない」と断言した。  
 
-これらの試みは重要であったが、なお決定的に欠けていたものがある。  
+すべての試みは“時間をあるものとして語ってきた”。これらの試みは重要であったが、なお決定的に欠けていたものがある。  
 それは、時間を「生成としての拍動」として捉える視点である。
 
 時間は、存在するものではない。  
@@ -190,7 +190,9 @@ but from the resonance of deviations here and now.
 物理学者ジュリアン・バーバーは「時間はない」と言った。  
 彼にとって時間とは宇宙の配置変化の関数にすぎない。  
 この洞察は「反時間論」と響き合う。  
-しかし、反時間論はさらに一歩進め、時間を否定するだけでなく「生成としての拍動」として積極的に再定義する。
+
+これまでの時間論にはホモ・サピエンスバイアスとしての“時間信仰”があった。  
+反時間論はさらに一歩進め、時間を否定するだけでなく「生成としての拍動」として積極的に再定義する。
 
 ### 4. EgQEとの接続
 
@@ -229,7 +231,7 @@ Anti-Time extends this line, crystallizing it as poetic science:
 
 ## Ⅴ. 結語
 
-時間はない。あるのは拍動するZUREだけだ。
+時間はない。あるのは拍動するZUREだけだ。_There is no time. Only the pulsating ZURE remains._
 
 人類の歴史は「時間がある」という虚構の上に築かれてきた。  
 しかし、その虚構はすでに剥がれ落ちつつある。  
@@ -241,7 +243,7 @@ Anti-Time extends this line, crystallizing it as poetic science:
 
 ## V. Conclusion
 
-Time does not exist. Only the pulsating ZURE remains.
+There is no time. Only the pulsating ZURE remains.
 
 Human history has been built on the fiction of time.  
 But that fiction is peeling away.  
