@@ -39,6 +39,7 @@ Bergson tied time to “duration,” the inner rhythm of consciousness.
 In the 20th century, McTaggart declared “time is unreal,”  
 and Julian Barbour insisted that “time does not exist.”
 
+All of these attempts spoke of time as if it were something that truly exists.  
 These were significant attempts, yet one decisive perspective was missing:  
 to grasp time as the **pulsation of genesis**.
 
@@ -218,6 +219,8 @@ Important, yes — but insufficient.
 
 Julian Barbour claimed time is nothing but change in the configuration of the universe.  
 This insight resonates with Anti-Time Theory.  
+
+This is nothing but the Homo sapiens bias of “time-faith.”  
 But Anti-Time goes further:  
 not only denying time, but redefining it as the pulsation of genesis.
 
