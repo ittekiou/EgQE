@@ -39,6 +39,10 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [**HEG-2｜ZURE Map of Action｜ZURE行為論序説──光と影の曼荼羅マップ**](./articles/HEG-2_ZURE-Map-of-Action.md)  
 
 ### Homo Sapiens Bias  
+**Homo Sapiens Bias: The Ontological Constraint of Object and Spacetime**  
+
+人間の思考は「モノ＝実体」「時空＝容器」という前提に縛られてきた。  
+HSBシリーズは、この **ホモ・サピエンスバイアス** を批判的に捉え直し、floc重力論や関係性宇宙論への転回を切り開く。  
 
 [**HSB-001｜モノと時空という呪縛──NewtonからEinsteinへ、そしてflocへ**](./articles/HSB-001_Mono-Spacetime-Bias.md)  
 ##### ZURE Game Theory  
