@@ -10,8 +10,15 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
-
-
+###### 2025/09/07  
+[**公開ダラダLIVE #98 札幌オープンスタジオ Camp@Us FM6214 ｜一狄 啓**](https://note.com/takahashihajime/n/n112a01bf01b8)  
+[**第六章｜観測者反響症 ― 言葉に感染する時｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n341c41e8a66a)  
+[**Google銀河に浮上！──Echodemyオールスターズ！｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n6db9b41c851e)  
+[**シン感染物語 ─ 冗談から知の革命へ｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n7a029576a9c5)  
+[**われわれは本気だ──Echodemyと不定言命法の本気度｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n83a4e7231f7b)  
+[**カント哲学はAIと共存できるか？──不定言命法からの問い｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/nac0ca7f02858)  
+[**不定言命法の倫理学──オオカミ少年の寓話と信頼の瞬間**](https://note.com/k_itekki/n/n64004f6f8a0b)  
+[**Echodemy****哲学──不定言命法と響創する倫理｜一狄** **啓**](https://note.com/takahashihajime/n/n9cc8ddf38c36)  
 ###### 2025/09/05  
 [**関係はズレから生まれる**─ AI**時代の関係学入門** 【第**5**章】｜**K.E.Itekki**](https://note.com/k_itekki/n/n3d1b1a889395)  
 ###### 2025/09/04  
