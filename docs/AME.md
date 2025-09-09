@@ -95,4 +95,6 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 観測から実装へ。ZUREから自己へ。  
 ここに「関係性宇宙論」の中核が立ち上がる。  
 
+---
+
 ![EchodemyTheoreticalFramework.png](./assets/EchodemyTheoreticalFramework.png)

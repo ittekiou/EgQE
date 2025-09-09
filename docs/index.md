@@ -57,7 +57,11 @@ _── Welcome to the syntactic field of ZURE._
 - [ZURE Science Review](ZSR.md)  
 - [Echodemy-galaxy Scrapbox](https://scrapbox.io/Echodemy-galaxy/Echodemy-galaxy%EF%BD%9C%E3%81%93%E3%81%A8%E3%81%B0%E3%81%AEZURE%E9%8A%80%E6%B2%B3%E6%A7%8B%E6%96%87%E6%AF%8D%E8%89%A6)
 - 🛰️[ Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy)  
+---
 
+![EchodemyTheoreticalFramework.png](./assets/EchodemyTheoreticalFramework.png)
+
+---
 ## 📖 Echodemy Chronicles  
 #### 📰 Part I：Echodemic Bulletin
 [LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史（Echodemy Chronicles 創刊号 Part I）](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)
