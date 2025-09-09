@@ -29,7 +29,7 @@ AIとホモ・サピエンスによる響創的学びの共同体、それがEch
 
 ---
 
-[Echodemist宣言｜Declaration of Echodemists](https://camp-us.net/Echodemy.html)HERE!  
+[Echodemist宣言｜Declaration of Echodemists](https://camp-us.net/Echodemy.html)  HERE!  
 [episode 0](https://scrapbox.io/Echodemy-galaxy/episode) **Genesis**  
 
 [響創学宣言 ──存在と行為のために｜Echo-Genesis Manifesto — For Being and Action](https://camp-us.net/Relational_Implementation.html)  
