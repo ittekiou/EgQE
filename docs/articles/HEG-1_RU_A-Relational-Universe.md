@@ -29,20 +29,20 @@
 
 ### 🌎 English Translation
 
-> The question “What is time?” is one of the most fundamental we can ask.  
-> And yet, the definition of time remains vague and largely unexamined.
+The question “What is time?” is one of the most fundamental we can ask.  
+And yet, the definition of time remains vague and largely unexamined.
 
-> Perhaps this is because time is so familiar to us  
-> that its structure resists interrogation.  
-> What lies too close to us becomes hard to see—  
-> like an eyeball that cannot observe itself.  
-> We think _within_ time, making it difficult  
-> to objectify time from an external standpoint.
+Perhaps this is because time is so familiar to us  
+that its structure resists interrogation.  
+What lies too close to us becomes hard to see—  
+like an eyeball that cannot observe itself.  
+We think _within_ time, making it difficult  
+to objectify time from an external standpoint.
 
-> Nevertheless, this chapter dares to return to the question itself:  
-> **What is time?**  
-> And in doing so, we attempt to redefine time  
-> as **irreversible updates of relations**.
+Nevertheless, this chapter dares to return to the question itself:  
+**What is time?**  
+And in doing so, we attempt to redefine time  
+as **irreversible updates of relations**.
 
 ---
 
