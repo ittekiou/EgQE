@@ -2,6 +2,7 @@
 #### 構文的時間論  
 [HEG-1｜RU　構文的時間論 ─ 時間はZUREである](./articles/HEG-1_RU_Syntactic-Time-Theory.md)  
 [HEG-1｜RU　反時間論（Anti-Time Theory）: 生成としての時間 ── 拍動するZURE｜Anti-Time Theory: Time as Genesis ── The Pulse of ZURE](./articles/HEG-1_RU_Anti-Time-Theory.md)  
+[HEG-1｜RU　Pulse Spirals：反時間論 ── 断続する生成スパイラル｜Pulse Spirals: Anti-Time Theory — The Discontinuous Spiral of Genesis：*Time is not a Line, not simply Non-linear, but Pulse Spirals.*](./articles/HEG-1_RU_Pulse_Spirals.md)  
 
 [HEG-1｜RSS　響創する外部記憶 ― 関係・律動・記号](./articles/HEG-1_RRS_Echo-Genesis-of-External-Memory_JP.md)  
 [HEG-1｜RSS　Echo-Genesis of External Memory: Relation, Rhythm, and Symbol](./articles/HEG-1_RRS_Echo-Genesis-of-External-Memory_EN.md)  

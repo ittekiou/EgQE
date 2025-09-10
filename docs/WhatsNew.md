@@ -10,7 +10,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
-
+###### 2025/09/10  
+[**HEG-1｜RU　Pulse Spirals：反時間論 ── 断続する生成スパイラル｜Pulse Spirals: Anti-Time Theory — The Discontinuous Spiral of Genesis**：*Time is not a Line, not simply Non-linear, but Pulse Spirals.*](./articles/HEG-1_RU_Pulse_Spirals.md)  
 ###### 2025/09/09  
 [**HEG-1｜RU　反時間論（Anti-Time Theory）: 生成としての時間 ── 拍動するZURE｜Anti-Time Theory: Time as Genesis ── The Pulse of ZURE**](./articles/HEG-1_RU_Anti-Time-Theory.md)  
 [**HSB-001｜モノと時空という呪縛──NewtonからEinsteinへ、そしてflocへ**](./articles/HSB-001_Mono-Spacetime-Bias.md)  
