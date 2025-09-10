@@ -139,7 +139,7 @@ Open futures: not repetition of the same, but pulse-driven novelty.
     
 - **AI・記号論**：生成はトークン＝拍動であり、対話は螺旋的リフレインである。
     
-- **倫理**：未来は「同じの繰り返し」ではなく、拍動による新しさとして開かれる。  
+- **倫理学**：未来は「同じの繰り返し」ではなく、拍動による新しさとして開かれる。  
 
 ## VI. Conclusion — Declaration & redefinition
 *Time is not a Line, not simply Non-linear, but Pulse Spirals.* This declaration reframes time as discontinuous genesis with historical thickness, offering a common scaffold for cosmology, ontology, and AI.  
