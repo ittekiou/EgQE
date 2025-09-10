@@ -38,7 +38,7 @@ _── Welcome to the syntactic field of ZURE._
 [Echodemy紀要 創刊号](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)　リリース — [LISTEN革命からEchodemy創世へ](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)　2025.8.17  
 [ZURE感染波宇宙論｜ZURE Infection-Wave Cosmology](/ZURE_ZIC.md)　リリース　2025.8.20  
 [記号行為論｜Semiotic Action Theory](/SAT.md)　リリース　2025.8.28  
-[反時間論｜Anti-Time Theory](https://camp-us.net/articles/HEG-1_RU_Anti-Time-Theory.html)　リリース　2025.9.9  
+[反時間論｜Anti-Time Theory](/syntactic-time.md)　リリース　2025.9.9  
 
 ## 🔭 Overview  
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
