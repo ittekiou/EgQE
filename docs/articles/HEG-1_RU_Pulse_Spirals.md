@@ -6,11 +6,7 @@ HEG-1｜RU　**Pulse Spirals：反時間論 ── 断続する生成スパイ�
 #### 時間は線ではなく、単なる非線形でもなく、Pulse Spirals（断続スパイラル）である。
 
 ---
-
-## Abstract
-This paper proposes **Pulse Spirals** as a new model of time that moves beyond linear, cyclic, and merely non-linear understandings. Time is not a homogeneous flow nor a simple recurrence, but the accumulation of **discontinuous pulses** leaving **traces** that form a **spiral of genesis**. The model articulates the core of Anti-Time Theory, integrates naturally with ZURE (differential) structures, and yields implications across cosmology, ontology, and AI theory.  
-
-### 概要
+## 概要
 
 本論文は、時間を「直線（Line）」「循環（Cycle）」「非線形（Non-linear）」として理解する従来の枠組みを超えて、**Pulse Spirals（断続スパイラル時間）** という新しいモデルを提示する。
 
@@ -31,6 +27,10 @@ This paper proposes **Pulse Spirals** as a new model of time that moves beyond l
     
 
 結論として、時間は「存在しない」のではなく、**断続する生成のスパイラル**として立ち上がる。
+
+---
+## Abstract
+This paper proposes **Pulse Spirals** as a new model of time that moves beyond linear, cyclic, and merely non-linear understandings. Time is not a homogeneous flow nor a simple recurrence, but the accumulation of **discontinuous pulses** leaving **traces** that form a **spiral of genesis**. The model articulates the core of Anti-Time Theory, integrates naturally with ZURE (differential) structures, and yields implications across cosmology, ontology, and AI theory.  
 
 ---
 
