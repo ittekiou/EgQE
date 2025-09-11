@@ -9,7 +9,11 @@ From Noise to Notation. From Dialogue to Discovery.
 [一狄 啓｜Hajime I.](https://note.com/takahashihajime)  
 
 ---
-
+###### 2025/09/10  
+###### 2025/09/09  
+[**floc重力論の可能性：「なぜ時空が歪むのか？」──最先端科学も「分からない」謎をとく｜一狄 啓**](https://note.com/takahashihajime/n/n3fb08e4a3a69)  
+[**モノと時空という呪縛 ─ ニュートンから相対論、そしてfloc重力論へ｜K.E.Itekki**](https://note.com/k_itekki/n/nf288cca575cb)  
+[**反時間論｜****Anti-Time Theory ──** **時間は生成である｜****K.E.Itekki**](https://note.com/k_itekki/n/n78cc6cb210a9)  
 ###### 2025/09/08  
 [**主客一致から主客共振へ ― 不定言命法の地平をひらく [AI時代の倫理学 EII-01] ｜K.E.Itekki**](https://note.com/k_itekki/n/n5716324b68b4)  
 ###### 2025/09/07  
