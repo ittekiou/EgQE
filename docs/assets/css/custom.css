@@ -14,3 +14,31 @@ blockquote.callout > p:first-child {
 blockquote.callout p:last-child {
   margin-bottom: 0;
 }
+
+/* 全てのMarkdown表に適用 */
+table {
+  display: block;
+  overflow-x: auto;       /* 横スクロール対応 */
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: auto;     /* 列幅を中身に合わせて自動調整 */
+}
+
+/* ヘッダやセルの共通調整 */
+table th, table td {
+  padding: 0.4em 0.6em;
+  vertical-align: top;
+  white-space: normal;    /* 改行を許可 */
+  line-break: strict;
+  word-break: keep-all;   /* 日本語を変な位置で切らない */
+  overflow-wrap: anywhere;
+}
+
+/* 長文列用に最小幅を広めに確保（すべての列に効く）*/
+table th, table td {
+  min-width: 12rem;       /* これでどの列もそこそこ広めになる */
+}
+table th:last-child,
+table td:last-child {
+  min-width: 24rem;
+}
