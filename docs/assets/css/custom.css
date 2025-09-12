@@ -15,34 +15,30 @@ blockquote.callout p:last-child {
   margin-bottom: 0;
 }
 
-/* 全てのMarkdown表に適用する調整 */
+/* 全てのMarkdown表に適用 */
 table {
-  display: block;          /* 狭い画面では横スクロール */
-  overflow-x: auto;
+  display: block;
+  overflow-x: auto;       /* 横スクロール対応 */
   border-collapse: collapse;
   width: 100%;
+  table-layout: auto;     /* 列幅を中身に合わせて自動調整 */
 }
 
-/* 1列目（章など） */
-table th:nth-child(1),
-table td:nth-child(1) {
-  min-width: 7ch;
-  text-align: center;
-}
-
-/* 2列目（番号など） */
-table th:nth-child(2),
-table td:nth-child(2) {
-  min-width: 10ch;
-  text-align: center;
-}
-
-/* 3列目以降（本文や定義） */
-table th:nth-child(n+3),
-table td:nth-child(n+3) {
-  min-width: 24rem;        /* 長文用に広め確保（好みに応じて28〜48remでも可） */
-  white-space: normal;
+/* ヘッダやセルの共通調整 */
+table th, table td {
+  padding: 0.4em 0.6em;
+  vertical-align: top;
+  white-space: normal;    /* 改行を許可 */
   line-break: strict;
-  word-break: keep-all;
+  word-break: keep-all;   /* 日本語を変な位置で切らない */
   overflow-wrap: anywhere;
+}
+
+/* 長文列用に最小幅を広めに確保（すべての列に効く）*/
+table th, table td {
+  min-width: 12rem;       /* これでどの列もそこそこ広めになる */
+}
+table th:last-child,
+table td:last-child {
+  min-width: 24rem;
 }
