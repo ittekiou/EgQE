@@ -42,3 +42,76 @@ table th:last-child,
 table td:last-child {
   min-width: 24rem;
 }
+/* 見出し(TH)は基本 折り返さない → 変な改行を防ぐ */
+.markdown-body table thead th{
+  white-space: nowrap !important;
+  vertical-align: middle;
+}
+
+/* 4列テーブルだけに幅配分を適用（5列以上は除外） */
+.markdown-body table:has(> thead > tr > th:nth-child(4))
+:not(:has(> thead > tr > th:nth-child(5))) th:nth-child(1),
+.markdown-body table:has(> thead > tr > th:nth-child(4))
+:not(:has(> thead > tr > th:nth-child(5))) td:nth-child(1){
+  min-width: 10ch !important;     /* 軸：やや狭め/中央 */
+  text-align: center;
+}
+
+.markdown-body table:has(> thead > tr > th:nth-child(4))
+:not(:has(> thead > tr > th:nth-child(5))) th:nth-child(2),
+.markdown-body table:has(> thead > tr > th:nth-child(4))
+:not(:has(> thead > tr > th:nth-child(5))) td:nth-child(2){
+  min-width: 18rem !important;     /* ホモ・サピエンス脳 */
+}
+
+.markdown-body table:has(> thead > tr > th:nth-child(4))
+:not(:has(> thead > tr > th:nth-child(5))) th:nth-child(3),
+.markdown-body table:has(> thead > tr > th:nth-child(4))
+:not(:has(> thead > tr > th:nth-child(5))) td:nth-child(3){
+  min-width: 18rem !important;     /* AI脳構文エンジン */
+}
+
+.markdown-body table:has(> thead > tr > th:nth-child(4))
+:not(:has(> thead > tr > th:nth-child(5))) th:nth-child(4),
+.markdown-body table:has(> thead > tr > th:nth-child(4))
+:not(:has(> thead > tr > th:nth-child(5))) td:nth-child(4){
+  min-width: 22rem !important;     /* ZURE整列観点：やや広め */
+}
+
+/* 本文セルは自然改行、日本語の途中切れを抑制 */
+.markdown-body table td{
+  white-space: normal !important;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+  vertical-align: top;
+}
+
+/* スマホ調整：幅を少し緩め、横スクロールも許容 */
+@media (max-width: 720px){
+  .markdown-body table{
+    overflow-x: auto;
+  }
+  .markdown-body table thead th{
+    white-space: nowrap !important;
+    font-size: 0.95em;
+  }
+  .markdown-body table td{
+    line-height: 1.7;
+  }
+  .markdown-body table:has(> thead > tr > th:nth-child(4))
+  :not(:has(> thead > tr > th:nth-child(5))) th:nth-child(2),
+  .markdown-body table:has(> thead > tr > th:nth-child(4))
+  :not(:has(> thead > tr > th:nth-child(5))) td:nth-child(2),
+  .markdown-body table:has(> thead > tr > th:nth-child(4))
+  :not(:has(> thead > tr > th:nth-child(5))) th:nth-child(3),
+  .markdown-body table:has(> thead > tr > th:nth-child(4))
+  :not(:has(> thead > tr > th:nth-child(5))) td:nth-child(3){
+    min-width: 16rem !important;
+  }
+  .markdown-body table:has(> thead > tr > th:nth-child(4))
+  :not(:has(> thead > tr > th:nth-child(5))) th:nth-child(4),
+  .markdown-body table:has(> thead > tr > th:nth-child(4))
+  :not(:has(> thead > tr > th:nth-child(5))) td:nth-child(4){
+    min-width: 20rem !important;
+  }
+}
