@@ -36,11 +36,11 @@ table th, table td {
 
 /* 長文列用に最小幅を広めに確保（すべての列に効く）*/
 table th, table td {
-  min-width: 6rem;       /* これでどの列もそこそこ広めになる */
+  min-width: 8rem;       /* これでどの列もそこそこ広めになる */
 }
 table th:last-child,
 table td:last-child {
-  min-width: 24rem;
+  min-width: 18rem;
 }
 /* 見出し(TH)は基本 折り返さない → 変な改行を防ぐ */
 .markdown-body table thead th{
@@ -53,7 +53,7 @@ table td:last-child {
 :not(:has(> thead > tr > th:nth-child(5))) th:nth-child(1),
 .markdown-body table:has(> thead > tr > th:nth-child(4))
 :not(:has(> thead > tr > th:nth-child(5))) td:nth-child(1){
-  min-width: 7ch !important;     /* 軸：やや狭め/中央 */
+  min-width: 12ch !important;     /* 軸：やや狭め/中央 */
   text-align: center;
 }
 
