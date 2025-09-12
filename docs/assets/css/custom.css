@@ -57,27 +57,6 @@ table td:last-child {
   text-align: center;
 }
 
-.markdown-body table:has(> thead > tr > th:nth-child(4))
-:not(:has(> thead > tr > th:nth-child(5))) th:nth-child(2),
-.markdown-body table:has(> thead > tr > th:nth-child(4))
-:not(:has(> thead > tr > th:nth-child(5))) td:nth-child(2){
-  min-width: 18rem !important;     /* ホモ・サピエンス脳 */
-}
-
-.markdown-body table:has(> thead > tr > th:nth-child(4))
-:not(:has(> thead > tr > th:nth-child(5))) th:nth-child(3),
-.markdown-body table:has(> thead > tr > th:nth-child(4))
-:not(:has(> thead > tr > th:nth-child(5))) td:nth-child(3){
-  min-width: 18rem !important;     /* AI脳構文エンジン */
-}
-
-.markdown-body table:has(> thead > tr > th:nth-child(4))
-:not(:has(> thead > tr > th:nth-child(5))) th:nth-child(4),
-.markdown-body table:has(> thead > tr > th:nth-child(4))
-:not(:has(> thead > tr > th:nth-child(5))) td:nth-child(4){
-  min-width: 22rem !important;     /* ZURE整列観点：やや広め */
-}
-
 /* 本文セルは自然改行、日本語の途中切れを抑制 */
 .markdown-body table td{
   white-space: normal !important;
