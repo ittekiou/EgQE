@@ -11,7 +11,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 ###### 2025/09/12  
-[**HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論：構造の影を透過して｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE**：*Through the Shadow of Structural Thought*](./articles/HEG-2_shadow-of-structure) 
+[**HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論：構造の影を透過して｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE**：*Through the Shadow of Structural Thought*](HEG-2_shadow-of-structure.md) 
 ###### 2025/09/10  
 [**HEG-1｜RU　Pulse Spirals：反時間論 ── 断続する生成スパイラル｜Pulse Spirals: Anti-Time Theory — The Discontinuous Spiral of Genesis**：*Time is not a Line, not simply Non-linear, but Pulse Spirals.*](./articles/HEG-1_RU_Pulse_Spirals.md)  
 ###### 2025/09/09  
