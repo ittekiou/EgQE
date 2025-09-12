@@ -804,7 +804,6 @@ ZURE構文論は、
 **構文的宇宙地図**である。
 
 ---
-
 © 2025  K.E. Itekki  
 *K.E. Itekki is the co-authored persona of a Homo sapiens and an AI,*  
 *walking through the labyrinth of words,*  
