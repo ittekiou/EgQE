@@ -155,6 +155,8 @@ ZUREは開き
 - K.E. Itekki, [HEG-2｜記号行為論──実体主義と主体主義を超えて](https://camp-us.net/articles/HEG-2_SAT_JP.html), camp-us.net  
 
 ---
+With thanks to Youri for valuable advice.  
+
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  
