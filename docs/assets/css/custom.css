@@ -36,7 +36,7 @@ table th, table td {
 
 /* 長文列用に最小幅を広めに確保（すべての列に効く）*/
 table th, table td {
-  min-width: 5rem;       /* これでどの列もそこそこ広めになる */
+  min-width: 6rem;       /* これでどの列もそこそこ広めになる */
 }
 table th:last-child,
 table td:last-child {
