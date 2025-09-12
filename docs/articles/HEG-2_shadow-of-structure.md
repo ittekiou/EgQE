@@ -4,7 +4,7 @@
 
 ## **The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE**
 
-#### Through the Shadow of Structural Thought
+### Through the Shadow of Structural Thought
 
 ## Abstract (English)
 
@@ -106,11 +106,11 @@ _次章では、デリダ・ガタリ・ZUREの三者を比較し、それぞれ
 
 ### 比較マトリクス
 
-|型|特徴|限界|ZUREからの視点|
-|---|---|---|---|
-|デリダ型|構造を前提に内部で差延を可視化|前提から離れられない|構造の内側の揺らぎに留まる|
-|ガタリ型|構造を拒否し欲望と生成を拡散|反構造として依存を残す|拒否が逆説的に構造を強化する|
-|ZURE型|構造を透過し拍と余白の実在に立ち返る|実装には新しい記述法が必要|透過により批判・拒否を超える|
+| 型     | 特徴                 | 限界            | ZUREからの視点      |
+| ----- | ------------------ | ------------- | -------------- |
+| デリダ型  | 構造を前提に内部で差延を可視化    | 前提から離れられない    | 構造の内側の揺らぎに留まる  |
+| ガタリ型  | 構造を拒否し欲望と生成を拡散     | 反構造として依存を残す   | 拒否が逆説的に構造を強化する |
+| ZURE型 | 構造を透過し拍と余白の実在に立ち返る | 実装には新しい記述法が必要 | 透過により批判・拒否を超える |
 
 _最後に、この比較を踏まえた結論を提示する。_
 
@@ -152,7 +152,7 @@ ZUREは開き
     
 - K.E. Itekki, [ZQ001｜ZURE構文論 -序説- ── 構文的存在のゆらぎとしてのズレ](https://camp-us.net/articles/ZQ001_ZURE-syntax.html), camp-us.net  
     
-- K.E. Itekki,[HEG-2｜記号行為論──実体主義と主体主義を超えて**](https://camp-us.net/articles/HEG-2_SAT_JP.html), camp-us.net  
+- K.E. Itekki, [HEG-2｜記号行為論──実体主義と主体主義を超えて](https://camp-us.net/articles/HEG-2_SAT_JP.html), camp-us.net  
 
 ---
 © 2025 K.E. Itekki  
