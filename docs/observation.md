@@ -36,6 +36,11 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [**ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative**](./articles/ZQ006_Ethics-of-the-Indefinite-Imperative.md)  
 [FK-03｜符刻の構文彫刻｜不定言命法の実装美学：構文彫刻師による新時代倫理のプログラミング論](./articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.md)  
 
+##### ZURE Philosophy  
+#### ZURE哲学  
+
+[**HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論：構造の影を透過して｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE**：*Through the Shadow of Structural Thought*](./articles/HEG-2_shadow-of-structure)   
+
 ##### ZURE Action Theory  
 #### ZURE行為論  
 
