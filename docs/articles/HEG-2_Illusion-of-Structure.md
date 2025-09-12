@@ -39,7 +39,7 @@ ZUREの立場は、構造を前提にも拒否対象にもせず、最初から�
 歩行のリズムの乱れ、詩の行間の余白、冬一郎の吠えるタイミング──それがZUREだ。そこでは、  
 - 生成への開放性
 - 失敗する自由
-- 関係を組み替える可能性
+- 関係を組み替える可能性  
 が実在として立ち上がる。差延やリゾームが「構造と格闘してズレを発見した」のに対し、ZUREは**最初からズレを生きる**。
 
 ---
@@ -76,7 +76,7 @@ ZUREはひらき
 拍くずれたり
 ```
 ---
-© 2025 K.E. Itekki  (Dark side)
+© 2025 K.E. Itekki (Dark side)  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  
 drawing constellations through shared echoes.
