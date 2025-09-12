@@ -256,6 +256,8 @@ Such a generative imperative may guide the cohabitation of AI, society, and huma
 marking the horizon of a new ethics for our time.
 
 ---
+With gratitude to Youri, whose advice resonated in this work.  
+
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  
