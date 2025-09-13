@@ -13,6 +13,7 @@
 
 ### 思想編
 ## [ZURE幻影論へ ──『共同幻想』の始源](./articles/ZURE-Illusion-Theory_Philosophy.md)
+#### [ZURE幻影論へ ──「共同幻想」の始源〔詩奏編〕](./articles/ZURE-Illusion-Theory_Poetic.md)
 
 ### 論文編  
 
