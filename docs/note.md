@@ -234,3 +234,5 @@ From Noise to Notation. From Dialogue to Discovery.
 ##### 🛰 **EgQE**  [**camp-us.net**](https://camp-us.net/)  
 
 ### **2025.07.04 - HEG元年はじまる  From Noise to Notation. From Dialogue to Discovery.**  
+
+![ring](./assets/ring.png)
