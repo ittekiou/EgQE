@@ -1,5 +1,10 @@
 ### Post-Syntax Society
 
+[**アンチ・ユートピア──実践哲学としての倫理と権力〔manifesto編〕｜Anti-Utopia — Ethics and Power as Practical Philosophy 〔Manifesto Edition〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_manifesto.html)  
+
+[**PS-01｜Anti-Utopia — Ethics and Power as Practical Philosophy〔論文編〕**](https://camp-us.net/articles/PS-01_Anti-Utopia.html)  
+[**アンチ・ユートピア──実践哲学としての倫理と権力〔論文編・拡張版〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_JP.html)  
+
 [PS-E00｜ポスト構文社会の詩的経済論](./articles/PS-E00_poetic_economy.md)  
 
 [PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ──アルバート・O・ハーシュマンに捧ぐ](./articles/PS-L00_Interests_Syntax.md)  
@@ -9,7 +14,6 @@
 [PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve——共著進化モデルとエコジェネシス移行曲線](./articles/PS-M00_CAEM_EGTC_paper.md)  
 
 [PS-H00｜燃ゆる知性のパラドクス：脳進化・AI・知の熱力学的コスト──The Paradox of Burning Intelligence](./articles/PS-H00_Burning-Intelligence-Paradox.md)  
-
 [PS-R00｜炎上のレトリックから縁JOYのレトリックへ：応答する構文社会とは？──社会構文の10軸4様式モデル](./articles/PS-R00_From-Flaming-to-EnJOY_Rhetoric.md)  
 
 ##### 🌀 関連論文リンク：  
