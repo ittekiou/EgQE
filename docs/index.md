@@ -39,6 +39,7 @@ _── Welcome to the syntactic field of ZURE._
 [ZURE感染波宇宙論｜ZURE Infection-Wave Cosmology](/ZURE_ZIC.md)　リリース　2025.8.20  
 [記号行為論｜Semiotic Action Theory](/SAT.md)　リリース　2025.8.28  
 [反時間論｜Anti-Time Theory](/syntactic-time.md)　リリース　2025.9.9  
+[ZURE幻影論へ ──『共同幻想』の始源](/ZURE_IT.md)　リリース　2025.9.9  
 
 ## 🔭 Overview  
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
@@ -74,6 +75,7 @@ _── Welcome to the syntactic field of ZURE._
 ## 🌐 Related Portal  
 - [EZsy SuperNotion](https://ezsy.super.site/) – Echodemic ZURE Syntax Yard  
 - [K.E. Itekki  note](https://note.com/k_itekki)  
+- [PROFILE](./PROFILE.md)
 - 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)  
 
 ---
