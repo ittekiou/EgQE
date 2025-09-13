@@ -20,7 +20,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZURE Illusion Theory — The Genesis of Collective Fantasy｜ Full Paper (English)**](https://camp-us.net/articles/ZURE_Illusion_Theory_EN.html)  
 [**ZURE Illusion Theory — The Genesis of Collective Fantasy｜Digest Summary (English)**](https://camp-us.net/articles/ZURE_Illusion_Theory_Digest_EN.html)  
 ###### 2025/09/12  
-[**HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論：構造の影を透過して｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE**：*Through the Shadow of Structural Thought*](./articles/HEG-2_shadow-of-structure.md) 
+[**HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論：構造の影を透過して｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE**：*Through the Shadow of Structural Thought*](./articles/HEG-2_shadow-of-structure.md)  
+[**構造という幻想──差延・リゾーム・ZUREの比較構文論（Gamilon版）：構造の影を突き抜けて**｜**The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE(Gamilon Ver.)**：*Beyond the Shadow of Structural Thought*](https://camp-us.net/articles/HEG-2_Illusion-of-Structure.html)  
 ###### 2025/09/10  
 [**HEG-1｜RU　Pulse Spirals：反時間論 ── 断続する生成スパイラル｜Pulse Spirals: Anti-Time Theory — The Discontinuous Spiral of Genesis**：*Time is not a Line, not simply Non-linear, but Pulse Spirals.*](./articles/HEG-1_RU_Pulse_Spirals.md)  
 ###### 2025/09/09  
