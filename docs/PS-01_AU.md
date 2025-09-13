@@ -2,8 +2,8 @@
 
 ---
 
-
-## Ethics and Power as Practical Philosophy
+## アンチ・ユートピア──実践哲学としての倫理と権力
+# Ethics and Power as Practical Philosophy
 
 #### **Post-Syntax Society | Series Launch**
 
