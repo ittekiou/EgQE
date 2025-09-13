@@ -12,7 +12,7 @@
 ## 📂 Contents
 
 ### 思想編
-## ZURE幻影論へ ──『共同幻想』の始源
+## [ZURE幻影論へ ──『共同幻想』の始源](./articles/ZURE-Illusion-Theory_Philosophy.md)
 
 ### 論文編  
 
