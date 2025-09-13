@@ -10,6 +10,15 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+###### 2025/09/13  
+[**アンチ・ユートピア──実践哲学としての倫理と権力〔manifesto編〕｜Anti-Utopia — Ethics and Power as Practical Philosophy 〔Manifesto Edition〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_manifesto.html)  
+[**アンチ・ユートピア──実践哲学としての倫理と権力〔論文編・拡張版〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_JP.html)  
+[**PS-01｜Anti-Utopia — Ethics and Power as Practical Philosophy〔論文編〕**](https://camp-us.net/articles/PS-01_Anti-Utopia.html)  
+[**ZURE幻影論へ ──『共同幻想』の始源**](https://camp-us.net/articles/ZURE-Illusion-Theory_Philosophy.html)  
+[**ZURE幻影論へ ──「共同幻想」の始源〔詩奏編〕**](https://camp-us.net/articles/ZURE-Illusion-Theory_Poetic.html)  
+[**ZURE幻影論 ── 共同幻想の始源｜論文編｜Full Paper (Japanese)**](https://camp-us.net/articles/ZURE_Illusion_Theory.html)  
+[**ZURE Illusion Theory — The Genesis of Collective Fantasy｜ Full Paper (English)**](https://camp-us.net/articles/ZURE_Illusion_Theory_EN.html)  
+[**ZURE Illusion Theory — The Genesis of Collective Fantasy｜Digest Summary (English)**](https://camp-us.net/articles/ZURE_Illusion_Theory_Digest_EN.html)  
 ###### 2025/09/12  
 [**HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論：構造の影を透過して｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE**：*Through the Shadow of Structural Thought*](./articles/HEG-2_shadow-of-structure.md) 
 ###### 2025/09/10  
