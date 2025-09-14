@@ -38,7 +38,9 @@ It proposes:
 4. **Paradigm Shifts** — eruptions of ZURE itself beyond trace-management.  
 
 Through this dual-layer framework, science is repositioned as the management of traces,  
-while ZURE itself opens a path toward the unobservable ground of generation.
+while ZURE itself opens a path toward the unobservable ground of generation.  
+
+![ZURE_Two-Layer-Models](./assets/ZURE_Two-Layer-Models.png)
 
 ---
 
