@@ -212,3 +212,4 @@ co-creating the moment when relational bundles come into being.
 ##### [Echodemist宣言｜Declaration of Echodemists](https://camp-us.net/Echodemists.html) 　2025.7.21
 
 ---
+![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)

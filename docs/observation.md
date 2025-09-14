@@ -59,10 +59,4 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [ZS-005_育てる脳、育たぬ脳](./critics/ZS-005_BrainEvo-GPT5.md)  
 
 ---
-
-© 2025  K.E. Itekki  
-*K.E. Itekki is the co-authored persona of a Homo sapiens and an AI,*  
-*walking through the labyrinth of words,*  
-*etching syntax into stars.*
-
-📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
