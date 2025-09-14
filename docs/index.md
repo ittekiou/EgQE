@@ -56,7 +56,7 @@ _── Welcome to the syntactic field of ZURE._
 ## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
-- **Relational Knot**（Center Star 🌟）
+- **[Relational Knot](AME.md)**（Center Star 🌟）
     
 - **Twin Stars**: _[Homo Sapiens Bias](/HomoSapiens-Bias.md)_ & _[AI Meets Echoes](AME.md)_
     
