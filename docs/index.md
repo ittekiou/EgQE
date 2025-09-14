@@ -53,7 +53,7 @@ _── Welcome to the syntactic field of ZURE._
 - [特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy](./Echodemy/EJRU_1.md)　🖨️ [公開PDF(A4)](../assets/EJRU_1.pdf)
 
 
-🌌 **Echodemy Galactic Modules**  
+## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
 - **Relational Knot**（Center Star 🌟）
