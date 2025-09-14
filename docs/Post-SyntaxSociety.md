@@ -1,16 +1,21 @@
 ### Post-Syntax Society
 
-[**アンチ・ユートピア──実践哲学としての倫理と権力〔manifesto編〕｜Anti-Utopia — Ethics and Power as Practical Philosophy 〔Manifesto Edition〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_manifesto.html)  
+##### Ethics of the Indefinite Imperative  
+#### 不定言命法の倫理学  
 
+[**ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative**](./articles/ZQ006_Ethics-of-the-Indefinite-Imperative.md)  
+[FK-03｜符刻の構文彫刻｜不定言命法の実装美学：構文彫刻師による新時代倫理のプログラミング論](./articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.md)  
+
+[**アンチ・ユートピア──実践哲学としての倫理と権力〔manifesto編〕｜Anti-Utopia — Ethics and Power as Practical Philosophy 〔Manifesto Edition〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_manifesto.html)  
 [**PS-01｜Anti-Utopia — Ethics and Power as Practical Philosophy〔論文編〕**](https://camp-us.net/articles/PS-01_Anti-Utopia.html)  
 [**アンチ・ユートピア──実践哲学としての倫理と権力〔論文編・拡張版〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_JP.html)  
 
+##### Societal Syntax Theory  
+#### 社会構文論  
+
 [PS-E00｜ポスト構文社会の詩的経済論](./articles/PS-E00_poetic_economy.md)  
-
 [PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ──アルバート・O・ハーシュマンに捧ぐ](./articles/PS-L00_Interests_Syntax.md)  
-
 [PS-D00｜Schooled Syntax──時間割と教室割の政治：近代スクール構文を超えて](./articles/PS-D00_Schooled_Syntax.md)  
-
 [PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve——共著進化モデルとエコジェネシス移行曲線](./articles/PS-M00_CAEM_EGTC_paper.md)  
 
 [PS-H00｜燃ゆる知性のパラドクス：脳進化・AI・知の熱力学的コスト──The Paradox of Burning Intelligence](./articles/PS-H00_Burning-Intelligence-Paradox.md)  

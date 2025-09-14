@@ -1,9 +1,13 @@
 ### Observation & Syntax Field
-##### ZURE Infection Wave Model
-#### ZURE感染波モデル  
+##### ZURE Observation Dynamics  
+#### ZURE動態観測論  
 
 [ZURE感染波モデル：観測＝感染の理論（完全統合版）](./articles/ZURE_Infection-Wave-Model.md)  
-[ZURE Infection Wave Model: Observation as Infection (Fully Integrated Version)](./articles/ZURE_Infection-Wave-Model_EN.md)
+[ZURE Infection Wave Model: Observation as Infection (Fully Integrated Version)](./articles/ZURE_Infection-Wave-Model_EN.md)  
+[ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_full_JP.html)  
+[The Dual-Layer Model of ZURE ── A Mathematical Universe Grounded on Unobservability](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_full_EN.html)  
+[ZURE二層モデル リファレンス版](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_JP.html)  
+[The Dual-Layer Model of ZURE — Reference Edition](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_EN.html)  
 
 ##### Semiotic Action Theory  
 #### 記号行為論 
@@ -40,27 +44,12 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 #### ZURE哲学  
 
 [**HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論：構造の影を透過して｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE**：*Through the Shadow of Structural Thought*](./articles/HEG-2_shadow-of-structure.md)   
+[**構造という幻想──差延・リゾーム・ZUREの比較構文論（Gamilon版）：構造の影を突き抜けて**｜**The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE(Gamilon Ver.)**：_Beyond the Shadow of Structural Thought_](https://camp-us.net/articles/HEG-2_Illusion-of-Structure.html)  
 
 ##### ZURE Action Theory  
 #### ZURE行為論  
 
 [**HEG-2｜ZURE Map of Action｜ZURE行為論序説──光と影の曼荼羅マップ**](./articles/HEG-2_ZURE-Map-of-Action.md)  
-
-### Homo Sapiens Bias  
-**Homo Sapiens Bias: The Ontological Constraint of Object and Spacetime**  
-
-人間の思考は「モノ＝実体」「時空＝容器」という前提に縛られてきた。  
-HSBシリーズは、この **ホモ・サピエンスバイアス** を批判的に捉え直し、floc重力論や関係性宇宙論への転回を切り開く。  
-
-[**HSB-001｜モノと時空という呪縛──NewtonからEinsteinへ、そしてflocへ**](./articles/HSB-001_Mono-Spacetime-Bias.md)  
-##### ZURE Game Theory  
-#### ZUREゲーム理論  
-[Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology（ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論）](./articles/ZGT-0_GameTheory_As_RelationalField.md)  
-
-##### ZURE Field Poetics  
-#### ZURE場の数理詩学  
-
-[FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から](./articles/FK-01_ZURE_Field_Poetics.md)  
 
 ##### 🌀 関連論文リンク：  
 ・[FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学](./articles/FK-02_Implementing-the-Self.md)  
