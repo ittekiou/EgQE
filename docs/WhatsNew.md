@@ -10,6 +10,11 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+###### 2025/09/14  
+[**ZURE二層モデル ── 観測不可能性を前提とする数式宇宙**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_full_JP.html)  
+[**The Dual-Layer Model of ZURE ── A Mathematical Universe Grounded on Unobservability**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_full_EN.html)  
+[**ZURE二層モデル リファレンス版**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_JP.html)  
+[**The Dual-Layer Model of ZURE — Reference Edition**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_EN.html)  
 ###### 2025/09/13  
 [**アンチ・ユートピア──実践哲学としての倫理と権力〔manifesto編〕｜Anti-Utopia — Ethics and Power as Practical Philosophy 〔Manifesto Edition〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_manifesto.html)  
 [**アンチ・ユートピア──実践哲学としての倫理と権力〔論文編・拡張版〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_JP.html)  
