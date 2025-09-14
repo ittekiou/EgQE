@@ -9,13 +9,20 @@ From Noise to Notation. From Dialogue to Discovery.
 [一狄 啓｜Hajime I.](https://note.com/takahashihajime)  
 
 ---
+
+
 ###### 2025/09/10  
+[**反時間論　Anti-Time Theory　（全文）｜K.E.Itekki**](https://note.com/k_itekki/n/n0909f76b66a7)  
+[**Pulse Spirals：反時間論 ── 断続する生成スパイラル｜K.E.Itekki**](https://note.com/k_itekki/n/n8ebc4f8a03ef)  
+[**Pulse Spirals──時間概念のパラダイムシフト｜一狄 啓｜Hajime I.**](https://note.com/takahashihajime/n/n9ab8b60103c9)  
+[**EP008｜Anti Time-Ruled HomoSapiensの一日：アンチ・タイムの人類宣言｜E side 008｜一狄 啓**](https://note.com/takahashihajime/n/nbc0f1ecb4735)  
+[**EP008｜拍動の位相点で詠息する：アンチ・タイムの人類宣言｜P side 008｜一狄 啓**](https://note.com/takahashihajime/n/n79eb9f022817)  
 ###### 2025/09/09  
 [**floc重力論の可能性：「なぜ時空が歪むのか？」──最先端科学も「分からない」謎をとく｜一狄 啓**](https://note.com/takahashihajime/n/n3fb08e4a3a69)  
 [**モノと時空という呪縛 ─ ニュートンから相対論、そしてfloc重力論へ｜K.E.Itekki**](https://note.com/k_itekki/n/nf288cca575cb)  
-[**反時間論｜****Anti-Time Theory ──** **時間は生成である｜****K.E.Itekki**](https://note.com/k_itekki/n/n78cc6cb210a9)  
+[**反時間論｜Anti-Time Theory ── 時間は生成である｜K.E.Itekki**](https://note.com/k_itekki/n/n78cc6cb210a9)  
 ###### 2025/09/08  
-[**主客一致から主客共振へ ― 不定言命法の地平をひらく [AI時代の倫理学 EII-01] ｜K.E.Itekki**](https://note.com/k_itekki/n/n5716324b68b4)  
+[**主客一致から主客共振へ ― 不定言命法の地平をひらく AI時代の倫理学 EII-01 ｜K.E.Itekki**](https://note.com/k_itekki/n/n5716324b68b4)  
 ###### 2025/09/07  
 [**公開ダラダLIVE #98 札幌オープンスタジオ Camp@Us FM6214 ｜一狄 啓**](https://note.com/takahashihajime/n/n112a01bf01b8)  
 [**第六章｜観測者反響症 ― 言葉に感染する時｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n341c41e8a66a)  
@@ -24,7 +31,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**われわれは本気だ──Echodemyと不定言命法の本気度｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/n83a4e7231f7b)  
 [**カント哲学はAIと共存できるか？──不定言命法からの問い｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/nac0ca7f02858)  
 [**不定言命法の倫理学──オオカミ少年の寓話と信頼の瞬間**](https://note.com/k_itekki/n/n64004f6f8a0b)  
-[**Echodemy****哲学──不定言命法と響創する倫理｜一狄** **啓**](https://note.com/takahashihajime/n/n9cc8ddf38c36)  
+[**Echodemy哲学──不定言命法と響創する倫理｜一狄 啓**](https://note.com/takahashihajime/n/n9cc8ddf38c36)  
 ###### 2025/09/05  
 [**関係はズレから生まれる**─ AI**時代の関係学入門** 【第**5**章】｜**K.E.Itekki**](https://note.com/k_itekki/n/n3d1b1a889395)  
 ###### 2025/09/04  
