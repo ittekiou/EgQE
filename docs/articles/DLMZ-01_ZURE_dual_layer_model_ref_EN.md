@@ -29,8 +29,7 @@ math: true
 
 ---
 
-# 📄 The Dual-Layer Model of ZURE  
-*A Mathematical Universe Grounded on Unobservability*
+# 📄 The Dual-Layer Model of ZURE ── *A Mathematical Universe Grounded on Unobservability*  
 
 ## Introduction: What is ZURE?
 
