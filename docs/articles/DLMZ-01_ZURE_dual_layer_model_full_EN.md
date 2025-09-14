@@ -16,14 +16,18 @@ layout: math
 ## Definitions
 - **ZURE itself**  
   The unobservable remainder inherent in generation.  
-  Equation:    $$
+  Equation:  
+  $$
   Z_{itself} = Φ - 𝒪_Z(Φ)
   $$
+
 - **ZURE as trace**  
   The deviation inscribed by observation.  
-  Equation:   $$
+  Equation:  
+  $$
   Z_{trace} = x_{obs} - x_{theory}
   $$
+
 - **Trace operator 𝒪_Z**  
   The operator that projects generative totality Φ into trace domain.  
   Properties: measurability, continuity, nonlinearity

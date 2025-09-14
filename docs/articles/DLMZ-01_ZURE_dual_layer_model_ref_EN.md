@@ -16,14 +16,18 @@ layout: math
 ## Definitions
 - **ZURE itself**  
   The unobservable remainder inherent in generation.  
-  Equation:    $$
+  Equation:  
+  $$
   Z_{itself} = Φ - 𝒪_Z(Φ)
   $$
+
 - **ZURE as trace**  
   The deviation inscribed by observation.  
-  Equation:   $$
+  Equation:  
+  $$
   Z_{trace} = x_{obs} - x_{theory}
   $$
+
 - **Trace operator 𝒪_Z**  
   The operator that projects generative totality Φ into trace domain.  
   Properties: measurability, continuity, nonlinearity
@@ -51,8 +55,8 @@ $$
 Z_{itself} = \Phi - \mathcal{O}_Z(\Phi)
 $$
 
-- \(\Phi\) = generative totality
-- \(\mathcal{O}_Z\) = trace operator (ZURE filter)
+- $\Phi$ = generative totality
+- $\mathcal{O}_Z$ = the trace operator (ZURE filter)
 
 **Properties**
 1. Residuality
@@ -70,8 +74,8 @@ $$
 Z_{trace} = x_{obs} - x_{theory}
 $$
 
-- \(x_{obs}\) = observed value
-- \(x_{theory}\) = theoretical prediction
+- $x_{\text{obs}}$ = observed value
+- $x_{\text{theory}}$ = theoretical prediction
 
 **Properties**
 1. Measurability
@@ -83,7 +87,7 @@ $$
 
 ## Chapter 3｜The Connecting Principle: The ZURE Filter
 
-**Trace operator \(\mathcal{O}_Z\):**
+**Trace operator $\mathcal{O}_Z$:
 - Measurability
 - Continuity
 - Nonlinearity
