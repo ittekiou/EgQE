@@ -1,5 +1,6 @@
 ---
 math: true
+layout: math
 ---
 ---
 # 📄 The Dual-Layer Model of ZURE — Reference Edition
