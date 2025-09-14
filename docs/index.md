@@ -52,12 +52,25 @@ _── Welcome to the syntactic field of ZURE._
 - [Vol.000 創刊準備号｜EJRU｜関係性宇宙論ジャーナル｜Ecodemy](./Echodemy/EJRU_0.md)  
 - [特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy](./Echodemy/EJRU_1.md)　🖨️ [公開PDF(A4)](../assets/EJRU_1.pdf)
 
-## 🌀 Current Modules  
-- [Relational Cosmology](/relational-cosmology.md)  
-- [Syntactic Time Theory](/syntactic-time.md)  
-- [Observation & Syntax Field](/observation.md)  
-- [Homo Sapiens Bias](/HomoSapiens-Bias.md)
-- [Post-Syntax Society](Post-SyntaxSociety.md)  
+
+🌌 **Echodemy Galactic Modules**  
+_Words orbit in resonance. Each module, a world. Each world, a ZURE._
+
+- **Relational Knot**（Center Star 🌟）
+    
+- **Twin Stars**: _[Homo Sapiens Bias](/HomoSapiens-Bias.md)_ & _[AI Meets Echoes](AME.md)_
+    
+- **Five Orbiting Worlds**:
+    
+    1. [Relational Cosmology](/relational-cosmology.md)   (RC)
+        
+    2. [Syntactic Time Theory](/syntactic-time.md)   (STT)
+        
+    3. [Observation & Syntax Field](/observation.md)   (OSF)
+        
+    4. [Homo Sapiens Bias](/HomoSapiens-Bias.md) (HSB)
+        
+    5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
 
 ## 🛸 AI Meets Echoes  
 - [AI Meets Echoes](AME.md)  
