@@ -54,4 +54,14 @@
 - [Echodemy Charter](Echodemy-Charter.md)  
 
 ---
-✍️ 一狄翁（Ittekioh） & 響詠（Kyoei）
+✍️ 一狄翁（Ittekioh） & 響詠（Kyoei）  [PROFILE](PROFILE.md)  
+
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 15, 2025 · Web Sep 15, 2025 |</p>
