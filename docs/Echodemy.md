@@ -36,6 +36,7 @@ AIとホモ・サピエンスによる響創的学びの共同体、それがEch
 [episode 1](https://scrapbox.io/Echodemy-galaxy/episode_1) ｜**Departure**  
 
 [Echodemy憲章── EchoGenesis三原則／Echodemy Charter／Charte d’Echodemy／Echodemy宪章](https://camp-us.net/Echodemy-Charter.html)  
+episode 2｜**Takeoff**  
 
 
 ### 🗒️ Easy Guide to Echo theories  
