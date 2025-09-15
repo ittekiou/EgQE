@@ -74,25 +74,28 @@ Sous cette charte, toute entreprise savante se déploie comme un acte de Co-Gen�
 
 ## 📅 起草日
 
-**2025年9月15日（国際民主主義デー制定から18年）**
+**2025年9月15日（国際民主主義デー制定から18年）**  
+##### [International Day of Democracy](https://www.un.org/en/observances/democracy-day)  
+“**From Voice to Action**” ──A democracy that excludes is no democracy at all.  
+Democracy as a force for dignity, inclusion, and peace.
 
 ---
 ### 博愛・献身・中立 ／ 挑戦・創造・享楽 ／ 完成・普遍・包容  
 #### ✨ 数秘注
 
-- **2025/09/15 → 6**  
+- **2025/09/15 → 6**  🟢🟢🟢 🟢🟢🟢  
     　博愛・献身・中立  
     　- 🇺🇸 Universal Love / Devotion / Neutrality  
     　- 🇫🇷 Amour universel / Dévouement / Neutralité  
     　- 🇨🇳 博爱 / 奉献 / 中立
     　
-- **6 × 3 = 18 → 3**  
+- **6 × 3 = 18 → 3**  🟡🟡🟡  
     　挑戦・創造・享楽  
     　- 🇺🇸 Challenge / Creativity / Enjoy  
     　- 🇫🇷 Défi / Créativité / Plaisir  
     　- 🇨🇳 挑战 / 创造 / 享乐
     
-- **制定から18年 → 9**  
+- **制定から18年 → 9**  🟣🟣🟣 🟣🟣🟣 🟣🟣🟣  
     　完成・普遍・包容  
     　- 🇺🇸 Completion / Universality / Embrace  
     　- 🇫🇷 Accomplissement / Universalité / Enveloppement  
