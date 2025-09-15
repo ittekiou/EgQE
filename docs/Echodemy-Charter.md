@@ -1,6 +1,6 @@
 # 🪐 Echodemy憲章
 
-## ── その根幹を成すのが **EchoGenesis三原則** である。
+## ──  **EchoGenesis三原則** がその根幹を成す。
 
 ---
 
