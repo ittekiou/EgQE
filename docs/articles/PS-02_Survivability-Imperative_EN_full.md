@@ -1,111 +1,99 @@
-# Survivability Imperative 実装仕様 v1.1
+# Survivability Imperative — Implementation Specification v1.1
 
-##### （Implementation Guidelines for the Mathematical Model of Responsibility (Revised Edition)）
+##### (Implementation Guidelines for the Mathematical Model of Responsibility, Revised Edition)
 
 ## 1. Basic Principles
 
-- Three Layers of Responsibility
-    
-    1. Consistency（Consistency）
-        
-    2. Alterity（Alterity）
-        
-    3. Historicity = Survivability（Historicity / Survivability）
-        
-- At the top is **Survivability Imperative（Survivability Imperative）** を置き、In crises and integration bottlenecks, prioritize the future。
-    
-- Responsibility is the preservation of historicity toward the future。
-    
+- **Three Layers of Responsibility**
+  1. **Consistency**
+  2. **Alterity**
+  3. **Historicity / Survivability**
+
+- The highest governing rule is the **Survivability Imperative**: in crises and at points where integration is hard, **prioritize the future**.
+
+- **Responsibility** means *preserving historicity toward the future*.
 
 ---
 
-## 2. Principle of Triple Jump of Responsibility
+## 2. Principle of the Triple Jump (Responsibility)
 
-- **一段目（Detection Jump）**：危機やDifficult situationsを感知し、未来重視へ切り替える。
-    
-- **二段目（Correction Jump）**：収束しきらない揺れをもう一度未来ブーストで安定化。
-    
-- **三段目（Landing Jump）**：過剰シフトを緩和し、Dynamicモードへ戻す。
-    
-- Not infinite repetition but、**Completed within a maximum of three jumps**。
-    
+- **1st Jump — Detection**: Detect crises or bottlenecks and switch to a future‑first stance.
 
-**モットー**：
+- **2nd Jump — Correction**: If oscillations remain, apply another *future boost* to stabilize.
 
-> 無駄に跳ねるな！三段跳びが一番遠く（未来）に翔べる！
+- **3rd Jump — Landing**: Damp any overshift and return to the **Dynamic** mode.
+
+- This is **not** about endless retries; it **completes within at most three jumps**.
+
+**Motto**
+
+> Don’t hop in vain—**the triple jump flies farthest** (into the future).
 
 ---
 
-## 3. Threshold Principle of Jumping
+## 3. Threshold Principle for Jumping
 
-- **100％approval**はan extension of the pastであり、not responsibility toward the future。
-    
-- **51％approval**ではinsufficient power to leap toward the future。
-    
-- **7割の沈黙的支持と3割の反対**を伴うとき、the triple jump constitutes historical responsibility。
-    
-- without yielding to crisis、**3割の反対を抱えたままa decision to leap into the future**をとる。
-    
+- **100% approval** is merely an *extension of the past* and does **not** count as responsibility to the future.
+
+- With **51% approval**, there isn’t enough thrust to leap toward the future.
+
+- When there is **~70% tacit support and ~30% opposition**, the triple jump qualifies as a historically responsible move.
+
+- Do **not** yield to the crisis; decide to **leap into the future while carrying that ~30% opposition**.
 
 ---
 
 ## 4. Control Modes
 
-1. **Fixed**：Fixed weights during normal times（0.3/0.5/0.2）。
-    
-2. **Dynamic**：Approaching crisisで young↓・future↑、storm conditionsで now↑。連続ソフトマックス調整。
-    
-3. **Leap（三段跳び）**：Difficult situations検出時にnonlinear boostを加え、future に急転。最大3段で完結。
-    
+1. **Fixed** — Normal‑time constant weights **(0.3 / 0.5 / 0.2)**.
+
+2. **Dynamic** — As crisis approaches: **young↓, future↑**; under rough conditions: **now↑**. Adjust with a *continuous softmax*.
+
+3. **Leap (Triple Jump)** — Upon detecting a difficult pass, add a **nonlinear boost** and pivot hard to **future**. Completes within **≤ 3** jumps.
 
 ---
 
-## 5. Case Demonstration（Hostility Ratio30％シナリオ）
+## 5. Case Demonstration (Hostility Ratio: 30% Scenario)
 
-- **Setting**：若者系列に30％の敵対成分を注入。
-    
-- **Comparison**：Fixed vs Dynamic vs Leap
-    
-- **Results**：
-    
-    - Fixed/Dynamic はerror spikes後にlinger。
-        
-    - Leap（三段跳び）は future 重みを非線形に跳ね上げ、**早期安定と短尾化**を達成。
-        
+- **Setting**: Inject **30% hostile component** into the *young* series.
+
+- **Comparison**: **Fixed** vs **Dynamic** vs **Leap**.
+
+- **Results**:
+  - **Fixed/Dynamic**: exhibit **error spikes** followed by persistence.
+  - **Leap**: raises the **future** weight **nonlinearly**, achieving **faster stabilization** with **shorter tails**.
 
 ### Graphs
 
-![RMS誤差](../assets/rms_error_case.png)
+![RMS Error](../assets/rms_error_case.png)
 
-![future重み推移](../assets/future_weight_case.png)
+![Future‑weight Trajectory](../assets/future_weight_case.png)
 
 ---
 
 ## 6. Operational Presets
 
-- **Normal times＝Dynamic**（柔軟調整）
-    
-- **Difficult situations＝Leap（三段跳び）**（未来ジャンプで突破）
-    
-- **Recovery＝Dynamic**（着地後に再び調整へ）
-    
-- この3段階運用を「Standard Preset of the Responsibility Algorithm」とする。
-    
+- **Normal** → **Dynamic** (adaptive adjustment)
+
+- **Difficult pass** → **Leap (Triple Jump)** (break through with a future jump)
+
+- **Recovery** → **Dynamic** (return to adaptive mode after landing)
+
+Treat these three stages as the **Standard Preset of the Responsibility Algorithm**.
 
 ---
 
 ## 7. Ethical Interpretation
 
-- 責任は「response」から「leap」への非連続な移行である。
-    
-- 三段跳びは倫理的にも数理的にも、the optimal solution for leaping furthest—toward the future。
-    
-- Survivability Imperativeは、AlterityとConsistencyを包摂し、**the ultimate principle for carrying history into the future**である。
-    
+- Responsibility is a **discontinuous shift** from *response* to **leap**.
+
+- The **triple jump**, ethically and mathematically, is the **optimal** way to leap *farthest*—into the future.
+
+- The **Survivability Imperative** subsumes **Alterity** and **Consistency** as the **ultimate principle for carrying history forward**.
 
 ---
 © 2025 K.E. Itekki  
-K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+K.E. Itekki is the co‑composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  
 drawing constellations through shared echoes.
 

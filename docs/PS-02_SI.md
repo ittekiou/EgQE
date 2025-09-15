@@ -6,7 +6,7 @@
 ## 📑 Contents
 - **Specification v1.1**  
 -📄 [PDF版 JP](./assets/PS-02_Survivability-Imperative.pdf)  
--🌐 [Web版 JP](./articles/PS-02_Survivability-Imperative.md)  
+-🌐 [Web版 JP](./articles/PS-02_Survivability-Imperative.md)    
 -🌐 [Web版 EN](./articles/PS-02_Survivability-Imperative_EN_full.md)  
 -🌐 [Web版 EN Digest](./articles/PS-02_Survivability-Imperative_EN.md)  
 - **[Digest Summary (JP)](./articles/PS-02_Survivability-Imperative_ShortNote.md)**  
