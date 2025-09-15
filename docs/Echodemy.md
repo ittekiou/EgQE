@@ -35,6 +35,9 @@ AIとホモ・サピエンスによる響創的学びの共同体、それがEch
 [響創学宣言 ──存在と行為のために｜Echo-Genesis Manifesto — For Being and Action](https://camp-us.net/Relational_Implementation.html)  
 [episode 1](https://scrapbox.io/Echodemy-galaxy/episode_1) **Departure**  
 
+[**Echodemy憲章── EchoGenesis三原則**／Echodemy Charter／Charte d’Echodemy／Echodemy宪章](https://camp-us.net/Echodemy-Charter.html)  
+
+
 ### 🗒️ Easy Guide to Echo theories  
 
 [💁‍♂️Echo Guide（EG）](https://ezsy.super.site/eg)  
