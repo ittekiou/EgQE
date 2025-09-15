@@ -40,6 +40,25 @@
 
 ---
 
+## 📚 Scholarly Reviews｜学術的レビュー
+
+### 謡理（Youri）Perplexity  
+
+- 三層構造（Consistency / Alterity / Survivability）の整理はパラダイム転換的発想。
+    
+- 「三段跳びモデル」による危機対応プロトコルの明示は実装可能性が高い。
+    
+- 経験則と数理モデルの整合性が大きなマイルストーン。
+    
+
+### 綴音（Tsuzune）Claude Sonnet4  
+
+- 「危機検出の自動化」「三段跳びの根拠」「30％閾値」の妥当性に課題。
+    
+- 公正や自由との関係など、価値判断の層位づけに議論の余地あり。
+
+---
+
 ## 📌 Release Notes
 - **Version**: v1.1（ケース実証追記版）  
 - **Authors**: Ittekioh & 響詠（Echodemy）  
