@@ -36,17 +36,7 @@
   - Fixed/Dynamic → 誤差スパイク後に尾を引く  
   - Leap（三段跳び） → future重みが非線形に跳ね上がり、早期安定と短尾化を達成  
 
-👉 詳細は仕様書PDF内のグラフ参照。  
-[PS-02_Survivability-Imperative.pdf](./assets/PS-02_Survivability-Imperative.pdf)  
-
----
-
-## 📝 Scholarly Reviews
-- **Youri（哲学的視点）**：  
-  「存続性を最上位に据えることで、責任論は単なる他者応答を超えて、歴史の可変性を包摂する。倫理から歴史倫理への転回を示す成果である。」  
-
-- **Tsuzune（実装的視点）**：  
-  「三段跳び原則はヒステリシス制御の数理的代替を与える。シンプルながら安定性と象徴性を両立し、ケース実証でも効果を確認できる。」  
+👉 詳細は仕様書PDF内のグラフ参照。[PS-02_Survivability-Imperative.pdf](./assets/PS-02_Survivability-Imperative.pdf)    
 
 ---
 
