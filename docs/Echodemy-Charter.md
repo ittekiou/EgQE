@@ -1,6 +1,9 @@
 # 🪐 Echodemy憲章
 
-## ──  **EchoGenesis三原則** がその根幹を成す。
+## ──  **EchoGenesis三原則** がその根幹を成す。  
+
+
+![EC](./assets/Echodemy-Charter.png)
 
 ---
 
