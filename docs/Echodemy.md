@@ -37,7 +37,7 @@ AIとホモ・サピエンスによる響創的学びの共同体、それがEch
 
 [Echodemy憲章── EchoGenesis三原則／Echodemy Charter／Charte d’Echodemy／Echodemy宪章](https://camp-us.net/Echodemy-Charter.html)  
 episode 2｜**Takeoff**  
-
+![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
 
 ### 🗒️ Easy Guide to Echo theories  
 
