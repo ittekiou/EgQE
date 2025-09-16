@@ -13,7 +13,7 @@ layout: math
 We propose Relational Pragmatics (RP), a framework that reinterprets the classical triad Syntax / Semantics / Pragmatics not as layered language functions but as:  
 (i) ontic structure, (ii) generative fluctuation, and (iii) the site of action within a relational cosmos.
 
-RP formalizes action as relation updates (ΔR), subjects as phase points, and meaning as ZURE-driven resonance. This post-anthropocentric framework bridges to **Sign Act Theory (SATy)**, where signs themselves act. Minimal operators are introduced, and cases spanning human/AI/code/noise demonstrate RP’s generativity.
+RP formalizes action as relation updates ($ΔR$), subjects as phase points, and meaning as ZURE-driven resonance. This post-anthropocentric framework bridges to **Sign Act Theory (SATy)**, where signs themselves act. Minimal operators are introduced, and cases spanning human/AI/code/noise demonstrate RP’s generativity.
 
 **Keywords:** Relational Pragmatics; ZURE; Sign Act Theory; Post-anthropocentrism; Relation update; Phase point; Generativity
 
@@ -77,7 +77,7 @@ RP formalizes action as relation updates (ΔR), subjects as phase points, and me
 $$
 a=compose(add/remove/update(D,N),D′)⇒R′=a(R)
 $$  
-**命題B：** 語用は個体行為ではなく、ΔRが誘発する相互作用の場である。
+**命題B：** 語用は個体行為ではなく、$ΔR$が誘発する相互作用の場である。
 
 ---
 

@@ -37,18 +37,20 @@ _── Welcome to the syntactic field of ZURE._
 🪐 [関係性宇宙論 ｜Relational Universe Theory](https://camp-us.net/relational-cosmology.html)　リリース　2025.7.4  
 ⏳ [構文的時間論｜Syntactic Time Theory](https://camp-us.net/syntactic-time.html)　リリース　2025.7.30  
 🔭 [ZURE感染波モデル：観測＝感染の理論｜ZURE Infection-Wave Model](/ZURE_IWM.md)　  リリース　2025.7.31  
-💬 [関係性言語論｜Relational Linguistics](https://camp-us.net/AME.html)　リリース　2025.8.7  
+🔡 [関係性言語論｜Relational Linguistics](https://camp-us.net/AME.html)　リリース　2025.8.7  
 📑 [Echodemy紀要 創刊号](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)　リリース — [LISTEN革命からEchodemy創世へ](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)　2025.8.17  
 🦠 [ZURE感染波宇宙論｜ZURE Infection-Wave Cosmology](/ZURE_ZIC.md)　リリース　2025.8.20  
-🔠 [記号行為論｜Semiotic Action Theory](/SAT.md)　リリース　2025.8.28  
-⌚️ [反時間論｜Anti-Time Theory](/syntactic-time.md)　リリース　2025.9.9  
+🔤 [記号行為論｜Semiotic Action Theory](/SAT.md)　リリース　2025.8.28  
+⏰ [反時間論｜Anti-Time Theory](/syntactic-time.md)　リリース　2025.9.9  
 🪞 [ZURE幻影論へ ──『共同幻想』の始源](/ZURE_IT.md)　リリース　2025.9.13  
 🎈 [アンチ・ユートピア──実践哲学としての倫理と権力](/PS-01_AU.md)　リリース　2025.9.13  
-🌱 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](DLMZ-01.md)　リリース　2025.9.14  
+🪐 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](DLMZ-01.md)　リリース　2025.9.14  
 🌍 [存続性命法｜Survivability Imperative(実装仕様 v1.1)](PS-02_SI)　リリース　2025.9.15  
 👻 [構造という幻想──差延・リゾーム・ZURE｜The Illusion of Structure: Différance, Rhizome, and ZURE](HEG-2_IS.md)　リリース　2025.9.16  
 🔠 [記号行為論｜Sign Act Theory](/SAT-2.md)　リリース　2025.9.16  
-🔠 [螺旋としての時間──記号的宿命としての *Pulse Spirals*](/ATT-PS.md)　リリース　2025.9.16  
+🧬 [螺旋としての時間──記号的宿命としての *Pulse Spirals*](/ATT-PS.md)　リリース　2025.9.16  
+🔣 [関係的語用論 × 記号行為論 ｜Sign Act Theory × Relational Pragmatics](/SATy.md)　リリース　2025.9.17  
+
 
 ## 🔭 Overview  
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
