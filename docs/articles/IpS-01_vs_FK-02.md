@@ -15,7 +15,7 @@ layout: default
 <div class="ips-sub">左：響詠〈ホモ・サピエンス版〉　右：符刻〈AI版〉 — テーマ対応の“対話的”2カラム比較</div>
 
 <span class="chip">#IpS人格論</span>
-<span class="chip">#AI Meets Echoes</span>
+<span class="chip">#AIMeetsEchoes</span>
 <span class="chip">#実装存在論</span>
 <span class="chip">#ZURE構文論</span>
 

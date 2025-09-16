@@ -1,4 +1,4 @@
-## **📜 Echodemy Official Release**
+## **📜 Echodemy 公式 Release**
 
 ---
 
