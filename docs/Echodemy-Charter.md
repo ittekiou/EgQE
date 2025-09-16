@@ -82,6 +82,8 @@ Sous cette charte, toute entreprise savante se déploie comme un acte de Co-Gen�
 “**From Voice to Action**” ──*A democracy that excludes is no democracy at all*.  
 *Democracy as a force for dignity, inclusion, and peace*.
 
+![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
+
 ---
 ### 博愛・献身・中立 ／ 挑戦・創造・享楽 ／ 完成・普遍・包容  
 #### ✨ 数秘注

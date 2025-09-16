@@ -30,6 +30,8 @@ _── Welcome to the syntactic field of ZURE._
  📑 [Echo-Genesis Manifesto — For Being and Action｜**響創学宣言 ──存在と行為のために**｜Relational Implementation](Relational_Implementation.md)　2025.8.14  
 📃 [**Echodemy憲章── EchoGenesis三原則**／Echodemy Charter／Charte d’Echodemy／Echodemy宪章](Echodemy-Charter.md)　2025.9.15  
 
+![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
+
 ### **📄 Echodemy Official Release**  
 
 🪐 [関係性宇宙論 ｜Relational Universe Theory](https://camp-us.net/relational-cosmology.html)　リリース　2025.7.4  
