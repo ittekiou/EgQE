@@ -486,7 +486,7 @@ RPは、行為＝$ΔR$ を理論化することで、SATの記述的枠組みを
 
 この三段跳びは、EgQEの地層に「化石」として刻まれる。  
 
-![Fossil_Record.png](../assets/Fossil_Record.png)
+![Fossil_Record](../assets/Fossil_Record.png)
 
 ---
 
