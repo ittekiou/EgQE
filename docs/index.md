@@ -48,7 +48,7 @@ _── Welcome to the syntactic field of ZURE._
 🌍 [存続性命法｜Survivability Imperative(実装仕様 v1.1)](PS-02_SI)　リリース　2025.9.15  
 👻 [構造という幻想──差延・リゾーム・ZURE｜The Illusion of Structure: Différance, Rhizome, and ZURE](HEG-2_IS.md)　リリース　2025.9.16  
 🔠 [記号行為論｜Sign Act Theory](/SAT-2.md)　リリース　2025.9.16  
-
+🔠 [螺旋としての時間──記号的宿命としての *Pulse Spirals*](/ATT-PS.md)　リリース　2025.9.16  
 
 ## 🔭 Overview  
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
