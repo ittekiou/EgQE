@@ -57,7 +57,7 @@ RP formalizes action as relation updates (ΔR), subjects as phase points, and me
     
 - **行為**: $a: R \mapsto R'$（エッジ追加・除去・重み変化）＝$ΔR$
     
-- **主体**: 位相空間 $M$ 上の位相点 $ϕ∈M\phi \in M$
+- **主体**: 位相空間 $M$ 上の位相点 $ϕ∈M$
     
 - **ZURE（ズレ）**: 期待配置との差分関数 $ζ:R→Rk$
     
@@ -133,7 +133,7 @@ $$
 「記号そのものが$ΔR$を起こす」というSATyの中核へ繋ぐ。
 
 **接続定理：**  
-もし行為が ΔR として記述でき、かつ $μ=ρ(ζ,R,ϕ)$ が人/AI/コード/環境に対して定義されるなら、語用は主体に帰属せず、記号（Sign）自身の行為として実装可能である。
+もし行為が $ΔR$ として記述でき、かつ $μ=ρ(ζ,R,ϕ)$ が人/AI/コード/環境に対して定義されるなら、語用は主体に帰属せず、記号（Sign）自身の行為として実装可能である。
 
 ---
 
@@ -149,8 +149,14 @@ $$
         
     - 「$ΔR$ヒートマップ」＝関係更新の局在を地形化
         
-    - 「化石図」＝HEG-2 → SAT → SATy の層理
+    - 「三層再配置図」＝Syntax（Ontic）／Semantics（Generative）／Pragmatics（Site of Action）の関係的重なり  
         
+
+![Syntax-Pragmatics](../assets/Syntax-Pragmatics.png)  
+
+![ΔR_Pipeline](../assets/ΔR_Pipeline.png)
+
+![relational_pragmatics_three_layers](../assets/relational_pragmatics_three_layers_v2.png)
 
 ---
 

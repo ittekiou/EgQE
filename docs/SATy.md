@@ -34,8 +34,6 @@ layout: math
 円やレイヤーがずれて重なり、関係的に交差する図。  
 （ZUREが中心で意味を生成するイメージ）
 
-![三層再配置図](./assets/relational_pragmatics_three_layers_v2.png)
-
 ---
 
 ### 2️⃣ $ΔR$パイプライン
@@ -58,8 +56,6 @@ SATy
 
 地層のように積層させて描く。  
 サブタイトル：**「行為の記号論から記号行為論へ」**
-
-![化石図](./assets/Fossil_Record.png)
 
 ---
 

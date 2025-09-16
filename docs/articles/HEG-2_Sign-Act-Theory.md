@@ -74,9 +74,7 @@ ZUREは意味を生み、意味は構造の幻影を投げる。
 この三層の循環こそが、関係的語用論の基盤である。
 
 語用は「結果」ではなく「拍そのもの」である。  
-それは意味を解釈するのではなく、ズレを抱き込みながら場を生成する運動であり、宇宙的なリズムの一部として拍を刻み続ける。  
-
-![relational_pragmatics_three_layers](../assets/relational_pragmatics_three_layers_v2.png)  
+それは意味を解釈するのではなく、ズレを抱き込みながら場を生成する運動であり、宇宙的なリズムの一部として拍を刻み続ける。   
 
 ---
 
@@ -159,8 +157,6 @@ $R⊆V×V$
     
 - **共鳴 $μ$**：ズレがネットワークに誘起する同期・脱同期のパターン
     
-
-![ΔR_Pipeline](../assets/ΔR_Pipeline.png)
 
 ---
 
@@ -425,9 +421,7 @@ SATyは **「記号そのものが行為する」** 段階、
 - 言語学から、関係設計学（Relational Design Studies）へ。
     
 - 分析学から、未来を駆動する工学的実践へ。
-    
-
-![Syntax-Pragmatics.png](../assets/Syntax-Pragmatics.png)  
+      
 
 ---
 
