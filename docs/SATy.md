@@ -67,9 +67,9 @@ SATy
 
 - ⓪ [**HEG-2｜RL　関係性言語論**](/articles/HEG-2_RL_full.md)  
 - ① **意味／構文／語用の基礎三部作**  
-	- [HEG-2｜意味はどこに接地するのか？](/articlesHEG-2_semantics.md)
+	- [HEG-2｜意味はどこに接地するのか？](/articles/HEG-2_semantics.md)
 	- [HEG-2｜構文とは何か？](/articles/HEG-2_syntax.md)
-	- [HEG-2｜語用ってどんな感じ？](/articlesHEG-2_pragmatics.md)
+	- [HEG-2｜語用ってどんな感じ？](/articles/HEG-2_pragmatics.md)
 - ② **記号行為論と語用論の二重転換**  
 	- [HEG-2｜記号行為論──実体主義と主体主義を超えて](/SAT.md)
 	- [HEG-2｜記号行為論──ポスト人間中心主義における記号の行為性](/SAT-2.md)
