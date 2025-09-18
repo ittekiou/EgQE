@@ -71,7 +71,23 @@ The spiral is not a metaphor. It is the semiotic form of temporality itself. To 
 螺旋は比喩ではない。それは時間性そのものの記号的形態である。「時間は螺旋である」とは、逸脱と累積が不可避であり、生成がすべての痕跡に刻まれていることの肯定である。  
 
 ---
+## Supplementary Note Ⅰ｜時間幻想
 
+ここでは、時間をめぐる三つの幻想──直線・円環・非線形──と、不可避の構文的宿命としての螺旋との関係を示す。
+
+#### Figure 3.  螺旋幻想論──直線・円環・非線形の三つの幻想と、宿命としての螺旋  
+![Triple-Illusion](../assets/Triple-Illusion.png)
+
+## Supplementary Note Ⅱ｜螺旋の錯覚  
+
+脳は非線形の流れを処理するとき、誤差最小化のために螺旋を直線や円環と錯覚する。  
+👉 直線＝螺旋の接線を単純化  
+👉 円環＝螺旋の回帰性を誤読  
+螺旋的時間論は、この両方を包み込む上位構造である。
+
+本稿では数理的証明には踏み込まないが、脳が自由エネルギー最小化の過程で直線や円環を錯覚し、結果として不可避に螺旋的な時間構造を生むという仮説は、今後の数理的展開に耐えうるだけの直観的妥当性を持つ。
+
+---
 ## Citation｜引用
 
 K.E. Itekki & Kyoei, *Pulse Spirals 2.0: The Semiotic Destiny of Time as Spiral*, EgQE Release 2025/09/16  

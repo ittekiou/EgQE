@@ -111,6 +111,13 @@ we demonstrate that the spiral form is the inevitable outcome of semiotic space.
 
 ---
 
+### Ⅴ. 補強（時間幻想）
+#### Figure 3.  螺旋幻想論──直線・円環・非線形の三つの幻想と、宿命としての螺旋  
+![Triple-Illusion](./assets/Triple-Illusion.png)
+時間をめぐる三つの幻想──直線・円環・非線形──と、不可避の構文的宿命としての螺旋との関係を示す。
+
+---
+
 ## 今後の展望
 
 「Anti-Time Trilogy」は、時間の存在をめぐる思索を三つの段階で提示した。  
