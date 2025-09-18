@@ -24,3 +24,14 @@
 
 - [痕跡概念研究史──差延・セミオシス・拡張からAI時代へ｜A Historical Study of the Concept of Trace: From Différance, Semiosis, and Extension to the Age of AI](./articles/HEG-2_HSoCT-2)  
   デリダからAI時代までの痕跡概念史を一望。20世紀以降の思想における「痕跡概念」の系譜を整理し、その現代的意義を検討。この系譜をAI時代に接続し、痕跡の自己更新性がいかに新たな理論的課題を提示するかを展望。🔍    
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 18, 2025 · Web Sep 18, 2025 |</p>
