@@ -58,7 +58,7 @@ SATy
 サブタイトル：**「行為の記号論から記号行為論へ」**
 
 
-#### 4️⃣ [図版ギャラリー｜HEG-2](../assets/figure_HEG-2_Sign-Act-Theory.md)  
+#### 4️⃣ [図版ギャラリー｜HEG-2](/assets/figure_HEG-2_Sign-Act-Theory.md)  
 HEG-2 関連論稿で用いた主要な図版（3層再配置／ΔRパイプライン／化石図／ZUREスペクトログラム）をまとめています。
 
 ---
