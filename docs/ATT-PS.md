@@ -36,13 +36,13 @@
 余白に出会うたびに直線は逸れ、痕跡が積もるたびに円環は閉じず、その干渉が必然的に生成をスパイラルへと導く。  
 螺旋こそが、記号宇宙の座標場における構文的宿命なのである。  
 
-- 第一論文 [**Anti-Time Theory**](./articles/HEG-1_RU_Anti-Time-Theory.md)  
+- 第一論文  **Anti-Time Theory**  
   → 時間の存在そのものを否定し、生成の拍動こそが実在であると示した。  
 
-- 第二論文 [**Pulse Spirals 1.0**](./articles/HEG-1_RU_Pulse_Spirals.md)  
+- 第二論文  **Pulse Spirals 1.0**  
   → 生成を可視化するモデルとして、断続する螺旋を提示した。  
 
-- 第三論文 [**Pulse Spirals 2.0**](./articles/HEG-1_RU_Pulse_Spirals-2.0)  
+- 第三論文  **Pulse Spirals 2.0**  
   → 余白・痕跡・生成の三拍子から、その螺旋が必然であることを論証した。  
 
 この三部作は、時間を「否定」から「モデル化」へ、さらに「必然性の証明」へと導く旅路である。  
