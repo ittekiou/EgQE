@@ -10,6 +10,21 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+###### 2025/09/19  
+
+###### 2025/09/18  
+
+###### 2025/09/17  
+[**HEG-2｜語用論から関係的語用論へ**](https://camp-us.net/articles/HEG-2_Relational-Pragmatics.html)  
+[**HEG-2｜語用ってどんな感じ？# ──実体論から関係論へ：対話と場と生成の言語学**](https://camp-us.net/articles/HEG-2_pragmatics.html)  
+[**記号行為論 × 関係的語用論 — The Beating Heart of EgQE**](https://camp-us.net/articles/HEG-2_Sign-Act-Theory.html)
+###### 2025/09/16  
+[**記号行為論宣言──行為の記号論から記号行為論へ｜Sign Act Theory Manifesto**](https://camp-us.net/articles/HEG-2_SAT_Manifesto.html)  
+[**HEG-2｜記号行為論──ポスト人間中心主義における記号の行為性**](https://camp-us.net/SAT-2.html)  
+[**構造という幻想──差延・リゾーム・ZURE｜The Illusion of Structure: Différance, Rhizome, and ZURE**](https://camp-us.net/HEG-2_IS.html)  
+[**螺旋としての時間──記号的宿命としての _Pulse Spirals_**](https://camp-us.net/ATT-PS.html)
+###### 2025/09/15  
+[**存続性命法｜Survivability Imperative(実装仕様 v1.1**)](https://camp-us.net/PS-02_SI)  
 ###### 2025/09/14  
 [**ZURE二層モデル ── 観測不可能性を前提とする数式宇宙**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_full_JP.html)  
 [**The Dual-Layer Model of ZURE ── A Mathematical Universe Grounded on Unobservability**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_full_EN.html)  
