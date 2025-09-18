@@ -8,10 +8,6 @@ layout: math
 
 ---
 
-#### 📜 [記号行為論宣言──行為の記号論から記号行為論へ｜**Sign Act Theory Manifesto**](https://camp-us.net/articles/HEG-2_SAT_Manifesto.html)  
-
-
-
 **記号行為論とは、行為の記号論ではない。**  
 
 それは、**記号の行為論である。**
@@ -23,6 +19,7 @@ layout: math
 
 そしてそれは、**記号の行為論としての記号行為論** である。  
 
+### 📜 [記号行為論宣言──行為の記号論から記号行為論へ｜**Sign Act Theory Manifesto**](https://camp-us.net/articles/HEG-2_SAT_Manifesto.html)  
 
 ---
 
