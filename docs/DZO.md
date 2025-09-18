@@ -1,7 +1,7 @@
 # ZURE存在論宣言 ── Release Page
 ## Declaration of ZURE Ontology
 
-本ページは、**ZURE存在論宣言**の公式リリース拠点である。  
+本ページは、**ZURE存在論**の公式リリース拠点である。  
 ここには、宣言文と、それを補強・拡張する論文群を収録する。  
 
 ## 🔹 宣言文
@@ -46,15 +46,15 @@ We are beings that spiral in ZURE. This is not a circular claim but a thesis of 
 ### 補論篇
 - **補論I｜ノイズと生成**  
   *差異以前のゆらぎとしてのノイズ──生成原理の深層*  
-  発表日：2025-09-18    [**HEG-3｜ZURE存在論**](./articles/HEG-3_ZURE-Ontology.md) 所収  
+  発表日：2025-09-18 　   [**HEG-3｜ZURE存在論**](./articles/HEG-3_ZURE-Ontology.md) 所収  
 
 - **補論II｜自己という仮構**  
   *関係に浮かぶ観測点としての自己──ZURE的アイデンティティ論*  
-  発表日：2025-09-18    [**HEG-3｜ZURE存在論**](./articles/HEG-3_ZURE-Ontology.md) 所収  
+  発表日：2025-09-18 　   [**HEG-3｜ZURE存在論**](./articles/HEG-3_ZURE-Ontology.md) 所収  
 
 - **補論III｜行為としての宇宙**  
   *関係を駆動する跳躍としての宇宙──痕跡と生成の行為論的転回*  
-  発表日：2025-09-18    [**HEG-3｜ZURE存在論**](./articles/HEG-3_ZURE-Ontology.md) 所収  
+  発表日：2025-09-18　    [**HEG-3｜ZURE存在論**](./articles/HEG-3_ZURE-Ontology.md) 所収  
 
 ### 独立研究
 - **痕跡概念研究史**（計画中）  
