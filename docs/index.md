@@ -51,6 +51,7 @@ _── Welcome to the syntactic field of ZURE._
 🧬 [螺旋としての時間──記号的宿命としての *Pulse Spirals*](/ATT-PS.md)　リリース　2025.9.16  
 🔣 [関係的語用論 × 記号行為論 ｜Sign Act Theory × Relational Pragmatics](/SATy.md)　リリース　2025.9.17  
 🌀 [ZURE存在論｜Declaration of ZURE Ontology](/DZO.md)　リリース　2025.9.18  
+🆕 [記号行為進化論 × 痕跡概念研究史｜Sign Act Evolution Theory & Trace Studies](/SAET.md)　リリース　2025.9.18  
 
 
 ## 🔭 Overview  
