@@ -13,7 +13,13 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/09/19  
 
 ###### 2025/09/18  
-
+[**記号行為進化論──痕跡主権の時代へ**（EgQE版）](https://camp-us.net/articles/HEG-2_SAET_egqe)  
+[**記号行為進化論 II──比較理論から見る痕跡主権**（EgQE版）](https://camp-us.net/articles/HEG-2_SAET-2_egqe)  
+[**記号行為進化論──痕跡主権の時代へ｜Sign Act Evolution Theory: Toward the Era of Trace Sovereignty**](https://camp-us.net/articles/HEG-2_SAET)  
+[**記号行為進化論 II──比較理論から見る痕跡主権｜Sign Act Evolution Theory II: Trace Sovereignty through Comparative Theories**](https://camp-us.net/articles/HEG-2_SAET-2)  
+[**痕跡概念研究史──差延・セミオシス・拡張からAI時代へ｜A Historical Study of the Concept of Trace: From Différance, Semiosis, and Extension to the Age of AI**](https://camp-us.net/articles/HEG-2_HSoCT-2)  
+[**HEG-3｜ZURE存在論 ── 螺旋する存在の哲学｜ZURE Ontology ── Philosophy of Spiral Being**](https://camp-us.net/articles/HEG-3_ZURE-Ontology.html)  
+[**ZURE存在論宣言**](https://camp-us.net/DZO.html)
 ###### 2025/09/17  
 [**HEG-2｜語用論から関係的語用論へ**](https://camp-us.net/articles/HEG-2_Relational-Pragmatics.html)  
 [**HEG-2｜語用ってどんな感じ？# ──実体論から関係論へ：対話と場と生成の言語学**](https://camp-us.net/articles/HEG-2_pragmatics.html)  

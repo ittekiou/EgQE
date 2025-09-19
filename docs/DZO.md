@@ -57,7 +57,7 @@ We are beings that spiral in ZURE. This is not a circular claim but a thesis of 
   発表日：2025-09-18　    [**HEG-3｜ZURE存在論**](./articles/HEG-3_ZURE-Ontology.md) 所収  
 
 ### 独立研究
-- **痕跡概念研究史**（計画中）  
+- [痕跡概念研究史──差延・セミオシス・拡張からAI時代へ](./articles/HEG-2_HSoCT-2)    
   *痕跡概念の哲学的系譜をレビューし、ZURE存在論との接続を試みる*  
   発表予定：2025-xx  
   DOI：[未登録]
