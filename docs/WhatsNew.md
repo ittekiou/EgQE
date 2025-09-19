@@ -29,6 +29,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [**HEG-2｜記号行為論──ポスト人間中心主義における記号の行為性**](https://camp-us.net/SAT-2.html)  
 [**構造という幻想──差延・リゾーム・ZURE｜The Illusion of Structure: Différance, Rhizome, and ZURE**](https://camp-us.net/HEG-2_IS.html)  
 [**螺旋としての時間──記号的宿命としての _Pulse Spirals_**](https://camp-us.net/ATT-PS.html)  
+[HEG-1｜Pulse Spirals 2.0｜パルス・スパイラル 2.0｜時間は螺旋であるという記号的宿命](https://camp-us.net/articles/HEG-1_RU_Pulse_Spirals-2.0)   
+[なぜ、時間は螺旋になるのか？──その記号的宿命](https://camp-us.net/articles/HEG-1_RU_Time-as-Spiral.html)  
 ###### 2025/09/15  
 [**存続性命法｜Survivability Imperative(実装仕様 v1.1**)](https://camp-us.net/PS-02_SI)  
 ###### 2025/09/14  
