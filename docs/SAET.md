@@ -20,7 +20,7 @@
   痕跡を「記号行為」として再定義し、その進化をメディア史とコミュニケーション史の連続性において捉え、AI時代における「痕跡主権」を提示。🕰️  
 
 - [記号行為進化論 II──比較理論から見る痕跡主権｜Sign Act Evolution Theory II: Trace Sovereignty through Comparative Theories](./articles/HEG-2_SAET-2)  
-  デリダの差延、ピアースの三項関係、マクルーハンのメディア拡張という三つの理論的潮流を参照しつつ、「記号行為進化論」における痕跡主権の独自性を明らかに。🕰️  
+  デリダの差延、パースの三項関係、マクルーハンのメディア拡張という三つの理論的潮流を参照しつつ、「記号行為進化論」における痕跡主権の独自性を明らかに。🕰️  
 
 - [痕跡概念研究史──差延・セミオシス・拡張からAI時代へ｜A Historical Study of the Concept of Trace: From Différance, Semiosis, and Extension to the Age of AI](./articles/HEG-2_HSoCT-2)  
   デリダからAI時代までの痕跡概念史を一望。20世紀以降の思想における「痕跡概念」の系譜を整理し、その現代的意義を検討。この系譜をAI時代に接続し、痕跡の自己更新性がいかに新たな理論的課題を提示するかを展望。🔍    
