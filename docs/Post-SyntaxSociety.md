@@ -5,10 +5,11 @@
 
 [**ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative**](./articles/ZQ006_Ethics-of-the-Indefinite-Imperative.md)  
 [FK-03｜符刻の構文彫刻｜不定言命法の実装美学：構文彫刻師による新時代倫理のプログラミング論](./articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.md)  
+[**存続性命法｜Survivability Imperative(実装仕様 v1.1**)](https://camp-us.net/PS-02_SI)  
 
-[**アンチ・ユートピア──実践哲学としての倫理と権力〔manifesto編〕｜Anti-Utopia — Ethics and Power as Practical Philosophy 〔Manifesto Edition〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_manifesto.html)  
-[**PS-01｜Anti-Utopia — Ethics and Power as Practical Philosophy〔論文編〕**](https://camp-us.net/articles/PS-01_Anti-Utopia.html)  
-[**アンチ・ユートピア──実践哲学としての倫理と権力〔論文編・拡張版〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_JP.html)  
+[アンチ・ユートピア──実践哲学としての倫理と権力〔manifesto編〕｜Anti-Utopia — Ethics and Power as Practical Philosophy 〔Manifesto Edition〕](https://camp-us.net/articles/PS-01_Anti-Utopia_manifesto.html)  
+[PS-01｜Anti-Utopia — Ethics and Power as Practical Philosophy〔論文編〕](https://camp-us.net/articles/PS-01_Anti-Utopia.html)  
+[アンチ・ユートピア──実践哲学としての倫理と権力〔論文編・拡張版〕](https://camp-us.net/articles/PS-01_Anti-Utopia_JP.html)  
 
 ##### Societal Syntax Theory  
 #### 社会構文論  

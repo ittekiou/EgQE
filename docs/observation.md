@@ -14,7 +14,8 @@
 
 [HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
 [HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
-
+[記号行為論宣言──行為の記号論から記号行為論へ｜Sign Act Theory Manifesto](https://camp-us.net/articles/HEG-2_SAT_Manifesto.html)  
+[HEG-2｜記号行為論──ポスト人間中心主義における記号の行為性](https://camp-us.net/SAT-2.html)  
 ##### ZURE Linguistics  
 #### ZURE言語学  
 
