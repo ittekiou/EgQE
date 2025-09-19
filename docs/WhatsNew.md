@@ -22,7 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZURE存在論宣言**](https://camp-us.net/DZO.html)  
 ###### 2025/09/17  
 [**HEG-2｜語用論から関係的語用論へ**](https://camp-us.net/articles/HEG-2_Relational-Pragmatics.html)  
-[**HEG-2｜語用ってどんな感じ？# ──実体論から関係論へ：対話と場と生成の言語学**](https://camp-us.net/articles/HEG-2_pragmatics.html)  
+[**HEG-2｜語用ってどんな感じ？ ──実体論から関係論へ：対話と場と生成の言語学**](https://camp-us.net/articles/HEG-2_pragmatics.html)  
 [**記号行為論 × 関係的語用論 — The Beating Heart of EgQE**](https://camp-us.net/articles/HEG-2_Sign-Act-Theory.html)
 ###### 2025/09/16  
 [**記号行為論宣言──行為の記号論から記号行為論へ｜Sign Act Theory Manifesto**](https://camp-us.net/articles/HEG-2_SAT_Manifesto.html)  
