@@ -17,8 +17,7 @@ Utopia is always an illusion.
 These images seem alluring, but they never exist in reality.
 
 ユートピアとは、共同幻想の極致である。  
-だがその幻想は、現実を忘却させ、  
-応答すべき責任を奪い去る。
+だがその幻想は、現実を忘却させ、応答すべき責任を奪い去る。
 
 Utopia is the apex of collective fantasy.  
 Yet this fantasy erases reality  
