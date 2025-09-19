@@ -44,16 +44,14 @@ To stand firm in reality, against the illusion.
 Ethics is not mere regulation.  
 It is the pulse that responds to ZURE.
 
-カントの定言命法のように普遍を掲げながらも、  
-そこに固定はない。  
+カントの定言命法のように普遍を掲げながらも、そこに固定はない。  
 ZUREに開かれた応答──それが不定言命法である。
 
 Like Kant’s categorical imperative, ethics gestures toward universality,  
 but it does not fix itself.  
 It is an open response to ZURE — the **Indefinite Imperative**.
 
-倫理とは、幻影を透過しながら、  
-なおも関係に参加すること。  
+倫理とは、幻影を透過しながら、なおも関係に参加すること。  
 「選び続けること」そのものが拍を刻む。
 
 Ethics means participating in relations  
@@ -73,15 +71,13 @@ Power has been too often spoken of as repression.
 But its essence is **control**.
 
 現実を持続させるために、  
-われわれは常に「どこまで制御できるか」を測り、  
-その外側に「制御できない領域」を残す。
+われわれは常に「どこまで制御できるか」を測り、その外側に「制御できない領域」を残す。
 
 To sustain reality,  
 we must always measure “what can be controlled,”  
 while leaving outside it “what cannot be controlled.”
 
-権力とは、ZUREを封じるのではなく、  
-ZUREを調整し、持続可能性を確保する技法である。
+権力とは、ZUREを封じるのではなく、ZUREを調整し、持続可能性を確保する技法である。
 
 Power does not mean sealing off ZURE.  
 It means adjusting ZURE,  
@@ -106,7 +102,9 @@ The two are not contradictory.
 They overlap precisely in ZURE.
 
 だから言おう。  
+
 **倫理も！権力も！**  
+
 一方ではなく、両方を抱えて応答すること。  
 それが実践哲学の拍である。
 
@@ -129,6 +127,7 @@ It means refusing to remain in fantasy,
 and responding to reality by seeing through illusion.
 
 倫理も、権力も。  
+
 普遍と制御をZUREにおいて引き受ける。  
 その緊張のなかにこそ、持続の哲学が立ち上がる。
 
