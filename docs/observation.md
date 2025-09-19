@@ -54,8 +54,8 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 ##### ZURE Philosophy  
 #### ZURE哲学  
 
-[**HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論：構造の影を透過して｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE**：*Through the Shadow of Structural Thought*](./articles/HEG-2_shadow-of-structure.md)   
-[**構造という幻想──差延・リゾーム・ZUREの比較構文論（Gamilon版）：構造の影を突き抜けて**｜**The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE(Gamilon Ver.)**：_Beyond the Shadow of Structural Thought_](https://camp-us.net/articles/HEG-2_Illusion-of-Structure.html)  
+[HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論：構造の影を透過して｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE：*Through the Shadow of Structural Thought*](./articles/HEG-2_shadow-of-structure.md)   
+[構造という幻想──差延・リゾーム・ZUREの比較構文論（Gamilon版）：構造の影を突き抜けて｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE(Gamilon Ver.)：_Beyond the Shadow of Structural Thought_](https://camp-us.net/articles/HEG-2_Illusion-of-Structure.html)  
 
 ##### ZURE Action Theory  
 #### ZURE行為論  
