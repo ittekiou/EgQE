@@ -16,6 +16,9 @@
 [HEG-1-4｜RU　ZURE観測感染論](./articles/HEG-1-4_RU_Observation-Infection.md)  
 [**HEG-1-5｜RU　補論篇：深層構造と生成の地層**](./articles/HEG-1-5_RU_Addendum.md)  
 
+##### 🌀 関連論文リンク：  
+・[**ZURE感染波モデル：観測＝感染の理論**](./articles/ZURE_Infection-Wave-Model.md)  
+
 #### 💫 ZURE存在論 -ZURE Ontology-  
 
 [**ZURE存在論宣言**](https://camp-us.net/DZO.html)  
@@ -25,7 +28,6 @@
 ・[Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology（ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論）](./articles/ZGT-0_GameTheory_As_RelationalField.md)  
 
 ##### 🌀 関連論文リンク：  
-・[**ZURE感染波モデル：観測＝感染の理論**](./articles/ZURE_Infection-Wave-Model.md)  
 ・[HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
 ・[HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
 
