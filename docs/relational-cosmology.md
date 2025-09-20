@@ -10,11 +10,11 @@
 [HEG-1-1｜RU　宇宙膨張説の脱構築──関係性宇宙論という視座](./articles/HEG-1-1_RU_Anti-Inflationary.md)  
 [HEG-1-1-2｜RU　青はなぜ沈黙するのか──青方偏移の構文論](./articles/HEG-1-1-2_RU_Silent-Blue.md)  
 [HEG-1-1-3｜RU　第三の干渉縞──観測の波間に揺らめく宇宙像](./articles/HEG-1-1-3_RU_Third-interference-fringe.md)  
-[HEG-1-2｜RU　floc重力仮説──関係性重力論としての構文宇宙詩学](./articles/HEG-1-2_floc.md)  
+[**HEG-1-2｜RU　floc重力仮説──関係性重力論としての構文宇宙詩学**](./articles/HEG-1-2_floc.md)  
 [HEG-1-3｜RU　ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory](./articles/HEG-1-3_ZURE_Infection_Cosmology.md)  
-[HEG-1-3｜RU　ZURE感染宇宙論──floc的CMB解釈と構文的観測理論の統合に向けて](./articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.md)  
+[**HEG-1-3｜RU　ZURE感染宇宙論──floc的CMB解釈と構文的観測理論の統合に向けて**](./articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.md)  
 [HEG-1-4｜RU　ZURE観測感染論](./articles/HEG-1-4_RU_Observation-Infection.md)  
-[HEG-1-5｜RU　補論篇：深層構造と生成の地層](./articles/HEG-1-5_RU_Addendum.md)  
+[**HEG-1-5｜RU　補論篇：深層構造と生成の地層**](./articles/HEG-1-5_RU_Addendum.md)  
 
 #### 💫 ZURE存在論 -ZURE Ontology-  
 
@@ -25,7 +25,7 @@
 ・[Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology（ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論）](./articles/ZGT-0_GameTheory_As_RelationalField.md)  
 
 ##### 🌀 関連論文リンク：  
-・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
+・[**ZURE感染波モデル：観測＝感染の理論**](./articles/ZURE_Infection-Wave-Model.md)  
 ・[HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
 ・[HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
 
