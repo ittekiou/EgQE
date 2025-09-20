@@ -9,7 +9,7 @@
 [HEG-1｜RU　Digest of A Relational Universe](./articles/HEG-1_RU_Digest-of-A-Relational-Universe.md)  
 [HEG-1-1｜RU　宇宙膨張説の脱構築──関係性宇宙論という視座](./articles/HEG-1-1_RU_Anti-Inflationary.md)  
 [HEG-1-1-2｜RU　青はなぜ沈黙するのか──青方偏移の構文論](./articles/HEG-1-1-2_RU_Silent-Blue.md)  
-[HEG-1-1-3｜RU　第三の干渉縞──観測の波間に揺らめく宇宙像](./articles/HEG-1-1-3_RU_Third-interference-fringe.md)
+[HEG-1-1-3｜RU　第三の干渉縞──観測の波間に揺らめく宇宙像](./articles/HEG-1-1-3_RU_Third-interference-fringe.md)  
 [HEG-1-2｜RU　floc重力仮説──関係性重力論としての構文宇宙詩学](./articles/HEG-1-2_floc.md)  
 [HEG-1-3｜RU　ZURE Infection Cosmology: Unifying floc-Based CMB Interpretation with Syntactic Observation Theory](./articles/HEG-1-3_ZURE_Infection_Cosmology.md)  
 [HEG-1-3｜RU　ZURE感染宇宙論──floc的CMB解釈と構文的観測理論の統合に向けて](./articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.md)  
