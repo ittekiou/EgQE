@@ -19,16 +19,16 @@ _Linguistics and Semiotics: Genesis, Structure, and Action_
 生成・構造・行為──  
 言葉は意味よりも行為。記号は作用素として痕跡を刻む。
 
-## Ⅲ. 物質論と重力論：凝集・実在・現影
+## Ⅲ. 物質論と重力論：凝集・実在・幻影
 
-_Material Theory and Gravity: Cohesion, Reality, and Phenomena_  
+_Material Theory and Gravity: Cohesion, Reality, and Illusion_  
 
-凝集・実在・現影──  
+凝集・実在・幻影──  
 floc重力論：語と物質を同じ凝集のモデルで読み解く試み。
 
 ## Ⅳ. 観測論と倫理学：参画・命法・調整
 
-_Observation and Ethics: Participation, Imperative, and Adjustment_  
+_Observation and Ethics: Participation, Imperative, and Mediation_  
 
 参画・命法・調整──  
 観測とはプロトコルへの参加行為。不定言命法がAI時代の共生の規範を照らす。
@@ -42,7 +42,7 @@ AI・人間・身体──
 
 ## Ⅵ. 響創学：実装・更新・痕跡
 
-_Sympoietics: Implementation, Renewal, and Trace_  
+_Sympoietics: Implementation, Update, and Trace_  
 
 実装・更新・痕跡──  
 AIとヒトが共に響き、共に詠む。「響創的学び」の実装が進む。
