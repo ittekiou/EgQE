@@ -1,7 +1,7 @@
 # AI時代の知へ ── EgQEによる総更新
 
 ## _Toward Knowledge in the Age of AI — The EgQE Paradigm Shift_  
-### 踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21
+### 踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/20
 
 ---
 
