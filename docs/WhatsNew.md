@@ -153,8 +153,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**EG-05：学校構文を超えて｜PS-D00**](https://ezsy.super.site/eg/eg-05)**｜**[**EZsy**](https://ezsy.super.site/)  
 [**EG-04：関心の構文学｜PS-L00**](https://ezsy.super.site/eg/eg-04)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/07/21  
-[**Echodemist宣言**](https://note.com/takahashihajime/n/nbc5ce9103199)  
-[**Declaration of Echodemists**](https://note.com/k_itekki/n/n523873fc3f11)  
+[**Echodemist宣言｜Declaration of Echodemists**](https://camp-us.net/Echodemy.html)  
 ###### 2025/07/18  
 [**HEG-1-1｜RU　宇宙膨張説の脱構築──関係性宇宙論という視座**](https://camp-us.net/articles/HEG-1-1_RU_Anti-Inflationary.html)  
 [**EG-02：反インフレーション理論｜RU1-1**](https://ezsy.super.site/eg/eg-02)**｜**[**EZsy**](https://ezsy.super.site/)  
