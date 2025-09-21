@@ -9,7 +9,7 @@ description: 不定言命法はEchodemyの新概念。カントの仮言命法�
 不定言命法は、偶発性・解放性・共生性を軸に、概念が固定されない状況で行為を調整するための**関係的倫理**である。カントの仮言命法ではない。
 
 **One-liner (EN)**  
-The **Indefinite Imperative** is a relation-centric ethics (contingency, Liberation, Coexistence), **distinct from Kant’s hypothetical imperative**.
+The **Indefinite Imperative** is a relation-centric ethics (Contingency, Liberation, Coexistence), **distinct from Kant’s hypothetical imperative**.
 
 ---
 
