@@ -101,7 +101,7 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 [Echodemy 紀要 01（Echodemy Chronicles 創刊号 Part II）](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)
 
 ### 🪜 Stair landings
-###### [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/20｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](/stair_landing-001.md)  
+###### [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](/stair_landing-001.md)  
 
 
 ## 🌐 Related Portal  

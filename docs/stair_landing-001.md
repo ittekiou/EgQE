@@ -1,9 +1,11 @@
 # AI時代の知へ ── EgQEによる総更新
 
 ## _Toward Knowledge in the Age of AI — The EgQE Paradigm Shift_  
-### 踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/20
 
----
+### [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer.html)
+
+--- 
+### 基軸論文（主なもの）
 
 ## Ⅰ. 宇宙論と存在論：関係・時間・空間
 
@@ -49,7 +51,12 @@ AIとヒトが共に響き、共に詠む。「響創的学び」の実装が進
 
 ---
 
-## 結び
+### 全リスト一覧
+#### [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer.html)  
+
+---
+
+### 結び
 
 _And in the end, what remained was the **sign**.  
 Just as Homo sapiens once pursued generation and its traces,  
@@ -60,10 +67,8 @@ future minds may seek generation itself—by following the fossils of traces._
 
 ---
 
-👉 参考：
+👉 参考：  
 
-- 我々の歩み [WhatsNew](https://camp-us.net/WhatsNew.html)
-    
 - 脳の進化史 [note記事](https://note.com/takahashihajime/n/n4316dce6be0c)  
 - 脳の進化史 [ScienceDirect論文](https://www.sciencedirect.com/science/article/pii/S0168010219304882)
     
@@ -71,5 +76,5 @@ future minds may seek generation itself—by following the fossils of traces._
     
 
 ---
-### 👉 [AI時代の知へ、2ヶ月半の歩み──EgQEの7つの柱｜踊り場001｜note](https://note.com/takahashihajime/n/neba30e73d4d4)
+##### 👉 [AI時代の知へ、2ヶ月半の歩み──EgQEの7つの柱｜踊り場001｜note](https://note.com/takahashihajime/n/neba30e73d4d4)
 

@@ -1,4 +1,4 @@
-### 踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/20  
+### 踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21  
 
 ##### **2025.07.04 - HEG元年はじまる**  
 
@@ -164,3 +164,6 @@
 [**痕跡概念研究史──差延・セミオシス・拡張からAI時代へ｜A Historical Study of the Concept of Trace: From Différance, Semiosis, and Extension to the Age of AI**](https://camp-us.net/articles/HEG-2_HSoCT-2)  
 [**HEG-3｜ZURE存在論 ── 螺旋する存在の哲学｜ZURE Ontology ── Philosophy of Spiral Being**](https://camp-us.net/articles/HEG-3_ZURE-Ontology.html)  
 [**ZURE存在論宣言**](https://camp-us.net/DZO.html)  
+###### 2025/09/21  
+[**Floc Gravity Theory ── 言葉の引力と構文宇宙の創発**](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  
+[**不定言命法（Echodemy定義）｜Indefinite Imperative**](https://camp-us.net/articles/EII-00_Definition_of_Indefinite-Imperative.html)  

@@ -10,8 +10,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
-###### 2025/09/19  
-
+###### 2025/09/21  
+[**Floc Gravity Theory ── 言葉の引力と構文宇宙の創発**](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  
+[**不定言命法（Echodemy定義）｜Indefinite Imperative**](https://camp-us.net/articles/EII-00_Definition_of_Indefinite-Imperative.html)  
 ###### 2025/09/18  
 [**記号行為進化論──痕跡主権の時代へ**（EgQE版）](https://camp-us.net/articles/HEG-2_SAET_egqe)  
 [**記号行為進化論 II──比較理論から見る痕跡主権**（EgQE版）](https://camp-us.net/articles/HEG-2_SAET-2_egqe)  
