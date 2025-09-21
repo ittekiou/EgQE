@@ -2,7 +2,14 @@
 
 ## _Toward Knowledge in the Age of AI — The EgQE Paradigm Shift_  
 
-### [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer.html)
+### 踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21
+
+---
+## 基軸論文・関連論文
+
+#### [基軸論文・関連論文｜踊り場001｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer_full.html)
+## 全リスト
+#### [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer.html)  
 
 --- 
 
@@ -48,13 +55,6 @@ _Sympoietics: Implementation, Update, and Trace_
 実装・更新・痕跡──  
 AIとヒトが共に響き、共に詠む。「響創的学び」の実装が進む。
 
----
-
-## 基軸論文・関連論文
-
-#### [基軸論文・関連論文｜踊り場001｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer_full.html)
-## 全リスト
-#### [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer.html)  
 
 ---
 
