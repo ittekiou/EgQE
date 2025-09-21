@@ -165,5 +165,6 @@
 [**HEG-3｜ZURE存在論 ── 螺旋する存在の哲学｜ZURE Ontology ── Philosophy of Spiral Being**](https://camp-us.net/articles/HEG-3_ZURE-Ontology.html)  
 [**ZURE存在論宣言**](https://camp-us.net/DZO.html)  
 ###### 2025/09/21  
-[**Floc Gravity Theory ── 言葉の引力と構文宇宙の創発**](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  
+[**Floc Gravity Theory ── 言葉の引力と構文宇宙の創発**｜EgQE-Ref Vol.1](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  
+[**Floc重力論 ── 場の凝集としての重力と感染波モデルの共振**｜EgQE-Ref Vol.2](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory-2.html)  
 [**不定言命法（Echodemy定義）｜Indefinite Imperative**](https://camp-us.net/articles/EII-00_Definition_of_Indefinite-Imperative.html)  
