@@ -65,7 +65,7 @@
 
 ### 基軸
 
-- **記号行為論（Sign-Act Theory, SAT）**
+- **記号行為論（Sign-Act Theory, SAT→SATy）**
     
     - 公式ページ：[SAT](https://camp-us.net/SAT.html)
         
@@ -74,6 +74,8 @@
     - 本文（EN）：[HEG-2_SAT_EN](https://camp-us.net/articles/HEG-2_SAT_EN.html)
         
     - 宣言文：[HEG-2_SAT_Manifesto](https://camp-us.net/articles/HEG-2_SAT_Manifesto.html)
+        
+    - SAT→SATy：[SATy](https://camp-us.net/SATy.html)
         
 
 ---
