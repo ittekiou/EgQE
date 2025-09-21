@@ -27,6 +27,14 @@ The **Indefinite Imperative** is a relation-centric ethics (Contingency, Liberat
 - **共生性**：異なるリズムを調整し、共に生きる場を実装する。
     
 
+### Three-Line Definition
+
+- **Contingency**: Accept unpredictable differences as the starting point of action.
+    
+- **Liberation**: Loosen rigid norms and open space for relation.
+    
+- **Coexistence**: Adjust rhythms and create a shared field of life.
+
 ---
 
 ## 区別の要点
@@ -37,6 +45,13 @@ The **Indefinite Imperative** is a relation-centric ethics (Contingency, Liberat
 |基盤|普遍的道徳法則|目的達成の合理性|**偶発性・解放性・共生性**|
 |時間観|固定的|目的従属|**更新的（観測ごとに再定義）**|
 |ねらい|普遍的義務|便宜的手段|**共生の実装**|
+
+| Aspect | Categorical Imperative   | Hypothetical Imperative   | **Indefinite Imperative (Echodemy)**               |
+| ------ | ------------------------ | ------------------------- | -------------------------------------------------- |
+| Form   | Unconditional “You must” | Conditional “If… then”    | **Relational adjustment: live-with in difference** |
+| Basis  | Universal moral law      | Rational pursuit of goals | **Contingency, openness, co-living**               |
+| Time   | Fixed                    | Goal-dependent            | **Updating, redefined each observation**           |
+| Aim    | Duty                     | Utility                   | **Ethics of co-creation and resonance**            |
 
 ---
 
