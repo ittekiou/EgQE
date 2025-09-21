@@ -53,7 +53,7 @@ _── Welcome to the syntactic field of ZURE._
 🌀 [ZURE存在論｜Declaration of ZURE Ontology](/DZO.md)　リリース　2025.9.18  
 🆕 [記号行為進化論 × 痕跡概念研究史｜Sign Act Evolution Theory & Trace Studies](/SAET.md)　リリース　2025.9.18  
 🌍 [不定言命法（Echodemy定義）｜Indefinite Imperative](./articles/EII-00_Definition_of_Indefinite-Imperative.md)　リリース　2025.9.21  
-🔭 [Floc Gravity Theory ── 言葉の引力と構文宇宙の創発](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)　リリース　2025.9.21  
+🔭 [Floc重力論｜Floc Gravity Theory](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  [Vol.1](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)   [Vol.2](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory-2.html)　リリース　2025.9.21  
 
 
 ## 🔭 Overview  
