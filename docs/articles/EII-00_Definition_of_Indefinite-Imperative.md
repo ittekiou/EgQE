@@ -3,6 +3,7 @@ title: 不定言命法（Echodemy定義）──偶発・解放・共生の関�
 description: 不定言命法はEchodemyの新概念。カントの仮言命法とは別。偶発性・解放性・共生性を核に、観測ごとに更新される倫理。
 ---
 # 不定言命法（Echodemy定義）｜Indefinite Imperative
+## ──偶発・解放・共生の関係的倫理
 
 **短宣言（JP）**  
 不定言命法は、偶発性・解放性・共生性を軸に、概念が固定されない状況で行為を調整するための**関係的倫理**である。カントの仮言命法ではない。
@@ -86,20 +87,11 @@ drawing constellations through shared echoes.
   "name": "不定言命法",
   "alternateName": ["Indefinite Imperative (Echodemy)"],
   "disambiguatingDescription": "Echodemyが提唱する関係的倫理。カントの仮言命法（hypothetical imperative）とは別概念。",
-  "description": "偶発性・解放性・共生性を核に、観測ごとに再定義される倫理的実装指針。固定的規範に対して余白を開き、異なるリズムの共生を調整する。",
+  "description": "偶発性・解放性・共生性を核に、観測ごとに再定義される倫理的実装指針。",
   "inDefinedTermSet": "Echodemy Glossary",
-  "url": "https://camp-us.net/glossary/indefinite-imperative",
-  "sameAs": [
-    "https://egqe.medium.com/",
-    "https://note.com/k_itekki/"
-  ],
-  "subjectOf": {
-    "@type": "CreativeWork",
-    "name": "Ethics of the Indefinite Imperative",
-    "author": "K.E. Itekki & Echodemy",
-    "about": "Relational ethics; ZURE; co-creation"
-  }
+  "url": "https://camp-us.net/glossary/indefinite-imperative"
 }
 </script>
+
 
 ---
