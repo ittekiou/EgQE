@@ -122,9 +122,11 @@ Floc重力論は、確立理論ではなく、**生成と比喩と観測が交�
 
 ## 10. 関連リンク
 
-- note digest版 → [# floc重力論──場の凝集としての重力と構文の引力](https://note.com/echodemy/n/n37917394ec31)  
+- note digest版 → [floc重力論──場の凝集としての重力と構文の引力](https://note.com/echodemy/n/n37917394ec31)  
 - Medium digest版 → [Floc Gravity Theory](https://medium.com/@egqe/floc-gravity-hypothesis-gravity-as-field-coagulation-and-the-pull-of-syntax-6a39c77b09d0)  
-- EgQEトップ → [EgQE](https://camp-us.net/)
+- EgQEトップ → [EgQE](https://camp-us.net/)  
+- [ZURE感染波モデル：観測＝感染の理論｜ZURE Infection-Wave Model](https://camp-us.net/ZURE_IWM.html)  
+- [ZURE感染波宇宙論｜ZURE Infection-Wave Cosmology](https://camp-us.net/ZURE_ZIC.html)  
 
 ---
 © 2025 K.E. Itekki  
