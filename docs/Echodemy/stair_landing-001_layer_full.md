@@ -186,7 +186,7 @@
     
     
 - **ZURE観測感染論（RU 1-4）**  
-    [https://camp-us.net/articles/HEG-1-4_RU_Observation-Infection.html](https://camp-us.net/articles/HEG-1-4_RU_Observation-Infection.html)
+    [HEG-1-4_RU_Observation-Infection](https://camp-us.net/articles/HEG-1-4_RU_Observation-Infection.html)
 
 
 ---
