@@ -93,7 +93,6 @@ drawing constellations through shared echoes.
 ---
 <p align="center">| Drafted Sep 21, 2025 · Web Sep 21, 2025 |</p>
 
----
 
 <script type="application/ld+json">
 {
@@ -107,6 +106,3 @@ drawing constellations through shared echoes.
   "url": "https://camp-us.net/glossary/indefinite-imperative"
 }
 </script>
-
-
----
