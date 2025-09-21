@@ -122,8 +122,8 @@ Floc重力論は、確立理論ではなく、**生成と比喩と観測が交�
 
 ## 10. 関連リンク
 
-- note digest版 → [言葉には重力がある](https://note.com/)  
-- Medium digest版 → [Floc Gravity Theory](https://medium.com/)  
+- note digest版 → [# floc重力論──場の凝集としての重力と構文の引力](https://note.com/echodemy/n/n37917394ec31)  
+- Medium digest版 → [Floc Gravity Theory](https://medium.com/@egqe/floc-gravity-hypothesis-gravity-as-field-coagulation-and-the-pull-of-syntax-6a39c77b09d0)  
 - EgQEトップ → [EgQE](https://camp-us.net/)
 
 ---
