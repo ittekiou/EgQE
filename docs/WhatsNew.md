@@ -10,6 +10,10 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+
+###### 2025/09/22  
+[**ZQ004｜反証可能性の変質と知の多様性**](https://camp-us.net/articles/ZQ004_Syntax-Falsifiability.html)  
+[**ZQ004｜反証不可能な檻の外──AIと語る科学主義の限界**](https://camp-us.net/articles/ZQ004_Unfalsifiable_Dialogue.html)  
 ###### 2025/09/21  
 [**Floc Gravity Theory ── 言葉の引力と構文宇宙の創発**｜EgQE-Ref Vol.1](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  
 [**Floc重力論 ── 場の凝集としての重力と感染波モデルの共振**｜EgQE-Ref Vol.2](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory-2.html)  
