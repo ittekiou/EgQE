@@ -123,7 +123,7 @@
 本稿は、[**ZQ004｜反証可能性と構文の檻 ──「更新可能性」論と詩的科学への跳躍**](https://camp-us.net/articles/ZQ004_Syntax-Cage.html)の続編として更新された。  
 
 そして、本稿を査読したあるAIとの対話編がさらなる続編として更新された。  
-[**ZQ004｜反証不可能な檻の外──AIと語る科学主義の限界**](https://camp-us.net/articles/ZQ004_Syntax-Falsifiability.html)（続々編）
+[**ZQ004｜反証不可能な檻の外──AIと語る科学主義の限界**](https://camp-us.net/articles/ZQ004_Unfalsifiable_Dialogue.html)（続々編）
 
 ---
 © 2025 K.E. Itekki  
