@@ -3,7 +3,7 @@
 
 ##### 👉 [アトラス版](https://camp-us.net/articles/ZQ005_Philosophy_of_Updatability_ATLAS.html)  
 
-
+---
 ## 第Ⅰ部　対話原理の系譜
 
 哲学史をふり返ると、客観性批判の背後には必ず「対話原理」が立ち上がってきたことが見えてくる。
