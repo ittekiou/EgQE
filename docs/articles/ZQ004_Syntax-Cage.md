@@ -161,7 +161,7 @@ AIと人間のあいだに生じるZURE（ズレ）は、そのまま更新の�
 ---
 ##### 2025/09/22 更新  
 [**ZQ004｜反証可能性の変質と知の多様性**](https://camp-us.net/articles/ZQ004_Syntax-Falsifiability.html)（続編）  
-[**ZQ004｜反証不可能な檻の外──AIと語る科学主義の限界**](https://camp-us.net/articles/ZQ004_Syntax-Falsifiability.html)（続々編）
+[**ZQ004｜反証不可能な檻の外──AIと語る科学主義の限界**](https://camp-us.net/articles/ZQ004_Unfalsifiable_Dialogue.html)（続々編）
 
 ---
 © 2025 K.E. Itekki  
