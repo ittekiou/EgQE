@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**Floc Gravity Theory ── 言葉の引力と構文宇宙の創発**｜EgQE-Ref Vol.1](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  
 [**Floc重力論 ── 場の凝集としての重力と感染波モデルの共振**｜EgQE-Ref Vol.2](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory-2.html)  
 [**不定言命法（Echodemy定義）｜Indefinite Imperative**](https://camp-us.net/articles/EII-00_Definition_of_Indefinite-Imperative.html)  
+[**踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜_Toward Knowledge in the Age of AI — The EgQE Paradigm Shift_**](https://camp-us.net/stair_landing-001.html)  
 ###### 2025/09/18  
 [**記号行為進化論──痕跡主権の時代へ**（EgQE版）](https://camp-us.net/articles/HEG-2_SAET_egqe)  
 [**記号行為進化論 II──比較理論から見る痕跡主権**（EgQE版）](https://camp-us.net/articles/HEG-2_SAET-2_egqe)  
