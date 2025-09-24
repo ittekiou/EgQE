@@ -1,7 +1,7 @@
-# PS-NL01｜Negotiational Liberalism──熟慮と権力倫理モデルの社会構文論
+# PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論
 
 [PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)（英語EgQE版）  
-[PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism_Draft.html)（英語Draft版）  
+[PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_Draft.html)（英語Draft版）  
 
 ## 序論
 
@@ -70,12 +70,16 @@ Negotiative Liberalism は次の三つの特徴を持つ。
 
 本稿の位置づけは、EgQEの社会構文論シリーズに接続するものである。
 
-- PS-E00｜ポスト構文社会の詩的経済論  
-- PS-L00｜Interests Syntax: 自己利益と公共行動のZUREと政治参加  
-- PS-D00｜Schooled Syntax──近代スクール構文を超えて  
-- PS-R00｜炎上のレトリックから縁JOYのレトリックへ 
+- [PS-E00｜ポスト構文社会の詩的経済論](https://camp-us.net/articles/PS-E00_poetic_economy.html)  
+- [PS-L00｜Interests Syntax: 自己利益と公共行動のZUREと政治参加](https://camp-us.net/articles/PS-L00_Interests_Syntax.html)  
+- [PS-D00｜Schooled Syntax──近代スクール構文を超えて](https://camp-us.net/articles/PS-D00_Schooled_Syntax.html)  
+- [PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve——共著進化モデルとエコジェネシス移行曲線](https://camp-us.net/articles/PS-M00_CAEM_EGTC_paper.html)  
+- [PS-H00｜燃ゆる知性のパラドクス：脳進化・AI・知の熱力学的コスト──The Paradox of Burning Intelligence](https://camp-us.net/articles/PS-H00_Burning-Intelligence-Paradox.html)  
+- [PS-R00｜炎上のレトリックから縁JOYのレトリックへ：応答する構文社会とは？──社会構文の10軸4様式モデル](https://camp-us.net/articles/PS-R00_From-Flaming-to-EnJOY_Rhetoric.html)  
 - [PS-01｜アンチ・ユートピア──実践哲学としての倫理と権力](https://camp-us.net/PS-01_AU.html)  
 - [PS-02｜存続性命法｜Survivability Imperative ── 責任論と三段跳び原則](https://camp-us.net/PS-02_SI)  
+- [PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
+- [PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism_Draft.html) 
 
 これらの議論と連動しながら、Negotiative Liberalism は「権力を含む関係の再構文化」という課題を担う。
 
@@ -102,6 +106,9 @@ ZURE存在論が示す基底構造、不定言命法が拓く倫理規範──�
 詩と哲学と政治が交差するこの場から、さらに多くの構文が芽吹いていくだろう。  
 
 **更新可能な未来へ──。**
+
+---
+**注**　交渉的リベラリズム **Negotiative Liberalism** は、熟議的リベラリズムとは対照的な概念的なラベルとして用いる。一方で、学術的分析の文脈では **Negotiational Liberalism** を用い、必要に応じて _a.k.a. Negotiative Liberalism_ と併記する。
 
 ---
 © 2025 K.E. Itekki  

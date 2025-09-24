@@ -1,5 +1,7 @@
 # PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)
 
+[PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)（英語EgQE版）  
+[PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)（日本語簡約版）
 ### **Abstract**
 
 This paper proposes a conceptual shift from _Deliberative Democracy_ to _Negotiational Liberalism_, reframing the foundations of democratic theory through the lens of **Reflective Power Ethics**.  
@@ -178,6 +180,9 @@ In this sense, Negotiational Liberalism is not merely a political model but a **
 Democracy, then, is not the pursuit of final harmony, but the **spiral of negotiations that never cease**.  
 Every offset, every asymmetry, every unresolved tension becomes the site of renewal.  
 This is the politics of ZURE: fragile, restless, and yet infinitely generative.
+
+---
+**Note .** _Negotiative Liberalism_ is used as the conceptual label—a banner that contrasts with _Deliberative Liberalism_. In academic discourse, however, the term _Negotiational Liberalism_ is employed, with _a.k.a. Negotiative Liberalism_ added when clarification is useful.
 
 ---
 © 2025 K.E. Itekki  
