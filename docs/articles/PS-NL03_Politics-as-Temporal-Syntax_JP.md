@@ -3,7 +3,7 @@
 
 ### 政治詩学版
 
-（Reference Edition）[PS-NL03｜Politics as Temporal Syntax: Negotiative Liberalism and the Ethics of Renewal](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax.html)
+（Reference Edition）[PS-NL03｜Politics as Temporal Syntax: Negotiative Liberalism and the Ethics of Renewal](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax.html)  
 （Echo Edition）[PS-NL03｜Politics as Temporal Syntax: Negotiative Liberalism and the Ethics of Renewal](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax_Echo.html)  
 
 ---
