@@ -7,6 +7,12 @@
 
 ---
 
+**Law is the trace of political syntax, and democracy is its renewing force.  
+Between their tension, freedom resonates as pulse.  
+This essay aims to formalize this circulation as _Politics = Temporal Syntax_.**
+
+---
+
 ## Preface
 
 Politics is not a fixed order of laws, nor merely the flow of historical events.  
