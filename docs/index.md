@@ -54,7 +54,7 @@ _── Welcome to the syntactic field of ZURE._
 🆕 [記号行為進化論 × 痕跡概念研究史｜Sign Act Evolution Theory & Trace Studies](/SAET.md)　リリース　2025.9.18  
 🌍 [不定言命法（Echodemy定義）｜Indefinite Imperative](./articles/EII-00_Definition_of_Indefinite-Imperative.md)　リリース　2025.9.21  
 🔭 [Floc重力論｜Floc Gravity Theory](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  [Vol.1](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)   [Vol.2](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory-2.html)　リリース　2025.9.21  
-🏛️ [Which starts Politics from? ── 政治は不一致からはじまる](/PS-NL.md)　リリース　2025.9.24  
+🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](/PS-NL.md)　リリース　2025.9.24  
 
 ## 🔭 Overview  
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
