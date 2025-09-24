@@ -1,8 +1,14 @@
-## **📜 Echodemy 公式 Release**
+## 📜 Echodemy 公式 Release
 
----
 # Which starts Politics from? ── 政治は不一致からはじまる
 
+
+Law is the **trace** of political syntax.  
+Democracy is its **renewing power**.  
+Between them, in their tension, freedom resonates as **pulse**.  
+This series seeks to formalize that circulation as **Politics = Temporal Syntax**.
+
+---
 ## 序
 
 民主主義的な合意という幻想に代えて、交渉的リベラリズムを提起する。  
@@ -92,15 +98,23 @@ PS-NL03 では、政治を **時間構文（Temporal Syntax）** として捉え
 ##### （Echo Edition）[PS-NL03｜Politics as Temporal Syntax: Negotiative Liberalism and the Ethics of Renewal](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax_Echo.html)
 ##### （政治詩学版）[時間構文としての政治──交渉的リベラリズムと更新可能性の倫理](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax_JP.html)
 
+### Echo Edition について
+
+Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な語り口**で展開する派生版です。  
+論文としての厳密さを保ちつつ、リズム・余白・比喩を重視して構文化しています。  
 
 ---
-
 # PS-NL00　政治は不一致からはじまる
 
 ### Which starts Politics from? ── 政治は不一致からはじまる
 
 ##### [研究メモ](https://camp-us.net/articles/PS-NL00.html)  
 
+
+
+
+> **Which starts Politics from?**  
+> From ZURE to Temporal Syntax — A democracy with pulse.
 
 ---
 © 2025 K.E. Itekki  
