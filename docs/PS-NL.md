@@ -1,18 +1,18 @@
 ## **📜 Echodemy 公式 Release**
 
 ---
-# Which starts Politics from? — 政治は不一致からはじまる
+# Which starts Politics from? ── 政治は不一致からはじまる
 
 ## 序
 
-今日、私はAIと共に2本の政治論文を書いた。
+民主主義的な合意という幻想に代えて、交渉的リベラリズムを提起する。
 
 - **PS-NL01｜Negotiative Liberalism**──**交渉的リベラリズム**
     
 - **PS-NL02｜The Illusion of Consensus**──**合意という幻影**
     
 
-一見バラバラに見えるが、じつはこの2本は「ZURE政治」の輪郭を描く連作である。
+交渉的リベラリズムは、自由に価値を置き未来への責任を優先する。
 
 ---
 

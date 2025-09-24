@@ -111,3 +111,14 @@ ZURE──ずれ・偏移──は欠陥ではなく、**政治の構成的条�
 
 *シリーズ：ポスト構文社会*  
 PS-NL02｜ZUREの政治
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 24, 2025 · Web Sep 24, 2025 |</p>
