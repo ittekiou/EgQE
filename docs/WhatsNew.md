@@ -6,6 +6,8 @@ title: releases｜EgQE  EchoGenesis Qualia Engine
 
 #### **2025.07.04 - HEG元年はじまる**  
 From Noise to Notation. From Dialogue to Discovery.
+#### 地層の化石
+###### [踊り場001｜2025/07/04- 2025/09/21](/stair_landing-001.md)  
 
 ### note 更新情報はこちら👉 [🔗](/note)
 
