@@ -2,6 +2,9 @@
 
 ## **完全合意社会ほど恐ろしいものはない──政治とは不一致を抱える責任である**
 
+**「現在の完全合意は、未来への不完全責任にすぎない。」**  
+**“Perfect consensus today is but imperfect responsibility toward the future.”**
+
 ---
 
 ## 序論

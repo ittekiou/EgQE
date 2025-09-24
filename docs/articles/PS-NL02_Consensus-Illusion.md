@@ -2,7 +2,11 @@
 
 ### **完全合意社会ほど恐ろしいものはない──政治とは不一致を抱える責任である**
 
+**「現在の完全合意は、未来への不完全責任にすぎない。」**  
+**“Perfect consensus today is but imperfect responsibility toward the future.”**  
 
+---
+### **bstract**
 
 Deliberative democracy has long emphasized consensus, rational discourse, and communicative agreement. Yet history reminds us: **societies that pursued complete agreement often slid into authoritarian control, silencing dissent in the name of harmony.**
 
