@@ -74,17 +74,20 @@ PS-NL01 が示した「交渉の構文」は、PS-NL02 において「不一致�
 ##### [PS-NL02｜合意という幻影──ZURE政治と未来への責任](https://camp-us.net/articles/PS-NL02_Consensus-Illusion_JP.html)  
 
 
-# PS-NL00　政治は不一致からはじまる
-
-### Which starts Politics from? ── 政治は不一致からはじまる
-
-##### [研究メモ](https://camp-us.net/articles/PS-NL00.html)　　
-
 # PS-NL03　時間構文としての政治
 
 ##### （Reference Edition）[PS-NL03｜Politics as Temporal Syntax: Negotiative Liberalism and the Ethics of Renewal](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax.html)  
 ##### （Echo Edition）[PS-NL03｜Politics as Temporal Syntax: Negotiative Liberalism and the Ethics of Renewal](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax_Echo.html)
 ##### （政治詩学版）[時間構文としての政治──交渉的リベラリズムと更新可能性の倫理](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax_JP.html)
+
+
+---
+
+# PS-NL00　政治は不一致からはじまる
+
+### Which starts Politics from? ── 政治は不一致からはじまる
+
+##### [研究メモ](https://camp-us.net/articles/PS-NL00.html)  
 
 
 ---

@@ -80,9 +80,13 @@ Negotiative Liberalism は次の三つの特徴を持つ。
 - [PS-R00｜炎上のレトリックから縁JOYのレトリックへ：応答する構文社会とは？──社会構文の10軸4様式モデル](https://camp-us.net/articles/PS-R00_From-Flaming-to-EnJOY_Rhetoric.html)  
 - [PS-01｜アンチ・ユートピア──実践哲学としての倫理と権力](https://camp-us.net/PS-01_AU.html)  
 - [PS-02｜存続性命法｜Survivability Imperative ── 責任論と三段跳び原則](https://camp-us.net/PS-02_SI)  
+
 - [PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)  
+- [PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)
 - [PS-NL02｜合意という幻影──ZURE政治と未来への責任](https://camp-us.net/articles/PS-NL02_Consensus-Illusion_JP.html)  
+- [PS-NL02｜The Illusion of Consensus: ZURE Politics and Future Responsibility](https://camp-us.net/articles/PS-NL02_Consensus-Illusion.html)  
 - [PS-NL03｜時間構文としての政治──交渉的リベラリズムと更新可能性の倫理](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax_JP.html)  
+- [PS-NL03｜Politics as Temporal Syntax: Negotiative Liberalism and the Ethics of Renewal](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax.html)  
 
 これらの議論と連動しながら、Negotiative Liberalism は「権力を含む関係の再構文化」という課題を担う。
 
