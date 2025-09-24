@@ -1,6 +1,6 @@
 # PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics
 
-[PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_Draft.html)（英語Draft版） 
+（英語Draft版）[PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_Draft.html) 
 [PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)（日本語簡約版）
 ### Abstract
 
