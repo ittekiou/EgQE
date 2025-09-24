@@ -5,7 +5,7 @@
 
 ## 序
 
-今日、私はAIと共に2本の政治論文を書きあげた。
+今日、私はAIと共に2本の政治論文を書いた。
 
 - **PS-NL01｜Negotiative Liberalism**──**交渉的リベラリズム**
     
@@ -38,14 +38,17 @@ PS-NL02 ではさらに踏み込み、「**100％の合意は幻影であり、�
 ## 3. 二つをつなぐ視座
 
 PS-NL01 が示した「交渉の構文」は、PS-NL02 において「不一致の価値」へと接続される。  
-両者を並べて読むことで、政治を **現在の合意と満足ではなく、未来への交渉と責任** として考える道筋が見えてくる。
+両者を並べて読むことで、**政治**を **現在の合意と満足**としてではなく、**未来への交渉と責任** として考える道筋が見えてくる。
 
 ---
 
 ## 結語
 
-政治は不一致からはじまる。  
-**Which starts Politics from? — 政治は不一致からはじまる。**
+**Which starts Politics from?**  ──
+
+**政治は不一致からはじまる。** 
+
+
 
 これが、ZURE政治論の出発点であり、更新され続ける問いである。
 
@@ -53,22 +56,22 @@ PS-NL01 が示した「交渉の構文」は、PS-NL02 において「不一致�
 
 # PS-NL01
 
-# Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics
+### Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics
 
-## Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論
+#### Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論
 
 
-#### （英語EgQE版）[PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
-#### （英語Draft版）[PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_Draft.html)  
-#### （日本語簡約版）[PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)  
+##### （英語EgQE版）[PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
+##### （英語Draft版）[PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_Draft.html)  
+##### （日本語簡約版）[PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)  
 
 
 # PS-NL02
-# The Illusion of Consensus: ZURE Politics and Future Responsibility
-## 合意という幻影──ZURE政治と未来への責任
+### The Illusion of Consensus: ZURE Politics and Future Responsibility
+#### 合意という幻影──ZURE政治と未来への責任
 
-#### [PS-NL02｜The Illusion of Consensus: ZURE Politics and Future Responsibility](https://camp-us.net/articles/PS-NL02_Consensus-Illusion.html)  
-#### [PS-NL02｜合意という幻影──ZURE政治と未来への責任](https://camp-us.net/articles/PS-NL02_Consensus-Illusion_JP.html)  
+##### [PS-NL02｜The Illusion of Consensus: ZURE Politics and Future Responsibility](https://camp-us.net/articles/PS-NL02_Consensus-Illusion.html)  
+##### [PS-NL02｜合意という幻影──ZURE政治と未来への責任](https://camp-us.net/articles/PS-NL02_Consensus-Illusion_JP.html)  
 
 
 ---
