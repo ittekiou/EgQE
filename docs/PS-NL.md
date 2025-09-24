@@ -74,6 +74,13 @@ PS-NL01 が示した「交渉の構文」は、PS-NL02 において「不一致�
 ##### [PS-NL02｜合意という幻影──ZURE政治と未来への責任](https://camp-us.net/articles/PS-NL02_Consensus-Illusion_JP.html)  
 
 
+# PS-NL00
+
+### Which starts Politics from? ── 政治は不一致からはじまる
+
+##### [研究メモ](https://camp-us.net/articles/PS-NL00.html)
+
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
