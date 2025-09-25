@@ -24,6 +24,13 @@ This series seeks to formalize that circulation as **Politics = Temporal Syntax*
 交渉的リベラリズムは、自由に価値を置き未来への責任を優先する。
 
 ---
+#### PS-NL04三部作を追加更新しました。2025/09/25
+
+**PS-NL（Politics & Syntax — Negotiative Liberalism）シリーズ**は、政治理論における「合意の幻想」を批判的に検討し、**交渉的リベラリズム**という新たな視座を提示する試みである。  
+
+本シリーズでは、民主主義やリベラリズムを「時間構文」という独自の理論枠組みにおいて再定義し、**不一致を抑圧せず、更新として受けとめる政治の可能性**を描き出す。
+
+---
 
 ## 1. Negotiative Liberalism──交渉の構文としてのリベラリズム
 
@@ -60,15 +67,15 @@ PS-NL03 では、政治を **時間構文（Temporal Syntax）** として捉え
 
 ---
 
-## 結語
+## 4. リベラリズムの系譜：寛容と時間──PS-NL04三部作
 
-**Which starts Politics from?**  ──
+PS-NL01〜03で基盤を築いた後、**PS-NL04三部作**は補強と展開を目的として追加更新された。
 
-**政治は不一致からはじまる。** 
-
-
-
-これが、ZURE政治論の出発点であり、更新され続ける問いである。
+- **PS-NL04-1**では、リベラリズムの思想史的系譜を整理し、交渉的リベラリズムの位置を定めた。
+    
+- **PS-NL04-2**では、従来の「寛容」論を時間軸に組み込み直すことで、精神論に留まらない実践的寛容の構図を提示した。
+    
+- **PS-NL04-3**では、リベラリズムを「収斂する時間」から「螺旋的時間」へと転換する試みを示した。これは、われわれの時間構文論と響き合う。
 
 ---
 
@@ -96,14 +103,28 @@ PS-NL03 では、政治を **時間構文（Temporal Syntax）** として捉え
 
 ##### （Reference Edition）[PS-NL03｜Politics as Temporal Syntax: Negotiative Liberalism and the Ethics of Renewal](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax.html)  
 ##### （Echo Edition）[PS-NL03｜Politics as Temporal Syntax: Negotiative Liberalism and the Ethics of Renewal](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax_Echo.html)
-##### （政治詩学版）[時間構文としての政治──交渉的リベラリズムと更新可能性の倫理](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax_JP.html)　　
-
-
+##### （政治詩学版）[時間構文としての政治──交渉的リベラリズムと更新可能性の倫理](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax_JP.html)  
 
 ### Echo Edition について
 
 Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な語り口**で展開する派生版です。  
 論文としての厳密さを保ちつつ、リズム・余白・比喩を重視して構文化しています。  
+
+---
+## 追補
+
+# PS-NL04　リベラリズムの系譜と「交渉的リベラリズム」の位置
+
+##### [PS-NL04｜リベラリズムの系譜と「交渉的リベラリズム」の位置｜The Genealogy of Liberalism and the Position of Negotiative Liberalism](https://camp-us.net/articles/PS-NL04_Genealogy.html)  
+
+# PS-NL04　リベラリズムと寛容
+
+##### [PS-NL04｜リベラリズムと寛容｜Liberalism and Tolerance in the Frame of Negotiative Liberalism](https://camp-us.net/articles/PS-NL04_Tolerance.html)  
+
+# PS-NL04　時間構文と交渉的リベラリズム
+
+##### [PS-NL04｜時間構文と交渉的リベラリズム｜Temporal Syntax and the Negotiative Turn in Liberalism: From Convergence to Spiral](https://camp-us.net/articles/PS-NL04_Convergence-to-Spiral.html)  
+
 
 ---
 # PS-NL00　政治は不一致からはじまる
@@ -113,10 +134,19 @@ Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な
 ##### [研究メモ](https://camp-us.net/articles/PS-NL00.html)  
 
 
-
-
 > **Which starts Politics from?**  
 > From ZURE to Temporal Syntax — A democracy with pulse.
+
+
+---
+## 結語
+
+**Which starts Politics from?**  ──
+
+**政治は不一致からはじまる。** 
+
+
+これが、ZURE政治論の出発点であり、更新され続ける問いである。
 
 ---
 © 2025 K.E. Itekki  
