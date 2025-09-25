@@ -93,6 +93,7 @@ This section advances a constructive account of politics as _temporal syntax_ gr
     
 
 _(Figure: Politics as Temporal Syntax — Pulse Spirals centred among Freedom/Law/Democracy.)_
+![Politics-as-Temporal-Syntax](../assets/Politics-as-Temporal-Syntax.png)
 
 ---
 
