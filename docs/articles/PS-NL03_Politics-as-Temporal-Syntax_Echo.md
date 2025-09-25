@@ -108,6 +108,9 @@ It is here that Negotiative Liberalism reveals its force:
 not as a doctrine of harmony, but as a grammar of temporal openness,  
 where disagreement (ZURE) is the very condition for future responsibility.
 
+_(Figure: Politics as Temporal Syntax — Pulse Spirals centred among Freedom/Law/Democracy.)_
+![Politics-as-Temporal-Syntax_cycle](../assets/Politics-as-Temporal-Syntax_cycle.png)
+
 ---
 
 ## V. Recapitulation

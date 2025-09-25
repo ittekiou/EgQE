@@ -88,6 +88,9 @@
 
 交渉的リベラリズムは、静態と動態を統合し、政治を「生きた構文」として刻む理論的基盤を与える。
 
+_(Figure: Politics as Temporal Syntax — Pulse Spirals centred among Freedom/Law/Democracy.)_
+![Politics-as-Temporal-Syntax_cycle](../assets/Politics-as-Temporal-Syntax_cycle.png)
+
 ---
 
 ## 小括
