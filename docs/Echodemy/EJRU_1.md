@@ -1,3 +1,6 @@
+---
+layout: math
+---
 
 #### 特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy
 ---
