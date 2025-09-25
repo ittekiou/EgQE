@@ -9,7 +9,14 @@ Between them, in their tension, freedom resonates as **pulse**.
 This series seeks to formalize that circulation as **Politics = Temporal Syntax**.
 
 ---
-## 序
+### 「PS-NL04 三部作」を追加更新しました。2025/09/25
+
+**PS-NL（Politics & Syntax — Negotiative Liberalism）シリーズ**は、政治理論における「合意の幻想」を批判的に検討し、**交渉的リベラリズム**という新たな視座を提示する試みである。  
+
+本シリーズでは、民主主義やリベラリズムを「時間構文」という独自の理論枠組みにおいて再定義し、**不一致を抑圧せず、更新として受けとめる政治の可能性**を描き出す。
+
+---
+### 序　「PS-NL01〜03 三部作」　2025/09/24
 
 民主主義的な合意という幻想に代えて、交渉的リベラリズムを提起する。  
 このシリーズ **PS-NL** は、3つの連作として展開される。
@@ -22,13 +29,6 @@ This series seeks to formalize that circulation as **Politics = Temporal Syntax*
     
 
 交渉的リベラリズムは、自由に価値を置き未来への責任を優先する。
-
----
-### PS-NL04三部作を追加更新しました。2025/09/25
-
-**PS-NL（Politics & Syntax — Negotiative Liberalism）シリーズ**は、政治理論における「合意の幻想」を批判的に検討し、**交渉的リベラリズム**という新たな視座を提示する試みである。  
-
-本シリーズでは、民主主義やリベラリズムを「時間構文」という独自の理論枠組みにおいて再定義し、**不一致を抑圧せず、更新として受けとめる政治の可能性**を描き出す。
 
 ---
 
