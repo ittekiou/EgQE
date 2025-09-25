@@ -24,7 +24,7 @@ This series seeks to formalize that circulation as **Politics = Temporal Syntax*
 交渉的リベラリズムは、自由に価値を置き未来への責任を優先する。
 
 ---
-#### PS-NL04三部作を追加更新しました。2025/09/25
+### PS-NL04三部作を追加更新しました。2025/09/25
 
 **PS-NL（Politics & Syntax — Negotiative Liberalism）シリーズ**は、政治理論における「合意の幻想」を批判的に検討し、**交渉的リベラリズム**という新たな視座を提示する試みである。  
 
