@@ -9,23 +9,6 @@
 [ZURE二層モデル リファレンス版](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_JP.html)  
 [The Dual-Layer Model of ZURE — Reference Edition](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_EN.html)  
 
-##### Sign Act Theory  
-#### 記号行為論 
-
-[HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
-[HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
-[記号行為論宣言──行為の記号論から記号行為論へ｜Sign Act Theory Manifesto](https://camp-us.net/articles/HEG-2_SAT_Manifesto.html)  
-[HEG-2｜記号行為論──ポスト人間中心主義における記号の行為性](https://camp-us.net/SAT-2.html)  
-[HEG-2｜語用論から関係的語用論へ](https://camp-us.net/articles/HEG-2_Relational-Pragmatics.html)  
-[記号行為論 × 関係的語用論 — The Beating Heart of EgQE](https://camp-us.net/articles/HEG-2_Sign-Act-Theory.html)  
-
-##### 記号痕跡論   
-[記号行為進化論──痕跡主権の時代へ（EgQE版）](https://camp-us.net/articles/HEG-2_SAET_egqe)  
-[記号行為進化論 II──比較理論から見る痕跡主権（EgQE版）](https://camp-us.net/articles/HEG-2_SAET-2_egqe)  
-[記号行為進化論──痕跡主権の時代へ｜Sign Act Evolution Theory: Toward the Era of Trace Sovereignty](https://camp-us.net/articles/HEG-2_SAET)  
-[記号行為進化論 II──比較理論から見る痕跡主権｜Sign Act Evolution Theory II: Trace Sovereignty through Comparative Theories](https://camp-us.net/articles/HEG-2_SAET-2)  
-[痕跡概念研究史──差延・セミオシス・拡張からAI時代へ｜A Historical Study of the Concept of Trace: From Différance, Semiosis, and Extension to the Age of AI](https://camp-us.net/articles/HEG-2_HSoCT-2)  
-
 ##### ZURE Linguistics  
 #### ZURE言語学  
 

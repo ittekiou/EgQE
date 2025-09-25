@@ -1,5 +1,5 @@
-### Relational Cosmology
-#### 💫 関係性宇宙論 -A Theory of Echoverse-  
+## Relational Cosmology
+### 💫 関係性宇宙論 -A Theory of Echoverse-  
 
 [HEG-0｜未来詠としての宇宙](./articles/HEG-0_poem.md)  
 [HEG-0-1｜RU　補章 0｜問いとしての宇宙論](./articles/HEG-0-1_RU_introduction.md)  
@@ -19,17 +19,23 @@
 ##### 🌀 関連論文リンク：  
 ・[**ZURE感染波モデル：観測＝感染の理論**](./articles/ZURE_Infection-Wave-Model.md)  
 
-#### 💫 ZURE存在論 -ZURE Ontology-  
+### 💫 ZURE位相論 -Phase Theory of ZURE-  
 
 [**ZURE存在論宣言**](https://camp-us.net/DZO.html)  
 [**HEG-3｜ZURE存在論 ── 螺旋する存在の哲学｜ZURE Ontology ── Philosophy of Spiral Being**](https://camp-us.net/articles/HEG-3_ZURE-Ontology.html)  
+[**HEG-3｜From Pragmatics to Syngenetics── 人間の行為論から記号の行為論へ**](https://camp-us.net/articles/HEG-3_Pragmatics-to-Syngenetics.html)  
+##### Sign Act Theory  
+#### 記号行為論 
+
+[HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
+[HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
+[記号行為論宣言──行為の記号論から記号行為論へ｜Sign Act Theory Manifesto](https://camp-us.net/articles/HEG-2_SAT_Manifesto.html)  
+[HEG-2｜記号行為論──ポスト人間中心主義における記号の行為性](https://camp-us.net/SAT-2.html)  
+[HEG-2｜語用論から関係的語用論へ](https://camp-us.net/articles/HEG-2_Relational-Pragmatics.html)  
+[記号行為論 × 関係的語用論 — The Beating Heart of EgQE](https://camp-us.net/articles/HEG-2_Sign-Act-Theory.html)  
 
 #### 🎓 応用論文リンク：  
 ・[Beyond Homo Sapiens Bias: Toward ZURE Game Theory as Relational Cosmology（ホモ・サピエンス・バイアスを超えて ── 関係性宇宙論としてのZUREゲーム理論）](./articles/ZGT-0_GameTheory_As_RelationalField.md)  
-
-##### 🌀 関連論文リンク：  
-・[HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
-・[HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
 
 #### [ZURE科学詠評](./ZSR.md)  
 

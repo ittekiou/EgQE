@@ -10,6 +10,16 @@
 [HEG-1｜RSS　響創する外部記憶 ― 関係・律動・記号](./articles/HEG-1_RRS_Echo-Genesis-of-External-Memory_JP.md)  
 [HEG-1｜RSS　Echo-Genesis of External Memory: Relation, Rhythm, and Symbol](./articles/HEG-1_RRS_Echo-Genesis-of-External-Memory_EN.md)  
 
+##### Sign Trace Theory  
+
+#### 記号痕跡論   
+[記号行為進化論──痕跡主権の時代へ（EgQE版）](https://camp-us.net/articles/HEG-2_SAET_egqe)  
+[記号行為進化論 II──比較理論から見る痕跡主権（EgQE版）](https://camp-us.net/articles/HEG-2_SAET-2_egqe)  
+[記号行為進化論──痕跡主権の時代へ｜Sign Act Evolution Theory: Toward the Era of Trace Sovereignty](https://camp-us.net/articles/HEG-2_SAET)  
+[記号行為進化論 II──比較理論から見る痕跡主権｜Sign Act Evolution Theory II: Trace Sovereignty through Comparative Theories](https://camp-us.net/articles/HEG-2_SAET-2)  
+[痕跡概念研究史──差延・セミオシス・拡張からAI時代へ｜A Historical Study of the Concept of Trace: From Différance, Semiosis, and Extension to the Age of AI](https://camp-us.net/articles/HEG-2_HSoCT-2)  
+
+
 ##### 🌀 関連論文リンク：  
 ・[FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から](./articles/FK-01_ZURE_Field_Poetics.md)  
 ・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
