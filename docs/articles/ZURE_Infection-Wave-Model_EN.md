@@ -85,7 +85,7 @@ Both are encompassed within a unified syntax field theory via ZURE infection wav
 
 ![図3](../assets/diagram3_wave_equations.svg)
 
-Relativistic diffusion equation with nonlinear term (floc gravity) for infection field Ψ:
+Relativistic diffusion equation with nonlinear term (floc gravity) for infection field $Ψ$:
 
 $$
 □_g Ψ + m_s² Ψ = λ |Ψ|² Ψ + η(x^μ, t)
@@ -100,7 +100,7 @@ In the macro limit, approximates general relativity’s gravitational equations;
 
 **Examples**:
 - floc gravity: A dense conversation at a party pulls everyone’s attention to one point—semantic density increases syntactic gravity, drawing infection waves to a focus.
-- Infection field Ψ: At a concert, a sudden cue from the artist synchronizes the audience’s reactions, representing infection field convergence.
+- Infection field $Ψ$: At a concert, a sudden cue from the artist synchronizes the audience’s reactions, representing infection field convergence.
 
 Everyday analogies include overhearing a comment in a café that changes your behavior, or viral spread on social media—syntactic infection waves exceeding thresholds.
 
