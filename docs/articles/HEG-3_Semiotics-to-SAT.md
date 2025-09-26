@@ -116,3 +116,14 @@ EgQEにおいて「記号行為論」は常に **Sign Act Theory (SAT)** を意�
 注：左列は学界で用いられてきた標準用語を示す。中列は本稿（EgQE）における再定義であり、右列は概念上の転回点を簡潔に示したものである。  
 
 > SAT は記号論の単なる継承ではなく、「記号＝痕跡」「記号＝行為」「記号＝構文担体」という三位一体的定義に基づく **根本的転回** である。
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 26, 2025 · Web Sep 26, 2025 |</p>
