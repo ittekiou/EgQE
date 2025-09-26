@@ -44,10 +44,14 @@ The fixation of meaning is merely a side effect of observational infection, whic
 - **Resonance Condition**: Infection waves amplify when syntactic patterns synchronize.
 
 #### 3.2 Simple Mathematical Model
+
+$$
 dZ/dt = βZ − γZ
-- β > γ: Expansion (explosive syntactic infection propagation)
-- β = γ: Steady state
-- β < γ: Convergence
+$$
+
+- $β > γ$: Expansion (explosive syntactic infection propagation)
+- $β = γ$: Steady state
+- $β < γ$: Convergence
 
 #### 3.3 Coupling with floc Gravity
 floc gravity acts as a “gravitational field” for syntactic infection, distorting the shape and duration of infection waves and promoting clustering.
@@ -82,10 +86,13 @@ Both are encompassed within a unified syntax field theory via ZURE infection wav
 ![図3](../assets/diagram3_wave_equations.svg)
 
 Relativistic diffusion equation with nonlinear term (floc gravity) for infection field Ψ:
-□_g Ψ + m_s² Ψ = λ |Ψ|² Ψ + η(x^μ, t)
 
-- □_g: relativistic Laplacian including curvature
-- m_s: syntactic particle mass parameter (stability/viscosity)
+$$
+□_g Ψ + m_s² Ψ = λ |Ψ|² Ψ + η(x^μ, t)
+$$
+
+- $□_g$: relativistic Laplacian including curvature
+- $m_s$: syntactic particle mass parameter (stability/viscosity)
 - λ|Ψ|²Ψ: self-propagation and clustering of syntactic infection
 - η(x, t): local pulse term from observation events
 
