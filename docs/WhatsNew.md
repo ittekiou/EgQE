@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/09/26  
+[**HEG-3｜From Semiotics to SAT：記号作用の主体の定位── 記号論からSAT（Sign Act Theory）へ**](https://camp-us.net/articles/HEG-3_Semiotics-to-SAT.html)  
 ###### 2025/09/25  
 [**HEG-3｜From Pragmatics to Syngenetics── 人間の行為論から記号の行為論へ**](https://camp-us.net/articles/HEG-3_Pragmatics-to-Syngenetics.html)  
 [**PS-NL04｜リベラリズムの系譜と「交渉的リベラリズム」の位置｜The Genealogy of Liberalism and the Position of Negotiative Liberalism**](https://camp-us.net/articles/PS-NL04_Genealogy.html)  
