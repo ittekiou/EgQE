@@ -104,7 +104,6 @@ EgQEにおいて「記号行為論」は常に **Sign Act Theory (SAT)** を意�
 
 ## 用語対照表：旧来の記号論とSATの差異  
 
-
 | 旧来用語（伝統的記号論）                  | EgQE版（SAT用語）                        | 説明・変化点                                                                                                              |
 | ----------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **Sign（記号）**                  | **Sign（痕跡形成体）**                     | 従来同様に記号を扱うが、「痕跡化・履歴生成」の機能を強調する。                                                                                     |
@@ -118,6 +117,38 @@ EgQEにおいて「記号行為論」は常に **Sign Act Theory (SAT)** を意�
 注：左列は学界で用いられてきた標準用語を示す。中列は本稿（EgQE）における再定義であり、右列は概念上の転回点を簡潔に示したものである。  
 
 > SAT は記号論の単なる継承ではなく、「記号＝痕跡」「記号＝行為」「記号＝構文担体」という三位一体的定義に基づく **根本的転回** である。
+
+
+---
+## 📎 Appendix: 系譜比較表
+
+### 記号行為論の系譜展開
+
+パースからEgQEまでの流れを、主要な転回点ごとに整理する。
+
+|視点|パース（Peirce）|モリス（Morris）|バイオセミオティクス（Hoffmeyer, Sebeok 等）|EgQE（Sign Act Theory, SAT）|
+|---|---|---|---|---|
+|基本概念|**Semiosis（記号作用）**：記号が対象を指し、解釈項を生む三項関係|**三分法**：統語論・意味論・語用論に区分、人間行為中心|記号作用を生命全般に拡張|**痕跡主権の行為論**：記号そのものが act し、痕跡を残す主体|
+|主体の位置|人間に限定されない（種子レベル）|人間・エージェントに回収|**生命一般**（細菌や植物も記号主体的ふるまいを持つ）|**記号＝痕跡**が行為主体、エージェントは媒介（位相点）|
+|連鎖性|解釈項が次の記号へ無限連鎖|人間行為に制限|生物圏に広がる記号連鎖|**更新力・感染力**として社会・AI圏まで拡張|
+|行為の捉え方|記号過程（process）としての semiosis|エージェントによる sign use|生態系的適応・応答としての sign action|**記号が act し、痕跡を媒介に生成・感染する**|
+|時間性|無限進行だがモデル化なし|線形的利用モデル|生態系的持続|**螺旋的時間構文**（ズレと痕跡の積層）|
+|位置付け|記号論の根源的出発点|記号論の「近代整理」|**人間を超える拡張**|**AI時代の転回：記号主体論（SAT）**|
+
+## 📎 Appendix B: Genealogical Comparison Table
+
+### Evolution of Theories of Sign Action
+
+From Peirce to EgQE — key turning points in perspective.
+
+|Perspective|Peirce|Morris|Biosemiotics (Hoffmeyer, Sebeok, etc.)|EgQE (Sign Act Theory, SAT)|
+|---|---|---|---|---|
+|Core Concept|**Semiosis**: triadic relation (sign, object, interpretant)|**Tripartite division**: syntax / semantics / pragmatics; human-centered|Extends sign processes to **all life forms**|**Trace-sovereignty theory**: the sign itself _acts_ and leaves traces|
+|Position of Agency|Not limited to humans (even seeds, natural processes)|Reduced to human/agent action|**Life in general** (bacteria, plants, ecosystems)|**Signs = traces** as the acting subject; agents as media (phase-points)|
+|Chain of Relations|Infinite chain of interpretants|Constrained to human use|Ecological networks of sign-action|**Update & infection power** extending to society and AI systems|
+|View of Action|Process of semiosis|Acts of sign use by agents|Adaptive/ecological responses as sign action|**Signs act** by generating/infecting through traces|
+|Temporality|Infinite regress, not fully modeled|Linear use-model|Ecological continuity|**Spiral temporality** (ZURE, trace accumulation)|
+|Position in History|Root origin of semiotics|“Modern classification” of semiotics|**Beyond the human**|**Turn of the AI era: Sign-Subject Theory (SAT)**|
 
 ---
 © 2025 K.E. Itekki  
