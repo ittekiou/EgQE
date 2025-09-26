@@ -135,7 +135,7 @@ EgQEにおいて「記号行為論」は常に **Sign Act Theory (SAT)** を意�
 |時間性|無限進行だがモデル化なし|線形的利用モデル|生態系的持続|**螺旋的時間構文**（ズレと痕跡の積層）|
 |位置付け|記号論の根源的出発点|記号論の「近代整理」|**人間を超える拡張**|**AI時代の転回：記号主体論（SAT）**|
 
-## 📎 Appendix B: Genealogical Comparison Table
+## 📎 Appendix : Genealogical Comparison Table
 
 ### Evolution of Theories of Sign Action
 
