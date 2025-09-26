@@ -21,7 +21,7 @@ To extend one’s own freedom is simultaneously to adjust and extend the freedom
 ## 2. The Categorical Imperative and the Question of Otherness
 
 Kant’s categorical imperative asks whether the maxim of one’s action can be willed as a universal law.  
-While this provides a principle of universality, it presupposes others as _rational equals_ and thereby lacks a circuit for dealing with **misalignment or ZURE** in a negotiative way.  
+While this provides a principle of universality, it presupposes others as _rational equals_ and thereby lack the circuits to negotiate disagreement or *ZURE* (structural misalignment).  
 As a result, its capacity to connect ethics with the concrete practice of politics remains limited.
 
 ---
@@ -50,16 +50,23 @@ Politics is the practice of receiving the tension between freedom and otherness 
 ## Outlook: From the Indefinite to the Survivability Imperative
 
 Whereas the Indefinite Imperative centers on **renewability**, the **Survivability Imperative (SI)** incorporates _otherness and consistency_ as the final principle of **carrying history into the future**.  
-It is the **ethics of ensuring that renewal itself continues**, extending beyond II toward intergenerational ethics, environmental responsibility, and the coexistence of AI and human societies.
+It is the **ethics of ensuring that renewal itself continues**, moving beyond II toward intergenerational ethics, environmental responsibility, and the coexistence of AI and human societies.
 
 Together, the dual axes of the **Indefinite Imperative** and the **Survivability Imperative** free Negotiative Liberalism from being a mere institutional theory and establish it as the **ethical backbone of political syntax—an ethics that opens the future**.
 
 ---
 
+### Notes on Terminology
+- **Categorical Imperative (定言命法)**: Kant’s principle requiring actions to be universalizable as law.
+- **Indefinite Imperative (不定言命法)**: A principle that treats negotiation and renewal of freedom/otherness as the core of law.
+- **Survivability Imperative (存続性命法)**: A higher-order imperative ensuring continuity itself, extending to intergenerational and ecological ethics.
+
+----
+
 
 # 交渉リベラリズムと不定言命法の倫理
 
-### ──更新可能性と存続性命法
+### ──更新と存続の倫理
 
 ---
 
