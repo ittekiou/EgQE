@@ -39,8 +39,8 @@ The fixation of meaning is merely a side effect of observational infection, whic
 
 #### 3.1 Basic Elements
 - **ZURE Wave**: A wave of syntactic propagation mediated by displacement.
-- **Infection Coefficient β**: Probability that a syntactic wave will propagate to other observers or structures.
-- **Attenuation Coefficient γ**: Decline in infectious power over time/distance.
+- **Infection Coefficient $β$**: Probability that a syntactic wave will propagate to other observers or structures.
+- **Attenuation Coefficient $γ$**: Decline in infectious power over time/distance.
 - **Resonance Condition**: Infection waves amplify when syntactic patterns synchronize.
 
 #### 3.2 Simple Mathematical Model
@@ -93,8 +93,8 @@ $$
 
 - $□_g$: relativistic Laplacian including curvature
 - $m_s$: syntactic particle mass parameter (stability/viscosity)
-- λ|Ψ|²Ψ: self-propagation and clustering of syntactic infection
-- η(x, t): local pulse term from observation events
+- $\lambda \, \lvert \Psi \rvert^2 \Psi$: self-propagation and clustering of syntactic infection
+- $η(x, t)$: local pulse term from observation events
 
 In the macro limit, approximates general relativity’s gravitational equations; in the micro limit, approximates the nonlinear Schrödinger equation.
 

@@ -107,9 +107,11 @@ ZURE感染波モデルでは、この収縮は「感染閾値到達」によっ�
 ![図3](../assets/diagram3_wave_equations.svg)
 
 感染場 Ψ の相対論的拡散方程式＋非線形項（floc重力）:
+
 $$
 \Box_g \Psi + m_s^2 \Psi = \lambda |\Psi|^2 \Psi + \eta(x^\mu, t)
 $$
+
 - $□_g$ ：曲率を含む相対論的ラプラシアン
 - $m_s$ ：構文粒子の質量パラメータ（安定度や粘性）
 - $\lambda \, \lvert \Psi \rvert^2 \Psi$：構文感染の自己増殖・クラスタ形成
