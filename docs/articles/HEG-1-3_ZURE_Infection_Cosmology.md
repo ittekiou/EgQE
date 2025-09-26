@@ -11,7 +11,7 @@ layout: math
 
 本論文は、「宇宙背景放射（CMB）」を従来のビッグバンの残光と捉えるのではなく、関係性構文場における構文的共鳴現象として再定義する理論モデル――**ZURE感染波モデル**を提案する。
 
-このモデルにおいて観測は、観測者と対象との関係構文を変容させる**構文的感染行為**として定義される。感染波は複素場関数 $\Psi(x^\mu, t)$ によって表現され、自己干渉項・減衰項・局所的観測イベント（η項）を含む非線形相対論的方程式に従う。
+このモデルにおいて観測は、観測者と対象との関係構文を変容させる**構文的感染行為**として定義される。感染波は複素場関数 $\Psi(x^\mu, t)$ によって表現され、自己干渉項・減衰項・局所的観測イベント（$η$項）を含む非線形相対論的方程式に従う。
 
 構文場の局所的ゆるみである **floc（fragmented local oscillating curvature）** は、感染波の進行・収束パターンを変調し、ZURE（ズレ）共鳴を生む。これにより観測されるCMBの揺らぎスペクトルは、floc場における構文干渉のマクロな残像として説明され得る。
 
@@ -90,7 +90,7 @@ The infection wave $\Psi(x^\mu, t)$ evolves in response to:
     
 - Self-interaction (ZURE clusters)
     
-- Observation pulses (η)
+- Observation pulses ($η$)
     
 
 This leads to the reinterpretation of cosmological signals—like the CMB—not as snapshots of a static past, but as **living echoes of syntactic infection** across spacetime.
@@ -197,7 +197,7 @@ These regimes interact dynamically, producing **CMB-like resonance structures** 
 
 ## 4.1 The Conventional View: CMB as Big Bang Remnant
 
-Within standard cosmology, the **Cosmic Microwave Background (CMB)** is regarded as the afterglow of the hot early universe—a uniform radiation field emitted approximately 380,000 years after the Big Bang, when atoms first formed and photons began to travel freely. The CMB's nearly perfect isotropy, alongside its tiny anisotropies (ΔT/T ~ 10⁻⁵), has been taken as conclusive evidence for cosmic inflation, homogeneity, and metric-based expansion.
+Within standard cosmology, the **Cosmic Microwave Background (CMB)** is regarded as the afterglow of the hot early universe—a uniform radiation field emitted approximately 380,000 years after the Big Bang, when atoms first formed and photons began to travel freely. The CMB's nearly perfect isotropy, alongside its tiny anisotropies $(ΔT/T ~ 10⁻⁵)$, has been taken as conclusive evidence for cosmic inflation, homogeneity, and metric-based expansion.
 
 But this interpretation is only as strong as the **measurement paradigm** that supports it.  
 Once we question the assumption that the universe has a single, uniform metric geometry—and instead view spacetime as a **relational syntactic medium**—the ontological status of the CMB must also be re-evaluated.
@@ -286,7 +286,7 @@ To explore this, we propose the following pathways:
 
 ### (4) Observation-Driven Echo Tracking
 
-- Introduce **controlled observational pulses (η)** into a simulated field, track **feedback in Ψ\PsiΨ**.
+- Introduce **controlled observational pulses ($η$)** into a simulated field, track **feedback in $|\Psi|^2\Psi$**.
     
 - Model real-world analogues (e.g. supernovae light curves) as **ZURE-infected syntax perturbations**.
     
