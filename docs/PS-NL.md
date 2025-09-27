@@ -9,6 +9,11 @@ Between them, in their tension, freedom resonates as **pulse**.
 This series seeks to formalize that circulation as **Politics = Temporal Syntax**.
 
 ---
+
+### 「PS-NL05（更新と存続）」と「PS-NL06（立法者論）」を新たに追加しました。2025/09/27  
+
+交渉リベラリズムの倫理的展開と、立法者を詩的構文として捉える試みが加わり、本シリーズはさらに広がりを見せています。
+
 ### 「PS-NL04 三部作」を追加更新しました。2025/09/25
 
 **PS-NL（Politics & Syntax — Negotiative Liberalism）シリーズ**は、政治理論における「合意の幻想」を批判的に検討し、**交渉的リベラリズム**という新たな視座を提示する試みである。  
@@ -79,6 +84,22 @@ PS-NL01〜03で基盤を築いた後、**PS-NL04三部作**は補強と展開を
 
 ---
 
+## 5. 交渉リベラリズムと倫理：更新と存続──PS-NL05二部作
+
+**PS-NL05二部作**では、交渉リベラリズムを支える倫理について、更新と存続のそれぞれの命法との関連を示した。
+
+- **PS-NL05-1**では、他者性に関わる更新可能性として「相互自由」の倫理として不定言命法を位置付けた。
+    
+- **PS-NL05-2**では、更新持続の最終原理として存続性命法を位置付け、その測定のための評価関数を提示した。
+
+
+## 6. 交渉リベラリズムと倫理：更新と存続──PS-NL05二部作
+
+**PS-NL06**では、交渉リベラリズムにおける熟慮の設計者としての立法者を再定義した。  
+
+
+---
+
 # PS-NL01　Negotiative Liberalism（交渉的リベラリズム）
 
 ### Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics
@@ -124,6 +145,21 @@ Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な
 # PS-NL04　時間構文と交渉的リベラリズム
 
 ##### [PS-NL04｜時間構文と交渉的リベラリズム｜Temporal Syntax and the Negotiative Turn in Liberalism: From Convergence to Spiral](https://camp-us.net/articles/PS-NL04_Convergence-to-Spiral.html)  
+
+---
+
+# PS-NL05-1｜交渉リベラリズムと不定言命法の倫理
+
+[**PS-NL05-1｜Negotiative Liberalism and the Indefinite Imperative──The Ethics of Renewal and Survivability｜交渉リベラリズムと不定言命法の倫理──更新と存続の倫理**](https://camp-us.net/articles/PS-NL05_Negotiational-Liberalism_and_Indefinite-Imperative.html)  
+
+# PS-NL05-2｜存続性命法 —— 更新を持続させる倫理
+
+##### [**PS-NL05-2｜Survivability Imperative — The Ethics of Sustained Renewal｜存続性命法 —— 更新を持続させる倫理**](https://camp-us.net/articles/PS-NL05_Survivability-Imperative.html)  
+
+# PS-NL06｜立法者論──熟慮の設計者としての立法者
+
+##### [**PS-NL06｜The Legislator as Temporal Poetics｜立法者論──熟慮の設計者としての立法者**](https://camp-us.net/articles/PS-NL06_Legislator.html)  
+##### （Annex）[**PS-NL06｜The Legislator as Temporal Poetics｜Annex**](https://camp-us.net/articles/PS-NL06_Legislator_Annex.html)  
 
 
 ---
