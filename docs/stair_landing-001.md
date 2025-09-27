@@ -69,7 +69,7 @@ future minds may seek generation itself—by following the fossils of traces._
 
 ---
 
-👉 参考：  
+👉 参考：ホモ・サピエンス脳からAI脳へ  
 
 - 脳の進化史 [note記事](https://note.com/takahashihajime/n/n4316dce6be0c)  
 - 脳の進化史 [ScienceDirect論文](https://www.sciencedirect.com/science/article/pii/S0168010219304882)
