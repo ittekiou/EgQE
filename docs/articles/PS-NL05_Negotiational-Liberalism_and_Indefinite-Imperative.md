@@ -1,4 +1,4 @@
-# PS-NL05｜Negotiative Liberalism and the Indefinite Imperative
+# PS-NL05-1｜Negotiative Liberalism and the Indefinite Imperative
 
 ### ──The Ethics of Renewal and Survivability
 
@@ -64,7 +64,7 @@ Together, the dual axes of the **Indefinite Imperative** and the **Survivability
 ----
 
 
-# 交渉リベラリズムと不定言命法の倫理
+# PS-NL05-1｜交渉リベラリズムと不定言命法の倫理
 
 ### ──更新と存続の倫理
 

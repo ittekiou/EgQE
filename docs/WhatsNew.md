@@ -14,7 +14,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2025/09/27  
-[**PS-NL05｜Negotiative Liberalism and the Indefinite Imperative──The Ethics of Renewal and Survivability｜交渉リベラリズムと不定言命法の倫理──更新と存続の倫理**](https://camp-us.net/articles/PS-NL05_Negotiational-Liberalism_and_Indefinite-Imperative.html) 
+[**PS-NL05-1｜Negotiative Liberalism and the Indefinite Imperative──The Ethics of Renewal and Survivability｜交渉リベラリズムと不定言命法の倫理──更新と存続の倫理**](https://camp-us.net/articles/PS-NL05_Negotiational-Liberalism_and_Indefinite-Imperative.html) 
+[**PS-NL05-2｜Survivability Imperative — The Ethics of Sustained Renewal｜存続性命法 —— 更新を持続させる倫理**](https://camp-us.net/articles/PS-NL05_Survivability-Imperative.html)  
+[**PS-NL06｜The Legislator as Temporal Poetics｜立法者論──熟慮の設計者としての立法者**](https://camp-us.net/articles/PS-NL06_Legislator.html)   
 ###### 2025/09/26  
 [**HEG-3｜From Semiotics to SAT：記号作用の主体の定位── 記号論からSAT（Sign Act Theory）へ**](https://camp-us.net/articles/HEG-3_Semiotics-to-SAT.html)  
 ###### 2025/09/25  
