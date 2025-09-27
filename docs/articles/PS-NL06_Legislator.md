@@ -310,7 +310,7 @@ where incompletion is not failure but durability.
 
 ---
 
-📎 _Reference_: [Annex Draft Version (PS-NL06_Legislator_draft)](https://camp-us.net/articles/PS-NL06_Legislator_draft.html)
+📎 _Reference_: [Annex Draft Version](https://camp-us.net/articles/PS-NL06_Legislator_Annex.html)
 
 ---
 
@@ -374,6 +374,6 @@ where incompletion is not failure but durability.
 
 ---
 
-📎 _参照_:  [Annex Draft Version (PS-NL06_Legislator_draft)](https://camp-us.net/articles/PS-NL06_Legislator_draft.html)
+📎 _参照_:  [Annex Draft Version](https://camp-us.net/articles/PS-NL06_Legislator_Annex.html)
 
 ---
