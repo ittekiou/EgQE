@@ -7,9 +7,9 @@
 ---
 ## 基軸論文・関連論文
 
-#### [基軸論文・関連論文｜踊り場001｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer_full.html)
+### [基軸論文・関連論文｜踊り場001｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer_full.html)
 ## 全リスト
-#### [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer.html)  
+### [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer.html)  
 
 --- 
 
