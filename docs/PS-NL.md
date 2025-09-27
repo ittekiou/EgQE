@@ -9,11 +9,11 @@ Between them, in their tension, freedom resonates as **pulse**.
 This series seeks to formalize that circulation as **Politics = Temporal Syntax**.
 
 ---
-
 ### 「PS-NL05（更新と存続）」と「PS-NL06（立法者論）」を追加。2025/09/27  
 
 交渉リベラリズムの倫理的展開と、立法者を詩的構文として捉える試みが加わり、本シリーズはさらに広がりを見せています。
 
+---
 ### 「PS-NL04 三部作」を追加更新しました。2025/09/25
 
 **PS-NL（Politics & Syntax — Negotiative Liberalism）シリーズ**は、政治理論における「合意の幻想」を批判的に検討し、**交渉的リベラリズム**という新たな視座を提示する試みである。  
