@@ -250,7 +250,7 @@
 
 ──政治は詩となり、倫理は響きとなる  
 
-_**Res publica iterum oritur.**_
+##### _**Res publica iterum oritur.**_
 
 ---
 © 2025 K.E. Itekki  
