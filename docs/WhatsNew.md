@@ -13,6 +13,10 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/09/28  
+[**PS-NL07｜Responsibility Theory ── Self-Referential Syntax and Negotiation Liberalism｜責任論──自己言及構文と交渉リベラリズム**](https://camp-us.net/articles/PS-NL07_Responsibility.html)  
+[**PS-NL07｜責任論──自己言及構文と交渉リベラリズム（死者責任論を含む）**](https://camp-us.net/articles/PS-NL07_Responsibility_ext.html)  
+[**PS-NL08｜交渉としての政治──合意幻想から責任空間へ**](https://camp-us.net/articles/PS-NL08_Responsibility-Space.html)  
 ###### 2025/09/27  
 [**PS-NL05-1｜Negotiative Liberalism and the Indefinite Imperative──The Ethics of Renewal and Survivability｜交渉リベラリズムと不定言命法の倫理──更新と存続の倫理**](https://camp-us.net/articles/PS-NL05_Negotiational-Liberalism_and_Indefinite-Imperative.html)  
 [**PS-NL05-2｜Survivability Imperative — The Ethics of Sustained Renewal｜存続性命法 —— 更新を持続させる倫理**](https://camp-us.net/articles/PS-NL05_Survivability-Imperative.html)  

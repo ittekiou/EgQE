@@ -166,12 +166,12 @@ Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な
 
 # PS-NL07　責任論──自己言及構文と交渉リベラリズム
 ##### （Reference Edition）[PS-NL07｜Responsibility Theory ── Self-Referential Syntax and Negotiation Liberalism｜責任論──自己言及構文と交渉リベラリズム](https://camp-us.net/articles/PS-NL07_Responsibility.html)  
-##### （日本語拡張版）[PS-NL07｜責任論──自己言及構文と交渉リベラリズム（死者責任論を含む）](https://camp-us.net/articles/PS-NL07_Responsibility_ext.html)
+##### （日本語拡張版）[PS-NL07｜責任論──自己言及構文と交渉リベラリズム（死者責任論を含む）](https://camp-us.net/articles/PS-NL07_Responsibility_ext.html)  
 
 
 # PS-NL08｜交渉としての政治──合意幻想から責任空間へ
 
-[**PS-NL08｜交渉としての政治──合意幻想から責任空間へ**](https://camp-us.net/articles/PS-NL08_Responsibility-Space.html)  
+##### [**PS-NL08｜交渉としての政治──合意幻想から責任空間へ**](https://camp-us.net/articles/PS-NL08_Responsibility-Space.html)  
 
 
 
