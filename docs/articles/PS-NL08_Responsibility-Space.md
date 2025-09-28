@@ -95,7 +95,7 @@
 
 ### 小括
 
-この俯瞰図によって明らかになるのは、合意モデルが「責任不要の閉鎖空間」であるのに対し、交渉モデルは「責任を要請する開放空間」であるという対比である。次章では、この開放空間を「責任空間」として定義し、交渉リベラリズムの原理的な基盤を提示する。
+この俯瞰図によって明らかになるのは、合意モデルが「責任不要の閉鎖空間」であるのに対し、交渉モデルは「責任を要請する開放空間」であるという対比である。次章では、この開放空間を「責任空間」として定義し、交渉リベラリズムの原理的な基盤を提示する。  
 
 ---
 
@@ -169,6 +169,17 @@
     
 - **個人よりも関係を基礎とする**：主体は孤立して存在せず、常に他者との関係において責任を負う。
     
+
+|                 | Deliberative Democracy               | Negotiated Liberalism                        |
+| --------------- | ------------------------------------ | -------------------------------------------- |
+| **Category**    | **Agreement Model**                  | **Negotiation Model**                        |
+| **Axis**        | Space                                | Time                                         |
+| **Knowledge**   | Theoretical / Ideational             | Practical / Experiential                     |
+| **Orientation** | Present-oriented                     | Future-oriented                              |
+| **Focus**       | Result-focused                       | Possibility-focused                          |
+| **Logic**       | Falsificationism / Objectivity       | Logic of Renewal / Subjectivity              |
+| **Future**      | Simplification / Uniformity          | Complexification / Diversity                 |
+| **Consensus**   | Maximum Consensus (Forced Agreement) | Minimum Consensus (Minimum Viable Agreement) |
 
 ### 4. 責任論の再定義
 
