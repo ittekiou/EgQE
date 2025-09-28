@@ -6,12 +6,12 @@ layout: math
 
 ---
 ## 略号
-- Φ：生成全体（generative totality）
-- 𝒪_Z：痕跡作用素（ZUREフィルター, trace operator）
-- Z_itself：ZUREそのもの（the unobservable layer）
-- Z_trace：痕跡としてのZURE（the observable layer）
-- x_obs：観測値（observed value）
-- x_theory：理論値（theoretical prediction）
+- $Φ$：生成全体（generative totality）
+- $𝒪_Z$：痕跡作用素（ZUREフィルター, trace operator）
+- $Z_{itself}$：ZUREそのもの（the unobservable layer）
+- $Z_{trace}$：痕跡としてのZURE（the observable layer）
+- $x_{obs}$：観測値（observed value）
+- $x_{theory}$：理論値（theoretical prediction）
 
 ## 定義
 - **ZUREそのもの**  
@@ -28,7 +28,7 @@ layout: math
   Z_{trace} = x_{obs} - x_{theory}
   $$
 
-- **痕跡作用素 𝒪_Z**  
+- **痕跡作用素 $𝒪_Z$**  
   生成全体Φから痕跡領域を切り出す作用。  
   特性：可測性・連続性・非線形可能性
 
@@ -76,7 +76,7 @@ $$
 *ZUREそのもの*は光と影のあいだにある**未聞の拍**のようなものである。
 
 ![Figure1](../assets/ZURE_Two-Layer-Model.png)
-*図1. ZUREそのもの = 不可観測の余白 (Φ − O_Z(Φ)).*
+*図1. ZUREそのもの = 不可観測の余白 $(Φ − O_Z(Φ))$.*
 
 ---
 
@@ -104,7 +104,7 @@ $$
 *痕跡としてのZURE*は**時間の化石**である。生成の瞬間の固定された刻印。
 
 ![Figure2](../assets/ZURE_2LM-Scientific.png)
-*図2. 痕跡としてのZURE = 観測偏差 (x_obs − x_theory).*
+*図2. 痕跡としてのZURE = 観測偏差 $(x_{obs} − x_{theory})$.*
 
 ---
 

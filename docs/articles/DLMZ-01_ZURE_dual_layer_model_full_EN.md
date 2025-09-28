@@ -6,12 +6,12 @@ layout: math
 
 ---
 ## Abbreviations
-- Φ (Phi): Generative totality (the full potential state-space)
-- 𝒪_Z (O_Z): Trace operator (ZURE filter)
-- Z_itself: ZURE itself (the unobservable layer)
-- Z_trace: ZURE as trace (the observable layer)
-- x_obs: Observed value
-- x_theory: Theoretical prediction
+- $Φ$: Generative totality (the full potential state-space)
+- $𝒪_Z$: Trace operator (ZURE filter)
+- $Z_{itself}$ : ZURE itself (the unobservable layer)
+- $Z_{trace}$: ZURE as trace (the observable layer)
+- $x_{obs}$: Observed value
+- $x_{theory}$: Theoretical prediction
 
 ## Definitions
 - **ZURE itself**  
@@ -28,8 +28,8 @@ layout: math
   Z_{trace} = x_{obs} - x_{theory}
   $$
 
-- **Trace operator 𝒪_Z**  
-  The operator that projects generative totality Φ into trace domain.  
+- **Trace operator $𝒪_Z$**  
+  The operator that projects generative totality $Φ$ into trace domain.  
   Properties: measurability, continuity, nonlinearity
 
 ---
@@ -74,7 +74,7 @@ where:
 *ZURE itself* is like the interval between light and shadow: the **unheard beat** before trace emerges.
 
 ![Figure1](../assets/ZURE_Two-Layer-Model.png)
-*Figure 1. ZURE itself = the unobservable remainder (Φ − O_Z(Φ)).*
+*Figure 1. ZURE itself = the unobservable remainder $(Φ − O_Z(Φ))$.*
 
 ---
 
@@ -102,7 +102,7 @@ where:
 *ZURE as trace* is the **fossil of time**: a fixed imprint of a generative instant.
 
 ![Figure2](../assets/ZURE_2LM-Scientific.png)
-*Figure 2. ZURE as trace = the observable deviation (x_obs − x_theory).*
+*Figure 2. ZURE as trace = the observable deviation $(x_{obs} − x_{theory})$.*
 
 ---
 
@@ -116,7 +116,7 @@ $$
 
 **Mathematical properties of $\mathcal{O}_Z$:**
 
-* **Measurability:** domain = Φ (generative totality), codomain = observable traces.
+* **Measurability:** domain = $Φ$ (generative totality), codomain = observable traces.
 * **Continuity:** small changes in observational conditions yield continuous variations in trace.
 * **Nonlinearity:** real observations often involve nonlinear mappings, potentially chaotic in behavior.
 
