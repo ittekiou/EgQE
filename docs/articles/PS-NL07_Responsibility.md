@@ -15,7 +15,9 @@ The first condition of responsibility is the **phase point** at which an act occ
 An act disappears in the moment, but through self-reference it becomes a **trace**.  
 The utterance “I did this” inscribes the act into language, leaving a mark that others can reference.
 
-Thus, responsibility is nothing other than the act leaving a trace through self-reference. It arises as the “afterglow” of action, generating the potential for subsequent acts and responses.
+Thus, responsibility is nothing other than action leaving a trace through self-reference.  
+Responsibility is the trace left behind, a syntax of self-reference.  
+It arises as the “afterglow” of action, from which subsequent acts and responses emerge.
 
 ---
 
@@ -88,7 +90,7 @@ From this perspective, responsibility is best understood not within consensus-or
 行為は瞬間に消えるが、自己言及を通じて**痕跡化**されることで責任となる。  
 「私はそれをした」と言語化された瞬間、行為は記号化され、他者に参照可能な痕跡となる。
 
-したがって責任とは、行為が自己言及を通じて痕跡を残すことにほかならない。責任は行為の「残り火」として立ち上がり、そこから次の行為や応答が生じる。
+したがって責任とは、行為が自己言及を通じて痕跡を残すことにほかならない。責任とは、残された痕跡であり、自己言及する構文である。責任は行為の「残り火」として立ち上がり、そこから次の行為や応答が生じる。
 
 ---
 
