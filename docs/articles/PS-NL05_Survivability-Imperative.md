@@ -1,7 +1,7 @@
 ---
 layout: math
 ---
-# PS-NL05-2｜Survivability Imperative —— The Ethics of Sustained Renewal
+# PS-NL05-2｜Survivability Imperative ── The Ethics of Sustained Renewal
 
 ### Abstract
 
@@ -9,7 +9,7 @@ While the Indefinite Imperative (II) normativizes renewability, the Survivabilit
 
 ---
 
-## 0. Preamble —— Why SI after II?
+## 0. Preamble ── Why SI after II?
 
 The Indefinite Imperative (II) treated the tension between **freedom (pulse)** and **law (trace)** as the very engine of renewal. Yet renewal is fragile: if left unattended, it falters or collapses. Hence the need for the **Survivability Imperative (SI)**——a final safeguard that ensures the continuation of renewal itself. With SI, the ethical backbone of NL becomes dual:
 
@@ -205,14 +205,14 @@ The ethical demand is not perfection in each variable, but **the prevention of c
 
 ---
 
-# PS-NL05-2｜存続性命法 —— 更新を持続させる倫理
+# PS-NL05-2｜存続性命法 ── 更新を持続させる倫理
 
 ### **Abstract**  
 不定言命法（II）が「更新可能性」を倫理化するなら、存続性命法（SI）は“**更新が続くこと自体**”を最終原理に据える。世代間・生態系・AI共存の各次元で、更新の回路を絶やさない制度を要請する。
 
 ---
 
-## 0. Preamble —— Why SI after II?
+## 0. Preamble ── Why SI after II?
 
 II は「自由（拍）」と「法（痕跡）」の緊張を**更新**として受けとめる命法だった。だが更新は、放っておけば途切れる。ゆえに **SI —— 更新を継続させるための最終保証** が必要となる。これが NL の倫理背骨を二軸化し、政治＝時間構文を未来へ開く。
 

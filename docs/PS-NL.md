@@ -106,11 +106,9 @@ PS-NL01〜03で基盤を築いた後、**PS-NL04三部作**は補強と展開を
 
 #### Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論
 
-
 ##### （英語EgQE版）[PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
 ##### （英語Draft版）[PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_Draft.html)  
 ##### （日本語簡約版）[PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)  
-
 
 # PS-NL02　合意という幻影
 ### The Illusion of Consensus: ZURE Politics and Future Responsibility
@@ -138,9 +136,11 @@ Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な
 
 ##### [PS-NL04｜リベラリズムの系譜と「交渉的リベラリズム」の位置｜The Genealogy of Liberalism and the Position of Negotiative Liberalism](https://camp-us.net/articles/PS-NL04_Genealogy.html)  
 
+
 # PS-NL04　リベラリズムと寛容
 
 ##### [PS-NL04｜リベラリズムと寛容｜Liberalism and Tolerance in the Frame of Negotiative Liberalism](https://camp-us.net/articles/PS-NL04_Tolerance.html)  
+
 
 # PS-NL04　時間構文と交渉的リベラリズム
 
@@ -148,18 +148,31 @@ Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な
 
 ---
 
-# PS-NL05-1｜交渉リベラリズムと不定言命法の倫理
+# PS-NL05-1　交渉リベラリズムと不定言命法の倫理
 
 [**PS-NL05-1｜Negotiative Liberalism and the Indefinite Imperative──The Ethics of Renewal and Survivability｜交渉リベラリズムと不定言命法の倫理──更新と存続の倫理**](https://camp-us.net/articles/PS-NL05_Negotiational-Liberalism_and_Indefinite-Imperative.html)  
 
-# PS-NL05-2｜存続性命法 —— 更新を持続させる倫理
 
-##### [**PS-NL05-2｜Survivability Imperative — The Ethics of Sustained Renewal｜存続性命法 —— 更新を持続させる倫理**](https://camp-us.net/articles/PS-NL05_Survivability-Imperative.html)  
+# PS-NL05-2　存続性命法──更新を持続させる倫理
 
-# PS-NL06｜立法者論──熟慮の設計者としての立法者
+##### [**PS-NL05-2｜Survivability Imperative──The Ethics of Sustained Renewal｜存続性命法── 更新を持続させる倫理**](https://camp-us.net/articles/PS-NL05_Survivability-Imperative.html)  
+
+
+# PS-NL06　立法者論──熟慮の設計者としての立法者
 
 ##### [**PS-NL06｜The Legislator as Temporal Poetics｜立法者論──熟慮の設計者としての立法者**](https://camp-us.net/articles/PS-NL06_Legislator.html)  
 ##### （Annex）[**PS-NL06｜The Legislator as Temporal Poetics｜Annex**](https://camp-us.net/articles/PS-NL06_Legislator_Annex.html)  
+
+
+# PS-NL07　責任論──自己言及構文と交渉リベラリズム
+##### （Reference Edition）[PS-NL07｜Responsibility Theory ── Self-Referential Syntax and Negotiation Liberalism｜責任論──自己言及構文と交渉リベラリズム](https://camp-us.net/articles/PS-NL07_Responsibility.html)  
+##### （日本語拡張版）[PS-NL07｜責任論──自己言及構文と交渉リベラリズム（死者責任論を含む）](https://camp-us.net/articles/PS-NL07_Responsibility_ext.html)
+
+
+# PS-NL08｜交渉としての政治──合意幻想から責任空間へ
+
+[**PS-NL08｜交渉としての政治──合意幻想から責任空間へ**](https://camp-us.net/articles/PS-NL08_Responsibility-Space.html)  
+
 
 
 ---
