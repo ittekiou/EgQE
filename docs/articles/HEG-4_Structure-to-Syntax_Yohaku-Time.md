@@ -102,6 +102,8 @@ ZURE宣言はその象徴である：
 [HEG-2｜余白と生成──その系譜と新転回：生成原理としての余白── ZURE二層モデルからZURE宣言へ｜Yohaku and Genesis ── Genealogy and New Turn](https://camp-us.net/articles/HEG-2_Yohaku-and-Genesis.html)  
 - [**DLMZ-NL02｜余白論の新展開 ── ZURE二層モデルから交渉リベラリズムへ**](https://camp-us.net/articles/DLMZ-NL02_Yohaku.html)  
 
+[HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)   
+
 ##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 ##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 
