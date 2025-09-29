@@ -9,7 +9,7 @@
 
 ### Abstract
 
-This paper contrasts the **Agreement Model** that underlies deliberative democracy with a newly proposed **Negotiation Model**, grounded in the framework of Negotiation Liberalism. While deliberation aims for _maximum consensus_, emphasizing spatial stability, present-orientation, and theoretical reasoning, negotiation seeks _minimal agreement_ while preserving **maximum ZURE**—the productive role of non-coincidence and divergence. We redefine negotiation as a process of _updating through the interplay of traces (past) and margins (future)_, thereby opening a **responsibility space** in which silence, withdrawal, and non-negotiation are respected as legitimate modes of coexistence.
+This paper contrasts the **Agreement Model** that underlies deliberative democracy with a newly proposed **Negotiation Model**, grounded in the framework of Negotiational Liberalism. While deliberation aims for _maximum consensus_, emphasizing spatial stability, present-orientation, and theoretical reasoning, negotiation seeks _minimal agreement_ while preserving **maximum ZURE**—the productive role of non-coincidence and divergence. We redefine negotiation as a process of _updating through the interplay of traces (past) and margins (future)_, thereby opening a **responsibility space** in which silence, withdrawal, and non-negotiation are respected as legitimate modes of coexistence.
 
 **Keywords:** Negotiation Liberalism, ZURE, Minimal Agreement, Deliberative Democracy, Responsibility Space
 
