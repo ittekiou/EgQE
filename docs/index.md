@@ -56,6 +56,8 @@ _── Welcome to the syntactic field of ZURE._
 🔭 [Floc重力論｜Floc Gravity Theory](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  [Vol.1](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)   [Vol.2](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory-2.html)　リリース　2025.9.21  
 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](/PS-NL.md)　リリース　2025.9.24  
 🔣 [Syngenetics](https://camp-us.net/articles/HEG-3_Pragmatics-to-Syngenetics.html) × [SAT＝ Sign Act Theory](https://camp-us.net/articles/HEG-3_Semiotics-to-SAT.html)　記号論のパラダイム転回リリース　2025.9.26  
+🇺🇳 [すべての脳とZUREのための宣言](/DQCZ.md)　リリース　2025.9.29  
+
 
 ## 🔭 Overview  
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
