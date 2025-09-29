@@ -190,9 +190,7 @@ The genealogy shows a transition:
 ##### [DLMZ-NL01-2｜定言命法から不定言命法へ── 更新可能性の倫理へ](https://camp-us.net/articles/DLMZ-NL01-2_Action.html)  
 ##### [DLMZ-NL01-3｜反証主義から更新主義へ── 科学哲学の時間転回](https://camp-us.net/articles/DLMZ-NL01-3_Trace.html)  
 
-
 ---
-
 ## 参照文献
 
 [螺旋としての時間──記号的宿命としての _Pulse Spirals_](https://camp-us.net/ATT-PS.html)  
