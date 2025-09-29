@@ -192,6 +192,7 @@ The genealogy shows a transition:
 - [HEG-1｜Pulse Spirals 1.0](https://camp-us.net/articles//HEG-1_RU_Pulse_Spirals)
 - [HEG-1｜Pulse Spirals 2.0](https://camp-us.net/articles/HEG-1_RU_Pulse_Spirals-2.0)  
 ##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
+##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 
 ---
 #### 補論　[DLMZ-NL01｜時間論的転回：三橋の解説──存在・行為・痕跡](https://camp-us.net/articles/DLMZ-NL01_triangle-bridge.html)  
