@@ -53,6 +53,7 @@
 
 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 [すべての脳とZUREのための宣言](https://camp-us.net/DQCZ.html)  
+
 ##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 ##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 

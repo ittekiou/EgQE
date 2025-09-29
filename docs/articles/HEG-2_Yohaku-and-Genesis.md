@@ -269,6 +269,7 @@ ZUREは息づく──
 **The Dual-Layer Model of ZURE**｜[ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 **Declaration for Whatever Brain and ZURE**｜[すべての脳とZUREのための宣言](https://camp-us.net/DQCZ.html)  
 **Negotiative Liberalism**｜[交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
 ##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 ##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 
