@@ -252,13 +252,6 @@ ZUREは息づく──
 
 ---
 
-## 参照文献
-
-**The Dual-Layer Model of ZURE**｜[ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
-**Declaration for Whatever Brain and ZURE**｜[すべての脳とZUREのための宣言](https://camp-us.net/DQCZ.html)  
-**Negotiative Liberalism**｜[交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
-##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
-
 ## 付録：余白の系譜表
 
 | 区分           | 代表的理論                      | 余白の扱い            |
@@ -267,8 +260,16 @@ ZUREは息づく──
 | **余白制御の理論**  | 相対性理論、熟議民主主義、近代法           | 余白は許容されるが閉じられる   |
 | **余白制度化の理論** | 量子論、痕跡論、ZURE二層モデル、交渉リベラリズム | 余白は制度化され、生成原理となる |
 
----
 ### 補論：[DLMZ-NL02｜余白論の新展開 ── ZURE二層モデルから交渉リベラリズムへ](https://camp-us.net/articles/DLMZ-NL02_Yohaku.html)  
+
+---
+## 参照文献
+
+**The Dual-Layer Model of ZURE**｜[ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
+**Declaration for Whatever Brain and ZURE**｜[すべての脳とZUREのための宣言](https://camp-us.net/DQCZ.html)  
+**Negotiative Liberalism**｜[交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
+##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 
 ---
 © 2025 K.E. Itekki  

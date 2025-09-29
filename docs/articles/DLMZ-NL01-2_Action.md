@@ -48,8 +48,8 @@ HEG-1の系譜が明らかにしたのは、時間は「不可逆な更新」で
 - [TR-02｜信頼の瞬間──無限ループAIとオオカミ少年の寓話](https://camp-us.net/articles/TR-02_A-Moment-of-Trust.html)  
 - [EII-01｜主客一致から主客共振へ ― 倫理思想の三段階](https://camp-us.net/articles/EII-01_From-Unity-to-Resonance.html)  
 - [存続性命法｜Survivability Imperative(実装仕様 v1.1)](https://camp-us.net/PS-02_SI)
-##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 ##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
+##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 
 ---
 © 2025 K.E. Itekki  

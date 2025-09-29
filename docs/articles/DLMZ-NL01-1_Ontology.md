@@ -48,6 +48,7 @@ ZURE存在論は、その未来への入り口を開く。
 [HEG-3｜ZURE存在論](https://camp-us.net/articles/HEG-3_ZURE-Ontology.html)  
 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 [螺旋としての時間──記号的宿命としての _Pulse Spirals_](https://camp-us.net/ATT-PS.html)  
+##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 ##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 
 

@@ -60,8 +60,8 @@ ZURE感染宇宙論は、時間を「不可逆の更新」として捉え、そ�
 - [ZQ004｜反証可能性と構文の檻](https://camp-us.net/articles/ZQ004_Syntax-Cage.html)  
 - [ZQ004｜反証可能性の変質と知の多様性](https://camp-us.net/articles/ZQ004_Syntax-Falsifiability.html)  
 - [ZQ004｜反証不可能な檻の外──AIと語る科学主義の限界](https://camp-us.net/articles/ZQ004_Unfalsifiable_Dialogue.html)  
-##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 ##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
+##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 
 ---
 © 2025 K.E. Itekki  

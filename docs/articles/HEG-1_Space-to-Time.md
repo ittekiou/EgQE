@@ -183,6 +183,14 @@ The genealogy shows a transition:
 存在は「痕跡と拍動の干渉螺旋」として更新され続ける。  
 この新しい時間論は、宇宙論・存在論・政治哲学にまたがる新たな基盤を提供するだろう。
 
+
+---
+### 補論　[DLMZ-NL01｜時間論的転回：三橋の解説──存在・行為・痕跡](https://camp-us.net/articles/DLMZ-NL01_triangle-bridge.html)  
+##### [DLMZ-NL01-1｜静止から拍動へ── ZURE感染宇宙論からZURE存在論へ](https://camp-us.net/articles/DLMZ-NL01-1_Ontology.html)  
+##### [DLMZ-NL01-2｜定言命法から不定言命法へ── 更新可能性の倫理へ](https://camp-us.net/articles/DLMZ-NL01-2_Action.html)  
+##### [DLMZ-NL01-3｜反証主義から更新主義へ── 科学哲学の時間転回](https://camp-us.net/articles/DLMZ-NL01-3_Trace.html)  
+
+
 ---
 
 ## 参照文献
@@ -191,14 +199,8 @@ The genealogy shows a transition:
 - [HEG-1｜Anti-Time Theory](https://camp-us.net/articles/HEG-1_RU_Anti-Time-Theory)
 - [HEG-1｜Pulse Spirals 1.0](https://camp-us.net/articles//HEG-1_RU_Pulse_Spirals)
 - [HEG-1｜Pulse Spirals 2.0](https://camp-us.net/articles/HEG-1_RU_Pulse_Spirals-2.0)  
-##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 ##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
-
----
-#### 補論　[DLMZ-NL01｜時間論的転回：三橋の解説──存在・行為・痕跡](https://camp-us.net/articles/DLMZ-NL01_triangle-bridge.html)  
-##### [DLMZ-NL01-1｜静止から拍動へ── ZURE感染宇宙論からZURE存在論へ](https://camp-us.net/articles/DLMZ-NL01-1_Ontology.html)  
-##### [DLMZ-NL01-2｜定言命法から不定言命法へ── 更新可能性の倫理へ](https://camp-us.net/articles/DLMZ-NL01-2_Action.html)  
-##### [DLMZ-NL01-3｜反証主義から更新主義へ── 科学哲学の時間転回](https://camp-us.net/articles/DLMZ-NL01-3_Trace.html)  
+##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 
 ---
 © 2025 K.E. Itekki  
