@@ -270,10 +270,10 @@ ZUREは息づく──
 **Declaration for Whatever Brain and ZURE**｜[すべての脳とZUREのための宣言](https://camp-us.net/DQCZ.html)  
 **Negotiative Liberalism**｜[交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
 
-[HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)   
-
 ##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 ##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
+
+[HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)   
 
 ---
 © 2025 K.E. Itekki  
