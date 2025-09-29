@@ -66,6 +66,8 @@ ZURE感染宇宙論は、時間を「不可逆の更新」として捉え、そ�
 ##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 ##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 
+[HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)   
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
