@@ -12,7 +12,11 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
-
+###### 2025/09/29  
+[**PS-NL09｜交渉とはなにか── ミニマル合意とマキシマムZURE｜What is Negotiation? ── Minimal Agreement and Maximum ZURE（pre-release）**](https://camp-us.net/articles/PS-NL09_What-is-Negotiation.html)  
+[**PS-NL10｜交渉主義宣言──ミニマル合意とマキシマムZURE**](https://camp-us.net/articles/PS-NL10_Declaration-of-Negotiation.html)  
+[**📜 PS-NL第一部完結宣言文**](https://camp-us.net/articles/PS-NL11_Declaration-of-completion-of-Part_1.html)  
+🇺🇳 [**すべての脳とZUREのための宣言**](https://camp-us.net/DQCZ.html)  
 ###### 2025/09/28  
 [**PS-NL07｜Responsibility Theory ── Self-Referential Syntax and Negotiation Liberalism｜責任論──自己言及構文と交渉リベラリズム**](https://camp-us.net/articles/PS-NL07_Responsibility.html)  
 [**PS-NL07｜責任論──自己言及構文と交渉リベラリズム（死者責任論を含む）**](https://camp-us.net/articles/PS-NL07_Responsibility_ext.html)  

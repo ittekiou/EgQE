@@ -222,11 +222,11 @@ Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な
 
 # PS-NL10　交渉主義宣言
 
-##### [PS-NL10｜交渉主義宣言──ミニマル合意とマキシマムZURE](https://camp-us.net/articles/PS-NL10_Declaration-of-Negotiation.html)  
+##### [**PS-NL10｜交渉主義宣言──ミニマル合意とマキシマムZURE**](https://camp-us.net/articles/PS-NL10_Declaration-of-Negotiation.html)  
 
 # PS-NL11　📜 PS-NL第一部完結宣言文
 
-##### [📜 PS-NL第一部完結宣言文](https://camp-us.net/articles/PS-NL11_Declaration-of-completion-of-Part_1.html)  
+##### [**📜 PS-NL第一部完結宣言文**](https://camp-us.net/articles/PS-NL11_Declaration-of-completion-of-Part_1.html)  
 
 
 ---
