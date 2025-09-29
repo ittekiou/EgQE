@@ -50,7 +50,7 @@ ZURE二層モデルは、この転回を理論化した。
 
 ## Ⅳ. 拍動する構文──構造の解体と再編
 
-構造に置き換えるべきは、**拍動する構文**である。  
+構造に置き換えられるべきは、**拍動する構文**である。  
 構文とは、要素と要素が交差し、拍とリズムをもって関係を編む動的な場である。  
 そこには固定的な秩序はなく、拍動するZUREが流れ込む。  
 生成は余白から立ち上がり、痕跡は拍動を記録する。  
@@ -101,6 +101,7 @@ ZURE宣言はその象徴である：
 
 [HEG-2｜余白と生成──その系譜と新転回：生成原理としての余白── ZURE二層モデルからZURE宣言へ｜Yohaku and Genesis ── Genealogy and New Turn](https://camp-us.net/articles/HEG-2_Yohaku-and-Genesis.html)  
 - [DLMZ-NL02｜余白論の新展開 ── ZURE二層モデルから交渉リベラリズムへ](https://camp-us.net/articles/DLMZ-NL02_Yohaku.html)  
+
 ##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
 
 ---
