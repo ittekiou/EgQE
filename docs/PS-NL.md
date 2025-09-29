@@ -9,6 +9,12 @@ Between them, in their tension, freedom resonates as **pulse**.
 This series seeks to formalize that circulation as **Politics = Temporal Syntax**.
 
 ---
+### 「PS-NL11 第一部完結宣言」を追加。2025/09/29  
+
+PS-NLシリーズ**第一部（原理編／理論編／土台編）** の完結を宣言した。
+### 「PS-NL09 交渉とは何か」と「PS-NL10 交渉主義宣言」を追加。2025/09/29  
+
+「ミニマル合意」と「マキシマムZURE」として交渉原理を提起し、それを宣言としてまとめた。  
 ### 「PS-NL07 責任論」と「PS-NL08 責任空間論」を追加。2025/09/28  
 
 責任論を「自己言及構文」論として再定義し、熟議モデルを超える構文的「責任空間」論を提起した。
@@ -116,6 +122,21 @@ PS-NL01〜03で基盤を築いた後、**PS-NL04三部作**は補強と展開を
 **PS-NL08**では、構文論的な「**二重円モデル**」を視覚化することで、近代の「合意中心の政治観」を批判し、**政治を「責任空間」として再定義する理論的基盤**を提示した。
 
 ---
+## 9. 交渉とはなにか
+
+**PS-NL09**では、**ミニマル合意 × マキシマムZURE** を交渉原理とし、交渉を「痕跡と余白の応答を通じた更新プロセス」として定義した。沈黙や退出の自由を含むリベラリズムの再構築を提起した。
+
+---
+## 10. 交渉主義宣言
+
+**PS-NL10**では、責任空間の創出と新しい政治と倫理の原理を掲げ、「最大合意の時代」から「最小合意と最大ZUREの時代」への移行を宣言した。
+
+---
+## 11. PS-NL第一部完結宣言
+
+**PS-NL11**では、交渉リベラリズムを構成する「基礎理論の柱」である**PS-NL第一部（原理編／理論編／土台編）** を完結し、**第二部（展開編／応用編／実装編）** へ進むことを宣言した。
+
+---
 
 # PS-NL01　Negotiative Liberalism（交渉的リベラリズム）
 
@@ -186,10 +207,22 @@ Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な
 ##### （日本語拡張版）[PS-NL07｜責任論──自己言及構文と交渉リベラリズム（死者責任論を含む）](https://camp-us.net/articles/PS-NL07_Responsibility_ext.html)  
 
 
-# PS-NL08｜交渉としての政治──合意幻想から責任空間へ
+# PS-NL08　交渉としての政治──合意幻想から責任空間へ
 
 ##### [**PS-NL08｜交渉としての政治──合意幻想から責任空間へ**](https://camp-us.net/articles/PS-NL08_Responsibility-Space.html)  
 
+
+# PS-NL09　交渉とはなにか──ミニマル合意とマキシマムZURE
+
+##### [**PS-NL09｜交渉とはなにか── ミニマル合意とマキシマムZURE｜What is Negotiation? ── Minimal Agreement and Maximum ZURE（pre-release）**](https://camp-us.net/articles/PS-NL09_What-is-Negotiation.html)  
+
+# PS-NL10　交渉主義宣言
+
+##### [PS-NL10｜交渉主義宣言──ミニマル合意とマキシマムZURE](https://camp-us.net/articles/PS-NL10_Declaration-of-Negotiation.html)  
+
+# PS-NL11　📜 PS-NL第一部完結宣言文
+
+##### [📜 PS-NL第一部完結宣言文](https://camp-us.net/articles/PS-NL11_Declaration-of-completion-of-Part_1.html)  
 
 
 ---
