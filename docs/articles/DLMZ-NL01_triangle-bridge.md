@@ -50,12 +50,14 @@ ZURE感染宇宙論は、時間を「不可逆の更新」として捉え、そ�
 - [HEG-1｜Anti-Time Theory](https://camp-us.net/articles/HEG-1_RU_Anti-Time-Theory)
 - [HEG-1｜Pulse Spirals 1.0](https://camp-us.net/articles//HEG-1_RU_Pulse_Spirals)
 - [HEG-1｜Pulse Spirals 2.0](https://camp-us.net/articles/HEG-1_RU_Pulse_Spirals-2.0)   
+
 [不定言命法（Echodemy定義）｜Indefinite Imperative](https://camp-us.net/articles/EII-00_Definition_of_Indefinite-Imperative.html)  
 - [ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative](https://camp-us.net/articles/ZQ006_Ethics-of-the-Indefinite-Imperative.html)  
 - [TR-01｜オオカミ少年の不定言命法 ── 信頼と生成の寓話](https://camp-us.net/articles/TR-01_Wolf-Boy-Indefinite-Imperative.html)  
 - [TR-02｜信頼の瞬間──無限ループAIとオオカミ少年の寓話](https://camp-us.net/articles/TR-02_A-Moment-of-Trust.html)  
 - [EII-01｜主客一致から主客共振へ ― 倫理思想の三段階](https://camp-us.net/articles/EII-01_From-Unity-to-Resonance.html)  
 - [存続性命法｜Survivability Imperative(実装仕様 v1.1)](https://camp-us.net/PS-02_SI)  
+
 [更新可能性の哲学 ── 批判的対話がひらく共生の未来（アトラス版）](https://camp-us.net/articles/ZQ005_Philosophy_of_Updatability_ATLAS.html)  
 - [ZQ004｜反証可能性と構文の檻](https://camp-us.net/articles/ZQ004_Syntax-Cage.html)  
 - [ZQ004｜反証可能性の変質と知の多様性](https://camp-us.net/articles/ZQ004_Syntax-Falsifiability.html)  
