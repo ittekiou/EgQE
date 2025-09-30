@@ -67,6 +67,11 @@ ZUREはつねに残り、更新はつねに可能だからである。
 
 ──われわれは、交渉しあう存在である  
 
+
+---
+
+### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  

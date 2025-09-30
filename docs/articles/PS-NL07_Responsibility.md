@@ -145,6 +145,12 @@ From this perspective, responsibility is best understood not within consensus-or
 
 この視点から、責任は合意主義的規範論を超えて、**交渉リベラリズム**の制度的枠組みにおいて最もよく理解される。責任とは、過去と未来を繋ぐ痕跡であり、他者と交渉し続ける場であり、更新を前提にした構文そのものなのである。
 
+
+---
+
+#### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  

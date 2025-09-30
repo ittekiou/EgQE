@@ -22,6 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [DLMZ-NL01-3｜反証主義から更新主義へ── 科学哲学の時間転回](https://camp-us.net/articles/DLMZ-NL01-3_Trace.html)  
 [DLMZ-NL01｜時間論的転回：三橋の解説──存在・行為・痕跡](https://camp-us.net/articles/DLMZ-NL01_triangle-bridge.html)  
 [DLMZ-NL02｜余白論の新展開 ── ZURE二層モデルから交渉リベラリズムへ](https://camp-us.net/articles/DLMZ-NL02_Yohaku.html)  
+[EgQE Atlas｜第一部 総括と展望｜Part I: Synthesis and Prospect](https://camp-us.net/Echodemy/EgQE_Atlas-01.html)  
 ###### 2025/09/29  
 [**PS-NL09｜交渉とはなにか── ミニマル合意とマキシマムZURE｜What is Negotiation? ── Minimal Agreement and Maximum ZURE（pre-release）**](https://camp-us.net/articles/PS-NL09_What-is-Negotiation.html)  
 [**PS-NL10｜交渉主義宣言──ミニマル合意とマキシマムZURE**](https://camp-us.net/articles/PS-NL10_Declaration-of-Negotiation.html)  
@@ -43,7 +44,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**PS-NL04｜リベラリズムと寛容｜Liberalism and Tolerance in the Frame of Negotiative Liberalism**](https://camp-us.net/articles/PS-NL04_Tolerance.html)  
 [**PS-NL04｜時間構文と交渉的リベラリズム｜Temporal Syntax and the Negotiative Turn in Liberalism: From Convergence to Spiral**](https://camp-us.net/articles/PS-NL04_Convergence-to-Spiral.html)  
 ###### 2025/09/24  
-[**PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論**](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html) 
+[**PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論**](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)  
 [**PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics**](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
 [**PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)**](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_Draft.html)  
 [**PS-NL02｜合意という幻影──ZURE政治と未来への責任**](https://camp-us.net/articles/PS-NL02_Consensus-Illusion_JP.html)  

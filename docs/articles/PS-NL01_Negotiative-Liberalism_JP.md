@@ -118,6 +118,10 @@ ZURE存在論が示す基底構造、不定言命法が拓く倫理規範──�
 **注**　交渉的リベラリズム **Negotiative Liberalism** は、熟議的リベラリズムとは対照的な概念的なラベルとして用いる。一方で、学術的分析の文脈では **Negotiational Liberalism** を用い、必要に応じて _a.k.a. Negotiative Liberalism_ と併記する。
 
 ---
+
+#### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
+---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  

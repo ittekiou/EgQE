@@ -376,3 +376,16 @@ where incompletion is not failure but durability.
 📎 _参照_:  [Annex Draft Version](https://camp-us.net/articles/PS-NL06_Legislator_Annex.html)
 
 ---
+
+#### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 27, 2025 · Web Sep 27, 2025 |</p>

@@ -33,6 +33,10 @@
 _脚注：この「螺旋的時間」理解は、われわれの展開してきた **ZURE感染波モデル** や **反時間論** とも呼応している。差異や余白が解消されることなく持続し、拍動として世界を更新していくという観点において、両者は共鳴関係にある。_
 
 ---
+
+#### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
+---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  

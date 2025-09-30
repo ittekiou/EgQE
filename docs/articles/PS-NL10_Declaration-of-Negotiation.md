@@ -44,6 +44,10 @@
 本宣言をもって、我々は「最大合意の時代」から「最小合意と最大ZUREの時代」への移行を告げる。  
 
 ---
+
+### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
+---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  

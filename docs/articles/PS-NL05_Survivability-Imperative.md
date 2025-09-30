@@ -362,6 +362,11 @@ SI評価関数は、更新を「止まらせない」ための早期警報装置
     
 - ブルーノ・ラトゥール（2017）『ガイアとともに』水声社
 
+
+---
+
+#### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  

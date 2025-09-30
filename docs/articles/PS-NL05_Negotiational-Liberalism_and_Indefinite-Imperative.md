@@ -113,6 +113,10 @@ Together, the dual axes of the **Indefinite Imperative** and the **Survivability
 不定言命法と存続性命法の二重の軸は、交渉リベラリズムを単なる制度論から解き放ち、**未来を開く倫理＝政治構文論の背骨**として定立する。
 
 ---
+
+#### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
+---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  

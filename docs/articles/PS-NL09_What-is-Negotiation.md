@@ -181,6 +181,11 @@ AIや動物との関係性倫理。人間中心主義では扱えない他者と
 交渉リベラリズムは、AI時代の倫理的・政治的挑戦に応答する理論的基盤となりうる。
 
 ---
+
+#### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
+
+---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  

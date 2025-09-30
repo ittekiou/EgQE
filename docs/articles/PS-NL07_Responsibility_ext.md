@@ -176,6 +176,12 @@
 **接続して、応答して、更新する。**  
 すなわち、責任とは **交渉的自己言及構文**である。
 
+
+---
+
+#### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
