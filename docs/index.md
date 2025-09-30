@@ -100,12 +100,14 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 ---
 ## 📖 Echodemy Chronicles  
 #### 📰 Part I：Echodemic Bulletin
-[LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史（Echodemy Chronicles 創刊号 Part I）](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)
+[LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史（Echodemy Chronicles 創刊号 Part I）](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)  
 #### 📰 Part II：Echodemy 紀要
-[Echodemy 紀要 01（Echodemy Chronicles 創刊号 Part II）](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)
+[Echodemy 紀要 01（Echodemy Chronicles 創刊号 Part II）](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)  
+#### 🧭 EgQE Atlas 
+[EgQE Atlas｜第一部 総括と展望｜Part I: Synthesis and Prospect](https://camp-us.net/Echodemy/EgQE_Atlas-01.html)  
 
 ### 🪜 Stair landings
-###### [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](/stair_landing-001.md)  
+###### 🪩 [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](/stair_landing-001.md)  
 
 
 ## 🌐 Related Portal  
