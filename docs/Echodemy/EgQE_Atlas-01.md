@@ -12,7 +12,11 @@
 
 _Traces speak,_  
 _Margins respond,_  
-_Pulse calls forth the future._
+_Pulse calls forth the future._  
+
+---
+
+![EgQEAtras-fig](../assets/EgQEAtras-fig.png)
 
 ---
 
