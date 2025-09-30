@@ -179,8 +179,6 @@
 
 ---
 
-**Footnote**
-
 [^1]_Negotiative Liberalism_ is used as the conceptual banner. In academic discourse, the term _Negotiational Liberalism_ is employed, with _a.k.a. Negotiative Liberalism_ added when clarification is useful.
     
 
