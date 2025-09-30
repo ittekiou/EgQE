@@ -147,9 +147,9 @@
 
 ## 2. From Agreement to Negotiation
 
-**EN:** Deliberative democracy seeks maximum consensus, but often through forced convergence. Negotiative Liberalism^1^, instead, institutes _minimal consensus_—the bare frame that allows plural times and possibilities to coexist. In this way, politics becomes a choreography of pulsations, not a fixation of structures.  
+**EN:** Deliberative democracy seeks maximum consensus, but often through forced convergence. Negotiative Liberalism^[^1], instead, institutes _minimal consensus_—the bare frame that allows plural times and possibilities to coexist. In this way, politics becomes a choreography of pulsations, not a fixation of structures.  
 
-**FR:** La démocratie délibérative cherche le consensus maximal, mais souvent au prix d’une convergence forcée. Le Libéralisme Négociatif^1^ instaure au contraire un _consensus minimal_ — le cadre nu qui permet à des temporalités et à des possibles pluriels de coexister. Ainsi, la politique devient une chorégraphie de pulsations, et non une fixation de structures.
+**FR:** La démocratie délibérative cherche le consensus maximal, mais souvent au prix d’une convergence forcée. Le Libéralisme Négociatif^[^1] instaure au contraire un _consensus minimal_ — le cadre nu qui permet à des temporalités et à des possibles pluriels de coexister. Ainsi, la politique devient une chorégraphie de pulsations, et non une fixation de structures.
 
 ---
 
@@ -181,7 +181,7 @@
 
 **Footnote**
 
-1. _Negotiative Liberalism_ is used as the conceptual banner. In academic discourse, the term _Negotiational Liberalism_ is employed, with _a.k.a. Negotiative Liberalism_ added when clarification is useful.
+[^1]_Negotiative Liberalism_ is used as the conceptual banner. In academic discourse, the term _Negotiational Liberalism_ is employed, with _a.k.a. Negotiative Liberalism_ added when clarification is useful.
     
 
 ---
