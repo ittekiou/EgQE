@@ -9,6 +9,10 @@ Between them, in their tension, freedom resonates as **pulse**.
 This series seeks to formalize that circulation as **Politics = Temporal Syntax**.
 
 ---
+## 「PS-NL12 「交渉自由主義」宣言」を追加。2025/10/01  
+
+「**最大限のZUREと最小限の合意**」。これが交渉自由主義（Negotiative Liberalism）の核となります。
+
 ### 「PS-NL11 第一部完結宣言」を追加。2025/09/29  
 
 PS-NLシリーズ**第一部（原理編／理論編／土台編）** の完結を宣言した。
@@ -141,6 +145,11 @@ PS-NL01〜03で基盤を築いた後、**PS-NL04三部作**は補強と展開を
 **PS-NL11**では、交渉リベラリズムを構成する「基礎理論の柱」である**PS-NL第一部（原理編／理論編／土台編）** を完結し、**第二部（展開編／応用編／実装編）** へ進むことを宣言した。
 
 ---
+## 12. 「交渉自由主義」宣言
+
+**PS-NL12**では、量子論が余白を物理学に刻印したように、退出と沈黙の自由を含め、**余白を制度化する**ことを政治哲学として宣言した。
+
+---
 
 # PS-NL01　Negotiative Liberalism（交渉的リベラリズム）
 
@@ -205,6 +214,7 @@ Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な
 ##### [**PS-NL06｜The Legislator as Temporal Poetics｜立法者論──熟慮の設計者としての立法者**](https://camp-us.net/articles/PS-NL06_Legislator.html)  
 ##### （Annex）[**PS-NL06｜The Legislator as Temporal Poetics｜Annex**](https://camp-us.net/articles/PS-NL06_Legislator_Annex.html)  
 
+---
 
 # PS-NL07　責任論──自己言及構文と交渉リベラリズム
 ##### （Reference Edition）[PS-NL07｜Responsibility Theory ── Self-Referential Syntax and Negotiation Liberalism｜責任論──自己言及構文と交渉リベラリズム](https://camp-us.net/articles/PS-NL07_Responsibility.html)  
@@ -220,6 +230,8 @@ Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な
 
 ##### [**PS-NL09｜交渉とはなにか── ミニマル合意とマキシマムZURE｜What is Negotiation? ── Minimal Agreement and Maximum ZURE（pre-release）**](https://camp-us.net/articles/PS-NL09_What-is-Negotiation.html)  
 
+---
+
 # PS-NL10　交渉主義宣言
 
 ##### [**PS-NL10｜交渉主義宣言──ミニマル合意とマキシマムZURE**](https://camp-us.net/articles/PS-NL10_Declaration-of-Negotiation.html)  
@@ -228,6 +240,10 @@ Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な
 
 ##### [**📜 PS-NL第一部完結宣言文**](https://camp-us.net/articles/PS-NL11_Declaration-of-completion-of-Part_1.html)  
 
+---
+
+# PS-NL12　「交渉自由主義」宣言
+#### [**「交渉自由主義」宣言──拍動する余白と時間**](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)  
 
 ---
 # PS-NL00　政治は不一致からはじまる
