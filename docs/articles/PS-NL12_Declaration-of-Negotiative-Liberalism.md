@@ -178,6 +178,9 @@
 > _Les pulsations se rencontrent, non dans l’identité mais dans la résonance._
 
 ---
+### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
+
+---
 
 [^1]: _Negotiative Liberalism_ is used as the conceptual banner. In academic discourse, the term _Negotiational Liberalism_ is employed, with _a.k.a. Negotiative Liberalism_ added when clarification is useful.
 
