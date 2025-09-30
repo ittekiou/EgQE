@@ -58,6 +58,7 @@ _── Welcome to the syntactic field of ZURE._
 🔣 [Syngenetics](https://camp-us.net/articles/HEG-3_Pragmatics-to-Syngenetics.html) × [SAT＝ Sign Act Theory](https://camp-us.net/articles/HEG-3_Semiotics-to-SAT.html)　記号論のパラダイム転回リリース　2025.9.26  
 🇺🇳 [すべての脳とZUREのための宣言](/DQCZ.md)　リリース　2025.9.29  
 🏰 [HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)　リリース　2025.9.30  
+📜 [「交渉自由主義」宣言──拍動する余白と時間](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)　リリース　2025.10.1  
 
 
 ## 🔭 Overview  

@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/10/01  
+[「交渉自由主義」宣言──拍動する余白と時間](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)  
 ###### 2025/09/30  
 [HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)  
 [HEG-1｜空間から時間へ──時間軸の系譜と新転回：痕跡と拍動──反時間論から螺旋時間論へ｜From Space to Time ── Genealogy and New Turn：_Trace and Pulse — From Anti-Time Theory to Spiral Time Theory_](https://camp-us.net/articles/HEG-1_Space-to-Time.html)  
