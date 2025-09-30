@@ -87,6 +87,22 @@ _Linking dissonance,_
 _beyond the traces,_  
 _the world resounds in echo._
 
+
+---
+### 時間論的転回と余白論の新展開──ZURE構文論へ  
+
+[HEG-1｜空間から時間へ──時間軸の系譜と新転回：痕跡と拍動──反時間論から螺旋時間論へ｜From Space to Time ── Genealogy and New Turn：_Trace and Pulse — From Anti-Time Theory to Spiral Time Theory_](https://camp-us.net/articles/HEG-1_Space-to-Time.html)  
+- [DLMZ-NL01-1｜静止から拍動へ── ZURE感染宇宙論からZURE存在論へ](https://camp-us.net/articles/DLMZ-NL01-1_Ontology.html)  
+- [DLMZ-NL01-2｜定言命法から不定言命法へ── 更新可能性の倫理へ](https://camp-us.net/articles/DLMZ-NL01-2_Action.html)  
+- [DLMZ-NL01-3｜反証主義から更新主義へ── 科学哲学の時間転回](https://camp-us.net/articles/DLMZ-NL01-3_Trace.html)  
+- [**DLMZ-NL01｜時間論的転回：三橋の解説──存在・行為・痕跡**](https://camp-us.net/articles/DLMZ-NL01_triangle-bridge.html)  
+
+[HEG-2｜余白と生成──その系譜と新転回：生成原理としての余白── ZURE二層モデルからZURE宣言へ｜Yohaku and Genesis ── Genealogy and New Turn](https://camp-us.net/articles/HEG-2_Yohaku-and-Genesis.html)  
+- [**DLMZ-NL02｜余白論の新展開 ── ZURE二層モデルから交渉リベラリズムへ**](https://camp-us.net/articles/DLMZ-NL02_Yohaku.html)  
+
+##### [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
+##### [**響創学宣言 ──存在と行為のために**](https://camp-us.net/Relational_Implementation.html)  
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
