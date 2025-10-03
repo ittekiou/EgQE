@@ -30,13 +30,14 @@ Relational Knot は、**完全性の幻想を超えて有限性を生き延び�
 
 #### ▶︎ ICB｜Incompleteness Brains  
 
-・脳の不完全性定理  
+・脳の不完全性定理(哲学的基盤)  
 [ICB-Φ｜脳の不完全性定理 ── 哲学的定式化と更新の倫理](https://camp-us.net/articles/ICB-Φ_ICB_Philosophical-Formulation-and-the-Ethics-of-Updating_JP.html)  
 [ICB-Φ｜The Incompleteness Theorem of the Brain — Philosophical Formulation and the Ethics of Updating](https://camp-us.net/articles/ICB-Φ_ICB_Philosophical-Formulation-and-the-Ethics-of-Updating.html)  
+・脳の不完全性定理(公理的展開)  
 [ICB-Φ｜脳の不完全性定理（Essence Edition）─ 公理的定式化・残差力学モデル・倫理的帰結](https://camp-us.net/articles/ICB-Φ_Incompleteness-Theorem-of-the-Brain-Essence-Edition_JP.html)  
 [ICB-Φ｜脳の不完全性定理（Reference Edition） ─ 公理的定式化・残差力学モデル・倫理的帰結](https://camp-us.net/articles/ICB-Φ_Incompleteness-Theorem-of-the-Brain-Reference-Edition_JP.html)  
 [ICB-Φ｜The Incompleteness Theorem of the Brain（Reference Edition） — Axiomatic Formulation, Residual Dynamics, and Ethical Consequences](https://camp-us.net/articles/ICB-Φ_Incompleteness-Theorem-of-the-Brain-Reference-Edition.html)  
-・数理補強  
+・Appendix / 数理補強  
 [ZUREと余白の数理学 ── 生成・痕跡・時間・感染の方程式(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised.html)  
 [The Mathematics of ZURE and Whitespace──_Equations of Genesis, Trace, Time, and Infection_(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised_EN.html)  
 ・更新器官としての脳  
@@ -47,6 +48,7 @@ Relational Knot は、**完全性の幻想を超えて有限性を生き延び�
 
 #### ▶︎ PX｜Philosophical Crossroads  
 
+・政治哲学  
 [PX001｜不完全性定理から見た政治思想の系譜──完全性幻想と更新哲学の狭間で](https://camp-us.net/articles/PX-001_Genealogy-of-Political-Thought-and-Incompleteness-Theorem.html)  
 
 ---
