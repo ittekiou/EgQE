@@ -2,6 +2,8 @@
 
 ## ──自由エネルギー最小化とZURE感染波モデル
 
+##### (Reference Edition)  [The Brain as an Updating Organ──Residual Error Dynamics under Free Energy Minimization: From ZURE to CGL Indicators](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics.html)  
+
 ---
 
 ## Ⅰ. 序論

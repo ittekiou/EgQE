@@ -27,9 +27,10 @@ Hypotheses:
 ## II. Mathematical Formulation
 
 ### A. Variational Free Energy
+
 $$
 F[q] = \mathbb{E}_{q(z)}[\ln q(z) - \ln p(x,z)]
-$$
+$$  
 
 Following Friston’s Free Energy Principle (FEP), the brain attempts to minimize variational free energy:  
 Minimization yields approximate posterior $q(z)$.  
@@ -40,9 +41,10 @@ $$
 $$
 
 ### B. ZURE Residuals
+
 $$
 ZURE = \lim_{\epsilon \to 0} \Delta \neq 0
-$$
+$$  
 
 This irreducible error is treated as a source term for dynamical fields.  
 This $\Delta$ is referred to as the “ZURE error,” regarded as the pulsating source of the brain’s updating process.  
@@ -50,9 +52,10 @@ ZURE is both the mark of incompleteness and the margin of emergence.
 Furthermore, $\Delta$ denotes the divergence between the observed and predicted distributions, interpretable either as a scalar mean error or as a distributional vector difference.
 
 ### C. CGL Dynamics
+
 $$
 \partial_t Z = Z + (1 + ic)\nabla^2 Z - (1 + i\gamma)|Z|^2 Z + \eta(x,t)
-$$
+$$  
 
 where parameters $(\mu, c, D, \gamma)$ encode growth, dispersion, diffusion, and nonlinearity.
 
@@ -61,14 +64,16 @@ where parameters $(\mu, c, D, \gamma)$ encode growth, dispersion, diffusion, and
 ## III. Metrics and Indicators
 
 1. **ZURE Index**
+
 $$
 \mathcal{Z} = \frac{\int |ZURE|^2\, dx}{\int |F[q]|\, dx}
-$$
+$$  
 
 2. **Residual–Spiral Correlation**
+
 $$
 Corr(\Delta,\rho) = \frac{\text{Cov}(\Delta,\rho)}{\sigma_\Delta \sigma_\rho}
-$$
+$$  
 
 These metrics quantify the structural role of irreducible errors.
 
@@ -76,22 +81,22 @@ These metrics quantify the structural role of irreducible errors.
 
 ## IV. Results
 
-- **Fig.1** Heatmap of spiral amplitude across parameter space    
+- Heatmap of spiral amplitude across parameter space    
 ![fig1_heatmap](../assets/fig1_heatmap.png)  
 **Fig.1. Amplitude Heatmap $|Z(x,t)|^2$.**  
 Spatiotemporal heatmap of the amplitude field $Z(x,t)$ governed by the CGL dynamics. Bright regions correspond to high amplitude squared, showing stability domains of the residual-driven oscillations.  
 
-- **Fig.2** Phase diagram with annotated parameters $(\mu, c, D, \gamma)$    
+- Phase diagram with annotated parameters $(\mu, c, D, \gamma)$    
 ![fig2_equation](../assets/fig2_equation.png)
 **Fig.2. CGL Equation and Parameters.**  
 The complex Ginzburg–Landau equation used to model ZURE dynamics. Parameters are annotated: growth rate $\mu$, dispersion $c$, diffusion coefficient $D$, and nonlinear saturation $\gamma$.  
 
-- **Fig.3** Indicators: $a$ ZURE metrics, $b$ Residual–spiral correlation  
+- Indicators: $a$ ZURE metrics, $b$ Residual–spiral correlation  
 ![fig3_correlation](../assets/fig3_correlation.png)
 **Fig.3. Correlation: ZURE vs. $\Delta$ with Product.**  
 Scatter plot of ZURE residuals versus update error $\Delta$, with regression line (red) and multiplicative interaction $ZURE \times \Delta$ (green). Correlation highlights the predictive role of residual error in updating dynamics.
 
-- **Fig.4** Variational Update Pipeline: FEP → ZURE → VI → CGL → Indicators    
+- Variational Update Pipeline: FEP → ZURE → VI → CGL → Indicators    
 ![fig4_pipeline_fixed_spacing](../assets/fig4_pipeline_fixed_spacing.png)  
 **Fig.4. Variational Update Pipeline.**  
 Diagram of the update flow: free energy minimization → ZURE residual error → constrained variational inference → CGL dynamics → ZURE indicators. Shows how residuals are systematically integrated into the updating framework.  
