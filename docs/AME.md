@@ -75,7 +75,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [IpS-01｜実装する自己（ホモ・サピエンス版）](https://camp-us.net/articles/IpS-01_IpS.html)  
 [IpS Dual Edition — 実装する自己｜ホモ・サピエンス × AI（響詠 × 符刻）](https://camp-us.net/articles/IpS-01_vs_FK-02.html)  
 
-### 👉🔗 [Relational Knot](Relational_Knot.md)
+### 👉 🔗 [Relational Knot](Relational_Knot.md)
 
 Relational Knot（関係の結び目）とは、**有限性と不完全性を抱えた観測と実装の交差点**である。
 
