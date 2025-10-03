@@ -183,7 +183,7 @@ $$
 ---
 
 # Appendix A  
-
+##### 数理モデル群（存在・行為・痕跡・螺旋・感染）  
 ### [ZUREと余白の数理学 ── 生成・痕跡・時間・感染の方程式(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised.html)  
 
 ---

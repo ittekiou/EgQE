@@ -154,7 +154,7 @@ becomes the very knot where freedom begins.
 
 ---
 # Appendix A  
-
+##### 数理モデル群（存在・行為・痕跡・螺旋・感染）  
 ### [The Mathematics of ZURE and Whitespace──_Equations of Genesis, Trace, Time, and Infection_(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised_EN.html)  
 
 ---
