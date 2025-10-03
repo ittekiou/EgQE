@@ -28,6 +28,17 @@ Relational Knot は、**完全性の幻想を超えて有限性を生き延び�
 
 不完全性定理は、観測 (Obs) と実装 (IpS) を繋ぐ Relational Knot の「有限性の影」として存在し、そこから思想・制度・表現の更新が流れ出す。  
 
+#### ▶︎ ICB｜Incompleteness Brains  
+
+[脳は更新器官である──有限性と不完全性から見たアバウト推論の哲学](https://camp-us.net/articles/ICB-00_Brain-as-Updating-Organ.html)  
+[脳の不完全性定理と更新哲学──有限性から責任ある自由へ](https://camp-us.net/articles/ICB-01_Brain-incompleteness-theorem-and-updated-philosophy.html)  
+[脳の有限性と不完全性に基づくアバウト推論の数理──自由エネルギー最小化とZURE感染波モデル](https://camp-us.net/ICB-02_ZURE-Residual-Error-Dynamics_JP.html)  
+[The Brain as an Updating Organ──Residual Error Dynamics under Free Energy Minimization: From ZURE to CGL Indicators](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics.html)(Reference Edition)  
+
+#### ▶︎ PX｜Philosophical Crossroads  
+
+[PX001｜不完全性定理から見た政治思想の系譜──完全性幻想と更新哲学の狭間で](https://camp-us.net/PX-001_Genealogy-of-Political-Thought-and-Incompleteness-Theorem.html)  
+
 ---
 #### ▶︎ Obs｜Observation Strings  
 
