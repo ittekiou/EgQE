@@ -158,6 +158,24 @@ becomes the very knot where freedom begins.
 ### [The Mathematics of ZURE and Whitespace──_Equations of Genesis, Trace, Time, and Infection_(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised_EN.html)  
 
 ---
+## References
+
+- Gödel, K. (1931). _Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I._  
+    
+- Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." _Behavioral and Brain Sciences._  
+    
+- Shannon, C. (1948). _A Mathematical Theory of Communication._ Bell System Technical Journal.  
+    
+- Friston, K. (2010). "The free-energy principle: a unified brain theory?" _Nature Reviews Neuroscience._  
+    
+- Aranson, I.S., & Kramer, L. (2002). "The world of the complex Ginzburg–Landau equation." _Rev. Mod. Phys._  
+    
+- He, B.J. (2014). "Scale-free brain activity: past, present, and future." _Trends in Cognitive Sciences._  
+    
+- Jonas, H. (1984). _The Imperative of Responsibility._ University of Chicago Press.  
+    
+
+---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  

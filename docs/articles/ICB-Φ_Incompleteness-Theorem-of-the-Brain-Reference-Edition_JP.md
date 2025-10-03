@@ -155,6 +155,23 @@ _美学的帰結:_ 芸術とは残差の拍動を可視化するもの。
 
 ---
 
+## 参考文献  
+
+- ゲーデル, K. (1931). _Über formal unentscheidbare Sätze…_ 
+    
+- Cowan, N. (2001). 短期記憶容量の再検討. _Behavioral and Brain Sciences._ 
+    
+- Shannon, C. (1948). _A Mathematical Theory of Communication._ 
+    
+- Friston, K. (2010). "The free-energy principle." _Nature Reviews Neuroscience._ 
+    
+- Aranson, I.S., & Kramer, L. (2002). _The world of the CGL equation._ _Rev. Mod. Phys._ 
+    
+- He, B.J. (2014). "Scale-free brain activity." _Trends in Cognitive Sciences._ 
+    
+- Jonas, H. (1984). _責任という原理._ 
+
+---
 # Appendix A  
 ##### 数理モデル群（存在・行為・痕跡・螺旋・感染）  
 ### [ZUREと余白の数理学 ── 生成・痕跡・時間・感染の方程式(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised.html)  
