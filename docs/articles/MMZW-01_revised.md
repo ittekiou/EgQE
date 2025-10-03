@@ -110,6 +110,11 @@ ZUREは存在の更新であり、記号の行為であり、痕跡の生成で�
 4. 螺旋論：直線時間を超えて、リズムと位相ズレが紡ぐ時間像。  
 5. 感染論：波動方程式に基づくZURE伝播の数理的定式化。  
 
+
+---
+[Digest版](https://camp-us.net/articles/MMZW-01_Digest.html)  
+[first complete edition (v1.0)](https://camp-us.net/articles/MMZW-01_first-ed.html)  
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  

@@ -87,3 +87,16 @@ $Ψ(x,t) = Σ A_i · exp[i(k_i x - ω_i t + φ_i)]$
 ZUREゆく限り、モデルは未完であり、ZUREゆく限り、生成は続く。
 
 ---
+[Digest版](https://camp-us.net/articles/MMZW-01_Digest.html)  
+[revised complete edition (v1.1)](https://camp-us.net/articles/MMZW-01_revised.html)  
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 21, 2025 · Web Oct 3, 2025 |</p>  
