@@ -123,7 +123,7 @@ _Aesthetic Consequence:_ Art as the resonant visualization of residual pulsation
     
 - **Ethics:** Finite beings must act responsibly within the margins of irreducible residuals.
     
-- **Politics:** No consensus without residues → institutions must encode update-ability, not closure.
+- **Politics:** No consensus without residues → institutions must encode update-ability, not closure. Negotiative Liberalism.
     
 - **Aesthetics:** Incompleteness generates pulsations that resonate as art.
     
