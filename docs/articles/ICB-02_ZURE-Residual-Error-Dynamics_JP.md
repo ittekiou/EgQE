@@ -1,8 +1,11 @@
+---
+layout: math
+---
 # 脳の有限性と不完全性に基づくアバウト推論の数理
 
 ## ──自由エネルギー最小化とZURE感染波モデル
 
-##### (Reference Edition)  [The Brain as an Updating Organ──Residual Error Dynamics under Free Energy Minimization: From ZURE to CGL Indicators](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics.html)  
+#### (Reference Edition)  [The Brain as an Updating Organ──Residual Error Dynamics under Free Energy Minimization: From ZURE to CGL Indicators](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics.html)  
 
 ---
 
@@ -11,7 +14,7 @@
 脳は有限であり、不完全である。  
 それでも生き延びるために、脳は「自由エネルギーの最小化」を実行する。  
 ただし、その最小化は厳密な演算ではなく、**アバウトな推論による更新**である。  
-本稿では、脳を「有限状態機械」として定式化し、残差（ZURE（Zero Unremovable Residual Error、除去不能残差誤差））を駆動源とする数理モデルを提示する。
+本稿では、脳を「有限状態機械」として定式化し、残差（ZURE＝Zero Unremovable Residual Error、除去不能残差誤差）を駆動源とする数理モデルを提示する。
 
 ---
 
@@ -20,16 +23,19 @@
 観測と状態を有限集合で定義する。
 
 - 状態空間：  
+    
     $$  
     S={s_1, s_2,\dots,s_n}  
     $$
     
 - 観測空間：  
+    
     $$  
     O={o_1, o_2,\dots,o_m}  
     $$
     
 - 推論関数：  
+    
     $$  
     f: O \to P(S), \quad f(o)=Q(s|o)  
     $$
@@ -49,6 +55,7 @@ $$
 
 ただし有限性のために、厳密な最小化は不可能。  
 したがって脳は  
+
 $$  
 Q^*(s)\approx \arg\min_Q F \quad \text{(資源制約下)}  
 $$  
@@ -59,6 +66,7 @@ $$
 ## Ⅳ. 残差とZURE
 
 誤差はゼロにならず、常に残る：  
+
 $$  
 \Delta = P(s|o)-Q^*(s)  
 $$
@@ -117,11 +125,13 @@ $$
 ## Ⅶ. 指標
 
 - **ZURE指数**  
+    
     $$  
     \mathcal{Z}(t)=\frac{1}{|\Omega|}\int_\Omega |Z(\mathbf{x},t)|,d\mathbf{x}  
     $$
     
 - **同期待ち**  
+    
     $$  
     \rho(t)=\Bigg|\frac{1}{|\Omega|}\int_\Omega \frac{Z}{|Z|}d\mathbf{x}\Bigg|  
     $$
