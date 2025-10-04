@@ -22,6 +22,7 @@ Our model unifies time, space, and alterity as **residual-laden phase relations*
 **Note**: The term _residual_ is used in two senses in this paper: narrowly, as the irreducible surplus left within the process of tracing; broadly, as the bundle of both traces and surplus. Hereafter, we refer to the broader bundle of traces and residuals as _trace-residuals_. For clarity: (1) _Trace_ = stabilized generative outcome; (2) _Residual (narrow)_ = surplus irreducible to the trace; (3) _Residual Trace/Residual (broad)_ = the whole bundle of traces plus surplus.  
 Our definitions are given in [Whitespace, Trace, Residual ── ZURE as a Principle of Genesis](https://camp-us.net/articles/ZURE_Whitespace-Trace-Residuals.html)  
 
+## 要旨
 
 時間と空間は実体ではなく、位相点の関係的更新から生じる残差現象である。  
 本論文は、以下の公理に基づく**時空経験の残差モデル**を提案する。  
