@@ -47,7 +47,7 @@ Figure 1. The triadic phases of ZURE: whitespace, trace, residual.
 
 ---
 
-### Ⅲ. 公理的整理
+### Ⅲ. Axiom｜公理化
 
 - **Axiom 1｜Generativity of Whitespace**  
     　Every generation starts with ZURE, which spans three phases: whitespace, trace, and residual.  
