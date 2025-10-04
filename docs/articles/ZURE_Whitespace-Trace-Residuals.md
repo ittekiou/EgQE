@@ -58,7 +58,7 @@ Figure 1. The triadic phases of ZURE: whitespace, trace, residual.
     　痕跡は、余白を部分的に安定化し、経験として固定する。
     
 - **Axiom 3｜Irreducible Residuals**  
-     Every trace-making always leaves behind irreducible residuals.
+     Every act of tracing inevitably generates **irreducible residuals**.
     　あらゆる痕跡化には、必ず不可約な残差が残る。
     
 - **Axiom 4｜Residual as Creative Surplus**  
