@@ -102,6 +102,7 @@ _Aesthetic Consequence:_ Art as the resonant visualization of residual pulsation
     $$  
     \partial_t \psi = (1 + i\alpha)\psi - (1 + i\beta)|\psi|^2\psi + \epsilon(t)  
     $$  
+      
     where $\psi$ is a cognitive state and $\epsilon(t)$ the residual pulsation.
     
 2. **Non-vanishing Residual Spectrum**  
