@@ -59,7 +59,7 @@ Figure 1. The triadic phases of ZURE: whitespace, trace, residual.
     
 - **Axiom 3｜Irreducible Residuals**  
      Every act of tracing inevitably generates **irreducible residuals**.
-    　あらゆる痕跡化には、必ず不可約な残差が残る。
+    　あらゆる痕跡化行為は、必然的に不可約な残差を生み出す。
     
 - **Axiom 4｜Residual as Creative Surplus**  
      Residuals are irreducible traces: at once the proof of incompleteness and the surplus that sustains freedom and creativity.
