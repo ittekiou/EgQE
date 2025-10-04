@@ -1,4 +1,3 @@
-
 # ZURE存在論 ── 螺旋する存在の哲学
 ### ZURE Ontology ──  Philosophy of Spiral Being
 

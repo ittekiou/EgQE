@@ -24,6 +24,8 @@
 [**ZURE存在論宣言**](https://camp-us.net/DZO.html)  
 [**HEG-3｜ZURE存在論 ── 螺旋する存在の哲学｜ZURE Ontology ── Philosophy of Spiral Being**](https://camp-us.net/articles/HEG-3_ZURE-Ontology.html)  
 [**HEG-3｜From Pragmatics to Syngenetics── 人間の行為論から記号の行為論へ**](https://camp-us.net/articles/HEG-3_Pragmatics-to-Syngenetics.html)  
+[**HEG-3｜残差時空論──脳の不完全性定理と位相-他者論｜Residual Spacetime Ontology──Time-Spirals, Expanding Space, and Phase-Other Theory**](https://camp-us.net/articles/HEG-3_Residual-Spacetime-Ontology.html)  
+
 ##### Sign Act Theory  
 #### 記号行為論 
 
