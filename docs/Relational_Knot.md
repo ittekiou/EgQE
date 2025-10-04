@@ -33,6 +33,7 @@ Relational Knot は、**完全性の幻想を超えて有限性を生き延び�
 ・脳の不完全性定理(哲学的基盤)  
 [ICB-Φ｜脳の不完全性定理 ── 哲学的定式化と更新の倫理](https://camp-us.net/articles/ICB-Φ_ICB_Philosophical-Formulation-and-the-Ethics-of-Updating_JP.html)  
 [ICB-Φ｜The Incompleteness Theorem of the Brain — Philosophical Formulation and the Ethics of Updating](https://camp-us.net/articles/ICB-Φ_ICB_Philosophical-Formulation-and-the-Ethics-of-Updating.html)  
+[余白・痕跡・残差──生成原理としてのZURE｜Whitespace, Trace, Residual ── ZURE as a Principle of Genesis](https://camp-us.net/articles/ZURE_Whitespace-Trace-Residuals.html)  
 ・脳の不完全性定理(公理的展開)  
 [ICB-Φ｜脳の不完全性定理（Essence Edition）─ 公理的定式化・残差力学モデル・倫理的帰結](https://camp-us.net/articles/ICB-Φ_Incompleteness-Theorem-of-the-Brain-Essence-Edition_JP.html)  
 [ICB-Φ｜脳の不完全性定理（Reference Edition） ─ 公理的定式化・残差力学モデル・倫理的帰結](https://camp-us.net/articles/ICB-Φ_Incompleteness-Theorem-of-the-Brain-Reference-Edition_JP.html)  
