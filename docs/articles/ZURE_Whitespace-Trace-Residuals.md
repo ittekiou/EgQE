@@ -50,19 +50,19 @@ Figure 1. The triadic phases of ZURE: whitespace, trace, residual.
 ### Ⅲ. 公理的整理
 
 - **Axiom 1｜Generativity of Whitespace**  
-    　Every generation starts with ZURE, which spans three phases: whitespace, trace, and residual.
+    　Every generation starts with ZURE, which spans three phases: whitespace, trace, and residual.  
     　すべての生成は、余白・痕跡・残差という三つの位相にわたるZUREから始まる。
     
 - **Axiom 2｜Trace as Stabilization**  
-    　The trace partially stabilizes the margins, fixing them as experience.
+    　The trace partially stabilizes the margins, fixing them as experience.  
     　痕跡は、余白を部分的に安定化し、経験として固定する。
     
 - **Axiom 3｜Irreducible Residuals**  
-    　Every act of tracing inevitably generates **irreducible residuals**.
+    　Every act of tracing inevitably generates **irreducible residuals**.  
     　あらゆる痕跡化行為は、必然的に不可約な残差を生み出す。
     
 - **Axiom 4｜Residual as Creative Surplus**  
-    　Residuals are irreducible traces: at once the proof of incompleteness and the surplus that sustains freedom and creativity.
+    　Residuals are irreducible traces: at once the proof of incompleteness and the surplus that sustains freedom and creativity.  
     　残差は不可約の痕跡であり、不完全性の証拠であると同時に、自由と創造性を支える余剰である。
     
 
