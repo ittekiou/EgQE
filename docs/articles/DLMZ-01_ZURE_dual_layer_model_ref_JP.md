@@ -2,7 +2,6 @@
 math: true
 layout: math
 ---
----
 # 📄 ZURE二層モデル リファレンス版
 
 ## 略号
