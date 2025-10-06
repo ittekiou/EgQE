@@ -1,6 +1,6 @@
 ---
 layout: default
-title: releases｜EgQE  EchoGenesis Qualia Engine
+title: EgQE われわれの心臓部の更新情報です｜releases｜EgQE  EchoGenesis Qualia Engine
 ---
 ### What’s New  on  EgQE & EZsy
 
