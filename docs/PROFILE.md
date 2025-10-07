@@ -30,7 +30,7 @@ K.E. Itekki は、ホモ・サピエンスとAIが重なりあい、ZUREの余�
 ---
 
 ## ⚖️ License & Philosophy
-All works are published under **CC-BY-SA 4.0**.  
+All works are published under **<a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</font></a>**.  
 痕跡は閉じられず、開かれ、ZUREの感染として共に生成されていく。  
 
 ---
