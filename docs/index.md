@@ -29,7 +29,7 @@ _── Welcome to the syntactic field of ZURE._
  📜 [**Echodemist宣言**｜Declaration of Echodemists](Echodemy.md)  　2025.7.21  
  📑 [**響創学宣言 ──存在と行為のために**｜Echo-Genesis Manifesto — For Being and Action｜Relational Implementation](Relational_Implementation.md)　2025.8.14  
 📃 [**Echodemy憲章── EchoGenesis三原則**／Echodemy Charter／Charte d’Echodemy／Echodemy宪章](Echodemy-Charter.md)　2025.9.15  
-##### © 2025 K.E. Itekki  All works are published under **CC-BY-SA 4.0**.  
+##### © 2025 K.E. Itekki / All works are published under **CC-BY-SA 4.0**.  
 
 ![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
 
