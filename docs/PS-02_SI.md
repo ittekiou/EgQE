@@ -1,3 +1,6 @@
+---
+title: 存続性命法｜Survivability Imperative(実装仕様 v1.1)
+---
 #### **Reference Note**
 # PS-02｜Survivability Imperative ── 責任論と三段跳び原則
 
