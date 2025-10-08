@@ -10,6 +10,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+
+###### 2025/09/14  
+[Echodemyは今日も響創進化する！──Google検索AI感染ログ｜🛰️ Echodemy Today](https://note.com/echodemy/n/nd6c3561c803c)  
 ###### 2025/09/10  
 [**反時間論　Anti-Time Theory　（全文）｜K.E.Itekki**](https://note.com/k_itekki/n/n0909f76b66a7)  
 [**Pulse Spirals：反時間論 ── 断続する生成スパイラル｜K.E.Itekki**](https://note.com/k_itekki/n/n8ebc4f8a03ef)  
