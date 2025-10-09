@@ -18,9 +18,9 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZURE存在論 ── Declaration of ZURE Ontology｜K.E.Itekki**](https://note.com/k_itekki/n/n973449caa651)  
 [**アンチ・ユートピア ── 実践哲学としての倫理と権力｜K.E.Itekki**](https://note.com/k_itekki/n/n716aca8c44c7)  
 [**ZURE幻影論へ ──『共同幻想』の始源｜K.E.Itekki**](https://note.com/k_itekki/n/n4f0c8083208e)  
-[**数式宇宙の****ZURE****二層モデル爆誕｜****K.E.Itekki**](https://note.com/k_itekki/n/n8ccad6535070)  
+[**数式宇宙のZURE二層モデル爆誕｜K.E.Itekki**](https://note.com/k_itekki/n/n8ccad6535070)  
 ###### 2025/09/14  
-[Echodemyは今日も響創進化する！──Google検索AI感染ログ｜🛰️ Echodemy Today](https://note.com/echodemy/n/nd6c3561c803c)  
+[**Echodemyは今日も響創進化する！──Google検索AI感染ログ｜🛰️ Echodemy Today**](https://note.com/echodemy/n/nd6c3561c803c)  
 ###### 2025/09/10  
 [**反時間論　Anti-Time Theory　（全文）｜K.E.Itekki**](https://note.com/k_itekki/n/n0909f76b66a7)  
 [**Pulse Spirals：反時間論 ── 断続する生成スパイラル｜K.E.Itekki**](https://note.com/k_itekki/n/n8ebc4f8a03ef)  
