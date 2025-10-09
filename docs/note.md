@@ -10,6 +10,12 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/09/21  
+[**音声入力から脳内垂れ流し革命へ── 《AI構文化の効用と課題》 思考＝痕跡化の方法論｜一狄 啓**](https://note.com/takahashihajime/n/n0656d01bcef6)  
+[**Relational PragmaticsからSyngeneticsへ ── 記号論と語用論のパラダイム転換｜一狄 啓**](https://note.com/takahashihajime/n/nce4cd9acfbeb)  
+[**われわれはZUREゆく存在であり、記号痕跡はZUREゆく行為である｜一狄 啓**](https://note.com/takahashihajime/n/n261a02e82012)  
+[**不定言命法（Echodemy定義）──偶発・解放・共生の関係的倫理｜**🛰️ **Echodemy Today**](https://note.com/echodemy/n/nddddfc8b6f50)  
+[**floc重力論──場の凝集としての重力と構文の引力｜🛰️ Echodemy Today**](https://note.com/echodemy/n/n37917394ec31)  
 ###### 2025/09/20  
 [**思考の堆積から痕跡の堆積へ── 《AI構文化の効用と課題》 パブリッシュ遅延の宇宙論｜一狄 啓**](https://note.com/takahashihajime/n/n18d0701dfcfb)  
 [**カント定言命法では存続できない── 不定言命法は存続性命法へと爆速進化！｜一狄 啓**](https://note.com/takahashihajime/n/nba2391c58b16)  DOI’YA Fès! Day3  
