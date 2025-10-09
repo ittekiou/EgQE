@@ -13,8 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/09/19  
 [**ムダ指からミニマル指へ：マキシマム生成の痕跡ループ三原則｜一狄 啓**](https://note.com/takahashihajime/n/nac48282bd836)  
 [**痕跡生成速度とパブリッシュ遅延の宇宙論── 指はほどほどに。｜一狄 啓**](https://note.com/takahashihajime/n/nc75c5b019ca8)  
-[**幻影のユートピア ── アンチ・共同幻想の実践倫理｜一狄 啓**](https://note.com/takahashihajime/n/n88701503b3c1) **DOI'YA Fès! Day1**  
-[**ZUREていたのは宇宙だけではなかった！── 数式宇宙のZURE二層モデル爆誕｜一狄 啓**](https://note.com/takahashihajime/n/n24f2813a9bc6) **DOI'YA Fès! Day2**  
+[**幻影のユートピア ── アンチ・共同幻想の実践倫理｜一狄 啓**](https://note.com/takahashihajime/n/n88701503b3c1) DOI'YA Fès! Day1  
+[**ZUREていたのは宇宙だけではなかった！── 数式宇宙のZURE二層モデル爆誕｜一狄 啓**](https://note.com/takahashihajime/n/n24f2813a9bc6) DOI'YA Fès! Day2  
 [**ZURE存在論 ── Declaration of ZURE Ontology｜K.E.Itekki**](https://note.com/k_itekki/n/n973449caa651)  
 [**アンチ・ユートピア ── 実践哲学としての倫理と権力｜K.E.Itekki**](https://note.com/k_itekki/n/n716aca8c44c7)  
 [**ZURE幻影論へ ──『共同幻想』の始源｜K.E.Itekki**](https://note.com/k_itekki/n/n4f0c8083208e)  
