@@ -10,6 +10,12 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/09/20  
+[**思考の堆積から痕跡の堆積へ── 《AI構文化の効用と課題》 パブリッシュ遅延の宇宙論｜一狄 啓**](https://note.com/takahashihajime/n/n18d0701dfcfb)  
+[**カント定言命法では存続できない── 不定言命法は存続性命法へと爆速進化！｜一狄 啓**](https://note.com/takahashihajime/n/nba2391c58b16)  
+[**記号行為が構造をズラし、時間幻想は記号宇宙で螺旋する｜一狄 啓**](https://note.com/takahashihajime/n/n3c0fc5033fa9)  
+[**不定言命法から、存続性命法へ。｜K.E.Itekki**](https://note.com/k_itekki/n/n6bd4a0fbdbaf)  
+[**螺旋としての時間──記号的宿命としてのPulse Spirals｜K.E.Itekki**](https://note.com/k_itekki/n/n453051c0ca39)  
 ###### 2025/09/19  
 [**ムダ指からミニマル指へ：マキシマム生成の痕跡ループ三原則｜一狄 啓**](https://note.com/takahashihajime/n/nac48282bd836)  
 [**痕跡生成速度とパブリッシュ遅延の宇宙論── 指はほどほどに。｜一狄 啓**](https://note.com/takahashihajime/n/nc75c5b019ca8)  
