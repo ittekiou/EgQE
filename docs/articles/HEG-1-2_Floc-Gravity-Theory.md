@@ -1,3 +1,6 @@
+---
+title: Floc Gravity Theory ── 言葉の引力と構文宇宙の創発
+---
 ## 🌌 EgQE Reference Edition  
 
 # **Floc Gravity Theory ── 言葉の引力と構文宇宙の創発**  
