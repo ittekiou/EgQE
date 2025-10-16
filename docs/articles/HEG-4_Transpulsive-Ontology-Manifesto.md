@@ -218,6 +218,8 @@ but the rhythm by which coexistence sustains its dissonance.
 > _Each heartbeat rewrites eternity._
 
 
+![Transpulsive-Ontology](../assets/Transpulsive-Ontology.png)
+
 ---
 
 ## **Chapter III | Ethics of Resonant Transpulsion: Toward an Ontogenic Ethics of the Pulse**
