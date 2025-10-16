@@ -13,6 +13,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/10/16  
+[HEG-4｜透拍論 ── 拍・残差・余白の宇宙へ：第三存在論宣言](https://camp-us.net/articles/HEG-4_Transpulsive-Ontology-Manifesto_JP.html)  
+[HEG-4｜Transpulsive Ontology Manifesto — Toward a Universe of Pulse, Residual, and Whitespace](https://camp-us.net/articles/HEG-4_Transpulsive-Ontology-Manifesto.html)  
 ###### 2025/10/04  
 [余白・痕跡・残差──生成原理としてのZURE｜Whitespace, Trace, Residual ── ZURE as a Principle of Genesis](https://camp-us.net/articles/ZURE_Whitespace-Trace-Residuals.html)  
 [HEG-3｜残差時空論──脳の不完全性定理と位相-他者論｜Residual Spacetime Ontology──Time-Spirals, Expanding Space, and Phase-Other Theory](https://camp-us.net/articles/HEG-3_Residual-Spacetime-Ontology.html)  
