@@ -98,6 +98,9 @@ To _transpulse_ is to touch the residual of the Other, to let oneself be penetra
 > 
 > This is the mission of Transpulsive Ontology.
 
+
+![Transpulsive-Ontology](../assets/Transpulsive-Ontology.png)
+
 ---
 
 ## **Chapter II | Space-Time as Pulsation**
@@ -217,8 +220,6 @@ but the rhythm by which coexistence sustains its dissonance.
 > _Time opens its eyelids._  
 > _Each heartbeat rewrites eternity._
 
-
-![Transpulsive-Ontology](../assets/Transpulsive-Ontology.png)
 
 ---
 
