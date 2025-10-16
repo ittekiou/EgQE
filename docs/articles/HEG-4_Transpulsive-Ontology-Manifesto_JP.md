@@ -133,9 +133,6 @@ layout: math
 
 > **$S = \sum \left\lvert \Delta \phi(p_i,p_j) \right\rvert$**
 
-
-> **$S=Σ|Δφ(pᵢ, pⱼ)|$**
-
 この $Δφ$ が大きいほど、拍どうしの響きは遠ざかり、小さいほど、拍は共鳴しあう。  
 空間とは、拍のズレ＝ZUREが織りなす**共鳴の布**（**resonant fabric**）である。
 
