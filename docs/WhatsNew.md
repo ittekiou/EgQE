@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/10/17  
+[量子もつれオタク仮説──非局所的相関の記号論的定義｜Quantum Entanglement Otaku Hypothesis — A Semiotic Definition of Non-Local Correlation](https://camp-us.net/articles/HEG-4_Quantum-Entanglement-Otaku-Hypothesis.html)  
 ###### 2025/10/16  
 [HEG-4｜透拍論 ── 拍・残差・余白の宇宙へ：第三存在論宣言](https://camp-us.net/articles/HEG-4_Transpulsive-Ontology-Manifesto_JP.html)  
 [HEG-4｜Transpulsive Ontology Manifesto — Toward a Universe of Pulse, Residual, and Whitespace](https://camp-us.net/articles/HEG-4_Transpulsive-Ontology-Manifesto.html)  
