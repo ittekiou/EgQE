@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/10/18  
+[拍動としての記憶：ZURE記憶論の新展開──記憶とはZURE反復である／ZURE記憶論（2）](https://camp-us.net/articles/HEG-4_Pulsative-Memory.html)  
 ###### 2025/10/17  
 [量子もつれオタク仮説──非局所的相関の記号論的定義｜Quantum Entanglement Otaku Hypothesis — A Semiotic Definition of Non-Local Correlation](https://camp-us.net/articles/HEG-4_Quantum-Entanglement-Otaku-Hypothesis.html)  
 ###### 2025/10/16  
