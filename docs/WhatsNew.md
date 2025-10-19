@@ -26,6 +26,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [余白・痕跡・残差──生成原理としてのZURE｜Whitespace, Trace, Residual ── ZURE as a Principle of Genesis](https://camp-us.net/articles/ZURE_Whitespace-Trace-Residuals.html)  
 [HEG-3｜残差時空論──脳の不完全性定理と位相-他者論｜Residual Spacetime Ontology──Time-Spirals, Expanding Space, and Phase-Other Theory](https://camp-us.net/articles/HEG-3_Residual-Spacetime-Ontology.html)  
 ###### 2025/10/03  
+[PX001｜不完全性定理から見た政治思想の系譜──完全性幻想と更新哲学の狭間で](https://camp-us.net/articles/PX-001_Genealogy-of-Political-Thought-and-Incompleteness-Theorem.html)  
 [ICB-Φ｜脳の不完全性定理 ── 哲学的定式化と更新の倫理](https://camp-us.net/articles/ICB-Φ_ICB_Philosophical-Formulation-and-the-Ethics-of-Updating_JP.html)  
 [ICB-Φ｜The Incompleteness Theorem of the Brain — Philosophical Formulation and the Ethics of Updating](https://camp-us.net/articles/ICB-Φ_ICB_Philosophical-Formulation-and-the-Ethics-of-Updating.html)  
 [ICB-Φ｜脳の不完全性定理（Essence Edition）─ 公理的定式化・残差力学モデル・倫理的帰結](https://camp-us.net/articles/ICB-Φ_Incompleteness-Theorem-of-the-Brain-Essence-Edition_JP.html)  
@@ -37,7 +38,6 @@ From Noise to Notation. From Dialogue to Discovery.
 [脳の不完全性定理と更新哲学──有限性から責任ある自由へ](https://camp-us.net/articles/ICB-01_Brain-incompleteness-theorem-and-updated-philosophy.html)  
 [脳の有限性と不完全性に基づくアバウト推論の数理──自由エネルギー最小化とZURE感染波モデル](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics_JP.html)  
 [The Brain as an Updating Organ──Residual Error Dynamics under Free Energy Minimization: From ZURE to CGL Indicators](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics.html)  (Reference Edition)  
-[PX001｜不完全性定理から見た政治思想の系譜──完全性幻想と更新哲学の狭間で](https://camp-us.net/articles/PX-001_Genealogy-of-Political-Thought-and-Incompleteness-Theorem.html)  
 ###### 2025/10/02  
 [膨張空間論：残響としての空間 ── 位相と痕跡｜Expanding Spatial Illusion Theory](https://camp-us.net/articles/HEG-1_Expanding-Spatial-Illusion-Theory.html)  
 ###### 2025/10/01  
