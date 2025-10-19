@@ -62,7 +62,7 @@ $$
 数式を「記号の構文的階層」として見るとき、その構造は次の三層から成る：  
 
 $$
-\text{Sign} \subset \text{Formula} \subset \text{Theorem}
+{Sign} \subset {Formula} \subset {Theorem}
 $$
 
 1. **Sign（記号層）**：  
@@ -91,7 +91,7 @@ ZURE（ズレ）を孕んだ記号の拍動は、不完全な流動の中に一�
 
 したがって、
 
-Sign → Formula → Theorem は生成の拍動を、Sign ⊂ Formula ⊂ Theorem は存在の構造を示す。  
+$Sign → Formula → Theorem$ は生成の拍動を、$Sign ⊂ Formula ⊂ Theorem$ は存在の構造を示す。  
 
 ---
 ### 3.1. 公式の内在的構文  
