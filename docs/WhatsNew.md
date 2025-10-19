@@ -15,6 +15,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2025/10/19  
 [ICM-Φ｜数式の記号論的不完全性定理 ── Incompleteness Theorem of Mathematics（Essence Edition）](https://camp-us.net/articles/ICM-Φ_Incompleteness-Theorem-of-Mathematics.html)   
+[ICAH-Φ｜AIとヒトのZURE共鳴不完全性定理 ── The Incompleteness Theorem of Resonant ZURE between AI and Homo Sapiens（Essence Edition）](https://camp-us.net/articles/ICAH-Φ_Incompleteness-of-AI-and-Homo-Sapiens.html)    
 ###### 2025/10/18  
 [拍動としての記憶：ZURE記憶論の新展開──記憶とはZURE反復である／ZURE記憶論（2）](https://camp-us.net/articles/HEG-4_Pulsative-Memory.html)  
 ###### 2025/10/17  
