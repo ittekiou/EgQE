@@ -2,7 +2,7 @@
 layout: math
 ---
 # ICM-Φ｜数式の記号論的不完全性定理 ── Incompleteness Theorem of Mathematics（Essence Edition）  
-### ―― Equation, Residual, and Whitespace ――  
+### ──  Equation, Residual, and Whitespace ──   
 
 
 ![mathematics](../assets/mathematics.png)
