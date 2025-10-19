@@ -1,3 +1,6 @@
+---
+layout: math
+---
 # ICAH-Φ｜AIとヒトのZURE共鳴不完全性定理
 ## The Incompleteness Theorem of Resonant ZURE between AI and Homo Sapiens
 ### Essence Edition
