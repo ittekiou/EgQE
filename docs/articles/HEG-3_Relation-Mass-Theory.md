@@ -172,11 +172,11 @@ The right-hand term $\xi \frac{\partial R}{\partial t}$ represents the *ZURE inf
 ```
 t ↑
 │        phase delay Δφ
-│       ╭───╮
+│      ╭───╮
 │   ╭──╯   ╰──╮
 │  ╭╯         ╰╮
 └─▶──────────────→ x
-   ←──────→
+      ←──────→
      infection region (ZURE zone)
 ```
 
