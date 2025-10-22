@@ -2,6 +2,8 @@
 layout: math
 ---
 ### HEG-3｜関係性質量論（技術補遺）
+
+本論：[HEG-3｜関係性質量論 ── Relation Mass Theory](https://camp-us.net/articles/HEG-3_Relation-Mass-Theory.html)  
 # HEG-3 Appendix (Draft, 2025-10-22)
 ## Relation–Mass Theory: Technical Supplements
 **Appendix I — floc 粘性テンソル化（Relational Rheology）**  

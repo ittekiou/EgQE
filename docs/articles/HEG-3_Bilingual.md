@@ -11,6 +11,9 @@ license: Echodemy Open Syntax License 2.0
 layout: math
 ---
 ### HEG-3｜関係性質量論（対照版）
+
+本論：[HEG-3｜関係性質量論 ── Relation Mass Theory](https://camp-us.net/articles/HEG-3_Relation-Mass-Theory.html)  
+
 # 🪐 HEG-3｜Relational Mass Theory — Gravity as Phase Delay  
 ## 関係性質量論──位相遅延としての重力  
 
