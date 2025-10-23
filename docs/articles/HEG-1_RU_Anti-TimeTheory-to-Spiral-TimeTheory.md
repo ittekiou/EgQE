@@ -248,6 +248,12 @@ $$
 - K.E. Itekki 『ZURE感染宇宙論』(2025), [camp-us.net](https://camp-us.net/articles/HEG-1-3_ZURE_Infection_Wave_Cosmology_JP.html)  
 
 ---
+
+本稿で展開した螺旋時間論の基礎には、観測＝感染というZUREモデルの数理構造が存在する。  
+その定式化とパルス・スパイラルの導出については、[Appendix A｜ZURE Infection Integral Model](https://camp-us.net/articles/HEG-1_RU_AppendixA_ZURE-Infection-Integral.html)を参照のこと。  
+ここでは、時間の生成が観測痕跡の積分過程として説明される。
+
+---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  
