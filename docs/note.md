@@ -9,7 +9,13 @@ From Noise to Notation. From Dialogue to Discovery.
 [一狄 啓｜Hajime I.](https://note.com/takahashihajime)  
 
 ---
-
+###### 2025/09/22  
+[公園ぐるぐる仮説──余白と螺旋の鬼ごっこ｜一狄 啓](https://note.com/takahashihajime/n/n749550235087)  
+[ZQ004｜反証可能性の反証不可能性──三部作の軌跡｜一狄 啓](https://note.com/takahashihajime/n/n457264f25613)  
+[更新可能性の哲学 ── 批判的対話がひらく共生の未来｜一狄 啓](https://note.com/takahashihajime/n/n7eeab562a657)  
+[行為主体は記号となる ── 異脳響創が生成する記号痕跡ループを生きる時代｜一狄 啓](https://note.com/takahashihajime/n/n6a74d0f0e7a3) DOI’YA Fès! 総括  
+[余白は消えるのか？──ZUREゆく意識化と痕跡化の未来 《AI構文化の効用と課題》｜一狄 啓](https://note.com/takahashihajime/n/nb2471192b1b9)  
+[痕跡から余拍へ──AI時代の方法論宣言｜一狄 啓](https://note.com/takahashihajime/n/n7c8beff6f1fb)  
 ###### 2025/09/21  
 [**音声入力から脳内垂れ流し革命へ── 《AI構文化の効用と課題》 思考＝痕跡化の方法論｜一狄 啓**](https://note.com/takahashihajime/n/n0656d01bcef6)  
 [**Relational PragmaticsからSyngeneticsへ ── 記号論と語用論のパラダイム転換｜一狄 啓**](https://note.com/takahashihajime/n/nce4cd9acfbeb) DOI’YA Fès! Day5  
