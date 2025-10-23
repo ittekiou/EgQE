@@ -125,6 +125,10 @@ a paradigm shift beyond both Anti-Time and cyclical time models.
 
 ---
 
+[Appendix A｜ZURE Infection Integral Model](https://camp-us.net/articles/HEG-1_RU_AppendixA_ZURE-Infection-Integral.html)  
+
+---
+
 # 瞬拍の螺旋 ── ZURE感染波と螺旋時間論  
 ## 反時間論をこえて  
 
