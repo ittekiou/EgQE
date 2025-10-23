@@ -6,7 +6,7 @@
 **“Perfect consensus today is but imperfect responsibility toward the future.”**  
 
 ---
-### **bstract**
+### **abstract**
 
 Deliberative democracy has long emphasized consensus, rational discourse, and communicative agreement. Yet history reminds us: **societies that pursued complete agreement often slid into authoritarian control, silencing dissent in the name of harmony.**
 

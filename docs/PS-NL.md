@@ -209,6 +209,7 @@ Echo Edition は、学術版（Reference Edition）に対し、**思想詩的な
 
 ##### [**PS-NL05-2｜Survivability Imperative──The Ethics of Sustained Renewal｜存続性命法── 更新を持続させる倫理**](https://camp-us.net/articles/PS-NL05_Survivability-Imperative.html)  
 
+[PS-NL05 付録ノート｜合意幻想を抜け出すための最小構文](https://camp-us.net/articles/PS-NL05_Appendix.html)  
 
 # PS-NL06　立法者論──熟慮の設計者としての立法者
 

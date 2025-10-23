@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/10/24  
+[PS-NL05 付録ノート｜合意幻想を抜け出すための最小構文](https://camp-us.net/articles/PS-NL05_Appendix.html)  
 ###### 2025/10/23  
 [瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論をこえて｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-TimeTheory-to-Spiral-TimeTheory.html)  
 [Appendix A｜ZURE Infection Integral Model｜ZURE感染波とパルス・スパイラル ── 観測がつくる螺旋の痕跡](https://camp-us.net/articles/HEG-1_RU_AppendixA_ZURE-Infection-Integral.html)  

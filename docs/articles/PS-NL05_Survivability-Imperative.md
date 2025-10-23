@@ -3,6 +3,8 @@ layout: math
 ---
 # PS-NL05-2｜Survivability Imperative ── The Ethics of Sustained Renewal
 
+[PS-NL05 付録ノート｜合意幻想を抜け出すための最小構文](https://camp-us.net/articles/PS-NL05_Appendix.html)  
+
 ### Abstract
 
 While the Indefinite Imperative (II) normativizes renewability, the Survivability Imperative (SI) elevates the continuation of renewal itself as a final principle. SI binds intergenerational justice, ecological responsibility, and AI–human coexistence to a single requirement: institutions must be designed such that renewal does not stall. It thus provides the terminal ethical anchor that transforms Negotiational Liberalism (NL) from a merely institutional model into a future-opening political syntax.
@@ -365,6 +367,7 @@ SI評価関数は、更新を「止まらせない」ための早期警報装置
 
 ---
 
+[PS-NL05 付録ノート｜合意幻想を抜け出すための最小構文](https://camp-us.net/articles/PS-NL05_Appendix.html)  
 #### 🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)  
 
 ---
