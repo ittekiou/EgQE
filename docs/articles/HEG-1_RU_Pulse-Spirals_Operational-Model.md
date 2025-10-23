@@ -4,6 +4,8 @@ layout: math
 # Pulse-Spirals｜Operational Model of Spiral-Time Syntax
 ### — From Trace to Time
 
+本論：[瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論から螺旋時間論へ｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-TimeTheory-to-Spiral-TimeTheory.html)  
+[Appendix A｜ZURE Infection Integral Model｜ZURE感染波とパルス・スパイラル ── 観測がつくる螺旋の痕跡](https://camp-us.net/articles/HEG-1_RU_AppendixA_ZURE-Infection-Integral.html)  
 
 ## 要約
 
