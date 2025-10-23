@@ -1,7 +1,9 @@
 ---
 layout: math
 ---
-# Pulse Spirals｜最小定義セット
+# Pulse-Spirals｜Operational Model of Spiral-Time Syntax
+### — From Trace to Time
+
 
 ## 要約
 
