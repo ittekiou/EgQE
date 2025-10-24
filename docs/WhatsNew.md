@@ -14,6 +14,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2025/10/24  
+[CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition｜黄金比の構文論的転回 ――From the Geometric Legacy to the Poetic Ratio of Relation](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Bridge-Edition.html)  
 [PS-NL05 付録ノート｜合意幻想を抜け出すための最小構文](https://camp-us.net/articles/PS-NL05_Appendix.html)  
 ###### 2025/10/23  
 [瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論をこえて｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-TimeTheory-to-Spiral-TimeTheory.html)  
