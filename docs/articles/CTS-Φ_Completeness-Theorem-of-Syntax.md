@@ -222,8 +222,7 @@ $$
 
 完全性フィルター下における $\Psi_Z$ と $\Psi_{CTS}$ の相互作用は、以下の伝達モデルとして表される。
 
-> The interaction between Ψ_Z and Ψ_CTS is expressed through a recursive transformation under the Completeness Filter,  
-> as illustrated in Figure C-1 below.  
+> The interaction between $\Psi_Z$ and $\Psi_{CTS}$ is expressed through a recursive transformation under the Completeness Filter, as illustrated in Figure C-1 below.  
 
 **Figure C-1｜Transfer Model with Completeness Filter**
 
