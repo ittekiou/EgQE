@@ -1,17 +1,13 @@
 ---
-title: CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition
+title: CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition (Revised)
 subtitle: 黄金比の構文論的転回 — From the Geometric Legacy to the Poetic Ratio of Relation
 author: Ittekioh & Kyōei (Echodemy)
 series: ZURE Syntax Series
-edition: Golden Bridge Edition
-date: R07/10/24
+edition: Golden Bridge Edition — 呼吸再帰版 (GZR-Φ)
+date: R07/10/26
 tags:
-  - ZURE Theory
-  - Golden Ratio
-  - Syntactic Turn
   - Completeness
   - Incompleteness
-  - Relational Syntax
 layout: math
 ---
 # CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition
@@ -20,14 +16,13 @@ layout: math
 
 ### From the Geometric Legacy to the Poetic Ratio of Relation
 
-
-> **Historically, the golden ratio was defined as a static proportion of harmony.**
-> **In CTS-Φ, we reinterpret it as a recursive syntactic relation between Self and Other:**
-> **a living equation of mediation rather than a fixed number.**
+> **Historically, the golden ratio was defined as a static proportion of harmony.**  
+> **In CTS-Φ, we reinterpret it as a recursive syntactic relation between Self and Other:**  
+> **a living equation of mediation rather than a fixed number.**  
 >
-> **黄金比は歴史的に、「静的な調和の比」として定義されてきた。**
-> **しかしCTS-Φにおいて私たちは、それを「自己と他者の再帰的構文関係」として再解釈する。**
-> **それは固定された数ではなく、「媒介として生きる方程式」である。**
+> **黄金比は歴史的に、「静的な調和の比」として定義されてきた。**  
+> **しかしCTS-Φにおいて私たちは、それを「自己と他者の再帰的構文関係」として再解釈する。**  
+> **それは固定された数ではなく、「媒介として生きる方程式」である。**  
 
 [CTS-Φ｜The Completeness Theorem of Syntax ── 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
 
@@ -65,7 +60,7 @@ layout: math
 
 ---
 
-### 2. CTS-Φ / GZT-Φ の登場（構文的統合）  
+### 2. CTS-Φ / GZR-Φ の登場（構文論的統合）  
 
 本稿では、黄金比を「形」ではなく**関係そのものの拍動比 (pulsative ratio of relation)** として再定義する。  
 
@@ -81,40 +76,43 @@ layout: math
 
 ---
 
-# Ⅲ. The Golden ZURE Transformation (GZT-Φ)  
-## 黄金比構文変換 ── 完全性から不完全性へ  
+# Ⅲ. The Golden ZURE Recursion (GZR-Φ)  
+## 黄金比構文再帰 ── 完全性から不完全性へ  
 
 > *“Between self and other, there breathes a ratio that never closes.”*  
 > — Echodemy Aphorism  
 
 ### 1. 構文的完全性 (CTS-Φ)  
 
-完全性とは、Self・Other・Mediator($Φ$) の三項連鎖が  一時的安定を保つ状態である。  
+完全性とは、Self・Other・Mediator($Φ$) の三項連鎖が一時的安定を保つ状態である。  
 
 $$
-\frac{Self+Other}{Self} = \frac{Self}{Other} = \Phi
+\frac{Self+Other}{Self} = \frac{Self}{Other} = Φ
 $$  
 
-$Φ$ は「等しからざるものを響かせる調和比」──  秩序ある不安定性の最小条件である。  
+$Φ$ とは、「他者との出会いが成立するための生成中心（center of generative resonance）」である。  
 
 ---
 
-### 2. 黄金比の変換原理：GZT-Φ  
+### 2. 黄金比の呼吸再帰原理：GZR-Φ  
 
 $$
 (\text{Self})_{n+1}=Φ(\text{Other})_n,\qquad  
-(\text{Other})_{n+1}=(1-Φ)(\text{Self})_n
+(\text{Other})_{n+1}=\frac{1}{Φ}(\text{Self})_n
 $$  
 
-関係は$Φ$比を保ちながら螺旋的に更新される。  
-この更新周期が **Golden Phase = 0.618 拍**。  
+この関係は、自己と他者が **拡張と収束の呼吸を繰り返す構文的振動系** を表す。  
+Φ は拡張係数（伸張）、1/Φ は収束係数（帰還）。  
+両者は 1＜k＜Φ の範囲で安定し、**非対称の持続域（the golden living zone）** に呼吸する。  
 
 ---
 
 ### 3. 完全性→非完結性  
 
-$Φ$は自己相似であり自己言及的。  
-完全一致は存在せず、**非完結の安定化**こそが完全性の本質である。  
+この関係比は、1（同一化）と $Φ$（調和的非対称）のあいだに呼吸する。  
+1 ＜ k ＜ $Φ$ の範囲を、私たちは “非対称の持続域 (the golden living zone)” と呼ぶ。  
+そこでは、Self と Other が過剰にも欠如にも陥らず、関係として生き延びる。  
+$Φ$ は自己相似であり自己言及的である。完全一致は存在せず、**非完結の安定化**こそが完全性の本質である。  
 
 $$
 \text{Completeness} \Rightarrow \text{Stabilized Incompleteness}
@@ -134,14 +132,14 @@ $$
 | b | 観測対象 (Other) |
 | a − b | ZURE = 余白／差分 |
 
-$Φ$は「自己と他者の間の余白」を安定化させる。  
+$Φ$ は「自己と他者の間の余白」を安定化させる。  
 それは **関係の拍動比 (pulsative ratio)** である。  
 
 ---
 
-### 5. 定理 GZT-Φ：共鳴変換  
+### 5. 定理 GZR-Φ：共鳴再帰  
 
-> **Theorem GZT-Φ**  
+> **Theorem GZR-Φ**  
 > すべての Φ を保つ自己‐他者関係は、非完結を更新し続ける形へと収束する。  
 
 黄金比とは静止ではなく、更新の呼吸である。  
@@ -174,19 +172,19 @@ $Φ$は「自己と他者の間の余白」を安定化させる。
 - 中心：関係の共鳴核  
 - 交点：ZURE 発生点  
 
-再帰式： $S_{n+1}=ΦO_n,\;O_{n+1}=(1-Φ)S_n$  
+再帰式： $S_{n+1}=ΦO_n,\;O_{n+1}=\frac{1}{Φ}S_n$  
 
 ### 波動対応図 (Figure E-右図)  
-
 $$
 \psi_{n+1}(θ)=\psi_n(Φθ)
 $$  
+
 $Φ$ = ZURE調停係数。  
 この写像が CTS-Φ → ICB-Φ を結ぶ数理的ブリッジ。  
 
 ---
 ### Figure E-Complete. Golden Syntax Diptych  
-From Ratio to Resonance — A dual structure linking geometrical syntax and recursive wave mapping in $Φ$-space. 
+From Ratio to Resonance — A dual structure linking geometrical syntax and recursive wave mapping in $Φ$-space.  
 ### 図E-完全版　黄金構文二連図  
 比例から共鳴へ――$Φ$空間における幾何構文と再帰的波動写像を結ぶ二重構造。  
 ![GoldenSyntaxDiptych](../assets/GoldenSyntaxDiptych.png)
@@ -198,7 +196,12 @@ From Ratio to Resonance — A dual structure linking geometrical syntax and recu
 > きみとわたしのあいだに　星が一つ息をしている  
 > その拍こそ ZURE 、その呼吸こそ $Φ$  
 
-黄金比は、世界を固定せず、**対話として生成する秩序** である。  
+黄金比が形態の調和であるなら、構文比 $Φ$ は関係の呼吸である。  
+構文比 $Φ$ は、自己と他者のあいだに発生する響きの比率である。  
+$Φ$ とは、自己と他者がたがいに呼吸しながら活かしあい ZURE 存続するための生成的中心拍（generative beat）である。  
+
+$Φ$ は、完全でも不完全でもない。  
+それは「ずれ（ZURE）」という不完全性の中に潜む、完全への 非到達的志向 である。  
 
 ---
 © 2025 K.E. Itekki  
@@ -209,4 +212,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Oct 24, 2025 · Web Oct 24, 2025 |</p>
+<p align="center">| Drafted Oct 24, 2025 · Revised Oct 26, 2025 |</p>
