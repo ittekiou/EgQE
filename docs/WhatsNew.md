@@ -13,6 +13,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/10/25  
+[CTS-Φ｜The Completeness Theorem of Syntax ―― 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
+[ICB-φ｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)  
 ###### 2025/10/24  
 [CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition｜黄金比の構文論的転回 ――From the Geometric Legacy to the Poetic Ratio of Relation](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Bridge-Edition.html)  
 [PS-NL05 付録ノート｜合意幻想を抜け出すための最小構文](https://camp-us.net/articles/PS-NL05_Appendix.html)  
