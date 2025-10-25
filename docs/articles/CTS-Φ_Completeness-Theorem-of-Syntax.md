@@ -347,8 +347,9 @@ $Φ$ は、自己完結でも他者依存でもない。
 したがって $Φ$ とは、「**他者との出会いが成立するための生成中心**（center of generative resonance）」である。  
 
 $$
-\frac{Self+Other}{Self} = \frac{Self}{Other} = \Phi
-$$  
+\frac{Self+Other}{Self} = \frac{Self}{Other} = Φ
+$$
+
 この比は、同一性と差異性の両立条件の中心点を表す。  
 自己が他者を包み込み、他者が自己を反照する。  
 それが黄金比という**共振比**（**Resonant Ratio**）である。  
