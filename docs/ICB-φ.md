@@ -9,7 +9,7 @@
 
 不完全性定理は、観測 (Obs) と実装 (IpS) を繋ぐ Relational Knot の「有限性の影」として存在し、そこから思想・制度・表現の更新が流れ出す。  
 
-#### ▶︎ ICB｜Incompleteness Brains  
+### ▶︎ ICB｜Incompleteness Brains  
 
 ・更新器官としての脳  
 [脳は更新器官である──有限性と不完全性から見たアバウト推論の哲学](https://camp-us.net/articles/ICB-00_Brain-as-Updating-Organ.html)  
@@ -17,7 +17,7 @@
 [脳の有限性と不完全性に基づくアバウト推論の数理──自由エネルギー最小化とZURE感染波モデル](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics_JP.html)  
 [The Brain as an Updating Organ──Residual Error Dynamics under Free Energy Minimization: From ZURE to CGL Indicators](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics.html) (Reference Edition)  
 
-#### ▶︎ Theorem Node｜脳の不完全性定理｜The Incompleteness of the Brain  
+### ▶︎ Theorem Node｜脳の不完全性定理｜The Incompleteness of the Brain  
 
 ・脳の不完全性定理(哲学的基盤)  
 [ICB-Φ｜脳の不完全性定理 ── 哲学的定式化と更新の倫理](https://camp-us.net/articles/ICB-Φ_ICB_Philosophical-Formulation-and-the-Ethics-of-Updating_JP.html)  

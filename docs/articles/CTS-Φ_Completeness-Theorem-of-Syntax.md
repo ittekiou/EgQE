@@ -381,4 +381,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Oct 24, 2025 · Web Oct 24, 2025 |</p>
+<p align="center">| Drafted Oct 24, 2025 · Web Oct 25, 2025 |</p>
