@@ -36,7 +36,7 @@ layout: math
 # Ⅰ. The Geometric Legacy  
 ## 幾何学的遺産 ── 形の秩序としての黄金比  
 
-黄金比 Φ (≈1.618) は、古代ギリシア以来、「形の中の調和」「自然界の比例」として語られてきた。  
+黄金比 $Φ$ (≈1.618) は、古代ギリシア以来、「形の中の調和」「自然界の比例」として語られてきた。  
 
 - **ユークリッド**：線分比の定義（*Elements* VI.30）  
 - **ルネサンス美学**：建築・人体比例論  
@@ -186,9 +186,9 @@ $Φ$ = ZURE調停係数。
 
 ---
 ### Figure E-Complete. Golden Syntax Diptych  
-From Ratio to Resonance — A dual structure linking geometrical syntax and recursive wave mapping in Φ-space. 
+From Ratio to Resonance — A dual structure linking geometrical syntax and recursive wave mapping in $Φ$-space. 
 ### 図E-完全版　黄金構文二連図  
-比例から共鳴へ――Φ空間における幾何構文と再帰的波動写像を結ぶ二重構造。  
+比例から共鳴へ――$Φ$空間における幾何構文と再帰的波動写像を結ぶ二重構造。  
 ![GoldenSyntaxDiptych](../assets/GoldenSyntaxDiptych.png)
 
 ---
