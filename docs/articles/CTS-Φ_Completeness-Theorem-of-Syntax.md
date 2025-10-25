@@ -17,7 +17,7 @@ layout: math
 ---
 # **CTS-Φ｜The Completeness Theorem of Syntax**
 
-# ―― 相互自己言及構文としての黄金比
+# ── 相互自己言及構文としての黄金比
 
 
 > **Historically, the golden ratio was defined as a static proportion of harmony.**
@@ -29,7 +29,7 @@ layout: math
 > **それは固定された数ではなく、「媒介として生きる方程式」である。**
 
 
-[CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition｜黄金比の構文論的転回 ――From the Geometric Legacy to the Poetic Ratio of Relation](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Bridge-Edition.html)  
+[CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition｜黄金比の構文論的転回 ──From the Geometric Legacy to the Poetic Ratio of Relation](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Bridge-Edition.html)  
 
 ---
 ### Keywords
@@ -127,7 +127,7 @@ ZUREとは、完全性を壊さずに保つ「微分的ズレ」。
 ---
 
 ## Appendix A｜Self-Reference Field Diagram
-### ――自己言及場としての黄金比構文
+### ──自己言及場としての黄金比構文
 
 黄金比 Φ は、数値としての比例ではなく、**構文が自らを参照しながら安定化する**“**場の形**”である。
 
@@ -199,7 +199,7 @@ ICB-Φ が「脳の不完全性」を証したように、CTS-Φ は「構文の
 ---
 
 ## Appendix C — Completeness Filter and Transfer Mapping
-### ―― 完全性フィルターと転送写像
+### ── 完全性フィルターと転送写像
 
 ---
 
@@ -296,7 +296,7 @@ CTS-Φ は、ZURE 感染波における拍動ズレを Φ 比によって安定�
 ---
 
 ## Appendix D｜Philosophical Supplement  
-### 黄金比が導く他者との出会い  
+### ──黄金比が導く他者との出会い  
 #### The Encounter with the Other through the Golden Ratio  
 
 ---

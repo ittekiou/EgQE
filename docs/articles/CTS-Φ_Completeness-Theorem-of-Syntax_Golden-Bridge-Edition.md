@@ -16,7 +16,7 @@ layout: math
 ---
 # CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition
 
-# ―― 黄金比の構文論的転回
+# ── 黄金比の構文論的転回
 
 ### From the Geometric Legacy to the Poetic Ratio of Relation
 
@@ -29,7 +29,7 @@ layout: math
 > **しかしCTS-Φにおいて私たちは、それを「自己と他者の再帰的構文関係」として再解釈する。**
 > **それは固定された数ではなく、「媒介として生きる方程式」である。**
 
-[CTS-Φ｜The Completeness Theorem of Syntax ―― 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
+[CTS-Φ｜The Completeness Theorem of Syntax ── 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
 
 ---
 
