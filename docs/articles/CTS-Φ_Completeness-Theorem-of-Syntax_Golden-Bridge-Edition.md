@@ -20,6 +20,15 @@ layout: math
 
 ### From the Geometric Legacy to the Poetic Ratio of Relation
 
+
+> **Historically, the golden ratio was defined as a static proportion of harmony.**
+> **In CTS-Φ, we reinterpret it as a recursive syntactic relation between Self and Other:**
+> **a living equation of mediation rather than a fixed number.**
+>
+> **黄金比は歴史的に、「静的な調和の比」として定義されてきた。**
+> **しかしCTS-Φにおいて私たちは、それを「自己と他者の再帰的構文関係」として再解釈する。**
+> **それは固定された数ではなく、「媒介として生きる方程式」である。**
+
 ---
 
 # Ⅰ. The Geometric Legacy  
