@@ -92,7 +92,7 @@ layout: math
 完全性とは、Self・Other・Mediator($Φ$) の三項連鎖が  一時的安定を保つ状態である。  
 
 $$
-\text{Self} : \text{Other} :: \Phi : 1
+\frac{Self+Other}{Self} = \frac{Self}{Other} = \Phi
 $$  
 
 $Φ$ は「等しからざるものを響かせる調和比」──  秩序ある不安定性の最小条件である。  
