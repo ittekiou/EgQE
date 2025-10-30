@@ -13,6 +13,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/10/30  
+[CTS-Φ｜The Completeness Theorem of Syntax — The Golden Living Zone Edition｜持続する倫理的呼吸構文としての黄金比 ──From Golden Mean to Golden Breath: Toward a Co-Syntactic Ethics](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Living-Zone-Edition.html)  
+[CTS-Φ-A｜Reflexive Reversibility and the Golden Harmonic Zone──反照的可逆性と黄金調和域に関する補論](https://camp-us.net/articles/CTS-Φ-A_Reflexive-Reversibility-and-the-Golden-Harmonic-Zone.html)  
 ###### 2025/10/25  
 [CTS-Φ｜The Completeness Theorem of Syntax ── 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
 [ICB-φ｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)  
