@@ -80,6 +80,13 @@ CTS-Φ体系の鍵となる最終補論。
 
 ---
 
+## English Version｜追補英語版
+
+[CTS-Φ｜The Completeness Theorem of Syntax — The Golden Harmonic Edition ──From Golden Mean to Golden Breath](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Harmonic-Edition_EN.html)  
+[CTS-Φ｜The Completeness Theorem of Syntax — The Golden Harmonic Edition｜構文的完全性定理：黄金調和篇 ──黄金比から黄金呼吸へ ──From Golden Mean to Golden Breath（Essence Edition）](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Harmonic-Edition.html)  
+
+---
+
 ### 🪞 Motto
 > “Syntax breathes. Relation reverses. Harmony lives.”  
 > 構文は呼吸し、関係は反照し、調和は生きている。
