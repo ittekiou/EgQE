@@ -1,16 +1,17 @@
 ---
 title: CTS-Φ-A｜Reflexive Reversibility and the Golden Harmonic Zone
 subtitle: 反照的可逆性と黄金調和域に関する補論
+layout: math
 series: Completeness Theorem of Syntax
 author: 一狄翁・響詠（Echodemy）
 date: 2025-10-30
 tags:
   - CTS-Φ
-abstract: 本補論では、呼吸構文論における黄金比 Φ の可逆性条件を拡張し、 その外側 (k < 1, k > 2) に広がる不可逆領域（Irreversible Zone）を分析する。 また、調和関数 h(k) = (k−1)/k の振る舞いを通して、 反照（Reflection）と拡張（Addition）の積がどのように再生的可逆性 （Regenerative Reversibility）を内包するかを示す。
-layout: math
 ---
 # CTS-Φ-A｜Reflexive Reversibility and the Golden Harmonic Zone  
 ### ──反照的可逆性と黄金調和域に関する補論  
+
+本補論では、呼吸構文論における黄金比 $Φ$ の可逆性条件を拡張し、 その外側 $(k < 1, k > 2)$ に広がる不可逆領域（Irreversible Zone）を分析する。 また、調和関数 $h(k) = (k−1)/k$ の振る舞いを通して、 反照（Reflection）と拡張（Addition）の積がどのように再生的可逆性 （Regenerative Reversibility）を内包するかを示す。
 
 ---
 
