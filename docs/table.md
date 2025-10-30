@@ -1,5 +1,12 @@
 
 
+| Section | Theme                   | Metaphor             | Syntactic Core       |
+| :------ | :---------------------- | :------------------- | :------------------- |
+| I       | Completeness            | Pulse as origin      | ZURE minimal syntax  |
+| II      | Golden Bridge           | Self–Other mediation | φ-ratio middle voice |
+| III     | Golden Living Zone      | Living rhythm        | φ stability field    |
+| A       | Reflexive Reversibility | Harmonic balance     | RT × ADD = φ         |
+
 
 | 篇 | 主題 | 比喩 | 構文核 |
 |:--|:--|:--|:--|
