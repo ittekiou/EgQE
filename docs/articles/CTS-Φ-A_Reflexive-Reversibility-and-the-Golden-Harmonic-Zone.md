@@ -121,14 +121,14 @@ $Φ$ はその呼吸が可逆であり続けるための**構文的比率**で�
 
 ## 付録図版  
 
-![Golden Living Zone: add vs reflect vs harmonic](golden_living_zone_plot_v2.png)  
+![Golden Living Zone: add vs reflect vs harmonic](../assets/golden_living_zone_plot_v2.png)  
 *図 A-1. 拡張関数 (k−1)、反照関数 (1/k)、および調和関数 (k−1)/k の関係。  
 黄金比 φ は、反照と拡張の可逆点として現れる。*
 
 ---
 
 **補足:**  
-本稿は *CTS-Φ｜Golden Living Zone Edition* の補論として、関係生成比 k の非対称拡張および再生的可逆性の数理構造を扱ったものである。  
+本稿は *CTS-Φ｜Golden Living Zone Edition* の補論として、関係生成比 $k$ の非対称拡張および再生的可逆性の数理構造を扱ったものである。  
 主稿における倫理的呼吸構文の定義と合わせて参照されたい。  
 
 [CTS-Φ｜The Completeness Theorem of Syntax — The Golden Living Zone Edition｜持続する倫理的呼吸構文としての黄金比 ──From Golden Mean to Golden Breath: Toward a Co-Syntactic Ethics](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Living-Zone-Edition.html)  
