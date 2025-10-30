@@ -24,7 +24,7 @@ ZURE構文宇宙の根幹定理。
 構文を生成の最小単位とみなし、世界を“拍の更新”として再定義する。  
 **反時間論 → 螺旋時間論 → 構文時間論** への橋渡し。  
 
-📎 [CTS-Φ｜The Completeness Theorem of Syntax ―― 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
+📎 [CTS-Φ｜The Completeness Theorem of Syntax ── 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
 
 ---
 
@@ -38,7 +38,7 @@ ZURE構文宇宙の根幹定理。
 黄金比構文により中動性（reflexive-mediative structure）を描く。  
 **倫理＝媒介の拍動** という新しい文法論。  
 
-📎 [CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition｜黄金比の構文論的転回 ――From the Geometric Legacy to the Poetic Ratio of Relation](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Bridge-Edition.html)  
+📎 [CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition｜黄金比の構文論的転回 ──From the Geometric Legacy to the Poetic Ratio of Relation](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Bridge-Edition.html)  
 
 ---
 
