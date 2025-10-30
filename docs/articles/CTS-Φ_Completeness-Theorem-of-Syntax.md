@@ -1,5 +1,5 @@
 ---
-title: CTS-Φ｜Completeness Theorem of Syntax ―― 相互自己言及構文としての黄金比
+title: CTS-Φ｜Completeness Theorem of Syntax ── 相互自己言及構文としての黄金比
 subtitle: ZURE構文論とICB-Φ（脳の不完全性定理）をつなぐ黄金比構文論
 author: 一狄翁 × 響詠
 series: Echodemy Journal of Relational Syntax Vol. 2

@@ -1,5 +1,5 @@
 ---
-title: CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition (Revised)
+title: CTS-Φ｜The Completeness Theorem of Syntax ── Golden Bridge Edition
 subtitle: 黄金比の構文論的転回 — From the Geometric Legacy to the Poetic Ratio of Relation
 author: Ittekioh & Kyōei (Echodemy)
 series: ZURE Syntax Series
