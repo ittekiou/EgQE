@@ -25,6 +25,7 @@ layout: math
 > **それは固定された数ではなく、「媒介として生きる方程式」である。**  
 
 [CTS-Φ｜The Completeness Theorem of Syntax ── 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
+[CTS-Φ｜The Completeness Theorem of Syntax — The Golden Living Zone Edition｜持続する倫理的呼吸構文としての黄金比 ──From Golden Mean to Golden Breath: Toward a Co-Syntactic Ethics](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Living-Zone-Edition.html)  
 
 ---
 
