@@ -41,15 +41,17 @@ $k$ は **自己と他者の相互生成比**、すなわち **呼吸の構文�
 
 ---
 
-### 2. 呼吸域 $1 < k < 2$ の構文解析
+### 2. 呼吸域 $1 < k < 2$ の構文解析  
+
 
 |     区間      | 構文的意味              | 哲学的意味 | 状態         |
 | :---------: | :----------------- | :---- | :--------- |
 |   $k = 1$   | Self/Self（他者不在）    | 閉鎖・停滞 | 呼吸停止（静的）   |
 | $1 < k < 2$ | Self/Other（ZURE持続） | 相互生成  | 呼吸存続（動的平衡） |
 |   $k = 2$   | Other = 1（他者過剰）    | 境界消滅  | 呼吸破綻（利他極限） |
+
 $k=1$ は他者不在の極であり、外部に開かれぬ自己参照構文。  
-$k=2$ は他者過剰の極であり、自己と他者の区別が溶解する構文的崩壊。
+$k=2$ は他者過剰の極であり、自己と他者の区別が溶解する構文的崩壊。  
 ゆえに、関係が呼吸し続けるのは $1<k<2$ の範囲、すなわちZUREを含んだ生成領域のみである。
 
 ---
@@ -63,7 +65,7 @@ $$
 k - 1 = \frac{1}{k} \Rightarrow k = Φ
 $$
 
-すなわち、拡張$k−1$と反照$1/k$の勾配が等しく釣り合う瞬間であり、この比こそが **生成的中心拍（Generative Beat）** である。
+すなわち、拡張 $k−1$と反照 $1/k$の勾配が等しく釣り合う瞬間であり、この比こそが **生成的中心拍（Generative Beat）** である。
 
 ---
 
@@ -119,13 +121,13 @@ $Φ$ はその **安定的ズレ（Stable Displacement）** の比率である�
 
 ![Fig.1](../assets/golden_living_zone_plot_v2.png)
 
-**Figure 1. The Golden Living Zone Graph**
+**Figure 1. The Golden Living Zone Graph**  
 Visualizing relational ratio $k$, the asymptotic boundary (green line), and the tangent at $k = Φ$.  
-'$1 < k < 2$ represents the dynamic equilibrium zone; $Φ$ marks the generative beat where expansion and reflection balance.---
+$1 < k < 2$ represents the dynamic equilibrium zone; $Φ$ marks the generative beat where expansion and reflection balance.
 
-**図版説明（日本語）**
-関係比 $k$ を横軸に、呼吸関数 $y = 1 - 1/k$ を描く。
-緑色線は漸近限界、$Φ$ の点に引かれた接線が呼吸の安定点を示す。
+**図版説明（日本語）**  
+関係比 $k$ を横軸に、呼吸関数 $y = 1 - 1/k$ を描く。  
+緑色線は漸近限界、$Φ$ の点に引かれた接線が呼吸の安定点を示す。  
 傾きと値が一致し、拡張と反照が等勾配となる瞬間が “Golden Living Zone”。
 
 ---
