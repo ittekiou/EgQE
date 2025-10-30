@@ -62,6 +62,8 @@ _── Welcome to the syntactic field of ZURE._
 📜 [「交渉自由主義」宣言──拍動する余白と時間](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)　リリース　2025.10.1  
 🪐 [膨張空間論：残響としての空間 ── 位相と痕跡｜Expanding Spatial Illusion Theory](https://camp-us.net/articles/HEG-1_Expanding-Spatial-Illusion-Theory.html)　リリース　2025.10.2  
 🧠 [Theorem Node｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)　リリース　2025.10.3  
+🌉 [CTS-Φ Series｜構文的完全性定理の黄金比｜Completeness Theorem of Syntax](https://camp-us.net/CTS-φ.html)　　リリース　2025.10.30  
+
 
 ## 🔭 Overview  
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
