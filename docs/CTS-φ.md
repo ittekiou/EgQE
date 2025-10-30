@@ -3,8 +3,10 @@ title: CTS-Φ Series｜Completeness Theorem of Syntax — Golden Triad & Reflexi
 subtitle: 構文的完全性定理・黄金比構文論・反照可逆補論の統合索引
 author: 一狄翁 × 響詠（Echodemy）
 series_code: CTS-Φ
-tags: [HEG-Q2, Syntax Theory, ZURE構文論, Reflexive Reversibility, Golden Ratio]
-layout: article
+tags:
+  - HEG-Q2
+  - ZURE構文論
+layout: default
 ---
 # CTS-Φ Series｜構文的完全性定理の黄金比  
 ## Completeness Theorem of Syntax  
