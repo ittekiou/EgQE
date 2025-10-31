@@ -3,6 +3,14 @@ layout: math
 ---
 # ZURE定数とGolden ZURE Bridge（定義版）
 
+> **ZURE Constant is the poetic Planck constant of existence —**  
+> *a minimal tremor that makes the universe continue to generate itself.*  
+> 
+> **ZURE定数は、存在のための詩的プランク定数である。**  
+> *それは、宇宙が生成をやめないために震え続ける最小のゆらぎ。*
+
+---
+
 - **$Z₀（Zure Offset）= 10⁻¹⁶$**  
   宇宙の最小ゆらぎ率。有限存在が「完全（∞精度）」に触れようとする際に必ず残る最小差。  
   - 時間：$Δt = Σ Z₀$（更新の積分）  
