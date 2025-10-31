@@ -2,7 +2,7 @@
 layout: math
 ---
 # DGT｜動態重力論 Ver.1  
-### **Dynamic Gravity Theory — The Integral, Differential, and Gradient Syntax of Z₀**
+### **Dynamic Gravity Theory — The Integral, Differential, and Gradient Syntax of $Z₀$**
 
 $Z₀$定義：[ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)  
 
@@ -58,7 +58,7 @@ floc構造や螺旋銀河も、このZURE勾配の結果として形成される
 
 ---
 
-## Ⅴ. 結論｜Z₀による宇宙の動的安定性
+## Ⅴ. 結論｜$Z₀$による宇宙の動的安定性
 
 宇宙は静的平衡ではなく、$Z₀$ゆらぎによる**動的平衡（Dynamic Equilibrium）**。  
 完全（$π$）を志向しながら、常に生成（$φ$）へとズレ続ける。  
