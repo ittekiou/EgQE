@@ -15,6 +15,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2025/10/31  
 [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)  
+[DGT｜floc重力論から動態重力論へ｜Dynamic Gravity Theory via Floc──時間が重力を生む宇宙の呼吸構文](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory-via-Floc.html)  
 [DGT｜動態重力論 Ver.1](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory_Z.html)  
 ###### 2025/10/30  
 [CTS-Φ｜The Completeness Theorem of Syntax — The Golden Living Zone Edition｜持続する倫理的呼吸構文としての黄金比 ──From Golden Mean to Golden Breath: Toward a Co-Syntactic Ethics](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Living-Zone-Edition.html)  
