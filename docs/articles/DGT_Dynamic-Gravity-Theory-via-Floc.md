@@ -7,6 +7,17 @@ layout: math
 
 [DGT｜動態重力論 Ver.1](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory_Z.html)  
 
+## Prologue｜沈みの起源 — From Floc to Dynamics
+
+落ち葉が沈む。
+そこにまだ時間はない。
+
+風が息をはらむとき、重さが動き出す。
+
+時間は沈み、宇宙は呼吸を覚える。
+
+──flocから、動態へ。
+
 ---
 
 ## Ⅰ. 詩的導入｜時間が沈む宇宙
