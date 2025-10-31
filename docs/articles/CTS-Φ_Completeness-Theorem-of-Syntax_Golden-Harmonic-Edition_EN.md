@@ -7,6 +7,8 @@ layout: math
 
 ### *From Golden Mean to Golden Breath*
 
+[Completeness Theorem of Syntax｜CTS-Φ Series｜構文的完全性定理の黄金比](https://camp-us.net/CTS-φ.html)  
+
 ---
 
 ### **Prologue — The Ratio That Breathes**

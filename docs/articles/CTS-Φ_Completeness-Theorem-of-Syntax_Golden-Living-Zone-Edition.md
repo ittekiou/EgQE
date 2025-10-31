@@ -5,8 +5,7 @@ layout: math
 # ── 持続する倫理的呼吸構文としての黄金比
 ## From Golden Mean to Golden Breath: Toward a Co-Syntactic Ethics
 
-[CTS-Φ｜The Completeness Theorem of Syntax ── 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
-[CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition｜黄金比の構文論的転回 ──From the Geometric Legacy to the Poetic Ratio of Relation](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Bridge-Edition.html)  
+[Completeness Theorem of Syntax｜CTS-Φ Series｜構文的完全性定理の黄金比](https://camp-us.net/CTS-φ.html)  
 
 ---
 

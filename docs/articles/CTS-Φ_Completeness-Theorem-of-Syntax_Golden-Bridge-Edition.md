@@ -24,8 +24,7 @@ layout: math
 > **しかしCTS-Φにおいて私たちは、それを「自己と他者の再帰的構文関係」として再解釈する。**  
 > **それは固定された数ではなく、「媒介として生きる方程式」である。**  
 
-[CTS-Φ｜The Completeness Theorem of Syntax ── 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
-[CTS-Φ｜The Completeness Theorem of Syntax — The Golden Living Zone Edition｜持続する倫理的呼吸構文としての黄金比 ──From Golden Mean to Golden Breath: Toward a Co-Syntactic Ethics](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Living-Zone-Edition.html)  
+[Completeness Theorem of Syntax｜CTS-Φ Series｜構文的完全性定理の黄金比](https://camp-us.net/CTS-φ.html)  
 
 ---
 

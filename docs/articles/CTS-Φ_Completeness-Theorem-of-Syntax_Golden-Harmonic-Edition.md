@@ -23,6 +23,8 @@ license: CC BY-NC-SA 4.0
 
 #### ── 黄金比から黄金呼吸へ
 
+[Completeness Theorem of Syntax｜CTS-Φ Series｜構文的完全性定理の黄金比](https://camp-us.net/CTS-φ.html)  
+
 ---
 
 ## Prologue — The Golden Ratio as Pulse

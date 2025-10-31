@@ -13,6 +13,8 @@ tags:
 
 本補論では、呼吸構文論における黄金比 $Φ$ の可逆性条件を拡張し、 その外側 $(k < 1, k > 2)$ に広がる不可逆領域（Irreversible Zone）を分析する。 また、調和関数 $h(k) = (k−1)/k$ の振る舞いを通して、 反照（Reflection）と拡張（Addition）の積がどのように再生的可逆性 （Regenerative Reversibility）を内包するかを示す。
 
+[Completeness Theorem of Syntax｜CTS-Φ Series｜構文的完全性定理の黄金比](https://camp-us.net/CTS-φ.html)  
+
 ---
 
 ## Ⅰ. 黄金調和域の定義  
