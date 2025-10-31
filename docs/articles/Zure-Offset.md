@@ -1,7 +1,7 @@
 ---
 layout: math
 ---
-# ZURE定数とGolden ZURE Bridge（定義版）
+# ZURE定数とGolden ZURE Bridge（$Z₀$定義版）
 
 > **ZURE Constant is the poetic Planck constant of existence —**  
 > *a minimal tremor that makes the universe continue to generate itself.*  
