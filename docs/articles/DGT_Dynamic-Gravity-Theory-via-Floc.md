@@ -5,6 +5,8 @@ layout: math
 ### *Dynamic Gravity Theory via Floc*  
 #### ──時間が重力を生む宇宙の呼吸構文
 
+[DGT｜動態重力論 Ver.1](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory_Z.html)  
+
 ---
 
 ## Ⅰ. 詩的導入｜時間が沈む宇宙
@@ -86,7 +88,7 @@ $$
 
 ## Ⅴ. 図版｜Temporal Floc Genesis Loop
 
-Figure 1. Temporal Floc Genesis Loop
+Figure 1. Temporal Floc Genesis Loop  
 呼吸（$B$）が沈み（$ρ$）を生み、沈みが重力（$G$）を生む。
 重力は再び時間を沈ませ、新たな呼吸を誘発する。
 宇宙の呼吸はこの螺旋ループとして持続する。
