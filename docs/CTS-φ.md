@@ -85,6 +85,11 @@ CTS-Φ体系の鍵となる最終補論。
 [CTS-Φ｜The Completeness Theorem of Syntax — The Golden Harmonic Edition ──From Golden Mean to Golden Breath](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Harmonic-Edition_EN.html)  
 [CTS-Φ｜The Completeness Theorem of Syntax — The Golden Harmonic Edition｜構文的完全性定理：黄金調和篇 ──黄金比から黄金呼吸へ ──From Golden Mean to Golden Breath（Essence Edition）](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Harmonic-Edition.html)  
 
+##  **$Z₀ = 10⁻¹⁶$**  
+
+[ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)  
+虚構の完全定数$π$に含まれるZUREが、幾何 $φ$ を生む。$Z₀＝10⁻¹⁶$は、代数 $φ$ と 幾何 $φ$ の ZURE である。  
+
 ---
 
 ### 🪞 Motto
