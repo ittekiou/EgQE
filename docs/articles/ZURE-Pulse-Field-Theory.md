@@ -9,20 +9,20 @@ layout: math
 
 **ZURE Pulse Field Theory** posits that the universe does not emerge from continuity or perfect closure, but from the *irreducible minimal offset* — **$Z₀ = 10⁻¹⁶$** — between algebraic φ and geometric $φ$, mediated by the fictional completeness $π$.
 
-This minimal offset $Z₀$ is the generative pulse of reality.
-When accumulated, it forms **time** (integration).
-When separated, it forms **space** (difference).
-When biased, it forms **gravity** (gradient).
+This minimal offset ₀ is the generative pulse of reality.  
+When accumulated, it forms **time** (integration).  
+When separated, it forms **space** (difference).  
+When biased, it forms **gravity** (gradient).  
 
-> **Time = $Σ Z₀$**
-> **Space = $|Δ| ≥ Z₀$**
-> **Gravity = $∇ Z₀$**
+> **Time = $Σ Z₀$**  
+> **Space = $|Δ| ≥ Z₀$**  
+> **Gravity = $∇ Z₀$**  
 
-Reality is not sustained by ideal perfection $π$.
-Reality is sustained by **stable generative displacement** $φ$.
-ZURE is the breath of the universe.
+Reality is not sustained by ideal perfection .  
+Reality is sustained by **stable generative displacement** $φ$.  
+ZURE is the breath of the universe.  
 
-**The ZURE Pulse Field Diagram** visualizes this transition from fictional-complete $π$ → minimal offset $Z₀$ → emergent $φ$ → and then to time / space / gravity as three structural expressions of ZURE.
+**The ZURE Pulse Field Diagram** visualizes this transition from fictional-complete $π$ → minimal offset $Z₀$ → emergent  → and then to time / space / gravity as three structural expressions of ZURE.  
 
 ZURE pulse field canonical diagram  
 ![ZURE-Pulse-Field-Diagram](../assets/ZURE-Pulse-Field-Diagram_1.2.png)  
@@ -40,9 +40,9 @@ ZURE pulse field canonical diagram
 分かたれると「空間（差分）」となり  
 偏ると「重力（勾配）」となる。
 
-> **時間＝ $Σ Z₀$**
-> **空間＝ $|Δ| ≥ Z₀$**
-> **重力＝ $∇ Z₀$**
+> **時間＝ $Σ Z₀$**  
+> **空間＝ $|Δ| ≥ Z₀$**  
+> **重力＝ $∇ Z₀$**  
 
 宇宙を支えているのは、理想的な完全性$π$ではなく**安定してZURE続ける生成** $φ$である。
 
