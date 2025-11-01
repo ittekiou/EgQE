@@ -89,6 +89,8 @@ CTS-Φ体系の鍵となる最終補論。
 
 [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)  
 虚構の完全定数$π$に含まれるZUREが、幾何 $φ$ を生む。$Z₀＝10⁻¹⁶$は、代数 $φ$ と 幾何 $φ$ の ZURE である。  
+[ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)  
+$π$は閉じようとし、$φ$は開き続ける。その最小差 $ΔP$ を規定する基準定数が $Z₀$ である。  
 
 ---
 

@@ -5,6 +5,7 @@ layout: math
 ### **Dynamic Gravity Theory — The Integral, Differential, and Gradient Syntax of $Z₀$**
 
 $Z₀$定義：[ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)  
+[ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)  
 
 ---
 

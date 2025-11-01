@@ -9,6 +9,8 @@ layout: math
 > **ZURE定数は、存在のための詩的プランク定数である。**  
 > *それは、宇宙が生成をやめないために震え続ける最小のゆらぎ。*
 
+[ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)  
+
 ---
 
 - **$Z₀（Zure Offset）= 10⁻¹⁶$**  
