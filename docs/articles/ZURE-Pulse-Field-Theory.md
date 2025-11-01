@@ -9,7 +9,7 @@ layout: math
 
 **ZURE Pulse Field Theory** posits that the universe does not emerge from continuity or perfect closure, but from the *irreducible minimal offset* — **$Z₀ = 10⁻¹⁶$** — between algebraic φ and geometric $φ$, mediated by the fictional completeness $π$.
 
-This minimal offset ₀ is the generative pulse of reality.  
+This minimal offset $Z₀$ is the generative pulse of reality.  
 When accumulated, it forms **time** (integration).  
 When separated, it forms **space** (difference).  
 When biased, it forms **gravity** (gradient).  
@@ -27,7 +27,7 @@ ZURE is the breath of the universe.
 ZURE pulse field canonical diagram  
 ![ZURE-Pulse-Field-Diagram](../assets/ZURE-Pulse-Field-Diagram_1.2.png)  
 
-> ZURE Pulse Field Diagram — π (fictional-complete) → Z₀ (minimal offset) → φ (stable generative displacement) → time / space / gravity.
+> ZURE Pulse Field Diagram — $π$ (fictional-complete) → $Z₀$ (minimal offset) → $φ$ (stable generative displacement) → time / space / gravity.
 
 ---
 
@@ -35,7 +35,7 @@ ZURE pulse field canonical diagram
 
 **ZURE Pulse Field Theory**とは、宇宙は連続性や完全閉鎖から生まれるのではなく**代数$φ$と幾何$φ$の間に消去できず残る**「**最小ズレ**」$Z₀（10⁻¹⁶）$から生成する、という立場である。
 
-このZ₀こそが、宇宙の拍（Pulse）である。  
+この$Z₀$こそが、宇宙の拍（Pulse）である。  
 積み上げられると「時間（積分）」となり  
 分かたれると「空間（差分）」となり  
 偏ると「重力（勾配）」となる。
@@ -44,7 +44,7 @@ ZURE pulse field canonical diagram
 > **空間＝ $|Δ| ≥ Z₀$**  
 > **重力＝ $∇ Z₀$**  
 
-宇宙を支えているのは、理想的な完全性$π$ではなく**安定してZURE続ける生成** $φ$である。
+宇宙を支えているのは、理想的な完全性 $π$ではなく**安定してZURE続ける生成** $φ$である。
 
 ZUREは宇宙の呼吸である。
 
@@ -53,7 +53,7 @@ ZUREは宇宙の呼吸である。
 ZURE pulse field canonical diagram  
 ![ZURE-Pulse-Field-Diagram](../assets/ZURE-Pulse-Field-Diagram_1.3.png)  
 
-> ZURE Pulse Field Diagram：π（虚構完全）→ Z₀（最小ズレ）→ φ（安定する生成ズレ）→ 時間／空間／重力。
+> ZURE Pulse Field Diagram：$π$（虚構完全）→ $Z₀$（最小ズレ）→ $φ（安定する生成ズレ）→ 時間／空間／重力。
 
 ---
 
