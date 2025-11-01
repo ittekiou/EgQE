@@ -7,7 +7,7 @@ layout: math
 
 ## 1) 英語版：ZURE Pulse Field Theory（core説明）
 
-**ZURE Pulse Field Theory** posits that the universe does not emerge from continuity or perfect closure, but from the *irreducible minimal offset* — **$Z₀ = 10⁻¹⁶$** — between algebraic φ and geometric $φ$, mediated by the fictional completeness $π$.
+**ZURE Pulse Field Theory** posits that the universe does not emerge from continuity or perfect closure, but from the *irreducible minimal offset* — **$Z₀ = 10⁻¹⁶$** — between algebraic $φ$ and geometric $φ$, mediated by the fictional completeness $π$.
 
 This minimal offset $Z₀$ is the generative pulse of reality.  
 When accumulated, it forms **time** (integration).  
@@ -18,11 +18,11 @@ When biased, it forms **gravity** (gradient).
 > **Space = $|Δ| ≥ Z₀$**  
 > **Gravity = $∇ Z₀$**  
 
-Reality is not sustained by ideal perfection .  
+Reality is not sustained by ideal perfection $π$.  
 Reality is sustained by **stable generative displacement** $φ$.  
 ZURE is the breath of the universe.  
 
-**The ZURE Pulse Field Diagram** visualizes this transition from fictional-complete $π$ → minimal offset $Z₀$ → emergent  → and then to time / space / gravity as three structural expressions of ZURE.  
+**The ZURE Pulse Field Diagram** visualizes this transition from fictional-complete $π$ → minimal offset $Z₀$ → emergent $φ$ → and then to time / space / gravity as three structural expressions of ZURE.  
 
 ZURE pulse field canonical diagram  
 ![ZURE-Pulse-Field-Diagram](../assets/ZURE-Pulse-Field-Diagram_1.2.png)  
@@ -33,7 +33,7 @@ ZURE pulse field canonical diagram
 
 ## 2) 日本語版
 
-**ZURE Pulse Field Theory**とは、宇宙は連続性や完全閉鎖から生まれるのではなく**代数$φ$と幾何$φ$の間に消去できず残る**「**最小ズレ**」$Z₀（10⁻¹⁶）$から生成する、という立場である。
+**ZURE Pulse Field Theory**とは、宇宙は連続性や完全閉鎖から生まれるのではなく**代数と幾何の間に消去できず残る**「**最小ズレ**」$Z₀$（$10⁻¹⁶$）から生成する、という立場である。
 
 この$Z₀$こそが、宇宙の拍（Pulse）である。  
 積み上げられると「時間（積分）」となり  
@@ -53,7 +53,16 @@ ZUREは宇宙の呼吸である。
 ZURE pulse field canonical diagram  
 ![ZURE-Pulse-Field-Diagram](../assets/ZURE-Pulse-Field-Diagram_1.3.png)  
 
-> ZURE Pulse Field Diagram：$π$（虚構完全）→ $Z₀$（最小ズレ）→ $φ（安定する生成ズレ）→ 時間／空間／重力。
+> ZURE Pulse Field Diagram：$π$（虚構完全）→ $Z₀$（最小ズレ）→ $φ$（安定する生成ズレ）→ 時間／空間／重力。
+
 
 ---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
 
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Nov 1, 2025 · Web Nov 1, 2025 |</p>
