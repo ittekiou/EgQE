@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/11/01  
+[ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)  
 ###### 2025/10/31  
 [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)  
 [DGT｜floc重力論から動態重力論へ｜Dynamic Gravity Theory via Floc──時間が重力を生む宇宙の呼吸構文](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory-via-Floc.html)  
