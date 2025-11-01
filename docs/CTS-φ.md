@@ -6,7 +6,7 @@ series_code: CTS-Φ
 tags:
   - HEG-Q2
   - ZURE構文論
-layout: default
+layout: math
 ---
 # CTS-Φ Series｜構文的完全性定理の黄金比  
 ## Completeness Theorem of Syntax  
