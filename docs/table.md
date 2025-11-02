@@ -2,6 +2,7 @@
 
 
 
+
 | Section | Theme                   | Metaphor             | Syntactic Core       |
 | :------ | :---------------------- | :------------------- | :------------------- |
 | I       | Completeness            | Pulse as origin      | ZURE minimal syntax  |
