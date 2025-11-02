@@ -2,6 +2,7 @@
 layout: math
 title: ZURE定数とGolden ZURE Bridge（Z₀定義版）
 ---
+ZURE定数とGolden ZURE Bridge（Z₀定義版）
 # ZURE定数とGolden ZURE Bridge（$Z₀$定義版）
 
 > **ZURE Constant is the poetic Planck constant of existence —**  
