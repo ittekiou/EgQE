@@ -14,6 +14,9 @@
 
 不完全性定理は、観測 (Obs) と実装 (IpS) を繋ぐ [Relational Knot](https://camp-us.net/Relational_Knot.html)の「有限性の影」として存在し、そこから思想・制度・表現の更新が流れ出す。  
 
+[余白・痕跡・残差──生成原理としてのZURE｜Whitespace, Trace, Residual ── ZURE as a Principle of Genesis](https://camp-us.net/articles/ZURE_Whitespace-Trace-Residuals.html)  
+[HEG-2｜Sign Act Theory 2.0｜記号行為論2.0：実装する脳と実装存在論 ──The Implementing Brain & Implementation Ontology](https://camp-us.net/articles/HEG-2_SAT-2.html)  
+
 ### ▶︎ ICB｜Incompleteness Brains  
 
 ・更新器官としての脳  

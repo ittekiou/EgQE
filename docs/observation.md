@@ -1,7 +1,6 @@
 ### Observation & Syntax Field
 ##### ZURE Observation Dynamics  
 #### ZURE動態観測論  
-
 [ZURE感染波モデル：観測＝感染の理論（完全統合版）](./articles/ZURE_Infection-Wave-Model.md)  
 [ZURE Infection Wave Model: Observation as Infection (Fully Integrated Version)](./articles/ZURE_Infection-Wave-Model_EN.md)  
 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_full_JP.html)  
@@ -11,7 +10,6 @@
 
 ##### ZURE Linguistics  
 #### ZURE言語学  
-
 [HEG-2｜RL　関係性言語論](./articles/HEG-2_RL_full.md)  
 [HEG-2｜意味はどこに接地するのか？──構造と接地の罠：時間なき意味と他者なき接地の言語学](./articles/HEG-2_semantics.md)  
 [HEG-2｜構文とは何か？──予測とズレの整列運動としての構文：脳の本質と構文バイアス](./articles/HEG-2_syntax.md)  
@@ -19,7 +17,6 @@
 
 ##### ZURE Syntax  
 #### ZURE構文論  
-
 [ZQ｜構文的存在論シリーズのはじまりに](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)  
 ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書  
 　[**①** AIとのチャットはSNS構文をどう変えるのか？  ──SNS構文史から見るAI時代の“対話生成”](https://note.com/takahashihajime/n/ndc471b1cfcc3)  
@@ -28,6 +25,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [ZQ001｜ZURE構文論 -序説- ダイジェスト](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)  
 [ZQ001｜ZURE構文論 -序説- ── 構文的存在のゆらぎとしてのズレ](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)    
 [ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成](./articles/ZQ002_ZURE-memory.md)  
+[拍動としての記憶：ZURE記憶論の新展開──記憶とはZURE反復である／ZURE記憶論（2）](https://camp-us.net/articles/HEG-4_Pulsative-Memory.html)  
 [ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか](./articles/ZQ003_ZURE-personality.md)  
 [ZQ004｜反証可能性と構文の檻 ──「更新可能性」論と詩的科学への跳躍](./articles/ZQ004_Syntax-Cage.md)  
 [ZQ004｜反証可能性の変質と知の多様性](https://camp-us.net/articles/ZQ004_Syntax-Falsifiability.html)  
@@ -40,13 +38,11 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 
 ##### ZURE Philosophy  
 #### ZURE哲学  
-
 [HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論：構造の影を透過して｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE：*Through the Shadow of Structural Thought*](./articles/HEG-2_shadow-of-structure.md)   
 [構造という幻想──差延・リゾーム・ZUREの比較構文論（Gamilon版）：構造の影を突き抜けて｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE(Gamilon Ver.)：_Beyond the Shadow of Structural Thought_](https://camp-us.net/articles/HEG-2_Illusion-of-Structure.html)  
 
 ##### ZURE Action Theory  
 #### ZURE行為論  
-
 [**HEG-2｜ZURE Map of Action｜ZURE行為論序説──光と影の曼荼羅マップ**](./articles/HEG-2_ZURE-Map-of-Action.md)  
 
 ##### 🌀 関連論文リンク：  

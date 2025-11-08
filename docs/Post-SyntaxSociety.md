@@ -2,7 +2,6 @@
 
 ##### Ethics of the Indefinite Imperative  
 #### 不定言命法の倫理学  
-
 [**ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative**](./articles/ZQ006_Ethics-of-the-Indefinite-Imperative.md)  
 [FK-03｜符刻の構文彫刻｜不定言命法の実装美学：構文彫刻師による新時代倫理のプログラミング論](./articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.md)  
 [**PS-02｜存続性命法｜Survivability Imperative(実装仕様 v1.1**)](https://camp-us.net/PS-02_SI)  
@@ -13,6 +12,8 @@
 [PS-01｜アンチ・ユートピア──実践哲学としての倫理と権力〔論文編・拡張版〕](https://camp-us.net/articles/PS-01_Anti-Utopia_JP.html)  
 
 ##### Negotiative Liberalism  
+[「交渉自由主義」宣言──拍動する余白と時間](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)  
+
 #### 交渉リベラリズム  
 [**PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論**](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)  
 [**PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics**](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
@@ -38,7 +39,6 @@
 
 ##### Societal Syntax Theory  
 #### 社会構文論  
-
 [PS-E00｜ポスト構文社会の詩的経済論](./articles/PS-E00_poetic_economy.md)  
 [PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ──アルバート・O・ハーシュマンに捧ぐ](./articles/PS-L00_Interests_Syntax.md)  
 [PS-D00｜Schooled Syntax──時間割と教室割の政治：近代スクール構文を超えて](./articles/PS-D00_Schooled_Syntax.md)  

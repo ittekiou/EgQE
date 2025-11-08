@@ -9,6 +9,7 @@
 
 [HEG-1｜RSS　響創する外部記憶 ― 関係・律動・記号](./articles/HEG-1_RRS_Echo-Genesis-of-External-Memory_JP.md)  
 [HEG-1｜RSS　Echo-Genesis of External Memory: Relation, Rhythm, and Symbol](./articles/HEG-1_RRS_Echo-Genesis-of-External-Memory_EN.md)  
+[拍動としての記憶：ZURE記憶論の新展開──記憶とはZURE反復である／ZURE記憶論（2）](https://camp-us.net/articles/HEG-4_Pulsative-Memory.html)  
 
 ##### Sign Trace Theory  
 
@@ -19,6 +20,24 @@
 [記号行為進化論 II──比較理論から見る痕跡主権｜Sign Act Evolution Theory II: Trace Sovereignty through Comparative Theories](https://camp-us.net/articles/HEG-2_SAET-2)  
 [痕跡概念研究史──差延・セミオシス・拡張からAI時代へ｜A Historical Study of the Concept of Trace: From Différance, Semiosis, and Extension to the Age of AI](https://camp-us.net/articles/HEG-2_HSoCT-2)  
 
+##### Pulsating Syntax Theory  
+
+Pulsating Syntax Theory (PST) defines syntax as the orbit of pulses where time, trace, whitespace and genesis co-emerge before structure.  
+拍動構文論（PST）は、時間・痕跡・余白・生成が、形式化以前の拍動軌道（orbit）として共起する構文理論である。  
+
+[EgQE Atlas｜第一部 総括と展望｜Part I: Synthesis and Prospect](https://camp-us.net/Echodemy/EgQE_Atlas-01.html)  
+[余白・痕跡・残差──生成原理としてのZURE｜Whitespace, Trace, Residual ── ZURE as a Principle of Genesis](https://camp-us.net/articles/ZURE_Whitespace-Trace-Residuals.html)  
+[ZUREと余白の数理学 ── 生成・痕跡・時間・感染の方程式(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised.html)  
+[The Mathematics of ZURE and Whitespace──_Equations of Genesis, Trace, Time, and Infection_(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised_EN.html)  
+#### 拍動構文論
+[HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)  
+[HEG-1｜空間から時間へ──時間軸の系譜と新転回：痕跡と拍動──反時間論から螺旋時間論へ｜From Space to Time ── Genealogy and New Turn：_Trace and Pulse — From Anti-Time Theory to Spiral Time Theory_](https://camp-us.net/articles/HEG-1_Space-to-Time.html)  
+[HEG-2｜余白と生成──その系譜と新転回：生成原理としての余白── ZURE二層モデルからZURE宣言へ｜Yohaku and Genesis ── Genealogy and New Turn](https://camp-us.net/articles/HEG-2_Yohaku-and-Genesis.html)  
+[DLMZ-NL01-1｜静止から拍動へ── ZURE感染宇宙論からZURE存在論へ](https://camp-us.net/articles/DLMZ-NL01-1_Ontology.html)  
+[DLMZ-NL01-2｜定言命法から不定言命法へ── 更新可能性の倫理へ](https://camp-us.net/articles/DLMZ-NL01-2_Action.html)  
+[DLMZ-NL01-3｜反証主義から更新主義へ── 科学哲学の時間転回](https://camp-us.net/articles/DLMZ-NL01-3_Trace.html)  
+[DLMZ-NL01｜時間論的転回：三橋の解説──存在・行為・痕跡](https://camp-us.net/articles/DLMZ-NL01_triangle-bridge.html)  
+[DLMZ-NL02｜余白論の新展開 ── ZURE二層モデルから交渉リベラリズムへ](https://camp-us.net/articles/DLMZ-NL02_Yohaku.html)  
 
 ##### 🌀 関連論文リンク：  
 ・[FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から](./articles/FK-01_ZURE_Field_Poetics.md)  
