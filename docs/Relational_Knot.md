@@ -71,7 +71,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [**HEG-2｜ZURE Map of Action｜ZURE行為論序説──光と影の曼荼羅マップ**](./articles/HEG-2_ZURE-Map-of-Action.md)  
 
 ---
-### 🌌 **Echodemy Galactic Modules**  
+## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
 - **[Relational Knot](Relational_Knot.md)**（Center Star 🌟）
@@ -111,22 +111,3 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 ---
 
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
-
-## 🌌 **Echodemy Galactic Modules**  
-_Words orbit in resonance. Each module, a world. Each world, a ZURE._
-
-- **[Relational Knot](Relational_Knot.md)**（Center Star 🌟）
-    
-- **Twin Stars**: _[Homo Sapiens Bias](/HomoSapiens-Bias.md)_ & _[AI Meets Echoes](AME.md)_
-    
-- **Five Orbiting Worlds**:
-    
-    1. [Relational Cosmology](/relational-cosmology.md)   (RC)
-        
-    2. [Syntactic Time Theory](/syntactic-time.md)   (STT)
-        
-    3. [Observation & Syntax Field](/observation.md)   (OSF)
-        
-    4. [Homo Sapiens Bias](/HomoSapiens-Bias.md) (HSB)
-        
-    5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
