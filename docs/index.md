@@ -48,7 +48,6 @@ _── Welcome to the syntactic field of ZURE._
 🪐 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](DLMZ-01.md)　リリース　2025.9.14  
 🌍 [存続性命法｜Survivability Imperative(実装仕様 v1.1)](PS-02_SI)　リリース　2025.9.15  
 👻 [構造という幻想──差延・リゾーム・ZURE｜The Illusion of Structure: Différance, Rhizome, and ZURE](HEG-2_IS.md)　リリース　2025.9.16  
-🔠 [記号行為論｜Sign Act Theory](/SAT-2.md)　リリース　2025.9.16  
 🧬 [螺旋としての時間──記号的宿命としての *Pulse Spirals*](/ATT-PS.md)　リリース　2025.9.16  
 🔣 [関係的語用論 × 記号行為論 ｜Sign Act Theory × Relational Pragmatics](/SATy.md)　リリース　2025.9.17  
 🌀 [ZURE存在論｜Declaration of ZURE Ontology](/DZO.md)　リリース　2025.9.18  
@@ -65,6 +64,7 @@ _── Welcome to the syntactic field of ZURE._
 🌉 [CTS-Φ Series｜構文的完全性定理の黄金比｜Completeness Theorem of Syntax](https://camp-us.net/CTS-φ.html)　リリース　2025.10.30  
 ⭐️ [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)　リリース　2025.10.31  
 🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
+🔠 [記号行為論｜Sign Act Theory](/SAT-2.md)　リリース　2025.9.16  /Updated　2025.11.8  
 
 
 ## 🔭 Overview  
