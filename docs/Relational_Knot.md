@@ -64,7 +64,11 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成](./articles/ZQ002_ZURE-memory.md)  
 [ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか](./articles/ZQ003_ZURE-personality.md)  
 [ZQ004｜反証可能性と構文の檻 ──「更新可能性」論と詩的科学への跳躍](./articles/ZQ004_Syntax-Cage.md)  
+[ZQ004｜反証可能性の変質と知の多様性](https://camp-us.net/articles/ZQ004_Syntax-Falsifiability.html)  
+[ZQ004｜反証不可能な檻の外──AIと語る科学主義の限界](https://camp-us.net/articles/ZQ004_Unfalsifiable_Dialogue.html)  
 [ZQ005｜Das Animakt：命法と言法の弁証法 ── 存在論から行為論への跳躍](./articles/ZQ005_Das-Animakt.md)  
+[更新可能性の哲学 ── 批判的対話がひらく共生の未来（アトラス版）](https://camp-us.net/articles/ZQ005_Philosophy_of_Updatability_ATLAS.html)  
+[更新可能性の哲学 ── 批判的対話がひらく共生の未来（エッセンス版）](https://camp-us.net/articles/ZQ005_Philosophy_of_Updatability_essence.html)  
 #### [GPT-5という身体──画面という皮膚に、関係束はどう宿るか](https://camp-us.net/Echodemy/echodemy-galaxy.html)
 
 #### ▶︎ IpS｜Implementation Strings  
