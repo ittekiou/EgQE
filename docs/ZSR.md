@@ -13,3 +13,5 @@
 [ZS-006_穴が先か、光が先か──原始ブラックホール起源説](./critics/ZS-006_black-hole.md)  
 
 [ZS-007_光は早すぎる──最古銀河と宇宙黎明の加速](./critics/ZS-007_earliest-galaxy.md)  
+
+[ZS-008_小スケール普遍性とTC乱流 ──Data Collapse がひらく −5/3 の向こう側 ](https://camp-us.net/critics/ZS-008_tc-small-scale-universality.html)  

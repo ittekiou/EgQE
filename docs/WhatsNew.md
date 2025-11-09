@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/11/09  
+[ZS-008_小スケール普遍性とTC乱流 ──Data Collapse がひらく −5/3 の向こう側 ](https://camp-us.net/critics/ZS-008_tc-small-scale-universality.html)  
 ###### 2025/11/08  
 [HEG-2｜Sign Act Theory 2.0｜記号行為論2.0：実装する脳と実装存在論 ──The Implementing Brain & Implementation Ontology](https://camp-us.net/articles/HEG-2_SAT-2.html)  
 ###### 2025/11/01  
