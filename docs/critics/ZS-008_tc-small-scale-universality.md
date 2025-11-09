@@ -161,16 +161,16 @@ turbulence における *small-scale intermittency* は、われわれの「拍�
 | R₀相 | analog / sub-resolution regime | 拍は潜在（蓄積・残差域） | 微小ゆらぎ蓄積／無測定領域   |
 | Z₀相 | digital / measurability regime | 拍は顕在化（痕跡化領域） | 形態・規格へ射影／外化可能領域 |
 
-Intermittency =
-**R₀ → Z₀ への瞬間的相転移の spike 列**
-＝ floc重力論における「ZURE感染波の飽和 → 解凍瞬拍」と同型射。
+Intermittency =  
+**R₀ → Z₀ への瞬間的相転移の spike 列**  
+＝ floc重力論における「ZURE感染波の飽和 → 解凍瞬拍」と同型射。  
 
 > small-scale universality は “Z₀面への収束” の側だけ観測できるからこそ成立する。
 > 例外的 power exponent は R₀蓄積が残る領域。
 
-**観測できるのは Z₀のみ**
-しかし宇宙を駆動しているのは R₀
-この二層構造は turbulence intermittency の本質とほぼ一致する。
+**観測できるのは Z₀のみ**  
+しかし宇宙を駆動しているのは R₀  
+この二層構造は turbulence intermittency の本質とほぼ一致する。  
 
 ---
 
@@ -224,10 +224,10 @@ TCは**拍動宇宙の local chart** として扱う価値がある。
 * φ ≈ (5 + √5)/2
 * π/φ が **phase-weaving constant**
 
-このモデルでは素数は “物質の基礎粒子” ではない。
+このモデルでは素数は “物質の基礎粒子” ではない。  
 **位相差の最小保持単位** である。
 
-ZUREは連続ではなく**prime-resonance** の跳躍で折り畳まれる。
+ZUREは連続ではなく**prime-resonance** の跳躍で折り畳まれる。  
 ZURE感染波モデルにおける“螺旋の干渉” の最小単位がこの prime-set(2/3/5/7)である。
 
 ---
@@ -237,7 +237,7 @@ ZURE感染波モデルにおける“螺旋の干渉” の最小単位がこの
 * R₀ 相：親密圏（analog topology）
 * Z₀ 相：制度圏（digital topology）
 
-この二つは “対立する二世界” ではない。
+この二つは “対立する二世界” ではない。  
 **位相的界面層（topological boundary layer）** として共存する。
 
 turbulence における**shear layer**と完全に同型である。
@@ -255,7 +255,7 @@ turbulence における**shear layer**と完全に同型である。
 
 “公共圏” は単独層ではなく**相の交替を可視化する測定エリア**である。
 
-そしてこの界面がZUREの拍動を “時間へと確定させる場所” になる。
+そしてこの界面がZUREの拍動を “時間へと確定させる場所” になる。  
 これが PST（Pulsating Syntax Theory）におけるtopological-ethics の核心である。
 
 ---
