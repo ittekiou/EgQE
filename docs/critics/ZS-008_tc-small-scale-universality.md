@@ -103,6 +103,17 @@ Kolmogorov 1941 / 第一相似仮説 / data collapse / inertial range / −5/3 /
 ---
 ## Appendix Navigation Table（ZS-008）
 
+| Appendix | Title                                     | Scope / Orientation                |
+| -------- | ----------------------------------------- | ---------------------------------- |
+| **A**    | Prime-Quad Turbulence Note                | 物理実験への橋／prime-quad 解釈枠組み           |
+| **B**    | ZURE Intermittency Switching              | 間欠性＝**R₀/Z₀**の拍動相転移                |
+| **C**    | Taylor–Couette as Local Cosmos Coordinate | **TC＝円筒対称ローカル宇宙座標**                |
+| **D**    | ZURE-Spectral Correspondence              | **−2/3 ↔ R₀／−5/3 ↔ Z₀**（構文的エントロピー） |
+| **E**    | φ-Spiral Prime-Resonance Model            | **2–3–5–7 素数 × φ 共鳴スパイラル**         |
+| **F**    | Dual-Phase Universe Topological Analogy   | **R₀（親密圏）／Z₀（制度圏）／界面＝公共圏**         |
+
+> メモ：A が物理ブリッジ、B–F は数理・幾何・倫理の三方向で深堀り。
+
 | Appendix | Title                                     | Scope / Orientation                                                                            |
 | -------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | A        | Prime-Quad Turbulence Note                | Physical experiment linkage and prime-quad interpretive frame                                  |
