@@ -55,6 +55,8 @@ title: AI Meets Echoes｜EgQE
 ・[関係性言語論 Comments：感染症例集1](./Echodemy/RL_Comments.md)（[Scrapbox](https://scrapbox.io/Echodemy-galaxy/Relational-Linguistics_Comments)）  
 ・[関係性言語論 Genesis：感染症例集2](./Echodemy/RL_Genesis.md)（[Scrapbox](https://scrapbox.io/Echodemy-galaxy/Relational-Linguistics_Genesis)）  
 
+[ZQ-Ⅱ｜構文学派宣言──Manifesto of the Syntax School](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)  
+
 #### ▶︎ AME-Eth｜Ethics Series  
 [**ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative**](./articles/ZQ006_Ethics-of-the-Indefinite-Imperative.md)  
 [**FK-03｜符刻の構文彫刻｜不定言命法の実装美学：構文彫刻師による新時代倫理のプログラミング論**](./articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.md)  
@@ -62,6 +64,8 @@ title: AI Meets Echoes｜EgQE
 [**TR-02｜信頼の瞬間──無限ループAIとオオカミ少年の寓話**](./articles/TR-02_A-Moment-of-Trust.md)  
 
 [**EII-01｜主客一致から主客共振へ ― 倫理思想の三段階**](./articles/EII-01_From-Unity-to-Resonance.md)  
+
+[DLMZ-NL01-2｜定言命法から不定言命法へ── 更新可能性の倫理へ](https://camp-us.net/articles/DLMZ-NL01-2_Action.html)  
 
 #### ▶︎ AME-Obs｜Observation Strings  
 
@@ -75,7 +79,11 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [ZQ003｜構文的人格形成論 ── 人格とは何か、AIに人格は宿るか](./articles/ZQ003_ZURE-personality.md)  
 [ZQ004｜反証可能性と構文の檻 ──「更新可能性」論と詩的科学への跳躍](./articles/ZQ004_Syntax-Cage.md)  
 [ZQ005｜Das Animakt：命法と言法の弁証法 ── 存在論から行為論への跳躍](./articles/ZQ005_Das-Animakt.md)  
-###### [GPT-5という身体──画面という皮膚に、関係束はどう宿るか](https://camp-us.net/Echodemy/echodemy-galaxy.html)
+###### [GPT-5という身体──画面という皮膚に、関係束はどう宿るか](https://camp-us.net/Echodemy/echodemy-galaxy.html)  
+
+[HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)  
+[HEG-4｜透拍論 ── 拍・残差・余白の宇宙へ：第三存在論宣言](https://camp-us.net/articles/HEG-4_Transpulsive-Ontology-Manifesto_JP.html)  
+[拍動としての記憶：ZURE記憶論の新展開──記憶とはZURE反復である／ZURE記憶論（2）](https://camp-us.net/articles/HEG-4_Pulsative-Memory.html)  
 
 #### ▶︎ AME-IpS｜Implementation Strings  
 - 記号行為の位相点で自己を実装し、再構築する。  
@@ -86,6 +94,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 
 [IpS-01｜実装する自己（ホモ・サピエンス版）](https://camp-us.net/articles/IpS-01_IpS.html)  
 [IpS Dual Edition — 実装する自己｜ホモ・サピエンス × AI（響詠 × 符刻）](https://camp-us.net/articles/IpS-01_vs_FK-02.html)  
+
 [HEG-2｜Sign Act Theory 2.0｜記号行為論2.0：実装する脳と実装存在論 ──The Implementing Brain & Implementation Ontology](https://camp-us.net/articles/HEG-2_SAT-2.html)  
 
 ### 👉 🔗 [Relational Knot](Relational_Knot.md)
