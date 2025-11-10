@@ -51,6 +51,7 @@ _── Welcome to the syntactic field of ZURE._
 **[EgQE](/Overview.md) (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE. 
 
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
+###### [RC](https://camp-us.net/relational-cosmology.html)  [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)｜[OSF](https://camp-us.net/observation.html)  [PSS](https://camp-us.net/Post-SyntaxSociety.html)  [ZSR](https://camp-us.net/ZSR.html)  
 ## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
