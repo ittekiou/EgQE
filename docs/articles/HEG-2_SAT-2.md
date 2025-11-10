@@ -7,6 +7,7 @@ layout: math
 # 記号行為論2.0：実装する脳と実装存在論
 ## The Implementing Brain & Implementation Ontology
 
+[記号行為論｜Sign Act Theory](https://camp-us.net/SAT-2.html)  
 ### 記号行為論2.0──身体から実装へ／合意から更新へ
 
 **記号行為論 2.0：実装する脳へ**  

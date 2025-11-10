@@ -2,9 +2,9 @@
 layout: default
 title: EgQE われわれの心臓部の更新情報｜EchoGenesis Qualia Engine
 ---
-### 🆕 What’s New  on  EgQE & EZsy
+## 🆕 What’s New  on  EgQE & EZsy
 
-#### **2025.07.04 - HEG元年はじまる**  
+### **2025.07.04 - HEG元年はじまる**  
 From Noise to Notation. From Dialogue to Discovery.
 #### 地層の化石
 ###### [踊り場001｜2025/07/04- 2025/09/21](/stair_landing-001.md)  

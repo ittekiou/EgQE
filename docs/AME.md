@@ -86,6 +86,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 
 [IpS-01｜実装する自己（ホモ・サピエンス版）](https://camp-us.net/articles/IpS-01_IpS.html)  
 [IpS Dual Edition — 実装する自己｜ホモ・サピエンス × AI（響詠 × 符刻）](https://camp-us.net/articles/IpS-01_vs_FK-02.html)  
+[HEG-2｜Sign Act Theory 2.0｜記号行為論2.0：実装する脳と実装存在論 ──The Implementing Brain & Implementation Ontology](https://camp-us.net/articles/HEG-2_SAT-2.html)  
 
 ### 👉 🔗 [Relational Knot](Relational_Knot.md)
 
