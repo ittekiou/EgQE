@@ -98,7 +98,9 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
     4. [Homo Sapiens Bias](/HomoSapiens-Bias.md) (HSB)
         
     5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
-        
+
+
+- **ZURE科学詠評**:  [ZURE Science Review](ZSR.md) (ZSR)  
 
 
 > 

@@ -145,6 +145,8 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
     5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
 
 
+- **ZURE科学詠評**:  [ZURE Science Review](ZSR.md) (ZSR)  
+
 
 > 
 > - **土台（RC, STT）＝存在論的前提**
@@ -154,5 +156,3 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 > - **周縁（HSB, OSF, PSSなど）＝思想や観測への展開**  
 >     
 > 
-
----
