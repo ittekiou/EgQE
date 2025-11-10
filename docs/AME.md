@@ -114,8 +114,6 @@ Relational Knot は、**完全性の幻想を超えて有限性を生き延び�
 
 ---
 
-![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
-
 ## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
@@ -134,3 +132,15 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
     4. [Homo Sapiens Bias](/HomoSapiens-Bias.md) (HSB)
         
     5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
+
+
+
+- **土台（RC, STT）＝存在論的前提**
+    
+- **中心（Knot）＝存在論的定理のハブ**
+    
+- **周縁（HSB, OSF, PSSなど）＝思想や観測への展開**  
+    
+
+---
+![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
