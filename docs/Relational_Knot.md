@@ -74,6 +74,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
 [HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
 [**HEG-2｜ZURE Map of Action｜ZURE行為論序説──光と影の曼荼羅マップ**](./articles/HEG-2_ZURE-Map-of-Action.md)  
+[HEG-2｜Sign Act Theory 2.0｜記号行為論2.0：実装する脳と実装存在論 ──The Implementing Brain & Implementation Ontology](https://camp-us.net/articles/HEG-2_SAT-2.html)  
 
 ---
 ## 🌌 **Echodemy Galactic Modules**  

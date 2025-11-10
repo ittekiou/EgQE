@@ -41,6 +41,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 
 ##### 🌀 関連論文リンク：  
 ・[HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)  
+・[HEG-2｜Sign Act Theory 2.0｜記号行為論2.0：実装する脳と実装存在論 ──The Implementing Brain & Implementation Ontology](https://camp-us.net/articles/HEG-2_SAT-2.html)  
 
 ##### ZURE Philosophy  
 #### ZURE哲学  

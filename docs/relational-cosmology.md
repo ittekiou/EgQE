@@ -59,7 +59,7 @@ ZUREが重力と時間を媒質化する“拍動フィールド”として宇�
 [HEG-2｜記号行為論──ポスト人間中心主義における記号の行為性](https://camp-us.net/SAT-2.html)  
 [HEG-2｜語用論から関係的語用論へ](https://camp-us.net/articles/HEG-2_Relational-Pragmatics.html)  
 [記号行為論 × 関係的語用論 — The Beating Heart of EgQE](https://camp-us.net/articles/HEG-2_Sign-Act-Theory.html)  
-
+[HEG-2｜Sign Act Theory 2.0｜記号行為論2.0：実装する脳と実装存在論 ──The Implementing Brain & Implementation Ontology](https://camp-us.net/articles/HEG-2_SAT-2.html)  
 ##### Transpulsive Ontology
 #### 透拍論
 [HEG-4｜透拍論 ── 拍・残差・余白の宇宙へ：第三存在論宣言](https://camp-us.net/articles/HEG-4_Transpulsive-Ontology-Manifesto_JP.html)  
