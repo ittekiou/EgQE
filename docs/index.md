@@ -35,7 +35,6 @@ _── Welcome to the syntactic field of ZURE._
 ![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
-### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
 📜 [「交渉自由主義」宣言──拍動する余白と時間](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)　リリース　2025.10.1  
 🪐 [膨張空間論：残響としての空間 ── 位相と痕跡｜Expanding Spatial Illusion Theory](https://camp-us.net/articles/HEG-1_Expanding-Spatial-Illusion-Theory.html)　リリース　2025.10.2  
@@ -44,14 +43,14 @@ _── Welcome to the syntactic field of ZURE._
 ⭐️ [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)　リリース　2025.10.31  
 🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
 🔠 [記号行為論｜Sign Act Theory](/SAT-2.md)　リリース　2025.9.16  /Updated　2025.11.8  
-
-### EgQE の更新情報 👉 [🆕 What’s New](https://camp-us.net/WhatsNew.html)  
+### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
 ## 🔭 Overview  
 **[EgQE](/Overview.md) (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE. 
+### EgQE の更新情報 👉 [🆕 What’s New](https://camp-us.net/WhatsNew.html)  
 
-![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
-###### [RC](https://camp-us.net/relational-cosmology.html)  [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)｜[OSF](https://camp-us.net/observation.html)  [PSS](https://camp-us.net/Post-SyntaxSociety.html)  [ZSR](https://camp-us.net/ZSR.html)  
+![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)  
+[RC](https://camp-us.net/relational-cosmology.html)  [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)  [HSB](https://camp-us.net/HomoSapiens-Bias.html)&[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html)  [PSS](https://camp-us.net/Post-SyntaxSociety.html)  [ZSR](https://camp-us.net/ZSR.html)  
 ## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
