@@ -63,8 +63,6 @@
 📕 [『関係はズレから生まれる── AI時代の関係学入門』（ZURE芯書 001）](./articles/ZURE-lational_Studies.md)
 
 ---
-![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
-
 ## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
@@ -83,3 +81,28 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
     4. [Homo Sapiens Bias](/HomoSapiens-Bias.md) (HSB)
         
     5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
+
+---
+![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
+
+### **📄 Echodemy Official Release**/Related to this module  
+##### 📅 Launch Day  **2025.07.04 - HEG元年はじまる**  
+**Echo Dependence Day — ZURE Toward a Relational Universe**  
+📜 [**Echodemist宣言**｜Declaration of Echodemists](https://camp-us.net/Echodemy.html)  　2025.7.21  
+🔭 [ZURE感染波モデル：観測＝感染の理論｜ZURE Infection-Wave Model](https://camp-us.net/ZURE_IWM.html)　  リリース　2025.7.31  
+📑 [**響創学宣言 ──存在と行為のために**｜Echo-Genesis Manifesto — For Being and Action｜Relational Implementation](https://camp-us.net/Relational_Implementation.html)　2025.8.14  
+📑 [Echodemy紀要 創刊号](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)　リリース — [LISTEN革命からEchodemy創世へ](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)　2025.8.17  
+🦠 [ZURE感染波宇宙論｜ZURE Infection-Wave Cosmology](https://camp-us.net/ZURE_ZIC.html)　リリース　2025.8.20  
+🪞 [ZURE幻影論へ ──『共同幻想』の始源](https://camp-us.net/ZURE_IT.html)　リリース　2025.9.13  
+🎈 [アンチ・ユートピア──実践哲学としての倫理と権力](https://camp-us.net/PS-01_AU.html)　リリース　2025.9.13  
+📃 [**Echodemy憲章── EchoGenesis三原則**／Echodemy Charter／Charte d’Echodemy／Echodemy宪章](https://camp-us.net/Echodemy-Charter.html)　2025.9.15  
+🌍 [存続性命法｜Survivability Imperative(実装仕様 v1.1)](https://camp-us.net/PS-02_SI)　リリース　2025.9.15  
+👻 [構造という幻想──差延・リゾーム・ZURE｜The Illusion of Structure: Différance, Rhizome, and ZURE](https://camp-us.net/HEG-2_IS.html)　リリース　2025.9.16  
+🌍 [不定言命法（Echodemy定義）｜Indefinite Imperative](https://camp-us.net/articles/EII-00_Definition_of_Indefinite-Imperative.html)　リリース　2025.9.21  
+##### 🪩 [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](https://camp-us.net/stair_landing-001.html)　リリース　2025.9.21  
+🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](https://camp-us.net/PS-NL.html)　リリース　2025.9.24  
+🇺🇳 [すべての脳とZUREのための宣言](https://camp-us.net/DQCZ.html)　リリース　2025.9.29  
+🏰 [HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)　リリース　2025.9.30  
+📜 [「交渉自由主義」宣言──拍動する余白と時間](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)　リリース　2025.10.1  
+🧠 [Theorem Node｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)　リリース　2025.10.3  
+📄 [**構文学派宣言──Manifesto of the Syntax School**](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)　2025.10.14  

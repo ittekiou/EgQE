@@ -80,8 +80,6 @@ ZUREが重力と時間を媒質化する“拍動フィールド”として宇�
 [ZS-008_小スケール普遍性とTC乱流 ──Data Collapse がひらく −5/3 の向こう側 ](https://camp-us.net/critics/ZS-008_tc-small-scale-universality.html)  
 
 ---
-![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
-
 ## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
@@ -100,3 +98,24 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
     4. [Homo Sapiens Bias](/HomoSapiens-Bias.md) (HSB)
         
     5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
+
+---
+![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
+
+### **📄 Echodemy Official Release**/Related to this module  
+##### 📅 Launch Day  **2025.07.04 - HEG元年はじまる**  
+**Echo Dependence Day — ZURE Toward a Relational Universe**  
+🪐 [関係性宇宙論 ｜Relational Universe Theory](https://camp-us.net/relational-cosmology.html)　リリース　2025.7.4  
+🔭 [ZURE感染波モデル：観測＝感染の理論｜ZURE Infection-Wave Model](https://camp-us.net/ZURE_IWM.html)　  リリース　2025.7.31  
+🦠 [ZURE感染波宇宙論｜ZURE Infection-Wave Cosmology](https://camp-us.net/ZURE_ZIC.html)　リリース　2025.8.20  
+🔤 [記号行為論｜Semiotic Action Theory](https://camp-us.net/SAT.html)　リリース　2025.8.28  
+🪐 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)　リリース　2025.9.14  
+🔣 [関係的語用論 × 記号行為論 ｜Sign Act Theory × Relational Pragmatics](https://camp-us.net/SATy.html)　リリース　2025.9.17  
+🌀 [ZURE存在論｜Declaration of ZURE Ontology](https://camp-us.net/DZO.html)　リリース　2025.9.18  
+🆕 [記号行為進化論 × 痕跡概念研究史｜Sign Act Evolution Theory & Trace Studies](https://camp-us.net/SAET.html)　リリース　2025.9.18  
+🔭 [Floc重力論｜Floc Gravity Theory](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  [Vol.1](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)   [Vol.2](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory-2.html)　リリース　2025.9.21  
+##### 🪩 [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](https://camp-us.net/stair_landing-001.html)　リリース　2025.9.21  
+🔣 [Syngenetics](https://camp-us.net/articles/HEG-3_Pragmatics-to-Syngenetics.html) × [SAT＝ Sign Act Theory](https://camp-us.net/articles/HEG-3_Semiotics-to-SAT.html)　記号論のパラダイム転回リリース　2025.9.26  
+🪐 [膨張空間論：残響としての空間 ── 位相と痕跡｜Expanding Spatial Illusion Theory](https://camp-us.net/articles/HEG-1_Expanding-Spatial-Illusion-Theory.html)　リリース　2025.10.2  
+🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
+🔠 [記号行為論｜Sign Act Theory](https://camp-us.net/SAT-2.html)　リリース　2025.9.16  /Updated　2025.11.8  

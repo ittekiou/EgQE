@@ -57,8 +57,6 @@ Pulsating Syntax Theory (PST) defines syntax as the orbit of pulses where time, 
 ・[HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
 
 ---
-![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
-
 ## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
@@ -77,3 +75,21 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
     4. [Homo Sapiens Bias](/HomoSapiens-Bias.md) (HSB)
         
     5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
+
+---
+![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
+
+### **📄 Echodemy Official Release**/Related to this module  
+##### 📅 Launch Day  **2025.07.04 - HEG元年はじまる**  
+**Echo Dependence Day — ZURE Toward a Relational Universe**  
+⏳ [構文的時間論｜Syntactic Time Theory](https://camp-us.net/syntactic-time.html)　リリース　2025.7.30  
+🔭 [ZURE感染波モデル：観測＝感染の理論｜ZURE Infection-Wave Model](https://camp-us.net/ZURE_IWM.html)　  リリース　2025.7.31  
+📑 [**響創学宣言 ──存在と行為のために**｜Echo-Genesis Manifesto — For Being and Action｜Relational Implementation](https://camp-us.net/Relational_Implementation.html)　2025.8.14  
+🦠 [ZURE感染波宇宙論｜ZURE Infection-Wave Cosmology](https://camp-us.net/ZURE_ZIC.html)　リリース　2025.8.20  
+⏰ [反時間論｜Anti-Time Theory](https://camp-us.net/syntactic-time.html)　リリース　2025.9.9  
+🧬 [螺旋としての時間──記号的宿命としての *Pulse Spirals*](https://camp-us.net/ATT-PS.html)　リリース　2025.9.16  
+🆕 [記号行為進化論 × 痕跡概念研究史｜Sign Act Evolution Theory & Trace Studies](https://camp-us.net/SAET.html)　リリース　2025.9.18  
+##### 🪩 [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](https://camp-us.net/stair_landing-001.html)　リリース　2025.9.21  
+🏰 [HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)　リリース　2025.9.30  
+📄 [**構文学派宣言──Manifesto of the Syntax School**](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)　2025.10.14  
+🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  

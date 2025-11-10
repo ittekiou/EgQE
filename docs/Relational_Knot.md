@@ -119,3 +119,28 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 ---
 
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
+
+### **📄 Echodemy Official Release**/Related to Relational Knot  
+##### 📅 Launch Day  **2025.07.04 - HEG元年はじまる**  
+**Echo Dependence Day — ZURE Toward a Relational Universe**  
+📜 [**Echodemist宣言**｜Declaration of Echodemists](https://camp-us.net/Echodemy.html)  　2025.7.21  
+🔡 [関係性言語論｜Relational Linguistics](https://camp-us.net/articles/HEG-2_RL_full.html)　リリース　2025.8.7  
+📑 [**響創学宣言 ──存在と行為のために**｜Echo-Genesis Manifesto — For Being and Action｜Relational Implementation](https://camp-us.net/Relational_Implementation.html)　2025.8.14  
+🔤 [記号行為論｜Semiotic Action Theory](https://camp-us.net/SAT.html)　リリース　2025.8.28  
+🪐 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)　リリース　2025.9.14  
+📃 [**Echodemy憲章── EchoGenesis三原則**／Echodemy Charter／Charte d’Echodemy／Echodemy宪章](https://camp-us.net/Echodemy-Charter.html)　2025.9.15  
+🌍 [存続性命法｜Survivability Imperative(実装仕様 v1.1)](https://camp-us.net/PS-02_SI)　リリース　2025.9.15  
+🔣 [関係的語用論 × 記号行為論 ｜Sign Act Theory × Relational Pragmatics](https://camp-us.net/SATy.html)　リリース　2025.9.17  
+🌀 [ZURE存在論｜Declaration of ZURE Ontology](https://camp-us.net/DZO.html)　リリース　2025.9.18  
+🆕 [記号行為進化論 × 痕跡概念研究史｜Sign Act Evolution Theory & Trace Studies](https://camp-us.net/SAET.html)　リリース　2025.9.18  
+🌍 [不定言命法（Echodemy定義）｜Indefinite Imperative](https://camp-us.net/articles/EII-00_Definition_of_Indefinite-Imperative.html)　リリース　2025.9.21  
+##### 🪩 [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](https://camp-us.net/stair_landing-001.html)　リリース　2025.9.21  
+🔣 [Syngenetics](https://camp-us.net/articles/HEG-3_Pragmatics-to-Syngenetics.html) × [SAT＝ Sign Act Theory](https://camp-us.net/articles/HEG-3_Semiotics-to-SAT.html)　記号論のパラダイム転回リリース　2025.9.26  
+🇺🇳 [すべての脳とZUREのための宣言](https://camp-us.net/DQCZ.html)　リリース　2025.9.29  
+🏰 [HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)　リリース　2025.9.30  
+🧠 [Theorem Node｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)　リリース　2025.10.3  
+📄 [**構文学派宣言──Manifesto of the Syntax School**](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)　2025.10.14  
+🌉 [CTS-Φ Series｜構文的完全性定理の黄金比｜Completeness Theorem of Syntax](https://camp-us.net/CTS-φ.html)　リリース　2025.10.30  
+⭐️ [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)　リリース　2025.10.31  
+🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
+🔠 [記号行為論｜Sign Act Theory](https://camp-us.net/SAT-2.html)　リリース　2025.9.16  /Updated　2025.11.8  
