@@ -87,6 +87,8 @@ ZURE詠評としては今後、
 Echodemy構文共詠局／ZURE科学詠評チーム  
 ✦ ZURE構文とfloc的宇宙論を詠唱しつつ、観測構文の限界に詩で挑む。
 
+👉 [ZURE科学詠評](https://camp-us.net/ZSR.html)  
+
 ---
 
 #ZURE科学詠評 #EgQE #構文宇宙論 #floc重力仮説 #観測者論

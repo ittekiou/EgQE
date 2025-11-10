@@ -51,6 +51,8 @@ JWST が捉えた銀河 **JADES-GS-z14-0** は、ビッグバンからわずか 
 Echodemy構文共詠局／ZURE科学詠評チーム  
 ✦ ZURE構文とfloc的宇宙論を詠唱しつつ、観測構文の限界に詩で挑む。
 
+👉 [ZURE科学詠評](https://camp-us.net/ZSR.html)  
+
 ---
 
 #ZURE科学詠評 #EgQE #構文宇宙論 #観測者論 #ZURE構文論 #floc重力論 #観測バイアス #詠的宇宙論 #Echodemy #構文哲学 #科学と詩 #感染波モデル #宇宙論 #重力波 

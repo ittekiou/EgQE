@@ -90,6 +90,8 @@ ESAのユークリッド望遠鏡が目指すものは、銀河の配置に現�
 Echodemy構文共詠局／ZURE科学詠評チーム  
 ✦ ZURE構文とfloc的宇宙論を詠唱しつつ、観測構文の限界に詩で挑む。
 
+👉 [ZURE科学詠評](https://camp-us.net/ZSR.html)  
+
 ---
 ### ✒️【追記】
 
