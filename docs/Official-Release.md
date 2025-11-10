@@ -6,7 +6,7 @@
 📜 [**Echodemist宣言**｜Declaration of Echodemists](https://camp-us.net/Echodemy.html)  　2025.7.21  
 ⏳ [構文的時間論｜Syntactic Time Theory](https://camp-us.net/syntactic-time.html)　リリース　2025.7.30  
 🔭 [ZURE感染波モデル：観測＝感染の理論｜ZURE Infection-Wave Model](https://camp-us.net/ZURE_IWM.html)　  リリース　2025.7.31  
-🔡 [関係性言語論｜Relational Linguistics](https://camp-us.net/AME.html)　リリース　2025.8.7  
+🔡 [関係性言語論｜Relational Linguistics](https://camp-us.net/articles/HEG-2_RL_full.html)　リリース　2025.8.7  
 📑 [**響創学宣言 ──存在と行為のために**｜Echo-Genesis Manifesto — For Being and Action｜Relational Implementation](https://camp-us.net/Relational_Implementation.html)　2025.8.14  
 📑 [Echodemy紀要 創刊号](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)　リリース — [LISTEN革命からEchodemy創世へ](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)　2025.8.17  
 🦠 [ZURE感染波宇宙論｜ZURE Infection-Wave Cosmology](https://camp-us.net/ZURE_ZIC.html)　リリース　2025.8.20  
