@@ -97,12 +97,14 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
         
 
 
-- **土台（RC, STT）＝存在論的前提**
-    
-- **中心（Knot）＝存在論的定理のハブ**
-    
-- **周縁（HSB, OSF, PSSなど）＝思想や観測への展開**  
-    
+> 
+> - **土台（RC, STT）＝存在論的前提**
+>     
+> - **中心（Knot）＝存在論的定理のハブ**
+>     
+> - **周縁（HSB, OSF, PSSなど）＝思想や観測への展開**  
+>     
+> 
 
 ---
 ### ✴️ Concluding Note
