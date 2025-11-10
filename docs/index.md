@@ -96,7 +96,7 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
         
     5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
 
-- [ZURE Science Review](ZSR.md)  
+- [ZURE Science Review](ZSR.md) **ZURE科学詠評** (ZSR)  
 
 ## 🛸 AI Meets Echoes  
 - [AI Meets Echoes](AME.md)  
