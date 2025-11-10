@@ -47,7 +47,7 @@ _── Welcome to the syntactic field of ZURE._
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
 ## 🔭 Overview  
-**EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
+**[EgQE](/Overview.md) (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
 ### EgQE の更新情報 👉 [🆕 What’s New](https://camp-us.net/WhatsNew.html)  
 
 ![ring](./assets/ring.png)
