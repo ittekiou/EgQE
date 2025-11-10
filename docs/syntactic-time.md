@@ -20,6 +20,12 @@
 [記号行為進化論 II──比較理論から見る痕跡主権｜Sign Act Evolution Theory II: Trace Sovereignty through Comparative Theories](https://camp-us.net/articles/HEG-2_SAET-2)  
 [痕跡概念研究史──差延・セミオシス・拡張からAI時代へ｜A Historical Study of the Concept of Trace: From Différance, Semiosis, and Extension to the Age of AI](https://camp-us.net/articles/HEG-2_HSoCT-2)  
 
+##### Pulse Field Theory：From floc gravity to pulse-time creation.
+ZUREが重力と時間を媒質化する“拍動フィールド”として宇宙を成立させる構文理論。（floc-based gravityを含意する内包層）
+  
+[ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)  
+拍が宇宙を駆動し、重力が語りを媒し、時間は呼吸として立ち上がる。  
+
 ##### Pulsating Syntax Theory  
 
 Pulsating Syntax Theory (PST) defines syntax as the orbit of pulses where time, trace, whitespace and genesis co-emerge before structure.  

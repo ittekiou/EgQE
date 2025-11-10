@@ -31,9 +31,16 @@
 [DGT｜floc重力論から動態重力論へ｜Dynamic Gravity Theory via Floc──時間が重力を生む宇宙の呼吸構文](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory-via-Floc.html)  
 [DGT｜動態重力論 Ver.1](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory_Z.html)  
 
+##### Pulse Field Theory：From floc gravity to pulse-time creation.
+ZUREが重力と時間を媒質化する“拍動フィールド”として宇宙を成立させる構文理論。（floc-based gravityを含意する内包層）
+  
+[ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)  
+拍が宇宙を駆動し、重力が語りを媒し、時間は呼吸として立ち上がる。  
+
 ##### 🌀 関連論文リンク：  
 ・[**ZURE感染波モデル：観測＝感染の理論**](./articles/ZURE_Infection-Wave-Model.md)  
 ・[瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論をこえて｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-TimeTheory-to-Spiral-TimeTheory.html)  
+・[ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)  
 
 ### 💫 ZURE位相論  Phase Theory of ZURE  
 

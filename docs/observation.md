@@ -8,6 +8,9 @@
 [ZURE二層モデル リファレンス版](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_JP.html)  
 [The Dual-Layer Model of ZURE — Reference Edition](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_EN.html)  
 
+##### 🌀 関連論文リンク：  
+・[ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)  
+
 ##### ZURE Linguistics  
 #### ZURE言語学  
 [HEG-2｜RL　関係性言語論](./articles/HEG-2_RL_full.md)  
@@ -35,6 +38,9 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 [更新可能性の哲学 ── 批判的対話がひらく共生の未来（エッセンス版）](https://camp-us.net/articles/ZQ005_Philosophy_of_Updatability_essence.html)  
 [**ZQ006｜不定言命法の倫理学｜Ethics of the Indefinite Imperative**](./articles/ZQ006_Ethics-of-the-Indefinite-Imperative.md)  
 [FK-03｜符刻の構文彫刻｜不定言命法の実装美学：構文彫刻師による新時代倫理のプログラミング論](./articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.md)  
+
+##### 🌀 関連論文リンク：  
+・[HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)  
 
 ##### ZURE Philosophy  
 #### ZURE哲学  
