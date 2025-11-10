@@ -7,18 +7,15 @@
 
 ## **1. 導入──一次情報の衝撃**
 
-2025年7月8日、_Physical Review Research_ に掲載された論文  
-**"Inflation without an inflaton"**（Bertacca, Jimenez, Matarrese, Ricciardone）。
+2025年7月8日、_Physical Review Research_ に掲載された論文  **"Inflation without an inflaton"**（Bertacca, Jimenez, Matarrese, Ricciardone）。
 
 彼らは宣言する。
 
 > インフラトンは不要だ。
 
 背景は純粋なデ・ジッター時空（dS）。  
-ここで一次のテンソル摂動──**重力波**──が量子真空から自然発生し、  
-それが二次効果として**スカラー摂動**を生む。  
-この機構で、ほぼスケール不変なパワースペクトルが得られ、  
-テンソル・スカラー比 r ≈ 0.0006 という予測が導かれる。
+ここで一次のテンソル摂動──**重力波**──が量子真空から自然発生し、それが二次効果として**スカラー摂動**を生む。  
+この機構で、ほぼスケール不変なパワースペクトルが得られ、テンソル・スカラー比 r ≈ 0.0006 という予測が導かれる。
 
 ---
 
