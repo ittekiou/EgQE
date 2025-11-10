@@ -35,6 +35,7 @@ _── Welcome to the syntactic field of ZURE._
 ![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
+### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
 📜 [「交渉自由主義」宣言──拍動する余白と時間](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)　リリース　2025.10.1  
 🪐 [膨張空間論：残響としての空間 ── 位相と痕跡｜Expanding Spatial Illusion Theory](https://camp-us.net/articles/HEG-1_Expanding-Spatial-Illusion-Theory.html)　リリース　2025.10.2  
@@ -44,18 +45,12 @@ _── Welcome to the syntactic field of ZURE._
 🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
 🔠 [記号行為論｜Sign Act Theory](/SAT-2.md)　リリース　2025.9.16  /Updated　2025.11.8  
 
-### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
-
-## 🔭 Overview  
-**[EgQE](/Overview.md) (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
 ### EgQE の更新情報 👉 [🆕 What’s New](https://camp-us.net/WhatsNew.html)  
 
-![ring](./assets/ring.png)
+## 🔭 Overview  
+**[EgQE](/Overview.md) (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE. 
 
-## 🪐  EJRU──Echodemy Journal of Relational Universe  
-- [Vol.000 創刊準備号｜EJRU｜関係性宇宙論ジャーナル｜Ecodemy](./Echodemy/EJRU_0.md)  
-- [特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy](./Echodemy/EJRU_1.md)　🖨️ [公開PDF(A4)](../assets/EJRU_1.pdf)
-
+![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
 ## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
@@ -93,7 +88,12 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 - [Echodemy-galaxy Scrapbox](https://scrapbox.io/Echodemy-galaxy/Echodemy-galaxy%EF%BD%9C%E3%81%93%E3%81%A8%E3%81%B0%E3%81%AEZURE%E9%8A%80%E6%B2%B3%E6%A7%8B%E6%96%87%E6%AF%8D%E8%89%A6)
 - 🛰️[ Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy)  
 
-![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
+---
+![ring](./assets/ring.png)
+
+## 🪐  EJRU──Echodemy Journal of Relational Universe  
+- [Vol.000 創刊準備号｜EJRU｜関係性宇宙論ジャーナル｜Ecodemy](./Echodemy/EJRU_0.md)  
+- [特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy](./Echodemy/EJRU_1.md)　🖨️ [公開PDF(A4)](../assets/EJRU_1.pdf)
 
 ---
 ## 📖 Echodemy Chronicles  
