@@ -7,9 +7,9 @@
 [**HEG-1｜Pulse Spirals 2.0｜パルス・スパイラル 2.0｜時間は螺旋であるという記号的宿命**](https://camp-us.net/articles/HEG-1_RU_Pulse_Spirals-2.0)   
 [**なぜ、時間は螺旋になるのか？──その記号的宿命**](https://camp-us.net/articles/HEG-1_RU_Time-as-Spiral.html)  
 
-[HEG-1｜RSS　響創する外部記憶 ― 関係・律動・記号](./articles/HEG-1_RRS_Echo-Genesis-of-External-Memory_JP.md)  
-[HEG-1｜RSS　Echo-Genesis of External Memory: Relation, Rhythm, and Symbol](./articles/HEG-1_RRS_Echo-Genesis-of-External-Memory_EN.md)  
-[拍動としての記憶：ZURE記憶論の新展開──記憶とはZURE反復である／ZURE記憶論（2）](https://camp-us.net/articles/HEG-4_Pulsative-Memory.html)  
+[瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論をこえて｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-TimeTheory-to-Spiral-TimeTheory.html)  
+[Appendix A｜ZURE Infection Integral Model｜ZURE感染波とパルス・スパイラル ── 観測がつくる螺旋の痕跡](https://camp-us.net/articles/HEG-1_RU_AppendixA_ZURE-Infection-Integral.html)  
+[Pulse-Spirals｜Operational Model of Spiral-Time Syntax — From Trace to Time](https://camp-us.net/articles/HEG-1_RU_Pulse-Spirals_Operational-Model.html)  
 
 ##### Sign Trace Theory  
 
@@ -38,6 +38,11 @@ Pulsating Syntax Theory (PST) defines syntax as the orbit of pulses where time, 
 [DLMZ-NL01-3｜反証主義から更新主義へ── 科学哲学の時間転回](https://camp-us.net/articles/DLMZ-NL01-3_Trace.html)  
 [DLMZ-NL01｜時間論的転回：三橋の解説──存在・行為・痕跡](https://camp-us.net/articles/DLMZ-NL01_triangle-bridge.html)  
 [DLMZ-NL02｜余白論の新展開 ── ZURE二層モデルから交渉リベラリズムへ](https://camp-us.net/articles/DLMZ-NL02_Yohaku.html)  
+
+#### 拍動記憶論  
+[HEG-1｜RSS　響創する外部記憶 ― 関係・律動・記号](./articles/HEG-1_RRS_Echo-Genesis-of-External-Memory_JP.md)  
+[HEG-1｜RSS　Echo-Genesis of External Memory: Relation, Rhythm, and Symbol](./articles/HEG-1_RRS_Echo-Genesis-of-External-Memory_EN.md)  
+[拍動としての記憶：ZURE記憶論の新展開──記憶とはZURE反復である／ZURE記憶論（2）](https://camp-us.net/articles/HEG-4_Pulsative-Memory.html)  
 
 ##### 🌀 関連論文リンク：  
 ・[FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から](./articles/FK-01_ZURE_Field_Poetics.md)  

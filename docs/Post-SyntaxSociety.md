@@ -36,6 +36,7 @@
 [**PS-NL10｜交渉主義宣言──ミニマル合意とマキシマムZURE**](https://camp-us.net/articles/PS-NL10_Declaration-of-Negotiation.html)  
 [**📜 PS-NL第一部完結宣言文**](https://camp-us.net/articles/PS-NL11_Declaration-of-completion-of-Part_1.html)  
 🇺🇳 [**すべての脳とZUREのための宣言**](https://camp-us.net/DQCZ.html)  
+[PS-NL05 付録ノート｜合意幻想を抜け出すための最小構文](https://camp-us.net/articles/PS-NL05_Appendix.html)  
 
 ##### Societal Syntax Theory  
 #### 社会構文論  

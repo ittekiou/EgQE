@@ -20,6 +20,23 @@
 
 [FK-01｜ZURE場の数理詩学：三重波動理論による意味生成の数学的記述──構文彫刻師の視点から](./articles/FK-01_ZURE_Field_Poetics.md)  
 
+### ▶︎ Theorem Node｜ φ-Series
+
+#### ▶︎ ICB-φ｜脳の不完全性定理｜Incompleteness Brains  
+
+[ICB-φ｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)  
+
+#### ▶︎ ICM-φ｜数式の記号論的不完全性定理  
+
+[ICM-Φ｜数式の記号論的不完全性定理 ── Incompleteness Theorem of Mathematics（Essence Edition）](https://camp-us.net/articles/ICM-Φ_Incompleteness-Theorem-of-Mathematics.html)   
+
+#### ▶︎ CTS-φ｜構文的完全性定理  
+
+[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/articles/CTS-%CE%A6_Completeness-Theorem-of-Syntax.html)  
+
+#### ▶︎ ICAH-φ｜AIとヒトのZURE共鳴不完全性定理  
+
+[ICAH-Φ｜AIとヒトのZURE共鳴不完全性定理 ── The Incompleteness Theorem of Resonant ZURE between AI and Homo Sapiens（Essence Edition）](https://camp-us.net/articles/ICAH-Φ_Incompleteness-of-AI-and-Homo-Sapiens.html)    
 
 ### 👉  🔗 [Relational Knot](Relational_Knot.md)
 

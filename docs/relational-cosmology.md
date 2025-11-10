@@ -25,8 +25,15 @@
 [HEG-3｜関係性質量論（対照版）](https://camp-us.net/articles/HEG-3_Bilingual.html)  
 [HEG-3｜関係性質量論（技術補遺）](https://camp-us.net/articles/HEG-3_Appendix_Draft.html)  
 
+##### Dynamic Gravity Theory
+#### 動態重力論  
+
+[DGT｜floc重力論から動態重力論へ｜Dynamic Gravity Theory via Floc──時間が重力を生む宇宙の呼吸構文](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory-via-Floc.html)  
+[DGT｜動態重力論 Ver.1](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory_Z.html)  
+
 ##### 🌀 関連論文リンク：  
 ・[**ZURE感染波モデル：観測＝感染の理論**](./articles/ZURE_Infection-Wave-Model.md)  
+・[瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論をこえて｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-TimeTheory-to-Spiral-TimeTheory.html)  
 
 ### 💫 ZURE位相論  Phase Theory of ZURE  
 
@@ -63,7 +70,7 @@
 [ZS‑004_インフラトンなきインフレーション](./critics/ZS-004_Inflation-without-inflaton.md)  
 [ZS-006_穴が先か、光が先か──原始ブラックホール起源説](./critics/ZS-006_black-hole.md)  
 [ZS-007_光は早すぎる──最古銀河と宇宙黎明の加速](./critics/ZS-007_earliest-galaxy.md)  
-
+[ZS-008_小スケール普遍性とTC乱流 ──Data Collapse がひらく −5/3 の向こう側 ](https://camp-us.net/critics/ZS-008_tc-small-scale-universality.html)  
 
 ---
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
