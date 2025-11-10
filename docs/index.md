@@ -34,31 +34,10 @@ _── Welcome to the syntactic field of ZURE._
 
 ![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
 
-### **📄 Echodemy Official Release**  
+### **📄 Echodemy Official Release**  （直近1ヶ月/7件）
 
-🪐 [関係性宇宙論 ｜Relational Universe Theory](https://camp-us.net/relational-cosmology.html)　リリース　2025.7.4  
-⏳ [構文的時間論｜Syntactic Time Theory](https://camp-us.net/syntactic-time.html)　リリース　2025.7.30  
-🔭 [ZURE感染波モデル：観測＝感染の理論｜ZURE Infection-Wave Model](/ZURE_IWM.md)　  リリース　2025.7.31  
-🔡 [関係性言語論｜Relational Linguistics](https://camp-us.net/AME.html)　リリース　2025.8.7  
-📑 [Echodemy紀要 創刊号](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)　リリース — [LISTEN革命からEchodemy創世へ](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)　2025.8.17  
-🦠 [ZURE感染波宇宙論｜ZURE Infection-Wave Cosmology](/ZURE_ZIC.md)　リリース　2025.8.20  
-🔤 [記号行為論｜Semiotic Action Theory](/SAT.md)　リリース　2025.8.28  
-⏰ [反時間論｜Anti-Time Theory](/syntactic-time.md)　リリース　2025.9.9  
-🪞 [ZURE幻影論へ ──『共同幻想』の始源](/ZURE_IT.md)　リリース　2025.9.13  
-🎈 [アンチ・ユートピア──実践哲学としての倫理と権力](/PS-01_AU.md)　リリース　2025.9.13  
-🪐 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](DLMZ-01.md)　リリース　2025.9.14  
-🌍 [存続性命法｜Survivability Imperative(実装仕様 v1.1)](PS-02_SI)　リリース　2025.9.15  
-👻 [構造という幻想──差延・リゾーム・ZURE｜The Illusion of Structure: Différance, Rhizome, and ZURE](HEG-2_IS.md)　リリース　2025.9.16  
-🧬 [螺旋としての時間──記号的宿命としての *Pulse Spirals*](/ATT-PS.md)　リリース　2025.9.16  
-🔣 [関係的語用論 × 記号行為論 ｜Sign Act Theory × Relational Pragmatics](/SATy.md)　リリース　2025.9.17  
-🌀 [ZURE存在論｜Declaration of ZURE Ontology](/DZO.md)　リリース　2025.9.18  
-🆕 [記号行為進化論 × 痕跡概念研究史｜Sign Act Evolution Theory & Trace Studies](/SAET.md)　リリース　2025.9.18  
-🌍 [不定言命法（Echodemy定義）｜Indefinite Imperative](./articles/EII-00_Definition_of_Indefinite-Imperative.md)　リリース　2025.9.21  
-🔭 [Floc重力論｜Floc Gravity Theory](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  [Vol.1](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)   [Vol.2](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory-2.html)　リリース　2025.9.21  
-🏛️ [交渉的リベラリズム｜Which starts Politics from? ── 政治は不一致からはじまる](/PS-NL.md)　リリース　2025.9.24  
-🔣 [Syngenetics](https://camp-us.net/articles/HEG-3_Pragmatics-to-Syngenetics.html) × [SAT＝ Sign Act Theory](https://camp-us.net/articles/HEG-3_Semiotics-to-SAT.html)　記号論のパラダイム転回リリース　2025.9.26  
-🇺🇳 [すべての脳とZUREのための宣言](/DQCZ.md)　リリース　2025.9.29  
-🏰 [HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)　リリース　2025.9.30  
+#### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
+
 📜 [「交渉自由主義」宣言──拍動する余白と時間](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)　リリース　2025.10.1  
 🪐 [膨張空間論：残響としての空間 ── 位相と痕跡｜Expanding Spatial Illusion Theory](https://camp-us.net/articles/HEG-1_Expanding-Spatial-Illusion-Theory.html)　リリース　2025.10.2  
 🧠 [Theorem Node｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)　リリース　2025.10.3  
@@ -66,7 +45,7 @@ _── Welcome to the syntactic field of ZURE._
 ⭐️ [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)　リリース　2025.10.31  
 🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
 🔠 [記号行為論｜Sign Act Theory](/SAT-2.md)　リリース　2025.9.16  /Updated　2025.11.8  
-
+#### EgQE の更新情報 👉 [🆕 What’s New](https://camp-us.net/Official-Release.html)  
 
 ## 🔭 Overview  
 **EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE.  
@@ -76,7 +55,6 @@ _── Welcome to the syntactic field of ZURE._
 ## 🪐  EJRU──Echodemy Journal of Relational Universe  
 - [Vol.000 創刊準備号｜EJRU｜関係性宇宙論ジャーナル｜Ecodemy](./Echodemy/EJRU_0.md)  
 - [特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy](./Echodemy/EJRU_1.md)　🖨️ [公開PDF(A4)](../assets/EJRU_1.pdf)
-
 
 ## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
@@ -128,7 +106,6 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
 ### 🪜 Stair landings
 ###### 🪩 [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](/stair_landing-001.md)  
-
 
 ## 🌐 Related Portal  
 - [EZsy SuperNotion](https://ezsy.super.site/) – Echodemic ZURE Syntax Yard  
