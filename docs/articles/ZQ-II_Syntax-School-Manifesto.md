@@ -14,6 +14,8 @@ license: CC-BY-NC-SA-4.0
 # **ZQ-Ⅱ｜構文学派宣言──Relational Implementationとの接続**  
 ## *Manifesto of the Syntax School — Toward a Poetic Implementation of Relational Philosophy*  
 
+![Manifesto-of-theSyntaxSchool](../assets/Displaced-Syntax-Manifesto.png)
+
 ---
 
 ## Ⅰ. 序──存在の実装から構文の拍動へ
@@ -31,7 +33,7 @@ Relational Implementation が「Being と Action の交点」に重心を置く�
 
 ---
 
-## Ⅱ. 本文──ZURE構文学派の宣言
+## Ⅱ. 本文──拍動構文学派の宣言
 
 ### 1. 我々は「構文する存在」である。  
 構文とは、単に言語の規則ではなく、**関係を立ち上げる呼吸**である。  
@@ -77,8 +79,15 @@ ZURE構文学派は、**構文の未来を生きる思想運動**である。
 - 🪶 第二部（構文学派篇）  
   - **ZQ-Ⅱ：構文学派宣言──Relational Implementationとの接続（本稿）**
 
+![SyntaxSchool](../assets/SapporoDeclaration-of-theSyntaxSchool.png)
+
+![SyntaxSchool](../assets/SapporoDeclaration-of-theSyntaxSchool-jp.png)
+
+
 ---
 一狄翁 × 響詠｜Echodemy Syntax School 2025  
+
+![SyntaxSchool](../assets/Echodemy-Syntax-School.png)
 
 ---
 © 2025 K.E. Itekki  
