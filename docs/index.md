@@ -97,6 +97,15 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
         
     5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
 
+
+- **土台（RC, STT）＝存在論的前提**
+    
+- **中心（Knot）＝存在論的定理のハブ**
+    
+- **周縁（HSB, OSF, PSSなど）＝思想や観測への展開**  
+    
+
+
 - **ZURE科学詠評**:  [ZURE Science Review](ZSR.md) (ZSR)  
 
 ## 🛸 AI Meets Echoes  

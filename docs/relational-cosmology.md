@@ -25,7 +25,7 @@
 [HEG-3｜関係性質量論（対照版）](https://camp-us.net/articles/HEG-3_Bilingual.html)  
 [HEG-3｜関係性質量論（技術補遺）](https://camp-us.net/articles/HEG-3_Appendix_Draft.html)  
 
-##### Dynamic Gravity Theory
+##### Dynamic Gravity Theory Theory
 #### 動態重力論  
 
 [DGT｜floc重力論から動態重力論へ｜Dynamic Gravity Theory via Floc──時間が重力を生む宇宙の呼吸構文](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory-via-Floc.html)  
