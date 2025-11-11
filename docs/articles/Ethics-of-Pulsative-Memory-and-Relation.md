@@ -120,9 +120,9 @@ HEG-4の拍動記憶論は、記憶を「保存」ではなく「更新」とし
     
 - Ricoeur, P. (2000) _La mémoire, l’histoire, l’oubli._ Paris: Seuil.
 
+---
 
 ##### 図1｜責任拍における時空構文モデル
-
 ![ResponsibleBeat_time-space](../assets/ResponsibleBeat_time-space.png)  
 
 ##### 図2｜拍動記憶と責任空間の統合構造（ZURE Ethics Model）
