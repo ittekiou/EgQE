@@ -87,6 +87,8 @@ flowchart TD
   classDef center fill:#cce6ff,stroke:#3366cc,stroke-width:1px;
 ```
 
+![ ResponsibleBeat](../assets/ResponsibleBeat.png)    
+
 ---
 
 ## V. 政治倫理としてのZURE構文
@@ -149,6 +151,7 @@ flowchart TD
   classDef present fill:#ddeaff,stroke:#003399,stroke-width:1px;
   class C present;
 ```
+![ResponsibleBeat_time-space](../assets/ResponsibleBeat_time-space.png)  
 
 ##### 図2｜拍動記憶と責任空間の統合構造（ZURE Ethics Model）
 ```mermaid
@@ -179,6 +182,7 @@ graph LR
   classDef core fill:#f5faff,stroke:#3366cc,stroke-width:1.5px;
   class R core;
 ```
+![EthicsModel](../assets/EthicsModel.png)  
 
 ##### 図3｜ZURE倫理における政治的拍動モデル
 ```mermaid
@@ -194,6 +198,7 @@ flowchart LR
   classDef cyc fill:#fff3e0,stroke:#ff9800,stroke-width:1.5px;
   class N,C cyc;
 ```
+![D-N-D_MC](../assets/D-N-D_MC.png)  
 
 ### Figure A: Responsibility–Space Model（拍動型・概念骨格）
 　Spatio-Temporal Intersection as Responsible Beat
@@ -231,6 +236,7 @@ flowchart LR
   class Past,Future time;
   class Present core;
 ```
+![Responsibility–Space_Model](../assets/Responsibility–Space_Model.png)  
 要点：空間構文（Self–Whitespace–Other）＝責任。時間構文（Past→Present→Future）＝記憶。交点 Present が「責任拍」＝時空が一体化する現在性。  
 
 ### Figure B: Relation–Time Loop（関係‐時間ループ／更新循環）
@@ -260,6 +266,7 @@ stateDiagram-v2
     時間軸（Past–Future）が重なる現在性の拍。
   end note
 ```
+![Relation–Time_Loop](../assets/Relation–Time_Loop.png)  
 要点：Trace→Re-beat→Present Beat→Pre-beat→Arrival の時間循環に、Negotiation→Decision→Trace が接続して不可逆更新が閉じる。ここでの“閉じる”は停止ではなく、記録化→次の拍の燃料。  
 
 ### Caption Summary

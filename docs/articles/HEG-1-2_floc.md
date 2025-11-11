@@ -311,6 +311,7 @@ graph TD
     Obs --> Gravity
     Gravity --> ZURE
 ```
+
 ![zureba](../assets/zureba.png)
 
 この二軸における高密度交差点にflocが現れる。flocは関係素の浮遊状態から導かれる自律的凝集であり、ZUREによって駆動される。つまりflocは「ズレ」によって誘導され、「密度」によって定着する構文現象である。
