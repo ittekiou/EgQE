@@ -78,15 +78,6 @@ HEG-4の拍動記憶論は、記憶を「保存」ではなく「更新」とし
 この交差点を「責任拍（responsible beat）」と呼ぶ。  
 それは過去（記憶）と未来（他者）の拍が現在で共鳴する場であり、責任とは過去の拍を未来に渡す行為、すなわち**時空が倫理として拍動する瞬間**である。
 
-```mermaid
-flowchart TD
-  A[過去（記憶）] -->|再拍 Re-beat| B[現在（責任拍）]
-  B -->|予拍 Pre-beat| C[未来（他者）]
-  A -.->|共拍 Co-beat| C
-  B:::center
-  classDef center fill:#cce6ff,stroke:#3366cc,stroke-width:1px;
-```
-
 ![ ResponsibleBeat](../assets/ResponsibleBeat.png)    
 
 ---
@@ -131,149 +122,32 @@ flowchart TD
 
 
 ##### 図1｜責任拍における時空構文モデル
-```mermaid
-flowchart TD
-  subgraph Temporal_Syntax["時間構文（記憶）"]
-    A1["過去：再拍 Re-beat"]
-    A2["未来：予拍 Pre-beat"]
-  end
-  subgraph Spatial_Syntax["空間構文（責任）"]
-    B1["自己：関係の布置"]
-    B2["他者：距離の保持"]
-  end
-  C["現在：責任拍 Responsible Beat"]
 
-  A1 --> C
-  A2 --> C
-  B1 --> C
-  B2 --> C
-
-  classDef present fill:#ddeaff,stroke:#003399,stroke-width:1px;
-  class C present;
-```
 ![ResponsibleBeat_time-space](../assets/ResponsibleBeat_time-space.png)  
 
 ##### 図2｜拍動記憶と責任空間の統合構造（ZURE Ethics Model）
-```mermaid
-graph LR
-  subgraph Memory["拍動記憶 Temporal Syntax"]
-    M1["過去の拍 (Trace)"]
-    M2["再拍 (Re-beat)"]
-    M3["未来の予兆 (Pre-beat)"]
-  end
-
-  subgraph Responsibility["責任空間 Spatial Syntax"]
-    S1["自己 (Self)"]
-    S2["他者 (Other)"]
-    S3["関係の余白 (Whitespace)"]
-  end
-
-  M1 --> M2 --> M3
-  S1 --> S3 --> S2
-  linkStyle 0 stroke:#3366cc
-  linkStyle 1 stroke:#3366cc
-  linkStyle 2 stroke:#339933
-  linkStyle 3 stroke:#339933
-
-  R["責任拍 = 時空の交差点 (Present Beat)"]
-  M2 --> R
-  S3 --> R
-
-  classDef core fill:#f5faff,stroke:#3366cc,stroke-width:1.5px;
-  class R core;
-```
 ![EthicsModel](../assets/EthicsModel.png)  
 
 ##### 図3｜ZURE倫理における政治的拍動モデル
-```mermaid
-flowchart LR
-  D["熟慮 (Deliberation)"]
-  N["交渉 (Negotiation)"]
-  C["ミニマル合意 (Minimal Consensus)"]
-  E["決断 (Decision)"]
-
-  D --> N --> C
-  D --> E --> C
-
-  classDef cyc fill:#fff3e0,stroke:#ff9800,stroke-width:1.5px;
-  class N,C cyc;
-```
 ![D-N-D_MC](../assets/D-N-D_MC.png)  
 
 ### Figure A: Responsibility–Space Model（拍動型・概念骨格）
 　Spatio-Temporal Intersection as Responsible Beat
 　── 空間構文（Self–Other）と時間構文（Past–Future）の交差点としての責任拍
-```mermaid
-flowchart LR
-  %% Nodes
-  Self["自己<br/>(Self)"]
-  Other["他者<br/>(Other)"]
-  White["関係の余白<br/>(Whitespace)"]
-  Past["過去＝記憶の痕跡<br/>(Trace)"]
-  Present["現在＝責任拍<br/>(Responsible Beat)"]
-  Future["未来＝到来する他者/可能性<br/>(Arrival)"]
-
-  %% Spatial layer (relation field)
-  White --- Self
-  
-  %% Temporal layer (memory beat)
-  Past -->|Re-beat| Present -->|Pre-beat| Future
-
-  %% Cross-couplings
-  White --> Present
-  Present --> White
-  Self --> Present
-  Other --> Present
-  Past -.共拍/Co-beat.-> Other
-  Future -.共拍/Co-beat.-> Self
-
-  %% Styles
-  classDef space fill:#f6f9ff,stroke:#2f6fdf,stroke-width:1px;
-  classDef time fill:#fff8e6,stroke:#ff9800,stroke-width:1px;
-  classDef core fill:#eefaf3,stroke:#2e7d32,stroke-width:1.3px;
-
-  class Self,Other,White space;
-  class Past,Future time;
-  class Present core;
-```
 ![Responsibility–Space_Model](../assets/Responsibility–Space_Model.png)  
 要点：空間構文（Self–Whitespace–Other）＝責任。時間構文（Past→Present→Future）＝記憶。交点 Present が「責任拍」＝時空が一体化する現在性。  
 
 ### Figure B: Relation–Time Loop（関係‐時間ループ／更新循環）
 　Cyclic Update Model of Memory, Relation, and Ethical Decision
 　── 記憶循環と倫理的更新（記憶・関係・決断）を統合する不可逆ループ
-```mermaid
-stateDiagram-v2
-  [*] --> Trace: 想起/継承
-  Trace: 過去の拍 (Trace)
-  ReBeat: 再拍 (Re-beat)
-  Responsible: 現在の責任拍 (Present Beat)
-  PreBeat: 予拍 (Pre-beat)
-  Arrival: 到来する他者/可能性 (Arrival)
-  Negotiation: 交渉とミニマル合意
-  Decision: 決断/更新 (Update)
-
-  Trace --> ReBeat: 記憶の起動
-  ReBeat --> Responsible: 関係の生成
-  Responsible --> PreBeat: 未来の予兆
-  PreBeat --> Arrival: 他者の到来
-  Arrival --> Negotiation: 関係の調整
-  Negotiation --> Decision: 最小合意
-  Decision --> Trace: 歴史化/編成（不可逆更新）
-
-  note right of Responsible
-    空間軸（Self–Other–Whitespace）と
-    時間軸（Past–Future）が重なる現在性の拍。
-  end note
-```
 ![Relation–Time_Loop](../assets/Relation–Time_Loop.png)  
 要点：Trace→Re-beat→Present Beat→Pre-beat→Arrival の時間循環に、Negotiation→Decision→Trace が接続して不可逆更新が閉じる。ここでの“閉じる”は停止ではなく、記録化→次の拍の燃料。  
 
 ### Caption Summary
-EN:
+EN:  
 Figure A visualizes the intersection of spatial responsibility and temporal memory, showing how “presentness” emerges as a pulsative convergence of self, other, and relation.  
 Figure B extends this into an ethical time-loop, where deliberation, negotiation, and decision transform memory into renewed relational responsibility.  
-JP:
+JP:  
 図Aは、空間的責任と時間的記憶の交差点として「現在性の拍」が生成される構文的モデルを示す。  
 図Bは、熟慮・交渉・決断を通じて記憶が関係的責任へと更新される不可逆的時間ループを表す。
 
