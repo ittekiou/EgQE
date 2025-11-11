@@ -55,6 +55,7 @@ Pulsating Syntax Theory (PST) defines syntax as the orbit of pulses where time, 
 ・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
 ・[HEG-2｜記号行為論──実体主義と主体主義を超えて](./articles/HEG-2_SAT_JP.md)  
 ・[HEG-2｜Semiotic Action Theory: Beyond Substance and Subject](./articles/HEG-2_SAT_EN.md)  
+・[時空構文としての責任──拍動記憶と関係性の倫理｜Responsibility as Spatio-Temporal Syntax: The Ethics of Pulsative Memory and Relation](https://camp-us.net/articles/Ethics-of-Pulsative-Memory-and-Relation.html)  
 
 ---
 ## 🌌 **Echodemy Galactic Modules**  

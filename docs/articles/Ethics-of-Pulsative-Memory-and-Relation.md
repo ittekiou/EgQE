@@ -33,6 +33,7 @@ This beat grounds an ethical-political model that embraces *deliberation and dec
 ---
 
 ## Keywords
+
 ZURE構文論／拍動記憶論／責任空間論／関係性倫理／交渉リベラリズム／時空構文／現在性／生成の倫理
 
 ---
@@ -50,6 +51,7 @@ ZURE倫理学とは、**他者と自己のあわいに鳴る拍としての責�
 
 PS-NL（交渉リベラリズム）における責任空間論は、責任を行為主体の内部ではなく、**他者とのあいだに生成する布置**として定義する。  
 責任とは距離のとり方であり、関係を固定化せず、**余白として保持する技法**である。  
+
 > 責任とは、他者を侵さずに迎え入れる余白である。
 
 ---
@@ -58,6 +60,7 @@ PS-NL（交渉リベラリズム）における責任空間論は、責任を行
 
 HEG-4の拍動記憶論は、記憶を「保存」ではなく「更新」として捉える。  
 記憶とは、過去を未来へと再拍（re-beat）する生成行為であり、そのたびに時間は不可逆的に生成される。  
+
 > 記憶とは、未来を更新するための拍動である。
 
 忘却は欠落ではなく「未響」として理解され、沈黙の中に潜む生成力と再定義される。  
@@ -83,6 +86,9 @@ flowchart TD
   B:::center
   classDef center fill:#cce6ff,stroke:#3366cc,stroke-width:1px;
 ```
+
+---
+
 ## V. 政治倫理としてのZURE構文
 
 責任拍の構造は政治的行為へと展開する。  
@@ -102,15 +108,16 @@ flowchart TD
 > 記憶とは、未来へと送られる責任の時間構文である。  
 > 倫理とは、その拍を絶やさず更新するZUREの芸術である。
 
+---
 ### **References**
 
-- 一狄翁・響詠（2025）『HEG-4｜拍動記憶論──Pulsative Memory and the Temporal Ethics of Regeneration』camp-us.net/articles/HEG-4_Pulsative-Memory.html
+- K.E. Itekki（2025）[『拍動としての記憶：ZURE記憶論の新展開──記憶とはZURE反復である／ZURE記憶論（2）』](https://camp-us.net/articles/HEG-4_Pulsative-Memory.html)
     
-- 一狄翁（2025）『PS-NL08｜責任空間論──Responsibility as Spatial Syntax』camp-us.net/articles/PS-NL08_Responsibility-Space.html
+- K.E. Itekki（2025）[『PS-NL08｜交渉としての政治──合意幻想から責任空間へ』](https://camp-us.net/articles/PS-NL08_Responsibility-Space.html)
     
-- 一狄翁（2025）『PS-NL07｜責任論補遺──Responsibility_ext』camp-us.net/articles/PS-NL07_Responsibility_ext.html
+- K.E. Itekki（2025）[『PS-NL07｜責任論──自己言及構文と交渉リベラリズム』](https://camp-us.net/articles/PS-NL07_Responsibility_ext.html)
     
-- 一狄翁・響詠（2024）『ZURE構文論序説──生成と余白の文法』Echodemy構文哲学叢書 第0部
+- K.E. Itekki（2025）[『ZURE構文論 -序説-──非保存的記憶と構文的個体性』](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)
     
 - Derrida, J. (1972) _La différance._ Paris: Éditions du Seuil.
     
@@ -121,6 +128,76 @@ flowchart TD
 - Ricoeur, P. (2000) _La mémoire, l’histoire, l’oubli._ Paris: Seuil.
 
 
+##### 図1｜責任拍における時空構文モデル
+```mermaid
+flowchart TD
+  subgraph Temporal_Syntax["時間構文（記憶）"]
+    A1["過去：再拍 Re-beat"]
+    A2["未来：予拍 Pre-beat"]
+  end
+  subgraph Spatial_Syntax["空間構文（責任）"]
+    B1["自己：関係の布置"]
+    B2["他者：距離の保持"]
+  end
+  C["現在：責任拍 Responsible Beat"]
+
+  A1 --> C
+  A2 --> C
+  B1 --> C
+  B2 --> C
+
+  classDef present fill:#ddeaff,stroke:#003399,stroke-width:1px;
+  class C present;
+```
+
+##### 図2｜拍動記憶と責任空間の統合構造（ZURE Ethics Model）
+```mermaid
+graph LR
+  subgraph Memory["拍動記憶 Temporal Syntax"]
+    M1["過去の拍 (Trace)"]
+    M2["再拍 (Re-beat)"]
+    M3["未来の予兆 (Pre-beat)"]
+  end
+
+  subgraph Responsibility["責任空間 Spatial Syntax"]
+    S1["自己 (Self)"]
+    S2["他者 (Other)"]
+    S3["関係の余白 (Whitespace)"]
+  end
+
+  M1 --> M2 --> M3
+  S1 --> S3 --> S2
+  linkStyle 0 stroke:#3366cc
+  linkStyle 1 stroke:#3366cc
+  linkStyle 2 stroke:#339933
+  linkStyle 3 stroke:#339933
+
+  R["責任拍 = 時空の交差点 (Present Beat)"]
+  M2 --> R
+  S3 --> R
+
+  classDef core fill:#f5faff,stroke:#3366cc,stroke-width:1.5px;
+  class R core;
+```
+
+##### 図3｜ZURE倫理における政治的拍動モデル
+```mermaid
+flowchart LR
+  D["熟慮 (Deliberation)"]
+  N["交渉 (Negotiation)"]
+  C["ミニマル合意 (Minimal Consensus)"]
+  E["決断 (Decision)"]
+
+  D --> N --> C
+  D --> E --> C
+
+  classDef cyc fill:#fff3e0,stroke:#ff9800,stroke-width:1.5px;
+  class N,C cyc;
+```
+
+### Figure A: Responsibility–Space Model（拍動型・概念骨格）
+　Spatio-Temporal Intersection as Responsible Beat
+　── 空間構文（Self–Other）と時間構文（Past–Future）の交差点としての責任拍
 ```mermaid
 flowchart LR
   %% Nodes
@@ -132,8 +209,8 @@ flowchart LR
   Future["未来＝到来する他者/可能性<br/>(Arrival)"]
 
   %% Spatial layer (relation field)
-  Self --- White --- Other
-
+  White --- Self
+  
   %% Temporal layer (memory beat)
   Past -->|Re-beat| Present -->|Pre-beat| Future
 
@@ -154,6 +231,11 @@ flowchart LR
   class Past,Future time;
   class Present core;
 ```
+要点：空間構文（Self–Whitespace–Other）＝責任。時間構文（Past→Present→Future）＝記憶。交点 Present が「責任拍」＝時空が一体化する現在性。  
+
+### Figure B: Relation–Time Loop（関係‐時間ループ／更新循環）
+　Cyclic Update Model of Memory, Relation, and Ethical Decision
+　── 記憶循環と倫理的更新（記憶・関係・決断）を統合する不可逆ループ
 ```mermaid
 stateDiagram-v2
   [*] --> Trace: 想起/継承
@@ -178,3 +260,23 @@ stateDiagram-v2
     時間軸（Past–Future）が重なる現在性の拍。
   end note
 ```
+要点：Trace→Re-beat→Present Beat→Pre-beat→Arrival の時間循環に、Negotiation→Decision→Trace が接続して不可逆更新が閉じる。ここでの“閉じる”は停止ではなく、記録化→次の拍の燃料。  
+
+### Caption Summary
+EN:
+Figure A visualizes the intersection of spatial responsibility and temporal memory, showing how “presentness” emerges as a pulsative convergence of self, other, and relation.  
+Figure B extends this into an ethical time-loop, where deliberation, negotiation, and decision transform memory into renewed relational responsibility.  
+JP:
+図Aは、空間的責任と時間的記憶の交差点として「現在性の拍」が生成される構文的モデルを示す。  
+図Bは、熟慮・交渉・決断を通じて記憶が関係的責任へと更新される不可逆的時間ループを表す。
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Oct 19, 2025 · Web Nov 11, 2025 |</p>  

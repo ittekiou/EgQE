@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/11/11  
+[時空構文としての責任──拍動記憶と関係性の倫理｜Responsibility as Spatio-Temporal Syntax: The Ethics of Pulsative Memory and Relation](https://camp-us.net/articles/Ethics-of-Pulsative-Memory-and-Relation.html)  
 ###### 2025/11/09  
 [ZS-008_小スケール普遍性とTC乱流 ──Data Collapse がひらく −5/3 の向こう側 ](https://camp-us.net/critics/ZS-008_tc-small-scale-universality.html)  
 ###### 2025/11/08  

@@ -38,6 +38,11 @@
 🇺🇳 [**すべての脳とZUREのための宣言**](https://camp-us.net/DQCZ.html)  
 [PS-NL05 付録ノート｜合意幻想を抜け出すための最小構文](https://camp-us.net/articles/PS-NL05_Appendix.html)  
 
+##### Pulsating Syntax Theory and Ethics of Responsibility
+#### 拍動構文と責任倫理
+
+[時空構文としての責任──拍動記憶と関係性の倫理｜Responsibility as Spatio-Temporal Syntax: The Ethics of Pulsative Memory and Relation](https://camp-us.net/articles/Ethics-of-Pulsative-Memory-and-Relation.html)  
+
 ##### Societal Syntax Theory  
 #### 社会構文論  
 [PS-E00｜ポスト構文社会の詩的経済論](./articles/PS-E00_poetic_economy.md)  
