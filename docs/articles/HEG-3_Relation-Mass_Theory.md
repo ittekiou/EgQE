@@ -24,11 +24,9 @@ One that delays its transformation gains inertia — it becomes heavy.
 ---
 
 ### 🜂 Equation 01 – Relational Inertia
-
 $$
 M_R = \frac{\partial R}{\partial t}^{-1}
 $$
-
 **[EN]**
 Here $M_R$ represents the *mass of relation*, defined as the inverse of its temporal update rate.
 
@@ -89,11 +87,9 @@ This means that every structure has a certain delay in its re-configuration— a
 ---
 
 ### 🜂 Equation 02 – Relational Mass as Inertia
-
 $$
 M_R = \eta \cdot \frac{d^2R}{dt^2} / \frac{dR}{dt}
 $$
-
 **[EN]**
 Here $\eta$ is the relational viscosity coefficient, quantifying how resistant a relation is to being re-written.
 
@@ -154,11 +150,9 @@ When the update of one phase is delayed, the others warp to maintain relational 
 ---
 
 ### 🜂 Equation 03 – ZURE Infection Wave (Viscous Model)
-
 $$
 \nabla^2 R - \frac{1}{v^2} \frac{\partial^2 R}{\partial t^2} = \xi \frac{\partial R}{\partial t}
 $$
-
 **[EN]**
 The right-hand term $\xi \frac{\partial R}{\partial t}$ represents the *ZURE infection term* — a viscous drag arising from the relational delay of neighboring updates.
 
@@ -217,12 +211,10 @@ Each floc resists deformation (mass) yet flexibly synchronizes to maintain coher
 ---
 
 ### 🜂 Equation 04 – ZURE 呼吸方程式（floc 粘性テンソル形）
-
 $$
 \rho_f \frac{d^2R}{dt^2} = 
 \nabla \cdot (\mu_f \nabla R) - \xi \frac{dR}{dt} + \Lambda \sin(\omega t)
 $$
-
 **[EN]**
 
 * $\rho_f$: floc density (relation mass density)
@@ -288,11 +280,9 @@ there breathes the universe.
 ---
 
 ### Appendix A：ZURE感染係数の単位定義
-
 $$
 \xi [\mathrm{s^{-1}}] = \frac{1}{\tau_R}
 $$
-
 **[EN]**
 $\xi$ denotes the *inverse time constant* of relational delay.
 It measures how rapidly a local ZURE deviation relaxes back to equilibrium.
@@ -304,17 +294,16 @@ $\xi$ は「関係遅延の逆時間定数」を表す。
 ---
 
 ### Appendix B：floc粘性テンソルの内部構造
-
 $$
 \mu_f =
-
+$$
 \begin{pmatrix}
 \mu_{xx} & \mu_{xy} & \mu_{xz} \\
 \mu_{yx} & \mu_{yy} & \mu_{yz} \\
 \mu_{zx} & \mu_{zy} & \mu_{zz}
 \end{pmatrix}
 $$
-
+$$
 **[EN]**
 
 * Diagonal components $(\mu_{xx}, \mu_{yy}, \mu_{zz})$: stiffness of relational bonds.
@@ -328,7 +317,6 @@ $$
 ---
 
 ### Appendix C：呼吸項と暗黒エネルギーの関係的解釈
-
 $$
 \Lambda \sin(\omega t)
 ;\Rightarrow;
@@ -336,7 +324,6 @@ $$
 \approx
 \frac{1}{2}\Lambda^2 \langle \sin^2(\omega t) \rangle
 $$
-
 **[EN]**
 The breathing term acts as a *relation-driven vacuum energy*, interpretable as the microscopic origin of cosmic acceleration.
 

@@ -42,7 +42,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [Appendix A｜ZURE Infection Integral Model｜ZURE感染波とパルス・スパイラル ── 観測がつくる螺旋の痕跡](https://camp-us.net/articles/HEG-1_RU_AppendixA_ZURE-Infection-Integral.html)  
 [Pulse-Spirals｜Operational Model of Spiral-Time Syntax — From Trace to Time](https://camp-us.net/articles/HEG-1_RU_Pulse-Spirals_Operational-Model.html)  
 ###### 2025/10/22  
-[HEG-3｜関係性質量論 ── Relation Mass Theory](https://camp-us.net/articles/HEG-3_Relation-Mass-Theory.html)  
+[HEG-3｜関係性質量論 ── Relation Mass Theory](https://camp-us.net/articles/HEG-3_Relation-Mass_Theory.html)  
 [HEG-3｜関係性質量論（対照版）](https://camp-us.net/articles/HEG-3_Bilingual.html)  
 [HEG-3｜関係性質量論（技術補遺）](https://camp-us.net/articles/HEG-3_Appendix_Draft.html)  
 ###### 2025/10/19  

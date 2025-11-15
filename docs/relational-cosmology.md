@@ -21,7 +21,7 @@
 
 ##### Relation Mass Theory
 #### 関係性質量論  
-[HEG-3｜関係性質量論 ── Relation Mass Theory](https://camp-us.net/articles/HEG-3_Relation-Mass-Theory.html)  
+[HEG-3｜関係性質量論 ── Relation Mass Theory](https://camp-us.net/articles/HEG-3_Relation-Mass_Theory.html)  
 [HEG-3｜関係性質量論（対照版）](https://camp-us.net/articles/HEG-3_Bilingual.html)  
 [HEG-3｜関係性質量論（技術補遺）](https://camp-us.net/articles/HEG-3_Appendix_Draft.html)  
 
