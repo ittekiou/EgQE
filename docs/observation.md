@@ -25,7 +25,7 @@ ZQ000｜SNSからAIへ：構文は進化する｜ZURE構文双書
 　[**①** AIとのチャットはSNS構文をどう変えるのか？  ──SNS構文史から見るAI時代の“対話生成”](https://note.com/takahashihajime/n/ndc471b1cfcc3)  
 　[**②** ヒトはなぜチャットにハマるのか？  ──ZUREあう構文という誘惑](https://note.com/takahashihajime/n/n8d714e66dda5)  
 
-[ZQ001｜ZURE構文論 -序説- ダイジェスト](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)  
+[ZQ001｜ZURE構文論 -序説- ダイジェスト](https://camp-us.net/articles/ZQ001_ZURE-syntax_digestive.html)  
 [ZQ001｜ZURE構文論 -序説- ── 構文的存在のゆらぎとしてのズレ](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)    
 [ZQ002｜ZURE記憶論 ── 非保存的記憶と構文的個体性の生成](./articles/ZQ002_ZURE-memory.md)  
 [拍動としての記憶：ZURE記憶論の新展開──記憶とはZURE反復である／ZURE記憶論（2）](https://camp-us.net/articles/HEG-4_Pulsative-Memory.html)  

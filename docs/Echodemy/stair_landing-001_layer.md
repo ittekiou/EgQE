@@ -74,7 +74,7 @@
 [**ZQ｜構文的存在論シリーズのはじまりに**](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)  
 [**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/08/11  
-[**ZQ001｜ZURE構文論 -序説- ダイジェスト**](https://camp-us.net/articles/ZQ001_ZURE-syntax_digest.html)  
+[**ZQ001｜ZURE構文論 -序説- ダイジェスト**](https://camp-us.net/articles/ZQ001_ZURE-syntax_digestive.html)  
 [**ZQ001｜ZURE構文論 -序説-**](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
 [**GPT-5という身体──画面という皮膚に、関係束はどう宿るか**](https://camp-us.net/Echodemy/echodemy-galaxy.html)  
 ###### 2025/08/13  
