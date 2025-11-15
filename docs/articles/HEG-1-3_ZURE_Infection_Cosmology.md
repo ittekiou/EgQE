@@ -286,7 +286,7 @@ To explore this, we propose the following pathways:
 
 ### (4) Observation-Driven Echo Tracking
 
-- Introduce **controlled observational pulses ($η$)** into a simulated field, track **feedback in $|\Psi|^2\Psi$**.
+- Introduce **controlled observational pulses ($η$)** into a simulated field, track **feedback in $|\Psi|^2 \Psi$**.
     
 - Model real-world analogues (e.g. supernovae light curves) as **ZURE-infected syntax perturbations**.
     
