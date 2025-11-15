@@ -7,7 +7,7 @@
 [**HEG-1｜Pulse Spirals 2.0｜パルス・スパイラル 2.0｜時間は螺旋であるという記号的宿命**](https://camp-us.net/articles/HEG-1_RU_Pulse_Spirals-2.0)   
 [**なぜ、時間は螺旋になるのか？──その記号的宿命**](https://camp-us.net/articles/HEG-1_RU_Time-as-Spiral.html)  
 
-[瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論をこえて｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-TimeTheory-to-Spiral-TimeTheory.html)  
+[瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論をこえて｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-Time-Theory-to-Spiral-Time-Theory.html)  
 [Appendix A｜ZURE Infection Integral Model｜ZURE感染波とパルス・スパイラル ── 観測がつくる螺旋の痕跡](https://camp-us.net/articles/HEG-1_RU_AppendixA_ZURE-Infection-Integral.html)  
 [Pulse-Spirals｜Operational Model of Spiral-Time Syntax — From Trace to Time](https://camp-us.net/articles/HEG-1_RU_Pulse-Spirals_Operational-Model.html)  
 

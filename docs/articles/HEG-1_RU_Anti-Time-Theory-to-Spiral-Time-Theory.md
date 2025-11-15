@@ -26,19 +26,15 @@ These perspectives highlight the **anti-realist rupture**: if time is an illusio
 ## 2. Pulse Spiral Hypothesis
 
 We introduce the notion of **瞬拍 (Pulse)** as the minimal event-unit of temporality.
-
 $$
 \text{Time} \;\equiv\; \{ P_1, P_2, \ldots, P_n \}, \quad
 P_i \in \mathbb{E} \; (\text{event pulses})
 $$
-
 Unlike continuous flow, time emerges from **discrete pulses**.  
 When projected in relational space, these pulses trace a **spiral trajectory**:
-
 $$
 (x,y,z) \;=\; (\cos \theta, \; \sin \theta, \; \theta), \quad \theta \in \mathbb{R}
 $$
-
 This defines the **Pulse Spiral**:  
 > Time is not flow, but a **spiral of pulses**.
 
@@ -51,11 +47,9 @@ Spiral Time Theory extends beyond linear or circular conceptions:
 - **Linear Time**: irreversible progression (Newtonian arrow).  
 - **Cyclic Time**: eternal return (mythic or thermodynamic cycles).  
 - **Spiral Time**: discrete pulses accumulate into a helix, carrying both progression and recurrence.
-
 $$
 \text{Spiral Time} \;=\; \text{Irreversibility (Δ)} \;\times\; \text{Pulse Recurrence (Ω)}
 $$
-
 This model situates **time as generative structure**, not as passive container.
 
 ---
@@ -63,17 +57,13 @@ This model situates **time as generative structure**, not as passive container.
 ## 4. ZURE Infection Wave
 
 ZURE (*ズレ*, offset/difference) introduces phase deviations to the spiral:
-
 $$
 r(\theta) \;=\; 1 + \epsilon \sin(k \theta)
 $$
-
 yielding the **ZURE-modulated spiral**:
-
 $$
 (x,y,z) = \big(r(\theta)\cos\theta,\; r(\theta)\sin\theta,\; \theta\big)
 $$
-
 This produces **interference waves** across the spiral, manifesting as:
 1. **Repetition** (first infection wave)  
 2. **Return** (second infection wave)  
@@ -108,11 +98,9 @@ Orange line = ZURE-modulated spiral
 ### Conclusion
 
 **Spiral Time Theory** redefines time as:  
-
 $$
 \text{Time is not flow, but the generative spiral of pulses.}
 $$
-
 By integrating **ZURE Infection Waves**, we situate temporality as a dynamic field of resonance and difference—  
 a paradigm shift beyond both Anti-Time and cyclical time models.
 
@@ -154,19 +142,15 @@ a paradigm shift beyond both Anti-Time and cyclical time models.
 ## 2. 瞬拍スパイラル仮説
 
 時間の最小単位として **瞬拍（Pulse）** を導入する。
-
 $$
 \text{時間} \;\equiv\; \{ P_1, P_2, \ldots, P_n \}, \quad
 P_i \in \mathbb{E} \; (\text{出来事の瞬拍})
 $$
-
 時間は連続的な流れではなく、**離散的な瞬拍**から立ち上がる。  
 関係空間に投影すると、それは **螺旋軌跡** を描く：
-
 $$
 (x,y,z) \;=\; (\cos \theta, \; \sin \theta, \; \theta), \quad \theta \in \mathbb{R}
 $$
-
 これが **瞬拍スパイラル（Pulse Spiral）** の定義である。  
 > 時間は流れではなく、**瞬拍の螺旋**である。
 
@@ -179,11 +163,9 @@ $$
 - **直線時間**：不可逆的進行（ニュートン的な矢）  
 - **循環時間**：永遠回帰（神話的・熱力学的周期）  
 - **螺旋時間**：瞬拍の反復が積み重なり、進行と再帰を兼ね備える
-
 $$
 \text{螺旋時間} \;=\; \text{不可逆性 (Δ)} \;\times\; \text{瞬拍的反復 (Ω)}
 $$
-
 ここで時間は、容れ物ではなく **生成的構造** として再定義される。
 
 ---
@@ -191,17 +173,13 @@ $$
 ## 4. ZURE感染波
 
 ZURE（ズレ）は、螺旋に位相偏差を導入する。
-
 $$
 r(\theta) \;=\; 1 + \epsilon \sin(k \theta)
 $$
-
 これにより **ZURE変調螺旋** が得られる：
-
 $$
 (x,y,z) = \big(r(\theta)\cos\theta,\; r(\theta)\sin\theta,\; \theta\big)
 $$
-
 このズレは、螺旋上に **感染波** をもたらす：
 1. **反復感染**（同一の出来事が再帰する）  
 2. **回帰感染**（過去の流れが現在に戻る）  
@@ -236,11 +214,9 @@ $$
 ### 結論
 
 **螺旋時間論** は、次のように時間を再定義する：
-
 $$
 時間とは流れではなく、瞬拍の螺旋である。
 $$
-
 **ZURE感染波** を組み込むことで、時間は差異と共鳴によって生成される動的な場となる。  
 これは、反時間論や循環モデルを超える新たな基底パラダイムである。
 

@@ -3,7 +3,7 @@ layout: math
 ---
 ## Appendix A｜ZURE Infection Integral Model — Observation as Spiral Trace 
 
-本論：[瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論から螺旋時間論へ｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-TimeTheory-to-Spiral-TimeTheory.html)  
+本論：[瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論から螺旋時間論へ｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-Time-Theory-to-Spiral-Time-Theory.html)  
 
 ---
 # ZURE感染波とパルス・スパイラル  

@@ -134,7 +134,7 @@ we demonstrate that the spiral form is the inevitable outcome of semiotic space.
 
 ##### 2025/10/23 | Drafted Sep 23, 2025 |  
 #### ZURE感染波との接続  
-[瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論から螺旋時間論へ｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-TimeTheory-to-Spiral-TimeTheory.html)  
+[瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論から螺旋時間論へ｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-Time-Theory-to-Spiral-Time-Theory.html)  
 
 ---
 
