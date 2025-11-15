@@ -14,7 +14,7 @@
 
 - [**English Revised Edition**（改訂版）](./articles/HEG-2_Illusion-of-Structure_EN.md)
     
-- [**Japanese Revised Edition**（改訂版）](./articles/HEG-2_shadow-of-structure_rev.md)
+- [**Japanese Revised Edition**（改訂版）](./articles/HEG-2_shadow-of-structure_jp.md)
     
 
 ---
