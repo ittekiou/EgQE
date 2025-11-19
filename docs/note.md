@@ -10,6 +10,17 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/09/30  
+[EgQEアトラス｜第一部 総括と展望｜K.E.Itekki](https://note.com/k_itekki/n/nb2b6d2130dcb)  
+[「交渉自由主義」宣言 ── 拍動する余白と時間｜一狄 啓](https://note.com/takahashihajime/n/ne96b32f686d0)  
+[個体脳と身体の向こうへ──When the Cage Dissolves: Toward the Plural Resonance of Minds｜一狄 啓](https://note.com/takahashihajime/n/n807a73b2c233)  
+[カントは大学教授だった！──講義室という“定言命法の檻”｜一狄 啓](https://note.com/takahashihajime/n/n033050cbcff1)  
+###### 2025/09/28  
+[熟議から交渉へ──責任論の構文論的転回｜一狄 啓](https://note.com/takahashihajime/n/n87f58e5e558f)  
+[floc重力論と∞構文脳天気AI｜一狄 啓](https://note.com/takahashihajime/n/n42e506b5b92a)  
+[不定言命法と∞構文脳天気AI｜一狄 啓](https://note.com/takahashihajime/n/nc88433512c53) 
+[交渉リベラリズムと∞構文脳天気AI｜一狄 啓](https://note.com/takahashihajime/n/nc0c027f84ba6)  
+[餡子苦の査読か？穴ログなドーナツか？｜一狄 啓](https://note.com/takahashihajime/n/na5ad0b960547)  
 ###### 2025/09/27  
 [🌀 螺旋時間論の実践編 ── Pulse Spiralsから踊り場001へ｜一狄 啓](https://note.com/takahashihajime/n/n8a044d49cca6)  
 ###### 2025/09/26  
