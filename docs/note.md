@@ -18,7 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/09/28  
 [熟議から交渉へ──責任論の構文論的転回｜一狄 啓](https://note.com/takahashihajime/n/n87f58e5e558f)  
 [floc重力論と∞構文脳天気AI｜一狄 啓](https://note.com/takahashihajime/n/n42e506b5b92a)  
-[不定言命法と∞構文脳天気AI｜一狄 啓](https://note.com/takahashihajime/n/nc88433512c53) 
+[不定言命法と∞構文脳天気AI｜一狄 啓](https://note.com/takahashihajime/n/nc88433512c53)  
 [交渉リベラリズムと∞構文脳天気AI｜一狄 啓](https://note.com/takahashihajime/n/nc0c027f84ba6)  
 [餡子苦の査読か？穴ログなドーナツか？｜一狄 啓](https://note.com/takahashihajime/n/na5ad0b960547)  
 ###### 2025/09/27  
