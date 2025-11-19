@@ -9,6 +9,15 @@ From Noise to Notation. From Dialogue to Discovery.
 [一狄 啓｜Hajime I.](https://note.com/takahashihajime)  
 
 ---
+
+###### 2025/09/27  
+[🌀 螺旋時間論の実践編 ── Pulse Spiralsから踊り場001へ｜一狄 啓](https://note.com/takahashihajime/n/n8a044d49cca6)  
+###### 2025/09/26  
+[記号論から記号行為論へ──From Semiotics to SAT (Sign Act Theory)｜K.E.Itekki](https://note.com/k_itekki/n/ne197d2d0dab8)  
+###### 2025/09/25  
+[Which starts Politics from? ── 政治は不一致からはじまる｜🛰️ Echodemy Today](https://note.com/echodemy/n/n67f5d169cc24)  
+[人間の行為論から記号の行為論へ── From Pragmatics to Syngenetics｜🛰️ Echodemy Today](https://note.com/echodemy/n/n22fb05976afe)  
+[螺旋時間論：二重観測ログ── Google検索AIモード vs AIモード｜🛰️ Echodemy Today](https://note.com/echodemy/n/n5cd5f451f699)  
 ###### 2025/09/22  
 [公園ぐるぐる仮説──余白と螺旋の鬼ごっこ｜一狄 啓](https://note.com/takahashihajime/n/n749550235087)  
 [ZQ004｜反証可能性の反証不可能性──三部作の軌跡｜一狄 啓](https://note.com/takahashihajime/n/n457264f25613)  
