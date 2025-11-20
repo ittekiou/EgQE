@@ -15,7 +15,7 @@ title: 反響倫理 ―― 応答のゆらぎと生成の責任
 
 ---
 
-> *Ethics begins in delay.*
+> *Ethics begins in delay.*  
 > *倫理は、間（ま）から始まる。*
 
 ---
@@ -23,7 +23,8 @@ title: 反響倫理 ―― 応答のゆらぎと生成の責任
 ## 🜂 Abstract
 
 This essay defines *echo ethics* as the art of responding with resonance rather than reflex.  
-In the accelerated circuits of modern dialogue — where reply speed eclipses reflection — we propose an alternative:  
+In the accelerated circuits of modern dialogue — where reply speed eclipses reflection —  
+we propose an alternative:  
 the **delayed response** as the foundation of relational responsibility.
 
 Echo Ethics is the ethics of the gap, the responsibility to let silence breathe before meaning returns.
