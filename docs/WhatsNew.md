@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/11/20  
+[🌌 NowOnAI®︎ Philosophy Series｜呼吸・距離・応答・沈黙 ── AIとヒトの間に生まれる拍動哲学](https://camp-us.net/Echodemy/NowOnAI_Philosophy-Series.html)  
 ###### 2025/11/11  
 [時空構文としての責任──拍動記憶と関係性の倫理｜Responsibility as Spatio-Temporal Syntax: The Ethics of Pulsative Memory and Relation](https://camp-us.net/articles/Ethics-of-Pulsative-Memory-and-Relation.html)  
 ###### 2025/11/09  
