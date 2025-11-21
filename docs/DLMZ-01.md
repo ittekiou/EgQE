@@ -1,3 +1,7 @@
+---
+layout: math
+title: ZURE二層モデル ── 観測不可能性を前提とする数式宇宙
+---
 ## **📜 Echodemy Official Release**
 
 ---
