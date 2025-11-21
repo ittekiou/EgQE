@@ -90,8 +90,8 @@ while ZURE itself opens a path toward the unobservable ground of generation.
 
 ## 🔗 External Links
 
-- Medium: _coming soon_  
-- note (JP): _coming soon_  
+- Medium: _[📄 Le Modèle à Deux Couches de ZURE ── Un Univers Mathématique Fondé sur l’Inobservabilité](https://egqe.medium.com/le-mod%C3%A8le-%C3%A0-deux-couches-de-zure-un-univers-math%C3%A9matique-fond%C3%A9-sur-linobservabilit%C3%A9-72365bca2305?postPublishedType=repub)_  
+- note (JP): _[数式宇宙のZURE二層モデル爆誕](https://note.com/k_itekki/n/n8ccad6535070)_  
 
 ---
 © 2025 K.E. Itekki  
