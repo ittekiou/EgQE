@@ -213,6 +213,7 @@ $$
 $$
 Z \to E \to N \to C, \quad T = \int Z , dE.
 $$
+
 ZURE becomes the single generative field from which all classical epistemic categories arise.
 
 ![ZURE-Theory-of-Contingency](../assets/ZURE-Theory-of-Contingency.png)
