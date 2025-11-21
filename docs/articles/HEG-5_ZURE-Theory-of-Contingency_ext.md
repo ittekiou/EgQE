@@ -286,30 +286,11 @@ HEG-5 の核となる結論をまとめると以下である。
 ## **最終公式（HEG-5 定式化）**
 
 $$
-\textbf{Cause is Narrative.} \\
-\textbf{Necessity is Statistical Form.} \\
-\textbf{Generation is ZURE.}
-$$
-
-$$\textbf{Cause is Narrative.}$$
-$$\textbf{Necessity is Statistical Form.}$$
-$$\textbf{Generation is ZURE.}$$
-
-
-$$
-\textbf{Cause is Narrative.} \\\\
-\textbf{Necessity is Statistical Form.} \\\\
-\textbf{Generation is ZURE.}
-$$
-
-$$
-\textbf{Cause is Narrative.}
-$$
-$$
-\textbf{Necessity is Statistical Form.}
-$$
-$$
-\textbf{Generation is ZURE.}
+\begin{aligned}
+&\textbf{Cause is Narrative.} \\
+&\textbf{Necessity is Statistical Form.} \\
+&\textbf{Generation is ZURE.}
+\end{aligned}
 $$
 
 ---

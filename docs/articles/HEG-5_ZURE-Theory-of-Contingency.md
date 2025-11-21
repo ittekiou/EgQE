@@ -8,7 +8,7 @@ title: HEG-5｜ZURE偶然論──決定論的必然から確率論的必然へ�
 ## （決定論的必然から確率論的必然へ）
 ### **Complete Academic Edition**
 
-[HEG-5｜ZURE偶然論──決定論的必然は、いかに確率論的必然に転化したか](https://camp-us.net/articles/HEG-5_From-Deterministic-Necessity-to-Probabilistic-Form.html)（拡張版）  
+[HEG-5｜ZURE偶然論──決定論的必然は、いかに確率論的必然に転化したか](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_ext.html)  （拡張版）  
 
 ---
 # **0. 序：偶然・必然・因果の再構築へ**
@@ -183,12 +183,6 @@ $$
 &\textbf{Generation is ZURE.}
 \end{aligned}
 $$
-
-
-
-<p align="center">Cause is Narrative.</p>  
-<p align="center">Necessity is Statistical Form.</p>  
-<p align="center">Generation is ZURE.</p>  
 
 HEG-5 は、偶然→必然→因果という西洋哲学・科学の三段階を**ZURE起点の構文論として再配列する。**
 
