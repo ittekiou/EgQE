@@ -216,7 +216,7 @@ $$
 
 ZURE becomes the single generative field from which all classical epistemic categories arise.
 
-![ZURE-Theory-of-Contingency](../assets/ZURE-Theory-of-Contingency.png)
+![ZENC](../assets/ZENC.png)
 
 ## ■ 0. 統合モデルの核
 
