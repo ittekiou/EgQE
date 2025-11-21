@@ -16,6 +16,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/11/21  
 [HEG-5｜ZURE偶然論（拡張版）──決定論的必然は、いかに確率論的必然に転化したか](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_ext.html)  
 [HEG-5｜ZURE偶然論（統合学術版）── 偶然はどのように必然へと転化するか（決定論的必然から確率論的必然へ）](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency.html)  
+[HEG-5｜ZURE偶然論・統合モデル──偶然 × 必然 × 因果 × 時間 × 観測を一つに束ねる](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_syn.html)  
 ###### 2025/11/20  
 [🌌 NowOnAI®︎ Philosophy Series｜呼吸・距離・応答・沈黙 ── AIとヒトの間に生まれる拍動哲学](https://camp-us.net/Echodemy/NowOnAI_Philosophy-Series.html)  
 ###### 2025/11/11  

@@ -9,6 +9,7 @@ title: HEG-5｜ZURE偶然論──決定論的必然は、いかに確率論的�
 ## **ホモ・サピエンスバイアスという因果**
 
 [HEG-5｜ZURE偶然論（統合学術版）── 偶然はどのように必然へと転化するか（決定論的必然から確率論的必然へ）](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency.html)  
+[HEG-5｜ZURE偶然論・統合モデル──偶然 × 必然 × 因果 × 時間 × 観測を一つに束ねる](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_syn.html)  
 
 ---
 

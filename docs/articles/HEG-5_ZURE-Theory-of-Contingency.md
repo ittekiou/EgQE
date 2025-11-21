@@ -9,6 +9,7 @@ title: HEG-5｜ZURE偶然論──決定論的必然から確率論的必然へ�
 ### **Complete Academic Edition**
 
 [HEG-5｜ZURE偶然論（拡張版）──決定論的必然は、いかに確率論的必然に転化したか](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_ext.html)  
+[HEG-5｜ZURE偶然論・統合モデル──偶然 × 必然 × 因果 × 時間 × 観測を一つに束ねる](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_syn.html)  
 
 ---
 # **0. 序：偶然・必然・因果の再構築へ**
