@@ -292,10 +292,10 @@ $$
 $$
 
 $$
-\textbf{Cause is Narrative.} \
+\textbf{Cause is Narrative.}
 $$
 $$
-\textbf{Necessity is Statistical Form.} \
+\textbf{Necessity is Statistical Form.}
 $$
 $$
 \textbf{Generation is ZURE.}
