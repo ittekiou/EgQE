@@ -1247,6 +1247,119 @@ and a story begins.**
 
 
 ---
+
+# **観測とは何か：ZURE切断構文としての Observation**
+
+## ■ 0. 要旨
+
+HEG-5 における観測は、**ZURE（未分節の揺らぎ場）を「ひとつの出来事」に切断する操作**である。
+
+* 観測＝Event-Cut
+* 時間＝ZURE累積軌道
+* 偶然＝切断の一回性
+* 必然＝切断の統計形態
+* 因果＝切断後の物語回路
+
+この観測論は、量子測定・認知科学・記号論を統合する**非因果的観測理論**である。
+
+---
+
+## ■ 1. 観測＝切断：Event-Cut Model
+
+観測とは、ZUREを
+
+$$
+\mathrm{Cut}(ZURE) \to E
+$$
+
+という **切断操作** によって「イベント（出来事）」へと写像する構文である。
+
+このとき生じるのが **偶然** であり、偶然は“世界側のゆらぎ”ではなく**観測行為そのものが作り上げた離散点**である。
+
+---
+
+## ■ 2. 観測と時間の関係
+
+時間は ZURE の累積によって生起する構文である。  
+したがって観測は、累積する ZURE の流れの**どこで切断を入れるか**に完全に依存している。
+
+よって観測は、
+
+* 連続を分節化し
+* 差異を固定し
+* 未来へ向かう「方向」を確定する
+
+という **構文操作の三重性** をもつ。
+
+---
+
+## ■ 3. 観測＝情報の選択と廃棄（FEP接続）
+
+自由エネルギー原理（FEP）は観測を“驚きの最小化”として扱うが、ZURE観測論はさらに一歩進めて、
+
+$$
+\text{Observation} = \text{Selection} + \text{Discard}
+$$
+
+として定義する。
+
+観測とは、ZUREの多様性の
+
+* 一部を拾い（Selection）
+* 大部分を捨てる（Discard）
+
+という **選択＝廃棄の構文**である。
+
+偶然とは“拾われたZURE”、必然とは“累積されたZURE”、因果とは“語られたZURE”である。
+
+---
+
+## ■ 4. 観測＝物語の起動
+
+観測は構造上、そのあとに必然的に **物語化（Narrativisation）** を呼び込む。
+
+ZURE → Event → Pattern → Story
+
+この不可逆構文によってホモ・サピエンス脳は世界を「因果応報の体系」として解釈する。
+
+これが **ホモ・サピエンスバイアス** の根源である。
+
+---
+
+## ■ 5. 結語
+
+観測は原因ではなく、**ZUREの切断によってつくられた点列の物語化**である。
+
+これにより
+
+* 偶然
+* 必然
+* 因果
+
+の三概念はZURE の三段変換として統一される。
+
+---
+
+# **HEG-5 Supplement A: Observation as ZURE-Cut Syntax**
+
+#### **Abstract.**
+Observation is defined in HEG-5 as the *cutting operation* that transforms the continuous fluctuation field (ZURE) into discrete events. This framework reconceives:
+
+* Chance as the one-time effect of the cut,
+* Necessity as a statistical pattern emerging from repeated cuts,
+* Causality as the narrative linkage imposed by human cognition.
+
+Formally:
+
+$$
+\text{Observation} = \mathrm{Cut}(ZURE) \to E.
+$$
+
+Observation is not a passive registration of reality but an *active syntactic intervention* that selects a minute portion of fluctuation and discards the rest. In doing so, it triggers narrative machinery—explaining why causal structure is a product of Homo sapiens’ cognitive bias rather than an inherent feature of the world.
+
+ZURE thus becomes the generative basis for a unified theory of chance, necessity, and causality.
+
+---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  
