@@ -176,6 +176,16 @@ Event（偶然）はZUREの影であり、観測の産物である。
 
 ゆえに：
 
+$$
+\begin{aligned}
+&\textbf{Cause is Narrative.} \\
+&\textbf{Necessity is Statistical Form.} \\
+&\textbf{Generation is ZURE.}
+\end{aligned}
+$$
+
+
+
 <p align="center">Cause is Narrative.</p>  
 <p align="center">Necessity is Statistical Form.</p>  
 <p align="center">Generation is ZURE.</p>  
