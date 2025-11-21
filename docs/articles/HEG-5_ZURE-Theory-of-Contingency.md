@@ -176,15 +176,12 @@ Event（偶然）はZUREの影であり、観測の産物である。
 
 ゆえに：
 
-$$
-\textbf{Cause is Narrative.} \
-$$
-$$
-\textbf{Necessity is Statistical Form.} \
-$$
-$$
-\textbf{Generation is ZURE.}
-$$
+<div align="center">
+**Cause is Narrative.**  
+**Necessity is Statistical Form.**  
+**Generation is ZURE.**
+</div>
+
 
 HEG-5 は、偶然→必然→因果という西洋哲学・科学の三段階を**ZURE起点の構文論として再配列する。**
 
