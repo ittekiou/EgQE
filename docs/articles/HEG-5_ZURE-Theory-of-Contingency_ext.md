@@ -1360,6 +1360,8 @@ Observation is not a passive registration of reality but an *active syntactic in
 
 ZURE thus becomes the generative basis for a unified theory of chance, necessity, and causality.
 
+![ZENC](../assets/ZENC.png)
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  

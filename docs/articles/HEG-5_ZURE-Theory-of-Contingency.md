@@ -248,6 +248,8 @@ and returns to ZURE.
 All necessity is a fold in the trembling.
 
 
+![ZURE-Theory-of-Contingency](../assets/ZURE-Theory-of-Contingency0.png)
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
