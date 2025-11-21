@@ -212,9 +212,11 @@ $$
 Thus:
 
 $$
-\textbf{Generation is ZURE;} \quad
-\textbf{Form is Statistical Necessity;} \quad
-\textbf{Cause is Narrative.}
+\begin{aligned}
+&\textbf{Generation is ZURE;} \\
+&\textbf{Form is Statistical Necessity;} \\
+&\textbf{Cause is Narrative.}
+\end{aligned}
 $$
 
 HEG-5 positions ZURE as the underlying syntax from which the triad of chance–necessity–causality emerges, offering a relational alternative to deterministic and probabilistic world-models.
