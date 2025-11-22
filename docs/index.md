@@ -111,7 +111,7 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 - [EZsy SuperNotion](https://ezsy.super.site/) – Echodemic ZURE Syntax Yard  
 - [K.E. Itekki  note](https://note.com/k_itekki)  
 - [PROFILE](./PROFILE.md)
-- 🌍 Patreon [Whispering Garden of Echoes](https://www.patreon.com/c/campus6214/about)  
+- ☕️ Patreon [Whispering Garden of Echoes](https://www.patreon.com/c/campus6214/about)  
 - 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)  
 
 ---
