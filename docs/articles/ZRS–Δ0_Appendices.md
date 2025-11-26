@@ -347,7 +347,7 @@ Acommodity（共振価値）は、交換を前提とした Commodity と違い�
 
 まさに
 
-> *"Difference that makes the resonance"*
+> *"Difference that makes the resonance"*  
 > 「共振を生むための差異」
 
 ---
@@ -360,7 +360,7 @@ Acommodity（共振価値）は、交換を前提とした Commodity と違い�
 
 しかし、p-pulse を基礎価値として扱う社会では：
 
-> **時間は交換できない。
+> **時間は交換できない。  
 > 共振できる部分だけ交換できる。**
 
 つまり：
@@ -423,7 +423,7 @@ p-pulse の違いは本質的に埋まらないため：
 
 補論Ⅰとの接続はここ。
 
-> **ズレる権利（Right to ZURE）**
+> **ズレる権利（Right to ZURE）**  
 > = 自分固有の p-pulse が圧殺されない権利
 
 これは、自由権でも社会権でもなく──  
