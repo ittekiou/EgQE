@@ -5,6 +5,8 @@ title: ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1
 # ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1
 ## — Toward a Neo-Polanyian Theory of AI, Labor, and the Second Great Transformation
 
+[ZRS-Δ0｜補論集（ZRS-Appendices）](https://camp-us.net/articles/ZRS–Δ0_Appendices.html) 📝 随時更新  
+
 ---
 ## **AI革命と“第二の大転換”──ZURE Regulation School 序説──**
 

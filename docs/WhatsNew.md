@@ -13,6 +13,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/11/26  
+[ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html)  
+[ZRS-Δ0｜補論集（ZRS-Appendices）](https://camp-us.net/articles/ZRS–Δ0_Appendices.html)  
 ###### 2025/11/21  
 [HEG-5｜ZURE偶然論（拡張版）──決定論的必然は、いかに確率論的必然に転化したか](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_ext.html)  
 [HEG-5｜ZURE偶然論（統合学術版）── 偶然はどのように必然へと転化するか（決定論的必然から確率論的必然へ）](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency.html)  
