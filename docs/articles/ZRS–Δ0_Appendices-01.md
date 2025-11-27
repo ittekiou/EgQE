@@ -5,7 +5,7 @@ subtitle: 補論集Vol.1
 ---
 # ZRS-Δ0｜補論集（ZRS-Appendices）01
 
-📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS-Δ0.html)　公式リリース　2025.11.27  
+📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　公式リリース　2025.11.27  
 [ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html) 📕 本論  
 ### ZRS-Δ0｜ZURE文明論　目次  
 ###### AI革命と“第二の大転換”──ZURE Regulation School 序説──  

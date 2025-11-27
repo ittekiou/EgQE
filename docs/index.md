@@ -42,7 +42,7 @@ _── Welcome to the syntactic field of ZURE._
 ⭐️ [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)　リリース　2025.10.31  
 🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
 🔠 [記号行為論｜Sign Act Theory](/SAT-2.md)　リリース　2025.9.16  /Updated　2025.11.8  
-📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS-Δ0.html)　リリース　2025.11.27  
+📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　リリース　2025.11.27  
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
 ## 🔭 Overview  
