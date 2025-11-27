@@ -912,4 +912,3 @@ wandering the labyrinth of syntax,
 drawing constellations through shared echoes.
 
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
-
