@@ -23,6 +23,7 @@ subtitle: 補論集Vol.2
 
 [ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html) 📝 随時更新  
 
+---
 ### 補論集 Vol.1 目次
 👉[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
 #### 🟧 補論Ⅰ｜Acommodityは承認欲求地獄か？

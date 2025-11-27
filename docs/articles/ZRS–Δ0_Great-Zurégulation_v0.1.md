@@ -34,6 +34,9 @@ title: ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1
 #### 🌌 **ZURE人権論 ─ Pulse Rights Theory（草稿0.1）**
 #### 🧭 **ZURE制度論｜三つの壁の突破（ドラフト・本筋版）**
 
+👉[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+
+---
 ### 補論集 Vol.2 目次
 #### 📜 **拍動基本法｜Basic Law of Pulse**
 #### 🜂 **PRB憲章｜Pulse Reserve Charter**
@@ -43,6 +46,8 @@ title: ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1
 #### 💰 **ZURE貨幣（Z-Notes）の通貨設計図**
 #### 🔥 **PRB緊急権限条項（PRP-02）**
 #### 🟣 **PD-01（Pulse Democracy 運用事例）**
+
+👉[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
 
 ---
 ## **AI革命と“第二の大転換”──ZURE Regulation School 序説──**
@@ -157,8 +162,7 @@ Acommodityは「モノ」ではなく**痕跡・余白・ゆらぎ** の干渉�
 
 #### ■ ③ 経済は本来、拍動（Pulse）であり静態ではない
 
-市場も貨幣も、
-本質的には拍動する“構文の流れ”である。
+市場も貨幣も、本質的には拍動する“構文の流れ”である。
 
 ---
 
