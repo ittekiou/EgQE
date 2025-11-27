@@ -2161,6 +2161,10 @@ Acommodity文明は、市場文明・賃労働文明・商品文明の先に生�
 そして本書自体も、Commodity を超えて Acommodity へ移行していく文明の最初の“痕跡（trace）”のひとつだ。
 
 ---
+[ZRS-Δ0｜補論集（ZRS-Appendices）](https://camp-us.net/articles/ZRS–Δ0_Appendices.html) 📝 随時更新  
+[ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html) 📝 随時更新  
+
+---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  

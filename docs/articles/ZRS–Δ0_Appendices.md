@@ -5,6 +5,7 @@ title: ZRS-Δ0｜ 補論集（ZRS-Appendices）
 # ZRS-Δ0｜補論集（ZRS-Appendices）
 
 [ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html) 📕 本論  
+[ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html) 📝 随時更新  
 
 ---
 
@@ -901,6 +902,9 @@ ZURE Budget＝余白と拍の公共投資
 拍律局＝拍動の中央調整バンク  
 
 ここでようやく、ZRSが **倫理 → 哲学 → 統治 → 経済** というフル構文体系を得る。
+
+---
+[ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html) 📝 (随時更新)  へ続く
 
 ---
 <p align="center">| Drafted Nov 27, 2025 · Web Nov 27, 2025 |</p>  

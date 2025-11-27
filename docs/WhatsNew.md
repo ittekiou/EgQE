@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/11/27  
+[ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html)  
 ###### 2025/11/26  
 [ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html)  
 [ZRS-Δ0｜補論集（ZRS-Appendices）](https://camp-us.net/articles/ZRS–Δ0_Appendices.html)  
