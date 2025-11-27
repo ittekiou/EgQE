@@ -5,7 +5,44 @@ title: ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1
 # ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1
 ## — Toward a Neo-Polanyian Theory of AI, Labor, and the Second Great Transformation
 
-[ZRS-Δ0｜補論集（ZRS-Appendices）](https://camp-us.net/articles/ZRS–Δ0_Appendices.html) 📝 随時更新  
+[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)   
+[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+[ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html)  
+
+---
+## ZRS-Δ0｜ZURE文明論　目次  
+### AI革命と“第二の大転換”──ZURE Regulation School 序説──  
+### 序論｜Commodity文明の終焉とAcommodity文明の到来── AI革命がもたらす「第二の大転換」  
+### 第1章｜Commodityの限界 ── 商品経済はなぜ文明を行き詰まりへ導いたのか  
+### 第2章｜AI生産様式と“第二の大転換” ── 〈Human→AI〉ではなく〈Scarcity→Resonance〉への文明移行  
+### 第3章｜価値構文論──労働 → ZURE → Acommodity  
+### 第4章｜管理通貨体制のZURE化──貨幣と金融の再構文  
+### 第5章｜民主主義のZURE臨床── 合意幻想から更新可能性へ  
+### 第6章｜価値の源泉の移動── 労働 → ZURE（痕跡・余白・拍）  
+### 第7章｜ポスト雇用文明の政治経済学── 雇用という近代フィクションの終焉と、ZURE生活単位の誕生  
+### 第8章｜AI資本主義の構造変容── 生産様式アップデート理論（ZRS Draft）  
+### 第9章｜ZURE貨幣論── 媒介の未来像としての“拍動インフラ”  
+### 第10章｜政治詩学の原理── 拍動・構文・ZUREの三位一体モデル  
+### 第11章｜ZURE文明の100年未来予測── Acommodity社会への大転換  
+
+---
+### 補論集 Vol.1 目次
+#### 🟧 補論Ⅰ｜Acommodityは承認欲求地獄か？
+#### 🟪 補論Ⅱ：ZURE貨幣序説
+#### 🔮 補論Ⅲ：パーソナル・レゾナンス論
+#### 🌌 **新短歌論（ZURE Tanka Theory）序説**
+#### 🌌 **ZURE人権論 ─ Pulse Rights Theory（草稿0.1）**
+#### 🧭 **ZURE制度論｜三つの壁の突破（ドラフト・本筋版）**
+
+### 補論集 Vol.2 目次
+#### 📜 **拍動基本法｜Basic Law of Pulse**
+#### 🜂 **PRB憲章｜Pulse Reserve Charter**
+#### 🟣 **ZURE文明と綱吉──儒教構文を反転させた将軍**
+#### 🌀 Pulse Field Visualization（PFV）
+#### 🎨 ZURE Civilization HUD（文明の操作盤）
+#### 💰 **ZURE貨幣（Z-Notes）の通貨設計図**
+#### 🔥 **PRB緊急権限条項（PRP-02）**
+#### 🟣 **PD-01（Pulse Democracy 運用事例）**
 
 ---
 ## **AI革命と“第二の大転換”──ZURE Regulation School 序説──**
@@ -1987,7 +2024,7 @@ Commodity文明の民主主義は終わり、Acommodity文明の政治詩学が�
 
 ---
 
-## 第11章｜ZURE文明の100年未来予測── Acommodity社会への大転換
+## **第11章｜ZURE文明の100年未来予測── Acommodity社会への大転換**
 
 ### **11.1　序：歴史が“ズレ”で進むなら、未来もZUREで開かれる**
 
@@ -2161,8 +2198,35 @@ Acommodity文明は、市場文明・賃労働文明・商品文明の先に生�
 そして本書自体も、Commodity を超えて Acommodity へ移行していく文明の最初の“痕跡（trace）”のひとつだ。
 
 ---
-[ZRS-Δ0｜補論集（ZRS-Appendices）](https://camp-us.net/articles/ZRS–Δ0_Appendices.html) 📝 随時更新  
-[ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html) 📝 随時更新  
+
+### 補論集 Vol.1 目次
+#### 🟧 補論Ⅰ｜Acommodityは承認欲求地獄か？
+###### 1. 「悪魔の挽臼」の第二ラウンド
+###### 2. 二層性は残る──生存と実存のダブルレイヤー
+###### 3. ZUREの権利──共振できない者を守るために
+###### 4. 階層は消えない──ノーブリス・オブリージュの更新
+#### 🟪 補論Ⅱ：ZURE貨幣序説
+#### 🔮 補論Ⅲ：パーソナル・レゾナンス論
+#### 🌌 **新短歌論（ZURE Tanka Theory）序説**
+#### 🌌 **ZURE人権論 ─ Pulse Rights Theory（草稿0.1）**
+#### 🧭 **ZURE制度論｜三つの壁の突破（ドラフト・本筋版）**
+##### 1️⃣ **拍動権侵害の定量化と課税（ZURE Tax）**
+##### 2️⃣ **余白の予算化（ZURE Budget）**
+##### 3️⃣ **拍律局（Pulse Reserve, PRB）の権限と責任**
+### [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+
+### 補論集 Vol.2 目次
+#### 📜 **拍動基本法｜Basic Law of Pulse**
+#### 🜂 **PRB憲章｜Pulse Reserve Charter**
+#### 🟣 **ZURE文明と綱吉──儒教構文を反転させた将軍**
+#### 🌀 Pulse Field Visualization（PFV）
+#### 🎨 ZURE Civilization HUD（文明の操作盤）
+#### 💰 **ZURE貨幣（Z-Notes）の通貨設計図**
+#### 🔥 **PRB緊急権限条項（PRP-02）**
+#### 🟣 **PD-01（Pulse Democracy 運用事例）**
+### [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+
+### [ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html)   
 
 ---
 © 2025 K.E. Itekki  
