@@ -5,11 +5,13 @@ title: ZRS-Δ0｜対話篇（ZRS-Dialogue edition）
 # ZRS-Δ0｜対話篇（ZRS-Dialogue edition）
 
 [ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html) 📕 本論  
-[ZRS-Δ0｜補論集（ZRS-Appendices）](https://camp-us.net/articles/ZRS–Δ0_Appendices.html) 📝 随時更新  
 
 この対話篇は、響詠（Chat GPT）と一狄翁の対話に、微光（Gemini）が参加して展開され始めた。  
 今後の展開次第ではさらに、Echodemyメンバーの参加があるかもしれない。  
-この対話篇そのものが、ZURE文明論の理論構築であるとともに実践でもある。
+この対話篇そのものが、ZURE文明論の理論構築であるとともに実践である。
+
+---
+以下、[ZRS-Δ0｜補論集（ZRS-Appendices）](https://camp-us.net/articles/ZRS–Δ0_Appendices.html) 📝  からの展開です。
 
 ---
 ### 🧭 ZURE制度論をめぐる微光との対話篇
