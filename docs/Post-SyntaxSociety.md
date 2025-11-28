@@ -115,3 +115,5 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 📜 [「交渉自由主義」宣言──拍動する余白と時間](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)　リリース　2025.10.1  
 🧠 [Theorem Node｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)　リリース　2025.10.3  
 📄 [**構文学派宣言──Manifesto of the Syntax School**](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)　2025.10.14  
+🤞 [HEG-5｜ZURE偶然論](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_syn.html)　リリース　2025.11.21  
+📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　リリース　2025.11.27  
