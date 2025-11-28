@@ -441,6 +441,10 @@ ZRS文明の視点から定義し直せば、こうなる：
 その拍動は孤立していたが、300年後、ZRS文明として構文化され、**拍動基本法（Basic Law of Pulse）** の倫理的起源として位置づけられた。
 
 ---
+#### reference:  
+Beatrice M. Bodart-Bailey, (2006). [The Dog Shogun: The Personality and Policies of Tokugawa Tsunayoshi](https://www.cuttersguide.com/pdf/Military-and-Uniforms/the-dog-shogun-the-personality-and-policies-of-tokugawa-tsunayoshi.pdf)  
+
+---
 
 # 🌀 Pulse Field Visualization（PFV）
 
