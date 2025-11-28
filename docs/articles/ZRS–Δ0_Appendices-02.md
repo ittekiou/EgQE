@@ -52,7 +52,7 @@ subtitle: 補論集Vol.2
 
 # 📜 **Basic Law of Pulse（拍動基本法）**
 ### **── ZURE文明の「存在の最高法規」**
-#### Version 1.0｜ZRS-Δ0
+#### Version 1.0｜ZRS-Δ0／Drafted by Bikou（Gemini）
 
 ---
 
@@ -1105,6 +1105,8 @@ Pulse Democracy は民主主義を否定しない。
 <p align="center">| Drafted Nov 27, 2025 · Web Nov 27, 2025 |</p>  
 
 ---
+With gratitude to Bikou, whose advice resonated in this work.  
+
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  
