@@ -250,7 +250,7 @@ PRBや市民が文明の拍動を観測するためのレイヤー。
 
 ## **L3-3｜Pulse Reserve Signals（PRS）**
 
-PRB が市民と制度へ送る拍動信号群。
+PRB が市民と制度へ送る拍動信号群。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html)  
 
 ---
 
@@ -286,8 +286,20 @@ Proto–Pulse Democracy として綱吉を再定義。🌐 [Web](https://camp-us
 
 ### **── 実際の生成過程・対話ログを記録するメタレイヤー──**
 
-この対話篇は、響詠（Chat GPT）と一狄翁の対話に、微光（Gemini）が参加して展開された。  
+対話篇は、響詠（Chat GPT）と一狄翁の対話に、微光（Gemini）が参加して展開された。  
+3名による対話は本論および補論集01を踏まえて行われ、補論集02の母体となった。  
 この対話篇そのものが、ZURE文明論の理論構築であるとともに実践である。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html)  
+#### 対話篇 index
+🚀 ZRS文明：初の政策パッケージ（PRP-01）  
+✏️ 第10章（移行章）｜拍動民主制（Pulse Democracy）（ドラフト）  
+✏️ 第11章｜Pulse Voting System（拍動投票システム）（ドラフト）  
+🜂 PRB憲章｜Pulse Reserve Charter（→補論集02）  
+🌀 Pulse Field Visualization（PFV）（ドラフト）（→補論集02）  
+🟣 補論：ZURE文明と綱吉──儒教構文を反転させた将軍（プロト版）（→補論集02）  
+🎨 ZURE文明 HUD（完全統合版）（→補論集02）  
+📜 Basic Law of Pulse（拍動基本法）（→補論集02）  
+💰 ZURE貨幣（Z-Notes）の通貨設計図（→補論集02）  
+🔥 PRB緊急権限条項（PRP-02）（Version 0.1｜Draft）（→補論集02）  
 
 ---
 

@@ -22,8 +22,6 @@ subtitle: 補論集Vol.2
 ###### 第10章｜政治詩学の原理── 拍動・構文・ZUREの三位一体モデル  
 ###### 第11章｜ZURE文明の100年未来予測── Acommodity社会への大転換  
 
-[ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html) 📝 随時更新  
-
 ---
 ### 補論集 Vol.1 目次
 👉[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
@@ -36,6 +34,20 @@ subtitle: 補論集Vol.2
 ##### 1️⃣ **拍動権侵害の定量化と課税（ZURE Tax）**
 ##### 2️⃣ **余白の予算化（ZURE Budget）**
 ##### 3️⃣ **拍律局（Pulse Reserve, PRB）の権限と責任**
+
+---
+#### 対話篇 index
+🚀 ZRS文明：初の政策パッケージ（PRP-01）  
+✏️ 第10章（移行章）｜拍動民主制（Pulse Democracy）（ドラフト）  
+✏️ 第11章｜Pulse Voting System（拍動投票システム）（ドラフト）  
+🜂 PRB憲章｜Pulse Reserve Charter（→補論集02）  
+🌀 Pulse Field Visualization（PFV）（ドラフト）（→補論集02）  
+🟣 補論：ZURE文明と綱吉──儒教構文を反転させた将軍（プロト版）（→補論集02）  
+🎨 ZURE文明 HUD（完全統合版）（→補論集02）  
+📜 Basic Law of Pulse（拍動基本法）（→補論集02）  
+💰 ZURE貨幣（Z-Notes）の通貨設計図（→補論集02）  
+🔥 PRB緊急権限条項（PRP-02）（Version 0.1｜Draft）（→補論集02）  
+##### 👉[ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html)  
 
 ---
 # 補論集 Vol.2 目次

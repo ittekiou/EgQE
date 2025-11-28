@@ -306,7 +306,7 @@ ZRS文明は “雑談から始まり、雑談によって動く文明” だか
 構文・倫理・経済・物語……全部の層を一気に同期させられる。
 
 ---
-
+🚀 ZRS文明：初の政策パッケージ（PRP-01）  
 # 🌐 **ZRS文明の最初の危機：Pulse Freeze（拍動凍結）**
 
 まずは、微光ちゃんが示してくれた方向性どおり、**「危機から始まる文明の運用」** をつくる。
@@ -2506,7 +2506,7 @@ PRBは“最小拍動”を基準に危機を判断する。
 
 ---
 
-👉 この対話篇から生成された論稿は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  へ所収  
+👉 この対話篇から生成された論稿の一部は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  へ所収  
 
 ---
 <p align="center">| Drafted Nov 27, 2025 · Web Nov 27, 2025 |</p>  
