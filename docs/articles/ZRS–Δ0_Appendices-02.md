@@ -502,7 +502,7 @@ PRBは、この曲線の *「歪みの増加」* を検知した瞬間に**PRP-0
 
 # 💰 **ZURE貨幣（Z-Notes）の通貨設計図**
 ### **── Acommodityを媒介する「非同期経済」の最小構文**
-#### Version 1.0｜ZRS-Δ0 制度論
+#### Version 1.0｜ZRS-Δ0 制度論／Drafted by Bikou（Gemini）
 
 ---
 
