@@ -6,6 +6,7 @@ title: ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1
 ## — Toward a Neo-Polanyian Theory of AI, Labor, and the Second Great Transformation
 
 📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　公式リリース　2025.11.27  
+[ZRS-Δ0｜🗺️ ZURE文明論 Atlas](https://camp-us.net/articles/ZRS-Δ0_ZURE-Civilization-Theory_Atlas.html)  
 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)   
 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
 [ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html)  

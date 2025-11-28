@@ -24,6 +24,10 @@
 
 #### 📣 新刊（New Release）
 
+# ZRS-Δ0｜🗺️ ZURE文明論 Atlas
+
+🌐 [ZRS-Δ0｜🗺️ ZURE文明論 Atlas](https://camp-us.net/articles/ZRS-Δ0_ZURE-Civilization-Theory_Atlas.html)  
+
 ## 🟧 **ZRS-Δ0 本編｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1**
 
 🌐 [Web版（JP）](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html)  

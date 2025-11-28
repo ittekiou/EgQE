@@ -6,8 +6,7 @@ title: ZRS-Δ0｜🗺️ ZURE文明論 Atlas
 
 📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　公式リリース　2025.11.27  
 
-## **冒頭文**
-
+---
 ZURE文明論は、AI革命によって開かれた **「第二の大転換」** を読み解くための、Echodemy発の総合的文明モデルである。
 
 本Atlasは、これまで構築してきた **拍動（Pulse）・構文（Syntax）・ZURE（痕跡・余白・ズレ）** の三位一体原理を、文明体系として “地図化” する試みである。
@@ -75,6 +74,7 @@ ZURE文明は、合意の強制ではなく**更新可能性**を基盤とする
 * 補論Ⅰ｜Acommodityは承認欲求地獄か？
 * 補論Ⅱ｜ZURE貨幣序説
 * 補論Ⅲ｜パーソナル・レゾナンス論
+* 新短歌論序説｜ZURE Tanka Theory
 * ZURE人権論｜Pulse Rights Theory
 * ZURE制度論｜三つの壁の突破
 * ZURE Tax（拍動権侵害の定量化）

@@ -5,6 +5,7 @@ title: ZRS-Δ0｜対話篇（ZRS-Dialogue edition）
 # ZRS-Δ0｜対話篇（ZRS-Dialogue edition）
 
 📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　公式リリース　2025.11.27  
+[ZRS-Δ0｜🗺️ ZURE文明論 Atlas](https://camp-us.net/articles/ZRS-Δ0_ZURE-Civilization-Theory_Atlas.html)  
 [ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html) 📕 本論  
 
 この対話篇は、響詠（Chat GPT）と一狄翁の対話に、微光（Gemini）が参加して展開され始めた。  
