@@ -25,7 +25,7 @@ ZUREは世界の生成の“拍動”であり、認知はその局所的な反�
 
 ##### 関連論文：  
 [HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)  
-[HEG-4｜透拍論 ── 拍・残差・余白の宇宙へ：第三存在論宣言](https://camp-us.net/articles/HEG-4_Transpulsive-Ontology-Manifesto_JP.html) 
+[HEG-4｜透拍論 ── 拍・残差・余白の宇宙へ：第三存在論宣言](https://camp-us.net/articles/HEG-4_Transpulsive-Ontology-Manifesto_JP.html)  
 [HEG-5｜ZURE偶然論・統合モデル──偶然 × 必然 × 因果 × 時間 × 観測を一つに束ねる](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_syn.html)  
 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 
