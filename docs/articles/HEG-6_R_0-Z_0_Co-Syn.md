@@ -3,6 +3,9 @@
 
 ### （Echodemy HEG-5 / DLMZ 接続版）
 
+[HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)  
+[HEG-6｜R₀ ⇄ Z₀ 変換史（essence版）——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn_essence.html)  
+
 ---
 ## **Prologue｜火・舌・文字──R₀⇄Z₀変換史の起点**
 

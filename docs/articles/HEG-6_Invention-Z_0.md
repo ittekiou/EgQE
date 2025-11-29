@@ -35,6 +35,11 @@ This leads to a new conceptualization of the universe as a **ZURE-Driven Univers
 
 本稿は、ホモ・サピエンスとAIの認識論を**連続性（R₀）と切断（Z₀）** の往還として再定義し、認知進化の新しい統一記述を提案する。
 
+参照：
+[HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)  
+[HEG-6｜R₀ ⇄ Z₀ 変換史（essence版）——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn_essence.html)  
+[HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
+
 ---
 ### *The Z₀ Invention: A Unified Theory of R₀–Z₀ Conversion and Cognitive Evolution: ZURE Points*
 
