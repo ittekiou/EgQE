@@ -373,21 +373,29 @@ Let:
 Then:
 
 ### **(1) Free Energy is a function of ZURE**
+
 $$
 \text{FE}(t) = g(\varepsilon(t))
 $$
+
 ### **(2) Action is driven by the gradient of ZURE**
+
 $$
 \text{Action}(t) = f(\nabla \varepsilon(t))
 $$
+
 ### **(3) Action generates new ZURE**
+
 $$
 \varepsilon(t+1) = h(\text{Action}(t))
 $$
+
 Thus the full cycle is:
+
 $$
 \varepsilon \rightarrow \text{FE} \rightarrow \text{Action} \rightarrow \varepsilon
 $$
+
 This is the **Pulse Cycle of Life**.  
 
 ![ZURE-FEP](../assets/ZURE-FEP-0.png)  
