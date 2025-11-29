@@ -13,6 +13,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/11/29  
+[HEG-5｜FEPとZUREの統合理論──Integrated Theory of Free-Energy and ZURE](https://camp-us.net/articles/HEG-5_FEP-ZURE-Integrated-Theory.html)  
+
 ###### 2025/11/28  
 [ZRS-Δ0｜🗺️ ZURE文明論 Atlas](https://camp-us.net/articles/ZRS-Δ0_ZURE-Civilization-Theory_Atlas.html)  
 ###### 2025/11/27  
