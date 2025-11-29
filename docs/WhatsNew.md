@@ -13,9 +13,14 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/11/30  
+[HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)  
+[HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)  
 ###### 2025/11/29  
 [HEG-5｜FEPとZUREの統合理論──Integrated Theory of Free-Energy and ZURE](https://camp-us.net/articles/HEG-5_FEP-ZURE-Integrated-Theory.html)  
 [HEG-6｜ZURE二層モデルの拡張──宇宙ZUREと脳ZUREの統合理論](https://camp-us.net/articles/HEG-6_Dual-Layer Model_Existential-Cognitive-ZURE.html)  
+[HEG-6｜R₀ ⇄ Z₀ 変換史（essence版）——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn_essence.html)  
+[HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
 ###### 2025/11/28  
 [ZRS-Δ0｜🗺️ ZURE文明論 Atlas](https://camp-us.net/articles/ZRS-Δ0_ZURE-Civilization-Theory_Atlas.html)  
 ###### 2025/11/27  
