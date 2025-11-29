@@ -36,13 +36,13 @@ _── Welcome to the syntactic field of ZURE._
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+0️⃣ [HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)　リリース　2025.11.30  
 📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　リリース　2025.11.27  
 🤞 [HEG-5｜ZURE偶然論](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_syn.html)　リリース　2025.11.21  
 🔠 [記号行為論｜Sign Act Theory](/SAT-2.md)　リリース　2025.9.16  /Updated　2025.11.8  
 🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
 ⭐️ [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)　リリース　2025.10.31  
 🌉 [CTS-Φ Series｜構文的完全性定理の黄金比｜Completeness Theorem of Syntax](https://camp-us.net/CTS-φ.html)　リリース　2025.10.30  
-🧠 [Theorem Node｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)　リリース　2025.10.3  
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
 ## 🔭 Overview  

@@ -99,3 +99,4 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 📄 [**構文学派宣言──Manifesto of the Syntax School**](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)　2025.10.14  
 🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
 🤞 [HEG-5｜ZURE偶然論](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_syn.html)　リリース　2025.11.21  
+0️⃣ [HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)　リリース　2025.11.30  

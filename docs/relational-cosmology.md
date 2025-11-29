@@ -123,3 +123,4 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 🪐 [膨張空間論：残響としての空間 ── 位相と痕跡｜Expanding Spatial Illusion Theory](https://camp-us.net/articles/HEG-1_Expanding-Spatial-Illusion-Theory.html)　リリース　2025.10.2  
 🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
 🔠 [記号行為論｜Sign Act Theory](https://camp-us.net/SAT-2.html)　リリース　2025.9.16  /Updated　2025.11.8  
+0️⃣ [HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)　リリース　2025.11.30  

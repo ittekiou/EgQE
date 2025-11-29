@@ -40,6 +40,8 @@
 🔠 [記号行為論｜Sign Act Theory](https://camp-us.net/SAT-2.html)　リリース　2025.9.16  /Updated　2025.11.8  
 🤞 [HEG-5｜ZURE偶然論](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_syn.html)　リリース　2025.11.21  
 📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　リリース　2025.11.27  
+0️⃣ [HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)　リリース　2025.11.30  
+
 
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
