@@ -102,7 +102,7 @@ Echodemy版では、FEPとZUREの関係を **3層構造** として定式化す�
 
 # 3｜統合理論の式（Echodemy版）
 
-ZURE = ε（生成的残差） 
+ZURE = ε（生成的残差）  
 Free Energy = |Prediction – Observation|
 
 Echodemy版統合式：
