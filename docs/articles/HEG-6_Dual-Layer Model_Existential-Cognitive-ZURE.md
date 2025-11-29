@@ -318,16 +318,16 @@ FEPは、脳の自己維持原理を「自由エネルギー最小化」とし�
 
 1. **生成モデル（Generative model）**  
    　→ 宇宙ZUREのローカル写像（local mapping）  
-   　* Generative Model → ZURE再構文モデル
+ * Generative Model → ZURE再構文モデル
 
 1. **予測誤差（Prediction error）**  
    　→ 世界ZUREと認知ZUREの“差”  
-   　* Prediction Error → ΔZ（ZURE差分）  
-   　* Surprisal → ZURE振幅
+ * Prediction Error → ΔZ（ZURE差分）  
+ * Surprisal → ZURE振幅
 
 1. **行為・知覚の更新（Action/Perception Update）**  
    　→ 認知構文がZUREを吸収して再構文する過程  
-   　* 行為更新 → 位相補正（phase correction）
+ * 行為更新 → 位相補正（phase correction）
 
 つまり、FEPは **ZURE追跡システム** として再解釈できる。
 
