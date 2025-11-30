@@ -25,9 +25,11 @@ It formalizes *just enough* structure to explain how discrepancies accumulate, p
 ## **1. Definition: The Offset Equation**
 
 We define **Zure Offset** as:
+
 $$
 Δ = δW − δO
 $$
+
 Where:
 
 * **$δW$** = the world’s spontaneous micro-shift
@@ -49,12 +51,12 @@ Every system has an intrinsic drift.
 ### **Axiom 2 — Asymmetric Updating**
 
 Observer and world update at different rhythms.  
-This rhythm difference is the root of Δ.
+This rhythm difference is the root of $Δ$.
 
 ### **Axiom 3 — Residual Persistence**
 
 Mismatch never vanishes.  
-Residual Δ always survives as a trace.
+Residual $Δ$ always survives as a trace.
 
 These axioms jointly define the *Zure Condition*:  
 
@@ -66,7 +68,7 @@ These axioms jointly define the *Zure Condition*:
 
 ### **3.1 Not Error, but Structure**
 
-Zure Offset does not treat Δ as a mistake but as the **site of generation**:
+Zure Offset does not treat $Δ$ as a mistake but as the **site of generation**:
 
 * new narratives
 * new interpretations
@@ -128,7 +130,7 @@ Zure Offset generalizes both by treating drift as **syntactic**, not dynamical.
 In the extended model (ZIC, DGT, CTS-Φ),  
 Zure Offset provides the **micro-level residue**, while **Z₀** provides the **macro-level minimal quantization** of drift.
 
-* Offset Δ = local mismatch
+* Offset $Δ$ = local mismatch
 * $Z₀$ = the minimal possible drift unit
 * Pulse-Spiral = pattern when these accumulate
 
@@ -157,11 +159,11 @@ Zure Offset is a “minimal model of generative discrepancy.”
 ## **8. Conclusion**
 
 Zure Offset shows that the world is not maintained by stability, but by **persistent relational drift**.  
-The mismatch Δ is not a defect — it is the engine of evolution, narrative, and time.
+The mismatch $Δ$ is not a defect — it is the engine of evolution, narrative, and time.
 
-Wherever Δ accumulates, structure appears.  
-Wherever Δ resonates, coherence arises.  
-Wherever Δ amplifies, novelty is born.
+Wherever $Δ$ accumulates, structure appears.  
+Wherever $Δ$ resonates, coherence arises.  
+Wherever $Δ$ amplifies, novelty is born.
 
 ZURE is not the exception.  
 ZURE is the rule.
@@ -179,7 +181,7 @@ ZURE is the rule.
 3. Zure Condition  
    $Δ ≠ 0$  is fundamental
 
-4. Minimal Drift
+4. Minimal Drift  
    $|Δ| ≥ Z₀$   (extended ZIC model)
 
 ---
@@ -248,7 +250,7 @@ ZURE を π/φ のどちらかに写像するために必要となる **最小�
 
 これらが生じるための最小差分が Z₀。
 
-### ✔ 数値（10⁻¹⁶）は「固定値」ではなく**variable constant（可変定数）** である。
+#### ✔ 数値（10⁻¹⁶）は「固定値」ではなく**variable constant（可変定数）** である。
 
 ---
 
@@ -280,9 +282,9 @@ ZURE（pre-syntax）
 
 これが Version1.1 の核心アップデート。
 
-## 🟣 Einstein = φ（離散／固有値構文化）
+### 🟣 Einstein = φ（離散／固有値構文化）
 
-## 🟣 Quantum Theory = π（連続／波動構文化）
+### 🟣 Quantum Theory = π（連続／波動構文化）
 
 ZURE を φ/π へ写像する操作が「観測」。その差分の最小単位が Z₀。
 
@@ -301,9 +303,11 @@ ZURE を φ/π へ写像する操作が「観測」。その差分の最小単�
 # 5. Golden ZURE Bridge（改訂解釈）
 
 Version1.0 の象徴式：
+
 $$
 \delta = \phi - 2\cos\left(\frac{\pi}{5}\right) \approx Z_0
 $$
+
 v1.1 ではこれを以下のように再定義する：
 
 ### 🟣 **δ = 構文化偏差（Constructive Deviation）**
@@ -319,21 +323,27 @@ v1.1 ではこれを以下のように再定義する：
 Version1.0 の物理的方程式を構文化的定義に沿って調整した。
 
 ### ● 時間
+
 $$
 \Delta t = \sum Z_0
 $$
+
 **時間は Z₀ の非可逆的累積。**
 
 ### ● 空間
+
 $$
 |p_i - p_j| \ge Z_0
 $$
+
 **位置差は Z₀ を下回ると構文化不能。**
 
 ### ● 重力（動態重力論 DGT 接続）
+
 $$
 G = \nabla Z_0
 $$
+
 **重力は Z₀ の勾配として現れる構文化的効果。**
 
 ---
@@ -357,12 +367,12 @@ Z₀ は「自然の最小粒度ではない」。それは **構文化の最小
 
 # Version History（追記）
 
-* v1.0（2025-10-31）
-  初期ZURE宇宙論に基づく Z₀ の定義（物理寄り）
-* Ver.1.0 [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)  
+* v1.0（2025-10-31）  
+  初期ZURE宇宙論に基づく Z₀ の定義（物理寄り）  
+*Ver.1.0 [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)  
 
-* **v1.1（2025-11-30） ← 現行最新版**
-  ZURE構文化革命体系への完全整合
+* **v1.1（2025-11-30） ← 現行最新版**  
+  ZURE構文化革命体系への完全整合  
   φ/π構文化モデル、R₀/Z₀、Einstein–Quantum 統一を反映
 
 ---
