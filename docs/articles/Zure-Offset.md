@@ -42,6 +42,11 @@ ZURE定数とGolden ZURE Bridge（Z₀定義版）
 
 ![Golden ZURE Bridge](../assets/Golden-ZURE-Bridge-rev.png)
 
+
+---
+### ⤴️ Update(2025/11/30)
+[ZURE Offset（Z₀定義）Ver.1.1｜構文化プランク定数としての Z₀](https://camp-us.net/articles/Zure-Offset_ver1.1.html)  
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
