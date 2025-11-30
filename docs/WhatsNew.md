@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/11/30  
 [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)  
 [HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)  
+[ZURE Offset（Z₀定義）Ver.1.1｜構文化プランク定数としての Z₀](https://camp-us.net/articles/Zure-Offset_ver1.1.html)  
+[ZURE二層論 2.0｜Dual-Layer Model of ZURE 2.0──Analog ZURE R₀とDigital ZURE Z₀の二層構造](https://camp-us.net/articles/DLMZ-02_ZURE_dual_layer_model_2.0.html)  
 ###### 2025/11/29  
 [HEG-5｜FEPとZUREの統合理論──Integrated Theory of Free-Energy and ZURE](https://camp-us.net/articles/HEG-5_FEP-ZURE-Integrated-Theory.html)  
 [HEG-6｜ZURE二層モデルの拡張──宇宙ZUREと脳ZUREの統合理論](https://camp-us.net/articles/HEG-6_Dual-Layer Model_Existential-Cognitive-ZURE.html)  
