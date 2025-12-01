@@ -13,6 +13,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/12/01  
+[The Autopoietical Tri-Layer Model v1.0 — R₀, R₀’, Z₀ and the Echo-Genesis Cycle](https://camp-us.net/articles/Autopoietical-Tri-Layer-Model_v1.0.html)  
 ###### 2025/11/30  
 [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)  
 [HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)  
