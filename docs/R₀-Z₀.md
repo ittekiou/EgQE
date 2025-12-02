@@ -165,6 +165,10 @@ Ver.1.0 [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/art
 
 [ZURE二層論 2.0｜Dual-Layer Model of ZURE 2.0──Analog ZURE R₀とDigital ZURE Z₀の二層構造](https://camp-us.net/articles/DLMZ-02_ZURE_dual_layer_model_2.0.html)  
 
+
+### ゆらぎの海 R₀ とthe discrete cut of Z₀
+# ⚔️ 更新可能性とは、R₀を失わずにZ₀を選び続ける技法である。
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
