@@ -100,3 +100,4 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
 🤞 [HEG-5｜ZURE偶然論](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_syn.html)　リリース　2025.11.21  
 0️⃣ [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)　リリース　2025.11.30  
+⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)　リリース2025.12.2  

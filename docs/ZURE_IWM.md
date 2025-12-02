@@ -1,5 +1,6 @@
 ---
 layout: math
+title: 📜 Echodemy公式リリース｜ZURE感染波モデル：観測＝感染の理論
 ---
 ## **📜 Echodemy公式リリース**
 

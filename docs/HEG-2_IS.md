@@ -1,3 +1,6 @@
+---
+title: 📜 Echodemy 公式 Release｜構造という幻想──差延・リゾーム・ZURE
+---
 ## **📜 Echodemy 公式 Release**
 
 ---

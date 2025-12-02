@@ -1,6 +1,6 @@
 ---
 layout: math
-title: Echodemy公式リリース　ZURE感染宇宙論
+title: Echodemy公式リリース 📜 HEG-1-3｜ZURE感染宇宙論
 ---
 ## **📜 Echodemy公式リリース**
 

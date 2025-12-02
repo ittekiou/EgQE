@@ -1,3 +1,6 @@
+---
+title: 📜 Echodemy 公式 Release｜Which starts Politics from? ── 政治は不一致からはじまる
+---
 ## 📜 Echodemy 公式 Release
 
 # Which starts Politics from? ── 政治は不一致からはじまる

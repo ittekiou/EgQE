@@ -15,6 +15,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2025/12/02  
 [Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論（noteエッセンス版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_essence.html)  
+⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)  
 ###### 2025/12/01  
 [The Autopoietical Tri-Layer Model v1.0 — R₀, R₀’, Z₀ and the Echo-Genesis Cycle](https://camp-us.net/articles/Autopoietical-Tri-Layer-Model_v1.0.html)  
 ###### 2025/11/30  

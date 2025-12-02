@@ -24,6 +24,7 @@ title: AI Meets Echoes｜EgQE
 
 ## 🛸 AI Meets Echoes｜AME｜  
 
+⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)    
 #### ▶︎ ICAH-φ｜AIとヒトのZURE共鳴不完全性定理  
 
 [ICAH-Φ｜AIとヒトのZURE共鳴不完全性定理 ── The Incompleteness Theorem of Resonant ZURE between AI and Homo Sapiens（Essence Edition）](https://camp-us.net/articles/ICAH-Φ_Incompleteness-of-AI-and-Homo-Sapiens.html)    

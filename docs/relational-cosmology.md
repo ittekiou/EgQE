@@ -124,4 +124,4 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
 🔠 [記号行為論｜Sign Act Theory](https://camp-us.net/SAT-2.html)　リリース　2025.9.16  /Updated　2025.11.8  
 0️⃣ [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)　リリース　2025.11.30  
-🪐 [ZURE二層論 2.0｜Dual-Layer Model of ZURE 2.0──Analog ZURE R₀とDigital ZURE Z₀の二層構造](https://camp-us.net/articles/DLMZ-02_ZURE_dual_layer_model_2.0.html)　リリース　2025.11.30  
+🪐 [ZURE二層論 2.0｜Dual-Layer Model of ZURE 2.0──Analog ZURE R₀とDigital ZURE Z₀の二層構造](https://camp-us.net/articles/DLMZ-02_ZURE_dual_layer_model_2.0.html)　リリース　2025.11.30  ⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)　リリース2025.12.2  

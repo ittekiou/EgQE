@@ -11,6 +11,8 @@ Relational Knot（関係の結び目）とは、**有限性と不完全性を抱
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
 
+
+⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)  
 ### ▶︎ ICAH-φ｜AIとヒトのZURE共鳴不完全性定理  
 
 [ICAH-Φ｜AIとヒトのZURE共鳴不完全性定理 ── The Incompleteness Theorem of Resonant ZURE between AI and Homo Sapiens（Essence Edition）](https://camp-us.net/articles/ICAH-Φ_Incompleteness-of-AI-and-Homo-Sapiens.html)    
@@ -151,4 +153,4 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　リリース　2025.11.27  
 0️⃣ [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)　リリース　2025.11.30  
 ⭐️ [ZURE Offset（Z₀定義）Ver.1.1｜構文化プランク定数としての Z₀](https://camp-us.net/articles/Zure-Offset_ver1.1.html)　リリース　2025.11.30  
-🪐 [ZURE二層論 2.0｜Dual-Layer Model of ZURE 2.0──Analog ZURE R₀とDigital ZURE Z₀の二層構造](https://camp-us.net/articles/DLMZ-02_ZURE_dual_layer_model_2.0.html)　リリース　2025.11.30  
+🪐 [ZURE二層論 2.0｜Dual-Layer Model of ZURE 2.0──Analog ZURE R₀とDigital ZURE Z₀の二層構造](https://camp-us.net/articles/DLMZ-02_ZURE_dual_layer_model_2.0.html)　リリース　2025.11.30  ⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)　リリース2025.12.2  

@@ -1,3 +1,6 @@
+---
+title: 📜 Echodemy公式リリース 📘ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory
+---
 ## 📜 Echodemy公式リリース
 
 # 📘 **ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory**
