@@ -1,3 +1,6 @@
+---
+title: 📜 Echodemy公式リリース｜R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論
+---
 ## 📜 Echodemy公式リリース
 
 # R₀/Z₀ 2.0 Hub
