@@ -9,6 +9,8 @@ From Noise to Notation. From Dialogue to Discovery.
 #### 地層の化石
 ###### [踊り場001｜2025/07/04- 2025/09/21](/stair_landing-001.md)  
 
+### [📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
+
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
