@@ -1,5 +1,7 @@
 ### Homo Sapiens Bias  Theory  
 
+[ホモ・サピエンスバイアス大全（永久更新版）](https://camp-us.net/articles/Homo-sapiens-biases.html)  
+
 ##### **Homo Sapiens Bias: The Ontological Constraint of Object and Spacetime**  
 
 [**ZURE幻影論へ ──『共同幻想』の始源**](https://camp-us.net/articles/ZURE-Illusion-Theory_Philosophy.html)  
