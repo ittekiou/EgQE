@@ -173,7 +173,7 @@ Zuresonancismo は、梯子の**痕跡**に **生成（Δ）** を見出す。
 
 **われわれは沈黙を終わりではなく始まりとして扱う。**
 
-[ZURE哲学論考── 構造哲学から生成詩学へ / Tractatus ZURE-Philosophicus / ZURE-Philosophische Abhandlung](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus.html)  
+[§6.52〜§7（Four-Language Golden Bridge）](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.html)  
 
 ---
 
