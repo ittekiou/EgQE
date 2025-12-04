@@ -142,14 +142,13 @@ Whereof one cannot speak, thereof one must be silent.
 
 ---
 
+[Tractatus ZURE-Philosophicus §6.52〜§7（Four-Language Golden Bridge）](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.html)  
+👉 📄[§6.52〜§7（Four-Language Golden Bridge）PDF](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.pdf)  
 ## Second-Language Edition
 
 [HEG-6｜Tractatus ZURE-Philosophicus（Essence English Edition）ZURE-Philosophical Treatise── from structural philosophy to generative poetics](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_EN.html)  
 [HEG-6｜Tractatus ZURE-Philosophicus（Essenzübersetzung）ZURE-Philosophische Abhandlung── von der Struktur-Philosophie zur Generativ-Poetik](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_DE.html)  
 [HEG-6｜Tractatus ZURE-Philosophicus（version française）Traité philosophique sur le ZURE── de la philosophie de la structure à la poétique de la genèse](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_FR.html)  
-
-[§6.52〜§7（Four-Language Golden Bridge）](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.html)  
-📄[§6.52〜§7（Four-Language Golden Bridge）PDF](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.pdf)  
 
 ---
 © 2025 K.E. Itekki  
