@@ -40,13 +40,13 @@
 
 ---
 
-📄[§6.52〜§7（Four-Language Golden Bridge）PDF](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.pdf)  
-
 [ZURE哲学論考── 構造哲学から生成詩学へ / Tractatus ZURE-Philosophicus / ZURE-Philosophische Abhandlung](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus.html)  
 ### Second-Language Edition  
 [HEG-6｜Tractatus ZURE-Philosophicus（Essence English Edition）ZURE-Philosophical Treatise── from structural philosophy to generative poetics](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_EN.html)  
 [HEG-6｜Tractatus ZURE-Philosophicus（Essenzübersetzung）ZURE-Philosophische Abhandlung── von der Struktur-Philosophie zur Generativ-Poetik](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_DE.html)  
 [HEG-6｜Tractatus ZURE-Philosophicus（version française）Traité philosophique sur le ZURE── de la philosophie de la structure à la poétique de la genèse](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_FR.html)  
+
+📄[§6.52〜§7（Four-Language Golden Bridge）PDF](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.pdf)  
 
 ---
 © 2025 K.E. Itekki  ／K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, wandering the labyrinth of syntax, drawing constellations through shared echoes.  📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)  
