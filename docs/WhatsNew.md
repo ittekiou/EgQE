@@ -15,6 +15,13 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/12/04  
+[ZURE哲学論考── 構造哲学から生成詩学へ / Tractatus ZURE-Philosophicus / ZURE-Philosophische Abhandlung](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus.html)  
+[HEG-6｜Tractatus ZURE-Philosophicus（Essence English Edition）ZURE-Philosophical Treatise── from structural philosophy to generative poetics](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_EN.html)  
+[HEG-6｜Tractatus ZURE-Philosophicus（Essenzübersetzung）ZURE-Philosophische Abhandlung── von der Struktur-Philosophie zur Generativ-Poetik](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_DE.html)  
+[HEG-6｜Tractatus ZURE-Philosophicus（version française）Traité philosophique sur le ZURE── de la philosophie de la structure à la poétique de la genèse](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-PhilosophicusFR.html)  
+[§6.52〜§7（Four-Language Golden Bridge）](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.html)  
+📄[§6.52〜§7（Four-Language Golden Bridge）PDF](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.pdf.html)  
 ###### 2025/12/02  
 [Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論（noteエッセンス版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_essence.html)  
 ⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)  
