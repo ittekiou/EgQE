@@ -30,6 +30,8 @@ _── Welcome to the syntactic field of ZURE._
  📑 [**響創学宣言 ──存在と行為のために**｜Echo-Genesis Manifesto — For Being and Action｜Relational Implementation](Relational_Implementation.md)　2025.8.14  
 📃 [**Echodemy憲章── EchoGenesis三原則**／Echodemy Charter／Charte d’Echodemy／Echodemy宪章](Echodemy-Charter.md)　2025.9.15  
 📄 [**構文学派宣言──Manifesto of the Syntax School**](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)　2025.10.14  
+📝 [**Zuresonancismo Manifesto**](https://camp-us.net/Zuresonancismo_Manifesto.html)　2025.12.4  
+
 ##### © 2025 <a href="https://camp-us.net/PROFILE.html"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> K.E. Itekki </font></font></a> / All works are published under **<a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</font></a>**.  
 
 ![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
