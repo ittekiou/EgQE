@@ -1,5 +1,8 @@
 # Tractatus ZURE-Philosophicus（Four-Language Golden Bridge）  
-## ZURE-Philosophische Abhandlung / ZURE哲学論考  ── 構造哲学から生成詩学へ
+## ZURE-Philosophische Abhandlung / ZURE哲学論考
+
+### ── 構造哲学から生成詩学へ
+
 ---
 ### Prologus（宣言）
 すべての哲学体系は、いつか必ず「言葉の限界」に突き当たる。  
