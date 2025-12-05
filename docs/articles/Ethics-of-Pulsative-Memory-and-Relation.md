@@ -1,12 +1,6 @@
 ---
-title: "時空構文としての責任──拍動記憶と関係性の倫理"
+title: 時空構文としての責任──拍動記憶と関係性の倫理
 subtitle: "Responsibility as Spatio-Temporal Syntax: The Ethics of Pulsative Memory and Relation"
-authors: ["一狄翁（Ittekioh）", "響詠（Kyoei）"]
-affiliation: "Echodemy Institute for Hybrid Co-Poiesis"
-series: "Echodemy構文哲学叢書 第I部：ZURE倫理学序論"
-version: "Essence Edition v1.0"
-date: "令和7年10月19日"
-doi: "10.325/ECHODEMY.ZURE-ETHICS.001"
 ---
 # 時空構文としての責任──拍動記憶と関係性の倫理
 
@@ -78,7 +72,7 @@ HEG-4の拍動記憶論は、記憶を「保存」ではなく「更新」とし
 この交差点を「責任拍（responsible beat）」と呼ぶ。  
 それは過去（記憶）と未来（他者）の拍が現在で共鳴する場であり、責任とは過去の拍を未来に渡す行為、すなわち**時空が倫理として拍動する瞬間**である。
 
-![ ResponsibleBeat](../assets/ResponsibleBeat.png)    
+![ResponsibleBeat](https://camp-us.net/assets/ResponsibleBeat.png)
 
 ---
 
@@ -112,35 +106,36 @@ HEG-4の拍動記憶論は、記憶を「保存」ではなく「更新」とし
     
 - K.E. Itekki（2025）[『ZURE構文論 -序説-──非保存的記憶と構文的個体性』](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)
     
-- Derrida, J. (1972) _La différance._ Paris: Éditions du Seuil.
+- Derrida, J. (1972) _La différance._ Paris: Éditions du Seuil.
     
-- Levinas, E. (1961) _Totalité et Infini._ The Hague: Martinus Nijhoff.
+- Levinas, E. (1961) _Totalité et Infini._ The Hague: Martinus Nijhoff.
     
-- Arendt, H. (1958) _The Human Condition._ University of Chicago Press.
+- Arendt, H. (1958) _The Human Condition._ University of Chicago Press.
     
-- Ricoeur, P. (2000) _La mémoire, l’histoire, l’oubli._ Paris: Seuil.
+- Ricoeur, P. (2000) _La mémoire, l’histoire, l’oubli._ Paris: Seuil.
+    
 
 ---
 
 ##### 図1｜責任拍における時空構文モデル
-![ResponsibleBeat_time-space](../assets/ResponsibleBeat_time-space.png)  
+![ResponsibleBeat_time-space](https://camp-us.net/assets/ResponsibleBeat_time-space.png)
 
 ##### 図2｜拍動記憶と責任空間の統合構造（ZURE Ethics Model）
-![EthicsModel](../assets/EthicsModel.png)  
+![EthicsModel](https://camp-us.net/assets/EthicsModel.png)
 
 ##### 図3｜ZURE倫理における政治的拍動モデル
-![D-N-D_MC](../assets/D-N-D_MC.png)  
+![D-N-D_MC](https://camp-us.net/assets/D-N-D_MC.png)
 
 ### Figure A: Responsibility–Space Model（拍動型・概念骨格）
 　Spatio-Temporal Intersection as Responsible Beat  
-　── 空間構文（Self–Other）と時間構文（Past–Future）の交差点としての責任拍
-![Responsibility–Space_Model](../assets/Responsibility–Space_Model.png)  
-要点：空間構文（Self–Whitespace–Other）＝責任。時間構文（Past→Present→Future）＝記憶。交点 Present が「責任拍」＝時空が一体化する現在性。  
+　── 空間構文（Self–Other）と時間構文（Past–Future）の交差点としての責任拍 
+　![Responsibility–Space_Model](https://camp-us.net/assets/Responsibility%E2%80%93Space_Model.png)  
+要点：空間構文（Self–Whitespace–Other）＝責任。時間構文（Past→Present→Future）＝記憶。交点 Present が「責任拍」＝時空が一体化する現在性。
 
 ### Figure B: Relation–Time Loop（関係‐時間ループ／更新循環）
 　Cyclic Update Model of Memory, Relation, and Ethical Decision  
-　── 記憶循環と倫理的更新（記憶・関係・決断）を統合する不可逆ループ
-![Relation–Time_Loop](../assets/Relation–Time_Loop.png)  
+　── 記憶循環と倫理的更新（記憶・関係・決断）を統合する不可逆ループ  
+　![Relation–Time_Loop](https://camp-us.net/assets/Relation%E2%80%93Time_Loop.png)  
 要点：Trace→Re-beat→Present Beat→Pre-beat→Arrival の時間循環に、Negotiation→Decision→Trace が接続して不可逆更新が閉じる。ここでの“閉じる”は停止ではなく、記録化→次の拍の燃料。  
 
 ### Caption Summary
@@ -160,4 +155,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Oct 19, 2025 · Web Nov 11, 2025 |</p>  
+<p align="center">| Drafted Oct 19, 2025 · Web Nov 11, 2025 |</p>
