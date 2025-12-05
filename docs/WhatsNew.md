@@ -15,6 +15,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/12/05  
+[R₀/Z₀｜ノイズをめぐる科学と詩学── RZ Dichotomy of Knowledge：精密化と拍動化の文明軸](https://camp-us.net/articles/HEG-6_RZ-Dichotomy-of-Knowledge.html)  
 ###### 2025/12/04  
 [ZURE哲学論考── 構造哲学から生成詩学へ / Tractatus ZURE-Philosophicus / ZURE-Philosophische Abhandlung](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus.html)  
 [HEG-6｜Tractatus ZURE-Philosophicus（Essence English Edition）ZURE-Philosophical Treatise── from structural philosophy to generative poetics](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_EN.html)  
