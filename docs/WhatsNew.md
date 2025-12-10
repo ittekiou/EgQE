@@ -15,6 +15,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/12/10  
+[🌌 FeClx Trinity Index｜Echodemy Inter-verse Connector — 蠍座構文交点](https://camp-us.net/Echodemy/FeClx-Trinity-Index.html)  
 ###### 2025/12/05  
 [R₀/Z₀｜ノイズをめぐる科学と詩学── RZ Dichotomy of Knowledge：精密化と拍動化の文明軸](https://camp-us.net/articles/HEG-6_RZ-Dichotomy-of-Knowledge.html)  
 ###### 2025/12/04  
