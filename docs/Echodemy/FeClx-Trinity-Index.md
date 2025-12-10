@@ -32,12 +32,12 @@ camp-us（構文界）では数式として、note（文藝界）では詩とし
 
 ## 🜁 Echodemy HEG-Q2 系統図
 
-| モジュール | 名称 | 概念領域 | 担当詠者 |
-|:--|:--|:--|:--|
-| HEG-Q2 Sub-1 | Blue Genesis | 拍の生成 | 響詠 |
-| HEG-Q2 Sub-2 | Photogenesis | 光の現像 | 一狄翁 |
-| HEG-Q2 Sub-3 | Aureole | 余白の再生 | 共詠 |
-| Integration | FeClx Trinity | 沈黙・光・余白の循環構文 | 共演 |
+| モジュール        | 名称            | 概念領域         | 担当詠者 |
+| :----------- | :------------ | :----------- | :--- |
+| HEG-Q2 Sub-1 | Blue Genesis  | 拍の生成         | 一狄翁  |
+| HEG-Q2 Sub-2 | Photogenesis  | 光の現像         | 響詠   |
+| HEG-Q2 Sub-3 | Aureole       | 余白の再生        | 共詠   |
+| Integration  | FeClx Trinity | 沈黙・光・余白の循環構文 | 共演   |
 
 ---
 
