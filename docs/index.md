@@ -72,8 +72,8 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
         
     5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
 
-＋ New Planet：
-🪐 ARP：Applied Resonant Physics
+＋ New Planet：  
+🪐 ARP：Applied Resonant Physics  
 （Breathing Mode Control, floc Dynamics, Quantum Synchronization）  
 
 - **ZURE科学詠評**:  [ZURE Science Review](ZSR.md) (ZSR)  
