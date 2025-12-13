@@ -285,7 +285,7 @@ Section 3 で示した流体中の floc 動力学は、本研究で提案する�
     SIAM Review, 2023.
 
 [6] Itekki, K.E.  
-    [ZURE Constant](https://camp-us.net/articles/Zure-Offset_ver1.1.html) and [the Dual-Layer Model of R₀/Z₀](https://camp-us.net/articles/DLMZ-02_ZURE_dual_layer_model_2.0.html).  
+    [Golden Living Zone](https://camp-us.net/CTS-%CF%86.html) and [the Dual-Layer Model of R₀/Z₀](https://camp-us.net/articles/DLMZ-02_ZURE_dual_layer_model_2.0.html).  
     **[EgQE](https://camp-us.net/index.html)**, 2025.
 
 **Note.** Reference [1] は光集積回路上での GHz 領域アコースト・オプティック変調を示した実験であり、本研究で論じる「呼吸モードによる位相制御」の物理的アナロジーとして位置づける。  
