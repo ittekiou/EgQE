@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [ARP-01_英語版 Position Paper](https://camp-us.net/articles/ARP-01_EN_PositionPaper.html)  
 [ARP-01_日本語EgQE版 Position Paper](https://camp-us.net/articles/ARP-01_JP_PositionPaper.html)  
 [ARP-Series v1.0｜Breathing-Mode Control as a Scale-Invariant Principle](https://camp-us.net/articles/ARP-Series_v1.0.html)  
+[ZQ-Ⅱ｜構文学派宣言──Revisions｜Ver.2 Golden Harmonic Revision / Ver.3 Philosophical Revision](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto_Revision.html)  
 ###### 2025/12/10  
 [🌌 FeClx Trinity Index｜Echodemy Inter-verse Connector — 蠍座構文交点](https://camp-us.net/Echodemy/FeClx-Trinity-Index.html)  
 ###### 2025/12/05  

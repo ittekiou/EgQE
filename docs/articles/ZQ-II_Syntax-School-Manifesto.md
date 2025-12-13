@@ -77,7 +77,8 @@ ZURE構文学派は、**構文の未来を生きる思想運動**である。
 - 🌐 [**響創学宣言** Relational Implementation｜camp-us.net](https://camp-us.net/Relational_Implementation.html)  
 - 📘 ZQシリーズ 第一部 👉 [ZQ｜構文的存在論シリーズのはじまりに](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)
 - 🪶 第二部（構文学派篇）  
-  - **ZQ-Ⅱ：構文学派宣言──Relational Implementationとの接続（本稿）**
+  - **ZQ-Ⅱ：構文学派宣言──Relational Implementationとの接続（本稿 Ver.1）**
+  - [ZQ-Ⅱ｜構文学派宣言──Revisions｜Ver.2 Golden Harmonic Revision / Ver.3 Philosophical Revision](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto_Revision.html)  
 
 ![SyntaxSchool](../assets/SapporoDeclaration-of-theSyntaxSchool.png)
 
