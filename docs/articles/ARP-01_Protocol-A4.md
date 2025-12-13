@@ -164,6 +164,10 @@ $$
     
 
 ---
+
+[ARP-Series v1.0｜Breathing-Mode Control as a Scale-Invariant Principle](https://camp-us.net/articles/ARP-Series_v1.0.html)  
+
+---
 With gratitude to Youri, whose advice resonated in this work.  
 
 © 2025 K.E. Itekki  

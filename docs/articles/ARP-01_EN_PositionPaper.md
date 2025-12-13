@@ -6,6 +6,8 @@ title_en: "Breathing-Mode Synchronization in Flocculated Systems: A Scale-Invari
 # ARP-01_EN Position Paper
 # **Breathing-Mode Synchronization in Flocculated Systems: A Scale-Invariant Control Principle Bridging Fluids, Quantum Correlations, and Gravity**
 
+[ARP-Series v1.0｜Breathing-Mode Control as a Scale-Invariant Principle](https://camp-us.net/articles/ARP-Series_v1.0.html)  
+
 **Keywords**: Breathing-mode synchronization, non-volitional control,
 collective phase, soft matter, quantum correlations, correlation-density gravity.
 

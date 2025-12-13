@@ -9,6 +9,8 @@ title_en: Breathing Modes as a Control Principle — Floc Dynamics from Fluids t
 ## Breathing Modes as a Control Principle  
 ### — Floc Dynamics from Fluids to Quantum Gravity and Beyond —
 
+[ARP-Series v1.0｜Breathing-Mode Control as a Scale-Invariant Principle](https://camp-us.net/articles/ARP-Series_v1.0.html)  
+
 > Recent demonstrations of GHz-frequency acousto-optic modulation in photonic circuits [1] highlight that collective oscillatory modes can coherently manipulate phase relations without resorting to invasive, localized control.  
 本研究は、この構文的洞察を「呼吸モード」として非随意系の制御原理へ拡張する。
 

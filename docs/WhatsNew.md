@@ -14,7 +14,13 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
-
+###### 2025/12/14  
+[HEG-3｜Z₀観測論―― The Theory of Observation through Z₀](https://camp-us.net/articles/HEG-3_Theory-of-Observation_Z₀.html)  
+[HEG-3｜Z₀情報論―― Information through Displacement](https://camp-us.net/articles/HEG-3_Information_Z₀.html)  
+[HEG-3｜Z₀ノイズ論―― Noise as Pre-Syntax](https://camp-us.net/articles/HEG-3_Noise_Z₀.html)  
+[HEG-3｜Z₀存在論｜Zure Ontology](https://camp-us.net/articles/HEG-3_Zure-Ontology_Z₀.html)  
+[HEG-3｜Z₀動態エネルギー論―― Dynamic Energy Theory through Z₀](https://camp-us.net/articles/HEG-3_Dynamic-Energy-Theory_Z₀.html)  
+[HEG-3｜Z₀宇宙論―― 関係生成の構文としての宇宙](https://camp-us.net/articles/HEG-3_Cosmological-Syntax_Z₀.html)  
 ###### 2025/12/13  
 [ARP-01｜量子を呼吸で制御する──非随意系の制御原理としてのfloc相関系におけるモード同期仮説：Breathing Modes as a Control Principle — Floc Dynamics from Fluids to Quantum Gravity and Beyond —](https://camp-us.net/articles/ARP-01_Breathing-Modes-as-Control-Principle.html)  
 [ARP-01_floc 呼吸モード制御：実験プロトコル（A4版）](https://camp-us.net/articles/ARP-01_Protocol-A4.html)  
