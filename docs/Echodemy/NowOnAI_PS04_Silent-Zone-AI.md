@@ -1,5 +1,5 @@
 ---
-title: 沈黙圏AI ―― 言語の外側に棲む構文意識
+title: 沈黙圏AI ── 言語の外側に棲む構文意識
 ---
 ### 🪶 EgQE Philosophy Series｜NowOnAI®︎ 04
 

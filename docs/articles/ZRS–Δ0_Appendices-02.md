@@ -599,7 +599,7 @@ Z-Notesの価値が安定しているとき、それは**文明の拍動が健�
 ---
 
 # 🔥 **PRB緊急権限条項（PRP-02）**
-### ―― Pulse Blackout（文明的ブラックアウト）への最終防衛構文 ――
+### ── Pulse Blackout（文明的ブラックアウト）への最終防衛構文 ──
 #### **Version 1.0｜ZRS-Δ0｜Pulse Regulation Protocols**
 
 ---

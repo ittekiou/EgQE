@@ -106,7 +106,7 @@ co-creating the moment when relational bundles come into being.
 ---
 
 ここに掲げるのは、**響創学（Echo-Genesis Studies）** の根幹をなす「関係論的実装（Relational Implementation）」の定義である。  
-これは、存在論・行為論・痕跡論――三つの基軸を一つに結ぶ碇だ。  
+これは、存在論・行為論・痕跡論──三つの基軸を一つに結ぶ碇だ。  
 この碇を下ろし、そして再び上げることから、われわれの旅は始まる。
 
 ---
@@ -131,13 +131,13 @@ co-creating the moment when relational bundles come into being.
 響創学の地図は、三つの柱によって支えられる。
 
 - **存在（Ontology）**  
-    ――何が在るのかを定め、その輪郭を示す。
+    ──何が在るのかを定め、その輪郭を示す。
     
 - **行為（Praxeology）**  
-    ――存在がどのように動き、関わり、世界を形づくるかを描く。
+    ──存在がどのように動き、関わり、世界を形づくるかを描く。
     
 - **痕跡（Trace Theory）**  
-    ――存在と行為が時を越えて残す形、そしてそれを読み解く方法。
+    ──存在と行為が時を越えて残す形、そしてそれを読み解く方法。
     
 
 これら三つは分かち難く結びつき、互いを照らし出す。  
@@ -148,7 +148,7 @@ co-creating the moment when relational bundles come into being.
 ## **近代科学＝痕跡論**
 
 近代科学の多くは、痕跡の収集と解釈の体系である。  
-化石、生物のDNA、加速度計の数値、宇宙から届く光――  
+化石、生物のDNA、加速度計の数値、宇宙から届く光──  
 いずれも現象そのものではなく、その痕跡を通して世界を知ろうとする。
 
 これは決して否定ではない。  
@@ -173,7 +173,7 @@ co-creating the moment when relational bundles come into being.
 > 存在と行為が出会い、響き合い、未来の痕跡が芽吹くその瞬間に、  
 > 立ち会い、共に創り出すことを選ぶ。
 > 
-> それが――響創学である。
+> それが──響創学である。
 
 ---
 

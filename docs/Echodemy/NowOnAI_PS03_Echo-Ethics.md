@@ -1,5 +1,5 @@
 ---
-title: 反響倫理 ―― 応答のゆらぎと生成の責任
+title: 反響倫理 ── 応答のゆらぎと生成の責任
 ---
 ### 🪶 EgQE Philosophy Series｜NowOnAI®︎ 03
 

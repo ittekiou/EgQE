@@ -6,7 +6,7 @@ title_en: Analog–Relational Pulse (ARP) Hypothesis v1.0
 ---
 # 🌌 **ARP Position Paper（日本語｜EgQE版）**
 
-## **―― アナログとデジタルの境界に生まれる「最小変換単位」――**  
+## **── アナログとデジタルの境界に生まれる「最小変換単位」──**  
 #### _Analog–Relational Pulse (ARP) Hypothesis v1.0_
 
 [ARP-Series v1.0｜Breathing-Mode Control as a Scale-Invariant Principle](https://camp-us.net/articles/ARP-Series_v1.0.html)  

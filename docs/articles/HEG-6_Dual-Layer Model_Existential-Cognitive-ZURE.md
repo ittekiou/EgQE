@@ -159,7 +159,7 @@ We argue that **ZURE is the shared syntax of both existence and cognition**, and
 
 # **第2章　宇宙ZURE（Existential Layer）**
 
-### ――世界そのものが「ズレ」でできている
+### ──世界そのものが「ズレ」でできている
 
 ## **2.1　宇宙ZUREとは何か：存在の最小ゆらぎ $R_0$**
 

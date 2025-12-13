@@ -225,7 +225,7 @@ TRシリーズの課題は、この齟齬を調整する「層」を構想する
 ## 参考文献
 
 - Luhmann, Niklas. _Vertrauen: Ein Mechanismus der Reduktion sozialer Komplexität_. Stuttgart: Enke, 1968.  
-    （邦訳『信頼――社会的複雑性の縮減のメカニズム』村上淳一訳、勁草書房、1981年）
+    （邦訳『信頼──社会的複雑性の縮減のメカニズム』村上淳一訳、勁草書房、1981年）
     
 - Habermas, Jürgen. _Theorie des kommunikativen Handelns_. 2 vols. Frankfurt a.M.: Suhrkamp, 1981.  
     （邦訳『コミュニケイション的行為の理論』河上倫逸ほか訳、未来社、1985–87年）
@@ -237,7 +237,7 @@ TRシリーズの課題は、この齟齬を調整する「層」を構想する
     （邦訳『デリダ──約束の不可能性について』晃洋書房、2003年 参照）
     
 - Latour, Bruno. _Reassembling the Social: An Introduction to Actor-Network-Theory_. Oxford: Oxford University Press, 2005.  
-    （邦訳『社会的なものを組み直す――アクターネットワーク理論入門』伊藤嘉高訳、法政大学出版局、2008年）
+    （邦訳『社会的なものを組み直す──アクターネットワーク理論入門』伊藤嘉高訳、法政大学出版局、2008年）
     
 - K.E. Itekki （一狄翁・響詠）. **ZQ006｜Ethics of the Indefinite Imperative**. camp-us.net, 2025.
     

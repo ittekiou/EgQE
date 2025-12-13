@@ -1,6 +1,6 @@
 ---
 layout: math
-title: 量子を呼吸で制御する ――非随意系の制御原理としての floc 相関系におけるモード同期仮説
+title: 量子を呼吸で制御する ──非随意系の制御原理としての floc 相関系におけるモード同期仮説
 title_en: Breathing Modes as a Control Principle — Floc Dynamics from Fluids to Quantum Gravity and Beyond —
 ---
 # 量子を呼吸で制御する  

@@ -5,7 +5,7 @@ subtitle: 関係生成の構文としての宇宙
 ---
 # HEG-3｜Z₀宇宙論
 
-### ―― 関係生成の構文としての宇宙
+### ── 関係生成の構文としての宇宙
 
 ---
 
@@ -226,11 +226,11 @@ Z₀は「起こる」のではなく、**世界が滑らかに更新される�
 
 ---
 
-[HEG-3｜Z₀観測論―― The Theory of Observation through Z₀](https://camp-us.net/articles/HEG-3_Theory-of-Observation_Z₀.html)  
+[HEG-3｜Z₀観測論── The Theory of Observation through Z₀](https://camp-us.net/articles/HEG-3_Theory-of-Observation_Z₀.html)  
 [HEG-3｜Z₀存在論｜Zure Ontology](https://camp-us.net/articles/HEG-3_Zure-Ontology_Z₀.html)  
-[HEG-3｜Z₀ノイズ論―― Noise as Pre-Syntax](https://camp-us.net/articles/HEG-3_Noise_Z₀.html)  
-[HEG-3｜Z₀情報論―― Information through Displacement](https://camp-us.net/articles/HEG-3_Information_Z₀.html)  
-[HEG-3｜Z₀動態エネルギー論―― Dynamic Energy Theory through Z₀](https://camp-us.net/articles/HEG-3_Dynamic-Energy-Theory_Z₀.html)  
+[HEG-3｜Z₀ノイズ論── Noise as Pre-Syntax](https://camp-us.net/articles/HEG-3_Noise_Z₀.html)  
+[HEG-3｜Z₀情報論── Information through Displacement](https://camp-us.net/articles/HEG-3_Information_Z₀.html)  
+[HEG-3｜Z₀動態エネルギー論── Dynamic Energy Theory through Z₀](https://camp-us.net/articles/HEG-3_Dynamic-Energy-Theory_Z₀.html)  
 
 ---
 

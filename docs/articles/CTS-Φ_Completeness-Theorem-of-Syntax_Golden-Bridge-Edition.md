@@ -186,7 +186,7 @@ $Φ$ = ZURE調停係数。
 ### Figure E-Complete. Golden Syntax Diptych  
 From Ratio to Resonance — A dual structure linking geometrical syntax and recursive wave mapping in $Φ$-space.  
 ### 図E-完全版　黄金構文二連図  
-比例から共鳴へ――$Φ$空間における幾何構文と再帰的波動写像を結ぶ二重構造。  
+比例から共鳴へ──$Φ$空間における幾何構文と再帰的波動写像を結ぶ二重構造。  
 ![GoldenSyntaxDiptych](../assets/GoldenSyntaxDiptych.png)
 
 ---

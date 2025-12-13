@@ -58,9 +58,9 @@ $$
 
 ---
 
-[HEG-3｜Z₀情報論―― Information through Displacement](https://camp-us.net/articles/HEG-3_Information_Z₀.html)  
-[HEG-3｜Z₀ノイズ論―― Noise as Pre-Syntax](https://camp-us.net/articles/HEG-3_Noise_Z₀.html)  
-[HEG-3｜Z₀宇宙論―― 関係生成の構文としての宇宙](https://camp-us.net/articles/HEG-3_Cosmological-Syntax_Z₀.html)  
+[HEG-3｜Z₀情報論── Information through Displacement](https://camp-us.net/articles/HEG-3_Information_Z₀.html)  
+[HEG-3｜Z₀ノイズ論── Noise as Pre-Syntax](https://camp-us.net/articles/HEG-3_Noise_Z₀.html)  
+[HEG-3｜Z₀宇宙論── 関係生成の構文としての宇宙](https://camp-us.net/articles/HEG-3_Cosmological-Syntax_Z₀.html)  
 
 ---
 
