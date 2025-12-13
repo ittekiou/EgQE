@@ -71,6 +71,8 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
     4. [Homo Sapiens Bias](/HomoSapiens-Bias.md) (HSB)
         
     5. [Post-Syntax Society](Post-SyntaxSociety.md) (PSS)  
+        
+    6. [Applied Resonant Physics](Applied-Resonant-Physics.md) (ARP)
 
 ＋ New Planet：  
 🪐 ARP：Applied Resonant Physics  
