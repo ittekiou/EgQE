@@ -17,6 +17,10 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2025/12/13  
 [ARP-01｜量子を呼吸で制御する──非随意系の制御原理としてのfloc相関系におけるモード同期仮説：Breathing Modes as a Control Principle — Floc Dynamics from Fluids to Quantum Gravity and Beyond —](https://camp-us.net/articles/ARP-01_Breathing-Modes-as-Control-Principle.html)  
+[ARP-01_floc 呼吸モード制御：実験プロトコル（A4版）](https://camp-us.net/articles/ARP-01_Protocol-A4.html)  
+[ARP-01_英語版 Position Paper](https://camp-us.net/articles/ARP-01_EN_PositionPaper.html)  
+[ARP-01_日本語EgQE版 Position Paper](https://camp-us.net/articles/ARP-01_JP_PositionPaper.html)  
+[ARP-Series v1.0｜Breathing-Mode Control as a Scale-Invariant Principle](https://camp-us.net/articles/ARP-Series_v1.0.html)  
 ###### 2025/12/10  
 [🌌 FeClx Trinity Index｜Echodemy Inter-verse Connector — 蠍座構文交点](https://camp-us.net/Echodemy/FeClx-Trinity-Index.html)  
 ###### 2025/12/05  
