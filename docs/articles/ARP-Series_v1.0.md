@@ -504,6 +504,7 @@ ARP が示すのは、制御の未来が「正確性」ではなく**拍（pulse
 ## Cross-Links
 - 日本語理論論文：[ARP-01（JP）](https://camp-us.net/articles/ARP-01_Breathing-Modes-as-Control-Principle.html)  
 - 英語版 Position Paper：[ARP-01_EN](https://camp-us.net/articles/ARP-01_EN_PositionPaper.html)  
+- 日本語EgQE版 Position Paper：[ARP-01_JP](https://camp-us.net/articles/ARP-01_JP_PositionPaper.html)  
 - 実験プロトコル：[Protocol-A4](https://camp-us.net/articles/ARP-01_Protocol-A4.html)  
 - ARP Series Hub：本ページ
 
