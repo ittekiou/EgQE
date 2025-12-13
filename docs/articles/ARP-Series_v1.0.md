@@ -25,10 +25,12 @@ Control is reframed from local intervention to **condition-tuning via breathing 
 
 Recent demonstrations of GHz-frequency acousto-optic modulation in photonic circuits [1] indicate that collective oscillatory modes can coherently manipulate phase relations without invasive local control. Here we generalize this insight and propose **breathing-mode synchronization** as a universal, scale-invariant control principle for **non-volitional correlated systems**. Using flocculated fluids as an experimentally accessible analog, we show that low-frequency global pressure/volume modulation $0.1–3 Hz$ aligns correlation phases without disrupting stochastic aggregation. The theory predicts a finite **breathing domain**, with an optimal amplitude $A^*$ that maximizes synchronization while avoiding both decoherence $low A$ and structural disruption $high A$. We provide a laboratory-ready protocol enabling immediate validation and establish explicit mappings to **quantum many-body phase control** and **correlation-density gravity**. This reframes control from precision intervention to **condition-tuning of emergent structures**, revealing a unified mode-coupling architecture spanning fluids, quantum systems, and gravitational correlation fields.
 
+---
 ### Figure 1 (placeholder)
 *Scale-bridging diagram: Fluid floc / Quantum many-body / Correlation-density gravity.
 Central: Breathing Domain (A\* plateau).*
 
+---
 ### 1. Methods
 ## **Sample preparation**
 
@@ -37,8 +39,6 @@ $radius 1–10 μm, volume fraction 0.5–2％$.
 The solvent viscosity $1–20 mPa·s$ is adjusted using glycerol–water mixtures to stabilize floc growth.  
 All samples are loaded into a **transparent cylindrical chamber** $diameter 3–5 cm, depth 1–2 cm$ with rigid walls to ensure uniform stress propagation.  
 Temperature is controlled at $25 \pm 0.1^\circ\mathrm{C}$.
-
----
 
 ## **Breathing-mode apparatus**
 
@@ -59,8 +59,6 @@ $$
 
 This range corresponds to the theoretically predicted **breathing domain**.
 
----
-
 ## **Experimental protocol**
 
 1. Allow flocculated structures to equilibrate for 10 minutes.
@@ -75,8 +73,6 @@ This range corresponds to the theoretically predicted **breathing domain**.
     
 
 Baseline (A = 0) and randomized-phase controls are recorded for comparison.
-
----
 
 ## **Data acquisition and analysis**
 
@@ -104,8 +100,6 @@ where $\phi_i$ are local correlation phases.
 
 A peak in $\Lambda(A)$ identifies the optimal amplitude $A^*$.
 
----
-
 ## **Statistical analysis**
 
 Each condition is repeated (n = 10) independent trials.  
@@ -121,15 +115,15 @@ Significance of synchronization is tested using:
 A condition is considered synchronized when  
 $\Lambda - \Lambda_{\mathrm{baseline}} > 3\sigma$.
 
----
-
 ## **Reproducibility**
 
 All parameter ranges (A, f, viscosity, volume fraction) are chosen to guarantee replication in standard fluid-dynamics or soft-matter laboratories. No specialized equipment beyond a piston/diaphragm driver and a high-speed camera is required.
 
+---
 ### Figure 2 (placeholder)
 *Predicted non-monotonic synchronization curve Λ(A) with optimal A\*.*
 
+---
 ### 2. Results
 
 Breathing-mode driving produced a robust, non-monotonic response across all flocculated samples.  
@@ -203,8 +197,9 @@ ARP仮説の核心：
 
 > **局所操作ではなく、全体的・周期的な“呼吸”が 相関構造（correlation architecture）を同期させる。**
 
+---
 ### 1–8. 実験設計・解析・仮説・量子写像
-
+---
 
 ## **1. サンプル準備（Sample Preparation）**
 

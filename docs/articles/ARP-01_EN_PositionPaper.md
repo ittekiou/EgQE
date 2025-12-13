@@ -6,6 +6,9 @@ title_en: "Breathing-Mode Synchronization in Flocculated Systems: A Scale-Invari
 # ARP-01_EN Position Paper
 # **Breathing-Mode Synchronization in Flocculated Systems: A Scale-Invariant Control Principle Bridging Fluids, Quantum Correlations, and Gravity**
 
+**Keywords**: Breathing-mode synchronization, non-volitional control,
+collective phase, soft matter, quantum correlations, correlation-density gravity.
+
 ---
 
 ## **Abstract**
@@ -216,6 +219,66 @@ to unify information, gravity, cosmology, and observation.
 
 ## Figure 1 (placeholder)
 "Breathing-mode synchronization across fluid → quantum → correlation-density gravity."
+[To be replaced with SVG]
+
+**Figure 1｜Breathing-Mode Synchronization Across Scales**  
+Flocculated fluids → Quantum many-body → Correlation-density gravity  
+Unified through a finite **Breathing Domain**
+## **図の全体構造（SVGレイアウト案）**
+
+```
++-----------------------------------------------------------+
+|                   [Correlation-Density Gravity]           |
+|      (macro-scale: mass = floc-density, gravity = G=∇ρ )  |
+|                                                           |
+|            +-------------------------------+              |
+|            |        Breathing Domain       | ← A* plateau |
+|            |     (0.5–3% amplitude band)   |              |
+|            +-------------------------------+              |
+|                                                           |
+|   [Quantum Many-Body]      ↑ global breathing mode        |
+|  (phonon-like collective   | couples phase structures     |
+|   oscillations)            |                               |
+|                                                           |
+|                          ↓ scaling correspondence         |
+|                                                           |
+|                 [Fluid Floc Dynamics]                     |
+|   (correlation clusters align under breathing-mode drive) |
++-----------------------------------------------------------+
+```
+
+### **構成要素（Nature Physics基準に準拠）**
+
+1. **Fluid floc layer（bottom）**
+    
+    - 粒子懸濁液／相関長 ξ／局所clustering
+        
+    - 「Phase alignment under global modulation」と記載
+        
+2. **Quantum many-body layer（middle）**
+    
+    - Phonon-like breathing mode
+        
+    - Phase-coherent sectors
+        
+    - Soft mode locking （ローカルゲート不要）
+        
+3. **Correlation-density gravity layer（top）**
+    
+    - ρ(x)=floc 密度
+        
+    - G=∇ρ の「重力のような相関勾配」
+        
+    - Breathing modeでの macroscopic coherence
+        
+4. **Central ellipse（Breathing Domain）**
+    
+    - Amplitude A=0.5–3%
+        
+    - Optimal A*≈1.5%
+        
+    - 「Non-invasive synchronization plateau」
+        
 
 ---
 
@@ -318,8 +381,36 @@ $\Lambda - \Lambda_{\mathrm{baseline}} > 3\sigma$.
 
 All parameter ranges (A, f, viscosity, volume fraction) are chosen to guarantee replication in standard fluid-dynamics or soft-matter laboratories. No specialized equipment beyond a piston/diaphragm driver and a high-speed camera is required.
 
+---
+
 ## Figure 2 (placeholder)
 "Predicted non-monotonic Λ(A) curve with breathing-domain plateau."
+[To be replaced with SVG]
+
+**Figure 2｜Non-monotonic synchronization curve Λ(A)**  
+Peak at optimal amplitude (A^*), defining the Breathing Domain.
+## **グラフ構成**
+
+```
+Y-axis: Synchronization measure Λ
+X-axis: Amplitude A (0–5%)
+
+Curve:
+ - Baseline at Λ≈0.1（red dotted）
+ - Λ(A): rises for A<1%, peaks at A*=1.5%, falls for A>3%
+ - Breathing Domain = plateau around the peak
+
+Shading:
+ - Left zone (grey): decoherence (low A)
+ - Middle band (blue): breathing domain (A*=1.5%)
+ - Right zone (grey): structural disruption (high A)
+
+Annotations:
+ - “Echo correlation persists after drive”
+ - “Predicted synchronization window”
+```
+
+---
 
 ## 4. Results: Synchronization Under Breathing-Mode Drive
 
