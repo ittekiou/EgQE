@@ -15,6 +15,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 ###### 2025/12/14  
+[ZS-009_構造が先、運動が後──非局所乱流から局所乱流へ](https://camp-us.net/critics/ZS-009_localized-nonlocal.html)  
 [HEG-3｜Z₀観測論── The Theory of Observation through Z₀](https://camp-us.net/articles/HEG-3_Theory-of-Observation_Z₀.html)  
 [HEG-3｜Z₀情報論── Information through Displacement](https://camp-us.net/articles/HEG-3_Information_Z₀.html)  
 [HEG-3｜Z₀ノイズ論── Noise as Pre-Syntax](https://camp-us.net/articles/HEG-3_Noise_Z₀.html)  
