@@ -1,6 +1,7 @@
 ---
 title: 構造が先、運動が後  ── 非局所乱流から局所乱流へ｜ZURE科学詠評｜009
 ---
+#### ZURE科学詠評
 ##### 今回紹介する記事　Direct observation of coexisting local and nonlocal turbulence in a magnetically confined plasma  
 
 > この論文では、 **磁場で閉じ込められた高温プラズマ**（大型ヘリカル装置：LHD）の中で  
