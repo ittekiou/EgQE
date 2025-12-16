@@ -14,6 +14,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+
+###### 2025/12/16  
+[ZURE空間論序説── 比・向き・距離の生成とZ₀が空間を生むまで｜ZURE Spatial Theory: An Introduction — How Ratio, Orientation, and Distance Generate Space through Z₀](https://camp-us.net/articles/HEG-6_ZURE-Spatial-Theory_Introduction.html)  
 ###### 2025/12/14  
 [ZS-009_構造が先、運動が後──非局所乱流から局所乱流へ](https://camp-us.net/critics/ZS-009_localized-nonlocal.html)  
 [HEG-3｜Z₀観測論── The Theory of Observation through Z₀](https://camp-us.net/articles/HEG-3_Theory-of-Observation_Z₀.html)  
