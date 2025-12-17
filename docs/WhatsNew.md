@@ -15,6 +15,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/12/17  
+[多角形遷移モデルによる floc 宇宙の構文化── R₀⇄Z₀変換で描く揺らぎ宇宙](https://camp-us.net/articles/HEG-7_floc-cosmology.html)  
 ###### 2025/12/16  
 [ZURE空間論序説── 比・向き・距離の生成とZ₀が空間を生むまで｜ZURE Spatial Theory: An Introduction — How Ratio, Orientation, and Distance Generate Space through Z₀](https://camp-us.net/articles/HEG-6_ZURE-Spatial-Theory_Introduction.html)  
 ###### 2025/12/14  
