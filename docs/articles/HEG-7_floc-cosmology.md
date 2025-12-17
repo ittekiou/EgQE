@@ -75,6 +75,8 @@ Z₀とは、
 Z₀は宇宙を生成しない。  
 Z₀は、宇宙が「見える」ために要請される写像である。
 
+![Cosmic-Physics](../assets/Cosmic-Physics.png)
+
 ---
 
 ### 1.3 写像の非対称性
@@ -455,6 +457,8 @@ hepta-tropos は、
 
 ながら、多角形として循環する。
 
+![floc-cosmo0](../assets/floc-cosmo0.png)
+
 ---
 
 ## 第5章｜多角形遷移の動学
@@ -613,8 +617,6 @@ floc場は、遷移を強制しない。
 
 である。
 
-![floc-cosmo0](../assets/floc-cosmo0.png)
-
 ---
 
 ## 第6章｜R₀⇄Z₀変換としての構文化
@@ -669,8 +671,6 @@ Z₀が行うのは、**すでに起きている運動を、構文として固�
 > 運動を平均化した結果**
 
 にすぎない。
-
-![Cosmic-Physics](../assets/Cosmic-Physics.png)
 
 ---
 
