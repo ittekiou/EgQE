@@ -19,6 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-7｜眠る物質、眠らない宇宙 ── 多角形遷移モデルによる物質論序説｜Sleeping Matter, Wakeful Universe — A Prolegomenon to Material Ontology via Polygonal Transition Models](https://camp-us.net/articles/HEG-7_Sleeping-Matter_Wakeful-Universe.html)  
 [HEG-7｜物質は六角構造で眠る ──物質のエネルギー最小化仮説](https://camp-us.net/articles/HEG-7_Matter-sleeps-in-hexa-Kryos.html)  
 [HEG-7｜観測構文破綻論 ──ブラックホールとダークマターは何を示しているのか：円球幻想の終焉とfloc宇宙論による再定位｜Residuals of a Broken Observational Syntax: What Black Holes and Dark Matter Actually Indicate](https://camp-us.net/articles/HEG-7_Observational-Syntax-Breakdown.html)  
+[HEG-6｜R₀の発見──脳と記号と余白の宇宙【図版】｜The Discovery of R₀ — Mind, Syntax, and the Universe of Margin](https://camp-us.net/articles/HEG-6_Discovery_of_R0.html)  
 ###### 2025/12/17  
 [HEG-7｜多角形遷移モデルによる floc 宇宙の構文化── R₀⇄Z₀変換で描く揺らぎ宇宙](https://camp-us.net/articles/HEG-7_floc-cosmology.html)  
 ###### 2025/12/16  
