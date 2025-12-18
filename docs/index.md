@@ -38,7 +38,7 @@ _── Welcome to the syntactic field of ZURE._
 
 ## 🔬 Echodemy Project
 
-[Echodemy Project Vol.1 floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
+[Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
