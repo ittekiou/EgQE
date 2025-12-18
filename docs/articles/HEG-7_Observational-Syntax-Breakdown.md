@@ -6,9 +6,10 @@ title_en: "Residuals of a Broken Observational Syntax: What Black Holes and Dark
 # 観測構文破綻論
 ## ── ブラックホールとダークマターは何を示しているのか
 ### 円球幻想の終焉と floc 宇宙論による再定位
-
+---
 ## *Residuals of a Broken Observational Syntax:*  
 ### *What Black Holes and Dark Matter Actually Indicate*
+---
 
 > **円にしようとしたとき、  
 > 宇宙は語るのをやめた。**
