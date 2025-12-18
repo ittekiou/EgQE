@@ -521,7 +521,7 @@ Kryos / penta-ratio / hepta-tropos は、floc宇宙の本体ではない。
 
 ---
 
-## 第5章
+# 第5章
 
 ## 五角形の起床、七角形の散歩
 
