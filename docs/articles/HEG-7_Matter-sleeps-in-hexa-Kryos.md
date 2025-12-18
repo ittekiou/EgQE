@@ -490,6 +490,8 @@ FEPは、もともと脳や生命を説明するために提案されたが、�
 この循環は円ではない。  
 **螺旋である。**
 
+![5-6-7_PolygonalTransitionCycle](../assets/5-6-7_PolygonalTransitionCycle.png)
+
 ---
 
 # 第4章｜六角形という現実
