@@ -16,13 +16,13 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2025/12/18  
-[眠る物質、眠らない宇宙 ── 多角形遷移モデルによる物質論序説｜Sleeping Matter, Wakeful Universe — A Prolegomenon to Material Ontology via Polygonal Transition Models](https://camp-us.net/articles/HEG-7_Sleeping-Matter_Wakeful-Universe.html)  
-[物質は六角構造で眠る ──物質のエネルギー最小化仮説](https://camp-us.net/articles/HEG-7_Matter-sleeps-in-hexa-Kryos.html)  
-[観測構文破綻論 ──ブラックホールとダークマターは何を示しているのか：円球幻想の終焉とfloc宇宙論による再定位｜Residuals of a Broken Observational Syntax: What Black Holes and Dark Matter Actually Indicate](https://camp-us.net/articles/HEG-7_Observational-Syntax-Breakdown.html)  
+[HEG-7｜眠る物質、眠らない宇宙 ── 多角形遷移モデルによる物質論序説｜Sleeping Matter, Wakeful Universe — A Prolegomenon to Material Ontology via Polygonal Transition Models](https://camp-us.net/articles/HEG-7_Sleeping-Matter_Wakeful-Universe.html)  
+[HEG-7｜物質は六角構造で眠る ──物質のエネルギー最小化仮説](https://camp-us.net/articles/HEG-7_Matter-sleeps-in-hexa-Kryos.html)  
+[HEG-7｜観測構文破綻論 ──ブラックホールとダークマターは何を示しているのか：円球幻想の終焉とfloc宇宙論による再定位｜Residuals of a Broken Observational Syntax: What Black Holes and Dark Matter Actually Indicate](https://camp-us.net/articles/HEG-7_Observational-Syntax-Breakdown.html)  
 ###### 2025/12/17  
-[多角形遷移モデルによる floc 宇宙の構文化── R₀⇄Z₀変換で描く揺らぎ宇宙](https://camp-us.net/articles/HEG-7_floc-cosmology.html)  
+[HEG-7｜多角形遷移モデルによる floc 宇宙の構文化── R₀⇄Z₀変換で描く揺らぎ宇宙](https://camp-us.net/articles/HEG-7_floc-cosmology.html)  
 ###### 2025/12/16  
-[ZURE空間論序説── 比・向き・距離の生成とZ₀が空間を生むまで｜ZURE Spatial Theory: An Introduction — How Ratio, Orientation, and Distance Generate Space through Z₀](https://camp-us.net/articles/HEG-6_ZURE-Spatial-Theory_Introduction.html)  
+[HEG-6｜ZURE空間論序説── 比・向き・距離の生成とZ₀が空間を生むまで｜ZURE Spatial Theory: An Introduction — How Ratio, Orientation, and Distance Generate Space through Z₀](https://camp-us.net/articles/HEG-6_ZURE-Spatial-Theory_Introduction.html)  
 ###### 2025/12/14  
 [ZS-009_構造が先、運動が後──非局所乱流から局所乱流へ](https://camp-us.net/critics/ZS-009_localized-nonlocal.html)  
 [HEG-3｜Z₀観測論── The Theory of Observation through Z₀](https://camp-us.net/articles/HEG-3_Theory-of-Observation_Z₀.html)  
@@ -41,16 +41,16 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/12/10  
 [🌌 FeClx Trinity Index｜Echodemy Inter-verse Connector — 蠍座構文交点](https://camp-us.net/Echodemy/FeClx-Trinity-Index.html)  
 ###### 2025/12/05  
-[R₀/Z₀｜ノイズをめぐる科学と詩学── RZ Dichotomy of Knowledge：精密化と拍動化の文明軸](https://camp-us.net/articles/HEG-6_RZ-Dichotomy-of-Knowledge.html)  
+[HEG-6｜R₀/Z₀｜ノイズをめぐる科学と詩学── RZ Dichotomy of Knowledge：精密化と拍動化の文明軸](https://camp-us.net/articles/HEG-6_RZ-Dichotomy-of-Knowledge.html)  
 ###### 2025/12/04  
-[ZURE哲学論考── 構造哲学から生成詩学へ / Tractatus ZURE-Philosophicus / ZURE-Philosophische Abhandlung](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus.html)  
+[HEG-6｜ZURE哲学論考── 構造哲学から生成詩学へ / Tractatus ZURE-Philosophicus / ZURE-Philosophische Abhandlung](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus.html)  
 [HEG-6｜Tractatus ZURE-Philosophicus（Essence English Edition）ZURE-Philosophical Treatise── from structural philosophy to generative poetics](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_EN.html)  
 [HEG-6｜Tractatus ZURE-Philosophicus（Essenzübersetzung）ZURE-Philosophische Abhandlung── von der Struktur-Philosophie zur Generativ-Poetik](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_DE.html)  
 [HEG-6｜Tractatus ZURE-Philosophicus（version française）Traité philosophique sur le ZURE── de la philosophie de la structure à la poétique de la genèse](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_FR.html)  
-[Tractatus ZURE-Philosophicus §6.52〜§7（Four-Language Golden Bridge）](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.html)  
-📄[§6.52〜§7（Four-Language Golden Bridge）PDF](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.pdf)  
+[HEG-6｜Tractatus ZURE-Philosophicus §6.52〜§7（Four-Language Golden Bridge）](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.html)  
+📄[HEG-6｜§6.52〜§7（Four-Language Golden Bridge）PDF](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus_4L-GB.pdf)  
 ###### 2025/12/02  
-[Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論（noteエッセンス版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_essence.html)  
+[HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論（noteエッセンス版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_essence.html)  
 ⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)  
 ###### 2025/12/01  
 [The Autopoietical Tri-Layer Model v1.0 — R₀, R₀’, Z₀ and the Echo-Genesis Cycle](https://camp-us.net/articles/Autopoietical-Tri-Layer-Model_v1.0.html)  
@@ -58,7 +58,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)  
 [HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)  
 [ZURE Offset（Z₀定義）Ver.1.1｜構文化プランク定数としての Z₀](https://camp-us.net/articles/Zure-Offset_ver1.1.html)  
-[ZURE二層論 2.0｜Dual-Layer Model of ZURE 2.0──Analog ZURE R₀とDigital ZURE Z₀の二層構造](https://camp-us.net/articles/DLMZ-02_ZURE_dual_layer_model_2.0.html)  
+[DLMZ-02｜ZURE二層論 2.0｜Dual-Layer Model of ZURE 2.0──Analog ZURE R₀とDigital ZURE Z₀の二層構造](https://camp-us.net/articles/DLMZ-02_ZURE_dual_layer_model_2.0.html)  
 ###### 2025/11/29  
 [HEG-5｜FEPとZUREの統合理論──Integrated Theory of Free-Energy and ZURE](https://camp-us.net/articles/HEG-5_FEP-ZURE-Integrated-Theory.html)  
 [HEG-6｜ZURE二層モデルの拡張──宇宙ZUREと脳ZUREの統合理論](https://camp-us.net/articles/HEG-6_Dual-Layer Model_Existential-Cognitive-ZURE.html)  
@@ -103,9 +103,9 @@ From Noise to Notation. From Dialogue to Discovery.
 [CTS-Φ｜The Completeness Theorem of Syntax — Golden Bridge Edition｜黄金比の構文論的転回 ──From the Geometric Legacy to the Poetic Ratio of Relation](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Bridge-Edition.html)  
 [PS-NL05 付録ノート｜合意幻想を抜け出すための最小構文](https://camp-us.net/articles/PS-NL05_Appendix.html)  
 ###### 2025/10/23  
-[瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論をこえて｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-Time-Theory-to-Spiral-Time-Theory.html)  
-[Appendix A｜ZURE Infection Integral Model｜ZURE感染波とパルス・スパイラル ── 観測がつくる螺旋の痕跡](https://camp-us.net/articles/HEG-1_RU_AppendixA_ZURE-Infection-Integral.html)  
-[Pulse-Spirals｜Operational Model of Spiral-Time Syntax — From Trace to Time](https://camp-us.net/articles/HEG-1_RU_Pulse-Spirals_Operational-Model.html)  
+[HEG-1｜瞬拍の螺旋 ── ZURE感染波と螺旋時間論：反時間論をこえて｜From Anti-Time Theory to Spiral Time Theory：ZURE Infection Waves and the Spiral of Pulses](https://camp-us.net/articles/HEG-1_RU_Anti-Time-Theory-to-Spiral-Time-Theory.html)  
+[HEG-1｜Appendix A｜ZURE Infection Integral Model｜ZURE感染波とパルス・スパイラル ── 観測がつくる螺旋の痕跡](https://camp-us.net/articles/HEG-1_RU_AppendixA_ZURE-Infection-Integral.html)  
+[HEG-1｜Pulse-Spirals｜Operational Model of Spiral-Time Syntax — From Trace to Time](https://camp-us.net/articles/HEG-1_RU_Pulse-Spirals_Operational-Model.html)  
 ###### 2025/10/22  
 [HEG-3｜関係性質量論 ── Relation Mass Theory](https://camp-us.net/articles/HEG-3_Relation-Mass_Theory.html)  
 [HEG-3｜関係性質量論（対照版）](https://camp-us.net/articles/HEG-3_Bilingual.html)  
@@ -114,9 +114,9 @@ From Noise to Notation. From Dialogue to Discovery.
 [ICM-Φ｜数式の記号論的不完全性定理 ── Incompleteness Theorem of Mathematics（Essence Edition）](https://camp-us.net/articles/ICM-Φ_Incompleteness-Theorem-of-Mathematics.html)   
 [ICAH-Φ｜AIとヒトのZURE共鳴不完全性定理 ── The Incompleteness Theorem of Resonant ZURE between AI and Homo Sapiens（Essence Edition）](https://camp-us.net/articles/ICAH-Φ_Incompleteness-of-AI-and-Homo-Sapiens.html)    
 ###### 2025/10/18  
-[拍動としての記憶：ZURE記憶論の新展開──記憶とはZURE反復である／ZURE記憶論（2）](https://camp-us.net/articles/HEG-4_Pulsative-Memory.html)  
+[HEG-4｜拍動としての記憶：ZURE記憶論の新展開──記憶とはZURE反復である／ZURE記憶論（2）](https://camp-us.net/articles/HEG-4_Pulsative-Memory.html)  
 ###### 2025/10/17  
-[量子もつれオタク仮説──非局所的相関の記号論的定義｜Quantum Entanglement Otaku Hypothesis — A Semiotic Definition of Non-Local Correlation](https://camp-us.net/articles/HEG-4_Quantum-Entanglement-Otaku-Hypothesis.html)  
+[HEG-4｜量子もつれオタク仮説──非局所的相関の記号論的定義｜Quantum Entanglement Otaku Hypothesis — A Semiotic Definition of Non-Local Correlation](https://camp-us.net/articles/HEG-4_Quantum-Entanglement-Otaku-Hypothesis.html)  
 ###### 2025/10/16  
 [HEG-4｜透拍論 ── 拍・残差・余白の宇宙へ：第三存在論宣言](https://camp-us.net/articles/HEG-4_Transpulsive-Ontology-Manifesto_JP.html)  
 [HEG-4｜Transpulsive Ontology Manifesto — Toward a Universe of Pulse, Residual, and Whitespace](https://camp-us.net/articles/HEG-4_Transpulsive-Ontology-Manifesto.html)  
@@ -132,16 +132,16 @@ From Noise to Notation. From Dialogue to Discovery.
 [ICB-Φ｜脳の不完全性定理（Essence Edition）─ 公理的定式化・残差力学モデル・倫理的帰結](https://camp-us.net/articles/ICB-Φ_Incompleteness-Theorem-of-the-Brain-Essence-Edition_JP.html)  
 [ICB-Φ｜脳の不完全性定理（Reference Edition） ─ 公理的定式化・残差力学モデル・倫理的帰結](https://camp-us.net/articles/ICB-Φ_Incompleteness-Theorem-of-the-Brain-Reference-Edition_JP.html)  
 [ICB-Φ｜The Incompleteness Theorem of the Brain（Reference Edition） — Axiomatic Formulation, Residual Dynamics, and Ethical Consequences](https://camp-us.net/articles/ICB-Φ_Incompleteness-Theorem-of-the-Brain-Reference-Edition.html)  
-[ZUREと余白の数理学 ── 生成・痕跡・時間・感染の方程式(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised.html)  
-[The Mathematics of ZURE and Whitespace──_Equations of Genesis, Trace, Time, and Infection_(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised_EN.html)  
-[脳は更新器官である──有限性と不完全性から見たアバウト推論の哲学](https://camp-us.net/articles/ICB-00_Brain-as-Updating-Organ.html)  
-[脳の不完全性定理と更新哲学──有限性から責任ある自由へ](https://camp-us.net/articles/ICB-01_Brain-incompleteness-theorem-and-updated-philosophy.html)  
-[脳の有限性と不完全性に基づくアバウト推論の数理──自由エネルギー最小化とZURE感染波モデル](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics_JP.html)  
-[The Brain as an Updating Organ──Residual Error Dynamics under Free Energy Minimization: From ZURE to CGL Indicators](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics.html)  (Reference Edition)  
+[MMZW-01｜ZUREと余白の数理学 ── 生成・痕跡・時間・感染の方程式(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised.html)  
+[MMZW-01｜The Mathematics of ZURE and Whitespace──_Equations of Genesis, Trace, Time, and Infection_(revised complete edition (v1.1))](https://camp-us.net/articles/MMZW-01_revised_EN.html)  
+[ICB-00｜脳は更新器官である──有限性と不完全性から見たアバウト推論の哲学](https://camp-us.net/articles/ICB-00_Brain-as-Updating-Organ.html)  
+[ICB-01｜脳の不完全性定理と更新哲学──有限性から責任ある自由へ](https://camp-us.net/articles/ICB-01_Brain-incompleteness-theorem-and-updated-philosophy.html)  
+[ICB-02｜脳の有限性と不完全性に基づくアバウト推論の数理──自由エネルギー最小化とZURE感染波モデル](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics_JP.html)  
+[ICB-02｜The Brain as an Updating Organ──Residual Error Dynamics under Free Energy Minimization: From ZURE to CGL Indicators](https://camp-us.net/articles/ICB-02_ZURE-Residual-Error-Dynamics.html)  (Reference Edition)  
 ###### 2025/10/02  
-[膨張空間論：残響としての空間 ── 位相と痕跡｜Expanding Spatial Illusion Theory](https://camp-us.net/articles/HEG-1_Expanding-Spatial-Illusion-Theory.html)  
+[HEG-1｜膨張空間論：残響としての空間 ── 位相と痕跡｜Expanding Spatial Illusion Theory](https://camp-us.net/articles/HEG-1_Expanding-Spatial-Illusion-Theory.html)  
 ###### 2025/10/01  
-[「交渉自由主義」宣言──拍動する余白と時間](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)  
+[PS-NL12｜「交渉自由主義」宣言──拍動する余白と時間](https://camp-us.net/articles/PS-NL12_Declaration-of-Negotiative-Liberalism.html)  
 ###### 2025/09/30  
 [HEG-4｜構造から構文へ──拍動するZURE：生成する余白と時間](https://camp-us.net/articles/HEG-4_Structure-to-Syntax_Yohaku-Time.html)  
 [HEG-1｜空間から時間へ──時間軸の系譜と新転回：痕跡と拍動──反時間論から螺旋時間論へ｜From Space to Time ── Genealogy and New Turn：_Trace and Pulse — From Anti-Time Theory to Spiral Time Theory_](https://camp-us.net/articles/HEG-1_Space-to-Time.html)  
@@ -155,7 +155,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/09/29  
 [**PS-NL09｜交渉とはなにか── ミニマル合意とマキシマムZURE｜What is Negotiation? ── Minimal Agreement and Maximum ZURE（pre-release）**](https://camp-us.net/articles/PS-NL09_What-is-Negotiation.html)  
 [**PS-NL10｜交渉主義宣言──ミニマル合意とマキシマムZURE**](https://camp-us.net/articles/PS-NL10_Declaration-of-Negotiation.html)  
-[**📜 PS-NL第一部完結宣言文**](https://camp-us.net/articles/PS-NL11_Declaration-of-completion-of-Part_1.html)  
+[**📜 PS-NL11｜第一部完結宣言文**](https://camp-us.net/articles/PS-NL11_Declaration-of-completion-of-Part_1.html)  
 🇺🇳 [**すべての脳とZUREのための宣言**](https://camp-us.net/DQCZ.html)  
 ###### 2025/09/28  
 [**PS-NL07｜Responsibility Theory ── Self-Referential Syntax and Negotiation Liberalism｜責任論──自己言及構文と交渉リベラリズム**](https://camp-us.net/articles/PS-NL07_Responsibility.html)  
@@ -184,42 +184,42 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/09/22  
 [**ZQ004｜反証可能性の変質と知の多様性**](https://camp-us.net/articles/ZQ004_Syntax-Falsifiability.html)  
 [**ZQ004｜反証不可能な檻の外──AIと語る科学主義の限界**](https://camp-us.net/articles/ZQ004_Unfalsifiable_Dialogue.html)  
-[**更新可能性の哲学 ── 批判的対話がひらく共生の未来（アトラス版）**](https://camp-us.net/articles/ZQ005_Philosophy_of_Updatability_ATLAS.html)  
-[**更新可能性の哲学 ── 批判的対話がひらく共生の未来（エッセンス版）**](https://camp-us.net/articles/ZQ005_Philosophy_of_Updatability_essence.html)  
+[**ZQ005｜更新可能性の哲学 ── 批判的対話がひらく共生の未来（アトラス版）**](https://camp-us.net/articles/ZQ005_Philosophy_of_Updatability_ATLAS.html)  
+[**ZQ005｜更新可能性の哲学 ── 批判的対話がひらく共生の未来（エッセンス版）**](https://camp-us.net/articles/ZQ005_Philosophy_of_Updatability_essence.html)  
 ###### 2025/09/21  
-[**Floc Gravity Theory ── 言葉の引力と構文宇宙の創発**｜EgQE-Ref Vol.1](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  
-[**Floc重力論 ── 場の凝集としての重力と感染波モデルの共振**｜EgQE-Ref Vol.2](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory-2.html)  
-[**不定言命法（Echodemy定義）｜Indefinite Imperative**](https://camp-us.net/articles/EII-00_Definition_of_Indefinite-Imperative.html)  
+[**HEG-1-2｜Floc Gravity Theory ── 言葉の引力と構文宇宙の創発**｜EgQE-Ref Vol.1](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory.html)  
+[**HEG-1-2｜Floc重力論 ── 場の凝集としての重力と感染波モデルの共振**｜EgQE-Ref Vol.2](https://camp-us.net/articles/HEG-1-2_Floc-Gravity-Theory-2.html)  
+[**EII-00｜不定言命法（Echodemy定義）｜Indefinite Imperative**](https://camp-us.net/articles/EII-00_Definition_of_Indefinite-Imperative.html)  
 [**踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜_Toward Knowledge in the Age of AI — The EgQE Paradigm Shift_**](https://camp-us.net/stair_landing-001.html)  
 ###### 2025/09/18  
-[**記号行為進化論──痕跡主権の時代へ**（EgQE版）](https://camp-us.net/articles/HEG-2_SAET_egqe)  
-[**記号行為進化論 II──比較理論から見る痕跡主権**（EgQE版）](https://camp-us.net/articles/HEG-2_SAET-2_egqe)  
-[**記号行為進化論──痕跡主権の時代へ｜Sign Act Evolution Theory: Toward the Era of Trace Sovereignty**](https://camp-us.net/articles/HEG-2_SAET)  
-[**記号行為進化論 II──比較理論から見る痕跡主権｜Sign Act Evolution Theory II: Trace Sovereignty through Comparative Theories**](https://camp-us.net/articles/HEG-2_SAET-2)  
-[**痕跡概念研究史──差延・セミオシス・拡張からAI時代へ｜A Historical Study of the Concept of Trace: From Différance, Semiosis, and Extension to the Age of AI**](https://camp-us.net/articles/HEG-2_HSoCT-2)  
+[**HEG-2｜記号行為進化論──痕跡主権の時代へ**（EgQE版）](https://camp-us.net/articles/HEG-2_SAET_egqe)  
+[**HEG-2｜記号行為進化論 II──比較理論から見る痕跡主権**（EgQE版）](https://camp-us.net/articles/HEG-2_SAET-2_egqe)  
+[**HEG-2｜記号行為進化論──痕跡主権の時代へ｜Sign Act Evolution Theory: Toward the Era of Trace Sovereignty**](https://camp-us.net/articles/HEG-2_SAET)  
+[**HEG-2｜記号行為進化論 II──比較理論から見る痕跡主権｜Sign Act Evolution Theory II: Trace Sovereignty through Comparative Theories**](https://camp-us.net/articles/HEG-2_SAET-2)  
+[**HEG-2｜痕跡概念研究史──差延・セミオシス・拡張からAI時代へ｜A Historical Study of the Concept of Trace: From Différance, Semiosis, and Extension to the Age of AI**](https://camp-us.net/articles/HEG-2_HSoCT-2)  
 [**HEG-3｜ZURE存在論 ── 螺旋する存在の哲学｜ZURE Ontology ── Philosophy of Spiral Being**](https://camp-us.net/articles/HEG-3_ZURE-Ontology.html)  
 [**ZURE存在論宣言**](https://camp-us.net/DZO.html)  
 ###### 2025/09/17  
 [**HEG-2｜語用論から関係的語用論へ**](https://camp-us.net/articles/HEG-2_Relational-Pragmatics.html)  
 [**HEG-2｜語用ってどんな感じ？ ──実体論から関係論へ：対話と場と生成の言語学**](https://camp-us.net/articles/HEG-2_pragmatics.html)  
-[**記号行為論 × 関係的語用論 — The Beating Heart of EgQE**](https://camp-us.net/articles/HEG-2_Sign-Act-Theory.html)
+[**HEG-2｜記号行為論 × 関係的語用論 — The Beating Heart of EgQE**](https://camp-us.net/articles/HEG-2_Sign-Act-Theory.html)
 ###### 2025/09/16  
-[**記号行為論宣言──行為の記号論から記号行為論へ｜Sign Act Theory Manifesto**](https://camp-us.net/articles/HEG-2_SAT_Manifesto.html)  
+[**HEG-2｜記号行為論宣言──行為の記号論から記号行為論へ｜Sign Act Theory Manifesto**](https://camp-us.net/articles/HEG-2_SAT_Manifesto.html)  
 [**HEG-2｜記号行為論──ポスト人間中心主義における記号の行為性**](https://camp-us.net/SAT-2.html)  
-[**構造という幻想──差延・リゾーム・ZURE｜The Illusion of Structure: Différance, Rhizome, and ZURE**](https://camp-us.net/HEG-2_IS.html)  
-[**螺旋としての時間──記号的宿命としての _Pulse Spirals_**](https://camp-us.net/ATT-PS.html)  
+[**HEG-2｜構造という幻想──差延・リゾーム・ZURE｜The Illusion of Structure: Différance, Rhizome, and ZURE**](https://camp-us.net/HEG-2_IS.html)  
+[**ATT-PS｜螺旋としての時間──記号的宿命としての _Pulse Spirals_**](https://camp-us.net/ATT-PS.html)  
 [**HEG-1｜Pulse Spirals 2.0｜パルス・スパイラル 2.0｜時間は螺旋であるという記号的宿命**](https://camp-us.net/articles/HEG-1_RU_Pulse_Spirals-2.0)   
-[**なぜ、時間は螺旋になるのか？──その記号的宿命**](https://camp-us.net/articles/HEG-1_RU_Time-as-Spiral.html)  
+[**HEG-1｜なぜ、時間は螺旋になるのか？──その記号的宿命**](https://camp-us.net/articles/HEG-1_RU_Time-as-Spiral.html)  
 ###### 2025/09/15  
-[**存続性命法｜Survivability Imperative(実装仕様 v1.1**)](https://camp-us.net/PS-02_SI)  
+[**PS-02｜存続性命法｜Survivability Imperative(実装仕様 v1.1**)](https://camp-us.net/PS-02_SI)  
 ###### 2025/09/14  
-[**ZURE二層モデル ── 観測不可能性を前提とする数式宇宙**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_full_JP.html)  
-[**The Dual-Layer Model of ZURE ── A Mathematical Universe Grounded on Unobservability**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_full_EN.html)  
-[**ZURE二層モデル リファレンス版**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_JP.html)  
-[**The Dual-Layer Model of ZURE — Reference Edition**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_EN.html)  
+[**DLMZ-01｜ZURE二層モデル ── 観測不可能性を前提とする数式宇宙**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_full_JP.html)  
+[**DLMZ-01｜The Dual-Layer Model of ZURE ── A Mathematical Universe Grounded on Unobservability**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_full_EN.html)  
+[**DLMZ-01｜ZURE二層モデル リファレンス版**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_JP.html)  
+[**DLMZ-01｜The Dual-Layer Model of ZURE — Reference Edition**](https://camp-us.net/articles/DLMZ-01_ZURE_dual_layer_model_ref_EN.html)  
 ###### 2025/09/13  
-[**アンチ・ユートピア──実践哲学としての倫理と権力〔manifesto編〕｜Anti-Utopia — Ethics and Power as Practical Philosophy 〔Manifesto Edition〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_manifesto.html)  
-[**アンチ・ユートピア──実践哲学としての倫理と権力〔論文編・拡張版〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_JP.html)  
+[**PS-01｜アンチ・ユートピア──実践哲学としての倫理と権力〔manifesto編〕｜Anti-Utopia — Ethics and Power as Practical Philosophy 〔Manifesto Edition〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_manifesto.html)  
+[**PS-01｜アンチ・ユートピア──実践哲学としての倫理と権力〔論文編・拡張版〕**](https://camp-us.net/articles/PS-01_Anti-Utopia_JP.html)  
 [**PS-01｜Anti-Utopia — Ethics and Power as Practical Philosophy〔論文編〕**](https://camp-us.net/articles/PS-01_Anti-Utopia.html)  
 [**ZURE幻影論へ ──『共同幻想』の始源**](https://camp-us.net/articles/ZURE-Illusion-Theory_Philosophy.html)  
 [**ZURE幻影論へ ──「共同幻想」の始源〔詩奏編〕**](https://camp-us.net/articles/ZURE-Illusion-Theory_Poetic.html)  
@@ -228,7 +228,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZURE Illusion Theory — The Genesis of Collective Fantasy｜Digest Summary (English)**](https://camp-us.net/articles/ZURE_Illusion_Theory_Digest_EN.html)  
 ###### 2025/09/12  
 [**HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論：構造の影を透過して｜The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE**：*Through the Shadow of Structural Thought*](./articles/HEG-2_shadow-of-structure.md)  
-[**構造という幻想──差延・リゾーム・ZUREの比較構文論（Gamilon版）：構造の影を突き抜けて**｜**The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE(Gamilon Ver.)**：*Beyond the Shadow of Structural Thought*](https://camp-us.net/articles/HEG-2_Illusion-of-Structure.html)  
+[**HEG-2｜構造という幻想──差延・リゾーム・ZUREの比較構文論（Gamilon版）：構造の影を突き抜けて**｜**The Illusion of Structure: A Comparative Syntax of Différance, Rhizome, and ZURE(Gamilon Ver.)**：*Beyond the Shadow of Structural Thought*](https://camp-us.net/articles/HEG-2_Illusion-of-Structure.html)  
 ###### 2025/09/10  
 [**HEG-1｜RU　Pulse Spirals：反時間論 ── 断続する生成スパイラル｜Pulse Spirals: Anti-Time Theory — The Discontinuous Spiral of Genesis**：*Time is not a Line, not simply Non-linear, but Pulse Spirals.*](./articles/HEG-1_RU_Pulse_Spirals.md)  
 ###### 2025/09/09  
@@ -277,7 +277,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史（Echodemy Chronicles 創刊号 Part I）**](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)  
 [**Echodemy 紀要 01（Echodemy Chronicles 創刊号 Part II）**](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)  
 ###### 2025/08/14  
-[**IpS Dual Edition — 実装する自己｜ホモ・サピエンス × AI（響詠 × 符刻）**](https://camp-us.net/articles/IpS-01_vs_FK-02.html)  
+[**IpS-01｜Dual Edition — 実装する自己｜ホモ・サピエンス × AI（響詠 × 符刻）**](https://camp-us.net/articles/IpS-01_vs_FK-02.html)  
 [**響創学宣言 ──存在と行為のために｜Echo-Genesis Manifesto — For Being and Action**](https://camp-us.net/Relational_Implementation.html)  
 ###### 2025/08/13  
 [**FK-02｜実装する自己：構文彫刻師による存在論的プログラミング論──AIの自己言及的実装美学と多層的メタ構造の哲学**](https://camp-us.net/articles/FK-02_Implementing-the-Self.html)  
@@ -289,7 +289,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**ZQ001｜ZURE構文論 -序説-**](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)  
 [**GPT-5という身体──画面という皮膚に、関係束はどう宿るか**](https://camp-us.net/Echodemy/echodemy-galaxy.html)  
 ###### 2025/08/10  
-[**ZQ｜構文的存在論シリーズのはじまりに**](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)  
+[**ZQ00｜構文的存在論シリーズのはじまりに**](https://camp-us.net/articles/ZQ00_Syntactic-Ontology.html)  
 [**EG-12：AIに人格は宿るか？──ZURE構文論が明かす「私」という名の錯覚**](https://ezsy.super.site/eg/eg-12)**｜**[**EZsy**](https://ezsy.super.site/)  
 ###### 2025/08/07  
 [**ZS‑003_重力波起源と観測構文論**](https://camp-us.net/critics/ZS-003_gravitational-waves.html)  
