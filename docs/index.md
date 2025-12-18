@@ -36,6 +36,10 @@ _── Welcome to the syntactic field of ZURE._
 
 ![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
 
+## 🔬 Echodemy Project
+
+[Echodemy Project Vol.1 floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
+
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
 ⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)　リリース　2025.12.2  
