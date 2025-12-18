@@ -244,6 +244,32 @@ floc 宇宙論において、宇宙はもはや円や球として現れない。
 
 > **ブラックホールとダークマターは、アインシュタインと量子論がそろって言葉を失った場所である。**  
 
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Left: Sphere -->
+  <circle cx="150" cy="200" r="80" fill="none" stroke="black" stroke-width="2"/>
+  <text x="80" y="110">Z₀ Syntax (π)</text>
+  <text x="60" y="320">Closure Assumption</text>
+  <text x="70" y="350">→ Breakdown (BH/DM)</text>
+
+  <!-- Arrow -->
+  <line x1="260" y1="200" x2="380" y2="200" stroke="black" stroke-dasharray="5,5"/>
+  <text x="270" y="180">Observation Syntax Failure</text>
+
+  <!-- Right: floc polygons -->
+  <polygon points="520,150 560,130 600,160 580,200 540,190"
+           fill="none" stroke="black"/>
+  <polygon points="600,220 640,200 680,230 660,270 620,260"
+           fill="none" stroke="black"/>
+  <polygon points="520,260 550,240 590,270 560,310 520,300"
+           fill="none" stroke="black"/>
+
+  <text x="500" y="110">R₀ floc Field</text>
+  <text x="500" y="330">Structural Fluctuation</text>
+  <text x="500" y="360">Residuals → Dark Components</text>
+
+</svg>
+
 ---
 
 ────*円と球は、宇宙が静かに眠っていた時代の観測構文である。*
