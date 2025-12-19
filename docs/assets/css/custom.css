@@ -57,6 +57,20 @@ table td:last-child {
   text-align: center;
 }
 
+/* Dark mode SVG visibility fix */
+@media (prefers-color-scheme: dark) {
+  svg {
+    stroke: #eaeaea !important;
+    fill: none !important;
+  }
+  svg * {
+    stroke: #eaeaea !important;
+  }
+  svg text {
+    fill: #eaeaea !important;
+  }
+}
+
 /* 本文セルは自然改行、日本語の途中切れを抑制 */
 .markdown-body table td{
   white-space: normal !important;
