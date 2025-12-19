@@ -666,7 +666,7 @@ floc場において、七角形は、非局所相関を引きずりながら局�
 この循環は円ではない。  
 **螺旋である。**  
 
-![5-6-7_PolygonalTransitionCycle](../assets/5-6-7_PolygonalTransitionCycle.png)
+![PolygonalTransitionCycle](../assets/5-6-7_PolygonalTransitionCycle.png)
 
 では、この運動がどのように**三角形・四角形という別の Kryos 相**と関係するのか、そして「安眠し損ねた物質」がどこへ行くのか。続けて、描いてみよう。
 
