@@ -15,6 +15,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2025/12/20  
+[HEG-7｜八角形で止まる宇宙、完全円で壊れる理論 ──floc宇宙論と観測構文破綻の比較存在論｜Where the Universe Stops at Octagons, and Theories Break at Perfect Circles — A Comparative Ontology of floc Cosmology and Observational Syntax Collapse](https://camp-us.net/articles/HEG-7_Universe-Stops-at-Octagons.html)  
+[PNG-01｜Polygonal Neon Genesis Studies: *A study of human regeneration through polygonal state transitions.* ｜多角回生学](https://camp-us.net/PNG.html)  
 ###### 2025/12/18  
 [HEG-7｜眠る物質、眠らない宇宙 ── 多角形遷移モデルによる物質論序説｜Sleeping Matter, Wakeful Universe — A Prolegomenon to Material Ontology via Polygonal Transition Models](https://camp-us.net/articles/HEG-7_Sleeping-Matter_Wakeful-Universe.html)  
 [HEG-7｜物質は六角構造で眠る ──物質のエネルギー最小化仮説](https://camp-us.net/articles/HEG-7_Matter-sleeps-in-hexa-Kryos.html)  
