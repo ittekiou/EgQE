@@ -135,9 +135,11 @@ subtitle: 多角回生学
 ### v1.0
 
 - 中核方程式  
-    $$  
-    S_{n+1} = S_n(\varphi+\Delta\varphi_n)  
-    $$
+
+$$  
+S_{n+1} = S_n(\varphi+\Delta\varphi_n)  
+$$
+
     
 - φ・Δφ・i の概念整理
     

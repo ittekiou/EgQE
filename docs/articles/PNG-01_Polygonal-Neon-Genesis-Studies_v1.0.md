@@ -478,7 +478,7 @@ subtitle: A study of human regeneration through polygonal state transitions.
 ## 中核方程式（最小）
 
 $$  
-\boxed{ ; S_{n+1} = S_n , (\varphi + \Delta\varphi_n) ; }  
+\boxed{  S_{n+1} = S_n , (\varphi + \Delta\varphi_n)  }  
 $$
 
 - $S_n$：n周期目の**内在化スケール**（関係の作用半径）
@@ -508,9 +508,9 @@ $$
 
 **符号の直観**
 
-- $C \uparrow$ → $|\Delta\varphi| \uparrow$
+- $C \uparrow$ → |$\Delta\varphi$| $\uparrow$
     
-- $R \uparrow$ → $|\Delta\varphi| \downarrow$
+- $R \uparrow$ → |$\Delta\varphi$| $\downarrow$
     
 - $W \uparrow$ → $\Im(\Delta\varphi)$ 成分が増える
     
@@ -535,14 +535,14 @@ $$
 
 ## 多角形との対応（写像表）
 
-| 状態      | 数理的特徴                                                |
-| ------- | ---------------------------------------------------- |
-| ▲ 三角形   | $\varphi+\Delta\varphi \ll \varphi$（自己比率低下）          |
-| ■ 四角形   | $\Delta\varphi \approx 0$（抑圧）                        |
-| ⬟ 五角形   | 小さな \| $\Delta\varphi$ \|  が持続（生成臨界）                 |
-| ⬢ 六角形   | $\Delta\varphi \to 0$（平滑化）                           |
-| ⬣ 七角形   | \| $\Delta\varphi$ \| $\uparrow$（探索）                 |
-| ⬣⬣ 七–八角 | \| $\Im(\Delta\varphi)$ \| $\gg$ \| $\Re$ \| )（虚数優勢） |
+| 状態      | 数理的特徴                                               |
+| ------- | --------------------------------------------------- |
+| ▲ 三角形   | $\varphi+\Delta\varphi \ll \varphi$（自己比率低下）         |
+| ■ 四角形   | $\Delta\varphi \approx 0$（抑圧）                       |
+| ⬟ 五角形   | 小さな \| $\Delta\varphi$ \|  が持続（生成臨界）                |
+| ⬢ 六角形   | $\Delta\varphi \to 0$（平滑化）                          |
+| ⬣ 七角形   | \| $\Delta\varphi$ \| $\uparrow$（探索）                |
+| ⬣⬣ 七–八角 | \| $\Im(\Delta\varphi)$ \| $\gg$ \| $\Re$ \| （虚数優勢） |
 
 ---
 

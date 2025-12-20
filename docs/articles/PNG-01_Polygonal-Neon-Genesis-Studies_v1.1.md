@@ -64,7 +64,7 @@ subtitle: A study of human regeneration through polygonal state transitions.
 
 - 役割：問いの保持・最小生成
     
-- 数理：小さな $|\Delta\varphi|$ が持続
+- 数理：小さな |$\Delta\varphi$| が持続
     
 - 特徴：矛盾を解消しない
     
@@ -82,7 +82,7 @@ subtitle: A study of human regeneration through polygonal state transitions.
 
 - 役割：拡張・連想・越境
     
-- 数理：$|\Delta\varphi|\uparrow$
+- 数理：|$\Delta\varphi$|$\uparrow$
     
 - リスク：疲労・過剰
     
@@ -100,7 +100,7 @@ subtitle: A study of human regeneration through polygonal state transitions.
 
 - 役割：物語・象徴・虚構運動
     
-- 数理：$|\Im(\Delta\varphi)| \gg |\Re|$
+- 数理：|$\Im(\Delta\varphi)$| $\gg$ |$\Re$|
     
 - 原則：**居住不可**
     
@@ -648,7 +648,7 @@ YES が続けば、**固着**。
 ## 1) 中核方程式（保持）
 
 $$  
-\boxed{ ; S_{n+1} = S_n , (\varphi + \Delta\varphi_n) ; }  
+\boxed{  S_{n+1} = S_n , (\varphi + \Delta\varphi_n)  }  
 $$
 
 - $S_n$：内在化スケール（作用半径）
@@ -679,9 +679,9 @@ $$
 
 **直観（v1.1）**
 
-- $R\uparrow \Rightarrow |\Delta\varphi|\downarrow$
+- $R\uparrow \Rightarrow$ |$\Delta\varphi$|$\downarrow$
     
-- $W\uparrow \Rightarrow |\Im(\Delta\varphi)|\uparrow$
+- $W\uparrow \Rightarrow$ |$\Im(\Delta\varphi)$|$\uparrow$
     
 - $\tau\uparrow$（七〜八角）$\Rightarrow$ 固着リスク↑
     
@@ -695,7 +695,7 @@ $$
 破綻＝固着なので、固着を1つの変数にする。
 
 $$  
-\kappa_n = g(\tau_n,, |\Delta\varphi_n|,, \rho_n)  
+\kappa_n = g(\tau_n, |\Delta\varphi_n|, \rho_n)  
 $$
 
 - $\kappa_n$：固着度（stuckness）
@@ -788,9 +788,9 @@ $$
 
 - **六角形化**：$\rho\uparrow \Rightarrow \kappa\downarrow$
     
-- **円化**：$|\Im(\Delta\varphi)|\downarrow$
+- **円化**：|$\Im(\Delta\varphi)$|$\downarrow$
     
-- **五角形回帰**：小さな $|\Delta\varphi|$ を再生成（短い $\tau$）
+- **五角形回帰**：小さな |$\Delta\varphi$| を再生成（短い $\tau$）
     
 
 > 再生＝**κを下げ、rを回復する操作**。
