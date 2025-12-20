@@ -508,7 +508,7 @@ $$
 
 **符号の直観**
 
-- $C \uparrow$ → |$\Delta\varphi$| $\uparrow$
+- $C \uparrow$ → $|$$\Delta\varphi$$|$ $\uparrow$
     
 - $R \uparrow$ → |$\Delta\varphi$| $\downarrow$
     
