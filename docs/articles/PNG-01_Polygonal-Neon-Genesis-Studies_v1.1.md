@@ -100,7 +100,7 @@ subtitle: A study of human regeneration through polygonal state transitions.
 
 - 役割：物語・象徴・虚構運動
     
-- 数理：$\|\Im(\Delta\varphi)\|$ $\gg$ |$\Re$|
+- 数理：$\|\Im(\Delta\varphi)\|$ $\gg$ $\|\Re\|$
     
 - 原則：**居住不可**
     
