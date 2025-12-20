@@ -1,6 +1,7 @@
 ---
 title: Polygonal Neon Genesis Studies
 subtitle: 多角回生学
+layout: math
 ---
 # **Polygonal Neon Genesis Studies**
 
