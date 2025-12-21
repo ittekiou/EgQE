@@ -1,4 +1,4 @@
-# **EgQEの二本柱構造**
+# **EgQEの二本柱（二相構造と黄金橋）**
 
 ## **Phase-Relational Materialism（位相関係物質論）**
 ## **Phase-Implementation Syntax（位相実装構文論）**
