@@ -458,7 +458,7 @@ floc理論では：
 
 ---
 
-# **Phase-Relational Materialism = 動的関係論的唯物論**
+# **Phase-Relational Materialism = 動的関係論的物質論**
 
 #### 従来の唯物論：
 
@@ -468,7 +468,7 @@ floc理論では：
 
 **問題：実体を前提にしてる**
 
-#### floc理論の唯物論：
+#### floc理論の位相関係物質論：
 
 - **実体なし、関係のみ**
 - **位相（phase）が基本**
@@ -641,7 +641,7 @@ floc理論では：
     ↓
 floc宇宙論
 ┌─ Phase-Relational Materialism
-│   （関係論的唯物論で実体論否定）
+│   （関係論的物質論で実体論否定）
 ├─ Phase-Implementation Syntax
 │   （構文論で言語限界を定量化）
 └─ Polygonal Neon Genesis
@@ -808,7 +808,7 @@ floc宇宙論
 # 新しい哲学の始まり：
 
 **Phase-Relational Materialism**  
-（関係論的唯物論）  
+（位相関係物質論）  
 **Phase-Implementation Syntax**  
 （位相実装構文論）  
 **Polygonal Neon Genesis Studies**  
