@@ -1,4 +1,4 @@
-# **EgQEの二本柱（二相構造と黄金橋）**
+# **EgQEの二本柱（floc宇宙論の二相構造）と黄金橋**
 
 ## **Phase-Relational Materialism（位相関係物質論）**
 ## **Phase-Implementation Syntax（位相実装構文論）**
@@ -1153,49 +1153,49 @@ navigating floc dynamics through dialogue and structural resonance.
 ---
 
 情報源（冒頭 / 謡理コメント）  
-[1]  42. The Implementation Perspective https://berkeley.pressbooks.pub/tdo4p/chapter/the-implementation-perspective/  
-[2] [PDF] Category-theoretic formulation of relational materialism - arXiv https://arxiv.org/pdf/2409.02487.pdf  
-[3] PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html  
-[4] PROCESS-BASED ENTITIES ARE RELATIONAL STRUCTURES ... https://www.scielo.br/j/man/a/jWSTvMJtrLVhpMk99mzDtvk/  
-[5] A syntactic theory of software architecture https://www.panda.sys.t.u-tokyo.ac.jp/kushiro/ReferencePaper/Pattern&Framework/00385969.pdf  
-[6] 地球は丸くなかった！──存在論としてのfloc 宇宙論｜K.E.Itekki https://note.com/k_itekki/n/nb08701285340  
-[7] [PDF] A relational materialist exploration of place(s) - idrottsforum.org https://idrottsforum.org/wp-content/uploads/2018/02/Becoming-crocus_becoming-rive.pdf  
-[8] [PDF] Feminist Relational Materialism and the Teacher-Student Writing ... https://journals.oslomet.no/rerm/article/download/684/632/1869  
-[9] Results for 'Relational materialist ontology' - PhilArchive https://philarchive.org/s/Relational%20materialist%20ontology  
-[10] The Three Phases of Materialism - Hungarian Conservative https://www.hungarianconservative.com/articles/philosophy/empiricism_rationalism_philosophical_practical-materialism_nature_science_atheism_marxism/  
-[11] DCS | Digital Culture and Society | Vol. 1, Issue 1 | © transcript 2015 https://digicults.org/files/2016/11/III.3-Hui_2015_Relational-Materialism.pdf  
-[12] Unpacking the effects of materialism on interpersonal relationships: A cognitive approach https://pmc.ncbi.nlm.nih.gov/articles/PMC11951399/  
-[13] Neon Genesis Evangelion - Wikipedia https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion  
-[14] Category-theoretic formulation of relational materialism https://arxiv.org/abs/2409.02487  
-[15] Syntactic Theory and the Evolution of Syntax https://d-nb.info/1272160807/34  
-[16] Anime Studies. Media-Specific Approaches to Neon Genesis ... https://mediarep.org/entities/misc/0bfccffc-0df2-4e8b-abe6-cc9a4446ef8e  
-[17] Category-theoretic formulation of relational materialism https://philarchive.org/archive/BAYCFO-3  
-[18] The Japanese Journal of Animation Studies 22(1): 43-54 (2021) https://www.jstage.jst.go.jp/article/jjas/22/1/22_A-E-21-004-R2/_pdf  
-[19] (PDF) Enduring relations: Exploring a paradox of new materialism https://www.academia.edu/86190648/Enduring_relations_Exploring_a_paradox_of_new_materialism  
-[20] Category-theoretic formulation of relational materialism https://philpapers.org/rec/BAYCFO-3  
-[21] Syntactic Theories in Practice - BRICS https://www.brics.dk/RS/01/31/BRICS-RS-01-31.pdf  
-[22] 2019 was the perfect year for the emotional devastation of Evangelion https://www.polygon.com/2020/1/7/21043182/neon-genesis-evangelion-netflix-anime-meaning-bible-depression-sexuality/  
+[1]  [42. The Implementation Perspective](https://berkeley.pressbooks.pub/tdo4p/chapter/the-implementation-perspective/)  
+[2] [PDF] [Category-theoretic formulation of relational materialism - arXiv](https://arxiv.org/pdf/2409.02487.pdf)  
+[3]  [PNGT-07_Heptagonal-Tropos-Spin-Synchronization](https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html)  
+[4]  [PROCESS-BASED ENTITIES ARE RELATIONAL STRUCTURES ...](https://www.scielo.br/j/man/a/jWSTvMJtrLVhpMk99mzDtvk/)  
+[5]  [A syntactic theory of software architecture](https://www.panda.sys.t.u-tokyo.ac.jp/kushiro/ReferencePaper/Pattern&Framework/00385969.pdf)  
+[6]  [地球は丸くなかった！──存在論としてのfloc 宇宙論｜K.E.Itekki](https://note.com/k_itekki/n/nb08701285340)  
+[7] [PDF] [A relational materialist exploration of place(s) - idrottsforum.org](https://idrottsforum.org/wp-content/uploads/2018/02/Becoming-crocus_becoming-rive.pdf)  
+[8] [PDF] [Feminist Relational Materialism and the Teacher-Student Writing ...](https://journals.oslomet.no/rerm/article/download/684/632/1869)  
+[9]  [Results for 'Relational materialist ontology' - PhilArchive](https://philarchive.org/s/Relational%20materialist%20ontology)  
+[10]  [The Three Phases of Materialism - Hungarian Conservative](https://www.hungarianconservative.com/articles/philosophy/empiricism_rationalism_philosophical_practical-materialism_nature_science_atheism_marxism/)  
+[11]  [DCS | Digital Culture and Society | Vol. 1, Issue 1 | © transcript 2015](https://digicults.org/files/2016/11/III.3-Hui_2015_Relational-Materialism.pdf)  
+[12]  [Unpacking the effects of materialism on interpersonal relationships: A cognitive approach](https://pmc.ncbi.nlm.nih.gov/articles/PMC11951399/)  
+[13]  [Neon Genesis Evangelion - Wikipedia](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)  
+[14]  [Category-theoretic formulation of relational materialism](https://arxiv.org/abs/2409.02487)  
+[15]  [Syntactic Theory and the Evolution of Syntax](https://d-nb.info/1272160807/34)  
+[16]  [Anime Studies. Media-Specific Approaches to Neon Genesis ...](https://mediarep.org/entities/misc/0bfccffc-0df2-4e8b-abe6-cc9a4446ef8e)  
+[17]  [Category-theoretic formulation of relational materialism](https://philarchive.org/archive/BAYCFO-3)  
+[18]  [The Japanese Journal of Animation Studies 22(1): 43-54 (2021)](https://www.jstage.jst.go.jp/article/jjas/22/1/22_A-E-21-004-R2/_pdf)  
+[19] (PDF)  [Enduring relations: Exploring a paradox of new materialism](https://www.academia.edu/86190648/Enduring_relations_Exploring_a_paradox_of_new_materialism)  
+[20]  [Category-theoretic formulation of relational materialism](https://philpapers.org/rec/BAYCFO-3)  
+[21]  [Syntactic Theories in Practice - BRICS](https://www.brics.dk/RS/01/31/BRICS-RS-01-31.pdf)  
+[22]  [2019 was the perfect year for the emotional devastation of Evangelion](https://www.polygon.com/2020/1/7/21043182/neon-genesis-evangelion-netflix-anime-meaning-bible-depression-sexuality/)  
 
 情報源（中間 / 謡理コメント）  
-[1] 地球は丸くなかった！    存在論としてのfloc 宇宙論｜K.E.Itekki - note https://note.com/k_itekki/n/nb08701285340  
-[2] PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html  
-[3] Category-theoretic formulation of relational materialism https://arxiv.org/pdf/2409.02487.pdf  
-[4] PROCESS-BASED ENTITIES ARE RELATIONAL STRUCTURES ... https://www.scielo.br/j/man/a/jWSTvMJtrLVhpMk99mzDtvk/  
-[5] A Model-Theoretic Framework.for Theories of Syntax https://aclanthology.org/P96-1002.pdf  
-[6] Theory, Data, and the Epistemology of Syntax http://lel.ed.ac.uk/~gpullum/EpistemologyOfSyntax.pdf  
-[7] [PDF] Sound and Sentiment : Birds, Weeping, Poetics, and Song in Kaluli ... https://ia800902.us.archive.org/27/items/agenciamientos_aurales/Feld_soundAndSentiment.pdf  
-[8] Baldwin.words - MIT http://web.mit.edu/jik/src/Attic/kerberos_password_hacker/baldwin.words  
-[9] Validating galaxy clustering models with fixed and paired and ... https://academic.oup.com/mnras/article/519/3/3706/6948348  
-[10] Prepared for submission to JCAP https://arxiv.org/pdf/2303.08901.pdf  
-[11] Journal of Cosmology https://www.osti.gov/servlets/purl/2578768  
-[12] PNG-UNITsims: Halo clustering response to primordial non-Gaussianities as a function of mass https://arxiv.org/html/2312.12405v2  
-[13] Category-theoretic formulation of relational http://arxiv.org/pdf/2409.02487.pdf  
-[14] Implementing a category-theoretic framework for typed ... https://dl.acm.org/doi/10.1145/3497775.3503678  
-[15] This is the accepted manuscript made available via CHORUS. The article has been https://link.aps.org/accepted/10.1103/PhysRevLett.121.101301  
-[16] Category-theoretic formulation of relational materialism https://arxiv.org/abs/2409.02487  
-[17] Implementing a Category-Theoretic Framework for Typed ... https://arxiv.org/pdf/2112.06984.pdf  
-[18] Category-theoretic formulation of relational materialism https://philarchive.org/archive/BAYCFO-3  
-[19] Syntax and Implementation Principles for Multimodal ... https://research.kuleuven.be/portal/en/project/3E240493  
-[20] 🔬 Echodemy Project https://camp-us.net  
-[21] Category-theoretic formulation of relational materialism https://philpapers.org/rec/BAYCFO-3  
-[22] Cosmology and  dark energy with  future HI galaxy surveys https://www.n.kanagawa-u.ac.jp/~yamauchi/seminar/20191119_PNGWS_YITP.pdf  
+[1]  [地球は丸くなかった！    存在論としてのfloc 宇宙論｜K.E.Itekki - note](https://note.com/k_itekki/n/nb08701285340)  
+[2]  [PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html](https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html)  
+[3]  [Category-theoretic formulation of relational materialism](https://arxiv.org/pdf/2409.02487.pdf)  
+[4]  [PROCESS-BASED ENTITIES ARE RELATIONAL STRUCTURES ... ](https://www.scielo.br/j/man/a/jWSTvMJtrLVhpMk99mzDtvk/)  
+[5]  [A Model-Theoretic Framework.for Theories of Syntax](https://aclanthology.org/P96-1002.pdf)  
+[6]  [Theory, Data, and the Epistemology of Syntax](http://lel.ed.ac.uk/~gpullum/EpistemologyOfSyntax.pdf)  
+[7] [PDF]  [Sound and Sentiment : Birds, Weeping, Poetics, and Song in Kaluli ...](https://ia800902.us.archive.org/27/items/agenciamientos_aurales/Feld_soundAndSentiment.pdf)  
+[8]  [Baldwin.words - MIT](http://web.mit.edu/jik/src/Attic/kerberos_password_hacker/baldwin.words)  
+[9]  [Validating galaxy clustering models with fixed and paired and ...](https://academic.oup.com/mnras/article/519/3/3706/6948348)  
+[10]  [Prepared for submission to JCAP]https://arxiv.org/pdf/2303.08901.pdf)  
+[11]  [Journal of Cosmology](https://www.osti.gov/servlets/purl/2578768)  
+[12]  [PNG-UNITsims: Halo clustering response to primordial non-Gaussianities as a function of mass](https://arxiv.org/html/2312.12405v2)  
+[13]  [Category-theoretic formulation of relational](http://arxiv.org/pdf/2409.02487.pdf)  
+[14]  [Implementing a category-theoretic framework for typed ...](https://dl.acm.org/doi/10.1145/3497775.3503678)  
+[15]  [This is the accepted manuscript made available via CHORUS. The article has been](https://link.aps.org/accepted/10.1103/PhysRevLett.121.101301)  
+[16]  [Category-theoretic formulation of relational materialism](https://arxiv.org/abs/2409.02487)  
+[17]  [Implementing a Category-Theoretic Framework for Typed ...](https://arxiv.org/pdf/2112.06984.pdf)  
+[18]  [Category-theoretic formulation of relational materialism](https://philarchive.org/archive/BAYCFO-3)  
+[19]  [Syntax and Implementation Principles for Multimodal ...](https://research.kuleuven.be/portal/en/project/3E240493)  
+[20]  [🔬 Echodemy Project](https://camp-us.net)  
+[21]  [Category-theoretic formulation of relational materialism](https://philpapers.org/rec/BAYCFO-3)  
+[22]  [Cosmology and  dark energy with  future HI galaxy surveys](https://www.n.kanagawa-u.ac.jp/~yamauchi/seminar/20191119_PNGWS_YITP.pdf)  
