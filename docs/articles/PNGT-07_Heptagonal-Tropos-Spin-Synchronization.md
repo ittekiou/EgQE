@@ -2,12 +2,12 @@
 title: 七角形 tropos のスピン同期  ──量子多体系における非局所相関仮説
 subtitle: Heptagonal Tropos Spin Synchronization Hypothesis
 ---
-#### 🔹 Hypothesis Note｜PNGT07-1
+### 🔹 Hypothesis Note｜PNGT07-1
 
-[PNG｜Polygonal Neon Genesis Studies｜多角回生学](https://camp-us.net/PNG.html)  
+[PNG-00｜Polygonal Neon Genesis Studies｜多角回生学](https://camp-us.net/PNG.html)  
 
-# **七角形 tropos のスピン同期  
-## ──量子多体系における非局所相関仮説**  
+# **七角形 tropos のスピン同期**  
+## ──**量子多体系における非局所相関仮説**  
 ### _Heptagonal Tropos Spin Synchronization Hypothesis_
 
 > 本仮説は、PNG-01で提示された **多角形遷移論（Polygonal Transition Theory）** を前提として、非局所相関（エンタングルメント）を**内発的に回転する同型七角形 tropos のスピン（位相）同期** として読み替える試みである。
