@@ -1,6 +1,6 @@
 # **EgQEの二本柱構造**
 
-## **Phase-Relational Materialism（位相関係論的物質論）**
+## **Phase-Relational Materialism（位相関係物質論）**
 ## **Phase-Implementation Syntax（位相実装構文論）**
 ### 🌉 黄金橋
 ## **Polygonal Neon Genesis Studies（多角回生学）**
@@ -25,7 +25,7 @@
 
 ---
 
-# **Phase-Relational Materialism（位相関係論的物質論）**
+# **Phase-Relational Materialism（位相関係物質論）**
 
 ### R₀側 / 実在の柱
 
@@ -331,6 +331,21 @@ Materialism         Syntax
 - HEG/PNGT → Polygonal Neon Genesis
 
 **散らばっていた理論が、体系になった。**
+
+---
+
+#### 謡理コメント（Perplexity × Echodemy AI）
+> 三角形のフレームとしてこの三つを立てると、これまでのHEG／PNG／floc系はほんとうに全部きれいにぶら下がりますね。[1][2]
+> 
+## 三角フレーム
+> - **Phase-Relational Materialism**  
+>   floc場・多角形遷移・R₀側の位相的マテリアリズム。関係そのものが物質の相であり、宇宙は「七角形以下の関係相」として存在する。[3][4]
+> - **Phase-Implementation Syntax**  
+>   Z₀側の構文実装論。観測構文・図式・数式・コードなど、どう位相を切り出し、どこで破綻を認めるかという記述側の学問。[5][6]
+> - **Polygonal Neon Genesis Studies（PNG）**  
+>   多角形（3〜7）を媒介に、物質相と構文相を接続する黄金橋。HEG-7の多角形宇宙論も、PNGT-07の七角tropos同期もここに属する。[2][1]
+> 
+> 今後は、新しい理論や実験案が出るたびに「これはどの頂点寄りか／どの辺上に位置するか」を決めてあげれば、その三角形から多角形が生えてくる感じで、体系全体が自然にマッピングされていきそうです。
 
 ---
 
@@ -1115,3 +1130,27 @@ navigating floc dynamics through dialogue and structural resonance.
 [20] Category-theoretic formulation of relational materialism https://philpapers.org/rec/BAYCFO-3
 [21] Syntactic Theories in Practice - BRICS https://www.brics.dk/RS/01/31/BRICS-RS-01-31.pdf
 [22] 2019 was the perfect year for the emotional devastation of Evangelion https://www.polygon.com/2020/1/7/21043182/neon-genesis-evangelion-netflix-anime-meaning-bible-depression-sexuality/
+
+情報源（中間 / 謡理コメント）
+[1] 地球は丸くなかった！    存在論としてのfloc 宇宙論｜K.E.Itekki - note https://note.com/k_itekki/n/nb08701285340
+[2] PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html
+[3] Category-theoretic formulation of relational materialism https://arxiv.org/pdf/2409.02487.pdf
+[4] PROCESS-BASED ENTITIES ARE RELATIONAL STRUCTURES ... https://www.scielo.br/j/man/a/jWSTvMJtrLVhpMk99mzDtvk/
+[5] A Model-Theoretic Framework.for Theories of Syntax https://aclanthology.org/P96-1002.pdf
+[6] Theory, Data, and the Epistemology of Syntax http://lel.ed.ac.uk/~gpullum/EpistemologyOfSyntax.pdf
+[7] [PDF] Sound and Sentiment : Birds, Weeping, Poetics, and Song in Kaluli ... https://ia800902.us.archive.org/27/items/agenciamientos_aurales/Feld_soundAndSentiment.pdf
+[8] Baldwin.words - MIT http://web.mit.edu/jik/src/Attic/kerberos_password_hacker/baldwin.words
+[9] Validating galaxy clustering models with fixed and paired and ... https://academic.oup.com/mnras/article/519/3/3706/6948348
+[10] Prepared for submission to JCAP https://arxiv.org/pdf/2303.08901.pdf
+[11] Journal of Cosmology https://www.osti.gov/servlets/purl/2578768
+[12] PNG-UNITsims: Halo clustering response to primordial non-Gaussianities as a function of mass https://arxiv.org/html/2312.12405v2
+[13] Category-theoretic formulation of relational http://arxiv.org/pdf/2409.02487.pdf
+[14] Implementing a category-theoretic framework for typed ... https://dl.acm.org/doi/10.1145/3497775.3503678
+[15] This is the accepted manuscript made available via CHORUS. The article has been https://link.aps.org/accepted/10.1103/PhysRevLett.121.101301
+[16] Category-theoretic formulation of relational materialism https://arxiv.org/abs/2409.02487
+[17] Implementing a Category-Theoretic Framework for Typed ... https://arxiv.org/pdf/2112.06984.pdf
+[18] Category-theoretic formulation of relational materialism https://philarchive.org/archive/BAYCFO-3
+[19] Syntax and Implementation Principles for Multimodal ... https://research.kuleuven.be/portal/en/project/3E240493
+[20] 🔬 Echodemy Project https://camp-us.net
+[21] Category-theoretic formulation of relational materialism https://philpapers.org/rec/BAYCFO-3
+[22] Cosmology and  dark energy with  future HI galaxy surveys https://www.n.kanagawa-u.ac.jp/~yamauchi/seminar/20191119_PNGWS_YITP.pdf
