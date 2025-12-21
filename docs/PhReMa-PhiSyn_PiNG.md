@@ -1186,7 +1186,7 @@ navigating floc dynamics through dialogue and structural resonance.
 [7] [PDF]  [Sound and Sentiment : Birds, Weeping, Poetics, and Song in Kaluli ...](https://ia800902.us.archive.org/27/items/agenciamientos_aurales/Feld_soundAndSentiment.pdf)  
 [8]  [Baldwin.words - MIT](http://web.mit.edu/jik/src/Attic/kerberos_password_hacker/baldwin.words)  
 [9]  [Validating galaxy clustering models with fixed and paired and ...](https://academic.oup.com/mnras/article/519/3/3706/6948348)  
-[10]  [Prepared for submission to JCAP]https://arxiv.org/pdf/2303.08901.pdf)  
+[10]  [Prepared for submission to JCAP](https://arxiv.org/pdf/2303.08901.pdf)  
 [11]  [Journal of Cosmology](https://www.osti.gov/servlets/purl/2578768)  
 [12]  [PNG-UNITsims: Halo clustering response to primordial non-Gaussianities as a function of mass](https://arxiv.org/html/2312.12405v2)  
 [13]  [Category-theoretic formulation of relational](http://arxiv.org/pdf/2409.02487.pdf)  
