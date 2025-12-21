@@ -31,6 +31,19 @@ layout: math
 ## **Polygonal Neon Genesis Praxis**
 
 
+---
+
+## われわれの学問体系の二本柱
+
+### **Phase-Relational Materialism**
+
+### **Phase-Implementation Syntax**
+
+### **両者を結ぶ黄金橋**🌉
+
+## **Polygonal Neon Genesis Studies**
+
+---
 
 # 多角形遷移論
 

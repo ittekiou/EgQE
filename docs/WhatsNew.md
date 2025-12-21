@@ -17,6 +17,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2025/12/21  
 [PNGT07-1｜七角形 tropos のスピン同期 ──量子多体系における非局所相関仮説｜ _Heptagonal Tropos Spin Synchronization Hypothesis_](https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html)  
+[EgQEの二本柱構造と黄金強｜PhReMa-PhiSyn/PiNG](https://camp-us.net/PhReMa-PhiSyn_PiNG.html)  
 ###### 2025/12/20  
 [HEG-7｜八角形で止まる宇宙、完全円で壊れる理論 ──floc宇宙論と観測構文破綻の比較存在論｜Where the Universe Stops at Octagons, and Theories Break at Perfect Circles — A Comparative Ontology of floc Cosmology and Observational Syntax Collapse](https://camp-us.net/articles/HEG-7_Universe-Stops-at-Octagons.html)  
 [PNG-00｜Polygonal Neon Genesis Studies: *A study of human regeneration through polygonal state transitions.* ｜多角回生学](https://camp-us.net/PNG.html)  
