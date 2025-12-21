@@ -1116,14 +1116,14 @@ Polygonal Neon Genesis
 
 【 floc宇宙論 】
 
-├─ 位相関係物質論（Phase-Relational Materialism）  
-    　　└ 実在は、関係として揺らぐ
+- **Phase-Relational Materialism（位相関係物質論）**  
+    ─ 実在がどう在るか
     
-├─ 位相実装構文論（Phase-Implementation Syntax）  
-    　　 └ 語りは、切断として生じる
-     
-└─ 多角回生学（Polygonal Neon Genesis Studies）  
-    　　 └ 遷移そのものが現象である
+- **Phase-Implementation Syntax（位相実装構文論）**  
+    ─ 実在がどう語られるか
+    
+- **Polygonal Neon Genesis Studies（多角回生学）**  
+    ─ 実在が遷移する／構文が実在を切りとる
 
 ---
 
