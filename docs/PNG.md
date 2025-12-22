@@ -46,6 +46,7 @@ layout: math
 #### PNGT06｜六角形の系
 
 #### PNGT07｜七角形の系
+[PNGT07-00｜七角形の系（Heptagonal Regeneration）](https://camp-us.net/articles/PNGT07-00_Heptagonal-Regeneration.html)  
 [PNGT07-1｜七角形 tropos のスピン同期 ──量子多体系における非局所相関仮説｜ _Heptagonal Tropos Spin Synchronization Hypothesis_](https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html)  
 #### PNGT08｜八角形の系
 
@@ -54,6 +55,10 @@ layout: math
 ## **Polygonal Neon Genesis Praxis**
 （...coming soon）
 
+
+## **Polygonal Neon Genesis Poem**
+#### 回生する多角詠
+[多角詠-01｜Polygonal Neon Genesis Poem01](https://camp-us.net/articles/PNGT_Polygonal-poem01.html)  
 
 **──思いつきが理論になる前に生き延びる場所**。
 
