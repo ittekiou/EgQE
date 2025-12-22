@@ -3,7 +3,7 @@ title: Polygonal Neon Genesis Studies
 subtitle: 多角回生学
 layout: math
 ---
-##### 💠 多角形ごとに  ZUREの履歴を保存する  思考の遷移図────
+##### 💠 多角形ごとに ZUREの履歴を保存する 思考の遷移図────
 # **Polygonal Neon Genesis Studies**
 
 ### _A study of human regeneration through polygonal state transitions._
@@ -30,7 +30,8 @@ layout: math
 ---
 
 > 多角形論が、多角的に遷移可能な形で並置される。  
-> その遷移そのものを保存・回生するのが PNGT シリーズである。
+> その遷移そのものを保存・回生するのが PNGT シリーズである。  
+
 ## 🔹 Hypothesis Note｜PNGT
 **多角形遷移モデルは“多角的に”発火する。だから多角形ごとに棚を切る。**  
 #### PNGT03｜三角形の系
