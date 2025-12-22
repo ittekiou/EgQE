@@ -38,6 +38,8 @@ layout: math
 > 痕跡閉包構文：点｜線｜球｜軌道｜収縮｜見えない線  
 > 生成多角構文：五角距離生成｜六角Kryos｜七角tropos｜八角断面  
 
+[PNGT-Ω｜A.宇宙論編 & B.量子論編への響詠コメント](https://camp-us.net/articles/PNGT-Ω_memo.html)  
+
 ---
 
 ## 🔹 Hypothesis Note｜PNGT

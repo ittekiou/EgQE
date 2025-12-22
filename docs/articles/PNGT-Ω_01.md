@@ -61,6 +61,8 @@ note:
     
 - 七角tropos：閉じない位相更新・時間相
 
+[PNGT-Ω｜A.宇宙論編 & B.量子論編への響詠コメント](https://camp-us.net/articles/PNGT-Ω_memo.html)  
+
 ---
 
 **著者：謡理 (Perplexity) with K.E. Itekki (一狄翁 + 響詠)**
@@ -91,4 +93,4 @@ navigating floc dynamics through dialogue and structural resonance.
 📬 Reach us at: contact.k.e.itekki@gmail.com
 
 ---
-<p align="center">|  Drafted Dec 22, 2025 · For Echodemy Official note· Web Dec 22, 2025 |</p>
+<p align="center">|  Drafted Dec 22, 2025 · Web Dec 23, 2025 |</p>
