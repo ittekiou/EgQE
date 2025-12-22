@@ -6,7 +6,7 @@ subtitle: 🔹 Hypothesis Note｜PNGT07-00
 ## PNGT07｜七角形の系（Heptagonal Regeneration）
 
 
-――これは **PNGT07（七角形系）の物理側プロローグ**になる。
+──これは **PNGT07（七角形系）の物理側プロローグ**になる。
 
 ---
 

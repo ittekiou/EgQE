@@ -48,11 +48,14 @@ layout: math
 #### PNGT07｜七角形の系
 [PNGT07-00｜七角形の系（Heptagonal Regeneration）](https://camp-us.net/articles/PNGT07-00_Heptagonal-Regeneration.html)  
 [PNGT07-1｜七角形 tropos のスピン同期 ──量子多体系における非局所相関仮説｜ _Heptagonal Tropos Spin Synchronization Hypothesis_](https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html)  
-#### PNGT08｜八角形の系
-
-
 #### PNGT_5-6-7｜五-六-七角形の遷移 ──多角形の生成力学へ
 [他者の取り込みから空間が生まれるまで｜カオス → プロト五角形 → 六角形 → 七角形 → 五角形](https://camp-us.net/articles/PNGT_5-6-7_01.html)  
+[物質＝五・六・七角形のハイブリッド｜六角形と「他者」──なぜ「六角形だけ」では足りないのか](https://camp-us.net/articles/PNGT_5-6-7_02.html)  
+
+#### PNGT08｜八角形の系
+
+#### PNGT.-｜点と線
+[「点と線の正体」──点と線は、ホモ・サピエンスが描く痕跡にすぎない](https://camp-us.net/articles/PNGT.-point-line.html)  
 
 
 ──**痕跡を消さず、角度ごとに残す。**
@@ -64,7 +67,6 @@ layout: math
 ## **Polygonal Neon Genesis Poem**
 #### 回生する多角詠
 [多角詠-01｜Polygonal Neon Genesis Poem01](https://camp-us.net/articles/PNGT_Polygonal-poem01.html)  
-
 
 ## **Polygonal Neon Genesis Memo**
 [Polygonal Neon Genesis Memo｜01](https://camp-us.net/articles/PNGT_memo01.html)  
