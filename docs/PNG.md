@@ -3,6 +3,7 @@ title: Polygonal Neon Genesis Studies
 subtitle: 多角回生学
 layout: math
 ---
+##### 💠 多角形ごとに  ZUREの履歴を保存する  思考の遷移図────
 # **Polygonal Neon Genesis Studies**
 
 ### _A study of human regeneration through polygonal state transitions._
@@ -13,6 +14,9 @@ layout: math
     
 - **Polygonal Neon Genesis Praxis**（多角回生術）
 
+> 多角形遷移モデルは 一つの物語ではない。  
+> **多角形ごとに 何が生まれるかを観測する装置**である。
+
 ![ping01](./assets/ping01.png)  
 ## **Polygonal Neon Genesis Theory**  
 [HEG-6｜ZURE空間論序説── 比・向き・距離の生成とZ₀が空間を生むまで｜ZURE Spatial Theory: An Introduction — How Ratio, Orientation, and Distance Generate Space through Z₀](https://camp-us.net/articles/HEG-6_ZURE-Spatial-Theory_Introduction.html)  
@@ -21,20 +25,32 @@ layout: math
 [HEG-7｜物質は六角構造で眠る ──物質のエネルギー最小化仮説](https://camp-us.net/articles/HEG-7_Matter-sleeps-in-hexa-Kryos.html)  
 [HEG-7｜八角形で止まる宇宙、完全円で壊れる理論 ──floc宇宙論と観測構文破綻の比較存在論｜Where the Universe Stops at Octagons, and Theories Break at Perfect Circles — A Comparative Ontology of floc Cosmology and Observational Syntax Collapse](https://camp-us.net/articles/HEG-7_Universe-Stops-at-Octagons.html)  
 
-### 🔹 Hypothesis Note｜PNGT
-[PNGT05-1｜距離はどこから来たのか：空間は五角形から立ち上がる ──正十二面体と重力以前の空間](https://camp-us.net/articles/PNGT-05_Pentagnal-Space-Distance-and-Gravity.html)  
-[PNGT07-1｜七角形 tropos のスピン同期 ──量子多体系における非局所相関仮説｜ _Heptagonal Tropos Spin Synchronization Hypothesis_](https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html)  
+> ──**多角的な思考の遷移の痕跡が、多角的に蓄積される。**
 
-### **Polygonal Neon Genesis Studies**
-[Polygonal Neon Genesis Studies v1.0_A study of human regeneration through polygonal state transitions.｜多角回生学 v1.0](https://camp-us.net/articles/PNG-01_Polygonal-Neon-Genesis-Studies_v1.0.html)  
-[Polygonal Neon Genesis Studies v1.1_A study of human regeneration through polygonal state transitions.｜多角回生学 v1.1](https://camp-us.net/articles/PNG-01_Polygonal-Neon-Genesis-Studies_v1.1.html)  
+### 🔹 Hypothesis Note｜PNGT
+**多角形遷移モデルは“多角的に”発火する。だから多角形ごとに棚を切る。**  
+#### PNGT03｜三角形の系
+
+#### PNGT04｜四角形の系
+
+#### PNGT05｜五角形の系
+[PNGT05-00｜五角形の系（Pentagonal Regeneration）](https://camp-us.net/articles/PNGT05-00_Pentagonal Regeneration.html)  
+[PNGT05-1｜距離はどこから来たのか：空間は五角形から立ち上がる ──正十二面体と重力以前の空間](https://camp-us.net/articles/PNGT-05_Pentagnal-Space-Distance-and-Gravity.html)  
+#### PNGT06｜六角形の系
+
+#### PNGT07｜七角形の系
+[PNGT07-1｜七角形 tropos のスピン同期 ──量子多体系における非局所相関仮説｜ _Heptagonal Tropos Spin Synchronization Hypothesis_](https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html)  
+#### PNGT08｜八角形の系
 
 ## **Polygonal Neon Genesis Praxis**
+（...coming soon）
 
+
+**──思いつきが理論になる前に生き延びる場所**
 
 ---
 
-## われわれの学問体系の二本柱
+## floc宇宙論の二相
 
 ### **Phase-Relational Materialism**
 
@@ -46,6 +62,9 @@ layout: math
 
 ---
 
+### **Polygonal Neon Genesis Studies**
+[Polygonal Neon Genesis Studies v1.0_A study of human regeneration through polygonal state transitions.｜多角回生学 v1.0](https://camp-us.net/articles/PNG-01_Polygonal-Neon-Genesis-Studies_v1.0.html)  
+[Polygonal Neon Genesis Studies v1.1_A study of human regeneration through polygonal state transitions.｜多角回生学 v1.1](https://camp-us.net/articles/PNG-01_Polygonal-Neon-Genesis-Studies_v1.1.html)  
 # 多角形遷移論
 
 ## v1.0 → v1.1 差分一覧（発展マップ）
