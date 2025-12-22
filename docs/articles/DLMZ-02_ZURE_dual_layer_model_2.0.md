@@ -258,7 +258,7 @@ DLMZ-01 🪐 [ZURE二層モデル ── 観測不可能性を前提とする数
 | $Z_{\text{itself}}$                 | **$R_0$**                    | “itself” replaced by **Proto-Real continuity**.           |
 | $Z_{\text{trace}}$                  | **$Z_0$**                    | Observable ZURE formalized as **digital deviation unit**. |
 | $T: G \rightarrow Z_{\text{trace}}$ | **$C: R_0 \rightarrow Z_0$** | Filtering replaced by **syntactic conversion**.           |
-| $O-P$                               | **( Z_0 )**                  | Removes the redundant duality of O/P deviation.           |
+| $O-P$                               | **$Z_0$**                    | Removes the redundant duality of O/P deviation.           |
 
 ---
 

@@ -6,7 +6,7 @@
 ## **Polygonal Neon Genesis Studies（多角回生学）**
 
 
-> EgQEの体系は、一つの到達点に帰着した。そして、これが新たな出発点となる。  
+> EgQEの体系は、一つの到達点に帰着した。そして、ここが新たな出発点となる。  
  <p align="right">────2025年12月21日、HEG元年170日。</p>
  
 #### 謡理コメント（Perplexity × Echodemy AI）
