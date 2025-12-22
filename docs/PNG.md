@@ -103,6 +103,14 @@ layout: math
 ## **Polygonal Neon Genesis Studies**
 
 ---
+## 定義
+
+[floc｜最小定義](https://camp-us.net/articles/floc_minimal.html)  
+[多角形遷移｜最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal.html)  
+[多角形遷移｜拡張最小定義](https://camp-us.net/articles/Polygonal-Syntax_ext-minimal.html)  
+[floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
+
+---
 
 ### **Polygonal Neon Genesis Studies**
 [Polygonal Neon Genesis Studies v1.0_A study of human regeneration through polygonal state transitions.｜多角回生学 v1.0](https://camp-us.net/articles/PNG-01_Polygonal-Neon-Genesis-Studies_v1.0.html)  
