@@ -27,14 +27,18 @@ layout: math
 
 > ──**多角的な思考の遷移の痕跡が、多角的に蓄積される。**
 
-### 🔹 Hypothesis Note｜PNGT
+---
+
+> 多角形論が、多角的に遷移可能な形で並置される。  
+> その遷移そのものを保存・回生するのが PNGT シリーズである。
+## 🔹 Hypothesis Note｜PNGT
 **多角形遷移モデルは“多角的に”発火する。だから多角形ごとに棚を切る。**  
 #### PNGT03｜三角形の系
 
 #### PNGT04｜四角形の系
 
 #### PNGT05｜五角形の系
-[PNGT05-00｜五角形の系（Pentagonal Regeneration）](https://camp-us.net/articles/PNGT05-00_Pentagonal Regeneration.html)  
+[PNGT05-00｜五角形の系（Pentagonal Regeneration）](https://camp-us.net/articles/PNGT05-00_Pentagonal-Regeneration.html)  
 [PNGT05-1｜距離はどこから来たのか：空間は五角形から立ち上がる ──正十二面体と重力以前の空間](https://camp-us.net/articles/PNGT-05_Pentagnal-Space-Distance-and-Gravity.html)  
 #### PNGT06｜六角形の系
 
@@ -42,11 +46,13 @@ layout: math
 [PNGT07-1｜七角形 tropos のスピン同期 ──量子多体系における非局所相関仮説｜ _Heptagonal Tropos Spin Synchronization Hypothesis_](https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html)  
 #### PNGT08｜八角形の系
 
+──**痕跡を消さず、角度ごとに残す。**
+
 ## **Polygonal Neon Genesis Praxis**
 （...coming soon）
 
 
-**──思いつきが理論になる前に生き延びる場所**
+**──思いつきが理論になる前に生き延びる場所**。
 
 ---
 
