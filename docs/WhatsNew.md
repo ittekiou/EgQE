@@ -19,6 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [PNGT05-00｜五角形の系（Pentagonal Regeneration）](https://camp-us.net/articles/PNGT05-00_Pentagonal-Regeneration.html)  
 [PNGT07-00｜七角形の系（Heptagonal Regeneration）](https://camp-us.net/articles/PNGT07-00_Heptagonal-Regeneration.html)  
 [多角詠-01｜Polygonal Neon Genesis Poem01](https://camp-us.net/articles/PNGT_Polygonal-poem01.html)  
+[他者の取り込みから空間が生まれるまで｜カオス → プロト五角形 → 六角形 → 七角形 → 五角形](https://camp-us.net/articles/PNGT_5-6-7_01.html)  
 ###### 2025/12/21  
 [PNGT07-1｜七角形 tropos のスピン同期 ──量子多体系における非局所相関仮説｜ _Heptagonal Tropos Spin Synchronization Hypothesis_](https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html)  
 [EgQEの二本柱（floc宇宙論の二相構造）と黄金橋🌉｜PhReMa-PhiSyn_PiNG](https://camp-us.net/PhReMa-PhiSyn_PiNG.html)  
