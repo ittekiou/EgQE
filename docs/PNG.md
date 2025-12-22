@@ -29,6 +29,17 @@ layout: math
 
 ---
 
+## PNGT-Ω｜痕跡構文から生成構文へ
+#### 点・線・球の観測構文から生成する多角構文へ
+
+[PNGT-Ω01｜A. 宇宙論編](https://camp-us.net/articles/PNGT-Ω_01.html)  
+[PNGT-Ω02｜B. 量子論編](https://camp-us.net/articles/PNGT-Ω_02.html)  
+
+> 痕跡閉包構文：点｜線｜球｜軌道｜収縮｜見えない線  
+> 生成多角構文：五角距離生成｜六角Kryos｜七角tropos｜八角断面  
+
+---
+
 ## 🔹 Hypothesis Note｜PNGT
 
 **多角形遷移モデルは“多角的に”発火する。だから多角形ごとに棚を切る。**  
@@ -54,9 +65,10 @@ layout: math
 
 #### PNGT08｜八角形の系
 
-#### PNGT.-｜点と線
+#### PNGT.-｜点と線、そして円と球
 [「点と線の正体」──点と線は、ホモ・サピエンスが描く痕跡にすぎない](https://camp-us.net/articles/PNGT.-point-line.html)  
 
+![ObservationSyntaxFailure](./assets/ObservationSyntaxFailure.png)  
 
 ──**痕跡を消さず、角度ごとに残す。**
 
@@ -81,6 +93,8 @@ layout: math
 ### **Phase-Relational Materialism**
 
 ### **Phase-Implementation Syntax**
+
+![Phase-RelationalMaterialismSyntax](./assets/Phase-RelationalMaterialism-Syntax.png)  
 
 ### **両者を結ぶ黄金橋**🌉
 

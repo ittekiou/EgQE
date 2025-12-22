@@ -14,6 +14,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+###### 2025/12/23  
+[PNGT-Ω01｜痕跡構文から生成構文へ──点・線・球の観測構文から生成する多角構文へ｜A. 宇宙論編](https://camp-us.net/articles/PNGT-Ω_01.html)  
+[PNGT-Ω02｜痕跡構文から生成構文へ──点・線・球の観測構文から生成する多角構文へ｜B. 量子論編](https://camp-us.net/articles/PNGT-Ω_02.html)  
 ###### 2025/12/22  
 [PNGT05-1｜距離はどこから来たのか：空間は五角形から立ち上がる ──正十二面体と重力以前の空間](https://camp-us.net/articles/PNGT-05_Pentagnal-Space-Distance-and-Gravity.html)  
 [PNGT05-00｜五角形の系（Pentagonal Regeneration）](https://camp-us.net/articles/PNGT05-00_Pentagonal-Regeneration.html)  
