@@ -15,6 +15,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 ###### 2025/12/24  
+[PNGT-FS01｜生成構文によるスピン1/2の最小定義（暫定）：_Spin-1/2 as a phase shift in generative syntax_](https://camp-us.net/articles/PNGT-FS01_Spin-1_2-phase-shift.html)  
 [floc｜最小定義](https://camp-us.net/articles/floc_minimal.html)  
 [多角形遷移｜最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal.html)  
 [多角形遷移｜拡張最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal-ext.html)  
