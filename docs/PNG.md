@@ -73,9 +73,8 @@ layout: math
 #### PNGT_5-6-7｜五-六-七角形の遷移 ──多角形の生成力学へ
 [他者の取り込みから空間が生まれるまで｜カオス → プロト五角形 → 六角形 → 七角形 → 五角形](https://camp-us.net/articles/PNGT_5-6-7_01.html)  
 [物質＝五・六・七角形のハイブリッド｜六角形と「他者」──なぜ「六角形だけ」では足りないのか](https://camp-us.net/articles/PNGT_5-6-7_02.html)  
-
 #### PNGT08｜八角形の系（観測化モード）
-
+[PNGT-08｜痕跡化の射程──八角形・六角形・四角形・三角形](https://camp-us.net/articles/PNGT-08_Range-of-Trace.html)  
 #### PNGT.-｜点と線、そして円と球
 [「点と線の正体」──点と線は、ホモ・サピエンスが描く痕跡にすぎない](https://camp-us.net/articles/PNGT.-point-line.html)  
 
@@ -110,6 +109,8 @@ layout: math
 ### **両者を結ぶ黄金橋**🌉
 
 ## **Polygonal Neon Genesis Studies**
+
+[floc宇宙へ──多角形遷移としての ZUREと関係性と位相点](https://camp-us.net/articles/floc-Cosmology-01_ZURE-Relation-floc-Syntax.html)  
 
 ---
 ## 定義

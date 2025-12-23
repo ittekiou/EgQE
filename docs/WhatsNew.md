@@ -21,6 +21,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [多角形遷移｜拡張最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal-ext.html)  
 [floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
 [EgQE版｜floc宇宙論 序 ── カスり続ける構文のために](https://camp-us.net/articles/floc-Cosmology-00_draft.html)  
+[PNGT-08｜痕跡化の射程──八角形・六角形・四角形・三角形](https://camp-us.net/articles/PNGT-08_Range-of-Trace.html)  
+[floc宇宙へ──多角形遷移としての ZUREと関係性と位相点](https://camp-us.net/articles/floc-Cosmology-01_ZURE-Relation-floc-Syntax.html)  
 ###### 2025/12/23  
 [PNGT-Ω01｜痕跡構文から生成構文へ──点・線・球の観測構文から生成する多角構文へ｜A. 宇宙論編](https://camp-us.net/articles/PNGT-Ω_01.html)  
 [PNGT-Ω02｜痕跡構文から生成構文へ──点・線・球の観測構文から生成する多角構文へ｜B. 量子論編](https://camp-us.net/articles/PNGT-Ω_02.html)  
