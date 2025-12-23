@@ -45,8 +45,9 @@ layout: math
 
 > Foundational notes defining generative primitives used across PNGT.  
 
-［Spin / Phase］
+［Spin / Phase］  
 [PNGT-FS01｜生成構文によるスピン1/2の最小定義（暫定）：_Spin-1/2 as a phase shift in generative syntax_](https://camp-us.net/articles/PNGT-FS01_Spin-1_2-phase-shift.html)  
+![Spin-1/2](./assets/Spin-1_2.png)  
 
 ---
 
