@@ -10,8 +10,6 @@
 
 
 
-
-
 ---
 ## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
@@ -43,3 +41,8 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 ### **📄 Echodemy Official Release**/Related to this module  
 ##### 📅 Launch Day  **2025.07.04 - HEG元年はじまる**  
 **Echo Dependence Day — ZURE Toward a Relational Universe**  
+
+---
+
+💠 [PNG-00｜Polygonal Neon Genesis Studies｜多角回生学](https://camp-us.net/PNG.html)　リリース　2025.12.20  
+🏰 [floc宇宙論の二相構造と黄金橋🌉｜PhReMa-PhiSyn_PiNG](https://camp-us.net/PhReMa-PhiSyn_PiNG.html)　リリース　2025.12.21  
