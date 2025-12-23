@@ -54,9 +54,16 @@ _── Welcome to the syntactic field of ZURE._
 ⭐️ [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)　リリース　2025.10.31  
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
+---
 ## 🔭 Overview  
 **[EgQE](/Overview.md) (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE. 
 ### EgQE の更新情報 👉 [🆕 What’s New](https://camp-us.net/WhatsNew.html)  
+
+---
+
+# floc Cosmology ：[floc宇宙論](http://camp-us.net/floc-Cosmology)  
+
+---
 
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)  
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  

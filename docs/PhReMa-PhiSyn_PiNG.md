@@ -1,5 +1,6 @@
 # **EgQEの二本柱（floc宇宙論の二相構造）と黄金橋**
 
+## floc宇宙論の二相
 ## **Phase-Relational Materialism（位相関係物質論）**
 ## **Phase-Implementation Syntax（位相実装構文論）**
 ### 🌉 黄金橋

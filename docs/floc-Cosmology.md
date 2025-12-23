@@ -13,6 +13,9 @@ title: floc宇宙論
  Z₀構文によって切り取った生成多角構文が Phase-Implementation Syntax である。  
 
 ![Phase-RelationalMaterialismSyntax](./assets/Phase-RelationalMaterialism-Syntax.png)  
+
+## floc宇宙論の二相
+[EgQEの二本柱（floc宇宙論の二相構造）と黄金橋🌉｜PhReMa-PhiSyn_PiNG](https://camp-us.net/PhReMa-PhiSyn_PiNG.html)  
 # **Phase-Relational Materialism**
 
 # **Phase-Implementation Syntax**
@@ -29,3 +32,5 @@ title: floc宇宙論
 [多角形遷移｜最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal.html)  
 [多角形遷移｜拡張最小定義](https://camp-us.net/articles/Polygonal-Syntax_ext-minimal.html)  
 [floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
+
+---
