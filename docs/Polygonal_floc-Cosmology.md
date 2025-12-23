@@ -30,7 +30,7 @@ title: floc宇宙論 × 多角形遷移構文｜統合最小定義
 
 [floc｜最小定義](https://camp-us.net/articles/floc_minimal.html)  
 [多角形遷移｜最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal.html)  
-[多角形遷移｜拡張最小定義](https://camp-us.net/articles/Polygonal-Syntax_ext-minimal.html)  
+[多角形遷移｜拡張最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal-ext.html)  
 
 ---
 
