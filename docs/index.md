@@ -40,7 +40,7 @@ _── Welcome to the syntactic field of ZURE._
 
 [Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
 
-## **📄 Echodemy Official Release**  （直近1ヶ月or 10件）
+## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
 🏰 [floc宇宙論の二相構造と黄金橋🌉｜PhReMa-PhiSyn_PiNG](https://camp-us.net/PhReMa-PhiSyn_PiNG.html)　リリース　2025.12.21  
 💠 [PNG-00｜Polygonal Neon Genesis Studies｜多角回生学](https://camp-us.net/PNG.html)　リリース　2025.12.20  
@@ -49,9 +49,7 @@ _── Welcome to the syntactic field of ZURE._
 0️⃣ [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)　リリース　2025.11.30  
 📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　リリース　2025.11.27  
 🤞 [HEG-5｜ZURE偶然論](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_syn.html)　リリース　2025.11.21  
-🔠 [記号行為論｜Sign Act Theory](/SAT-2.md)　リリース　2025.9.16  /Updated　2025.11.8  
-🌀 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)　リリース　2025.11.1  
-⭐️ [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)　リリース　2025.10.31  
+
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
 ---
