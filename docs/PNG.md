@@ -49,23 +49,23 @@ layout: math
 > 多角形論が、多角的に遷移可能な形で並置される。  
 > その遷移そのものを保存・回生するのが PNGT シリーズである。  
 
-#### PNGT03｜三角形の系
+#### PNGT03｜三角形の系（臨界）
 
-#### PNGT04｜四角形の系
+#### PNGT04｜四角形の系（枠）
 
-#### PNGT05｜五角形の系
+#### PNGT05｜五角形の系（空間化モード）
 [PNGT05-00｜五角形の系（Pentagonal Regeneration）](https://camp-us.net/articles/PNGT05-00_Pentagonal-Regeneration.html)  
 [PNGT05-1｜距離はどこから来たのか：空間は五角形から立ち上がる ──正十二面体と重力以前の空間](https://camp-us.net/articles/PNGT-05_Pentagnal-Space-Distance-and-Gravity.html)  
-#### PNGT06｜六角形の系
+#### PNGT06｜六角形の系（安定化モード）
 
-#### PNGT07｜七角形の系
+#### PNGT07｜七角形の系（時間化モード）
 [PNGT07-00｜七角形の系（Heptagonal Regeneration）](https://camp-us.net/articles/PNGT07-00_Heptagonal-Regeneration.html)  
 [PNGT07-1｜七角形 tropos のスピン同期 ──量子多体系における非局所相関仮説｜ _Heptagonal Tropos Spin Synchronization Hypothesis_](https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html)  
 #### PNGT_5-6-7｜五-六-七角形の遷移 ──多角形の生成力学へ
 [他者の取り込みから空間が生まれるまで｜カオス → プロト五角形 → 六角形 → 七角形 → 五角形](https://camp-us.net/articles/PNGT_5-6-7_01.html)  
 [物質＝五・六・七角形のハイブリッド｜六角形と「他者」──なぜ「六角形だけ」では足りないのか](https://camp-us.net/articles/PNGT_5-6-7_02.html)  
 
-#### PNGT08｜八角形の系
+#### PNGT08｜八角形の系（観測化モード）
 
 #### PNGT.-｜点と線、そして円と球
 [「点と線の正体」──点と線は、ホモ・サピエンスが描く痕跡にすぎない](https://camp-us.net/articles/PNGT.-point-line.html)  
