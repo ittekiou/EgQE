@@ -18,6 +18,16 @@ layout: math
 > **多角形ごとに 何が生まれるかを観測する装置**である。
 
 ![ping01](./assets/ping01.png)  
+
+---
+## 定義
+
+[多角形｜最小定義](https://camp-us.net/articles/Polygonal-Syntax.html)  
+[多角形遷移｜最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal.html)  
+[多角形遷移｜拡張最小定義](https://camp-us.net/articles/Polygonal-Syntax_ext-minimal.html)  
+[floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
+
+---
 ## **Polygonal Neon Genesis Theory**  
 [HEG-6｜ZURE空間論序説── 比・向き・距離の生成とZ₀が空間を生むまで｜ZURE Spatial Theory: An Introduction — How Ratio, Orientation, and Distance Generate Space through Z₀](https://camp-us.net/articles/HEG-6_ZURE-Spatial-Theory_Introduction.html)  
 [HEG-7｜多角形遷移モデルによる floc 宇宙の構文化── R₀⇄Z₀変換で描く揺らぎ宇宙](https://camp-us.net/articles/HEG-7_floc-cosmology.html)  
@@ -112,15 +122,6 @@ layout: math
 ## **Polygonal Neon Genesis Studies**
 
 [floc宇宙へ──多角形遷移としての ZUREと関係性と位相点](https://camp-us.net/articles/floc-Cosmology-01_ZURE-Relation-floc-Syntax.html)  
-
----
-## 定義
-
-[floc｜最小定義](https://camp-us.net/articles/floc_minimal.html)  
-[多角形｜最小定義](https://camp-us.net/articles/Polygonal-Syntax.html)  
-[多角形遷移｜最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal.html)  
-[多角形遷移｜拡張最小定義](https://camp-us.net/articles/Polygonal-Syntax_ext-minimal.html)  
-[floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
 
 ---
 
