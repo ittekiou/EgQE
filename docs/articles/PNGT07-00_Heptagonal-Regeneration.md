@@ -198,6 +198,10 @@ subtitle: 🔹 Hypothesis Note｜PNGT07-00
 
 ---
 
+[floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
+
+---
+
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  

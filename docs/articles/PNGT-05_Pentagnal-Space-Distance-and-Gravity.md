@@ -4,6 +4,9 @@ subtitle: 空間は五角形から立ち上がる── 正十二面体と重力
 layout: math
 ---
 ### 🔹 Hypothesis Note｜PNGT05-1
+
+[PNG-00｜Polygonal Neon Genesis Studies｜多角回生学](https://camp-us.net/PNG.html)  
+
 # **距離はどこから来たのか**
 
 ## 空間は五角形から立ち上がる

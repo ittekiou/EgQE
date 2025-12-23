@@ -29,8 +29,16 @@ title: floc宇宙論 × 多角形遷移構文｜統合最小定義
 ---
 
 [floc｜最小定義](https://camp-us.net/articles/floc_minimal.html)  
+[多角形｜最小定義](https://camp-us.net/articles/Polygonal-Syntax.html)  
 [多角形遷移｜最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal.html)  
 [多角形遷移｜拡張最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal-ext.html)  
+
+[floc宇宙へ──多角形遷移としての ZUREと関係性と位相点](https://camp-us.net/articles/floc-Cosmology-01_ZURE-Relation-floc-Syntax.html)  
+
+---
+
+floc Cosmology ：[floc宇宙論](http://camp-us.net/floc-Cosmology)  
+Polygonal Neon Genesis Studies ：[多角回生学](https://camp-us.net/PNG.html)  
 
 ---
 

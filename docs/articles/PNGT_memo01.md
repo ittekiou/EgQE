@@ -145,6 +145,8 @@ title: Polygonal Neon Genesis Memo｜01
 
 ---
 
+[floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
+
 ---
 
 © 2025 K.E. Itekki  

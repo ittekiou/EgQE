@@ -98,6 +98,7 @@ layout: math
 
 ---
 
+# floc Cosmology ：[floc宇宙論](http://camp-us.net/floc-Cosmology)  
 ## floc宇宙論の二相
 
 ### **Phase-Relational Materialism**
@@ -116,6 +117,7 @@ layout: math
 ## 定義
 
 [floc｜最小定義](https://camp-us.net/articles/floc_minimal.html)  
+[多角形｜最小定義](https://camp-us.net/articles/Polygonal-Syntax.html)  
 [多角形遷移｜最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal.html)  
 [多角形遷移｜拡張最小定義](https://camp-us.net/articles/Polygonal-Syntax_ext-minimal.html)  
 [floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  

@@ -43,7 +43,10 @@ floc は、
 
 ---
 
+[多角形｜最小定義](https://camp-us.net/articles/Polygonal-Syntax.html)  
 [floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
+
+[floc宇宙へ──多角形遷移としての ZUREと関係性と位相点](https://camp-us.net/articles/floc-Cosmology-01_ZURE-Relation-floc-Syntax.html)  
 
 ---
 

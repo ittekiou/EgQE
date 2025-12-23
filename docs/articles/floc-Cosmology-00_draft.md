@@ -318,6 +318,10 @@ floc宇宙論は、現実を「説明し尽くそう」としない。
 
 ---
 
+[floc宇宙へ──多角形遷移としての ZUREと関係性と位相点](https://camp-us.net/articles/floc-Cosmology-01_ZURE-Relation-floc-Syntax.html)  
+
+---
+
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  

@@ -715,6 +715,10 @@ FS01の「質量＝七→五への遅延量」を多体系に拡張すると：
 
 ---
 
+[floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
+
+---
+
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  

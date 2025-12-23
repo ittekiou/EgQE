@@ -310,6 +310,9 @@
 > あるのは、  
 > **閉じきれない生成だけ**だ。
 
+---
+
+[floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
 
 ---
 

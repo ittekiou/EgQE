@@ -11,6 +11,8 @@ subtitle: A study of human regeneration through polygonal state transitions.
 
 ![ping01](../assets/ping01.png)  
 
+[floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
+
 ---
 
 # 多角形類型マップ 🗺️ v1.0

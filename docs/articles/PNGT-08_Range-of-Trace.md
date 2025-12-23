@@ -529,6 +529,9 @@
 > 四角形は枠、  
 > それ以外は全部その後。**
 
+---
+
+[floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
 
 ---
 

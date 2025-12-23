@@ -582,6 +582,16 @@ floc は **集合体** だが、その要素は固定された点ではない。
 
 ---
 
+[floc｜最小定義](https://camp-us.net/articles/floc_minimal.html)  
+[多角形｜最小定義](https://camp-us.net/articles/Polygonal-Syntax.html)  
+[多角形遷移｜最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal.html)  
+[多角形遷移｜拡張最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal-ext.html)  
+[floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
+
+[EgQE版｜floc宇宙論 序 ── カスり続ける構文のために](https://camp-us.net/articles/floc-Cosmology-00_draft.html)  
+
+---
+
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  
