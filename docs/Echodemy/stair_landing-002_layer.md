@@ -103,7 +103,7 @@
 [CTS-Φ-A｜Reflexive Reversibility and the Golden Harmonic Zone──反照的可逆性と黄金調和域に関する補論](https://camp-us.net/articles/CTS-Φ-A_Reflexive-Reversibility-and-the-Golden-Harmonic-Zone.html)  
 [CTS-Φ｜The Completeness Theorem of Syntax — The Golden Harmonic Edition｜構文的完全性定理：黄金調和篇 ──黄金比から黄金呼吸へ ──From Golden Mean to Golden Breath（Essence Edition）](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Harmonic-Edition.html)  
 [CTS-Φ｜The Completeness Theorem of Syntax — The Golden Harmonic Edition ──From Golden Mean to Golden Breath](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Harmonic-Edition_EN.html)  
-[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/articles/CTS-%CE%A6_Completeness-Theorem-of-Syntax.html)  
+[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/CTS-%CF%86.html)   
 ###### 2025/10/31  
 [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)  
 [DGT｜floc重力論から動態重力論へ｜Dynamic Gravity Theory via Floc──時間が重力を生む宇宙の呼吸構文](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory-via-Floc.html)  
