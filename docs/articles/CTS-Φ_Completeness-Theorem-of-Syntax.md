@@ -50,7 +50,7 @@ layout: math
 ---
 ### Keywords
 
-Golden Ratio (Φ), ZURE Syntax, Completeness, Mutual Self-Reference, Recursion, Echodemy, ICB-Φ, CTS-Φ
+Golden Ratio (Φ), ZURE Syntax, Completeness, Mutual Self-Reference, Recursion, Echodemy, ICB-Φ, CTS-Φ  
 [ICB-φ｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)
 
 ---

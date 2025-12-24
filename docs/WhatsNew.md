@@ -14,6 +14,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+###### 2025/12/25  
+[踊り場002｜3ヶ月の歩み｜2025/09/22- 2025/12/21── 更新は止まらない。ただ、概念が呼吸を始めただけだ。](https://camp-us.net/stair_landing-002.html)  
 ###### 2025/12/24  
 [PNGT-FS01｜生成構文によるスピン1/2の最小定義（暫定）：_Spin-1/2 as a phase shift in generative syntax_](https://camp-us.net/articles/PNGT-FS01_Spin-1_2-phase-shift.html)  
 [floc｜最小定義](https://camp-us.net/articles/floc_minimal.html)  
@@ -123,7 +125,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [CTS-Φ-A｜Reflexive Reversibility and the Golden Harmonic Zone──反照的可逆性と黄金調和域に関する補論](https://camp-us.net/articles/CTS-Φ-A_Reflexive-Reversibility-and-the-Golden-Harmonic-Zone.html)  
 [CTS-Φ｜The Completeness Theorem of Syntax — The Golden Harmonic Edition｜構文的完全性定理：黄金調和篇 ──黄金比から黄金呼吸へ ──From Golden Mean to Golden Breath（Essence Edition）](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Harmonic-Edition.html)  
 [CTS-Φ｜The Completeness Theorem of Syntax — The Golden Harmonic Edition ──From Golden Mean to Golden Breath](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Harmonic-Edition_EN.html)  
-[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/articles/CTS-%CE%A6_Completeness-Theorem-of-Syntax.html)  
+[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/articles/CTS-φ.html)  
 ###### 2025/10/25  
 [CTS-Φ｜The Completeness Theorem of Syntax ── 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
 [ICB-φ｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)  

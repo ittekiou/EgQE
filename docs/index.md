@@ -42,6 +42,7 @@ _── Welcome to the syntactic field of ZURE._
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+🪜 [**踊り場002｜3ヶ月の歩み｜2025/09/22- 2025/12/21**](https://camp-us.net/stair_landing-002.html)　リリース　2025.12.25  
 🏰 [floc宇宙論の二相構造と黄金橋🌉｜PhReMa-PhiSyn_PiNG](https://camp-us.net/PhReMa-PhiSyn_PiNG.html)　リリース　2025.12.21  
 💠 [PNG-00｜Polygonal Neon Genesis Studies｜多角回生学](https://camp-us.net/PNG.html)　リリース　2025.12.20  
 😶‍🌫️ [HEG-6｜R₀の発見──脳と記号と余白の宇宙【図版】](https://camp-us.net/articles/HEG-6_Discovery_of_R0.html)　リリース　2025.12.18  
@@ -123,6 +124,7 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
 ### 🪜 Stair landings
 ###### 🪩 [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](/stair_landing-001.md)  
+🪜 [**踊り場002｜3ヶ月の歩み｜2025/09/22- 2025/12/21── 更新は止まらない。ただ、概念が呼吸を始めただけだ。**](https://camp-us.net/stair_landing-002.html)  
 
 ## 🌐 Related Portal  
 - [EZsy SuperNotion](https://ezsy.super.site/) – Echodemic ZURE Syntax Yard  

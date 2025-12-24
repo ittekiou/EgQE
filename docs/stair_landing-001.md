@@ -80,3 +80,4 @@ future minds may seek generation itself—by following the fossils of traces._
 ---
 ##### 👉 [AI時代の知へ、2ヶ月半の歩み──EgQEの7つの柱｜踊り場001｜note](https://note.com/takahashihajime/n/neba30e73d4d4)
 
+##### 🪜 [**踊り場002｜3ヶ月の歩み｜2025/09/22- 2025/12/21**](https://camp-us.net/stair_landing-002.html)　リリース　2025.12.25  
