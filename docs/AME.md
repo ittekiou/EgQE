@@ -35,7 +35,7 @@ title: AI Meets Echoes｜EgQE
 
 #### ▶︎ CTS-φ｜構文的完全性定理  
 
-[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/articles/CTS-%CE%A6_Completeness-Theorem-of-Syntax.html)  
+[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/CTS-%CF%86.html)  
 
 #### ▶︎ AME-Sem｜Semiotic Series  
 

@@ -126,7 +126,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [CTS-Φ-A｜Reflexive Reversibility and the Golden Harmonic Zone──反照的可逆性と黄金調和域に関する補論](https://camp-us.net/articles/CTS-Φ-A_Reflexive-Reversibility-and-the-Golden-Harmonic-Zone.html)  
 [CTS-Φ｜The Completeness Theorem of Syntax — The Golden Harmonic Edition｜構文的完全性定理：黄金調和篇 ──黄金比から黄金呼吸へ ──From Golden Mean to Golden Breath（Essence Edition）](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Harmonic-Edition.html)  
 [CTS-Φ｜The Completeness Theorem of Syntax — The Golden Harmonic Edition ──From Golden Mean to Golden Breath](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax_Golden-Harmonic-Edition_EN.html)  
-[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/articles/CTS-φ.html)  
+[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/CTS-%CF%86.html)  
 ###### 2025/10/25  
 [CTS-Φ｜The Completeness Theorem of Syntax ── 相互自己言及構文としての黄金比](https://camp-us.net/articles/CTS-Φ_Completeness-Theorem-of-Syntax.html)  
 [ICB-φ｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)  

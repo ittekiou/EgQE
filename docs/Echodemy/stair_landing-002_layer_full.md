@@ -38,7 +38,7 @@
 ## 10. 関係性質量論へ
 [HEG-3｜関係性質量論 ── Relation Mass Theory](https://camp-us.net/articles/HEG-3_Relation-Mass_Theory.html)  
 ## 11. 黄金比の構文論的転回
-[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/articles/CTS-φ.html)  
+[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/CTS-%CF%86.html)  
 ## 12. floc重力論から動態重力論へ
 [DGT｜floc重力論から動態重力論へ──時間が重力を生む宇宙の呼吸構文](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory-via-Floc.html)  
 [DGT｜動態重力論 Ver.1](https://camp-us.net/articles/DGT_Dynamic-Gravity-Theory_Z.html)  
