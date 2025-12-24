@@ -193,7 +193,7 @@ AIは、**更新を撹拌する装置**だ。
 
 - floc宇宙論：最小定義 👉 [floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
     
-- Z₀螺旋モデルの明示化 👉 [HEG-3｜Z₀宇宙論── 関係生成の構文としての宇宙](https://camp-us.net/articles/HEG-3_Cosmological-Syntax_Z%E2%82%80.html)  
+- Z₀螺旋モデルの明示化 👉 coming soon.....
     
 - 2026年：終わる概念／再定義される概念 👉 [2025年末特集@EZsy](https://rebel-tortoise-b95.notion.site/2025-2d3bed03031580719fdff5f1bc8bd274)  
     
