@@ -191,7 +191,7 @@ AIは、**更新を撹拌する装置**だ。
 
 ここから先は、再び動く。
 
-- floc宇宙論：最小定義 👉 [floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
+- floc宇宙論：最小定義 👉 [floc宇宙論](http://camp-us.net/floc-Cosmology)  
     
 - Z₀螺旋モデルの明示化 👉 coming soon.....
     

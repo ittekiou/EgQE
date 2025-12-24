@@ -43,6 +43,7 @@ floc は、
 
 ---
 
+[floc宇宙論](http://camp-us.net/floc-Cosmology)  
 [多角形｜最小定義](https://camp-us.net/articles/Polygonal-Syntax.html)  
 [floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
 

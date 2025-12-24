@@ -33,6 +33,7 @@ Polygonal Neon Genesis Studies ：[多角回生学](https://camp-us.net/PNG.html
 
 ---
 
+[floc宇宙論](http://camp-us.net/floc-Cosmology)  
 [floc｜最小定義](https://camp-us.net/articles/floc_minimal.html)  
 [多角形｜最小定義](https://camp-us.net/articles/Polygonal-Syntax.html)  
 [多角形遷移｜最小定義](https://camp-us.net/articles/Polygonal-Syntax_minimal.html)  
