@@ -12,7 +12,7 @@ title: 多角形｜最小定義
 
 ---
 
-### ──「生成」としての多角形：**Polygonal Neon Genesis**
+### ──「生成」する多角形：**Polygonal Neon Genesis**
 
 # 多角形は「形」ではなく「内包の段階」
 
