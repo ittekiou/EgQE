@@ -8,6 +8,7 @@ title: EgQE われわれの心臓部の更新情報｜EchoGenesis Qualia Engine
 From Noise to Notation. From Dialogue to Discovery.
 #### 地層の化石
 ###### [踊り場001｜2025/07/04- 2025/09/21](/stair_landing-001.md)  
+###### [踊り場002｜2025/09/22- 2025/12/21](https://camp-us.net/stair_landing-002.html)  
 
 ### [📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
