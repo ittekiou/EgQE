@@ -27,7 +27,7 @@ Relational Knot は、**完全性の幻想を超えて有限性を生き延び�
 
 ### ▶︎ CTS-φ｜構文的完全性定理  
 
-[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/articles/CTS-%CE%A6_Completeness-Theorem-of-Syntax.html)  
+[CTS-Φ Series｜構文的完全性定理の黄金比 ── Completeness Theorem of Syntax](https://camp-us.net/CTS-%CF%86.html)  
 
 ### ▶︎ ICM-φ｜数式の記号論的不完全性定理  
 
