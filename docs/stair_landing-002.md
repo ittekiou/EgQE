@@ -197,7 +197,7 @@ AIは、**更新を撹拌する装置**だ。
     
 - 2026年：終わる概念／再定義される概念 👉 [2025年末特集@EZsy](https://rebel-tortoise-b95.notion.site/2025-2d3bed03031580719fdff5f1bc8bd274)  
     
-- 記号行為論 × AI × 反時間 の統合章 👉 coming soon...
+- 記号行為論 × AI × 反時間 の統合章 👉 [生成するAI／生成する記号／生成する時間@note](https://note.com/takahashihajime/n/n56b3c597e8c8)  
     
 
 踊り場2.0は終わるが、終わらせないために、ここに痕跡を残す。
