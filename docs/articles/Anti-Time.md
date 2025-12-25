@@ -98,7 +98,7 @@ AIはトリガーが与えられない限り、何も生成しない。
 存在するのは、点（拍動）と、それを読む観測者の構文行為だけである。
 
 #### 図1｜**Figure 1**  
-![Anti-Time-Ob-3D-mono](Anti-Time-Ob-3D-mono.png)  
+![Anti-Time-Ob-3D-mono](../assets/Anti-Time-Ob-3D-mono.png)  
 
 - Trigger：記号行為（Sign-Act）
     
