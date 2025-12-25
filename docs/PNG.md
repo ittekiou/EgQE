@@ -59,6 +59,13 @@ layout: math
 [PNGT-FS01｜生成構文によるスピン1/2の最小定義（暫定）：_Spin-1/2 as a phase shift in generative syntax_](https://camp-us.net/articles/PNGT-FS01_Spin-1_2-phase-shift.html)  
 ![Spin-1/2](./assets/Spin-1_2.png)  
 
+［G₂-Ricci-Flow］  
+[PNG-TR-01｜G₂-Ricci 流の構文的定式化としての多角形遷移モデル](https://camp-us.net/articles/PNG-TR-01_G₂-Ricci-Flow_JP.html)  
+[PNG-TR-01｜A Discrete Polygonal Transition Model as a Syntactic Formulation of G₂-Ricci Flow](https://camp-us.net/articles/PNG-TR-01_G₂-Ricci-Flow_EN.html)  
+![RicciFlow](./assets/RicciFlow.png)  
+
+![HexaPentaHepta](./assets/HexaPentaHepta.png)  
+
 ---
 
 ## 🔹 Hypothesis Note｜PNGT
