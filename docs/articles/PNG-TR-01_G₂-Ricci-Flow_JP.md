@@ -5,10 +5,10 @@ layout: math
 ---
 # G₂-Ricci 流の構文的定式化としての多角形遷移モデル
 ## A Discrete Polygonal Transition Model as a Syntactic Formulation of G₂-Ricci Flow
+[PNG-TR-01｜A Discrete Polygonal Transition Model as a Syntactic Formulation of G₂-Ricci Flow](https://camp-us.net/articles/PNG-TR-01_G₂-Ricci-Flow_EN.html)  
 
 - Nuclear Physics B: [**Introduction of the G2-Ricci flow: Geometric implications for spontaneous symmetry breaking and gauge boson masses**](https://www.sciencedirect.com/science/article/pii/S0550321325001683?via%3Dihub)  
 
-[PNG-TR-01｜A Discrete Polygonal Transition Model as a Syntactic Formulation of G₂-Ricci Flow](https://camp-us.net/articles/PNG-TR-01_G₂-Ricci-Flow_EN.html)  
 ## **要旨**
 
 本論文では、**多角形遷移モデル**を幾何学的進化の**離散的構文定式化**として提案し、近年導入された **G₂-Ricci 流**との構造的対応関係を明らかにする。  
