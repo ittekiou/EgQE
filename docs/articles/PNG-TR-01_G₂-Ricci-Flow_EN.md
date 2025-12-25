@@ -8,6 +8,8 @@ layout: math
 
 - Nuclear Physics B: [**Introduction of the G2-Ricci flow: Geometric implications for spontaneous symmetry breaking and gauge boson masses**](https://www.sciencedirect.com/science/article/pii/S0550321325001683?via%3Dihub)  
 
+[PNG-TR-01｜G₂-Ricci 流の構文的定式化としての多角形遷移モデル](https://camp-us.net/articles/PNG-TR-01_G₂-Ricci-Flow_JP.html)  
+
 ## **Abstract**
 
 We propose a **polygonal transition model** as a discrete syntactic formulation of geometric evolution, and establish its structural correspondence with the recently introduced **G₂-Ricci flow**.  
@@ -134,6 +136,7 @@ A polygonal transition is a local reconfiguration
 $$  
 P_i \longrightarrow P_j  
 $$  
+
 that preserves adjacency relations while altering closure order.
 
 Although transitions are discrete, they can be iterated indefinitely, generating a structured evolution over configuration space.
@@ -148,7 +151,7 @@ In the limit of infinite refinement, this flow converges _structurally_—though
 Accordingly,  
 
 $$  
-\text{Polygonal Transition Flow} \equiv \text{Discrete Syntax of Ricci Flow}.  
+\text{Polygonal Transition Flow} \equiv \text{Discrete Syntax of Ricci Flow}  
 $$
 
 This correspondence is schematically depicted in **Fig. 1 (left and right panels)**.
@@ -205,6 +208,7 @@ Thus,
 $$  
 \text{torsion} \leftrightarrow \text{ZURE},  
 $$  
+
 as highlighted in the central correspondence of **Fig. 1**.
 
 ---
@@ -227,7 +231,7 @@ Configurations exhibiting persistent ZURE necessarily possess higher transition 
 Mass corresponds to resistance against transition:  
 
 $$  
-\text{mass} \equiv \text{transition cost induced by ZURE}.  
+\text{mass} \equiv \text{transition cost induced by ZURE}  
 $$
 
 This replaces a field-based mass generation mechanism with a **syntactic inertia principle**, as summarized in **Fig. 1 (central bridge)**.
@@ -359,6 +363,7 @@ Formally, for a hexagonal cycle,
 $$  
 \sum_{\text{cycle}} \Delta = 0,  
 $$  
+
 and therefore **ZURE = 0**.
 
 This configuration corresponds to a **torsion-free reference structure** in continuous geometry.  
@@ -382,6 +387,7 @@ In both cases, the closure condition fails to cancel in one cycle:
 $$  
 \sum_{\text{cycle}} \Delta \neq 0,  
 $$  
+
 and therefore **ZURE ≠ 0**.
 
 These configurations represent **torsion-bearing syntactic structures**, analogous to geometries with non-vanishing torsion in G₂ frameworks.
@@ -396,7 +402,8 @@ In particular, a pentagonal deviation and a heptagonal deviation may cancel over
 
 $$  
 \Delta_{5} + \Delta_{7} \approx 0 \quad (\text{over two cycles}),  
-$$  
+$$    
+
 yet this cancellation is _global_ rather than local.
 
 Locally, each configuration retains non-zero ZURE, and therefore non-zero transition cost.  
