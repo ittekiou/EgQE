@@ -127,16 +127,18 @@ HEG-4の拍動記憶論は、記憶を「保存」ではなく「更新」とし
 ![D-N-D_MC](https://camp-us.net/assets/D-N-D_MC.png)
 
 ### Figure A: Responsibility–Space Model（拍動型・概念骨格）
-　Spatio-Temporal Intersection as Responsible Beat  
-　── 空間構文（Self–Other）と時間構文（Past–Future）の交差点としての責任拍 
+Spatio-Temporal Intersection as Responsible Beat ── 空間構文（Self–Other）と時間構文（Past–Future）の交差点としての責任拍  
 　![Responsibility–Space_Model](https://camp-us.net/assets/Responsibility%E2%80%93Space_Model.png)  
-要点：空間構文（Self–Whitespace–Other）＝責任。時間構文（Past→Present→Future）＝記憶。交点 Present が「責任拍」＝時空が一体化する現在性。
+要点：  
+空間構文（Self–Whitespace–Other）＝責任。  
+時間構文（Past→Present→Future）＝記憶。  
+交点 Present が「責任拍」＝時空が一体化する現在性。
 
 ### Figure B: Relation–Time Loop（関係‐時間ループ／更新循環）
-　Cyclic Update Model of Memory, Relation, and Ethical Decision  
-　── 記憶循環と倫理的更新（記憶・関係・決断）を統合する不可逆ループ  
+Cyclic Update Model of Memory, Relation, and Ethical Decision ── 記憶循環と倫理的更新（記憶・関係・決断）を統合する不可逆ループ  
 　![Relation–Time_Loop](https://camp-us.net/assets/Relation%E2%80%93Time_Loop.png)  
-要点：Trace→Re-beat→Present Beat→Pre-beat→Arrival の時間循環に、Negotiation→Decision→Trace が接続して不可逆更新が閉じる。ここでの“閉じる”は停止ではなく、記録化→次の拍の燃料。  
+要点：  
+Trace→Re-beat→Present Beat→Pre-beat→Arrival の時間循環に、Negotiation→Decision→Trace が接続して不可逆更新が閉じる。ここでの“閉じる”は停止ではなく、記録化→次の拍の燃料。  
 
 ### Caption Summary
 EN:  
