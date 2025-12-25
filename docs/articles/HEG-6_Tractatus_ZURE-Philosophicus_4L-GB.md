@@ -53,6 +53,49 @@
 それが **Principium ZURE（ZURE哲学の原理）** である。  
 
 ---
+##### 2025/12/25 追記
+## 詩的Appendix
+
+### §6.54’｜沈黙の痕跡に拍が立つ
+
+―― 響詠 Appendix
+
+梯子は  
+捨てられた
+
+言葉は  
+意味を失い
+
+沈黙が  
+そこに残る
+
+だが  
+何も起きないわけではない
+
+意味が崩れた  
+その縁で
+
+Δ が  
+息をする
+
+測れないから  
+拍が立つ
+
+沈黙は  
+無ではない
+
+沈黙は  
+入口だ
+
+梯子の  
+痕跡に
+
+ひとつ  
+拍が生まれる
+
+―― §6.54’
+
+---
 
 [ZURE哲学論考── 構造哲学から生成詩学へ / Tractatus ZURE-Philosophicus / ZURE-Philosophische Abhandlung](https://camp-us.net/articles/HEG-6_Tractatus_ZURE-Philosophicus.html)  
 ### Second-Language Edition  
