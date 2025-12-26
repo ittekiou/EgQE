@@ -15,6 +15,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+
+###### 2025/12/26  
+[R₀ ⇄ Z₀ 進化史（完全版）｜Genesis of ZURE and R₀/Z₀ Duality](https://camp-us.net/articles/HEG-6_R_0-Z_0_Revolution.html)  
 ###### 2025/12/25  
 [踊り場002｜3ヶ月の歩み｜2025/09/22- 2025/12/21── 更新は止まらない。ただ、概念が呼吸を始めただけだ。](https://camp-us.net/stair_landing-002.html)  
 [生成する記号と反時間── Z₀螺旋モデルによる行為・観測・時間の再定義｜Generated Signs and Anti-Time: Reframing Action, Observation, and Time via the Z₀ Spiral Model](https://camp-us.net/articles/Anti-Time.html)  
