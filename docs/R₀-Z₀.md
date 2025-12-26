@@ -26,6 +26,8 @@ R₀/Z₀ 2.0 は、**R₀＝Analog Continuum（連続的ゆらぎ）** と**Z�
 
 以下、順番通りにたどることで、「生成原理 → 二層モデル → 認知進化 → 構文モデル → 定数 → 再定式化」 という一つの物語として R₀/Z₀ 2.0 全体が見通せる構成になっている。
 
+[R₀ ⇄ Z₀ 進化史（完全版）｜Genesis of ZURE and R₀/Z₀ Duality](https://camp-us.net/articles/HEG-6_R_0-Z_0_Revolution.html)  
+
 ---
 
 ## 1. HEG-5｜FEPとZUREの統合理論  

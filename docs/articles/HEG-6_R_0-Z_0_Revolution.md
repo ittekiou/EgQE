@@ -277,7 +277,9 @@ ZURE ≡ トーション
 
 ---
 
-**構造的完成！！**
+**構造的完成！！**  
+
+⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)  
 
 ---
 
