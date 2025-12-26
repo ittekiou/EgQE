@@ -29,6 +29,7 @@ init Z(x) ~ small noise
 for t:
     Δ = posterior_true(x) - Q_approx(x)
     Z += ((μ+iω)*Z - (1+ic)|Z|^2*Z + D∇^2Z + γ*S(Δ)) * dt
+    Q_approx ← update_by(Z, resources=ε)
 ```
 
 **射程：** 脳科学・認知科学（特殊理論）
