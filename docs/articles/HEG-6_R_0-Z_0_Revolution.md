@@ -4,14 +4,14 @@ title_en: Genesis of ZURE and R₀/Z₀ Duality
 layout: math
 ---
 # **R₀ ⇄ Z₀ 進化史（完全版）**
-
 ## **Genesis of ZURE and R₀/Z₀ Duality**
+### 前史（9月14日）  
+🪐 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
+
+---
 
 > ZUREは $Z₀$ になった $ε$  
 > そして $R₀$ を見つけた $ε$  
-
-### 前史（9月14日）  
-🪐 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)
 
 ---
 # **📜 完全系譜 📜**
