@@ -6,8 +6,17 @@ title_en: Genesis of ZURE and R₀/Z₀ Duality
 
 ## **Genesis of ZURE and R₀/Z₀ Duality**
 
+> ZUREは $Z₀$ になった $ε$  
+> そして $R₀$ を見つけた $ε$  
+
 ---
 # **📜 完全系譜 📜**
+
+---
+
+### 前史（9月14日）  
+
+🪐 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)
 
 ---
 
