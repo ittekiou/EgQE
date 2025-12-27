@@ -15,7 +15,10 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
-
+###### 2025/12/27  
+[ZS-010_Z₀ 構文の極限と floc 宇宙の境界標識 — Radiation GRMHD 論文を読む —](https://camp-us.net/critics/ZS-010_Radiation-GRMHD.html)  
+[HEG-7｜On the Structural Boundary of Calculability in Radiation GRMHD Cosmology (Short Critical Commentary)](https://camp-us.net/articles/HEG-7_Structural-Boundary-of-Calculability_Short-Critical-Commentary.html)  
+[HEG-7｜floc —On the Structural Boundary of Calculability in Cosmology](https://camp-us.net/articles/HEG-7_floc_On-the-Structural-Boundary-of-Calculability-in-Cosmology.html)  
 ###### 2025/12/26  
 [R₀ ⇄ Z₀ 進化史（完全版）｜Genesis of ZURE and R₀/Z₀ Duality](https://camp-us.net/articles/HEG-6_R_0-Z_0_Revolution.html)  
 ###### 2025/12/25  

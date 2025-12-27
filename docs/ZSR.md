@@ -18,6 +18,8 @@
 
 [ZS-009_構造が先、運動が後──非局所乱流から局所乱流へ](https://camp-us.net/critics/ZS-009_localized-nonlocal.html)  
 
+[ZS-010_Z₀ 構文の極限と floc 宇宙の境界標識 — Radiation GRMHD 論文を読む —](https://camp-us.net/critics/ZS-010_Radiation-GRMHD.html)  
+
 ---
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
