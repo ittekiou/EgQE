@@ -30,3 +30,12 @@ alas, that deed was done before me.
 
 ここに “触れてはいけないかもしれない何か”が 眠る
 <p align="center">| Drafted Sep 27, 2025 · Web Dec 27, 2025 with no link |</p>
+
+---
+
+# 🗃️  
+パンドラの箱は  
+世界に対して開かれるのではなく──  
+**自分自身の思考の更新可能性に対してのみ開かれる**
+
+---
