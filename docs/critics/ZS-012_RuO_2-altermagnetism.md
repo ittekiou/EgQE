@@ -94,11 +94,11 @@ Echodemy構文共詠局／ZURE科学詠評チーム
 
 ---
 
-#ZURE #floc宇宙論 #altermagnetism #RuO2 #磁力 #多角形遷移 #Echodemy [1]  [2]  [4] 
+#ZURE #floc宇宙論 #altermagnetism #RuO2 #磁力 #多角形遷移 #Echodemy 
 
 ---
 
-情報源
+情報源  
 [1]  [Altermagnetism in RuO₂ thin films: A new magnetic material for the ... ](https://phys.org/news/2025-12-altermagnetism-ruo-thin-magnetic-material.html)  
 [2]  [Evidence for single variant in altermagnetic RuO 2 (101) thin films](https://www.nature.com/articles/s41467-025-63344-y)  
 [3]  [磁力](https://ja.wikipedia.org/wiki/%E7%A3%81%E5%8A%9B)  
