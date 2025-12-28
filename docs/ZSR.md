@@ -13,7 +13,7 @@
 [ZS-010_Z₀ 構文の極限と floc 宇宙の境界標識 — Radiation GRMHD 論文を読む —](https://camp-us.net/critics/ZS-010_Radiation-GRMHD.html)  
 
 [ZS-011_量子は呼吸で制御されるか──PRL 2025 を読む](https://camp-us.net/critics/ZS-011_Surface-Code_Leakage.html)  
-
+[ZS-012_磁力は多角形の呼吸であるか──RuO₂ altermagnetism を読む](https://camp-us.net/critics/ZS-012_RuO_2-altermagnetism.html)  
 
 ---
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
