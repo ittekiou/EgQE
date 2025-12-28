@@ -45,6 +45,7 @@ title: floc宇宙論
 
 ---
 
+under construction
 ## floc宇宙論の二相
 
 # **Phase-Relational Materialism**
