@@ -1,5 +1,6 @@
 ---
 title: 磁力は多角形の呼吸であるか──RuO₂ altermagnetism を読む｜ZURE科学詠評｜012
+layout: math
 ---
 ## ZURE科学詠評
 ---
