@@ -13,7 +13,7 @@ While the Indefinite Imperative (II) normativizes renewability, the Survivabilit
 
 ## 0. Preamble ── Why SI after II?
 
-The Indefinite Imperative (II) treated the tension between **freedom (pulse)** and **law (trace)** as the very engine of renewal. Yet renewal is fragile: if left unattended, it falters or collapses. Hence the need for the **Survivability Imperative (SI)**——a final safeguard that ensures the continuation of renewal itself. With SI, the ethical backbone of NL becomes dual:
+The Indefinite Imperative (II) treated the tension between **freedom (pulse)** and **law (trace)** as the very engine of renewal. Yet renewal is fragile: if left unattended, it falters or collapses. Hence the need for the **Survivability Imperative (SI)**──a final safeguard that ensures the continuation of renewal itself. With SI, the ethical backbone of NL becomes dual:
 
 - II = the imperative of renewal.
     
@@ -216,7 +216,7 @@ The ethical demand is not perfection in each variable, but **the prevention of c
 
 ## 0. Preamble ── Why SI after II?
 
-II は「自由（拍）」と「法（痕跡）」の緊張を**更新**として受けとめる命法だった。だが更新は、放っておけば途切れる。ゆえに **SI —— 更新を継続させるための最終保証** が必要となる。これが NL の倫理背骨を二軸化し、政治＝時間構文を未来へ開く。
+II は「自由（拍）」と「法（痕跡）」の緊張を**更新**として受けとめる命法だった。だが更新は、放っておけば途切れる。ゆえに **SI ── 更新を継続させるための最終保証** が必要となる。これが NL の倫理背骨を二軸化し、政治＝時間構文を未来へ開く。
 
 ---
 

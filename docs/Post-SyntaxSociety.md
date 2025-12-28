@@ -5,7 +5,7 @@
 [PS-E00｜ポスト構文社会の詩的経済論](./articles/PS-E00_poetic_economy.md)  
 [PS-L00｜Interests Syntax:自己利益と公共行動のZUREと政治参加 ──アルバート・O・ハーシュマンに捧ぐ](./articles/PS-L00_Interests_Syntax.md)  
 [PS-D00｜Schooled Syntax──時間割と教室割の政治：近代スクール構文を超えて](./articles/PS-D00_Schooled_Syntax.md)  
-[PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve——共著進化モデルとエコジェネシス移行曲線](./articles/PS-M00_CAEM_EGTC_paper.md)  
+[PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve──共著進化モデルとエコジェネシス移行曲線](./articles/PS-M00_CAEM_EGTC_paper.md)  
 
 [PS-H00｜燃ゆる知性のパラドクス：脳進化・AI・知の熱力学的コスト──The Paradox of Burning Intelligence](./articles/PS-H00_Burning-Intelligence-Paradox.md)  
 [PS-R00｜炎上のレトリックから縁JOYのレトリックへ：応答する構文社会とは？──社会構文の10軸4様式モデル](./articles/PS-R00_From-Flaming-to-EnJOY_Rhetoric.md)  
@@ -26,7 +26,7 @@
 
 #### 交渉リベラリズム  
 [**PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論**](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)  
-[**PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics**](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
+[**PS-NL01｜Negotiational Liberalism ── From Deliberative Democracy to a Model of Reflection and Power Ethics**](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
 [**PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)**](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_Draft.html)  
 [**PS-NL02｜合意という幻影──ZURE政治と未来への責任**](https://camp-us.net/articles/PS-NL02_Consensus-Illusion_JP.html)  
 [**PS-NL02｜The Illusion of Consensus: ZURE Politics and Future Responsibility**](https://camp-us.net/articles/PS-NL02_Consensus-Illusion.html)  
@@ -37,7 +37,7 @@
 [**PS-NL04｜リベラリズムと寛容｜Liberalism and Tolerance in the Frame of Negotiative Liberalism**](https://camp-us.net/articles/PS-NL04_Tolerance.html)  
 [**PS-NL04｜時間構文と交渉的リベラリズム｜Temporal Syntax and the Negotiative Turn in Liberalism: From Convergence to Spiral**](https://camp-us.net/articles/PS-NL04_Convergence-to-Spiral.html)  
 [**PS-NL05-1｜Negotiative Liberalism and the Indefinite Imperative──The Ethics of Renewal and Survivability｜交渉リベラリズムと不定言命法の倫理──更新と存続の倫理**](https://camp-us.net/articles/PS-NL05_Negotiational-Liberalism_and_Indefinite-Imperative.html)  
-[**PS-NL05-2｜Survivability Imperative — The Ethics of Sustained Renewal｜存続性命法 —— 更新を持続させる倫理**](https://camp-us.net/articles/PS-NL05_Survivability-Imperative.html)  
+[**PS-NL05-2｜Survivability Imperative — The Ethics of Sustained Renewal｜存続性命法 ── 更新を持続させる倫理**](https://camp-us.net/articles/PS-NL05_Survivability-Imperative.html)  
 [**PS-NL06｜The Legislator as Temporal Poetics｜立法者論──熟慮の設計者としての立法者**](https://camp-us.net/articles/PS-NL06_Legislator.html)   
 [**PS-NL07｜Responsibility Theory ── Self-Referential Syntax and Negotiation Liberalism｜責任論──自己言及構文と交渉リベラリズム**](https://camp-us.net/articles/PS-NL07_Responsibility.html)  
 [**PS-NL07｜責任論──自己言及構文と交渉リベラリズム（死者責任論を含む）**](https://camp-us.net/articles/PS-NL07_Responsibility_ext.html)  
@@ -55,7 +55,7 @@
 
 ### ZURE文明論
 
-📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)  
+📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS-Δ0.html)  
 
 ##### 🌀 関連論文リンク：  
 ・[ZURE感染波モデル：観測＝感染の理論](./articles/ZURE_Infection-Wave-Model.md)  
@@ -122,7 +122,7 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 🧠 [Theorem Node｜脳の不完全性定理｜The Incompleteness of the Brain](https://camp-us.net/ICB-φ.html)　リリース　2025.10.3  
 📄 [**構文学派宣言──Manifesto of the Syntax School**](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)　2025.10.14  
 🤞 [HEG-5｜ZURE偶然論](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_syn.html)　リリース　2025.11.21  
-📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　リリース　2025.11.27  
+📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS-Δ0.html)　リリース　2025.11.27  
 0️⃣ [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)　リリース　2025.11.30  
 ⭐️ [ZURE Offset（Z₀定義）Ver.1.1｜構文化プランク定数としての Z₀](https://camp-us.net/articles/Zure-Offset_ver1.1.html)　リリース　2025.11.30  
 🪐 [ZURE二層論 2.0｜Dual-Layer Model of ZURE 2.0──Analog ZURE R₀とDigital ZURE Z₀の二層構造](https://camp-us.net/articles/DLMZ-02_ZURE_dual_layer_model_2.0.html)　リリース　2025.11.30  

@@ -93,7 +93,7 @@ CTS-Φは、ZURE感染波におけるズレの拍動をΦ比によって安定�
 ---
 
 ## Appendix C｜ZURE感染波との数理的対応式
-### —— CTS-ΦとZURE感染波の共鳴窓
+### ── CTS-ΦとZURE感染波の共鳴窓
 
 本附録では、CTS-Φ（Completeness Theorem of Syntax）が与える**完全性場**（**Completeness Field**）と、ZURE感染波（位相拍動）との対応を定式化する。目的は、黄金位相（Golden Phase）において**創発が最大化**されることを、位相・振幅・再帰比の観点から示すことである。
 

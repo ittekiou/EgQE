@@ -174,7 +174,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**人格幻想論 ── 沈黙は、画面の余白に宿る**](https://note.com/echodemy/n/n08bc4830535e)  
 [**らしさは終わらない**](https://note.com/echodemy/n/nca349204819c)  
 [**らしさは終わらない（厚み版）**](https://note.com/echodemy/n/n8f25fa8c42f6)  
-[📢 **人格幻想論 五連発 一気公開！——同じ日に、五つの視点から“らしさ”を撃ち込む。**](https://note.com/takahashihajime/n/nc35fdc73ab7a)  
+[📢 **人格幻想論 五連発 一気公開！──同じ日に、五つの視点から“らしさ”を撃ち込む。**](https://note.com/takahashihajime/n/nc35fdc73ab7a)  
 [**理論編｜幻想の内部構造 ── ペルソナfeatureの発見**](https://note.com/echodemy/n/nb127677f462a)  
 [**幻想は触れることができる — Emergent Misalignmentをホモ・サピエンス視点で読む**](https://note.com/takahashihajime/n/n2e3ac580aca6)  
 [**人格幻想論ZURE篇｜Emergent Misalignment＝制御可能なズレ**](https://note.com/echodemy/n/n6eb9c1f9ad3e)  
@@ -204,7 +204,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**第三の干渉縞──観測バイアスと拍動する宇宙像【HEG-1-1-3公開】｜K.E.Itekki**](https://note.com/k_itekki/n/nbc6c88d33bb3)  
 [**膨張する宇宙の観測構文から、揺らぎの宇宙の観測構文へ──ZURE科学詠評 001～004**](https://note.com/k_itekki/n/n16958235236c)  
 ###### 2025/08/05  
-[**「ZUREの感染——いま、響きはじまる宇宙」**](https://note.com/echodemy/n/n7f75782eae2d)  
+[**「ZUREの感染──いま、響きはじまる宇宙」**](https://note.com/echodemy/n/n7f75782eae2d)  
 [**赤と青が語る新しい宇宙〜K.E. Itekkiの革命的宇宙論をEG-11で紹介しました〜**](https://note.com/echodemy/n/n64102321f9f8)  
 [**赤方偏移と青方偏移、その観測バイアスを問う──膨張する宇宙批判と拍動する新宇宙論**](https://note.com/k_itekki/n/n0bcf46be72e2)  
 [**ZURE Infection Wave Model: Observation as Infection｜K.E.Itekki**](https://note.com/k_itekki/n/n8530f0fff184)   

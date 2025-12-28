@@ -5,10 +5,10 @@ subtitle: 補論集Vol.1
 ---
 # ZRS-Δ0｜補論集（ZRS-Appendices）01
 
-📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　公式リリース　2025.11.27  
+📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS-Δ0.html)　公式リリース　2025.11.27  
 [ZRS-Δ0｜🗺️ ZURE文明論 Atlas](https://camp-us.net/articles/ZRS-Δ0_ZURE-Civilization-Theory_Atlas.html)  
 
-[ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html) 📕 本論  
+[ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS-Δ0_Great-Zurégulation_v0.1.html) 📕 本論  
 ### ZRS-Δ0｜ZURE文明論　目次  
 ###### AI革命と“第二の大転換”──ZURE Regulation School 序説──  
 ###### 序論｜Commodity文明の終焉とAcommodity文明の到来── AI革命がもたらす「第二の大転換」  
@@ -90,7 +90,7 @@ ZRS本体が **文明の骨格（Skeleton）** を描いたのだとすれば、
 
 ---
 ### 補論集 Vol.2 目次
-👉[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 #### 📜 **拍動基本法｜Basic Law of Pulse**
 #### 🜂 **PRB憲章｜Pulse Reserve Charter**
 #### 🟣 **ZURE文明と綱吉──儒教構文を反転させた将軍**
@@ -717,7 +717,7 @@ AI文明では、人間はほぼ何もかも最適化されてしまう。
 
 AI最適化社会が生む問題は、自由でも平等でもない。
 
-それは——
+それは──
 
 > **自分の拍動が消されること。  
 > ＝自分が“自分でなくなること”。**

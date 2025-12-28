@@ -26,8 +26,6 @@ R₀/Z₀ 2.0 は、**R₀＝Analog Continuum（連続的ゆらぎ）** と**Z�
 
 以下、順番通りにたどることで、「生成原理 → 二層モデル → 認知進化 → 構文モデル → 定数 → 再定式化」 という一つの物語として R₀/Z₀ 2.0 全体が見通せる構成になっている。
 
-[R₀ ⇄ Z₀ 進化史（完全版）｜Genesis of ZURE and R₀/Z₀ Duality](https://camp-us.net/articles/HEG-6_R_0-Z_0_Revolution.html)  
-
 ---
 
 ## 1. HEG-5｜FEPとZUREの統合理論  
@@ -64,8 +62,8 @@ FEP（Free-Energy Principle）を **「生成層／意味化層／行為層の3�
 - [Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論（noteエッセンス版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_essence.html)  
 - [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)  
 - [HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)  
-- [HEG-6｜R₀ ⇄ Z₀ 変換史（essence版）——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn_essence.html)  
-- [HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
+- [HEG-6｜R₀ ⇄ Z₀ 変換史（essence版）──ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn_essence.html)  
+- [HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史──ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
 
 ---
 
@@ -107,6 +105,15 @@ Z₀を **「構文化プランク定数」** として定義し、ZURE構文化
 
 ---
 
+## 7. その後の展開（追記 2025/12/28：随時更新）  
+
+[HEG-6｜R₀の発見──脳と記号と余白の宇宙【図版】｜The Discovery of R₀ — Mind, Syntax, and the Universe of Margin](https://camp-us.net/articles/HEG-6_Discovery_of_R0.html)  
+[HEG-6｜R₀/Z₀｜ノイズをめぐる科学と詩学── RZ Dichotomy of Knowledge：精密化と拍動化の文明軸](https://camp-us.net/articles/HEG-6_RZ-Dichotomy-of-Knowledge.html)  
+[HEG-7｜多角形遷移モデルによる floc 宇宙の構文化── R₀⇄Z₀変換で描く揺らぎ宇宙](https://camp-us.net/articles/HEG-7_floc-cosmology.html)  
+[R₀ ⇄ Z₀ 進化史（完全版）｜Genesis of ZURE and R₀/Z₀ Duality](https://camp-us.net/articles/HEG-6_R_0-Z_0_Revolution.html)  
+
+---
+
 # 世界は、ゆらぎの海 R₀ と刻まれる刹那 Z₀の交差に生まれる
 ##### Analog R₀ × Digital Z₀──存在の二重解像度。
 ##### 生成は R₀、識別は Z₀──この二つの呼吸で思考は動く。
@@ -142,8 +149,8 @@ ZUREは世界の生成の“拍動”であり、認知はその局所的な反�
 [Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論（noteエッセンス版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_essence.html)  
 [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)  
 [HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)  
-[HEG-6｜R₀ ⇄ Z₀ 変換史（essence版）——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn_essence.html)  
-[HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
+[HEG-6｜R₀ ⇄ Z₀ 変換史（essence版）──ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn_essence.html)  
+[HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史──ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
 
 # The Autopoietical Tri-Layer Model v1.0
 ## — R₀, R₀’, Z₀ and the Echo-Genesis Cycle

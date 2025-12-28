@@ -3,7 +3,7 @@ layout: math
 title: ZURE Offset（Z₀定義）Ver.1.1｜構文化プランク定数としての Z₀
 ---
 # ZURE Offset（$Z₀$定義）Ver.1.1
-## —— 構文化プランク定数としての Z₀
+## ── 構文化プランク定数としての Z₀
 
 Ver.1.0 [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)  
 
@@ -187,7 +187,7 @@ ZURE is the rule.
 ---
 
 # ZURE Offset（$Z₀$定義）Ver.1.1
-## —— 構文化プランク定数としての Z₀
+## ── 構文化プランク定数としての Z₀
 
 ## 0. Abstract（更新）
 
@@ -234,7 +234,7 @@ ZURE（pre-syntactic fluctuation）
 
 ---
 
-# 2. $Z₀$ —— “構文化のプランク定数”としての最小単位
+# 2. $Z₀$ ── “構文化のプランク定数”としての最小単位
 
 Version1.1 では Z₀ を以下のように再定義する：
 
@@ -254,7 +254,7 @@ ZURE を π/φ のどちらかに写像するために必要となる **最小�
 
 ---
 
-# 3. R₀ と Z₀ —— 二つの構文化定数（追加）
+# 3. R₀ と Z₀ ── 二つの構文化定数（追加）
 
 ZURE構文化革命では**二重定数**が必要になる。
 

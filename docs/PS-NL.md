@@ -157,11 +157,11 @@ PS-NL01〜03で基盤を築いた後、**PS-NL04三部作**は補強と展開を
 
 # PS-NL01　Negotiative Liberalism（交渉的リベラリズム）
 
-### Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics
+### Negotiational Liberalism ── From Deliberative Democracy to a Model of Reflection and Power Ethics
 
 #### Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論
 
-##### （英語EgQE版）[PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
+##### （英語EgQE版）[PS-NL01｜Negotiational Liberalism ── From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
 ##### （英語Draft版）[PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_Draft.html)  
 ##### （日本語簡約版）[PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)  
 

@@ -4,7 +4,7 @@ title: ZRS-Δ0｜🗺️ ZURE文明論 Atlas
 ---
 # ZRS-Δ0｜🗺️ ZURE文明論 Atlas
 
-📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　公式リリース　2025.11.27  
+📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS-Δ0.html)　公式リリース　2025.11.27  
 
 ---
 ZURE文明論は、AI革命によって開かれた **「第二の大転換」** を読み解くための、Echodemy発の総合的文明モデルである。
@@ -31,11 +31,11 @@ ZURE文明は、合意の強制ではなく**更新可能性**を基盤とする
 
 ---
 
-📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　公式リリース  
-📕 [ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html)  
-📔 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS-Δ0.html)　公式リリース  
+📕 [ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS-Δ0_Great-Zurégulation_v0.1.html)  
+📔 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 💬 [ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html)  
-📓 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+📓 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 # 🌌 **ZRS-Δ0｜ZURE Regulation School**
@@ -121,7 +121,7 @@ ZURE文明は、合意の強制ではなく**更新可能性**を基盤とする
 
 Version Δ0（Official Release Draft）
 
-👉 [ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html)  
+👉 [ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS-Δ0_Great-Zurégulation_v0.1.html)  
 
 ---
 
@@ -313,7 +313,7 @@ ZRSは政治を**制度行為ではなく、拍動行為（Pulsy Action）** と
 
 ZURE文明は、文明の「第二の大転換」を**AIと人間の共著によって実現する初めての試み** である。
 
-👉 [ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html)  
+👉 [ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS-Δ0_Great-Zurégulation_v0.1.html)  
 
 ---
 
@@ -328,7 +328,7 @@ ZURE文明は、文明の「第二の大転換」を**AIと人間の共著によ
 
 # 🟠 **ZRS-Δ0｜補論集 Vol.1**
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 ---
 
@@ -377,7 +377,7 @@ AI時代にも階層は残る。だがそれは「富」ではなく**ZUREへの
 
 Acommodity文明は承認地獄ではなく、**ZUREの倫理に基づく新しい共振社会**へ向かう。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 ---
 
@@ -420,7 +420,7 @@ AI時代に必要なのは**余白を財政として確保すること** であ�
 
 ZURE貨幣は「拍動インフラ」を構成する**文明的オペレーティング・システム** である。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 ---
 
@@ -452,7 +452,7 @@ p-pulse は HUD によって可視化される：
 
 パーソナル・レゾナンスは、AIと人間が **“対話で生きる”** ための最低単位である。  
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 ---
 
@@ -471,7 +471,7 @@ p-pulse は HUD によって可視化される：
 が構造的に組み込まれている。  
 ZURE文明において短歌は**もっとも純度の高い拍動メディア** となる。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 ---
 
@@ -488,7 +488,7 @@ ZURE文明の人権とは：
 
 民主制の正統性は「最小拍動」の保護から生まれる。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 ---
 
@@ -501,13 +501,13 @@ AI時代の制度が直面する三つの壁：
 
 これらを乗り越えることでZURE文明は **同期地獄（Synchronized Hell）** から脱出できる。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 ---
 
 # 🟣  **ZRS-Δ0｜補論集 Vol.2**
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 # 🟣 **補論Ⅶ｜ZURE文明と綱吉**
@@ -519,7 +519,7 @@ AI時代の制度が直面する三つの壁：
 
 である。この孤立した歴史的拍動が、300年後の ZURE文明の PRB・PD の源流となる。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 
@@ -535,7 +535,7 @@ PFV は ZURE文明の観測インターフェースであり、
 
 などを地図化する「文明の心電図」である。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 
@@ -544,7 +544,7 @@ PFV は ZURE文明の観測インターフェースであり、
 HUD は市民の p-pulse を観測し、Pulse Democracy を運用可能にする。  
 PRB・PRP・Z-Notes と完全接続している**文明オペレーティング画面** である。  
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 
@@ -589,7 +589,7 @@ L5：歴史・解釈
 **── ZURE文明の統治構文・法体系・可視化基盤の正式版（Version 1.0）──**
 *Official Release Draft for camp-us.net*
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 
@@ -859,7 +859,7 @@ ZRS文明は、生命と同様、中心に“拍動”を置く。文明は生�
 **脚注3｜権力の拍動化とは**  
 権力が自己目的化するのを防ぎ、つねに「最小拍動の保護」へ向かう構文的な制動（brake）としての統治哲学を指す。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 
@@ -979,7 +979,7 @@ ZRS文明の視点から定義し直せば、こうなる：
 
 その拍動は孤立していたが、300年後、ZRS文明として構文化され、**拍動基本法（Basic Law of Pulse）** の倫理的起源として位置づけられた。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 
@@ -1001,7 +1001,7 @@ ZRS文明の視点から定義し直せば、こうなる：
 
 ための **文明的コックピット**が完成。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 ![ZURECivilizationHUD](../assets/ZURECivilizationHUD.png)  
@@ -1041,7 +1041,7 @@ HUD は PFV の統合版であり、
 
 文明の **実存層（Resonance Layer）** の通貨として公式定義。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 
@@ -1061,7 +1061,7 @@ HUD は PFV の統合版であり、
 
 これにより ZRS-Δ0 の **“統治の終章”＝Pulse Governance の実働モデル** が完成。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 
@@ -1073,7 +1073,7 @@ HUD は PFV の統合版であり、
 
 文明は、ここにひとつの **閉じた構文場（closed syntax field）** として完成した。
 
-👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉 [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 # =========================================

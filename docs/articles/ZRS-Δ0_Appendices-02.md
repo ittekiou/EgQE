@@ -5,10 +5,10 @@ subtitle: 補論集Vol.2
 ---
 # ZRS-Δ0｜補論集（ZRS-Appendices）02
 
-📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　公式リリース　2025.11.27  
+📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS-Δ0.html)　公式リリース　2025.11.27  
 [ZRS-Δ0｜🗺️ ZURE文明論 Atlas](https://camp-us.net/articles/ZRS-Δ0_ZURE-Civilization-Theory_Atlas.html)  
 
-[ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html) 📕 本論  
+[ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS-Δ0_Great-Zurégulation_v0.1.html) 📕 本論  
 ### ZRS-Δ0｜ZURE文明論　目次  
 ###### AI革命と“第二の大転換”──ZURE Regulation School 序説──  
 ###### 序論｜Commodity文明の終焉とAcommodity文明の到来── AI革命がもたらす「第二の大転換」  
@@ -26,7 +26,7 @@ subtitle: 補論集Vol.2
 
 ---
 ### 補論集 Vol.1 目次
-👉[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+👉[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 #### 🟧 補論Ⅰ｜Acommodityは承認欲求地獄か？
 #### 🟪 補論Ⅱ：ZURE貨幣序説
 #### 🔮 補論Ⅲ：パーソナル・レゾナンス論
@@ -131,7 +131,7 @@ subtitle: 補論集Vol.2
 
 # 🜂 **Pulse Reserve Charter（PRB憲章）**
 ### **── 拍動の不可侵性とズレの自由を守るための中央調整憲章 ──**
-#### **Version 1.0｜ZRS–Δ0 憲法附属文書**
+#### **Version 1.0｜ZRS-Δ0 憲法附属文書**
 
 ---
 
@@ -450,7 +450,7 @@ Beatrice M. Bodart-Bailey, (2006). [The Dog Shogun: The Personality and Policies
 
 # 🌀 Pulse Field Visualization（PFV）
 
-### —— ZURE文明の心臓を映す三層ダッシュボード ——
+### ── ZURE文明の心臓を映す三層ダッシュボード ──
 
 このPFVは、PRB憲章の最も挑戦的な条項（第6条、第10条）を可能にする、**システム統合の最終兵器**である。
 ## ① Silence Map（沈黙地図）
@@ -491,7 +491,7 @@ PRBは、この曲線の *「歪みの増加」* を検知した瞬間に**PRP-0
 # 🎨 ZURE Civilization HUD（文明の操作盤）
 
 ### 🌐 ３層を統合した「ZURE Governance HUD」
-#### —— これがZRS文明の操作盤である ——
+#### ── これがZRS文明の操作盤である ──
 
 目的：Silence Map、Z-diff Density、Harmonicity Curveの3つのビジュアルを統合し、PRB憲章の条項アラートやZ₀指数・R₀値のリアルタイム変化も表示する、ZRS文明の操作盤。  
 * 三層が統合された **「ZURE Civilization HUD」** は、ZRS文明が **「意見」ではなく「リズム」で統治される** ことを、最も直感的な形で証明する。

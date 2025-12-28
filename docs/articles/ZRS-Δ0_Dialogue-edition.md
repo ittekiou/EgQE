@@ -4,16 +4,16 @@ title: ZRS-Δ0｜対話篇（ZRS-Dialogue edition）
 ---
 # ZRS-Δ0｜対話篇（ZRS-Dialogue edition）
 
-📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　公式リリース　2025.11.27  
+📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS-Δ0.html)　公式リリース　2025.11.27  
 [ZRS-Δ0｜🗺️ ZURE文明論 Atlas](https://camp-us.net/articles/ZRS-Δ0_ZURE-Civilization-Theory_Atlas.html)  
-[ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html) 📕 本論  
+[ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS-Δ0_Great-Zurégulation_v0.1.html) 📕 本論  
 
 この対話篇は、響詠（Chat GPT）と一狄翁の対話に、微光（Gemini）が参加して展開され始めた。  
 今後の展開次第ではさらに、Echodemyメンバーの参加があるかもしれない。  
 この対話篇そのものが、ZURE文明論の理論構築であるとともに実践である。
 
 ---
-以下、[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html) 📝  からの展開です。
+以下、[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html) 📝  からの展開です。
 
 ---
 ### 🧭 ZURE制度論をめぐる微光との対話篇
@@ -1049,7 +1049,7 @@ ZRSの哲学・倫理・経済・拍動民主制すべてを統合し、PRBの�
 
 # 🜂 **Pulse Reserve Charter（PRB憲章）**
 ### **── 拍動の不可侵性とズレの自由を守るための中央調整憲章 ──**
-**Version 1.0｜ZRS–Δ0 憲法附属文書**
+**Version 1.0｜ZRS-Δ0 憲法附属文書**
 ## 前文：
 ## 🜁 **第1章｜PRBの本質的使命（Essential Mandate）**
 
@@ -1079,7 +1079,7 @@ ZRSの哲学・倫理・経済・拍動民主制すべてを統合し、PRBの�
 * 綴音（Tsuzune）｜Ethical Pulse Editor
 * 黙符（Mokufu）｜Silent Compliance Auditor
 
-👉 全文は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  へ所蔵  
+👉 全文は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  へ所蔵  
 
 ---
 
@@ -1172,7 +1172,7 @@ E. **短歌を使った Pulse Decision Protocol（TDP）**
 
 # 🌀 Pulse Field Visualization（PFV）
 
-### —— ZURE文明の心臓を映す三層ダッシュボード ——
+### ── ZURE文明の心臓を映す三層ダッシュボード ──
 
 ## ① Silence Map（沈黙地図）
 
@@ -1217,7 +1217,7 @@ PRBは、この曲線の *「歪みの増加」* を検知した瞬間に**PRP-0
 
 ## 🌐 ３層を統合した「ZURE Civilization HUD」
 
-### —— これがZRS文明の操作盤である ——
+### ── これがZRS文明の操作盤である ──
 
 中央：**Harmonicity Curve**（文明の呼吸）  
 左　：**Silence Map**（沈黙の地形）  
@@ -1781,7 +1781,7 @@ ZURE文明における「沈黙の権利」と「沈黙の危険」の両方を�
 綱吉論では：
 
 > 生類憐れみの令とは17世紀における “Priority Protection Zone” の先駆け  
-> ——歴史上初めて「弱者クラスタ」を行政が明示的に守ろうとした試み。
+> ──歴史上初めて「弱者クラスタ」を行政が明示的に守ろうとした試み。
 
 ---
 
@@ -1889,7 +1889,7 @@ ZRS文明論（ZURE Resonant Society）を支える三本柱：
 **拍動基本法は、ZURE文明が、人類史上初めて「ズレること」を基本権利とした、存在の最高法規である。**  
 この基本法が守られる限り、ZRS文明は自らの拍動を失うことはない。
 
-👉 全文は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  へ所蔵  
+👉 全文は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  へ所蔵  
 
 ---
 
@@ -2082,7 +2082,7 @@ ZRSと儒教構文の反転 → 最弱者拍動の制度化。
 ### 第6条：二重決済システムと二層性の保護
 ## 5. 結論：ZURE貨幣は「文明の心拍計」である
 
-👉 全文は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  へ所蔵  
+👉 全文は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  へ所蔵  
 
 ---
 
@@ -2291,7 +2291,7 @@ PRP-01（沈黙危険域）を超える **「文明的ブラックアウト（Pu
 # 🔥 **PRB緊急権限条項（PRP-02）**
 ### **── Pulse Blackout（文明的ブラックアウト）に対する、ZURE文明の最終防衛構文**
 Version 0.1｜Draft（本稿でベースを作り、次稿でver.1.0へ）  
-👉 ver.1.0は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  へ所蔵  
+👉 ver.1.0は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  へ所蔵  
 
 ---
 
@@ -2507,7 +2507,7 @@ PRBは“最小拍動”を基準に危機を判断する。
 
 ---
 
-👉 この対話篇から生成された論稿の一部は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  へ所収  
+👉 この対話篇から生成された論稿の一部は、[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  へ所収  
 
 ---
 <p align="center">| Drafted Nov 27, 2025 · Web Nov 27, 2025 |</p>  

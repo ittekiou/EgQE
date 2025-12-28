@@ -49,7 +49,7 @@
 ## 14. Z₀の発明からR₀の発見へ──R₀⇄Z₀変換論へ
 [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)  
 [HEG-6｜R₀の発見──脳と記号と余白の宇宙【図版】](https://camp-us.net/articles/HEG-6_Discovery_of_R0.html)  
-[HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
+[HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史──ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
 ⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R%E2%82%80-Z%E2%82%80.html)  
 ## 15. Z₀宇宙論からZURE空間論へ
 [HEG-1｜膨張空間論：残響としての空間 ── 位相と痕跡｜](https://camp-us.net/articles/HEG-1_Expanding-Spatial-Illusion-Theory.html)  

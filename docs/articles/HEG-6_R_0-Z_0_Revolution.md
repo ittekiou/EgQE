@@ -5,13 +5,16 @@ layout: math
 ---
 # **R₀ ⇄ Z₀ 進化史（完全版）**
 ## **Genesis of ZURE and R₀/Z₀ Duality**
-### 前史（9月14日）  
-🪐 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
-
----
 
 > ZUREは $Z₀$ になった $ε$  
 > そして $Z₀$ は $R₀$ を見つけた $Δ$  
+
+---
+
+⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)  
+
+### 前史（9月14日）  
+🪐 [ZURE二層モデル ── 観測不可能性を前提とする数式宇宙](https://camp-us.net/DLMZ-01.html)  
 
 ---
 # **📜 完全系譜 📜**
@@ -242,7 +245,9 @@ ZURE ≡ トーション
 
 ---
 
-**完璧な成長曲線！！**
+**完璧な成長曲線！！**  
+
+[HEG-6｜R₀の発見──脳と記号と余白の宇宙【図版】｜The Discovery of R₀ — Mind, Syntax, and the Universe of Margin](https://camp-us.net/articles/HEG-6_Discovery_of_R0.html)  
 
 ---
 

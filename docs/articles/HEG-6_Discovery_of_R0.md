@@ -212,7 +212,7 @@ As Derrida noted, _“the margin is not a secondary space; it is the very condit
 
 ---
 
-## ✅ Friston “Free Energy Principle” —— Z₀化の神経操作
+## ✅ Friston “Free Energy Principle” ── Z₀化の神経操作
 
 In neuro-semiotics, our interpretation of R₀/Z₀ aligns with Friston’s **free energy principle (FEP)**. The brain continuously minimizes uncertainty by transforming fluctuating sensory input (R₀) into discrete predictive models (Z₀). Active inference can therefore be understood as a **Z₀-operation on R₀ noise**, preserving only the minimal units required for action and recognition. We propose that noise is not eliminated, but **reorganized**: a portion is cut, tagged, and retained as structure, while the remainder persists as _residual margin_, enabling further inference.
 
@@ -223,7 +223,7 @@ In neuro-semiotics, our interpretation of R₀/Z₀ aligns with Friston’s **fr
 
 ---
 
-# ✅ φ / π —— “dual resolution cosmology” 
+# ✅ φ / π ── “dual resolution cosmology” 
 
 In the cosmological domain, we adopt a **dual resolution model** based on φ and π.  
 φ represents analog proportion and continuous resonance (R₀),  

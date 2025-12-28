@@ -13,10 +13,10 @@ layout: math
 **記号行為論 2.0：実装する脳へ**  
 > 記号はモノではなく行為、意味は合意ではなく更新である。  
 > 私たちは「身体」を普遍形と誤解してきた。普遍なのは実装だ。  
-> 生体身体、ロボット身体、そしてデータ身体——いずれも相互作用の実装形であり、記号はその実装上でズレの共鳴として意味を立ち上げる。  
+> 生体身体、ロボット身体、そしてデータ身体──いずれも相互作用の実装形であり、記号はその実装上でズレの共鳴として意味を立ち上げる。  
 > 主体は固定体ではなく、関係束に生じる位相点。物理接地とデータ接地は、相互写像が可能な準同型系をなす。  
 > ゆえに、人間中心の記号論を越え、実装存在論としての記号行為論へ。  
-> そのとき政治も倫理も、「合意」ではなく更新可能性で設計される。  ——意味は、ズレの拍動である。
+> そのとき政治も倫理も、「合意」ではなく更新可能性で設計される。  ──意味は、ズレの拍動である。
 
 ### Abstract / 要旨  
 We reconstruct semiotic behavior beyond human-centered frames by positing **Implementation Ontology** and defining **meaning as resonance of deviation (ZURE)**. We generalize grounding from **embodiment** to **implementation**, unify physical and data-interaction grounding via **quasi-isomorphism**, and redefine the **subject as a phase-point** in relational bundles. This yields ethical and political consequences: from consensus to **renewability**, from categorical to **indefinite imperative**.

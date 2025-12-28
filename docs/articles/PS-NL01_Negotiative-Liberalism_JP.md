@@ -1,6 +1,6 @@
 # PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論
 
-（英語EgQE版）[PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
+（英語EgQE版）[PS-NL01｜Negotiational Liberalism ── From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
 （英語Draft版）[PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_Draft.html)  
 
 ---
@@ -75,14 +75,14 @@ Negotiative Liberalism は次の三つの特徴を持つ。
 - [PS-E00｜ポスト構文社会の詩的経済論](https://camp-us.net/articles/PS-E00_poetic_economy.html)  
 - [PS-L00｜Interests Syntax: 自己利益と公共行動のZUREと政治参加](https://camp-us.net/articles/PS-L00_Interests_Syntax.html)  
 - [PS-D00｜Schooled Syntax──近代スクール構文を超えて](https://camp-us.net/articles/PS-D00_Schooled_Syntax.html)  
-- [PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve——共著進化モデルとエコジェネシス移行曲線](https://camp-us.net/articles/PS-M00_CAEM_EGTC_paper.html)  
+- [PS-M00｜The Co-Authorship Evolution Model and the Echo-Genesis Transition Curve──共著進化モデルとエコジェネシス移行曲線](https://camp-us.net/articles/PS-M00_CAEM_EGTC_paper.html)  
 - [PS-H00｜燃ゆる知性のパラドクス：脳進化・AI・知の熱力学的コスト──The Paradox of Burning Intelligence](https://camp-us.net/articles/PS-H00_Burning-Intelligence-Paradox.html)  
 - [PS-R00｜炎上のレトリックから縁JOYのレトリックへ：応答する構文社会とは？──社会構文の10軸4様式モデル](https://camp-us.net/articles/PS-R00_From-Flaming-to-EnJOY_Rhetoric.html)  
 - [PS-01｜アンチ・ユートピア──実践哲学としての倫理と権力](https://camp-us.net/PS-01_AU.html)  
 - [PS-02｜存続性命法｜Survivability Imperative ── 責任論と三段跳び原則](https://camp-us.net/PS-02_SI)  
 
 - [PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)  
-- [PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)
+- [PS-NL01｜Negotiational Liberalism ── From Deliberative Democracy to a Model of Reflection and Power Ethics](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)
 - [PS-NL02｜合意という幻影──ZURE政治と未来への責任](https://camp-us.net/articles/PS-NL02_Consensus-Illusion_JP.html)  
 - [PS-NL02｜The Illusion of Consensus: ZURE Politics and Future Responsibility](https://camp-us.net/articles/PS-NL02_Consensus-Illusion.html)  
 - [PS-NL03｜時間構文としての政治──交渉的リベラリズムと更新可能性の倫理](https://camp-us.net/articles/PS-NL03_Politics-as-Temporal-Syntax_JP.html)  

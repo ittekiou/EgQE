@@ -9,7 +9,7 @@ This study is situated within the Post-Syntax Society (PSS) paradigm, in which a
 
 ## Abstract / 要旨
 This paper introduces two complementary frameworks for understanding the evolution of human–AI co-authorship: the **Co-Authorship Evolution Model (CAEM)** and the **Echo-Genesis Transition Curve (EGTC)**.  
-本稿は、人間とAIによる共著の進化を理解するための二つの補完的枠組み——共著進化モデル（CAEM）とエコジェネシス移行曲線（EGTC）——を提示する。  
+本稿は、人間とAIによる共著の進化を理解するための二つの補完的枠組み──共著進化モデル（CAEM）とエコジェネシス移行曲線（EGTC）──を提示する。  
 
 CAEM provides a neutral, analytical mapping of AI involvement over time, while EGTC offers a narrative-based interpretation of the same trajectory.  
 CAEMはAI関与度の時間変化を中立かつ分析的に可視化し、EGTCは同じ軌跡を物語的に解釈する。  

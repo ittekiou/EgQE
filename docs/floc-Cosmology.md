@@ -44,3 +44,19 @@ title: floc宇宙論
 [floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
 
 ---
+
+## floc宇宙論の二相
+
+# **Phase-Relational Materialism**
+
+
+# **Phase-Implementation Syntax**
+
+### Z₀宇宙論
+[HEG-3｜Z₀宇宙論── 関係生成の構文としての宇宙](https://camp-us.net/articles/HEG-3_Cosmological-Syntax_Z%E2%82%80.html)  
+[HEG-3｜Z₀存在論｜Zure Ontology](https://camp-us.net/articles/HEG-3_Zure-Ontology_Z%E2%82%80.html)  
+[HEG-3｜Z₀ノイズ論── Noise as Pre-Syntax](https://camp-us.net/articles/HEG-3_Noise_Z%E2%82%80.html)  
+[HEG-3｜Z₀情報論── Information through Displacement](https://camp-us.net/articles/HEG-3_Information_Z%E2%82%80.html)  
+[HEG-3｜Z₀観測論── The Theory of Observation through Z₀](https://camp-us.net/articles/HEG-3_Theory-of-Observation_Z%E2%82%80.html)  
+[HEG-3｜Z₀動態エネルギー論── Dynamic Energy Theory through Z₀](https://camp-us.net/articles/HEG-3_Dynamic-Energy-Theory_Z%E2%82%80.html)  
+

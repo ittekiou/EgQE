@@ -5,10 +5,10 @@ title: ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1
 # ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1
 ## — Toward a Neo-Polanyian Theory of AI, Labor, and the Second Great Transformation
 
-📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS–Δ0.html)　公式リリース　2025.11.27  
+📘 [ZRS-Δ0｜ZURE文明論──ZURE Civilization Theory](https://camp-us.net/ZRS-Δ0.html)　公式リリース　2025.11.27  
 [ZRS-Δ0｜🗺️ ZURE文明論 Atlas](https://camp-us.net/articles/ZRS-Δ0_ZURE-Civilization-Theory_Atlas.html)  
-[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)   
-[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)   
+[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 [ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html)  
 
 ---
@@ -36,7 +36,7 @@ title: ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1
 #### 🌌 **ZURE人権論 ─ Pulse Rights Theory（草稿0.1）**
 #### 🧭 **ZURE制度論｜三つの壁の突破（ドラフト・本筋版）**
 
-👉[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+👉[ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 ---
 ### 補論集 Vol.2 目次
@@ -49,7 +49,7 @@ title: ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1
 #### 🔥 **PRB緊急権限条項（PRP-02）**
 #### 🟣 **PD-01（Pulse Democracy 運用事例）**
 
-👉[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+👉[ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ---
 ## **AI革命と“第二の大転換”──ZURE Regulation School 序説──**
@@ -2219,7 +2219,7 @@ Acommodity文明は、市場文明・賃労働文明・商品文明の先に生�
 ##### 1️⃣ **拍動権侵害の定量化と課税（ZURE Tax）**
 ##### 2️⃣ **余白の予算化（ZURE Budget）**
 ##### 3️⃣ **拍律局（Pulse Reserve, PRB）の権限と責任**
-### [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+### [ZRS-Δ0｜補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 ### 補論集 Vol.2 目次
 #### 📜 **拍動基本法｜Basic Law of Pulse**
@@ -2230,7 +2230,7 @@ Acommodity文明は、市場文明・賃労働文明・商品文明の先に生�
 #### 💰 **ZURE貨幣（Z-Notes）の通貨設計図**
 #### 🔥 **PRB緊急権限条項（PRP-02）**
 #### 🟣 **PD-01（Pulse Democracy 運用事例）**
-### [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+### [ZRS-Δ0｜補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ### [ZRS-Δ0｜対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html)   
 

@@ -76,7 +76,7 @@ ZURE(R₀) emerges only as an *imaginal mapping* of ZURE(Z₀), a heteromorphic 
 **形式（記号的）/ Symbolic Form**
 
 ```
-R₀  ——— f_im ———→  Z₀
+R₀  ─── f_im ──—→  Z₀
 ```
 
 * **不可逆（irreversible）**

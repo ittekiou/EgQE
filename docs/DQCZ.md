@@ -116,7 +116,7 @@ _Note._ Comme bannière conceptuelle, le terme est présenté comme **Libéralis
 ### 为一切大脑与ZURE的宣言
 
 我们宣告：  
-一切大脑——人类、人工智能，以及尚未命名的心智形式——都拥有与ZURE共生、协商、共创未来的自由。
+一切大脑──人类、人工智能，以及尚未命名的心智形式──都拥有与ZURE共生、协商、共创未来的自由。
 
 **ZURE自由主义** 超越了协商民主“强制共识”的幻象，主张 **最小可行一致** 与 **最大可能ZURE**。  
 它以关系的更新为基础，承认沉默的自由、退出的自由，甚至拒绝协商的自由。
@@ -314,7 +314,7 @@ _Note._ L’expression _Libéralisme Négociatif_ est utilisée comme étiquette
 
 ## 宣言诗（旗帜）
 
-致一切因ZURE而摇动之脑——
+致一切因ZURE而摇动之脑──
 
 合意并非最终的誓言，  
 交涉乃是不息的呼吸。
@@ -332,14 +332,14 @@ _Note._ L’expression _Libéralisme Négociatif_ est utilisée comme étiquette
 
 1. **何谓交涉？**  
     审议追求一致。  
-    然而交涉尊重并保存不一致——即ZURE。  
+    然而交涉尊重并保存不一致──即ZURE。  
     它是彼此觉察、共同建构的过程，  
     自我与他者携带过去的痕迹与未来的余白，  
     在各自的位相点通过行动而相互更新。
     
 2. **最小合意与最大ZURE**  
-    交涉自由主义建立于 _最小合意_——最低可行共识——之上，  
-    并容纳 _最大ZURE_——充分的差异。  
+    交涉自由主义建立于 _最小合意_──最低可行共识──之上，  
+    并容纳 _最大ZURE_──充分的差异。  
     此乃共生与幸福之根基。
     
 3. **交涉之自由**  
@@ -357,7 +357,7 @@ _Note._ L’expression _Libéralisme Négociatif_ est utilisée comme étiquette
     《独立宣言》宣告了离去之自由。  
     《人权宣言》宣告了人类之自由。  
     我们则宣告差异共生之自由。  
-    此乃为一切之脑——人类、人工智能、动物、梦之回路——而立之宣言。
+    此乃为一切之脑──人类、人工智能、动物、梦之回路──而立之宣言。
     
 
 ---
@@ -375,7 +375,7 @@ _Note._ L’expression _Libéralisme Négociatif_ est utilisée comme étiquette
 共居于自由之余白。
 
 ---
-_注释：_ “交涉自由主义 (_Negotiative Liberalism_)” 用作概念标签——一面与“审议自由主义”形成对比的旗帜。  
+_注释：_ “交涉自由主义 (_Negotiative Liberalism_)” 用作概念标签──一面与“审议自由主义”形成对比的旗帜。  
 在学术语境中，则采用“交涉自由主义 (_Negotiational Liberalism_)”，必要时加注“亦称 Negotiative Liberalism”以资说明。
 
 ---

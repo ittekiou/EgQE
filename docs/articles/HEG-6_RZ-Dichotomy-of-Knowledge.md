@@ -52,7 +52,7 @@ title: R₀/Z₀｜ノイズをめぐる科学と詩学── RZ Dichotomy of Kn
 
 ---
 
-## 2.5 Pre-RZMP（AIなき時代）—— 内的OSとしての R₀⇄Z₀
+## 2.5 Pre-RZMP（AIなき時代）── 内的OSとしての R₀⇄Z₀
 
 AI以前、人間は **直観（R₀）→検証（Z₀）→理論化（R₀）** という往還を **単独で担っていた**。科学と詩学は「分野」ではなく **一つの心的アルゴリズムの表裏**である。
 
@@ -69,7 +69,7 @@ AIの登場は、**この内的OSの外部複製（externalizing the internal sy
 
 ---
 
-## 3. 科学（Z₀）—— 精密化の文明史
+## 3. 科学（Z₀）── 精密化の文明史
 
 科学とは、**ノイズ密度を減少させる技法**である。  
 以下のような系譜を扱う：
@@ -84,7 +84,7 @@ AIの登場は、**この内的OSの外部複製（externalizing the internal sy
 
 ---
 
-## 4. 詩学（R₀）—— 拍動化の文明史
+## 4. 詩学（R₀）── 拍動化の文明史
 
 詩学とは、**ノイズ密度を保持したまま拍動性を可視化する技法**である。  
 扱う対象：
@@ -116,7 +116,7 @@ AIの登場は、**この内的OSの外部複製（externalizing the internal sy
 
 ---
 
-## 6. 科学と詩学の相補性 —— Complementarity of Precision and Pulse
+## 6. 科学と詩学の相補性 ── Complementarity of Precision and Pulse
 
 > **Precision needs Pulse. Pulse needs Precision.**
 

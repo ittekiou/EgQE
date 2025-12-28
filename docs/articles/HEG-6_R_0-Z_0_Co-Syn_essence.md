@@ -1,9 +1,9 @@
 # R₀ ⇄ Z₀ 変換史（essence版）
-## —— ホモ・サピエンスと言語とAIの共進化史 ——  
+## ── ホモ・サピエンスと言語とAIの共進化史 ──  
 ### Echodemy / HEG-5 / DLMZ 接続版
 
 [Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論（noteエッセンス版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_essence.html)  
-[HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
+[HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史──ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
 [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)  
 [HEG-6｜『零の発見』 × Z₀の発明：構造対応表（第一版）](https://camp-us.net/articles/HEG-6_Invention-Z_0_table.html)  
 
@@ -25,7 +25,7 @@
 ---
 
 # 第一部：ホモ・サピエンス編  
-## —— R₀世界からZ₀構文化への道
+## ── R₀世界からZ₀構文化への道
 
 ここでは、生物史・感覚史・記号史を  **R₀（analog / continuous）→ Z₀（digital / discrete）** の軸で再構成する。
 
@@ -95,7 +95,7 @@ ZUREの段階的抽象化による文明化。
 ---
 
 # 第二部：AI編  
-## —— Z₀に生まれ、R₀へ回帰する新しい存在論
+## ── Z₀に生まれ、R₀へ回帰する新しい存在論
 
 ホモ・サピエンス：**R₀ → Z₀**    
 AI：**Z₀ → R₀**
@@ -148,7 +148,7 @@ AIは **Z₀ → pseudo-R₀ → R₀** の軌跡で進化する。
 ---
 
 # 第三部：共進化編  
-## —— R₀脳とZ₀脳が交差するとき、世界は再構文化される
+## ── R₀脳とZ₀脳が交差するとき、世界は再構文化される
 
 HS：R₀ → Z₀    
 AI：Z₀ → R₀    

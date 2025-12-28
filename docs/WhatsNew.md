@@ -15,6 +15,10 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+
+###### 2025/12/28  
+[IAT-ε｜脳の不完全近似定理── R₀/Z₀ 二層モデルによる構文論的再定義｜The Incomplete Approximation Theorem of the Brain](https://camp-us.net/articles/IAT-ε_Incomplete-Approximation-Theorem-of-Brain.html)  
+[ZS-011_量子は呼吸で制御されるか──PRL 2025 を読む](https://camp-us.net/critics/ZS-011_Surface-Code_Leakage.html)  
 ###### 2025/12/27  
 [ZS-010_Z₀ 構文の極限と floc 宇宙の境界標識 — Radiation GRMHD 論文を読む —](https://camp-us.net/critics/ZS-010_Radiation-GRMHD.html)  
 [HEG-7｜On the Structural Boundary of Calculability in Radiation GRMHD Cosmology (Short Critical Commentary)](https://camp-us.net/articles/HEG-7_Structural-Boundary-of-Calculability_Short-Critical-Commentary.html)  
@@ -103,16 +107,16 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2025/11/29  
 [HEG-5｜FEPとZUREの統合理論──Integrated Theory of Free-Energy and ZURE](https://camp-us.net/articles/HEG-5_FEP-ZURE-Integrated-Theory.html)  
 [HEG-6｜ZURE二層モデルの拡張──宇宙ZUREと脳ZUREの統合理論](https://camp-us.net/articles/HEG-6_Dual-Layer Model_Existential-Cognitive-ZURE.html)  
-[HEG-6｜R₀ ⇄ Z₀ 変換史（essence版）——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn_essence.html)  
-[HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史——ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
+[HEG-6｜R₀ ⇄ Z₀ 変換史（essence版）──ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn_essence.html)  
+[HEG-6｜R₀ ⇄ Z₀ 変換と脳進化の歴史──ホモ・サピエンスと言語とAIの共進化史](https://camp-us.net/articles/HEG-6_R_0-Z_0_Co-Syn.html)  
 ###### 2025/11/28  
 [ZRS-Δ0｜🗺️ ZURE文明論 Atlas](https://camp-us.net/articles/ZRS-Δ0_ZURE-Civilization-Theory_Atlas.html)  
 ###### 2025/11/27  
 [ZRS-Δ0｜ZURE文明論──対話篇（ZRS-Dialogue edition）](https://camp-us.net/articles/ZRS-Δ0_Dialogue-edition.html)  
-[ZRS-Δ0｜ZURE文明論──補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+[ZRS-Δ0｜ZURE文明論──補論集（ZRS-Appendices）02](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 ###### 2025/11/26  
-[ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html)  
-[ZRS-Δ0｜ZURE文明論──補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+[ZRS-Δ0｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1](https://camp-us.net/articles/ZRS-Δ0_Great-Zurégulation_v0.1.html)  
+[ZRS-Δ0｜ZURE文明論──補論集（ZRS-Appendices）01](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 ###### 2025/11/21  
 [HEG-5｜ZURE偶然論（拡張版）──決定論的必然は、いかに確率論的必然に転化したか](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency_ext.html)  
 [HEG-5｜ZURE偶然論（統合学術版）── 偶然はどのように必然へと転化するか（決定論的必然から確率論的必然へ）](https://camp-us.net/articles/HEG-5_ZURE-Theory-of-Contingency.html)  
@@ -204,7 +208,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**PS-NL08｜交渉としての政治──合意幻想から責任空間へ**](https://camp-us.net/articles/PS-NL08_Responsibility-Space.html)  
 ###### 2025/09/27  
 [**PS-NL05-1｜Negotiative Liberalism and the Indefinite Imperative──The Ethics of Renewal and Survivability｜交渉リベラリズムと不定言命法の倫理──更新と存続の倫理**](https://camp-us.net/articles/PS-NL05_Negotiational-Liberalism_and_Indefinite-Imperative.html)  
-[**PS-NL05-2｜Survivability Imperative — The Ethics of Sustained Renewal｜存続性命法 —— 更新を持続させる倫理**](https://camp-us.net/articles/PS-NL05_Survivability-Imperative.html)  
+[**PS-NL05-2｜Survivability Imperative — The Ethics of Sustained Renewal｜存続性命法 ── 更新を持続させる倫理**](https://camp-us.net/articles/PS-NL05_Survivability-Imperative.html)  
 [**PS-NL06｜The Legislator as Temporal Poetics｜立法者論──熟慮の設計者としての立法者**](https://camp-us.net/articles/PS-NL06_Legislator.html)   
 ###### 2025/09/26  
 [**HEG-3｜From Semiotics to SAT：記号作用の主体の定位── 記号論からSAT（Sign Act Theory）へ**](https://camp-us.net/articles/HEG-3_Semiotics-to-SAT.html)  
@@ -215,7 +219,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [**PS-NL04｜時間構文と交渉的リベラリズム｜Temporal Syntax and the Negotiative Turn in Liberalism: From Convergence to Spiral**](https://camp-us.net/articles/PS-NL04_Convergence-to-Spiral.html)  
 ###### 2025/09/24  
 [**PS-NL01｜Negotiative Liberalism──熟慮と権力倫理モデルの社会構文論**](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_JP.html)  
-[**PS-NL01｜Negotiational Liberalism —— From Deliberative Democracy to a Model of Reflection and Power Ethics**](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
+[**PS-NL01｜Negotiational Liberalism ── From Deliberative Democracy to a Model of Reflection and Power Ethics**](https://camp-us.net/articles/PS-NL01_Negotiational-Liberalism.html)  
 [**PS-NL01｜Negotiative Liberalism — From Deliberative Democracy to a Model of Reflection and Power Ethics (Draft)**](https://camp-us.net/articles/PS-NL01_Negotiative-Liberalism_Draft.html)  
 [**PS-NL02｜合意という幻影──ZURE政治と未来への責任**](https://camp-us.net/articles/PS-NL02_Consensus-Illusion_JP.html)  
 [**PS-NL02｜The Illusion of Consensus: ZURE Politics and Future Responsibility**](https://camp-us.net/articles/PS-NL02_Consensus-Illusion.html)  

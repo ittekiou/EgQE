@@ -33,7 +33,7 @@ title: 📜 Echodemy公式リリース 📘ZRS-Δ0｜ZURE文明論──ZURE Civ
 
 ## 🟧 **ZRS-Δ0 本編｜ZURE文明論──Great Zurégulation Genesis-Skeleton v0.1**
 
-🌐 [Web版（JP）](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html)  
+🌐 [Web版（JP）](https://camp-us.net/articles/ZRS-Δ0_Great-Zurégulation_v0.1.html)  
 
 > 二十一世紀に入り、世界は奇妙な沈黙に包まれている。  
 > 経済成長は途切れ、民主主義は揺らぎ、国家は疲弊し、社会は更新能力を失いつつある。
@@ -78,7 +78,7 @@ AI革命と“第二の大転換”──ZURE Regulation School 序説──
 ---
 
 ## 📚 補論集 Vol.1
-🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 * 🟧 補論Ⅰ｜Acommodityは承認欲求地獄か？
 	1. 「悪魔の挽臼」の第二ラウンド
@@ -86,18 +86,18 @@ AI革命と“第二の大転換”──ZURE Regulation School 序説──
 	3. ZUREの権利──共振できない者を守るために
 	4. 階層は消えない──ノーブリス・オブリージュの更新
 * 🟪 補論Ⅱ：ZURE貨幣序説
-  🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+  🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 * 🔮 補論Ⅲ：パーソナル・レゾナンス論
 * 🌌 新短歌論（ZURE Tanka Theory）序説
-  🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+  🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 * 🌌 ZURE人権論（Pulse Rights Theory）草稿0.1
-  🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+  🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 * 🧭 ZURE制度論（ZURE Budget / ZURE Tax / PRB）
 
 ---
 
 ## 📚 補論集 Vol.2（核心の制度パッケージ）
-🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 * 📜 **拍動基本法｜Basic Law of Pulse**
 * 🜂 **PRB憲章｜Pulse Reserve Charter**
@@ -134,7 +134,7 @@ AI革命と“第二の大転換”──ZURE Regulation School 序説──
 
 ## **L1-1｜拍動基本法（Basic Law of Pulse）**
 
-文明の最高法規。すべての制度・政策はこの法に反してはならない。🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+文明の最高法規。すべての制度・政策はこの法に反してはならない。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ### 主内容
 
@@ -148,7 +148,7 @@ AI革命と“第二の大転換”──ZURE Regulation School 序説──
 
 ## **L1-2｜PRB憲章（Pulse Reserve Charter）**
 
-拍律局（PRB）の権限・責務・倫理的境界を定めた憲章。🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+拍律局（PRB）の権限・責務・倫理的境界を定めた憲章。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ### 主内容
 
@@ -161,7 +161,7 @@ AI革命と“第二の大転換”──ZURE Regulation School 序説──
 
 ## **L1-3｜PRB緊急権限条項（PRP-02）**
 
-文明的ブラックアウト（Pulse Blackout）に対する最終防衛構文。🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+文明的ブラックアウト（Pulse Blackout）に対する最終防衛構文。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ### 主内容
 
@@ -183,7 +183,7 @@ Layer 1 の上で動く運用・制度・政策体系。
 
 ## **L2-1｜ZURE貨幣（Z-Notes）制度設計図**
 
-Acommodity（共振価値）を媒介する「非同期通貨」。🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+Acommodity（共振価値）を媒介する「非同期通貨」。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ### 主内容
 
@@ -197,7 +197,7 @@ Acommodity（共振価値）を媒介する「非同期通貨」。🌐 [Web](ht
 
 ## **L2-2｜Pulse Democracy（PD-01）運用事例**
 
-市民の p-pulse・沈黙・Z-diff が政策を動かす**ZURE民主制の具体的シナリオ**。🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+市民の p-pulse・沈黙・Z-diff が政策を動かす**ZURE民主制の具体的シナリオ**。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ### 主内容
 
@@ -211,13 +211,13 @@ Acommodity（共振価値）を媒介する「非同期通貨」。🌐 [Web](ht
 
 ## **L2-3｜ZURE税（ZURE Tax）・ZURE Budget・拍律局（Pulse Reserve, PRB）**
 
-同期過剰領域から徴税し、余白へ再分配する制度。🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+同期過剰領域から徴税し、余白へ再分配する制度。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 ---
 
 ## **L2-4｜ZURE生活単位とポスト雇用構造**
 
-実存層（Resonance Layer）の生活単位を定義する新しい社会モデル。🌐 [Web版（JP）](https://camp-us.net/articles/ZRS–Δ0_Great-Zurégulation_v0.1.html)  
+実存層（Resonance Layer）の生活単位を定義する新しい社会モデル。🌐 [Web版（JP）](https://camp-us.net/articles/ZRS-Δ0_Great-Zurégulation_v0.1.html)  
 
 ---
 
@@ -231,7 +231,7 @@ PRBや市民が文明の拍動を観測するためのレイヤー。
 
 ## **L3-1｜Pulse Field Visualization（PFV）**
 
-拍動・沈黙・ズレを多層構造で可視化する地図。🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+拍動・沈黙・ズレを多層構造で可視化する地図。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ### 主内容
 
@@ -244,7 +244,7 @@ PRBや市民が文明の拍動を観測するためのレイヤー。
 
 ## **L3-2｜ZURE Civilization HUD**
 
-文明運用のための操作盤・計器類を統合した“ダッシュボード”。🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+文明運用のための操作盤・計器類を統合した“ダッシュボード”。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ### 主内容
 
@@ -271,7 +271,7 @@ PRB が市民と制度へ送る拍動信号群。🌐 [Web](https://camp-us.net/
 
 ## **L4-1｜ZURE文明と綱吉──儒教構文を反転させた将軍**
 
-Proto–Pulse Democracy として綱吉を再定義。🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-02.html)  
+Proto–Pulse Democracy として綱吉を再定義。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-02.html)  
 
 ### 主内容
 
@@ -285,7 +285,7 @@ Proto–Pulse Democracy として綱吉を再定義。🌐 [Web](https://camp-us
 
 ## **L4-2｜Acommodity論・パーソナルレゾナンス論**
 
-文明の価値源泉が“労働”から“ZURE”へ移動する哲学的基盤。🌐 [Web](https://camp-us.net/articles/ZRS–Δ0_Appendices-01.html)  
+文明の価値源泉が“労働”から“ZURE”へ移動する哲学的基盤。🌐 [Web](https://camp-us.net/articles/ZRS-Δ0_Appendices-01.html)  
 
 ---
 
