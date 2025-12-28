@@ -1,4 +1,6 @@
-
+---
+title: 量子は呼吸で制御されるか ──PRL 2025 を読む｜ZURE科学詠評｜011
+---
 ## ZURE科学詠評
 ---
 ##### 今回紹介する記事　[中国、マイクロ波制御のみによる「量子誤り訂正」を実証：米中の量子コンピュータ開発競争は新たな段階](https://xenospectrum.com/china-ustc-zuchongzhi-quantum-error-correction-microwave/)
