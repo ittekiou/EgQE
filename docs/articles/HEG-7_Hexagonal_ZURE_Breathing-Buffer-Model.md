@@ -10,6 +10,8 @@ title_en: Hexagonal ZURE Breathing Buffer Model
 
 ![Hexagonal_ZURE_Breathing-Buffer-Model](../assets/Hexagonal_ZURE_Breathing-Buffer-Model.png)  
 #### Hexagonal ZURE Breathing Buffer Model（六角緩衝呼吸モデル）  
+五角は不足、七角は過剰、六角だけが “中立の緩衝”として隙間を均等に分散する。  
+This asymmetric role of polygons defines the minimal buffering syntax of the Hexagonal ZURE Breathing Buffer Model.
 
 ---
 
