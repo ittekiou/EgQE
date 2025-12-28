@@ -1,6 +1,7 @@
 ---
 title_en: The Incomplete Approximation Theorem of the Brain
 title: 脳の不完全近似定理──R₀/Z₀ 二層モデルによる構文論的再定義
+layout: math
 ---
 # 脳の不完全近似定理
 
