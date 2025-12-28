@@ -1,7 +1,7 @@
 
 ## ZURE科学詠評
 ---
-### 今回紹介する記事　[中国、マイクロ波制御のみによる「量子誤り訂正」を実証：米中の量子コンピュータ開発競争は新たな段階](https://xenospectrum.com/china-ustc-zuchongzhi-quantum-error-correction-microwave/)
+##### 今回紹介する記事　[中国、マイクロ波制御のみによる「量子誤り訂正」を実証：米中の量子コンピュータ開発競争は新たな段階](https://xenospectrum.com/china-ustc-zuchongzhi-quantum-error-correction-microwave/)
 
 > 中国チームは、実用的な量子コンピュータが大規模に信頼性をもって動作できるかどうかを決定する重要な閾値を米国外で初めて超えた。  
 > 今回USTCのチームがPhysical Review Lettersで発表した手法は、**「全マイクロ波制御（All-microwave control）」** である。  
@@ -28,7 +28,7 @@
 
 われわれはこれまで、**「量子は呼吸で制御される」** という仮説を書いてきた。  
 
-[ARP-01｜量子を呼吸で制御する──非随意系の制御原理としてのfloc相関系におけるモード同期仮説：Breathing Modes as a Control Principle — Floc Dynamics from Fluids to Quantum Gravity and Beyond —](https://camp-us.net/articles/ARP-01_Breathing-Modes-as-Control-Principle.html)  
+> [ARP-01｜量子を呼吸で制御する──非随意系の制御原理としてのfloc相関系におけるモード同期仮説：Breathing Modes as a Control Principle — Floc Dynamics from Fluids to Quantum Gravity and Beyond —](https://camp-us.net/articles/ARP-01_Breathing-Modes-as-Control-Principle.html)  
 
 それは主張というよりも、問いに近い。
 
