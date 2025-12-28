@@ -48,6 +48,7 @@ where hexagonal buffering absorbs one unit of deficit and one unit of excess, al
 $$  
 \delta_5 = +1,\quad \delta_6 = 0,\quad \delta_7 = -1  
 $$     
+
 と定義すると、  
 呼吸が保たれる条件は
 
@@ -70,6 +71,7 @@ $$
 $$  
 p_5 : p_6 : p_7 = 1 : 6 : 1  
 $$    
+
 を代入すると、  
 六角緩衝の重みが効き、
 
