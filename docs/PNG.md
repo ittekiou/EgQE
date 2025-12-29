@@ -35,6 +35,8 @@ layout: math
 ![Hexa-penta-hepta_ZURE_Breathing](./assets/Hexa-penta-hepta_ZURE_Breathing.png)  
 ![Hexagonal-Kryos Model](./assets/Hexagonal-Kryos-Model.png)  
 
+[PNG-00｜不完全近似更新としての平面―空間生成過程（整理版:Working Reference）](https://camp-us.net/articles/PNG-00_Plane-space-generation-process.html)  
+
 ---
 ## **Polygonal Neon Genesis Theory**  
 [HEG-6｜ZURE空間論序説── 比・向き・距離の生成とZ₀が空間を生むまで｜ZURE Spatial Theory: An Introduction — How Ratio, Orientation, and Distance Generate Space through Z₀](https://camp-us.net/articles/HEG-6_ZURE-Spatial-Theory_Introduction.html)  
