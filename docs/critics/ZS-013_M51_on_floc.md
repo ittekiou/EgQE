@@ -65,7 +65,7 @@ Echodemy構文共詠局／ZURE科学詠評チーム
 
 ---
 
-情報源
+情報源  
 [1]  [Magnetic Field Lines in M51](https://www.nrao.edu/archives/items/show/33567)  
 [2]  [Whirlpool Galaxy's magnetic field lines mapped](https://www.skyatnightmagazine.com/space-science/whirlpool-galaxy-magnetic-field-lines-mapped)  
 [3]  [Magnetic fields and spiral arms in the galaxy M51](https://academic.oup.com/mnras/article/412/4/2396/1019747)  
