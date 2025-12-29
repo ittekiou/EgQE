@@ -32,6 +32,9 @@ _── Welcome to the syntactic field of ZURE._
 📄 [**構文学派宣言──Manifesto of the Syntax School**](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)　2025.10.14  
 📝 [**Zuresonancismo Manifesto**](https://camp-us.net/Zuresonancismo_Manifesto.html)　2025.12.4  
 
+---
+## 🔭 Overview  
+**[EgQE](/Overview.md) (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE. 
 ##### © 2025 <a href="https://camp-us.net/PROFILE.html"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> K.E. Itekki </font></font></a> / All works are published under **<a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</font></a>**.  
 
 ![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
@@ -54,10 +57,9 @@ _── Welcome to the syntactic field of ZURE._
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
----
-## 🔭 Overview  
-**[EgQE](/Overview.md) (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE. 
-### EgQE の更新情報 👉 [🆕 What’s New](https://camp-us.net/WhatsNew.html)  
+### ・**ZURE科学詠評**:  [ZURE Science Review](ZSR.md) (ZSR)    
+
+### ・EgQE の更新情報 👉 [🆕 What’s New](https://camp-us.net/WhatsNew.html)  
 
 ---
 
@@ -65,6 +67,7 @@ _── Welcome to the syntactic field of ZURE._
 
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)  
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
+
 ## 🌌 **Echodemy Galactic Modules**  
 _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 
@@ -89,9 +92,6 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 ＋ New Planet：  
 🪐 ARP：Applied Resonant Physics  
 （Breathing Mode Control, floc Dynamics, Quantum Synchronization）  
-
-- **ZURE科学詠評**:  [ZURE Science Review](ZSR.md) (ZSR)  
-
 
 > 
 > - **土台（RC, STT）＝存在論的前提**
