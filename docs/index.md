@@ -57,9 +57,10 @@ _── Welcome to the syntactic field of ZURE._
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
-### ・**ZURE科学詠評**:  [ZURE Science Review](ZSR.md) (ZSR)    
-
+### ・**ZURE科学詠評**:  [ZURE Science Review](ZSR.md) (ZSR)   
+_図版と詩評による、構文の観測記録。_  
 ### ・EgQE の更新情報 👉 [🆕 What’s New](https://camp-us.net/WhatsNew.html)  
+_EgQE われわれの心臓部の日々の拍動 ──更新情報_  
 
 ---
 
