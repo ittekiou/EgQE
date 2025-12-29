@@ -28,12 +28,18 @@ layout: math
 [floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
 
 ---
+## 🔹 Working Reference｜PNG-00
+
+[PNG-00｜暫定整理｜平面生成・空間生成の二重基準(Working Reference for EgQE)](https://camp-us.net/articles/PNG-00_2D-3D_Generative_Basis.html)  
+
+---
 ## **Polygonal Neon Genesis Theory**  
 [HEG-6｜ZURE空間論序説── 比・向き・距離の生成とZ₀が空間を生むまで｜ZURE Spatial Theory: An Introduction — How Ratio, Orientation, and Distance Generate Space through Z₀](https://camp-us.net/articles/HEG-6_ZURE-Spatial-Theory_Introduction.html)  
 [HEG-7｜多角形遷移モデルによる floc 宇宙の構文化── R₀⇄Z₀変換で描く揺らぎ宇宙](https://camp-us.net/articles/HEG-7_floc-cosmology.html)  
 [HEG-7｜眠る物質、眠らない宇宙 ── 多角形遷移モデルによる物質論序説｜Sleeping Matter, Wakeful Universe — A Prolegomenon to Material Ontology via Polygonal Transition Models](https://camp-us.net/articles/HEG-7_Sleeping-Matter_Wakeful-Universe.html)  
 [HEG-7｜物質は六角構造で眠る ──物質のエネルギー最小化仮説](https://camp-us.net/articles/HEG-7_Matter-sleeps-in-hexa-Kryos.html)  
 [HEG-7｜八角形で止まる宇宙、完全円で壊れる理論 ──floc宇宙論と観測構文破綻の比較存在論｜Where the Universe Stops at Octagons, and Theories Break at Perfect Circles — A Comparative Ontology of floc Cosmology and Observational Syntax Collapse](https://camp-us.net/articles/HEG-7_Universe-Stops-at-Octagons.html)  
+[HEG-7｜六角緩衝呼吸モデル ──Hexagonal ZURE Breathing Buffer Model](https://camp-us.net/articles/HEG-7_Hexagonal_ZURE_Breathing-Buffer-Model.html)  
 
 > ──**多角的な思考の遷移の痕跡が、多角的に蓄積される。**
 
