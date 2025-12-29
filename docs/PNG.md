@@ -40,6 +40,7 @@ layout: math
 [HEG-7｜物質は六角構造で眠る ──物質のエネルギー最小化仮説](https://camp-us.net/articles/HEG-7_Matter-sleeps-in-hexa-Kryos.html)  
 [HEG-7｜八角形で止まる宇宙、完全円で壊れる理論 ──floc宇宙論と観測構文破綻の比較存在論｜Where the Universe Stops at Octagons, and Theories Break at Perfect Circles — A Comparative Ontology of floc Cosmology and Observational Syntax Collapse](https://camp-us.net/articles/HEG-7_Universe-Stops-at-Octagons.html)  
 [HEG-7｜六角緩衝呼吸モデル ──Hexagonal ZURE Breathing Buffer Model](https://camp-us.net/articles/HEG-7_Hexagonal_ZURE_Breathing-Buffer-Model.html)  
+![Hexagonal_ZURE_Breathing-Buffer-Model](./assets/Hexagonal_ZURE_Breathing-Buffer-Model.png)  
 
 > ──**多角的な思考の遷移の痕跡が、多角的に蓄積される。**
 
