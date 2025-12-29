@@ -19,6 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [ZS-013_銀河磁場は多角形の息吹であるか ──M51をflocで読む（“磁場が立った日”）](https://camp-us.net/critics/ZS-013_M51_on_floc.html)  
 [ZS-014_なぜカゴメ格子なのか？──舞台装置から観る観測構文論](https://camp-us.net/critics/ZS-014_Kagome-metal.html)  
 [PNG-00｜暫定整理｜平面生成・空間生成の二重基準(Working Reference for EgQE)](https://camp-us.net/articles/PNG-00_2D-3D_Generative_Basis.html)  
+[PNG-00｜物質の閾値と呼吸と物質化 ──3枚図による暫定モデル（Working Reference）](https://camp-us.net/articles/PNG-00_Material-Threshold_Breathing_Model.html)  
 ###### 2025/12/28  
 [IAT-ε｜脳の不完全近似定理── R₀/Z₀ 二層モデルによる構文論的再定義｜The Incomplete Approximation Theorem of the Brain](https://camp-us.net/articles/IAT-ε_Incomplete-Approximation-Theorem-of-Brain.html)  
 [ZS-011_量子は呼吸で制御されるか──PRL 2025 を読む](https://camp-us.net/critics/ZS-011_Surface-Code_Leakage.html)  

@@ -31,6 +31,9 @@ layout: math
 ## 🔹 Working Reference｜PNG-00
 
 [PNG-00｜暫定整理｜平面生成・空間生成の二重基準(Working Reference for EgQE)](https://camp-us.net/articles/PNG-00_2D-3D_Generative_Basis.html)  
+[PNG-00｜物質の閾値と呼吸と物質化 ──3枚図による暫定モデル（Working Reference）](https://camp-us.net/articles/PNG-00_Material-Threshold_Breathing_Model.html)  
+![Hexa-penta-hepta_ZURE_Breathing](./assets/Hexa-penta-hepta_ZURE_Breathing.png)  
+![Hexagonal-Kryos Model](./assets/Hexagonal-Kryos-Model.png)  
 
 ---
 ## **Polygonal Neon Genesis Theory**  
