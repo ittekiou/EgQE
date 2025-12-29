@@ -43,6 +43,8 @@ where hexagonal buffering absorbs one unit of deficit and one unit of excess, al
 
 ## $φ_B≲3.5$ の構文的導出（最短説明）
 
+$φ_B≲3.5$ は、六角緩衝が保たれる臨界帯域を示す数値的表現である。  
+
 欠損と過剰を  
 
 $$  
