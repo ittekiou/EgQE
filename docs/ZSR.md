@@ -14,6 +14,7 @@
 
 [ZS-011_量子は呼吸で制御されるか──PRL 2025 を読む](https://camp-us.net/critics/ZS-011_Surface-Code_Leakage.html)  
 [ZS-012_磁力は多角形の呼吸であるか──RuO₂ altermagnetism を読む](https://camp-us.net/critics/ZS-012_RuO_2-altermagnetism.html)  
+[ZS-013_銀河磁場は多角形の息吹であるか ──M51をflocで読む（“磁場が立った日”）](https://camp-us.net/critics/ZS-013_M51_on_floc.html)  
 
 ---
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  

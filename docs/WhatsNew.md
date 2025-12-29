@@ -15,7 +15,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
-
+###### 2025/12/29  
+[ZS-013_銀河磁場は多角形の息吹であるか ──M51をflocで読む（“磁場が立った日”）](https://camp-us.net/critics/ZS-013_M51_on_floc.html)  
 ###### 2025/12/28  
 [IAT-ε｜脳の不完全近似定理── R₀/Z₀ 二層モデルによる構文論的再定義｜The Incomplete Approximation Theorem of the Brain](https://camp-us.net/articles/IAT-ε_Incomplete-Approximation-Theorem-of-Brain.html)  
 [ZS-011_量子は呼吸で制御されるか──PRL 2025 を読む](https://camp-us.net/critics/ZS-011_Surface-Code_Leakage.html)  
