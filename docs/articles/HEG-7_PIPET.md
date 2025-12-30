@@ -197,6 +197,15 @@ Percolation は確率論ではなく、生成の閾値現象として再配置�
 
 ---
 
+### **Figure 1 | Generative Flow of Plane–Space Transition (PIPET)**
+
+This figure illustrates the generative process through which a spatially fixed phase emerges from a stable hexagonal planar phase via the motion of pentagonal and heptagonal phase defects.  
+Below the Kagome Threshold, pentagons and heptagons coexist and overlap, while an undifferentiated generative field **R₀** persists at the center.  
+Upon crossing the irreversible threshold (the Kagome Threshold), the heptagons exhaust their generative role and drop out, whereas only the pentagons remain fixed, accompanied by **φ** (phase-distance / effective weight).  
+The parameter **φ** contains **Z₀**, which—together with the **Z₀** embedded within the hexagons shown in the figure—becomes visible as **ΔZ₀ (Δ10⁻¹⁶)** during the materialization process.
+
+This figure is not a supplementary illustration; it is an integrated diagram that presents the **generative syntax of the theory as a whole**.
+
 ##### 本文v.1.0＋補論追加版 (Previous Version)
 [Plane–Edge Transition Theory ― 不完全近似更新としての平面‐空間生成過程（補論追加版）](https://camp-us.net/articles/PNG-00_Plane-Edge-Transition-Theory.html)  
 
