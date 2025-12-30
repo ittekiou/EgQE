@@ -17,7 +17,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2025/12/30  
-[PNG-00｜ 不完全近似更新としての平面‐空間生成過程（補論追加版）―Plane–Edge Transition Theory](https://camp-us.net/articles/PNG-00_Plane–Edge-Transition-Theory.html)  
+[PNG-00｜ 不完全近似更新としての平面‐空間生成過程（補論追加版）―Plane–Edge Transition Theory](https://camp-us.net/articles/PNG-00_Plane-Edge-Transition-Theory.html)  
 [HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)  
 ###### 2025/12/29  
 [ZS-013_銀河磁場は多角形の息吹であるか ──M51をflocで読む（“磁場が立った日”）](https://camp-us.net/critics/ZS-013_M51_on_floc.html)  

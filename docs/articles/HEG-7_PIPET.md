@@ -198,7 +198,7 @@ Percolation は確率論ではなく、生成の閾値現象として再配置�
 ---
 
 ##### 本文v.1.0＋補論追加版 (Previous Version)
-[Plane–Edge Transition Theory ― 不完全近似更新としての平面‐空間生成過程（補論追加版）](https://camp-us.net/articles/PNG-00_Plane–Edge-Transition-Theory.html)  
+[Plane–Edge Transition Theory ― 不完全近似更新としての平面‐空間生成過程（補論追加版）](https://camp-us.net/articles/PNG-00_Plane-Edge-Transition-Theory.html)  
 
 ---
 

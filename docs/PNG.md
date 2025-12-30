@@ -38,7 +38,7 @@ layout: math
 ![Hexagonal-Kryos Model](./assets/Hexagonal-Kryos-Model.png)  
 
 [PNG-00｜不完全近似更新としての平面―空間生成過程（整理版:Working Reference）](https://camp-us.net/articles/PNG-00_Plane-space-generation-process.html)  
-[PNG-00｜ 不完全近似更新としての平面‐空間生成過程（補論追加版）―Plane–Edge Transition Theory](https://camp-us.net/articles/PNG-00_Plane–Edge-Transition-Theory.html)  
+[PNG-00｜ 不完全近似更新としての平面‐空間生成過程（補論追加版）―Plane–Edge Transition Theory](https://camp-us.net/articles/PNG-00_Plane-Edge-Transition-Theory.html)  
 
 ---
 ## **Polygonal Neon Genesis Theory**  

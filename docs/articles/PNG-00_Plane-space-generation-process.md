@@ -161,7 +161,7 @@ _確率ではなく不可逆連結の瞬間_
 > 三つの補論は、本稿の叙述がどの理論と接続可能かを示す **事後的な写像**である。
 
 👉  
-[Plane–Edge Transition Theory ― 不完全近似更新としての平面‐空間生成過程（補論追加版）](https://camp-us.net/articles/PNG-00_Plane–Edge-Transition-Theory.html)  
+[Plane–Edge Transition Theory ― 不完全近似更新としての平面‐空間生成過程（補論追加版）](https://camp-us.net/articles/PNG-00_Plane-Edge-Transition-Theory.html)  
 
 ---
 
