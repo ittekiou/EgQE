@@ -36,6 +36,7 @@ layout: math
 ![Hexagonal-Kryos Model](./assets/Hexagonal-Kryos-Model.png)  
 
 [PNG-00｜不完全近似更新としての平面―空間生成過程（整理版:Working Reference）](https://camp-us.net/articles/PNG-00_Plane-space-generation-process.html)  
+[PNG-00｜ 不完全近似更新としての平面‐空間生成過程（補論追加版）―Plane–Edge Transition Theory](https://camp-us.net/articles/PNG-00_Plane–Edge-Transition-Theory.html)  
 
 ---
 ## **Polygonal Neon Genesis Theory**  
@@ -46,6 +47,11 @@ layout: math
 [HEG-7｜八角形で止まる宇宙、完全円で壊れる理論 ──floc宇宙論と観測構文破綻の比較存在論｜Where the Universe Stops at Octagons, and Theories Break at Perfect Circles — A Comparative Ontology of floc Cosmology and Observational Syntax Collapse](https://camp-us.net/articles/HEG-7_Universe-Stops-at-Octagons.html)  
 [HEG-7｜六角緩衝呼吸モデル ──Hexagonal ZURE Breathing Buffer Model](https://camp-us.net/articles/HEG-7_Hexagonal_ZURE_Breathing-Buffer-Model.html)  
 ![Hexagonal_ZURE_Breathing-Buffer-Model](./assets/Hexagonal_ZURE_Breathing-Buffer-Model.png)  
+
+[HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)  
+![GenerativeFlow-of-Plane–Space-Transition](./assets/GenerativeFlow-of-Plane–Space-Transition.png)  
+
+
 
 > ──**多角的な思考の遷移の痕跡が、多角的に蓄積される。**
 
