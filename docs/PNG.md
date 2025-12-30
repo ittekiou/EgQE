@@ -8,13 +8,15 @@ layout: math
 
 ### _A study of human regeneration through polygonal state transitions._
 
-## 多角回生学
+## 🌉 多角回生学
 
-- **Polygonal Neon Genesis Theory**（多角回生論）
+- **Polygonal Neon Genesis Theory**（多角回生論）  
+	- **PIPET** : 角面理論（plain Incomplete Plane–Edge Transition theory）  
     
-- **Polygonal Neon Genesis Praxis**（多角回生術）
+- **Polygonal Neon Genesis Praxis**（多角回生術）  
 
 多角形遷移モデルは 一つの物語ではない。  
+
 > **多角形ごとに 何が生まれるかを観測する装置**である。
 
 ![ping01](./assets/ping01.png)  
@@ -41,19 +43,30 @@ layout: math
 ---
 ## **Polygonal Neon Genesis Theory**  
 [HEG-6｜ZURE空間論序説── 比・向き・距離の生成とZ₀が空間を生むまで｜ZURE Spatial Theory: An Introduction — How Ratio, Orientation, and Distance Generate Space through Z₀](https://camp-us.net/articles/HEG-6_ZURE-Spatial-Theory_Introduction.html)  
+
 [HEG-7｜多角形遷移モデルによる floc 宇宙の構文化── R₀⇄Z₀変換で描く揺らぎ宇宙](https://camp-us.net/articles/HEG-7_floc-cosmology.html)  
 [HEG-7｜眠る物質、眠らない宇宙 ── 多角形遷移モデルによる物質論序説｜Sleeping Matter, Wakeful Universe — A Prolegomenon to Material Ontology via Polygonal Transition Models](https://camp-us.net/articles/HEG-7_Sleeping-Matter_Wakeful-Universe.html)  
 [HEG-7｜物質は六角構造で眠る ──物質のエネルギー最小化仮説](https://camp-us.net/articles/HEG-7_Matter-sleeps-in-hexa-Kryos.html)  
 [HEG-7｜八角形で止まる宇宙、完全円で壊れる理論 ──floc宇宙論と観測構文破綻の比較存在論｜Where the Universe Stops at Octagons, and Theories Break at Perfect Circles — A Comparative Ontology of floc Cosmology and Observational Syntax Collapse](https://camp-us.net/articles/HEG-7_Universe-Stops-at-Octagons.html)  
+
 [HEG-7｜六角緩衝呼吸モデル ──Hexagonal ZURE Breathing Buffer Model](https://camp-us.net/articles/HEG-7_Hexagonal_ZURE_Breathing-Buffer-Model.html)  
 ![Hexagonal_ZURE_Breathing-Buffer-Model](./assets/Hexagonal_ZURE_Breathing-Buffer-Model.png)  
 
+### 🌉 plain Incomplete Plane–Edge Transition theory : PIPET  
 [HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)  
 ![GenerativeFlow-of-Plane–Space-Transition](./assets/GenerativeFlow-of-Plane–Space-Transition.png)  
 
 
 
 > ──**多角的な思考の遷移の痕跡が、多角的に蓄積される。**
+
+---
+### Related Reviews
+
+[ZS-012_磁力は多角形の呼吸であるか──RuO₂ altermagnetism を読む](https://camp-us.net/critics/ZS-012_RuO_2-altermagnetism.html)  
+[ZS-013_銀河磁場は多角形の息吹であるか ──M51をflocで読む（“磁場が立った日”）](https://camp-us.net/critics/ZS-013_M51_on_floc.html)  
+[ZS-014_なぜカゴメ格子なのか？──舞台装置から観る観測構文論](https://camp-us.net/critics/ZS-014_Kagome-metal.html)  
+##### **ZURE科学詠評**: [ZURE Science Review](https://camp-us.net/ZSR.html) (ZSR)
 
 ---
 

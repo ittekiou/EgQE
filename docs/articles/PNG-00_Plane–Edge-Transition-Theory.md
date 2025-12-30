@@ -215,6 +215,10 @@ Percolation 理論では、巨大連結成分（giant component）の出現は�
 
 ---
 
+[HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)  
+
+---
+
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  
