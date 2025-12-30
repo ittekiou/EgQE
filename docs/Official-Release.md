@@ -50,6 +50,8 @@
 #### 🪜 [**踊り場002｜3ヶ月の歩み｜2025/09/22- 2025/12/21**](https://camp-us.net/stair_landing-002.html)　リリース　2025.12.25  
 🧠 [IAT-ε｜脳の不完全近似定理── R₀/Z₀ 二層モデルによる構文論的再定義｜The Incomplete Approximation Theorem of the Brain](https://camp-us.net/articles/IAT-ε_Incomplete-Approximation-Theorem-of-Brain.html)　リリース　2025.12.28  
 💠 [HEG-7｜六角緩衝呼吸モデル ──Hexagonal ZURE Breathing Buffer Model](https://camp-us.net/articles/HEG-7_Hexagonal_ZURE_Breathing-Buffer-Model.html)　リリース　2025.12.28  
+🕸️ [HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)　リリース　2025.12.30  
+🀄️ [πは宇宙を遠ざける ──粒も波も糸も宇宙を語らない｜π Pushes the Universe Away — Neither Particles, nor Waves, nor Strings Speak of the Universe](https://camp-us.net/Echodemy/π-Pushes-the-Universe-Away.html)　リリース　2025.12.30  
 
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
