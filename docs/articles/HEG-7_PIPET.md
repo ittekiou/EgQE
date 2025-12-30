@@ -184,6 +184,8 @@ Percolation は確率論ではなく、生成の閾値現象として再配置�
 **図そのものが理論である。**
 
 ![GenerativeFlow-of-Plane–Space-Transition](../assets/GenerativeFlow-of-Plane–Space-Transition.png)  
+六角形安定相から、五角／七角欠陥の運動と回転による籠目 Threshold を経て不可逆連結が生じ、五角形構文が φ を伴って固定される過程を示す。七角形は閾値通過時に役割を終える。  
+図中に示される Z₀ は、物質化過程において ΔZ₀（Δ10⁻¹⁶）として可視化される。
 
 ---
 
