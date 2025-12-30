@@ -9,8 +9,6 @@ layout: math
 
 本モデルは、幾何学的完成形の分類ではなく、**位相・連結・閾値・動力学**による生成過程の叙述である。
 
-![GenerativeFlow-of-Plane–Space-Transition](../assets/GenerativeFlow-of-Plane–Space-Transition.png)  
-
 ---
 
 ## 1. 平面安定相（六角形）
@@ -146,6 +144,8 @@ $φ_B$ が臨界値を超えると、
 
 > 本稿の生成叙述は、既存理論から導かれたものではない。三つの既存モデルは、生成過程を説明する起点ではない。  
 > 三つの補論は、本稿の叙述がどの理論と接続可能かを示す **事後的な写像**である。
+
+![GenerativeFlow-of-Plane–Space-Transition](../assets/GenerativeFlow-of-Plane–Space-Transition.png)  
 
 ---
 
