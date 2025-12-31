@@ -178,6 +178,8 @@ PIPET は、平面六角形構文が位相欠陥による五角形的閉包を�
 不完全近似と局所的不整合のもとで、空間生成がどのように成立するかを説明することに主眼が置かれている。  
 PIPET の中心的問いは、**空間はいかにして生成されるか**である。
 
+![GenerativeFlow-of-Plane–Space-Transition](../assets/GenerativeFlow-of-Plane–Space-Transition.png)  
+
 ---
 
 ## **生成後相（本稿）**

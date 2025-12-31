@@ -211,6 +211,28 @@ This figure is not a supplementary illustration; it is an integrated diagram tha
 
 ---
 
+# 🌉 PIPET : plain Incomplete Plane–Edge Transition theory
+
+## **生成相（PIPET：本稿）**
+
+PIPET は、平面六角形構文が位相欠陥による五角形的閉包を通じて、いかにして空間を立ち上げるかを記述する理論である。  
+不完全近似と局所的不整合のもとで、空間生成がどのように成立するかを説明することに主眼が置かれている。  
+PIPET の中心的問いは、**空間はいかにして生成されるか**である。
+
+---
+
+## **生成後相（別稿）**
+
+続く別稿で、空間生成がすでに成功した後に何が起きるのかを扱う。  
+空間が成立すると、構文は重さを獲得し、最大閉包ではなく、より低い遷移コストをもつ構成を選択するように緩和を始める。  
+ここでの中心的問いは、空間の生成ではなく、**空間はいかにして持続し、休止するか**である。
+
+[HEG-7｜空間は、面に落ち、六角形で眠る。──Post-Generative Polygonal Relaxation Phase](https://camp-us.net/articles/HEG-7_Post-Generative_Polygonal-Relaxation-Phase.html)  
+
+![Post-Generative_Polygonal-Relaxation-Phase](../assets/Post-Generative_Polygonal-Relaxation-Phase.png)  
+
+---
+
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  
