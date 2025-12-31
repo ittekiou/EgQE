@@ -30,6 +30,10 @@ layout: math
 [floc宇宙論 × 多角形遷移構文｜統合最小定義](https://camp-us.net/Polygonal_floc-Cosmology.html)  
 
 ---
+
+> ──**多角的な思考の遷移の痕跡が、多角的に蓄積される。**
+
+---
 ## 🔹 Working Reference｜PNG-00
 
 [PNG-00｜暫定整理｜平面生成・空間生成の二重基準(Working Reference for EgQE)](https://camp-us.net/articles/PNG-00_2D-3D_Generative_Basis.html)  
@@ -59,9 +63,6 @@ layout: math
 
 [HEG-7｜空間は、面に落ち、六角形で眠る。──Post-Generative Polygonal Relaxation Phase](https://camp-us.net/articles/HEG-7_Post-Generative_Polygonal-Relaxation-Phase.html)  
 ![Post-Generative_Polygonal-Relaxation-Phase](./assets/Post-Generative_Polygonal-Relaxation-Phase.png)  
-
-
-> ──**多角的な思考の遷移の痕跡が、多角的に蓄積される。**
 
 ---
 ### Related Reviews
