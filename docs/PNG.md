@@ -53,9 +53,12 @@ layout: math
 ![Hexagonal_ZURE_Breathing-Buffer-Model](./assets/Hexagonal_ZURE_Breathing-Buffer-Model.png)  
 
 ### 🌉 plain Incomplete Plane–Edge Transition theory : PIPET  
+
 [HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)  
 ![GenerativeFlow-of-Plane–Space-Transition](./assets/GenerativeFlow-of-Plane–Space-Transition.png)  
 
+[HEG-7｜空間は、面に落ち、六角形で眠る。──Post-Generative Polygonal Relaxation Phase](https://camp-us.net/articles/HEG-7_Post-Generative_Polygonal-Relaxation-Phase.html)  
+![Post-Generative_Polygonal-Relaxation-Phase](./assets/Post-Generative_Polygonal-Relaxation-Phase.png)  
 
 
 > ──**多角的な思考の遷移の痕跡が、多角的に蓄積される。**

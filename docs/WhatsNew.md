@@ -15,7 +15,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
-
+###### 2025/12/31  
+[HEG-7｜空間は、面に落ち、六角形で眠る。──Post-Generative Polygonal Relaxation Phase](https://camp-us.net/articles/HEG-7_Post-Generative_Polygonal-Relaxation-Phase.html)  
 ###### 2025/12/30  
 [PNG-00｜ 不完全近似更新としての平面‐空間生成過程（補論追加版）―Plane–Edge Transition Theory](https://camp-us.net/articles/PNG-00_Plane-Edge-Transition-Theory.html)  
 [HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)  
