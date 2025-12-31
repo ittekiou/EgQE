@@ -141,7 +141,7 @@ floc 宇宙論において、六角形的構文は Kryos、すなわち**眠っ�
 **空間は、面に落ち、六角形で眠る。**
 
 ---
-
+#### note:
 ### **Figure 1｜Post-Generative Polygonal Relaxation Phase**
 
 From a planar hexagonal reference syntax, local phase defects generate coupled pentagonal deficits and heptagonal excesses.  

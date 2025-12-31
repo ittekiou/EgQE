@@ -196,7 +196,7 @@ Percolation は確率論ではなく、生成の閾値現象として再配置�
 > ある閾値で固定された折れの履歴である。**
 
 ---
-
+#### note:
 ### **Figure 1 | Generative Flow of Plane–Space Transition (PIPET)**
 
 This figure illustrates the generative process through which a spatially fixed phase emerges from a stable hexagonal planar phase via the motion of pentagonal and heptagonal phase defects.  
