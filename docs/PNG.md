@@ -81,6 +81,8 @@ layout: math
 #### origami 展開図  *(Crease Pattern / Unfolded Relational Map)*  
 [折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列としての多角形遷移](https://camp-us.net/articles/ORGM-00_Origami-Theory-2.0_give-birth.html)  
 
+**ORGM**：Origamic Relational Gravity Mass  
+Origamic (Ontological/Operational) Relational Gravity Mass (ORGM)  
 
 ---
 
