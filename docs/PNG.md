@@ -11,7 +11,8 @@ layout: math
 ## 🌉 多角回生学
 
 - **Polygonal Neon Genesis Theory**（多角回生論）  
-	- **PIPET** : 角面理論（plain Incomplete Plane–Edge Transition theory）  
+	- **PIPET** : 角面理論（plain Incomplete Plane–Edge Transition theory） 
+	- **origami 2.0**：A Post-Classical Theory of Relational Folding
     
 - **Polygonal Neon Genesis Praxis**（多角回生術）  
 
@@ -71,6 +72,13 @@ layout: math
 [ZS-013_銀河磁場は多角形の息吹であるか ──M51をflocで読む（“磁場が立った日”）](https://camp-us.net/critics/ZS-013_M51_on_floc.html)  
 [ZS-014_なぜカゴメ格子なのか？──舞台装置から観る観測構文論](https://camp-us.net/critics/ZS-014_Kagome-metal.html)  
 ##### **ZURE科学詠評**: [ZURE Science Review](https://camp-us.net/ZSR.html) (ZSR)
+
+---
+## 🦢 **origami 2.0**：A Post-Classical Theory of Relational Folding
+- Origami Theory 2.0（ORGM）— Toward an Origamic Cosmology  
+			- From particle, wave, and string to folding relations  
+
+[折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列としての多角形遷移](https://camp-us.net/articles/ORGM-00_Origami-Theory-2.0_give-birth.html)  
 
 ---
 

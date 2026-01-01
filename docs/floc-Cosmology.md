@@ -49,10 +49,11 @@ under construction
 ## floc宇宙論の二相
 
 # **Phase-Relational Materialism**
-
+origamic physics
 
 # **Phase-Implementation Syntax**
-
+origamic cosmology
+- From particle, wave, and string to folding relations
 ### Z₀宇宙論
 [HEG-3｜Z₀宇宙論── 関係生成の構文としての宇宙](https://camp-us.net/articles/HEG-3_Cosmological-Syntax_Z%E2%82%80.html)  
 [HEG-3｜Z₀存在論｜Zure Ontology](https://camp-us.net/articles/HEG-3_Zure-Ontology_Z%E2%82%80.html)  

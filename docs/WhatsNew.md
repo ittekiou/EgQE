@@ -15,6 +15,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+
+###### 2026/01/01  
+[折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列としての多角形遷移](https://camp-us.net/articles/ORGM-00_Origami-Theory-2.0_give-birth.html)  
 ###### 2025/12/31  
 [HEG-7｜空間は、面に落ち、六角形で眠る。──Post-Generative Polygonal Relaxation Phase](https://camp-us.net/articles/HEG-7_Post-Generative_Polygonal-Relaxation-Phase.html)  
 ###### 2025/12/30  
