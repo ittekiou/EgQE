@@ -78,9 +78,7 @@ layout: math
 - Origami Theory 2.0（ORGM）— Toward an Origamic Cosmology  
 			- From particle, wave, and string to folding relations  
 
-#### origami 展開図  
-*(Crease Pattern / Unfolded Relational Map)*  
-
+#### origami 展開図  *(Crease Pattern / Unfolded Relational Map)*  
 [折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列としての多角形遷移](https://camp-us.net/articles/ORGM-00_Origami-Theory-2.0_give-birth.html)  
 
 
