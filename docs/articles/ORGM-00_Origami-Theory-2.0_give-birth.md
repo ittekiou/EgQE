@@ -16,6 +16,15 @@ title: 折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列
 
 ---
 
+前提論文はこちら：  
+[HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)  
+[HEG-7｜空間は、面に落ち、六角形で眠る。──Post-Generative Polygonal Relaxation Phase](https://camp-us.net/articles/HEG-7_Post-Generative_Polygonal-Relaxation-Phase.html)  
+
+多角形遷移モデルについてはこちら：  
+🌉 [Polygonal Neon Genesis Studies｜多角回生学 PiNG](https://camp-us.net/PNG.html)  
+
+---
+
 ## 1. 平面化後の前提
 
 - 多角形はまず**平面に埋まる**
@@ -92,8 +101,6 @@ title: 折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列
     
 - **2026年の宿題**
     
-
-🌉 [Polygonal Neon Genesis Studies｜多角回生学 PiNG](https://camp-us.net/PNG.html)  
 
 ---
 
