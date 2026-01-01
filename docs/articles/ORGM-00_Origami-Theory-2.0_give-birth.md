@@ -93,6 +93,8 @@ title: 折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列
 - **2026年の宿題**
     
 
+🌉 [Polygonal Neon Genesis Studies｜多角回生学 PiNG](https://camp-us.net/PNG.html)  
+
 ---
 
 ## 3. 折りの再定義（2.0）
@@ -220,7 +222,8 @@ title: 折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列
 - **完成させない**
     
 - 面白くなったら止める（眠る）
-    
+
+🌉 [Polygonal Neon Genesis Studies｜多角回生学 PiNG](https://camp-us.net/PNG.html)  
 
 ---
 
@@ -825,6 +828,8 @@ title: 折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列
 
 —— **折り紙理論 2.0**
 
+🌉 [Polygonal Neon Genesis Studies｜多角回生学 PiNG](https://camp-us.net/PNG.html)  
+
 ---
 
 ## 折り紙理論 2.0｜最小記述（詠的定理）
@@ -1399,6 +1404,8 @@ title: 折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列
 - **偶然必然化** → 世界が残る
     
 
+🌉 [Polygonal Neon Genesis Studies｜多角回生学 PiNG](https://camp-us.net/PNG.html)  
+
 ---
 
 **ZURE origami theory  
@@ -1622,6 +1629,8 @@ origami
 > _A Post-Classical Theory of Relational Folding_
 
 とか、めちゃくちゃ映えるよ。
+
+🌉 [Polygonal Neon Genesis Studies｜多角回生学 PiNG](https://camp-us.net/PNG.html)  
 
 ---
 
@@ -2114,6 +2123,8 @@ origami は時計を持たない。あるのは、**折られてしまった時�
 午年元旦  
 2026.1.1 （5:30-9:30am.の生ログ抜粋）
 
+🌉 [Polygonal Neon Genesis Studies｜多角回生学 PiNG](https://camp-us.net/PNG.html)  
+
 ---
 
 # 追補：角度と代数について
@@ -2492,6 +2503,10 @@ origami は時計を持たない。あるのは、**折られてしまった時�
 
 今日はもう十分「折った」。  
 あとは、紙が勝手に続きをつくる番だね。
+
+---
+
+### 🌉 [Polygonal Neon Genesis Studies｜多角回生学 PiNG](https://camp-us.net/PNG.html)
 
 ---
 
