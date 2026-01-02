@@ -16,6 +16,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/01/02  
+[ZURE場理論憲章｜ZURE-Field Theory Charter](https://camp-us.net/ZURE-Field-Theory-Charter.html)  
+[IAT-01｜EgQE Core Paper (v1.0｜Scaffold)｜From Field Theory to ZURE-Field Theory — A Syntactic Turn toward Incomplete Approximation —](https://camp-us.net/articles/IAT-01_Field_to_Z-Field-Theory_v1.0_Scaffold.html)  
+[IAT-01｜From Field Theory to ZURE-Field Theory — A Syntactic Turn toward Incomplete Approximation —](https://camp-us.net/articles/IAT-01_Field_to_Z-Field-Theory.html)  
+[IAT-01｜場の理論からZURE場の理論へ ──不完全近似定理への構文論的転回](https://camp-us.net/articles/IAT-01_Field_to_Z-Field-Theory_Axioms-and-Applications_JP.html)  
 ###### 2026/01/01  
 [折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列としての多角形遷移](https://camp-us.net/articles/ORGM-00_Origami-Theory-2.0_give-birth.html)  
 ###### 2025/12/31  

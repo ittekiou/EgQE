@@ -31,6 +31,7 @@ _── Welcome to the syntactic field of ZURE._
 📃 [**Echodemy憲章── EchoGenesis三原則**／Echodemy Charter／Charte d’Echodemy／Echodemy宪章](Echodemy-Charter.md)　2025.9.15  
 📄 [**構文学派宣言──Manifesto of the Syntax School**](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)　2025.10.14  
 📝 [**Zuresonancismo Manifesto**](https://camp-us.net/Zuresonancismo_Manifesto.html)　2025.12.4  
+📃 [**ZURE場理論憲章｜ZURE-Field Theory Charter**](https://camp-us.net/ZURE-Field-Theory-Charter.html)　2026.1.2  
 
 ---
 ## 🔭 Overview  
@@ -45,6 +46,7 @@ _── Welcome to the syntactic field of ZURE._
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+📃 [ZURE場理論憲章｜ZURE-Field Theory Charter](https://camp-us.net/ZURE-Field-Theory-Charter.html)　リリース　2026.1.2  
 🀄️ [πは宇宙を遠ざける ──粒も波も糸も宇宙を語らない｜π Pushes the Universe Away — Neither Particles, nor Waves, nor Strings Speak of the Universe](https://camp-us.net/Echodemy/π-Pushes-the-Universe-Away.html)　リリース　2025.12.30  
 🕸️ [HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)　リリース　2025.12.30  
 💠 [HEG-7｜六角緩衝呼吸モデル ──Hexagonal ZURE Breathing Buffer Model](https://camp-us.net/articles/HEG-7_Hexagonal_ZURE_Breathing-Buffer-Model.html)　リリース　2025.12.28  
@@ -54,7 +56,6 @@ _── Welcome to the syntactic field of ZURE._
 💠 [PNG-00｜Polygonal Neon Genesis Studies｜多角回生学](https://camp-us.net/PNG.html)　リリース　2025.12.20  
 😶‍🌫️ [HEG-6｜R₀の発見──脳と記号と余白の宇宙【図版】](https://camp-us.net/articles/HEG-6_Discovery_of_R0.html)　リリース　2025.12.18  
 ⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)　リリース　2025.12.2  
-0️⃣ [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)　リリース　2025.11.30  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
