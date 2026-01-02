@@ -15,7 +15,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
-
+###### 2026/01/03  
+[なぜ、Z₀ = 10⁻¹⁶ なのか？── 10⁻¹⁶は「誤差」ではなく生成である](https://camp-us.net/articles/Zure-Offset_10_-16.html)  
 ###### 2026/01/02  
 [ZURE場理論憲章｜ZURE-Field Theory Charter](https://camp-us.net/ZURE-Field-Theory-Charter.html)  
 [IAT-01｜EgQE Core Paper (v1.0｜Scaffold)｜From Field Theory to ZURE-Field Theory — A Syntactic Turn toward Incomplete Approximation —](https://camp-us.net/articles/IAT-01_Field_to_Z-Field-Theory_v1.0_Scaffold.html)  
