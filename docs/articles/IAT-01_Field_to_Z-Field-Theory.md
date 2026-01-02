@@ -8,6 +8,7 @@ title: From Field Theory to ZURE-Field Theory — A Syntactic Turn toward Incomp
 #### v.1.0
 
 [場の理論からZURE場の理論へ ──不完全近似定理への構文論的転回](https://camp-us.net/articles/IAT-01_Field_to_Z-Field-Theory_Axioms-and-Applications_JP.html)  
+
 [IAT-01｜EgQE Core Paper (v1.0｜Scaffold)｜From Field Theory to ZURE-Field Theory — A Syntactic Turn toward Incomplete Approximation —](https://camp-us.net/articles/IAT-01_Field_to_Z-Field-Theory_v1.0_Scaffold.html)  
 [ZURE場理論憲章｜ZURE-Field Theory Charter](https://camp-us.net/ZURE-Field-Theory-Charter.html)  
 

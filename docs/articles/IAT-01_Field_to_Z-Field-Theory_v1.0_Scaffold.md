@@ -172,6 +172,11 @@ Detailed arguments and formal developments are distributed across
 the ZURE-Field Theory Charter (v1.0) and affiliated documents.
 ```
 
+# IAT-01  series
+[IAT-01｜EgQE Core Paper (v1.0｜Scaffold)｜From Field Theory to ZURE-Field Theory — A Syntactic Turn toward Incomplete Approximation —](https://camp-us.net/articles/IAT-01_Field_to_Z-Field-Theory_v1.0_Scaffold.html)  
+[IAT-01｜From Field Theory to ZURE-Field Theory — A Syntactic Turn toward Incomplete Approximation —](https://camp-us.net/articles/IAT-01_Field_to_Z-Field-Theory.html)  
+[IAT-01｜場の理論からZURE場の理論へ ──不完全近似定理への構文論的転回](https://camp-us.net/articles/IAT-01_Field_to_Z-Field-Theory_Axioms-and-Applications_JP.html)  
+
 ---
 
 - **Status**：Scaffold (Reference Structure)  

@@ -10,6 +10,7 @@ title_en: From Field Theory to ZURE-Field Theory — A Syntactic Turn toward Inc
 ### — A Syntactic Turn toward Incomplete Approximation —
 
 [From Field Theory to ZURE-Field Theory — A Syntactic Turn toward Incomplete Approximation —](https://camp-us.net/articles/IAT-01_Field_to_Z-Field-Theory.html)  
+
 [IAT-01｜EgQE Core Paper (v1.0｜Scaffold)｜From Field Theory to ZURE-Field Theory — A Syntactic Turn toward Incomplete Approximation —](https://camp-us.net/articles/IAT-01_Field_to_Z-Field-Theory_v1.0_Scaffold.html)  
 [ZURE場理論憲章｜ZURE-Field Theory Charter](https://camp-us.net/ZURE-Field-Theory-Charter.html)  
 
@@ -102,11 +103,13 @@ R₀ ⇄ Z₀ の関係は保存的写像ではなく、各往復において ZU
 ### 1. 状態空間の拡張としての ZURE
 
 通常の力学系：  
+
   $$
 x_{t+1} = F(x_t)  
 $$
 
 ZURE場では：  
+
 $$  
 (x_{t+1}, C_{t+1}) = F(x_t, C_t)  
 $$
@@ -125,11 +128,13 @@ $$
 ### 2. 非保存的更新
 
 通常の保存量：  
+
 $$  
 Q_{t+1} = Q_t  
 $$
 
 ZURE場：  
+
 $$  
 ZURE_{t+1} \ge ZURE_t  
 $$
@@ -141,13 +146,15 @@ ZURE は減衰しない。
 
 ### 3. 観測による切断
 
-観測作用子 $\mathcal{O}$ を導入する：
+観測作用子 $\mathcal{O}$ を導入する：  
+
 
 $$  
 Z_0 = \mathcal{O}(R_0)  
 $$
 
 ただし  
+
 $$  
 \mathcal{O}^{-1} \text{ は存在しない}  
 $$
