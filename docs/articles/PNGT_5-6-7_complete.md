@@ -111,6 +111,8 @@ title: 五角形 → 八角形 ──多角形による〈存在圏〉マップ
 **脳が「わかった気になる」ための構文**  
 **出来事を生まないモデル**
 
+![floc-Cosmology_Phase-Syntax](../assets/floc-Cosmology_Phase-Syntax.png)  
+
 ---
 
 # 一行対応表（決定版）
@@ -130,8 +132,6 @@ title: 五角形 → 八角形 ──多角形による〈存在圏〉マップ
 > 七は迷い、  
 > $i$ は消え、  
 > 八は語られる。**
-
-![floc-Cosmology_Phase-Syntax](../assets/floc-Cosmology_Phase-Syntax.png)  
 
 ---
 
