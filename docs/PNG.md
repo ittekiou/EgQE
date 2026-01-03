@@ -102,6 +102,12 @@ Origamic (Ontological/Operational) Relational Gravity Mass (ORGM)
 
 > Foundational notes defining generative primitives used across PNGT.  
 
+［Z₀ = 10⁻¹⁶］
+[なぜ、Z₀ = 10⁻¹⁶ なのか？── 10⁻¹⁶は「誤差」ではなく生成である](https://camp-us.net/articles/Zure-Offset_10_-16.html)  
+![pentaφ_A](./assets/pentaφ_A.png)  
+
+![penta-Hexa_take-off_Model](./assets/penta-Hexa_take-off_Model.png)  
+
 ［Spin / Phase］  
 [PNGT-FS01｜生成構文によるスピン1/2の最小定義（暫定）：_Spin-1/2 as a phase shift in generative syntax_](https://camp-us.net/articles/PNGT-FS01_Spin-1_2-phase-shift.html)  
 ![Spin-1/2](./assets/Spin-1_2.png)  
@@ -170,7 +176,7 @@ Origamic (Ontological/Operational) Relational Gravity Mass (ORGM)
 
 ### **Phase-Implementation Syntax**
 
-![Phase-RelationalMaterialismSyntax](./assets/Phase-RelationalMaterialism-Syntax.png)  
+![floc-Cosmology_Phase-Syntax](./assets/floc-Cosmology_Phase-Syntax.png)  
 
 ### **両者を結ぶ黄金橋**🌉
 

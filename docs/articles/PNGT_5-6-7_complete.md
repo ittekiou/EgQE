@@ -382,6 +382,9 @@ $$
 
 > **七角は回りすぎて、同じには戻れず、外へも出られず、反転して六角に吸収される。**
 
+---
+
+![HexaPentaHepta](../assets/HexaPentaHepta.png)  
 
 ---
 
