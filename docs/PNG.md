@@ -137,6 +137,7 @@ Origamic (Ontological/Operational) Relational Gravity Mass (ORGM)
 #### PNGT_5-6-7｜五-六-七角形の遷移 ──多角形の生成力学へ
 [他者の取り込みから空間が生まれるまで｜カオス → プロト五角形 → 六角形 → 七角形 → 五角形](https://camp-us.net/articles/PNGT_5-6-7_01.html)  
 [物質＝五・六・七角形のハイブリッド｜六角形と「他者」──なぜ「六角形だけ」では足りないのか](https://camp-us.net/articles/PNGT_5-6-7_02.html)  
+[五角形 → 八角形 ──多角形による〈存在圏〉マップ](https://camp-us.net/articles/PNGT_5-6-7_complete.html)  
 #### PNGT08｜八角形の系（観測化モード）
 [PNGT-08｜痕跡化の射程──八角形・六角形・四角形・三角形](https://camp-us.net/articles/PNGT-08_Range-of-Trace.html)  
 #### PNGT.-｜点と線、そして円と球
