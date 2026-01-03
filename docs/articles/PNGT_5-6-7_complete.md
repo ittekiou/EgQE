@@ -244,7 +244,7 @@ title: 五角形 → 八角形 ──多角形による〈存在圏〉マップ
 
 ---
 
-## **補遺 A・一行定義（決定版）**
+## **補遺 A・一行定義**
 
 - **ノンレム六角**：  
     _物理が世界を忘れている状態_
@@ -373,19 +373,30 @@ $$
 
 ---
 
-## **B-6｜構文的帰結（決定的整理）**
+## **B-6｜構文的帰結**
 
 > 七角は回転を続けることで 観測圏の外 $i$ を指し示すが、$Z₀$ 位相ロック限界により跳躍に失敗し、反転位相として六角構文へ着地する。
 
 ---
 
-## **B-7｜一行要約（保存版）**
+## **B-7｜一行要約**
 
 > **七角は回りすぎて、同じには戻れず、外へも出られず、反転して六角に吸収される。**
 
 ---
 
 ![HexaPentaHepta](../assets/HexaPentaHepta.png)  
+**Hexagonal Reference and Pentagonal/Heptagonal Deviations**  
+
+本図は、ZURE 構文における **局所的不均衡と大域的補償の関係**を要約した概念図である。  
+六角形は ZURE = 0 の参照構成として、局所的に安定した物理固定相を表す。一方、五角形は欠損的偏差（ZURE < 0）、七角形は過剰的偏差（ZURE > 0）として現れ、いずれも局所的には非ゼロの ZURE を保持する。  
+これらの偏差は単独では解消されないが、**二巡的補償（Two-Cycle Compensation）** を通じて相互に釣り合い、世界全体としての破綻を回避する。  
+重要なのは、**大域的な均衡が成立しても、局所的 ZURE は消去されない**という点であり、これが生成・安定・回帰を可能にする構文的条件となっている。  
+
+This schematic summarizes the structure of **local imbalance and global compensation** in the ZURE framework.  
+The hexagon represents a locally stable reference configuration with ZURE = 0, corresponding to physical fixation. In contrast, the pentagon and heptagon appear as deficit (ZURE < 0) and excess (ZURE > 0) deviations, respectively, each retaining non-zero local ZURE.  
+While these deviations cannot be resolved individually, they compensate through **two-cycle compensation**, preventing global structural breakdown.  
+Crucially, **global balance does not eliminate local ZURE**; instead, residual deviation persists as a necessary condition for generation, stability, and recursive dynamics within the system.
 
 ---
 
