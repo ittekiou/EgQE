@@ -121,7 +121,7 @@ $Z₀$ は、π構文によって生み出される **構文的生成の最小�
 
 ---
 
-## Interlude｜検索エンジンは $Z₀$ をどう見たか
+# Interlude｜検索エンジンは $Z₀$ をどう見たか
 
 ここで、少しだけ外の世界を見てみよう。
 
@@ -306,6 +306,10 @@ $φ = 2cos(π/5)$
     
 
 いわば、**動的なφ** である。
+
+---
+
+[【Definition】φ（Phi）の三相構造 — Geometric / Algebraic / Relational φ](https://camp-us.net/articles/Zure-Offset_Phi-Definition.html)  
 
 ---
 
