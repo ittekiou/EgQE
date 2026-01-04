@@ -4,8 +4,12 @@ title_en: "Derivation of the Golden Ratio from Relational Phase Update: Golden A
 title: 関係的位相更新から導かれる黄金比── 黄金角は非同期不可逆更新の観測痕跡である
 ---
 # 関係的位相更新から導かれる黄金比
-
 ### ── 黄金角は非同期不可逆更新の観測痕跡である
+
+## Derivation of the Golden Ratio from Relational Phase Update:
+#### Golden Angle as an Observational Trace of Asynchronous Irreversible Dynamics
+
+---
 
 ## 要旨（Abstract）
 
