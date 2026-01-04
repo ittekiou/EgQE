@@ -51,6 +51,10 @@ Z₀ はエネルギーの量子ではなく、構文射影の最小量子であ
 ---
 
 ## そして、黄金角は「自然現象」から**宇宙論の公理**になった
+
+**Honeycomb hides Z₀; sunflower reveals it.**  
+Static synchronization erases syntax seeds;  
+asynchronous growth lets them breathe.
   
 > **宇宙論を語る前提のUpdateへ**
 
