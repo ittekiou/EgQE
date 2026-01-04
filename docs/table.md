@@ -3,6 +3,60 @@ layout: math
 ---
 
 
+
+
+
+**Column A (Left: Relational φ Breathing)**:
+- Large circle (white line, gold border)
+- Golden ratio division: Large arc (222.5° gold fill), small arc (137.5° white)
+- Labels:
+  - Small arc: "   $Golden Angle　 θ_φ ≈137.5°$   "
+  - 
+  - Below: "   $α  = 1/φ²= θ / 2π 　(shift ratio)$   "
+  -   $α = 1/φ²$  (shift ratio)   
+  - 
+- Golden arrow on circumference: "  $Self → Other alternation (minimal asynchrony)$  "
+
+**Column B (Center: Geometric Worst Approximation)**:
+- Concentric circles with point sequence (20 points, gold dots)
+- Spiral dispersion (no overlap, aperiodic)
+- Labels:
+  - Top: "　 Phase shift ratio  $α = [0; 1,1,1,…]$ 　(worst approximation)"
+  - Center: "Phase collision minimization (period avoidance)"
+- Red dots: Hypothetical rational α periodic overlap (contrast)
+
+**Column C (Right: Algebraic φ Precipitation)**:
+- Continued fraction chain → equation:
+
+$$
+α = [0;1,1,1,…]
+$$
+$$↓$$$$
+α = 1/φ²
+$$$$
+φ² = φ + 1
+$$$$
+φ = (1 + √5)/2
+$$
+$$
+θ=2πα≈137.5°
+$$
+
+
+Fibonacci ratio
+$$
+F_{k+1}/F_k → φ 　(scale fossil)
+$$
+$$
+√5
+$$
+**Bottom full-width catchphrase (bold gold, large)**:
+The golden ratio is not designed. It precipitates from the "survival" of golden angle breathing.
+
+**Flow arrows**: A → golden curve → B → golden curve → C (breathing → approximation resistance → precipitation)
+**Size**: A4 landscape, high resolution (publication/arXiv/note use)
+
+
 <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Left: Sphere -->
