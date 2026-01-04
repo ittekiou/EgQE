@@ -46,6 +46,7 @@ _── Welcome to the syntactic field of ZURE._
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)　リリース　2026.1.4  
 📃 [ZURE場理論憲章｜ZURE-Field Theory Charter](https://camp-us.net/ZURE-Field-Theory-Charter.html)　リリース　2026.1.2  
 🀄️ [πは宇宙を遠ざける ──粒も波も糸も宇宙を語らない｜π Pushes the Universe Away — Neither Particles, nor Waves, nor Strings Speak of the Universe](https://camp-us.net/Echodemy/π-Pushes-the-Universe-Away.html)　リリース　2025.12.30  
 🕸️ [HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)　リリース　2025.12.30  
@@ -55,7 +56,6 @@ _── Welcome to the syntactic field of ZURE._
 🏰 [floc宇宙論の二相構造と黄金橋🌉｜PhReMa-PhiSyn_PiNG](https://camp-us.net/PhReMa-PhiSyn_PiNG.html)　リリース　2025.12.21  
 💠 [PNG-00｜Polygonal Neon Genesis Studies｜多角回生学](https://camp-us.net/PNG.html)　リリース　2025.12.20  
 😶‍🌫️ [HEG-6｜R₀の発見──脳と記号と余白の宇宙【図版】](https://camp-us.net/articles/HEG-6_Discovery_of_R0.html)　リリース　2025.12.18  
-⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)　リリース　2025.12.2  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 

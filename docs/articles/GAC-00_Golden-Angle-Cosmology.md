@@ -321,6 +321,22 @@ The author thanks botanical phyllotaxis for refusing to follow human measurement
 
 ---
 
+# 📎 Appendix A to F
+
+- Appendix A：Angle
+    
+- Appendix B：Time
+    
+- Appendix C：Space
+    
+- Appendix D：Causality
+    
+- Appendix E：Interaction / Force
+    
+- Appendix F：Observation
+
+---
+
 # 📎 Appendix A
 
 ## **On the Projection from Relational φ to Angular Representation**
