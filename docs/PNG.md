@@ -106,6 +106,7 @@ Origamic (Ontological/Operational) Relational Gravity Mass (ORGM)
 [GAC-00｜関係的位相更新から導かれる黄金比── 黄金角は非同期不可逆更新の観測痕跡である｜Derivation of the Golden Ratio from Relational Phase Update: Golden Angle as an Observational Trace of Asynchronous Irreversible Dynamics](https://camp-us.net/articles/GAC-00_Golden-Angle-Cosmology.html)  
 [GAC-01｜黄金角による位相更新とZURE生成 ― 呼吸する宇宙の構文論的基礎 ―【図版論文】](https://camp-us.net/articles/GAC-01_Golden-Angle-Topology-Update.html)  
 [GAC-00｜黄金角による位相更新の公理 Axiom 0–3](https://camp-us.net/articles/GAC-00_Axiom_Golden-Angle-Cosmology.html)  
+![GoldenAngleCosmology](./assets/GoldenAngleCosmology.png)  
 
 ［Z₀ = 10⁻¹⁶］  
 [なぜ、Z₀ = 10⁻¹⁶ なのか？── 10⁻¹⁶は「誤差」ではなく生成である](https://camp-us.net/articles/Zure-Offset_10_-16.html)  

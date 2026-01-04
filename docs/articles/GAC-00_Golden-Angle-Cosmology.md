@@ -384,7 +384,7 @@ Expressing the golden angle as 137.5° is therefore an after-the-fact projection
 
 ### A.3 なぜ φ² なのか
 
-#### b（Why φ² Appears）
+#### （Why φ² Appears）
 
 **JP**  
 黄金比 φ は結果である。  
@@ -576,8 +576,7 @@ The appearance of flow arises because observers link traces into narratives.
 
 **JP**  
 位相更新そのものは無次元である。  
-しかし、観測構文（π構文）に射影された瞬間、  
-更新は角度・距離・時間として記述される。
+しかし、観測構文（π構文）に射影された瞬間、更新は角度・距離・時間として記述される。
 
 このとき生じる最小不可視差分が  
 
