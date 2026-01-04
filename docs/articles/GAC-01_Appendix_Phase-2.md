@@ -1,5 +1,5 @@
 ---
-layout:
+layout: math
 title: ひまわりが教えた構文のタネ
 title_en: Z₀ as the Seed of Syntax
 ---
