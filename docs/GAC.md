@@ -48,6 +48,8 @@ Z₀ はエネルギーの量子ではなく、構文射影の最小量子であ
 > 
 > 関係的生成が、完全構文（円・数・角度）へ射影されるときに不可避に生じる最小の構文残差である。
 
+[Z₀宣言 ── π構文で閉じないという選択｜The Z₀ Declaration  — On π-Syntax and the Choice Not to Close —](https://camp-us.net/Z₀-Declaration.html)  
+
 ---
 
 # 黄金角は「自然現象」から**宇宙論の公理**になった

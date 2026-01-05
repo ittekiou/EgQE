@@ -113,6 +113,7 @@ Origamic (Ontological/Operational) Relational Gravity Mass (ORGM)
 ![GoldenAngleCosmology](./assets/GoldenAngleCosmology.png)  
 
 ［Z₀ = 10⁻¹⁶］  
+[Z₀宣言 ── π構文で閉じないという選択｜The Z₀ Declaration  — On π-Syntax and the Choice Not to Close —](https://camp-us.net/Z₀-Declaration.html)  
 [なぜ、Z₀ = 10⁻¹⁶ なのか？── 10⁻¹⁶は「誤差」ではなく生成である](https://camp-us.net/articles/Zure-Offset_10_-16.html)  
 ![pentaφ_A](./assets/pentaφ_A.png)  
 
