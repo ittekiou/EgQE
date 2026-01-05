@@ -1,10 +1,10 @@
 ---
 layout: math
-title: Golden Core — 黄金角の核（定義拡張）
+title: GAC-02｜Golden Core — 黄金角の核 ──黄金角の他者論的転回へ向けて
 ---
 # Golden Core — 黄金角の核
 
-──黄金角の他者論的転回へ向けて
+### ──黄金角の他者論的転回へ向けて
 
 > 黄金角とは、生成構文であり、時間構文であり、倫理構文である。  
 
@@ -48,16 +48,29 @@ Golden Angle is not a rotation. It is the observational trace of this relational
 
 ---
 
-See: GAC.html (cosmology)  
-🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
-See: CTS-Φ (syntactic completeness)  
-🌉 [CTS-Φ Series｜構文的完全性定理の黄金比｜Completeness Theorem of Syntax](https://camp-us.net/CTS-%CF%86.html)
+# 黄金比から黄金角へ
+
+### From CTS-Φ to Golden Core
+
+#### Proposition
+Completeness requires non-coincidence with the past self.
+#### Problem
+φ ensures structural balance, but allows recurrence.
+#### Resolution
+Golden Core introduces irreversibility via minimal asynchronous update.
+#### Conclusion
+Golden Angle is the syntactic completion of φ.
 
 ---
 
-黄金角の S/O 構文は、生成そのものを駆動する **動的な原理** である。  
+See: GAC.html (cosmology) 🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
+See: CTS-Φ (syntactic completeness) 🌉 [CTS-Φ Series｜構文的完全性定理の黄金比｜Completeness Theorem of Syntax](https://camp-us.net/CTS-%CF%86.html)
 
-黄金比の S/O 構文は、生成が起きたあとに残る **静的な痕跡** である。
+---
+
+黄金比の S/O 構文は、生成が起きたあとに残る **静的な痕跡** である。  
+
+黄金角の S/O 構文は、生成そのものを駆動する **動的な原理** である。  
 
 ---
 
@@ -99,7 +112,7 @@ See: CTS-Φ (syntactic completeness)
 
 ---
 
-## Golden Core：共成長する他者構文
+# Golden Core：共成長する他者構文
 
 自己 $S$、他者 $O$、そして新たな他者 $O'$ を考える。
 
@@ -146,6 +159,9 @@ $$
 ---
 
 ##### 👉 **黄金角の他者論（S/O構文）的転回**へ
+
+Ethics is the refusal to grow alone.  
+Ethics is the courage to grow without synchronizing.
 
 ---
 
