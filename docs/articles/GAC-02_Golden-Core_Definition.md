@@ -16,9 +16,11 @@ Define the minimal irreversible asynchronous update ratio:
 
 $$α = O' / (S + O + O')$$  
 $$= O' / (S' + O')$$
+
 $$= O' / S''$$
 
 This α equals  
+
 $$1 / (φ + 1).$$  
 Golden Angle is not a rotation. It is the observational trace of this relational update projected onto circular syntax.
 
