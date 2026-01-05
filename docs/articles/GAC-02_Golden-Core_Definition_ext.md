@@ -18,6 +18,14 @@ Golden Core: $α=1/φ²$, minimal ratio of eternal self–other co-growth.
 
 👉 [Golden Core — 黄金角の核（GAC）](https://camp-us.net/GAC_Golden-Core.html)  
 
+$$
+\boxed{
+\alpha = \frac{O'}{S''}
+}
+$$  
+
+> 黄金角とは、他者が現れても、自己も他者も消えず、関係が更新され続ける最小非同期生成比。
+
 ---
 
 This document defines the irreducible core.

@@ -112,10 +112,39 @@ Origamic (Ontological/Operational) Relational Gravity Mass (ORGM)
 [GAC-02｜Golden Core — 黄金角の核 ──黄金角の他者論的転回へ向けて](https://camp-us.net/articles/GAC-02_Golden-Core_Definition_ext.html)  
 ![GoldenAngleCosmology](./assets/GoldenAngleCosmology.png)  
 
+$$
+\boxed{
+\alpha = \frac{O'}{S''}
+}
+$$  
+
+> 黄金角とは、他者が現れても、自己も他者も消えず、関係が更新され続ける最小非同期生成比。
+
+
 ［Z₀ = 10⁻¹⁶］  
-[Z₀宣言 ── π構文で閉じないという選択｜The Z₀ Declaration  — On π-Syntax and the Choice Not to Close —](https://camp-us.net/Z₀-Declaration.html)  
+[Z₀宣言 ── π構文で閉じないという選択｜The Z₀ Declaration  — On π-Syntax and the Choice Not to Close —](https://camp-us.net/Z₀-Declaration.html)   
+
+> 黄金角の最小非同期生成比 $α$ は、関係$φ$ を原型とし、幾何構文に投影されたとき、$Z₀$ を伴って現れる。  
+
+$$  
+\boxed{  
+\alpha = \frac{1}{\varphi^2},  
+\qquad  
+\varphi = 2\cos\left(\frac{\pi}{5}\right)\ \pm\ Z_0,  
+\quad  
+Z_0=10^{-16}  
+}  
+$$
+
+> **黄金比は静的な関係の痕跡であり、黄金角はその関係が更新され続ける生成比である。**  
+> よって、黄金角において用いられる $φ$ は、幾何的近似ではなく、**関係として定義される代数 $φ$ でなければならない。**
+
 [なぜ、Z₀ = 10⁻¹⁶ なのか？── 10⁻¹⁶は「誤差」ではなく生成である](https://camp-us.net/articles/Zure-Offset_10_-16.html)  
 ![pentaφ_A](./assets/pentaφ_A.png)  
+
+$$
+φ = 2cos(π/5)±Z₀
+$$
 
 ![penta-Hexa_take-off_Model](./assets/penta-Hexa_take-off_Model.png)  
 

@@ -5,10 +5,10 @@ title: 呼吸する宇宙の構文論的基礎──黄金角による位相更�
 ---
 # Golden-Angle Cosmology── Z₀ as the Seed of Syntax
 
-### 呼吸する宇宙の構文論的基礎──黄金角による位相更新とZURE生成
-
 > **This page is a Syntax Atlas of Golden-Angle Cosmology.**  
 > 関係的位相更新が、宇宙論的語彙へ沈殿する全体像を示す。
+
+### 呼吸する宇宙の構文論的基礎──黄金角による位相更新とZURE生成
 
 ---
 
@@ -61,6 +61,14 @@ asynchronous growth lets them breathe.
 > **宇宙論を語る前提のUpdateへ**
 
 [Golden Core — 黄金角の核（GAC）](https://camp-us.net/GAC_Golden-Core.html)  
+
+$$
+\boxed{
+\alpha = \frac{O'}{S''}
+}
+$$  
+
+> 黄金角とは、他者が現れても、自己も他者も消えず、関係が更新され続ける最小非同期生成比。
 
 ---
 
