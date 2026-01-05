@@ -58,6 +58,8 @@ asynchronous growth lets them breathe.
   
 > **宇宙論を語る前提のUpdateへ**
 
+[Golden Core — 黄金角の核（GAC）](https://camp-us.net/GAC_Golden-Core.html)  
+
 ---
 
 ## Phase Update：本文と Appendix の対応表

@@ -15,7 +15,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
-
+###### 2026/01/05  
+[Golden Core — 黄金角の核（GAC）](https://camp-us.net/GAC_Golden-Core.html)  
 ###### 2026/01/04  
 [GAC-00｜関係的位相更新から導かれる黄金比── 黄金角は非同期不可逆更新の観測痕跡である｜Derivation of the Golden Ratio from Relational Phase Update: Golden Angle as an Observational Trace of Asynchronous Irreversible Dynamics](https://camp-us.net/articles/GAC-00_Golden-Angle-Cosmology.html)  
 [GAC-01｜黄金角による位相更新とZURE生成 ― 呼吸する宇宙の構文論的基礎 ―【図版論文】](https://camp-us.net/articles/GAC-01_Golden-Angle-Topology-Update.html)  
