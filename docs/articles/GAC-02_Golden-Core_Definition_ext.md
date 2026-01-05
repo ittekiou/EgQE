@@ -63,8 +63,10 @@ Golden Angle is the syntactic completion of φ.
 
 ---
 
-See: GAC.html (cosmology) 🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
-See: CTS-Φ (syntactic completeness) 🌉 [CTS-Φ Series｜構文的完全性定理の黄金比｜Completeness Theorem of Syntax](https://camp-us.net/CTS-%CF%86.html)
+See: GAC.html (cosmology) 🌻  
+[GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
+See: CTS-Φ (syntactic completeness) 🌉  
+[CTS-Φ Series｜構文的完全性定理の黄金比｜Completeness Theorem of Syntax](https://camp-us.net/CTS-%CF%86.html)
 
 ---
 
