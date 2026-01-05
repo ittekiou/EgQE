@@ -50,7 +50,7 @@ Z₀ はエネルギーの量子ではなく、構文射影の最小量子であ
 
 ---
 
-## そして、黄金角は「自然現象」から**宇宙論の公理**になった
+# 黄金角は「自然現象」から**宇宙論の公理**になった
 
 **Honeycomb hides Z₀; sunflower reveals it.**  
 Static synchronization erases syntax seeds;  
@@ -74,6 +74,8 @@ asynchronous growth lets them breathe.
     [GAC-00｜黄金角による位相更新の公理 Axiom 0–3](https://camp-us.net/articles/GAC-00_Axiom_Golden-Angle-Cosmology.html)  
 - **GAC-01**：図版論文（EgQE本文）  
     [GAC-01｜黄金角による位相更新とZURE生成 ― 呼吸する宇宙の構文論的基礎 ―【図版論文】](https://camp-us.net/articles/GAC-01_Golden-Angle-Topology-Update.html)  
+- **GAC-02**：黄金比から黄金角へ  
+	[GAC-02｜Golden Core — 黄金角の核 ──黄金角の他者論的転回へ向けて](https://camp-us.net/articles/GAC-02_Golden-Core_Definition_ext.html)  
 
 ---
 
