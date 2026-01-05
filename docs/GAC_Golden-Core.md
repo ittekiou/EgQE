@@ -81,8 +81,8 @@ $$
 
 ---
 
-*EgQE / Golden Angle Cosmology*
-
+*EgQE / Golden Angle Cosmology*  
+[GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
 
 🌻
 
