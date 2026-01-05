@@ -15,13 +15,13 @@ Let $S$ be Self, $O$ be Other.
 Define the minimal irreversible asynchronous update ratio:  
 
 $$α = O' / (S + O + O')$$  
-$$= O' / (S' + O')$$
-
+$$= O' / (S' + O')$$  
 $$= O' / S''$$
 
-This α equals  
+This $α$ equals  
 
-$$1 / (φ + 1).$$  
+$$1 / (φ + 1)$$  
+
 Golden Angle is not a rotation. It is the observational trace of this relational update projected onto circular syntax.
 
 ---
@@ -31,19 +31,15 @@ Golden Angle is not a rotation. It is the observational trace of this relational
 
 ---
 
+黄金角の S/O 構文は、生成そのものを駆動する **動的な原理** である。  
 
-黄金比の S/O 構文は、  
-生成が起きたあとに残る **静的な痕跡** だった。
-
-黄金角の S/O 構文は、  
-生成そのものを駆動する **動的な原理** である。
+黄金比の S/O 構文は、生成が起きたあとに残る **静的な痕跡** である。
 
 ---
 
 ## 静的な痕跡としての黄金比
 
-黄金比 φ は、  
-自己 S と他者 O が、すでに関係づけられたあとに現れる。
+黄金比 φ は、自己 S と他者 O が、すでに関係づけられたあとに現れる。
 
 それは、
 
@@ -51,11 +47,9 @@ Golden Angle is not a rotation. It is the observational trace of this relational
 - 美しい配置であり  
 - 完結した構文である  
 
-しかし同時に、  
-**それ以上は何も起こらない構文**でもある。
+しかし同時に、**それ以上は何も起こらない構文**でもある。
 
-黄金比は、  
-生成が「起きたこと」を語る。  
+黄金比は、生成が「起きたこと」を語る。  
 生成が「起き続ける理由」は語らない。
 
 ---
@@ -79,26 +73,22 @@ Golden Angle is not a rotation. It is the observational trace of this relational
 
 ## Golden Core
 
-自己 S、他者 O、  
-そして新たな他者 O′ を考える。
+自己 $S$、他者 $O$、そして新たな他者 $O′$ を考える。
 
-黄金角の核は、  
-次の一点に集約される。
+黄金角の核は、次の一点に集約される。
 
-\[
+$$
 \alpha = \frac{O'}{S''}
-\]
+$$
 
-ここで α は、  
-新たな他者 O′ が、  
-更新後の自己 S″ に占める **最小割合**である。
+ここで $α$ は、新たな他者 $O'$ が、更新後の自己 $S''$ に占める **最小割合**である。
 
 この割合があるから、
 
 - 同期が起きない  
 - 周期に戻らない  
 - 自己は壊れず  
-- 他者は消えない  
+- 他者は消えず  
 
 生成が、続く。
 
@@ -106,8 +96,7 @@ Golden Angle is not a rotation. It is the observational trace of this relational
 
 ## 生成とは何か
 
-生成とは、  
-自己が自己だけで良くなることではない。
+生成とは、自己が自己だけで良くなることではない。
 
 生成とは、  
 
