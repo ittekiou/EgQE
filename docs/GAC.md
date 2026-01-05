@@ -72,6 +72,10 @@ $$
 
 ---
 
+👉 [黄金比・決定版（黄金角／S/O構文による再定義）](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
+
+---
+
 ## Phase Update：本文と Appendix の対応表
 
 - 本文＝**呼吸（Breathing）**

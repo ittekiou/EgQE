@@ -91,6 +91,10 @@ $$
 
 ---
 
+[黄金比・決定版（黄金角／S/O構文による再定義）](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
+
+---
+
 *EgQE / Golden Angle Cosmology*  
 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
 

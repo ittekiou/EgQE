@@ -12,6 +12,10 @@ layout: math
 ## Completeness Theorem of Syntax  
 ### ── *From Golden Bridge to Golden Living Zone, toward Reflexive Harmony.*
 
+Updated:  
+👉 [黄金比・決定版（黄金角／S/O構文による再定義）](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html) 2026/01/05  
+🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html) 2026/01/04  
+
 ---
 
 ## 🌕 I. CTS-Φ｜Completeness Theorem of Syntax──相互自己言及構文としての黄金比
@@ -91,6 +95,7 @@ CTS-Φ体系の鍵となる最終補論。
 虚構の完全定数$π$に含まれるZUREが、幾何 $φ$ を生む。$Z₀＝10⁻¹⁶$は、代数 $φ$ と 幾何 $φ$ の ZURE である。  
 [ZURE Pulse Field Theory](https://camp-us.net/articles/ZURE-Pulse-Field-Theory.html)  
 $π$は閉じようとし、$φ$は開き続ける。その最小差 $ΔP$ を規定する基準定数が $Z₀$ である。  
+👉 [Z₀宣言 ── π構文で閉じないという選択｜The Z₀ Declaration  — On π-Syntax and the Choice Not to Close —](https://camp-us.net/Z₀-Declaration.html) 2026/01/05  
 
 ---
 
