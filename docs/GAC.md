@@ -91,7 +91,7 @@ $$
 - **GAC-02**：黄金比から黄金角へ  
 	[GAC-02｜Golden Core — 黄金角の核 ──黄金角の他者論的転回へ向けて](https://camp-us.net/articles/GAC-02_Golden-Core_Definition_ext.html)  
 	
-- **GAC-03**：生成比としての〈関係φ〉
+- **GAC-03**：生成比としての〈関係φ〉  
 	[GAC-03｜ひまわりはなぜ黄金の大輪を咲かせるのか── 黄金角と黄金比の〈関係φ〉への転回｜Why Does the Sunflower Bloom in a Golden Pattern?— Beyond Geometry and Algebra: The Golden Ratio and the Golden Angle as Relational Principles —](https://camp-us.net/articles/GAC-03_Sunflower-Bloom_Golden-Pattern.html)  
 
 ---
