@@ -531,6 +531,12 @@ erscheint der Goldene Schnitt φ als Resultat.
 das durch das Zusammenleben mit dem Anderen überlebt hat.**
 
 ---
+*EgQE / Golden Angle Cosmology*  
+[GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
+
+🌻
+
+---
 
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
