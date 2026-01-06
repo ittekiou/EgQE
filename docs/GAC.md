@@ -61,7 +61,6 @@ asynchronous growth lets them breathe.
 > **宇宙論を語る前提のUpdateへ**
 
 #### 決定版・黄金角 $α$ 
-👉 [Golden Core — 黄金角の核（GAC）](https://camp-us.net/GAC_Golden-Core.html)  
 
 $$
 \boxed{
@@ -71,10 +70,11 @@ $$
 
 > 黄金角とは、他者が現れても、自己も他者も消えず、関係が更新され続ける**最小非同期生成比**
 
+👉 [Golden Core — 黄金角の核（GAC）](https://camp-us.net/GAC_Golden-Core.html)  
+
 ---
 
 #### 決定版・黄金比 $φ$
-👉 [黄金比・決定版（黄金角／S/O構文による再定義）](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
 
 $$  
 \boxed{  
@@ -83,6 +83,10 @@ $$
 $$
 
 > 黄金角 $α$ による生成が成立していたという **関係構文の静的痕跡**
+
+👉 [黄金比・決定版（黄金角／S/O構文による再定義）──CTS-Φからの接続](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
+👉 [黄金比 : Relational Golden Ratio — 関係としての φ（Relational Phi）—](https://camp-us.net/GAC_Relational-Golden-Ratio.html)  
+👉 [黄金比 決定版（S/O構文版）—— φ は比ではない、更新された自己である｜Definitive Definition of the Golden Ratio (S/O Syntax)— φ Is Not a Ratio, but an Updated Self](https://camp-us.net/GAC_Golden-Ratio_S-O_Syntax.html)  
 
 ---
 

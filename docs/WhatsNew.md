@@ -18,9 +18,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/01/06  
 [GAC-03｜ひまわりはなぜ黄金の大輪を咲かせるのか── 黄金角と黄金比の〈関係φ〉への転回｜Why Does the Sunflower Bloom in a Golden Pattern?— Beyond Geometry and Algebra: The Golden Ratio and the Golden Angle as Relational Principles —](https://camp-us.net/articles/GAC-03_Sunflower-Bloom_Golden-Pattern.html)  
+[黄金比 : Relational Golden Ratio — 関係としての φ（Relational Phi）—](https://camp-us.net/GAC_Relational-Golden-Ratio.html)  
+[黄金比 決定版（S/O構文版）── φ は比ではない、更新された自己である｜Definitive Definition of the Golden Ratio (S/O Syntax)— φ Is Not a Ratio, but an Updated Self](https://camp-us.net/GAC_Golden-Ratio_S-O_Syntax.html)  
 ###### 2026/01/05  
 [Golden Core — 黄金角の核（GAC）](https://camp-us.net/GAC_Golden-Core.html)  
-[黄金比・決定版（黄金角／S/O構文による再定義）](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
+[黄金比・決定版（黄金角／S/O構文による再定義）──CTS-Φからの接続](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
 [GAC-02｜Golden Core — 黄金角の核 ──黄金角の他者論的転回へ向けて](https://camp-us.net/articles/GAC-02_Golden-Core_Definition_ext.html)  
 [Z₀宣言 ── π構文で閉じないという選択｜The Z₀ Declaration  — On π-Syntax and the Choice Not to Close —](https://camp-us.net/Z₀-Declaration.html)  
 ###### 2026/01/04  

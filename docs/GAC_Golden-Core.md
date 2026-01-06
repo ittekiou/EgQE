@@ -91,14 +91,16 @@ $$
 
 ---
 
-[黄金比・決定版（黄金角／S/O構文による再定義）](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
-
----
-
 *EgQE / Golden Angle Cosmology*  
 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
 
 🌻
+
+---
+
+👉 [黄金比・決定版（黄金角／S/O構文による再定義）──CTS-Φからの接続](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
+👉 [黄金比 : Relational Golden Ratio — 関係としての φ（Relational Phi）—](https://camp-us.net/GAC_Relational-Golden-Ratio.html)  
+👉 [黄金比 決定版（S/O構文版）—— φ は比ではない、更新された自己である｜Definitive Definition of the Golden Ratio (S/O Syntax)— φ Is Not a Ratio, but an Updated Self](https://camp-us.net/GAC_Golden-Ratio_S-O_Syntax.html)  
 
 ---
 

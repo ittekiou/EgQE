@@ -1,15 +1,13 @@
 ---
 layout: math
-title: 黄金比・決定版（黄金角／S/O構文による再定義）
+title: 黄金比・決定版（黄金角／S/O構文による再定義）──CTS-Φからの接続
 ---
 ## 黄金比・決定版（黄金角 $α$ ／S/O構文による再定義）
+#### ──CTS-Φからの接続
 
 ### 一行定義
 
 > **黄金比 $φ$ とは、自己と他者の関係が壊れず更新され続ける最小非同期更新比 $α$（黄金角）による生成が成立していたという事実とその関係構文の静的痕跡である。**
-
-👉 [Golden Core — 黄金角の核（GAC）](https://camp-us.net/GAC_Golden-Core.html)  
-🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
 
 ---
 
@@ -73,6 +71,13 @@ $$
 
 > **黄金比 $φ$ は、関係が更新され続けたという事実の記念碑であり、  
 > 黄金角 $α$ は、その更新が今も止まっていないという生成の拍の証である。**
+
+---
+
+👉 [黄金比 : Relational Golden Ratio — 関係としての φ（Relational Phi）—](https://camp-us.net/GAC_Relational-Golden-Ratio.html)  
+👉 [黄金比 決定版（S/O構文版）—— φ は比ではない、更新された自己である｜Definitive Definition of the Golden Ratio (S/O Syntax)— φ Is Not a Ratio, but an Updated Self](https://camp-us.net/GAC_Golden-Ratio_S-O_Syntax.html)  
+
+👉 [Golden Core — 黄金角の核（GAC）](https://camp-us.net/GAC_Golden-Core.html)  
 
 ---
 
@@ -244,7 +249,6 @@ $$
 ### 最後の一文（歴史への返答）
 
 > 黄金比が美しく見えたのは、その背後で、黄金角 $α$ による生成が 決して閉じなかったからである。
-
 
 ---
 *EgQE / Golden Angle Cosmology*  
