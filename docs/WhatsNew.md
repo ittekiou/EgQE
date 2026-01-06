@@ -15,6 +15,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+
+###### 2026/01/06  
+[GAC-03｜ひまわりはなぜ黄金の大輪を咲かせるのか── 黄金角と黄金比の〈関係φ〉への転回｜Why Does the Sunflower Bloom in a Golden Pattern?— Beyond Geometry and Algebra: The Golden Ratio and the Golden Angle as Relational Principles —](https://camp-us.net/articles/GAC-03_Sunflower-Bloom_Golden-Pattern.html)  
 ###### 2026/01/05  
 [Golden Core — 黄金角の核（GAC）](https://camp-us.net/GAC_Golden-Core.html)  
 [黄金比・決定版（黄金角／S/O構文による再定義）](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
