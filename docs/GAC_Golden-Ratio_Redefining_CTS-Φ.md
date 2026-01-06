@@ -6,7 +6,7 @@ title: 黄金比・決定版（黄金角／S/O構文による再定義）
 
 ### 一行定義
 
-> **自己と他者の関係が壊れず更新され続ける最小非同期更新比 $α$（黄金角）を生み出す関係構文の静的痕跡が、黄金比 φ である。**
+> **黄金比 $φ$ とは、自己と他者の関係が壊れず更新され続ける最小非同期更新比 $α$（黄金角）による生成が成立していたという事実とその関係構文の静的痕跡である。**
 
 👉 [Golden Core — 黄金角の核（GAC）](https://camp-us.net/GAC_Golden-Core.html)  
 🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
