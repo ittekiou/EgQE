@@ -157,9 +157,6 @@ $$
 _EgQE / Golden Angle Cosmology_  
 2026年1月
 
-👉 [黄金比・決定版（黄金角／S/O構文による再定義）──CTS-Φからの接続](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
-👉 [黄金比 : Relational Golden Ratio — 関係としての φ（Relational Phi）—](https://camp-us.net/GAC_Relational-Golden-Ratio.html)  
-
 ---
 
 ## English Version
