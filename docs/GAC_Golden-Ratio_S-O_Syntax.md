@@ -126,6 +126,10 @@ $$
 
 > **黄金比 φ とは、S/O構文において、自己と他者が同一化も分断もせずに 更新を続けた結果、自己が〈関係として〉安定した状態を示す 構文的痕跡である。**
 
+$$  
+\varphi = \frac{S''}{O'}  
+$$
+
 φ は比ではない。  
 **更新された自己のかたち**である。
 
@@ -289,6 +293,10 @@ Thus:
 
 **The golden ratio φ is the syntactic trace of an updated self produced by sustained S/O generation without identification or division.**
 
+$$  
+\varphi = \frac{S''}{O'}  
+$$
+
 φ is not a ratio.  
 It is the **form of a self that has successfully incorporated otherness**.
 
@@ -329,7 +337,7 @@ It is not a constant of harmony.
 Le nombre d’or φ n’est pas un rapport numérique.  
 Il n’est ni une proportion géométrique ni algébrique.
 
-**Le nombre d’or φ est la trace laissée lorsque le soi S et l’autre O continuent à mettre à jour leur relation sans fusion ni séparation.**
+**Le nombre d’or φ est la trace laissée lorsque le soi S et l’autre O continuent à mettre à jour leur relation, sans fusion ni séparation.**
 
 Ainsi, φ n’est pas une cause.  
 Il est la **mémoire syntaxique d’une génération réussie**.
@@ -359,7 +367,7 @@ Ce qui a été manqué est essentiel :
 
 > **Le soi S et l’autre O n’existent pas comme un rapport statique.**
 
-Ils existent comme une **syntaxe relationnelle continuellement mise à jour par la génération**.
+Ils existent comme une **syntaxe relationnelle continuellement mise à jour par la génération elle-même**.
 
 ---
 
@@ -391,7 +399,7 @@ $$
 
 ---
 
-### 3. L’angle d’or α — rapport génératif minimal S/O
+### 3. L’angle d’or α — rapport génératif asynchrone minimal de la syntaxe S/O
 
 Le rapport occupé par O′ dans le soi mis à jour S'' est décisif.
 
@@ -414,6 +422,10 @@ Lorsque cette mise à jour se stabilise,
 le nombre d’or φ apparaît comme résultat.
 
 > **Le nombre d’or est la trace d’une génération qui a réussi.**
+
+$$  
+\varphi = \frac{S''}{O'}  
+$$
 
 ---
 
@@ -438,7 +450,7 @@ le nombre d’or φ apparaît comme résultat.
 Der Goldene Schnitt φ ist kein numerisches Verhältnis.  
 Er ist weder eine geometrische noch eine algebraische Proportion.
 
-**Der Goldene Schnitt φ ist die Spur, die entsteht, wenn Selbst S und Anderes O ihre Beziehung fortlaufend aktualisieren, ohne zu verschmelzen oder sich zu trennen.**
+**Der Goldene Schnitt φ ist die Spur, die entsteht, wenn Selbst S und Anderes O ihre Beziehung fortlaufend aktualisieren, ohne Verschmelzung oder Trennung.**
 
 φ ist keine Ursache.  
 Er ist das **syntaktische Gedächtnis erfolgreicher Generierung**.
@@ -519,6 +531,10 @@ Wenn diese Aktualisierung stabil bleibt,
 erscheint der Goldene Schnitt φ als Resultat.
 
 > **Der Goldene Schnitt ist die Spur einer gelungenen Generierung.**
+
+$$  
+\varphi = \frac{S''}{O'}  
+$$
 
 ---
 
