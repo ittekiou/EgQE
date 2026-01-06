@@ -145,6 +145,12 @@ $$
 
 このとき、初めて黄金比 φ が **結果として現れる**。
 
+$$  
+\boxed{  
+\varphi = \frac{S''}{O'}  
+}  
+$$
+
 したがって、
 
 > **黄金比は生成秩序の原因ではない。  
@@ -375,6 +381,12 @@ This expression defines the **minimal asynchronous generative ratio** at which:
 Under sustained relational updates governed by α, the system converges toward a stable relational configuration.
 
 The golden ratio φ appears **only after** this stabilization.
+
+$$  
+\boxed{  
+\varphi = \frac{S''}{O'}  
+}  
+$$
 
 Therefore:
 
