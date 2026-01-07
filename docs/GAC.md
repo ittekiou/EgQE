@@ -33,6 +33,9 @@ _関係的位相更新_ が、**時間・空間・数・観測** へ どのよ�
     
 	→ **すべて「構文に落ちた痕跡」** である。
 
+
+👉 [黄金構文としての S/O 構文── S/O 構文としての黄金比と黄金角｜S/O Syntax as Golden Syntax— The Golden Ratio and Golden Angle as Relational Syntax](https://camp-us.net/GS_S-O_Golden-Syntax.html)  
+
 ---
 
 ## $Z₀=$ _Seed of Syntax_

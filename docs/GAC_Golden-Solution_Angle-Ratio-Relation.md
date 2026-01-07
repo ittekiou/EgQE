@@ -9,12 +9,13 @@ title: 黄金比と黄金角の黄金解 ──生成と痕跡を統一する最
 # 黄金比と黄金角の黄金解
 ### ──生成と痕跡を統一する最小原理──
 ---
-## 🇫🇷 **La Solution Dorée du Nombre d’Or et de l’Angle d’Or**
+### 🇫🇷 **La Solution Dorée du Nombre d’Or et de l’Angle d’Or**
 #### — Un principe minimal unifiant génération et trace —
 ---
-## 🇩🇪 **Die Goldene Lösung des Goldenen Schnitts und des Goldenen Winkels**
+### 🇩🇪 **Die Goldene Lösung des Goldenen Schnitts und des Goldenen Winkels**
 #### — Ein minimales Prinzip zur Vereinigung von Erzeugung und Spur —
 
+---
 ---
 
 # **The Golden Solution of the Golden Ratio and the Golden Angle**
