@@ -16,6 +16,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 ###### 2026/01/07  
+[The Golden Solution: Golden Angle, Traced as Golden Ratio｜CC0 / Public Domain](https://camp-us.net/GoldenSolution.html)  
 [The Golden Solution of the Golden Ratio and the Golden Angle — A Minimal Principle Unifying Generation and Trace —｜黄金比と黄金角の黄金解 ──生成と痕跡を統一する最小原理──](https://camp-us.net/GAC_Golden-Solution_Angle-Ratio-Relation.html)  
 [黄金構文としての S/O 構文── S/O 構文としての黄金比と黄金角｜S/O Syntax as Golden Syntax— The Golden Ratio and Golden Angle as Relational Syntax](https://camp-us.net/GS_S-O_Golden-Syntax.html)  
 [補論A：S/O 構文と翻訳構文── 多言語展開する黄金構文｜補論B：S/O 構文と数理構文── 多次元展開する幻想構文](https://camp-us.net/articles/GSxSO_transīre.html)  
