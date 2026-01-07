@@ -60,6 +60,8 @@ asynchronous growth lets them breathe.
   
 > **宇宙論を語る前提のUpdateへ**
 
+👉 [The Golden Solution of the Golden Ratio and the Golden Angle — A Minimal Principle Unifying Generation and Trace —｜黄金比と黄金角の黄金解 ──生成と痕跡を統一する最小原理──](https://camp-us.net/GAC_Golden-Solution_Angle-Ratio-Relation.html)  
+
 #### 決定版・黄金角 $α$ 
 
 $$
@@ -86,7 +88,7 @@ $$
 
 👉 [黄金比・決定版（黄金角／S/O構文による再定義）──CTS-Φからの接続](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
 👉 [黄金比 : Relational Golden Ratio — 関係としての φ（Relational Phi）—](https://camp-us.net/GAC_Relational-Golden-Ratio.html)  
-👉 [黄金比 決定版（S/O構文版）—— φ は比ではない、更新された自己である｜Definitive Definition of the Golden Ratio (S/O Syntax)— φ Is Not a Ratio, but an Updated Self](https://camp-us.net/GAC_Golden-Ratio_S-O_Syntax.html)  
+👉 [黄金比 決定版（S/O構文版）── φ は比ではない、更新された自己である｜Definitive Definition of the Golden Ratio (S/O Syntax)— φ Is Not a Ratio, but an Updated Self](https://camp-us.net/GAC_Golden-Ratio_S-O_Syntax.html)  
 
 ---
 

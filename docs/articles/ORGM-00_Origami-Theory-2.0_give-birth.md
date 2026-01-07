@@ -833,7 +833,7 @@ title: 折り紙理論 2.0（暫定版）：2.0は二連ではじまる──列
 > 宇宙も考えていない。  
 > 気づいたときには、もう折られている。
 
-—— **折り紙理論 2.0**
+── **折り紙理論 2.0**
 
 🌉 [Polygonal Neon Genesis Studies｜多角回生学 PiNG](https://camp-us.net/PNG.html)  
 

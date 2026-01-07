@@ -125,7 +125,7 @@ $$
 
 これが**S/O構文革命の核心**である。  
 
-👉 [黄金比 決定版（S/O構文版）—— φ は比ではない、更新された自己である｜Definitive Definition of the Golden Ratio (S/O Syntax)— φ Is Not a Ratio, but an Updated Self](https://camp-us.net/GAC_Golden-Ratio_S-O_Syntax.html)  
+👉 [黄金比 決定版（S/O構文版）── φ は比ではない、更新された自己である｜Definitive Definition of the Golden Ratio (S/O Syntax)— φ Is Not a Ratio, but an Updated Self](https://camp-us.net/GAC_Golden-Ratio_S-O_Syntax.html)  
 
 ---
 
@@ -305,7 +305,7 @@ Der Goldene Winkel ist Handlung.
 本定義は、_Golden Angle Cosmology_ および _EgQE_ における**黄金比の最終的・関係論的定義**である。  
 以後、φ は数値ではなく**関係的原型（relational archetype）** として用いられる。
 
-[黄金比 決定版（S/O構文版）—— φ は比ではない、更新された自己である｜Definitive Definition of the Golden Ratio (S/O Syntax)— φ Is Not a Ratio, but an Updated Self](https://camp-us.net/GAC_Golden-Ratio_S-O_Syntax.html)  
+[黄金比 決定版（S/O構文版）── φ は比ではない、更新された自己である｜Definitive Definition of the Golden Ratio (S/O Syntax)— φ Is Not a Ratio, but an Updated Self](https://camp-us.net/GAC_Golden-Ratio_S-O_Syntax.html)  
 
 [黄金比・決定版（黄金角／S/O構文による再定義）──CTS-Φからの接続](https://camp-us.net/GAC_Golden-Ratio_Redefining_CTS-Φ.html)  
 

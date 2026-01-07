@@ -16,6 +16,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+[The Golden Solution of the Golden Ratio and the Golden Angle — A Minimal Principle Unifying Generation and Trace —｜黄金比と黄金角の黄金解 ──生成と痕跡を統一する最小原理──](https://camp-us.net/GAC_Golden-Solution_Angle-Ratio-Relation.html)  
 ###### 2026/01/06  
 [GAC-03｜ひまわりはなぜ黄金の大輪を咲かせるのか── 黄金角と黄金比の〈関係φ〉への転回｜Why Does the Sunflower Bloom in a Golden Pattern?— Beyond Geometry and Algebra: The Golden Ratio and the Golden Angle as Relational Principles —](https://camp-us.net/articles/GAC-03_Sunflower-Bloom_Golden-Pattern.html)  
 [黄金比 : Relational Golden Ratio — 関係としての φ（Relational Phi）—](https://camp-us.net/GAC_Relational-Golden-Ratio.html)  
