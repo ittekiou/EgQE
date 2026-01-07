@@ -16,6 +16,7 @@
 [ZS-012_磁力は多角形の呼吸であるか──RuO₂ altermagnetism を読む](https://camp-us.net/critics/ZS-012_RuO_2-altermagnetism.html)  
 [ZS-013_銀河磁場は多角形の息吹であるか ──M51をflocで読む（“磁場が立った日”）](https://camp-us.net/critics/ZS-013_M51_on_floc.html)  
 [ZS-014_なぜカゴメ格子なのか？──舞台装置から観る観測構文論](https://camp-us.net/critics/ZS-014_Kagome-metal.html)  
+[ZS-015_観測構文の再配置としての Compton-y 観測── 観測量とモデル依存推定量の分離｜Reorganizing the Observational Hierarchy of Compton-y Measurements — Separating Observables from Model-Dependent Inferences](https://camp-us.net/critics/ZS-015_Compton-y.html)  
 
 
 ---
