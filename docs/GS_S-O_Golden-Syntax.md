@@ -5,10 +5,10 @@ title_en: S/O Syntax as Golden Syntax— The Golden Ratio and Golden Angle as Re
 ---
 # 黄金構文としての S/O 構文
 ## ── S/O 構文としての黄金比と黄金角
-#### **S/O Syntax as Golden Syntax** — The Golden Ratio and the Golden Angle as Relational Syntax —
-#### **La syntaxe S/O comme syntaxe dorée** — Le nombre d’or et l’angle d’or comme syntaxe relationnelle —
-#### **S/O-Syntax als goldene Syntax** — Das Goldene Verhältnis und der Goldene Winkel als relationale Syntax —
-#### **作为黄金构文的 S/O 构文** ── 作为 S/O 构文的黄金比与黄金角 ──
+### 🇬🇧🇺🇸 **S/O Syntax as Golden Syntax** — The Golden Ratio and the Golden Angle as Relational Syntax —
+### 🇫🇷🇨🇦 **La syntaxe S/O comme syntaxe dorée** — Le nombre d’or et l’angle d’or comme syntaxe relationnelle —
+### 🇩🇪 **S/O-Syntax als goldene Syntax** — Das Goldene Verhältnis und der Goldene Winkel als relationale Syntax —
+### 🇨🇳🇹🇼 **作为黄金构文的 S/O 构文** ── 作为 S/O 构文的黄金比与黄金角 ──
 
 ---
 
