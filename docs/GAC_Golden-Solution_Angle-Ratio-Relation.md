@@ -6,8 +6,8 @@ title: 黄金比と黄金角の黄金解 ──生成と痕跡を統一する最
 # **The Golden Solution of the Golden Ratio and the Golden Angle**
 ### — A Minimal Principle Unifying Generation and Trace —
 ---
-## 黄金比と黄金角の黄金解
-#### ──生成と痕跡を統一する最小原理──
+# 黄金比と黄金角の黄金解
+### ──生成と痕跡を統一する最小原理──
 ---
 ### 🇫🇷 **La Solution Dorée du Nombre d’Or et de l’Angle d’Or**
 #### — Un principe minimal unifiant génération et trace —
