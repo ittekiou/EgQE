@@ -60,6 +60,14 @@ asynchronous growth lets them breathe.
   
 > **宇宙論を語る前提のUpdateへ**
 
+$$
+\boxed{  
+\alpha = \frac{O'}{S''}  
+\qquad\Longleftrightarrow\qquad  
+\varphi = \frac{S''}{O'}  
+}  
+$$
+
 👉 [The Golden Solution of the Golden Ratio and the Golden Angle — A Minimal Principle Unifying Generation and Trace —｜黄金比と黄金角の黄金解 ──生成と痕跡を統一する最小原理──](https://camp-us.net/GAC_Golden-Solution_Angle-Ratio-Relation.html)  
 
 #### 決定版・黄金角 $α$ 

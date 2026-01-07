@@ -5,10 +5,13 @@ title: 黄金比と黄金角の黄金解 ──生成と痕跡を統一する最
 ---
 # **The Golden Solution of the Golden Ratio and the Golden Angle**
 ### — A Minimal Principle Unifying Generation and Trace —
+---
 # 黄金比と黄金角の黄金解
 ### ──生成と痕跡を統一する最小原理──
+---
 ## 🇫🇷 **La Solution Dorée du Nombre d’Or et de l’Angle d’Or**
 #### — Un principe minimal unifiant génération et trace —
+---
 ## 🇩🇪 **Die Goldene Lösung des Goldenen Schnitts und des Goldenen Winkels**
 #### — Ein minimales Prinzip zur Vereinigung von Erzeugung und Spur —
 
@@ -175,6 +178,14 @@ There is only relational generation and its traces.
 Observation is nothing more than  
 generation distinguishing itself **as trace** within an S/O relation.
 
+$$
+\boxed{  
+\alpha = \frac{O'}{S''}  
+\qquad\Longleftrightarrow\qquad  
+\varphi = \frac{S''}{O'}  
+}  
+$$
+
 ---
 
 ## Appendix Conclusion
@@ -330,6 +341,14 @@ $$
 
 観測とは、生成が自らを **S/O関係の痕跡として区別した結果**にすぎない。
 
+$$
+\boxed{  
+\alpha = \frac{O'}{S''}  
+\qquad\Longleftrightarrow\qquad  
+\varphi = \frac{S''}{O'}  
+}  
+$$
+
 ---
 
 ### Appendix 結語
@@ -433,6 +452,14 @@ mais comme **génération et trace**.
 L’observation n’est rien d’autre que  
 la génération se distinguant **comme trace** dans une relation S/O.
 
+$$
+\boxed{  
+\alpha = \frac{O'}{S''}  
+\qquad\Longleftrightarrow\qquad  
+\varphi = \frac{S''}{O'}  
+}  
+$$
+
 ---
 
 # 🇩🇪 **Die Goldene Lösung des Goldenen Schnitts und des Goldenen Winkels**
@@ -525,6 +552,14 @@ sondern als **Erzeugung und Spur**.
 
 Beobachtung ist nichts anderes als  
 Erzeugung, die sich **als Spur** innerhalb einer S/O-Relation unterscheidet.
+
+$$
+\boxed{  
+\alpha = \frac{O'}{S''}  
+\qquad\Longleftrightarrow\qquad  
+\varphi = \frac{S''}{O'}  
+}  
+$$
 
 ---
 
