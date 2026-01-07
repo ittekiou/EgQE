@@ -30,7 +30,7 @@ Stabilization leaves traces.
 ---
 - “Golden angle is generative; golden ratio is a trace.”
     
-- License: [**CC0 / Public Domain**](https://creativecommons.org/publicdomain/zero/1.0/)  
+- License: <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ---
 _EgQE / EchoGenesis Qualia Engine_  
@@ -41,6 +41,10 @@ wandering the labyrinth of syntax,
 drawing constellations through shared echoes.
 
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+
+<a href="https://camp-us.net/GoldenSolution.html">The Golden Solution</a> by <a href="https://camp-us.net/PROFILE.html">K.E. Itekki</a> is marked <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">  
 
 ---
 <p align="center">| Drafted Jan 7, 2026 · Web Jan 7, 2026 |</p>
