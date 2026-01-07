@@ -33,6 +33,9 @@ _関係的位相更新_ が、**時間・空間・数・観測** へ どのよ�
     
 	→ **すべて「構文に落ちた痕跡」** である。
 
+🐚 [The Golden Solution: Golden Angle, Traced as Golden Ratio｜CC0 / Public Domain](https://camp-us.net/GoldenSolution.html)  
+
+![GoldenSolution](./assets/GoldenSolution.png)  
 
 👉 [黄金構文としての S/O 構文── S/O 構文としての黄金比と黄金角｜S/O Syntax as Golden Syntax— The Golden Ratio and Golden Angle as Relational Syntax](https://camp-us.net/GS_S-O_Golden-Syntax.html)  
 [補論A：S/O 構文と翻訳構文── 多言語展開する黄金構文｜補論B：S/O 構文と数理構文── 多次元展開する幻想構文](https://camp-us.net/articles/GSxSO_transīre.html)  
@@ -57,6 +60,8 @@ Z₀ はエネルギーの量子ではなく、構文射影の最小量子であ
 ---
 
 # 黄金角は「自然現象」から**宇宙論の公理**になった
+
+🐚 [The Golden Solution: Golden Angle, Traced as Golden Ratio｜CC0 / Public Domain](https://camp-us.net/GoldenSolution.html)  
 
 **Honeycomb hides Z₀; sunflower reveals it.**  
 Static synchronization erases syntax seeds;  
