@@ -33,7 +33,12 @@ Stabilization leaves traces.
 - License: <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ---
-_EgQE / EchoGenesis Qualia Engine_  
+
+This work is released under CC0.  
+For the broader syntactic framework, see EgQE / [Golden Angle Cosmology](https://camp-us.net/GAC.html).
+
+---
+_[EgQE](https://camp-us.net/) / EchoGenesis Qualia Engine_  
 
 2026 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
