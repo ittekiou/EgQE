@@ -119,6 +119,10 @@ S/O 構文とは、**Subject / Object**、**Self / Other**、すなわち
 
 ---
 
+[補論A：S/O 構文と翻訳構文── 多言語展開する黄金構文｜補論B：S/O 構文と数理構文── 多次元展開する幻想構文](https://camp-us.net/articles/GSxSO_transīre.html)  
+
+---
+
 # **S/O Syntax as Golden Syntax**
 
 ### — The Golden Ratio and the Golden Angle as Relational Syntax —
@@ -594,6 +598,8 @@ S 与 O 并非作为两个预先存在的实体而存在。
 ---
 
 ## References / Links
+
+[補論A：S/O 構文と翻訳構文── 多言語展開する黄金構文｜補論B：S/O 構文と数理構文── 多次元展開する幻想構文](https://camp-us.net/articles/GSxSO_transīre.html)  
 
 - _Golden Angle Cosmology — Z₀ as the Seed of Syntax_  
     [https://camp-us.net/GAC.html](https://camp-us.net/GAC.html)

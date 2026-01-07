@@ -35,6 +35,7 @@ _関係的位相更新_ が、**時間・空間・数・観測** へ どのよ�
 
 
 👉 [黄金構文としての S/O 構文── S/O 構文としての黄金比と黄金角｜S/O Syntax as Golden Syntax— The Golden Ratio and Golden Angle as Relational Syntax](https://camp-us.net/GS_S-O_Golden-Syntax.html)  
+[補論A：S/O 構文と翻訳構文── 多言語展開する黄金構文｜補論B：S/O 構文と数理構文── 多次元展開する幻想構文](https://camp-us.net/articles/GSxSO_transīre.html)  
 
 ---
 
