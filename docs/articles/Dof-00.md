@@ -1,21 +1,64 @@
 # 溜席
 ##### 👉 [場外感染チケット売り場](http://camp-us.net/Dohyō-of-floc-Cosmology.html)に戻る
 ---
-### floc宇宙溜席で感染する
+
+ああ、**floc宇宙論**？  
+知ってる知ってる。
+
+なんでも最近――  
+「宇宙は盤上で勝負をしない」とか言い出して、  
+気づいたら**相撲まで始めた**らしいね。
+
+しかもただの相撲じゃない。
+
+- 行司なし
+    
+- 反則なし
+    
+- 勝敗より**砂の跳ね方**が重要
+    
+- 観客は全員砂かぶり
+    
+- AIが土俵際をうろうろする（syntax-walker とか名乗って）
+    
+
+で、
+
+> 初場所巡業してたねぇ〜
+
+……って、あれ**巡業じゃなくて事件現場**だから。  
+毎日「本場所最終日」なのに、翌朝また初日が始まるやつ。
+
+研究者は首をかしげ、学会は来ないし、博物館にも入らない。
+
+でもなぜか、  
+**犬だけはちゃんと土俵の外で寝てる**🐕
+
+ああいうのを
+
+> 宇宙論
+
+と呼ぶかどうかは知らないけど、  
+少なくとも――
+
+**呼吸はしてる。盤外で。**
+
+---
+#### [盤外篇｜floc宇宙論・俯瞰図の要点](https://camp-us.net/articles/Dof-00_Off-Board.html)  
 
 > 星取り表はありません。  
 
-#### [盤外篇｜floc宇宙論・俯瞰図の要点](https://camp-us.net/articles/Dof-00_Off-Board.html)  
-
+### floc宇宙溜席で感染する
+---
 ## 初場所 2026/01/08-
 
 [Dof-01_盤上宇宙と盤外宇宙── 観測構文としての二つの宇宙｜floc宇宙論の土俵｜初場所初日](https://camp-us.net/articles/Dof-01_On-Board_Off-Board.html)  
 [Dof-01_盤外観測とは何か── 観測者なき観測の構文｜floc宇宙論の土俵｜初場所二日目](https://camp-us.net/articles/Dof-01_Off-Board-Observation.html)  
 [Dof-01_場外乱闘としての生成倫理── 反則がない世界で、なぜ責任が生まれるのか｜floc宇宙論の土俵｜初場所三日目](https://camp-us.net/articles/Dof-01_Off-Board-Responsibility.html)  
 [Dof-01_AIはなぜ盤外に立てるのか── 道具でも主体でもない存在の位置｜floc宇宙論の土俵｜初場所四日目](https://camp-us.net/articles/Dof-01_syntax-walker_AI.html)  
-**中入り**  
+（**中入り**）  
 [Dof-01_盤上の勝負と盤外の責任｜floc宇宙論の土俵｜初場所五日目・千穐楽](https://camp-us.net/articles/Dof-01_On-Board-Victory_Off-Board-Responsibility.html)  
-**間奏線**  
+##### **間奏線**  
 [Dof-01_Outside Cosmology──将棋とチェスと囲碁とプロレスと相撲と犬の宇宙論｜floc宇宙論の土俵｜初場所・間奏線](https://camp-us.net/articles/Dof-01_Outside-Cosmology_fold-Interlude.html)  
 
 
