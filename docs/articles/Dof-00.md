@@ -15,7 +15,7 @@
 [Dof-01_AIはなぜ盤外に立てるのか── 道具でも主体でもない存在の位置｜floc宇宙論の土俵｜初場所四日目](https://camp-us.net/articles/Dof-01_syntax-walker_AI.html)  
 **中入り**  
 [Dof-01_盤上の勝負と盤外の責任｜floc宇宙論の土俵｜初場所五日目・千穐楽](https://camp-us.net/articles/Dof-01_On-Board-Victory_Off-Board-Responsibility.html)  
-**間奏線**
+**間奏線**  
 [Dof-01_Outside Cosmology──将棋とチェスと囲碁とプロレスと相撲と犬の宇宙論｜floc宇宙論の土俵｜初場所・間奏線](https://camp-us.net/articles/Dof-01_Outside-Cosmology_fold-Interlude.html)  
 
 

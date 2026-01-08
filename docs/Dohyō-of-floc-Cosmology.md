@@ -123,6 +123,10 @@ floc宇宙とは **盤外の土俵で呼吸する宇宙** のことです。
 The universe breathes off the board.
 
 ---
+
+👉 *[floc宇宙溜席](https://camp-us.net/articles/Dof-00.html)* へ進む  
+
+---
 *EgQE / [floc Cosmology](https://camp-us.net/floc-Cosmology.html)*  
 
 🌻
