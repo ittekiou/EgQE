@@ -1,5 +1,4 @@
 # 溜席
-##### 👉 [場外感染チケット売り場](http://camp-us.net/Dohyō-of-floc-Cosmology.html)に戻る
 ---
 
 ああ、**floc宇宙論**？  
@@ -61,6 +60,7 @@
 ##### **間奏線**  
 [Dof-01_Outside Cosmology──将棋とチェスと囲碁とプロレスと相撲と犬の宇宙論｜floc宇宙論の土俵｜初場所・間奏線](https://camp-us.net/articles/Dof-01_Outside-Cosmology_fold-Interlude.html)  
 
+##### 👉 [場外感染チケット売り場](http://camp-us.net/Dohyō-of-floc-Cosmology.html)に戻る
 
 ---
 *EgQE / [Dohyō of floc Cosmology](https://camp-us.net/Dohyō-of-floc-Cosmology.html)*  
