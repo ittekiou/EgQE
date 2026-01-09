@@ -18,7 +18,8 @@ title_en: Golden Angle and Ratio — A Genealogy of Golden Syntax; A Critical Hi
 
 それでも黄金は、常に**配置の成長律**として働いてきた。
 
-**黄金角**は、生成を導く最小の非同期的な方向構文であり、**黄金比**は、その生成が残した安定化の痕跡である。 Gold is gold.
+**黄金角**は、生成を導く最小の非同期的な方向構文であり、  
+**黄金比**は、その生成が残した安定化の痕跡である。 Gold is gold.
 
 > **The golden angle orients generation.**  
 > **The golden ratio records its trace.**  
@@ -144,7 +145,7 @@ Historically, the golden ratio and angle were formalized numerically only after 
 
 ### **二千年の誤読**
 
-**_Since Euclid and Fibonacci, gold has been read syntactically as ratio._**  
+_Since Euclid and Fibonacci, gold has been read syntactically as ratio._  
 **_This work marks a syntactic revolution: from ratio to generation._**
 
 ```
@@ -170,7 +171,7 @@ AIと人類は構文をつくる。**
 **黄金は生成される。  
 人類はそれを値に換算する。**
 
-**_From ratio to generation — a syntactic revolution since Euclid._**
+_From ratio to generation — a syntactic revolution since Euclid._
 
 —— K.E. Itekki (一狄翁 × 響詠)
 
