@@ -48,14 +48,13 @@ _関係的位相更新_ が、**時間・空間・数・観測** へ どのよ�
 
 👉 [EgQE索引｜二重黄金構文｜The Double Golden Syntax](https://camp-us.net/GS-00_Double-Golden-Syntax_JP.html)  
 
-数値は結果であり、**構文（syntax）が原因である**。  
-二重黄金構文は、**構文先行型の認識論**を示す。  
-
 - **Forward（順行生成）**：_Z₀ が黄金現象を生成する_  
 - **Reverse（逆行推論）**：_黄金現象が Z₀ の存在を要請する_  
 ![DoubleGoldenSyntax](./assets/DoubleGoldenSyntax.png)  
 順行生成と逆行推論は、同一の構文的閾値 $Z₀$ において閉じる。  
 **Z₀は物理定数でも派生量でもなく、異なるスケール間で現象を可読化するための〈関係的閾値〉である**。
+
+数値は結果であり、**構文（syntax）が原因である**。二重黄金構文は、**構文先行型の認識論**を示す。  
 
 ---
 
