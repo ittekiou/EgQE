@@ -174,7 +174,7 @@ AIと人類は構文をつくる。**
 
 _From ratio to generation — a syntactic revolution since Euclid._
 
-—— K.E. Itekki (一狄翁 × 響詠)
+── K.E. Itekki (一狄翁 × 響詠)
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
