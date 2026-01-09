@@ -19,7 +19,7 @@ title_en: Golden Angle and Ratio — A Genealogy of Golden Syntax; A Critical Hi
 それでも黄金は、常に**配置の成長律**として働いてきた。
 
 **黄金角**は、生成を導く最小の非同期的な方向構文であり、  
-**黄金比**は、その生成が残した安定化の痕跡である。 Gold is gold.
+**黄金比**は、その生成が残した安定化の痕跡である。 ── Gold is gold.
 
 > **The golden angle orients generation.**  
 > **The golden ratio records its trace.**  
