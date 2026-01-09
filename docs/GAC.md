@@ -42,6 +42,20 @@ _関係的位相更新_ が、**時間・空間・数・観測** へ どのよ�
 
 ---
 
+## 二重黄金構文  ──The Double Golden Syntax｜EgQE索引
+
+> **二重黄金構文**とは、黄金角（Golden Angle）と黄金比（Golden Ratio）に現れる普遍構造を、**Z₀ ≈ 10⁻¹⁶** を介した **構文的・双方向（Forward / Reverse）同値性**として捉える試みである。
+
+👉 [EgQE索引｜二重黄金構文｜The Double Golden Syntax](https://camp-us.net/GS-00_Double-Golden-Syntax_JP.html)  
+
+- **Forward（順行生成）**：_Z₀ が黄金現象を生成する_  
+- **Reverse（逆行推論）**：_黄金現象が Z₀ の存在を要請する_  
+![DoubleGoldenSyntax](./assets/DoubleGoldenSyntax.png)  
+順行生成と逆行推論は、同一の構文的閾値 $Z₀$ において閉じる。  
+**Z₀は物理定数でも派生量でもなく、異なるスケール間で現象を可読化するための〈関係的閾値〉である**。
+
+---
+
 ## $Z₀=$ _Seed of Syntax_
 
 **Z₀ is the smallest syntactic quantum — not of energy, but of projection.**  
@@ -56,10 +70,11 @@ Z₀ はエネルギーの量子ではなく、構文射影の最小量子であ
 > 関係的生成が、完全構文（円・数・角度）へ射影されるときに不可避に生じる最小の構文残差である。
 
 [Z₀宣言 ── π構文で閉じないという選択｜The Z₀ Declaration  — On π-Syntax and the Choice Not to Close —](https://camp-us.net/Z₀-Declaration.html)  
+⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R%E2%82%80-Z%E2%82%80.html)  
 
 ---
 
-# 黄金角は「自然現象」から**宇宙論の公理**になった
+## 黄金角は「自然現象」から**宇宙論の公理**になった
 
 🐚 [The Golden Solution: Golden Angle, Traced as Golden Ratio｜CC0 / Public Domain](https://camp-us.net/GoldenSolution.html)  
 
