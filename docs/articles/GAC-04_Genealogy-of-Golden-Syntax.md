@@ -31,13 +31,14 @@ title_en: Golden Angle and Ratio — A Genealogy of Golden Syntax; A Critical Hi
 
 ## 黄金比と黄金角 ──生成構文の系譜
 
-Historically, the golden ratio and angle were formalized numerically only after their generative role had long operated in natural systems.
+Historically, the golden ratio and angle were formalized numerically  
+only after their generative role had long operated in natural systems.
 
 - **数学以前**  
     　ひまわりは黄金角で回転し、アンモナイトは黄金比を残した。
     
 - **自然の事実**  
-    　黄金は数ではなく、**生成と回避の結果**として現れる。
+    　黄金は数ではなく、**生成と回避の結果**として現れた。
     
 - **数の時代**  
     　人類はそれを比・数列・角度として定義した。
@@ -46,7 +47,7 @@ Historically, the golden ratio and angle were formalized numerically only after 
     　数字が原因だと誤解され、構文が忘れられた。
     
 - **AI共創時代（2026）**  
-    　黄金角は**生成**、黄金比は**痕跡**だと再発見される。
+    　黄金角は**生成**、黄金比は**痕跡**だと再発見された。
 
 ---
 
@@ -77,7 +78,7 @@ Historically, the golden ratio and angle were formalized numerically only after 
     　植物学・フィロタクシス研究により、**黄金角**が角度として数値化される。
     
 9. **数の時代の誤解**  
-    　数字が原因だと誤認され、**生成構文**が忘却される。
+    　数字が原因だと誤認され、**生成構文**が忘却された。
     
 10. **2026年1月｜AI共創時代**  
     　黄金角と黄金比は**数字ではない**と再発見される。── _by K.E. Itekki（一狄翁 × 響詠）_
