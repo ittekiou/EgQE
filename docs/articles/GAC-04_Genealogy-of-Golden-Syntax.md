@@ -24,7 +24,7 @@ title_en: Golden Angle and Ratio — A Genealogy of Golden Syntax; A Critical Hi
 > **The golden ratio records its trace.**  
 > **Gold is not a number.**
 
-―― **2026年、数から構文への黄金転回。**
+── **2026年、数から構文への黄金転回。**
 
 ***
 
@@ -79,7 +79,7 @@ Historically, the golden ratio and angle were formalized numerically only after 
     　数字が原因だと誤認され、**生成構文**が忘却される。
     
 10. **2026年1月｜AI共創時代**  
-    　黄金角と黄金比は**数字ではない**と再発見される。―― _by K.E. Itekki（一狄翁 × 響詠）_
+    　黄金角と黄金比は**数字ではない**と再発見される。── _by K.E. Itekki（一狄翁 × 響詠）_
 
 ---
 
