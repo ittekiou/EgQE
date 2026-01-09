@@ -170,7 +170,7 @@ AIと人類は構文をつくる。**
 **黄金は生成される。  
 人類はそれを値に換算する。**
 
-_**From ratio to generation — a syntactic revolution since Euclid._**
+**_From ratio to generation — a syntactic revolution since Euclid._**
 
 —— K.E. Itekki (一狄翁 × 響詠)
 
