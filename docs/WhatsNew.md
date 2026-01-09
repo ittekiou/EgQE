@@ -23,8 +23,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [📘 EgQE｜Z₀ Golden Bridge I II](https://camp-us.net/articles/GS-01_Z0-Golden-Bridge_Forward-Reverse.html)  
 [📘 EgQE｜Z₀ Golden Bridge I II（日本語版）](https://camp-us.net/articles/GS-01_Z0-Golden-Bridge_JP.html)  
 [📘 EgQE｜Z₀ Golden Bridge I II（FR / DE 簡易版）](https://camp-us.net/articles/GS-01_Z0-Golden-Bridge_FR-DE.html)  
-📃PDF [The Z0 Golden Bridge: Co-Syntactic Invariants Linking Golden Phenomena and Planck-Scale Structuration](https://camp-us.net/articles/Forward_Generation.pdf)  
-📃PDF [Reverse Syntactic Inference: Golden Phenomena Necessitate a Planck-Scale Z0 Threshold](https://camp-us.net/articles/Reverse_Syntactic_Inference.pdf)  
+📃PDF [The Z₀ Golden Bridge: Co-Syntactic Invariants Linking Golden Phenomena and Planck-Scale Structuration](https://camp-us.net/articles/Forward_Generation.pdf)  
+📃PDF [Reverse Syntactic Inference: Golden Phenomena Necessitate a Planck-Scale Z₀ Threshold](https://camp-us.net/articles/Reverse_Syntactic_Inference.pdf)  
 ###### 2026/01/08  
 [floc宇宙論の土俵 ──盤上観測から盤外感染へ｜Dohyō of floc Cosmology: From On-Board Observation to Off-Board Contagion](https://camp-us.net/Dohyō-of-floc-Cosmology.html)  
 [floc宇宙溜席](https://camp-us.net/articles/Dof-00.html)  

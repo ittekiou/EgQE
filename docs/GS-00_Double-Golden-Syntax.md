@@ -18,7 +18,7 @@ This entry presents a **double syntactic construction** of golden phenomena:
 
 1. **Forward Generation**  
    Golden angle and golden ratio emerge from a scale-invariant syntactic threshold **Z₀**.  
-	  👉 [PDF_The Z0 Golden Bridge](https://camp-us.net/articles/Forward_Generation.pdf)  
+	  👉 [PDF_The Z₀ Golden Bridge](https://camp-us.net/articles/Forward_Generation.pdf)  
 
 2. **Reverse Inference**  
    The empirical stability of golden phenomena logically entails the existence of an antecedent **Z₀**.  

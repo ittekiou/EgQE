@@ -220,7 +220,7 @@ Z₀ は、
 
 - **The Z₀ Golden Bridge**  
   *Forward Generation of Golden Phenomena*  
-	  👉 [PDF_The Z0 Golden Bridge](https://camp-us.net/articles/Forward_Generation.pdf)  
+	  👉 [PDF_The Z₀ Golden Bridge](https://camp-us.net/articles/Forward_Generation.pdf)  
 
 - **Reverse Syntactic Inference**  
   *Golden Phenomena Necessitate Z₀*  
