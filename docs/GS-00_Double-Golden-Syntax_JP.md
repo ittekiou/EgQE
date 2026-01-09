@@ -247,6 +247,8 @@ Z₀ は、
 *EgQE — Echo-Genesis Qualia Engine*  
 *Double Golden Syntax Index*
 
+🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
+
 ---
 
 © 2025 K.E. Itekki  
