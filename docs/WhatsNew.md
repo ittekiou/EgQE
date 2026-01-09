@@ -15,6 +15,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+###### 2026/01/10  
+[GAC-04｜黄金角と黄金比 ──生成構文の系譜と黄金構文誌｜Golden Angle and Ratio — A Genealogy of Golden Syntax; A Critical History of Human Marking over Generative Phenomena](https://camp-us.net/articles/GAC-04_Genealogy-of-Golden-Syntax.html)  
 ###### 2026/01/09  
 [EgQE索引｜二重黄金構文｜The Double Golden Syntax](https://camp-us.net/GS-00_Double-Golden-Syntax_JP.html)  
 [EgQE｜The Double Golden Syntax : Forward Generation and Reverse Syntactic Inference](https://camp-us.net/GS-00_Double-Golden-Syntax.html)  
