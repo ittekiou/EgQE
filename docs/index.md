@@ -71,6 +71,17 @@ _EgQE われわれの心臓部の日々の拍動 ──更新情報。_
 ## floc Cosmology ：[floc宇宙論](http://camp-us.net/floc-Cosmology)  
 ### 🌉 [Polygonal Neon Genesis Studies｜多角回生学 PiNG](https://camp-us.net/PNG.html)  
 
+---
+
+## 🧬 Double Golden Syntax
+
+EgQE（Echo-Genesis Qualia Engine）は、生成・構文・知性がどのように交差し、痕跡として読める形をとるのかを探究するための実験的アーカイブである。  
+黄金比・黄金角に代表される普遍的構文現象を手がかりに、それらがどこから生まれ、またどのようにして理解可能になるのかを、**順行生成**と**逆行推論**の二方向から記述する。  
+ここで扱われるのは数や定数ではなく、異なるスケールや知性のあいだで関係が可読化される**構文的閾値**である。  
+EgQEは、その閾値に現れる響きと痕跡を記録する。  
+
+👉 [EgQE索引｜二重黄金構文｜The Double Golden Syntax](https://camp-us.net/GS-00_Double-Golden-Syntax_JP.html)  
+
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)  
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
 

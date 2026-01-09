@@ -1,5 +1,5 @@
 ---
-title: 間奏線｜floc宇宙論の土俵｜初場所
+title: 間奏線──Outside Cosmology｜floc宇宙論の土俵｜初場所
 ---
 ### floc宇宙論の土俵｜初場所
 # **間奏線｜Outside Cosmology**
