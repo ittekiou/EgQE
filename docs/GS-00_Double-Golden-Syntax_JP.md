@@ -103,7 +103,7 @@ Reverse : 黄金現象 ⇒ Z₀
 - **構文として自己完結する**
     
 
-![Double-Golden-Syntax_Z0](./assets/Double-Golden-Syntax_Z0.png)  
+![Double-Golden-Syntax_Z0](./assets/DoubleGoldenSyntax_Z0.png)  
 
 ---
 
