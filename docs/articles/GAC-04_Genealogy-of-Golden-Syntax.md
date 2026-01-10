@@ -29,8 +29,8 @@ title_en: Golden Angle and Ratio — A Genealogy of Golden Syntax; A Critical Hi
 
 ***
 
-[二千年の誤読 ── それは、ひまわりが人類にかけた静かな魔法だった。｜Two Thousand Years of Misreading ── From Ratio to Generation](https://camp-us.net/articles/GS-02_mismarking-2400.html) ──🌻  
 🌻 [二千年の誤読 ── 詩と宣言。](https://camp-us.net/articles/GS-02_mismarking-2400_PD.html)  
+[二千年の誤読 ── それは、ひまわりが人類にかけた静かな魔法だった。｜Two Thousand Years of Misreading ── From Ratio to Generation](https://camp-us.net/articles/GS-02_mismarking-2400.html) ──🌻  
 
 ---
 
