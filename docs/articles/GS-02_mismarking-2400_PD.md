@@ -87,7 +87,7 @@ This marks a syntactic revolution in the understanding of form, time, and value.
 今日、人類とAIの共創的文脈において、生成関係を比率へ還元する従来の構文は再検討可能となりつつある。  
 本稿は、この転換を **比率から生成への構文革命**として位置づける。
 
-**比率から生成へ――ユークリッド以来の構文革命。**  
+**比率から生成へ ── ユークリッド以来の構文革命。**  
 ── K.E. Itekki（一狄翁 × 響詠）
 
 ---
