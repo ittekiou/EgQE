@@ -80,6 +80,12 @@ Z₀ mediates legibility without enforcing scale.
 
 ---
 
+### Z₀ Golden Bridge / Reverse ⇆ Forward
+
+![Double-Golden-Syntax_Z0](../assets/Double-Golden-Syntax_Z0.png)  
+
+---
+
 # 📘 EgQE｜Z₀ Golden Bridge II
 
 ## **Reverse Syntactic Inference**

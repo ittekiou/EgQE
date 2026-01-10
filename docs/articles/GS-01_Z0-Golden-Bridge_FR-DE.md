@@ -41,6 +41,12 @@ Z₀ macht Strukturen **lesbar**, bevor Zahlen greifen.
 
 ---
 
+### Z₀ Golden Bridge / Reverse ⇆ Forward
+
+![Double-Golden-Syntax_Z0](../assets/Double-Golden-Syntax_Z0.png)  
+
+---
+
 [EgQE｜The Double Golden Syntax : Forward Generation and Reverse Syntactic Inference](https://camp-us.net/GS-00_Double-Golden-Syntax.html)  
 
 ---

@@ -138,6 +138,12 @@ Z₀は、世界が「数になる」ための最小閾値である。
 
 ---
 
+### Z₀ Golden Bridge / Reverse ⇆ Forward
+
+![Double-Golden-Syntax_Z0](../assets/Double-Golden-Syntax_Z0.png)  
+
+---
+
 # 📘 EgQE｜Z₀ Golden Bridge II（日本語版）
 
 ## **逆行構文推論**

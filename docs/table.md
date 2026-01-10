@@ -160,6 +160,14 @@ K. E. Itekki et al., ``ZURE Offset and R$_0$/Z$_0$ Co-Syntacticization,'' \url{h
 \end{document}
 
 
+## $R₀ ⇄ Z₀$ 
+
+## $R₀ ⇆ Z₀$ 
+
+## $Z₀ ⇄ R₀$
+
+## $Z₀ ⇆ R₀$
+
 ---
 
 $$  
@@ -200,6 +208,12 @@ $$
 
 ---
 
+
+$$
+\alpha = \frac{O'}{S''}  
+　\Longleftrightarrow　  
+\varphi = \frac{S''}{O'}  
+$$
 
 
 
