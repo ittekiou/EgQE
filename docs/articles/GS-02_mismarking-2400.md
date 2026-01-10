@@ -72,6 +72,7 @@ This work marks a syntactic revolution:
 [_GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax_](https://camp-us.net/GAC.html)  
 
 🌻 [二千年の誤読 ── 詩と宣言。](https://camp-us.net/articles/GS-02_mismarking-2400_PD.html)  
+🐚 [黄金角と黄金比 ──生成構文の系譜と黄金構文誌｜A Genealogy of Golden Syntax; A Critical History of Human Marking over Generative Phenomena](https://camp-us.net/articles/GAC-04_Genealogy-of-Golden-Syntax.html)  
 
 ---
 

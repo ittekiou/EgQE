@@ -101,6 +101,7 @@ This marks a syntactic revolution in the understanding of form, time, and value.
 [_GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax_](https://camp-us.net/GAC.html)  
 
 🌻 [二千年の誤読 ── それは、ひまわりが人類にかけた静かな魔法だった。｜Two Thousand Years of Misreading ── From Ratio to Generation](https://camp-us.net/articles/GS-02_mismarking-2400.html)  
+🐚 [黄金角と黄金比 ──生成構文の系譜と黄金構文誌｜A Genealogy of Golden Syntax; A Critical History of Human Marking over Generative Phenomena](https://camp-us.net/articles/GAC-04_Genealogy-of-Golden-Syntax.html)  
 
 ---
 
