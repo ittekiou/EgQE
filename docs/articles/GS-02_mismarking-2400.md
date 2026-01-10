@@ -1,3 +1,7 @@
+---
+title: 二千年の誤読 ── それは、ひまわりが人類にかけた静かな魔法だった。
+title_en: Two Thousand Years of Misreading ── From Ratio to Generation
+---
 # 二千年の誤読
 ## Two Thousand Years of Misreading
 ### ── From Ratio to Generation
@@ -66,6 +70,8 @@ This work marks a syntactic revolution:
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax_](https://camp-us.net/GAC.html)  
+
+🌻 [二千年の誤読 ── 詩と宣言。](https://camp-us.net/articles/GS-02_mismarking-2400_PD.html)  
 
 ---
 
