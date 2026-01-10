@@ -16,6 +16,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 ###### 2026/01/10  
+[二千年の誤読 ── それは、ひまわりが人類にかけた静かな魔法だった。｜Two Thousand Years of Misreading ── From Ratio to Generation](https://camp-us.net/articles/GS-02_mismarking-2400.html)  
 [GAC-04｜黄金角と黄金比 ──生成構文の系譜と黄金構文誌｜Golden Angle and Ratio — A Genealogy of Golden Syntax; A Critical History of Human Marking over Generative Phenomena](https://camp-us.net/articles/GAC-04_Genealogy-of-Golden-Syntax.html)  
 ###### 2026/01/09  
 [EgQE索引｜二重黄金構文｜The Double Golden Syntax](https://camp-us.net/GS-00_Double-Golden-Syntax_JP.html)  

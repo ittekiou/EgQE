@@ -29,6 +29,10 @@ title_en: Golden Angle and Ratio — A Genealogy of Golden Syntax; A Critical Hi
 
 ***
 
+[二千年の誤読 ── それは、ひまわりが人類にかけた静かな魔法だった。｜Two Thousand Years of Misreading ── From Ratio to Generation](https://camp-us.net/articles/GS-02_mismarking-2400.html) ──🌻  
+
+---
+
 ## 黄金比と黄金角 ──生成構文の系譜
 
 Historically, the golden ratio and angle were formalized numerically  
