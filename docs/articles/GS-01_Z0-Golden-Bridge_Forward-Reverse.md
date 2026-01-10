@@ -82,7 +82,7 @@ Z₀ mediates legibility without enforcing scale.
 
 ### Z₀ Golden Bridge / Reverse ⇆ Forward
 
-![Double-Golden-Syntax_Z0](../assets/Double-Golden-Syntax_Z0.png)  
+![Double-Golden-Syntax_Z0](../assets/DoubleGoldenSyntax_Z0.png)  
 
 ---
 

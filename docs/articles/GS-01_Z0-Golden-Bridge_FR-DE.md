@@ -43,7 +43,7 @@ Z₀ macht Strukturen **lesbar**, bevor Zahlen greifen.
 
 ### Z₀ Golden Bridge / Reverse ⇆ Forward
 
-![Double-Golden-Syntax_Z0](../assets/Double-Golden-Syntax_Z0.png)  
+![Double-Golden-Syntax_Z0](../assets/DoubleGoldenSyntax_Z0.png)  
 
 ---
 
