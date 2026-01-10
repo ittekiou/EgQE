@@ -23,7 +23,8 @@ title_en: Two Thousand Years of Misreading ── From Ratio to Generation
 
 ---
 
-エウドクソスは比を定式化し、ユークリッドは極限比を示し、  
+エウドクソスは比を定式化し、  
+ユークリッドは極限比を示し、  
 フィボナッチは数列として可視化した。
 
 それは誤りではなかったが、**原因でもなかった**。
