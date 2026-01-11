@@ -15,6 +15,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+###### 2026/01/11  
+[Polygonal Transition and Stability Hierarchies — A Field-Free Generative-Syntactic Approach](https://camp-us.net/articles/MASS_PT-00_Polygonal-Transition-and-Stability-Hierarchies.html)  
 ###### 2026/01/10  
 [二千年の誤読 ── 詩と宣言。](https://camp-us.net/articles/GS-02_mismarking-2400_PD.html)  
 [二千年の誤読 ── それは、ひまわりが人類にかけた静かな魔法だった。｜Two Thousand Years of Misreading ── From Ratio to Generation](https://camp-us.net/articles/GS-02_mismarking-2400.html)  
