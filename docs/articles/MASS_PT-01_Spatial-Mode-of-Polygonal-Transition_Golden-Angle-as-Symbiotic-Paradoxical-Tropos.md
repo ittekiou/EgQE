@@ -1,6 +1,7 @@
 ---
 title: Spatial Mode of Polygonal Transition — Golden Angle as a Symbiotic Paradoxical Tropos
 title_en: Spatial Mode of Polygonal Transition — Golden Angle as a Symbiotic Paradoxical Tropos
+layout: math
 ---
 # **Spatial Mode of Polygonal Transition**
 ## — _Golden Angle as a Symbiotic Paradoxical Tropos_
