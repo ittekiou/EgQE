@@ -119,7 +119,7 @@ $$
 
 黄金角による生成が完了すると、その**痕跡（trace）** として六角形的構文が現れ、物質的配置として沈殿する。
 
-平面と異なり、黄金角が非同期生成する**空間**において、それは **S＝O' → S'＝O''と遷移しながら痕跡化する。
+平面と異なり、黄金角が非同期生成する**空間**において、それは **S＝O' → S'＝O''** と遷移しながら痕跡化する。
 
 $$
 {Kryos_{Plane}}　 S＝O　\Longrightarrow　{Kryos_{Spatial}}　 S＝O'
@@ -151,7 +151,7 @@ $$
 
 ---
 
-## **Figure 1 — Spatial Mode of Polygonal Transition
+## **Figure 1 — Spatial Mode of Polygonal Transition**
 
 > Pentagons initiate generative divergence by internalizing otherness, while heptagons function as orientational exploration phases.  
 > The golden angle emerges as a **symbiotic paradoxical tropos**, sustaining non-synchronous 5–7 coupling at minimal transition cost.  
