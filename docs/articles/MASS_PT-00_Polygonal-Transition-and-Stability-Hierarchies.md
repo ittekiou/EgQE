@@ -1,5 +1,6 @@
 ---
 title: Polygonal Transition and Stability Hierarchies — A Field-Free Generative-Syntactic Approach
+title_en: Polygonal Transition and Stability Hierarchies — A Field-Free Generative-Syntactic Approach
 ---
 # **Polygonal Transition and Stability Hierarchies**  
 ## — _A Field-Free Generative-Syntactic Approach_
