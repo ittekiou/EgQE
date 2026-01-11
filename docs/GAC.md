@@ -21,6 +21,15 @@ title: 呼吸する宇宙の構文論的基礎──黄金角による位相更�
 _関係的位相更新_ が、**時間・空間・数・観測** へ どのように射影されるかを示す。
 
 ---
+# Multi-Angular Symbiosis Studies (MASS)
+
+[Polygonal Transition and Stability Hierarchies — A Field-Free Generative-Syntactic Approach](https://camp-us.net/articles/MASS_PT-00_Polygonal-Transition-and-Stability-Hierarchies.html)  
+![Polygonal Transition](./assets/PolygonalTransition.png)  
+
+[Spatial Mode of Polygonal Transition — Golden Angle as a Symbiotic Paradoxical Tropos](https://camp-us.net/articles/MASS_PT-01_Spatial-Mode-of-Polygonal-Transition_Golden-Angle-as-Symbiotic-Paradoxical-Tropos.html)  
+![Spatial Mode of Polygonal Transition](./assets/PolygonalTransition_Spatial-Mode.png)  
+
+---
 ## Projection-into-Syntax
 
 🌻 [二千年の誤読 ── 詩と宣言。](https://camp-us.net/articles/GS-02_mismarking-2400_PD.html)  
