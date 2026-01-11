@@ -44,7 +44,7 @@ This work reframes golden structures as outcomes of **survival-oriented relation
 
 - **五角形（Penta-paradox / Genesis）**  
     自己内部に他者を内包し、平面同期へ向かう直前で構文を折り返す生成起点。
->     Pentagonal configurations represent the minimal syntactic condition in which a system first internalizes otherness (S generates O internally), enabling divergence without planar suffocation.
+>    Pentagonal configurations represent the minimal syntactic condition in which a system first internalizes otherness (S generates O internally), enabling divergence without planar suffocation.
 
 $$
 \varphi_{plane} = \frac{S}{O}  
@@ -54,8 +54,7 @@ $$
 
 - **七角形（Hepta-tropos / Orient）**  
     自己と他者の関係が未確定のまま浮遊し、構文が方向を探索する転位相。非同期を探索するための離陸構文（Hepta-tropos）。
->     Heptagonal configurations constitute a transitional orientational phase in which S and O remain non-identical, allowing exploratory spatial reorientation without structural stabilization.
->     
+>    Heptagonal configurations constitute a transitional orientational phase in which S and O remain non-identical, allowing exploratory spatial reorientation without structural stabilization.
 
 $$
 {Tropos_{Spatial}}　 {S}≠{O}  
