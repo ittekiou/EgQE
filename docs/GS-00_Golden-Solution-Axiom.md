@@ -152,6 +152,8 @@ _**そしてそれは、われわれの中心テーゼである。**_
 
 ## Appendix（接続）
 
+[The Golden Solution of the Golden Ratio and the Golden Angle — A Minimal Principle Unifying Generation and Trace —｜黄金比と黄金角の黄金解 ──生成と痕跡を統一する最小原理──](https://camp-us.net/GAC_Golden-Solution_Angle-Ratio-Relation.html)  
+
 - [S/O Syntax](https://camp-us.net/GS_S-O_Golden-Syntax.html)  
     
 - [Z₀ / R₀ 構文](https://camp-us.net/R₀-Z₀.html)  
