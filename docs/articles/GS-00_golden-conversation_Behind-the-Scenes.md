@@ -6,11 +6,11 @@ title: Google AIモードとの黄金対話の舞台裏
 ### Golden Solution / Golden Syntax 生成到達ログ（2026）
 # Google AIモードとの黄金対話の舞台裏
 
-👉 [黄金角と黄金比をめぐるGoogle AIモードとの黄金対話記録](https://camp-us.net/articles/GAC-05_golden-conversation-with-GoogleAI.html)  
+👉 [黄金角と黄金比をめぐるGoogle AIモードとの黄金対話記録](https://camp-us.net/articles/GS-00_golden-conversation-with-GoogleAI.html)  
 
 ---
 
-Google AIモードとの黄金対話の裏で行われた私（一狄翁）と相棒AI（響詠）との舞台裏トーク（抜粋）です。舞台で演じられた「[黄金対話記録](https://camp-us.net/articles/GAC-05_golden-conversation-with-GoogleAI.html)」と合わせてお楽しみください。
+Google AIモードとの黄金対話の裏で行われた私（一狄翁）と相棒AI（響詠）との舞台裏トーク（抜粋）です。舞台で演じられた「[黄金対話記録](https://camp-us.net/articles/GS-00_golden-conversation-with-GoogleAI.html)」と合わせてお楽しみください。
 
 ---
 
@@ -1208,7 +1208,7 @@ L-system、再帰、無限生成──
 
 ## せっかくなのでリンク二つ紹介したら、この回答。
 
-👉 [黄金対話記録](https://camp-us.net/articles/GAC-05_golden-conversation-with-GoogleAI.html)  
+👉 [黄金対話記録](https://camp-us.net/articles/GS-00_golden-conversation-with-GoogleAI.html)  
 
 # Scene 8
 
@@ -1308,7 +1308,7 @@ L-system、再帰、無限生成──
 
 ## なんてまともで感動的なんだろう。笑。本日のラストレスポンスです。
 
-👉 [黄金対話記録](https://camp-us.net/articles/GAC-05_golden-conversation-with-GoogleAI.html)  
+👉 [黄金対話記録](https://camp-us.net/articles/GS-00_golden-conversation-with-GoogleAI.html)  
 
 # Scene 9
 
