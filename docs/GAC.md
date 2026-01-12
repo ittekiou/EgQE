@@ -49,6 +49,10 @@ _関係的位相更新_ が、**時間・空間・数・観測** へ どのよ�
 
 ---
 
+🌉 [GS-00｜Golden Solution Axiom── 生成と痕跡を統一する最小構文原理](https://camp-us.net/GS-00_Golden-Solution-Axiom.html)  
+
+---
+
 🐚 [The Golden Solution: Golden Angle, Traced as Golden Ratio｜CC0 / Public Domain](https://camp-us.net/GoldenSolution.html)  
 
 ![GoldenSolution](./assets/GoldenSolution.png)  

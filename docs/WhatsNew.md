@@ -17,6 +17,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/01/12  
+[GS-00｜Golden Solution Axiom── 生成と痕跡を統一する最小構文原理](https://camp-us.net/GS-00_Golden-Solution-Axiom.html)  
 [黄金角と黄金比をめぐるGoogle AIモードとの黄金対話記録｜Golden Solution / Golden Syntax 生成到達ログ（2026）](https://camp-us.net/articles/GS-00_Golden-Solution-with-GoogleAI.html)  
 [Google AIモードとの黄金対話の舞台裏｜Golden Solution / Golden Syntax 生成到達ログ（2026）](https://camp-us.net/articles/GS-00_Golden-Solution_Behind-the-Scenes.html)  
 ###### 2026/01/11  
