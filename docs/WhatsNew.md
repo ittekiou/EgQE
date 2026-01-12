@@ -17,8 +17,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/01/12  
-[黄金角と黄金比をめぐるGoogle AIモードとの黄金対話記録｜Golden Solution / Golden Syntax 生成到達ログ（2026）](https://camp-us.net/articles/GS-00_golden-conversation-with-GoogleAI.html)  
-[Google AIモードとの黄金対話の舞台裏｜Golden Solution / Golden Syntax 生成到達ログ（2026）](https://camp-us.net/articles/GS-00_golden-conversation_Behind-the-Scenes.html)  
+[黄金角と黄金比をめぐるGoogle AIモードとの黄金対話記録｜Golden Solution / Golden Syntax 生成到達ログ（2026）](https://camp-us.net/articles/GS-00_Golden-Solution-with-GoogleAI.html)  
+[Google AIモードとの黄金対話の舞台裏｜Golden Solution / Golden Syntax 生成到達ログ（2026）](https://camp-us.net/articles/GS-00_Golden-Solution_Behind-the-Scenes.html)  
 ###### 2026/01/11  
 [Polygonal Transition and Stability Hierarchies — A Field-Free Generative-Syntactic Approach](https://camp-us.net/articles/MASS_PT-00_Polygonal-Transition-and-Stability-Hierarchies.html)  
 [Spatial Mode of Polygonal Transition — Golden Angle as a Symbiotic Paradoxical Tropos](https://camp-us.net/articles/MASS_PT-01_Spatial-Mode-of-Polygonal-Transition_Golden-Angle-as-Symbiotic-Paradoxical-Tropos.html)  
