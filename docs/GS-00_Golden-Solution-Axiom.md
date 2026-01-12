@@ -7,6 +7,9 @@ title_en: GS-00｜Golden Solution Axiom
 
 ### ── 生成と痕跡を統一する最小構文原理 ──
 
+**Positioning Note**  
+> _GS-00 とは、生成構文を存在論の中心に据え、黄金角と黄金比を生成の持続条件と痕跡として統一しつつ相対化する試みである。_
+
 ---
 
 ## 0｜前提宣言（Positioning）
