@@ -141,17 +141,20 @@ $$
 
 ---
 
+_**GS-00 は、黄金角と黄金比の黄金解であり、生成と痕跡の黄金解である。**_  
+_**そしてそれは、われわれの中心テーゼである。**_  
+
 ## Appendix（接続）
 
-- S/O Syntax
+- [S/O Syntax](https://camp-us.net/GS_S-O_Golden-Syntax.html)  
     
-- Z₀ / R₀ 構文
+- [Z₀ / R₀ 構文](https://camp-us.net/R₀-Z₀.html)  
     
-- floc 宇宙論
+- [floc 宇宙論](http://camp-us.net/floc-Cosmology)  
     
-- MASS / MASC
+- MASS / MASC (coming soon...)
     
-- Golden Core（GAC）
+- [Golden Core（GAC）](https://camp-us.net/GAC.html)  
     
 
 これらはすべて、**黄金解の異なる観測痕跡**である。
