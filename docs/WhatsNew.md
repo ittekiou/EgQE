@@ -15,7 +15,11 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
-
+###### 2026/01/13  
+[SAW-01｜Pentagram Is Not a Structural Symmetry — Observational Projection of Asynchronous Orientation-Update Histories in Quasicrystals](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structural_Symmetry.html)  
+[SAW-01｜五芒星は構造ではない──非結晶–準結晶–結晶遷移における非同期向き更新履歴の観測投影｜The Generative Origin of the Pentagram (36°/72°) Observational Pattern](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structure_JP.html)  
+[SAW-01｜Pentagram as an Observational Projection, Not a Structural Symmetry【Discussion and Figures】｜From Polygonal Transitions and Asynchronous Orientation Updates](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structure_Discussion.html)  
+[SO-00｜S/O 構文による統合モデルへ（Draft）── S≒O ZUREが宇宙を生成＝持続する](https://camp-us.net/articles/SO-00_S-O-Syntax_draft.html)  
 ###### 2026/01/12  
 [GS-00｜Golden Solution Axiom── 生成と痕跡を統一する最小構文原理](https://camp-us.net/GS-00_Golden-Solution-Axiom.html)  
 [黄金角と黄金比をめぐるGoogle AIモードとの黄金対話記録｜Golden Solution / Golden Syntax 生成到達ログ（2026）](https://camp-us.net/articles/GS-00_Golden-Solution-with-GoogleAI.html)  

@@ -1,6 +1,66 @@
 ---
 layout: math
 ---
+
+
+
+<svg width="520" height="300" viewBox="0 0 520 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f5f7ff"/>
+      <stop offset="100%" stop-color="#e3f2fd"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="520" height="300" fill="url(#bgGrad)"/>
+
+  <!-- Title (上マージン広め) -->
+  <text x="260" y="40" font-size="22" text-anchor="middle" fill="#333" font-weight="bold">
+    多角形欠陥による六角同期回避
+  </text>
+  <text x="260" y="65" font-size="14" text-anchor="middle" fill="#555">
+    5角（不足）／7角（過剰）欠陥と非同期向き更新の局所像
+  </text>
+
+  <!-- 中央の六角パッチだけ（シンプル） -->
+  <g transform="translate(260,150) scale(1.0)" fill="none" stroke="#90caf9" stroke-width="3">
+    <polygon points="0,-40 35,-20 35,20 0,40 -35,20 -35,-20"/>
+    <polygon points="0,0 35,-20 35,20 0,40 -35,20 -35,-20"/>
+    <polygon points="0,-40 35,-20 0,0 -35,-20"/>
+  </g>
+
+  <!-- 下に本文コメントだけ（切れにくい位置） -->
+  <text x="260" y="210" font-size="13" text-anchor="middle" fill="#444">
+    六角格子だけでは同期閉包し、向き更新が停止する。
+  </text>
+  <text x="260" y="230" font-size="13" text-anchor="middle" fill="#444">
+    不足（5）と過剰（7）の欠陥が非同期に現れることで、
+  </text>
+  <text x="260" y="250" font-size="13" text-anchor="middle" fill="#444">
+    「向き差分の履歴」のみが蓄積される（角度は定義されない）。
+  </text>
+</svg>
+
+
+
+
+
+
+
+
+## 図キャプション（論文用・完成形）
+
+**Figure 1.**  
+Generation phases from amorphous to crystalline states are not simultaneous.  
+Asynchronous orientation updates induced by pentagonal (deficit) and heptagonal (excess) polygonal transitions prevent hexagonal synchronization.  
+When non-simultaneous orientation histories are temporally superposed and averaged in observation space, a five-direction orientation basis emerges.  
+The resulting pentagram is not a real-space rotational symmetry but an observational projection of generation history.  
+Values such as 36° and 72° are post-hoc display units derived from this projection, not primary generative quantities.
+
+---
+
+
 <svg viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
   <rect x="0" y="0" width="900" height="420" fill="white"/>
