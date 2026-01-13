@@ -81,6 +81,11 @@ The observed pentagram emerges as an observational projection produced by tempor
 **The fivefold/tenfold symmetry observed in quasicrystals does not represent a real-space rotational symmetry, but is a post-hoc label attached to the observational projection of asynchronous orientation-update histories generated while continuously avoiding hexagonal synchronization.**
 
 ---
+
+[SAW-01｜五芒星は構造ではない──非結晶–準結晶–結晶遷移における非同期向き更新履歴の観測投影｜The Generative Origin of the Pentagram (36°/72°) Observational Pattern](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structure_JP.html)  
+[SAW-01｜Pentagram as an Observational Projection, Not a Structural Symmetry【Discussion and Figures】｜From Polygonal Transitions and Asynchronous Orientation Updates](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structure_Discussion.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

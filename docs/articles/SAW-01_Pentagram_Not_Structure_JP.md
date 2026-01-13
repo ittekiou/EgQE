@@ -177,6 +177,11 @@ The resulting pentagram is not a real-space rotational or structural symmetry, b
 Numerical angle labels such as 36° and 72° are therefore display conventions derived from this projection, not primary generative quantities.
 
 ---
+
+[SAW-01｜Pentagram Is Not a Structural Symmetry — Observational Projection of Asynchronous Orientation-Update Histories in Quasicrystals](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structural_Symmetry.html)  
+[SAW-01｜Pentagram as an Observational Projection, Not a Structural Symmetry【Discussion and Figures】｜From Polygonal Transitions and Asynchronous Orientation Updates](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structure_Discussion.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

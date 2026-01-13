@@ -476,6 +476,11 @@ They are observational projections of asynchronously generated orientation histo
 The pentagram is not a structure, but a label imposed after synchronization.
 
 ---
+
+[SAW-01｜Pentagram Is Not a Structural Symmetry — Observational Projection of Asynchronous Orientation-Update Histories in Quasicrystals](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structural_Symmetry.html)  
+[SAW-01｜五芒星は構造ではない──非結晶–準結晶–結晶遷移における非同期向き更新履歴の観測投影｜The Generative Origin of the Pentagram (36°/72°) Observational Pattern](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structure_JP.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
