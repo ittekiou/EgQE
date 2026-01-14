@@ -15,6 +15,12 @@ From Noise to Notation. From Dialogue to Discovery.
 ### note 更新情報はこちら👉 [🔗](/note)
 
 ---
+
+###### 2026/01/14  
+[SAW-00｜Syntactic Askew Way ── Minimal Axioms and Minimal Paper](https://camp-us.net/articles/SAW-00_Minimal-Axioms.html)  
+[SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)  
+[SAW-00｜floc cosmology — Phase, Relation, and Implementation as Generative Syntax: A Syntactic Askew Way of Observational Ecology](https://camp-us.net/articles/SAW-00_floc-cosmology_Minimal-Paper.html)  
+[SAW-00｜floc宇宙論──生成構文としての位相、関係、実装｜観測生態学のための構文的アスキュー](https://camp-us.net/articles/SAW-00_floc-cosmology_Minimal-Paper_JP.html)  
 ###### 2026/01/13  
 [SAW-01｜Pentagram Is Not a Structural Symmetry — Observational Projection of Asynchronous Orientation-Update Histories in Quasicrystals](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structural_Symmetry.html)  
 [SAW-01｜五芒星は構造ではない──非結晶–準結晶–結晶遷移における非同期向き更新履歴の観測投影｜The Generative Origin of the Pentagram (36°/72°) Observational Pattern](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structure_JP.html)  
