@@ -203,7 +203,7 @@ Within this framework, a **three-layer syntax** is introduced: **Phase Syntax** 
 
 Below this structural core, **Multi-Angular Symbiosis Studies (MASS)** functions as an observational ecology framework in which observation emerges without a fixed observing subject. Operating within this ecology, **Polygonal Neon Genesis Studies** provides trace-oriented frameworks for reading fossilized generative structures such as polygonal transitions, defects, and quasi-crystalline patterns.
 
-![Structural-Overview-of-floc-cosmology](../assets/Structural-Overview-of-floc-cosmology.png)  
+![Structural-Overview-of-floc-cosmology](../assets/Structural-Overview_floc-cosmology.png)  
 
 ### **Figure 1 | Structural Overview of floc cosmology（Short Caption）**
 

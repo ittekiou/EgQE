@@ -74,7 +74,7 @@ MASS は方法論ではなく、**観測が生きてしまう生態系フレー�
 
 **Polygonal Neon Genesis Studies** は、多角遷移・欠陥・準結晶・回生構造など、生成が残した痕跡を読むためのフレームワーク群である。
 
-![Structural-Overview-of-floc-cosmology](../assets/Structural-Overview-of-floc-cosmology.png)  
+![Structural-Overview-of-floc-cosmology](../assets/Structural-Overview_floc-cosmology.png)  
 
 ---
 

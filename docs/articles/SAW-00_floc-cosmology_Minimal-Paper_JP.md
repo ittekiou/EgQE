@@ -997,7 +997,7 @@ floc cosmology は、説明によって世界を閉じることを選ばない�
 
 **Figure 1**：Structural Overview of floc cosmology  
 
-![Structural-Overview-of-floc-cosmology](../assets/Structural-Overview-of-floc-cosmology.png)  
+![Structural-Overview-of-floc-cosmology](../assets/Structural-Overview_floc-cosmology.png)  
 
 ## **図1｜floc cosmology の構造概要**
 
