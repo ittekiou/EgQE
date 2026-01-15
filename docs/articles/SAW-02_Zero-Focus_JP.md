@@ -334,11 +334,11 @@ $$
 > $\phi$ may be _projected_ onto a circular phase space and expressed modulo $2\pi$.  
 > This reduction reflects an observational convention rather than a generative necessity.
 
-従来の位相理論では、位相は mod 2π で表現されることが多い。  
+従来の位相理論では、位相は **mod 2π** で表現されることが多い。  
 本稿では、この還元を前提としない。  
 **それは周期閉包と関係消去を暗黙に仮定するためである。**
 
-> mod 2π 表現は、生成位相そのものではなく、観測上の可視化・同一化のために導入された**構文的射影**である。
+> **mod 2π 表現**は、生成位相そのものではなく、観測上の可視化・同一化のために導入された**構文的射影**である。
 
 ---
 

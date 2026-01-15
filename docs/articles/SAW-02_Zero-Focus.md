@@ -190,7 +190,7 @@ $$
 
 > _The closed integral does not indicate periodicity,  
 > but the **failure of relational erasure**.  
-> What appears as a loop is the residue of incomplete synchronization.
+> What appears as a loop is the residue of incomplete synchronization._
 
 ---
 
