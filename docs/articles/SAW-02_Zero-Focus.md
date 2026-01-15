@@ -115,11 +115,16 @@ In both cases, the observed phase does not arise from local force action but fro
 
 # **Single-line formulation**
 
-$$  
-\phi = \oint_{\gamma} \nabla \theta(\mathbf{x},t)\cdot d\mathbf{x}  
-\neq 0  
-\quad\text{even when}\quad  
-\oint_{\gamma} d\mathbf{x}=0  
+$$
+\phi
+=
+\oint_{\gamma}
+\nabla \theta(\mathbf{x},t)\cdot d\mathbf{x}
+\;\neq\;0,
+\qquad
+\text{even when}
+\quad
+\oint_{\gamma} d\mathbf{x}=0
 $$
 
 ---
@@ -139,13 +144,15 @@ $$
 
 ## Walking Droplet（pilot-wave hydrodynamics）
 
-$$  
-\phi_{\text{drop}}  
-=  
-\oint_{\gamma}  
-\nabla \theta_{\text{surf}}(\mathbf{x},t)  
-\cdot d\mathbf{x}  
-\neq0  
+$$
+\phi_{\text{drop}}
+=
+\oint_{\gamma}
+\nabla \theta_{\text{surf}}(\mathbf{x},t)
+\cdot d\mathbf{x}
+\;\neq\;0
+\quad
+(\text{despite zero net displacement})
 $$
 
 ---
@@ -155,15 +162,24 @@ $$
 > _identity of spatial position implies identity of relational state_.  
 > This assumption fails in systems with path-dependent phase histories.
 > 
-> What appears as a nonlocal or paradoxical influence is instead the  
-> persistence of an un-erased relational offset accumulated along a closed path.
+> What appears as a nonlocal or paradoxical influence is instead  
+> the persistence of an **un-erased relational offset**,  
+> accumulated through path-dependent phase history.
+
+**Appendix / Reader’s Note**
+
+> In conventional phase-based formalisms,  
+> phase differences are often expressed modulo $2\pi$.  
+> In the present framework, such reduction is not assumed,  
+> as it presupposes periodic closure and relational erasure.  
+> The present definition of $\phi$ precedes any such projection.
 
 ---
 
 ### **Non-dimensional definition of phase**
 
-$$  
-\phi \equiv \oint \delta R (\mathrm{mod}2\pi)  
+$$
+\phi \;\equiv\; \oint_{\mathcal{H}} \delta R
 $$
 
 #### Walking Droplet
@@ -172,8 +188,9 @@ $$
 \phi_{\text{droplet}} \sim \oint \bigl( \text{surface phase update} - \text{droplet step update} \bigr)  
 $$
 
-> _The use of a closed integral does not imply spatial periodicity.  
-> It merely indicates that relational erasure is incomplete._
+> _The closed integral does not indicate periodicity,  
+> but the **failure of relational erasure**.  
+> What appears as a loop is the residue of incomplete synchronization.
 
 ---
 

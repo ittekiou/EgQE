@@ -60,14 +60,17 @@ Phase accumulation; relational dynamics; pilot-wave hydrodynamics; Aharonov–Bo
 
 ## 3｜最小表現：更新差としての位相
 
-本稿では、位相を次のように定義する。
+本稿では、位相 φ を次のように定義する。
 
-$$  
-\phi \equiv \oint \delta R (\mathrm{mod}2\pi)  
+$$
+\phi \;\equiv\; \oint_{\mathcal{H}} \delta R
 $$
 
-ここで $\delta R$ は、系と環境の**関係的更新差**を表す。  
-積分は空間ではなく、**履歴閉路**に沿って取られる。
+ここで $δR$ は、系と環境の**関係的更新差**を表す。  
+積分は空間的閉路ではなく、**履歴的閉路**に沿って取られる。
+
+重要なのは、この位相が一般に閉じない点である。  
+「一周＝同一」や π による同一化は仮定されない。
 
 この定義は、新たな力・場・相互作用を仮定しない。  
 必要なのは、更新が完全には同期していなかったという事実のみである。
@@ -226,11 +229,16 @@ The observed phase shift does not signal nonlocal action but the visibility of a
 
 # **Single-line formulation**
 
-$$  
-\phi = \oint_{\gamma} \nabla \theta(\mathbf{x},t)\cdot d\mathbf{x}  
-\neq 0  
-\quad\text{even when}\quad  
-\oint_{\gamma} d\mathbf{x}=0  
+$$
+\phi
+=
+\oint_{\gamma}
+\nabla \theta(\mathbf{x},t)\cdot d\mathbf{x}
+\;\neq\;0,
+\qquad
+\text{even when}
+\quad
+\oint_{\gamma} d\mathbf{x}=0
 $$
 
 ---
@@ -261,13 +269,15 @@ $$
 
 ## Walking Droplet（pilot-wave hydrodynamics）
 
-$$  
-\phi_{\text{drop}}  
-=  
-\oint_{\gamma}  
-\nabla \theta_{\text{surf}}(\mathbf{x},t)  
-\cdot d\mathbf{x}  
-\neq0  
+$$
+\phi_{\text{drop}}
+=
+\oint_{\gamma}
+\nabla \theta_{\text{surf}}(\mathbf{x},t)
+\cdot d\mathbf{x}
+\;\neq\;0
+\quad
+(\text{despite zero net displacement})
 $$
 
 ### ここで
@@ -303,8 +313,9 @@ $$
 > _identity of spatial position implies identity of relational state_.  
 > This assumption fails in systems with path-dependent phase histories.
 > 
-> What appears as a nonlocal or paradoxical influence is instead the  
-> persistence of an un-erased relational offset accumulated along a closed path.
+> What appears as a nonlocal or paradoxical influence is instead  
+> the persistence of an **un-erased relational offset**,  
+> accumulated through path-dependent phase history.
 
 > 「場が作用していない」という言明は、_同じ場所にある＝同じ状態_ という前提に依存している。位相履歴を持つ系では、この前提そのものが成立しない。
 
@@ -317,18 +328,36 @@ $$
 
 ---
 
-## **位相の無次元化定義（一般形）**
+### ■ 観測的投影としての mod 2π（注記）
 
-$$  
-\phi \equiv \oint \delta R (\mathrm{mod}2\pi)  
+> In certain observational formalisms,  
+> $\phi$ may be _projected_ onto a circular phase space and expressed modulo $2\pi$.  
+> This reduction reflects an observational convention rather than a generative necessity.
+
+従来の位相理論では、位相は mod 2π で表現されることが多い。  
+本稿では、この還元を前提としない。  
+**それは周期閉包と関係消去を暗黙に仮定するためである。**
+
+> mod 2π 表現は、生成位相そのものではなく、観測上の可視化・同一化のために導入された**構文的射影**である。
+
+---
+
+## **位相の無次元化定義（生成形）**
+
+$$
+\phi \equiv \oint_{\mathcal{H}} \delta R
 $$
 
 - $\delta R$：系と環境の**関係的更新差（relational offset）**
     
-- 積分は空間ではなく**履歴閉路**に沿って取られる
+- 積分 $\oint_{\mathcal{H}}$ は**履歴閉路**に沿って取られる
+    
+- 閉路は周期性を意味しない
     
 - 力・ポテンシャル・場の存在を仮定しない
     
+
+**→ 位相＝「消去されなかった更新差の総和」**
 
 ### 油滴系への同型写像（記述的）
 
@@ -339,8 +368,9 @@ $$
 > ※この式は力学方程式ではない。  
 > **何が保存されなかったか**を示す差分記述である。
 
-> _The use of a closed integral does not imply spatial periodicity.  
-> It merely indicates that relational erasure is incomplete._
+> _The closed integral does not indicate periodicity,  
+> but the **failure of relational erasure**.  
+> What appears as a loop is the residue of incomplete synchronization._
 
 ---
 
