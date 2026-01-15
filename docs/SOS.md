@@ -1,7 +1,7 @@
 under construction.....
 # S′⇆O′ lag 構文
-[SAW-Ω｜SAW-Ω｜Syntactic Askew Way (SAW) ── 物理と観測のための最小公理的再配向](https://camp-us.net/articles/saw_minimal_paper_JP.html)  
-[SAW-Ω｜Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation](https://camp-us.net/articles/saw_minimal_paper.html)  
+[SAW-Ω｜SAW-Ω｜Syntactic Askew Way (SAW) ── 物理と観測のための最小公理的再配向](https://camp-us.net/articles/SAW-Ω_saw_minimal_paper.html)  
+[SAW-Ω｜Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation](https://camp-us.net/articles/SAW-Ω_saw_minimal_paper.html)  
 [SAW-Ω｜S′⇆O′lag 構文による統合再定義](https://camp-us.net/articles/SAW-Ω_S'-O'-lag_Syntax.html)  
 [SAW-Ω｜S′⇆O′構文lag による再定義（全記録② draft）](https://camp-us.net/articles/SAW-Ω_S'-O'=lag_drafts.html)  
 

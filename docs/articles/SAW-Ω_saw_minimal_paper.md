@@ -227,7 +227,7 @@ Projection fixes lag into historical inscription, producing classical observable
 
 ---
 
-[SAW-Ω｜SAW-Ω｜Syntactic Askew Way (SAW) ── 物理と観測のための最小公理的再配向](https://camp-us.net/articles/saw_minimal_paper_JP.html)  
+[SAW-Ω｜SAW-Ω｜Syntactic Askew Way (SAW) ── 物理と観測のための最小公理的再配向](https://camp-us.net/articles/SAW-Ω_saw_minimal_paper.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
