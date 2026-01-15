@@ -16,6 +16,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/01/15  
+[SAW-02｜ゼロの焦点 ── 位相はどこから生じたのか：更新差としての φ](https://camp-us.net/articles/SAW-02_Zero-Focus_JP.html)  
+[SAW-02｜The Zero-Focus Illusion: Phase as an Unerased Relational Offset](https://camp-us.net/articles/SAW-02_Zero-Focus.html)  
 ###### 2026/01/14  
 [SAW-00｜Syntactic Askew Way ── Minimal Axioms and Minimal Paper](https://camp-us.net/articles/SAW-00_Minimal-Axioms.html)  
 [SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)  
