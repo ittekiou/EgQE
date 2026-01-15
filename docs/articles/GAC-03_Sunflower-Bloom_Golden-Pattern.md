@@ -207,7 +207,7 @@ $Z_0$ は、完全一致を拒否し、生成を開いたままに保つため�
 
 $$  
 \boxed{  
-\alpha = \frac{1}{\varphi^2},  
+\alpha = \frac{1}{\varphi^2}  
 \qquad  
 \varphi \text{ は関係として定義される}  
 }  

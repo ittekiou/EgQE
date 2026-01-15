@@ -16,9 +16,19 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/01/16  
+[SAW-Ω｜SAW-Ω｜Syntactic Askew Way (SAW) ── 物理と観測のための最小公理的再配向](https://camp-us.net/articles/saw_minimal_paper_JP.html)  
+[SAW-Ω｜Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation](https://camp-us.net/articles/saw_minimal_paper.html)  
+📃PDF [Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation(NoFig)](https://camp-us.net/articles/saw_minimal_paper_NoFig.pdf)  
+📃PDF [Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation(Fig)](https://camp-us.net/articles/saw_minimal_paper.pdf)  
+[SAW-Ω｜Figure 1｜Circulation and Localization of Lag.(SVG)](https://camp-us.net/assets/SAW_Fig1_Lag.html)  
+📃PDF [SAW-Ω｜Figure 1｜Circulation and Localization of Lag.(PDF)](https://camp-us.net/assets/SAW_Fig1_Circulation_Localization.pdf)  
 ###### 2026/01/15  
 [SAW-02｜ゼロの焦点 ── 位相はどこから生じたのか：更新差としての φ](https://camp-us.net/articles/SAW-02_Zero-Focus_JP.html)  
 [SAW-02｜The Zero-Focus Illusion: Phase as an Unerased Relational Offset](https://camp-us.net/articles/SAW-02_Zero-Focus.html)  
+[SAW-Ω｜S′⇆O′lag 構文による統合再定義](https://camp-us.net/articles/SAW-Ω_S'-O'-lag_Syntax.html)  
+[SAW-Ω0｜S/O'構文による再定義（全記録① draft）](https://camp-us.net/articles/SAW-Ω0_S-O'_Syntax_drafts.html)  
+[SAW-Ω｜S′⇆O′構文lag による再定義（全記録② draft）](https://camp-us.net/articles/SAW-Ω_S'-O'=lag_drafts.html)  
 ###### 2026/01/14  
 [SAW-00｜Syntactic Askew Way ── Minimal Axioms and Minimal Paper](https://camp-us.net/articles/SAW-00_Minimal-Axioms.html)  
 [SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)  

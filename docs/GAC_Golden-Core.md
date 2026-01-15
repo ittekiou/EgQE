@@ -59,7 +59,7 @@ $$
 
 $$
 S_{n+1}
-= S_n + O_n + \alpha O_{n+1},
+= S_n + O_n + \alpha O_{n+1}
 \qquad
 \alpha = \frac{1}{\varphi+1}
 $$

@@ -69,7 +69,7 @@ $$
 
 $$  
 \boxed{  
-\alpha = \frac{1}{\varphi^2},  
+\alpha = \frac{1}{\varphi^2}  
 \qquad  
 \varphi = 2\cos\left(\frac{\pi}{5}\right)\ \pm\ Z_0,  
 \quad  
@@ -173,7 +173,7 @@ $$
 
 $$  
 \boxed{  
-\alpha = \frac{1}{\varphi^2},  
+\alpha = \frac{1}{\varphi^2}  
 \qquad  
 \varphi = 2\cos\left(\frac{\pi}{5}\right)\ \pm\ Z_0,  
 \quad  

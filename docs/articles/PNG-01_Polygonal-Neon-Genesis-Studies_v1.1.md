@@ -697,7 +697,7 @@ $$
 破綻＝固着なので、固着を1つの変数にする。
 
 $$  
-\kappa_n = g(\tau_n, |\Delta\varphi_n|, \rho_n)  
+\kappa_n = g(\tau_n |\Delta\varphi_n| \rho_n)  
 $$
 
 - $\kappa_n$：固着度（stuckness）

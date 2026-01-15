@@ -128,7 +128,7 @@ $$
 - **ZURE指数**  
     
     $$  
-    \mathcal{Z}(t)=\frac{1}{|\Omega|}\int_\Omega |Z(\mathbf{x},t)|,d\mathbf{x}  
+    \mathcal{Z}(t)=\frac{1}{|\Omega|}\int_\Omega |Z(\mathbf{x},t)|d\mathbf{x}  
     $$
     
 - **同期待ち**  
