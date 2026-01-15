@@ -124,7 +124,7 @@ It is the persistent requirement to support unrecoverable lag.
 This distinction becomes explicit under ground conditions,  
 where generation lags behind inscription.
 
-In the regime ( S \ll O' ),  
+In the regime $S \ll O'$,  
 updates cannot circulate as relational cycles.  
 Lag sediments instead of being continuously recovered.
 
