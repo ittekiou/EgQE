@@ -67,7 +67,6 @@ Einstein’s theory of relativity completed the displacement of absolute space a
 
 From this perspective, space–time, curvature, and gravitation appear not as fundamental structures, but as readable residues of relational updating. Measurement fixes these residues into history, producing zero effects without invoking zero points. Absolute Relativity thus does not supersede Einstein’s theory; it completes the displacement he initiated by releasing the final reliance on favored zeroes. What remains is a physics without origins—structured, relational, and irreversibly updated.
 
-
 ---
 
 ### **Conclusion**
@@ -76,8 +75,8 @@ This paper has revisited Einstein’s theory of relativity not to challenge its 
 
 ---
 
-Einstein replaced absolute space with observers.──  
-──We replace observers with irreversible relations.
+_Einstein replaced absolute space with observers._ ──  
+── _We replace observers with irreversible relations._
 
 ---
 

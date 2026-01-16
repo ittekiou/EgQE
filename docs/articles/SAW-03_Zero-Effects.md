@@ -4,7 +4,7 @@ title: The Law of Zero Effects──Toward Absolute Relativity Without Origins
 # **The Law of Zero Effects**
 ### ── _Toward Absolute Relativity Without Origins_
 
-> **Zero never existed.**
+> **Zero never existed.**  
 > **It is not a point.**
 
 ### **(1) Zero never existed**
