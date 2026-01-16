@@ -7,7 +7,7 @@ title: The Law of Zero Effects──Toward Absolute Relativity Without Origins
 > **Zero never existed.**  
 > **It is not a point.**
 
-### **(1) Zero never existed**
+### **(1) Zero never existed.**
 
 Physics has long assumed the necessity of zero points: a fixed origin in space, a state of rest, a privileged observer, or a synchronized reference frame. These zeroes were not introduced as hypotheses, but as conveniences—points from which measurement, comparison, and prediction could proceed smoothly. Yet as physical description has grown more precise, these zeroes have revealed a peculiar property: none of them can be located without remainder. Every attempt to fix a zero produces residual mismatch, delay, or curvature. This paper identifies this persistence not as a failure of theory, but as a structural fact. Zero does not fail to appear; it never existed. What appears instead are **zero effects**—traces left by irreversible relational updates when no absolute origin is available. From this observation, we introduce a minimal notion of **Absolute Relativity**, in which relations update without delay, yet inevitably generate relative lag as an absolute structural consequence.
 
@@ -52,6 +52,9 @@ The framework developed here does not introduce new entities, forces, or dynamic
 ### **(8) Toward a Re-reading of Einstein**
 
 This askew reorientation clarifies both the achievement and the limit of Einstein’s space–time formulation. By abandoning absolute space and time, relativity theory correctly displaced fixed backgrounds in favor of relational description. However, it retained a privileged role for observers, reference frames, and locally synchronized coordinates. These functioned as favored zeroes—necessary for calculation, but syntactically overburdened. Absolute Relativity extends Einstein’s relational insight by releasing this final privilege. No observer, frame, or origin is required to ground physical description. What remains is not relativism without structure, but structure without zero. In this sense, Absolute Relativity is not a rejection of Einstein’s theory, but its continuation beyond the point where favored zeroes silently re-entered the formalism.
+
+
+── _Zero is not the origin, but an effect._
 
 ---
 
