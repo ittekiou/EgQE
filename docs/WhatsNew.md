@@ -17,7 +17,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/01/16  
-[SAW-Ω｜SAW-Ω｜Syntactic Askew Way (SAW) ── 物理と観測のための最小公理的再配向](https://camp-us.net/articles/SAW-Ω_saw_minimal_paper_JP.html)  
+[SAW-Ω｜Syntactic Askew Way (SAW) ── 物理と観測のための最小公理的再配向](https://camp-us.net/articles/SAW-Ω_saw_minimal_paper_JP.html)  
 [SAW-Ω｜Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation](https://camp-us.net/articles/SAW-Ω_saw_minimal_paper.html)  
 📃PDF [Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation(NoFig)](https://camp-us.net/articles/saw_minimal_paper_NoFig.pdf)  
 📃PDF [Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation(Fig)](https://camp-us.net/articles/saw_minimal_paper.pdf)  
