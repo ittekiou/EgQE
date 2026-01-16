@@ -7,13 +7,13 @@ title: The Law of Zero Effects──Toward Absolute Relativity Without Origins
 > **Zero never existed.**
 > **It is not a point.**
 
-### **(1) Zero never existed
+### **(1) Zero never existed**
 
 Physics has long assumed the necessity of zero points: a fixed origin in space, a state of rest, a privileged observer, or a synchronized reference frame. These zeroes were not introduced as hypotheses, but as conveniences—points from which measurement, comparison, and prediction could proceed smoothly. Yet as physical description has grown more precise, these zeroes have revealed a peculiar property: none of them can be located without remainder. Every attempt to fix a zero produces residual mismatch, delay, or curvature. This paper identifies this persistence not as a failure of theory, but as a structural fact. Zero does not fail to appear; it never existed. What appears instead are **zero effects**—traces left by irreversible relational updates when no absolute origin is available. From this observation, we introduce a minimal notion of **Absolute Relativity**, in which relations update without delay, yet inevitably generate relative lag as an absolute structural consequence.
 
 ---
 
-### **(2) Zero Effects
+### **(2) Zero Effects**
 
 The concept of zero effects emerges when relational generation is taken as primary and synchronization as secondary. In any system where relations update irreversibly, no global alignment can be maintained across all interactions. What is commonly interpreted as delay, force, or uncertainty is instead the record of this misalignment. Crucially, this lag is not a temporal postponement of an otherwise simultaneous process. Each update occurs fully and locally. The lag appears only at the level of relation—when updates are compared, composed, or projected. In this sense, lag is neither accidental nor eliminable. It is the minimal residue of relational existence itself. Absolute Relativity does not deny relativity; it asserts that relativity persists even when no preferred frame, observer, or origin is assumed.
 
