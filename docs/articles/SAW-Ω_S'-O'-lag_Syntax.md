@@ -914,14 +914,16 @@ lag 構文：
 $$
 \ell_{ij}\in \mathbb{R}_{\ge 0}  
 $$  
-　と置く（$i\to j$ の lag）。
+
+ と置く（$i\to j$ の lag）。
 
 ・lag の向き（位相）を入れたいなら  
 
 $$
 \phi_{ij}\in \mathbb{S}^1  
 $$
-　を追加し、複素化して  
+
+ を追加し、複素化して  
 
 $$ 
 z_{ij}=\ell_{ij}e^{i\phi_{ij}}  
@@ -961,7 +963,8 @@ $$
 
 $$
 \sum_{i\neq j}\ell_{ij}=\text{const.}\quad (\text{閉系})  
-$$   
+$$
+
 （厳密には散逸先を含めた拡大系で保存、という読みでOK）
 
 ---
@@ -1032,7 +1035,8 @@ $$
 
 $$  
 \mathcal{I}_i \equiv \sum_{j\neq i} (\Delta \ell_{ij})^2  
-$$  
+$$
+
 （これを最小化する運動が“慣性運動”）
 
 ---
@@ -1064,6 +1068,7 @@ $$
 $$  
 G_i \equiv \sum_{j\neq i} g(\ell_{ij}) \quad \text{with}\quad g'(\ell)>0  
 $$  
+
 （増えるほど「落下・重さ」の相になる）
 
 ---
@@ -1122,7 +1127,8 @@ $$
 
 $$  
 \Delta \ell_{ij}=0 \quad \text{ただし}\quad \ell_{ij}\neq 0  
-$$  
+$$
+
 または極限環：  
 
 $$  
@@ -1204,7 +1210,8 @@ $$
 
 $$  
 \Delta \ell_{AB}=\Delta \ell_{BA}=0  
-$$ 
+$$
+
 だが **公理2（完全同期不能）** により、  
 
 $$
@@ -1515,7 +1522,8 @@ lag 構文：
 
 $$
 \mathcal{L}=｛\ell_{ij}｝  
-$$ 
+$$
+
 　ここで量子っぽさは：
 
 > **$\mathcal{L}$ が一意に回収されていない**  
