@@ -1438,7 +1438,7 @@ $$
 
 $$  
 \mathcal{I}_i \equiv \sum_{j\neq i} (\Delta \ell_{ij})^2  
-$$  
+$$    
 （これを最小化する運動が“慣性運動”）
 
 ---
