@@ -21,7 +21,6 @@
 
 
 ---
----
 
 ## Multilingual Minimal Renderings
 
