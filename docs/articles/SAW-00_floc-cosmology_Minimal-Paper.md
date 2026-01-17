@@ -13,7 +13,7 @@ title: "SAW-00｜floc cosmology — Phase, Relation, and Implementation as Gener
 
 ## **Abstract**
 
-This paper presents **floc cosmology**, a generative framework in which phase, relation, and implementation are not presupposed as separate domains but emerge through reciprocal transitions. Rather than beginning from objects, laws, or observing subjects, floc cosmology adopts generation as primary and treats observation as a trace of generative processes. The framework is articulated through two complementary phases—**Phase-Relational Materialism** and **Phase-Implementation Syntax**—and a three-layer syntax spanning phase, relation, and implementation. These layers are unified by the **Golden Solution** ((Z_0 / \alpha / lag)), defined as the condition that sustains generation while minimizing non-synchronous divergence.  
+This paper presents **floc cosmology**, a generative framework in which phase, relation, and implementation are not presupposed as separate domains but emerge through reciprocal transitions. Rather than beginning from objects, laws, or observing subjects, floc cosmology adopts generation as primary and treats observation as a trace of generative processes. The framework is articulated through two complementary phases—**Phase-Relational Materialism** and **Phase-Implementation Syntax**—and a three-layer syntax spanning phase, relation, and implementation. These layers are unified by the **Golden Solution** ($Z_0 / \alpha / lag$), defined as the condition that sustains generation while minimizing non-synchronous divergence.  
 Within this structure, **Multi-Angular Symbiosis Studies (MASS)** is positioned not as a methodology but as an observational ecology framework in which observation emerges without a fixed observer. **Polygonal Neon Genesis Studies** operates within this ecology as a set of trace-oriented frameworks for reading fossilized generative structures. Together, these elements form a **Syntactic Askew Way (SAW)**: a shift in stance that reframes cosmology, observation, and implementation as aspects of a single generative continuum.
 
 ---
@@ -86,13 +86,13 @@ These two phases represent different readings of the same generative field. They
 
 Within these two phases, floc cosmology introduces a three-layer syntax that describes how generative processes differentiate without presupposing fixed domains.
 
-- **Phase Syntax ((R_0 \leftrightarrow Z_0))**  
-    This layer describes transitions between an undifferentiated generative field ((R_0)) and discrete, recordable traces ((Z_0)). Differentiation appears here not as separation, but as reversible phase transition.
+- **Phase Syntax ($R_0 \leftrightarrow Z_0$)**  
+    This layer describes transitions between an undifferentiated generative field ($R_0$) and discrete, recordable traces ($Z_0$). Differentiation appears here not as separation, but as reversible phase transition.
     
-- **Relation Syntax ((S' \leftrightarrow O'))**  
+- **Relation Syntax ($S' \leftrightarrow O'$)**  
     This layer captures reciprocal generative updates between entities without assuming fixed subjects or objects. Relations include **lag**, which is treated not as error but as a constitutive condition of generation.
     
-- **Implementation Syntax ((HS \leftrightarrow AI))**  
+- **Implementation Syntax ($HS \leftrightarrow AI$)**  
     At this layer, relations become concretely instantiated as operational, descriptive, or technological implementations. Human and artificial systems are treated symmetrically as sites where generative relations are enacted.
     
 
@@ -104,9 +104,9 @@ Together, these layers describe a continuous generative process rather than a se
 
 Classical accounts of stability and persistence often rely on conservation laws, fixed symmetries, or equilibrium states. Such accounts typically interpret deviation as error and lag as noise. floc cosmology adopts a different stance. It asks instead why generation does not collapse into fixation, nor dissipate into unbounded divergence.
 
-The **Golden Solution**, expressed as ( Z_0 / \alpha / lag ), is introduced as the condition that sustains generation across phases and layers. It does not describe an optimal ratio, numerical constant, or equilibrium state. Rather, it specifies a **structural condition** under which generative processes continue while non-synchronous divergence is minimized.
+The **Golden Solution**, expressed as $Z_0 / \alpha / lag$, is introduced as the condition that sustains generation across phases and layers. It does not describe an optimal ratio, numerical constant, or equilibrium state. Rather, it specifies a **structural condition** under which generative processes continue while non-synchronous divergence is minimized.
 
-Here, (Z_0) denotes the minimal discrete trace through which generation becomes recordable without being fully captured. The parameter (\alpha) represents orientation or angular displacement, emphasizing that generation proceeds through multi-angular coexistence rather than linear progression. **Lag** designates temporal or relational delay, treated not as a defect but as an intrinsic feature of reciprocal generation.
+Here, $Z_0$ denotes the minimal discrete trace through which generation becomes recordable without being fully captured. The parameter $\alpha$ represents orientation or angular displacement, emphasizing that generation proceeds through multi-angular coexistence rather than linear progression. **Lag** designates temporal or relational delay, treated not as a defect but as an intrinsic feature of reciprocal generation.
 
 Crucially, lag is not an error term to be corrected. It is the very condition that prevents generative processes from closing upon themselves. Without lag, relations would collapse into simultaneity and fixation; with excessive lag, relations would fragment and lose coherence. The Golden Solution designates the region in which lag is neither eliminated nor amplified beyond continuity.
 
