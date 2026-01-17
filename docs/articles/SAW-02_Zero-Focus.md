@@ -205,6 +205,26 @@ $$
 $$
 
 ---
+---
+
+### Footnote (References)
+
+The perspective of “Zero Focus” discussed in this article resonates with recent experimental and theoretical studies on **phase effects without local forces or flows**.
+
+In particular, the following works demonstrate that particle behavior can be altered solely by the structure of a surrounding phase field, without direct dynamical intervention:
+
+- ITmedia News (January 13, 2026):  
+    “Reproducing the Aharonov–Bohm Effect Using Surface Waves”  
+    [https://news.infoseek.co.jp/article/itmedia_news_20260113014/](https://news.infoseek.co.jp/article/itmedia_news_20260113014/)
+    
+- _Observation of the Aharonov–Bohm Effect in Pilot-Wave Hydrodynamics_  
+    arXiv:2512.21263  
+    [https://arxiv.org/abs/2512.21263](https://arxiv.org/abs/2512.21263?utm_source=chatgpt.com)
+    
+
+These studies provide experimental support for an ontology in which **conditions and phase structures**, rather than forces or directed control, play the central role.
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

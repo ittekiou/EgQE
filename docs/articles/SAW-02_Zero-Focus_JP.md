@@ -415,6 +415,26 @@ $$
 > 同一だと仮定された関係が、実は同一でなかった痕跡にすぎない。**
 
 ---
+---
+
+#### 脚注（参考）
+
+本稿で論じた「Zero Focus（焦点を結ばない条件場）」の視座は、近年あらためて注目されている**力や流れを伴わない位相効果**の実験的・理論的研究とも響き合う。
+
+例えば、以下の報告では、粒子に局所的な力を与えずとも、**位相構造のみが挙動に影響を与える**ことが示されている。
+
+- ITmedia News（2026年1月13日）  
+    「水面の波で量子力学のアハラノフ＝ボーム効果を再現」  
+    [https://news.infoseek.co.jp/article/itmedia_news_20260113014/](https://news.infoseek.co.jp/article/itmedia_news_20260113014/)
+    
+- _Observation of the Aharonov–Bohm Effect in Pilot-Wave Hydrodynamics_  
+    arXiv:2512.21263  
+    [https://arxiv.org/abs/2512.21263](https://arxiv.org/abs/2512.21263?utm_source=chatgpt.com)
+    
+
+これらは、「制御」や「力」を前提としない **条件場・位相場としての実在の扱い方**を示す好例である。
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

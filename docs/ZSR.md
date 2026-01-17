@@ -18,6 +18,8 @@
 [ZS-014_なぜカゴメ格子なのか？──舞台装置から観る観測構文論](https://camp-us.net/critics/ZS-014_Kagome-metal.html)  
 [ZS-015_観測構文の再配置としての Compton-y 観測── 観測量とモデル依存推定量の分離｜Reorganizing the Observational Hierarchy of Compton-y Measurements — Separating Observables from Model-Dependent Inferences](https://camp-us.net/critics/ZS-015_Compton-y.html)  
 
+[ZS-016_電子は流れずに呼吸する── Electrons Do Not Flow — They Breathe](https://camp-us.net/critics/ZS-016_Electrons-Breathe.html)  
+
 
 ---
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
