@@ -12,6 +12,12 @@ title: AR-SAW-Axioms ──Absolute Relativity(AR) / Syntactic Askew Way (SAW)
 [SAW-Ω｜Figure 1(lag update version)｜Circulation and Localization of Lag.(SVG)](https://camp-us.net/assets/SAW_Fig1_Lag.html)  
 
 ---
+
+このページは SAW／絶対相対性の公理構造の展開を記録する。  
+
+> _This page logs the evolving axiomatic structure of SAW/Absolute Relativity — a history of how lag-centered relations became the core._
+
+---
 # Axioms / lag-log
 ---
 
