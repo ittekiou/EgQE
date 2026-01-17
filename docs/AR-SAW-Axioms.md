@@ -76,8 +76,8 @@ lag は履歴として固定されうる。
 [SO-00｜S/O 構文による統合モデルへ（Draft）── S≒O ZUREが宇宙を生成＝持続する](https://camp-us.net/articles/SO-00_S-O-Syntax_draft.html)  
 ## SAW｜Minimal Axioms (v0.11)
 2026/01/14  
-[SAW-00｜Syntactic Askew Way ── Minimal Axioms and Minimal Paper](https://camp-us.net/articles/SAW-00_Minimal-Axioms.html) v0.11
-charter [SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)
+[SAW-00｜Syntactic Askew Way ── Minimal Axioms and Minimal Paper](https://camp-us.net/articles/SAW-00_Minimal-Axioms.html) v0.11  
+charter [SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)  
 2026/01/16  
 minimal paper [SAW-Ω｜Syntactic Askew Way (SAW) ── 物理と観測のための最小公理的再配向](https://camp-us.net/articles/SAW-%CE%A9_saw_minimal_paper_JP.html)  
 ## SAW / AR｜Minimal Axioms (v0.21)
