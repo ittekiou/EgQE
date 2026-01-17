@@ -18,7 +18,7 @@ SAW｜Minimal Axioms (v0.21)
 
 ---
 
-## **Syntactic Askew Way (SAW) / Absolute Relativity
+## **Syntactic Askew Way (SAW) / Absolute Relativity**
 
 # SAW / AR｜Minimal Axioms (v0.21)
 
