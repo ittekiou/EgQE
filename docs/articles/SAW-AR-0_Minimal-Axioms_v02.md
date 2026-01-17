@@ -66,6 +66,10 @@ lag は非可逆に履歴化可能であり、**ZURE（間の痕）** として�
 
 ---
 
+**_Event updates do not lag; relations do._**
+
+---
+
 # 補注（v0.2→v0.21）
 
 ---
