@@ -17,9 +17,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/01/17  
+⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)  
 [SAW/AR-0｜Minimal Axioms(v0.21) ── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/articles/SAW-AR-0_Minimal-Axioms_v02.html)  
 📃PDF [SAW-Ω｜Figure 1(v0.2)｜Circulation and Localization of Lag.(PDF)](https://camp-us.net/assets/SAW_Fig1-v02_Circulation_Localization.pdf)  
-[AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)  
 [ZS-016_電子は流れずに呼吸する── Electrons Do Not Flow — They Breathe](https://camp-us.net/critics/ZS-016_Electrons-Breathe.html)  
 ###### 2026/01/16  
 [SAW-03｜The Law of Zero Effects──Toward Absolute Relativity Without Origins](https://camp-us.net/articles/SAW-03_Zero-Effects.html)  

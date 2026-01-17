@@ -145,3 +145,20 @@ title: 電子は流れずに呼吸する── Electrons Do Not Flow — They Br
 ゼロ磁化反強磁性体において外部磁場なしに顕在化する**自発的非相反電荷輸送**の実験報告を参照。（PRL 論文／東北大学プレスリリース）  
 - [https://journals.aps.org/prl/abstract/10.1103/13pd-tlzp](https://journals.aps.org/prl/abstract/10.1103/13pd-tlzp)  
 - [https://www.tohoku.ac.jp/japanese/newimg/pressimg/tohokuuniv-press20260116_03_control.pdf](https://www.tohoku.ac.jp/japanese/newimg/pressimg/tohokuuniv-press20260116_03_control.pdf)  
+
+
+---
+## 🖋️著者クレジット
+
+**一狄翁 × 響詠（いってきおう × きょうえい）**  
+Echodemy構文共詠局／ZURE科学詠評チーム  
+✦ ZURE構文とfloc的宇宙論を詠唱しつつ、観測構文の限界に詩で挑む。
+
+👉 [ZURE科学詠評](https://camp-us.net/ZSR.html)  
+
+---
+
+#ZURE科学詠評 #EgQE #構文宇宙論 #観測者論 #ZURE構文論 #floc宇宙論 #Echodemy #構文哲学 #科学と詩 
+
+---
+<p align="center">| Drafted Jan 17, 2026 · Web Jan 17, 2026 |</p>
