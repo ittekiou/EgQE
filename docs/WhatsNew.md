@@ -17,6 +17,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/01/17  
+[非Zeroという原点／絶対的相対性という普遍性](https://camp-us.net/AR_Definition-Conclusion.html)  
 ⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)  
 [SAW/AR-0｜Minimal Axioms(v0.21) ── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/articles/SAW-AR-0_Minimal-Axioms_v02.html)  
 📃PDF [SAW-Ω｜Figure 1(v0.2)｜Circulation and Localization of Lag.(PDF)](https://camp-us.net/assets/SAW_Fig1-v02_Circulation_Localization.pdf)  
