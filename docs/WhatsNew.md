@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/01/18  
+[SAW-05｜構文化の両価性──三層構文と六構文様式による分類（v0.1）｜The Ambivalence of Syntax — A Minimal Classification of Layers and Modes](https://camp-us.net/articles/SAW-05_Ambivalence-Syntax_v01.html)  
 ###### 2026/01/17  
 [非Zeroという原点／絶対的相対性という普遍性](https://camp-us.net/AR_Definition-Conclusion.html)  
 ⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)  
