@@ -34,6 +34,7 @@ There is no origin.
 Yet the condition that no origin is required is universal.  
 Relations update irreversibly.  
 Lag is inevitable.  
+It is not a defect, but the gentle condition for any relation to live on.  
 This inevitability is what we call  
 **absolute relativity as universality**.
 
