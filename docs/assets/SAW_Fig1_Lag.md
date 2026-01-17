@@ -10,7 +10,7 @@
 
   <!-- Title -->
   <text x="600" y="55" text-anchor="middle" font-family="Times New Roman, serif" font-size="28" font-weight="bold">
-    Figure 1｜Circulation and Localization of Lag
+    Figure 1｜Circulation and Localization of Lag (v0.2)
   </text>
 
   <!-- Central system -->
@@ -20,6 +20,9 @@
   </text>
   <text x="600" y="338" text-anchor="middle" font-family="Times New Roman, serif" font-size="18">
     (non-synchronizable)
+  </text>
+   <text x="600" y="390" text-anchor="middle" font-family="Times New Roman, serif" font-size="33">
+    Lag
   </text>
 
   <!-- Inner circulation arrows (stylized loop) -->

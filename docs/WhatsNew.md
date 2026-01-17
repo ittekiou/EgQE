@@ -16,6 +16,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/01/17  
+[SAW/AR-0｜Minimal Axioms(v0.21) ── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/articles/SAW-AR-0_Minimal-Axioms_v02.html)  
+📃PDF [SAW-Ω｜Figure 1(v0.2)｜Circulation and Localization of Lag.(PDF)](https://camp-us.net/assets/SAW_Fig1-v02_Circulation_Localization.pdf)  
 ###### 2026/01/16  
 [SAW-03｜The Law of Zero Effects──Toward Absolute Relativity Without Origins](https://camp-us.net/articles/SAW-03_Zero-Effects.html)  
 [SAW-04｜Einstein Revisited: Favoured Zeroes and the Limits of Observer-Based Relativity— From Space–Time Geometry to Absolute Relativity](https://camp-us.net/articles/SAW-04_Einstein-Revisited.html)  
@@ -25,7 +28,7 @@ From Noise to Notation. From Dialogue to Discovery.
 📃PDF [Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation(NoFig)](https://camp-us.net/articles/saw_minimal_paper_NoFig.pdf)  
 📃PDF [Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation(Fig)](https://camp-us.net/articles/saw_minimal_paper.pdf)  
 [SAW-Ω｜Figure 1｜Circulation and Localization of Lag.(SVG)](https://camp-us.net/assets/SAW_Fig1_Lag.html)  
-📃PDF [SAW-Ω｜Figure 1｜Circulation and Localization of Lag.(PDF)](https://camp-us.net/assets/SAW_Fig1_Circulation_Localization.pdf)  
+📃PDF [SAW-Ω｜Figure 1(v0.1)｜Circulation and Localization of Lag.(PDF)](https://camp-us.net/assets/SAW_Fig1_Circulation_Localization.pdf)  
 ###### 2026/01/15  
 [SAW-02｜ゼロの焦点 ── 位相はどこから生じたのか：更新差としての φ](https://camp-us.net/articles/SAW-02_Zero-Focus_JP.html)  
 [SAW-02｜The Zero-Focus Illusion: Phase as an Unerased Relational Offset](https://camp-us.net/articles/SAW-02_Zero-Focus.html)  
