@@ -44,7 +44,7 @@ R. Yamada _et al._, _Emergent electric field induced by dissipative sliding dyna
 
 本詠評では、この結果を、**摩擦（散逸）を伴う境界運動が、場に痕跡としての電場を刻む現象** として構文的に読み替えた。
 
-- 論文 DOI: 
+- 論文 DOI: 10.1038/s41567-025-03124-z
 - 東京大学プレスリリース: [https://www.t.u-tokyo.ac.jp/press/pr2026-01-15-001](https://www.t.u-tokyo.ac.jp/press/pr2026-01-15-001)
 
 ---
