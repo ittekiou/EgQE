@@ -64,6 +64,15 @@ floc宇宙論
 ---
 👉 *[floc宇宙溜席](https://camp-us.net/articles/Dof-00.html)* に戻る  
 
+[初場所初日](https://camp-us.net/articles/Dof-01_On-Board_Off-Board.html)  
+[初場所二日目](https://camp-us.net/articles/Dof-01_Off-Board-Observation.html)  
+[初場所三日目](https://camp-us.net/articles/Dof-01_Off-Board-Responsibility.html)  
+[初場所四日目](https://camp-us.net/articles/Dof-01_syntax-walker_AI.html)  
+（**中入り**）  
+[初場所五日目・千穐楽](https://camp-us.net/articles/Dof-01_On-Board-Victory_Off-Board-Responsibility.html)  
+##### **間奏線**  
+[初場所・間奏線](https://camp-us.net/articles/Dof-01_Outside-Cosmology_fold-Interlude.html)  
+
 ---
 *EgQE / [floc Cosmology](https://camp-us.net/floc-Cosmology.html)*  
 

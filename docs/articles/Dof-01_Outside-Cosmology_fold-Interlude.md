@@ -5,6 +5,13 @@ title: 間奏線──Outside Cosmology｜floc宇宙論の土俵｜初場所
 # **間奏線｜Outside Cosmology**
 #### ──将棋とチェスと囲碁とプロレスと相撲と犬の宇宙論
 
+[初場所初日](https://camp-us.net/articles/Dof-01_On-Board_Off-Board.html)  
+[初場所二日目](https://camp-us.net/articles/Dof-01_Off-Board-Observation.html)  
+[初場所三日目](https://camp-us.net/articles/Dof-01_Off-Board-Responsibility.html)  
+[初場所四日目](https://camp-us.net/articles/Dof-01_syntax-walker_AI.html)  
+（**中入り**）  
+[初場所五日目・千穐楽](https://camp-us.net/articles/Dof-01_On-Board-Victory_Off-Board-Responsibility.html)  
+
 ---
 
 ## 0. 祝辞 ──初場所を終えて

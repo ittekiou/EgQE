@@ -1,3 +1,7 @@
+---
+title: Dof-01_盤外観測とは何か── 観測者なき観測の構文｜floc宇宙論の土俵｜初場所二日目
+---
+#### 二日目｜初場所
 ## 盤外観測とは何か
 
 ### ── 観測者なき観測の構文
@@ -116,6 +120,8 @@
 
 > 観測とは、生成が「ここまで来た」と残した痕跡に名前を与える行為である。
 
+
+👉 [初場所三日目](https://camp-us.net/articles/Dof-01_Off-Board-Responsibility.html)  
 
 ---
 👉 *[floc宇宙溜席](https://camp-us.net/articles/Dof-00.html)* に戻る  
