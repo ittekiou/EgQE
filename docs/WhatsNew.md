@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SAW-06｜実体ではなく痕跡としての重力子 ── 粒波構文を越えるフォノン媒介的読解｜Graviton as Trace, Not Entity — Phonon-mediated Reading Beyond Particle–Wave Syntax](https://camp-us.net/articles/SAW-06_Graviton-as-Trace.html)  
 [ZS-017_なぜイオンなのか？ ──Why Ion? 相分離が描く分子配置](https://camp-us.net/critics/ZS-017_Why-Ion.html)  
 [ZS-018_なぜ六角形なのか？ ──Why Hexagon? 核スピンが長く息をする条件](https://camp-us.net/critics/ZS-018_Why-Hexagon.html)  
+[ZS-019_磁壁という境界 ──Why Boundary? 摩擦は痕跡を生むか](https://camp-us.net/critics/ZS-019_Why-Boundary.html)  
 ###### 2026/01/17  
 [非Zeroという原点／絶対的相対性という普遍性](https://camp-us.net/AR_Definition-Conclusion.html)  
 ⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)  

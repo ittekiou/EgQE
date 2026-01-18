@@ -21,7 +21,7 @@
 [ZS-016_電子は流れずに呼吸する── Electrons Do Not Flow — They Breathe](https://camp-us.net/critics/ZS-016_Electrons-Breathe.html)  
 [ZS-017_なぜイオンなのか？ ──Why Ion? 相分離が描く分子配置](https://camp-us.net/critics/ZS-017_Why-Ion.html)  
 [ZS-018_なぜ六角形なのか？ ──Why Hexagon? 核スピンが長く息をする条件](https://camp-us.net/critics/ZS-018_Why-Hexagon.html)  
-
+[ZS-019_磁壁という境界 ──Why Boundary? 摩擦は痕跡を生むか](https://camp-us.net/critics/ZS-019_Why-Boundary.html)  
 
 ---
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
