@@ -1,6 +1,6 @@
 ---
 title_en: The Ambivalence of Syntax（v0.1）— A Minimal Classification of Layers and Modes —
-title: 構文化の両価性──三層構文と六構文様式による分類（v0.1）
+title: SAW-05｜構文化の両価性──三層構文と六構文様式による分類（v0.1）
 ---
 # **The Ambivalence of Syntax**（v0.1）  
 ## — A Minimal Classification of Layers and Modes —

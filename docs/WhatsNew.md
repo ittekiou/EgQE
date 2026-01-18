@@ -18,6 +18,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/01/18  
 [SAW-05｜構文化の両価性──三層構文と六構文様式による分類（v0.1）｜The Ambivalence of Syntax — A Minimal Classification of Layers and Modes](https://camp-us.net/articles/SAW-05_Ambivalence-Syntax_v01.html)  
+[SAW-06｜実体ではなく痕跡としての重力子 ── 粒波構文を越えるフォノン媒介的読解｜Graviton as Trace, Not Entity — Phonon-mediated Reading Beyond Particle–Wave Syntax](https://camp-us.net/articles/SAW-06_Graviton-as-Trace.html)  
+[ZS-017_なぜイオンなのか？ ──Why Ion? 相分離が描く分子配置](https://camp-us.net/critics/ZS-017_Why-Ion.html)  
 ###### 2026/01/17  
 [非Zeroという原点／絶対的相対性という普遍性](https://camp-us.net/AR_Definition-Conclusion.html)  
 ⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)  
