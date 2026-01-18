@@ -19,6 +19,8 @@
 [ZS-015_観測構文の再配置としての Compton-y 観測── 観測量とモデル依存推定量の分離｜Reorganizing the Observational Hierarchy of Compton-y Measurements — Separating Observables from Model-Dependent Inferences](https://camp-us.net/critics/ZS-015_Compton-y.html)  
 
 [ZS-016_電子は流れずに呼吸する── Electrons Do Not Flow — They Breathe](https://camp-us.net/critics/ZS-016_Electrons-Breathe.html)  
+[ZS-017_なぜイオンなのか？ ──Why Ion? 相分離が描く分子配置](https://camp-us.net/critics/ZS-017_Why-Ion.html)  
+[ZS-018_なぜ六角形なのか？ ──Why Hexagon? 核スピンが長く息をする条件](https://camp-us.net/critics/ZS-018_Why-Hexagon.html)  
 
 
 ---
