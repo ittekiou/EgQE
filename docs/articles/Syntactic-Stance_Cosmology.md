@@ -30,6 +30,11 @@
 — Absolute Relativity (lag as minimal condition)
 
 ---
+
+[SAW/AR の作法（決定版）── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/SAW-AR_manner.html)  
+[SAW／EgQEにおける「場外ルール」 ── 議論のための禁じ手一覧](https://camp-us.net/SAW-AR_Off-board-rules.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
