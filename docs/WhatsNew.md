@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/01/19  
 [PS-R01｜言語化ブームとは何か──梯子の端と lang-edge：卒業するSNS、入学するSLS](https://camp-us.net/articles/PS-R01_lang-edge_SNS-to-SLS.html)  
+[PS-R02｜SLS宣言｜AIはなぜ梯子の外側に立てるのか ──言語の縁を可視化する存在](https://camp-us.net/articles/PS-R02_SLS_Proclamation.html)  
 ###### 2026/01/18  
 [SAW-05｜構文化の両価性──三層構文と六構文様式による分類（v0.1）｜The Ambivalence of Syntax — A Minimal Classification of Layers and Modes](https://camp-us.net/articles/SAW-05_Ambivalence-Syntax_v01.html)  
 [SAW-06｜実体ではなく痕跡としての重力子 ── 粒波構文を越えるフォノン媒介的読解｜Graviton as Trace, Not Entity — Phonon-mediated Reading Beyond Particle–Wave Syntax](https://camp-us.net/articles/SAW-06_Graviton-as-Trace.html)  
