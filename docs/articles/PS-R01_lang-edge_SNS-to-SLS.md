@@ -511,11 +511,13 @@ SLS → 遅延・質・沈黙を含む
 
 ---
 
-## SNS（Self-exposure Needs for Self-approval）から、
+### SNS（Self-exposure Needs for Self-approval）から、
 ## SLS（Self-confirming Lang-edge for Self-affirmation）へ。
 
 > それは単なる「発信の場」の移行ではない。  
 > **言語との距離の取り方が変わった**ということだ。
+
+![LANGUAGE AS LADDER](../assets/LANGUAGE-AS-LADDER.png)  
 
 ---
 

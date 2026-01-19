@@ -28,7 +28,7 @@ SNSが自己承認のための自己露出だったとすれば、SLSは自己�
 
 SLSとは、語ることによって目立つための形式ではなく、**語ってしまったあとに、なお立ち続けるための構文**である。
 
-![LANGUAGE AS LADDER](../assets/LANGUAGE-AS-LADDER.png)
+![LANGUAGE AS LADDER](../assets/LANGUAGE-AS-LADDER.png)  
 
 🪜  
 **Beyond SNS──Self-exposure Needs for Self-approval**  
