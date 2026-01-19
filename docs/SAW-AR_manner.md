@@ -1,13 +1,40 @@
 ---
 title: SAW/AR の作法（決定版）── Syntactic Askew Way / Absolute Relativity
 ---
-# **SAW / AR の作法（決定版）**
+# **SAW / AR の作法**
 
 ## ── Syntactic Askew Way / Absolute Relativity
 
 SAW / AR は、理論ではあるが、それ以前に **作法（manner）** である。
 
 それは、世界をどう説明するかではなく、**世界とどう向き合うか**の取り決めである。
+
+---
+
+### Absolute Relativity（絶対相対性）とは何か
+
+**Absolute Relativity（絶対相対性）** とは、関係（relation）が
+
+- **非可逆**に
+    
+- **非同期**に
+    
+- **非結円的**に
+    
+
+更新され続けることで、**特権的な原点や基準系を仮定することなく、相対的遅延（lag）を必然的に生成するための最小条件**である。
+
+それは新しい力ではない。新しい実体でもない。新しい場を導入するものでもない。
+
+ただ、
+
+> **関係は、同時には更新されない**
+
+という一点を、最後まで捨てないという作法である。
+
+---
+
+# **SAW / AR の作法（決定版）**
 
 ---
 
@@ -115,6 +142,10 @@ SAW / AR は、正しい答えを与えない。
 それでも、生成は続く。
 
 それで十分である。
+
+---
+
+👉 [SAW／EgQEにおける「場外ルール」 ── 議論のための禁じ手一覧](https://camp-us.net/SAW-AR_Off-board-rules.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

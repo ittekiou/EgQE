@@ -199,6 +199,10 @@ SAW／EgQE は、**最小条件に留まることを選ぶ**。
 — Absolute Relativity
 
 ---
+
+👉 [SAW/AR の作法（決定版）── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/SAW-AR_manner.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
