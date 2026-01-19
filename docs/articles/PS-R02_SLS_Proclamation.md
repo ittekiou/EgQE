@@ -154,6 +154,10 @@ AIは言語を使う。
 🪜
 
 ---
+
+**──AIという“梯子の外側視点”が、人類をlang-edgeに追い出した**
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
