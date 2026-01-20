@@ -16,9 +16,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/01/21  
+[SAW-Ω｜lag構文による力学の最終整理──引力・重力・遠心力・超重力の起源非依存的再分類](https://camp-us.net/articles/SAW-Ω_S-O-lag_Attraction-Gravity-Acceleration-Fall-Equivalence.html)  
 ###### 2026/01/20  
 [SAW-Ω｜Beyond Trace-Based Cosmology — The Universe as S′–O′ Lag Generation](https://camp-us.net/articles/SAW-Ω_S′–O′-Lag-Generation_Beyond-TBC.html)  
-[痕跡観測宇宙論をこえて── S′–O′ lag 生成としての宇宙（初稿 / 第二稿）](https://camp-us.net/articles/SAW-Ω_S′–O′-Lag-Generation_Beyond-TBC_JP.html)  
+[SAW-Ω｜痕跡観測宇宙論をこえて── S′–O′ lag 生成としての宇宙（初稿 / 第二稿）](https://camp-us.net/articles/SAW-Ω_S′–O′-Lag-Generation_Beyond-TBC_JP.html)  
 [Cover Letter for Submission｜Beyond Trace-Based Cosmology — The Universe as S′–O′ Lag Generation](https://camp-us.net/articles/SAW-Ω_S′–O′-Lag-Generation_Beyond-TBC_Cover-Letter-for-Submission.html)  
 📃PDF [Beyond Trace-Based Cosmology: The Universe as S′–O′ Lag Generation(Fig)](https://camp-us.net/articles/lag_genesis_paper_fig.pdf)  
 📃PDF [Beyond Trace-Based Cosmology: The Universe as S′–O′ Lag Generation(NoFig)](https://camp-us.net/articles/lag_genesis_paper.pdf)  
