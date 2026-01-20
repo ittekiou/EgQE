@@ -78,7 +78,7 @@ It is experienced as weight, resistance, or probability.
 
 ### 3. Consequences I｜Orbital Motion as Limit Cycle
 
-![SAW_Fig1_Circulation_Localization](../assets/SAW_Fig1_Lag.png)
+![SAW_Fig1_Circulation_Localization](../assets/SAW_Fig1_02_Lag.png)  
 **Figure 1｜Circulation and Localization of Lag.**  
 
 The two-body problem can be reread without invoking force as its primary cause.  

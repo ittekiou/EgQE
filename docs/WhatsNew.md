@@ -17,6 +17,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/01/20  
+[SAW-Ω｜Beyond Trace-Based Cosmology — The Universe as S′–O′ Lag Generation](https://camp-us.net/articles/SAW-Ω_S′–O′-Lag-Generation_Beyond-TBC.html)  
+[Cover Letter for Submission｜Beyond Trace-Based Cosmology — The Universe as S′–O′ Lag Generation](https://camp-us.net/articles/SAW-Ω_S′–O′-Lag-Generation_Beyond-TBC_Cover-Letter-for-Submission.html)  
 📃PDF [Beyond Trace-Based Cosmology: The Universe as S′–O′ Lag Generation(Fig)](https://camp-us.net/articles/lag_genesis_paper_fig.pdf)  
 📃PDF [Beyond Trace-Based Cosmology: The Universe as S′–O′ Lag Generation(NoFig)](https://camp-us.net/articles/lag_genesis_paper.pdf)  
 ###### 2026/01/19  

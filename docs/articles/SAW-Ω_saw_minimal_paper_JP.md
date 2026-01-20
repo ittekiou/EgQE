@@ -100,7 +100,7 @@ lag は履歴として固定されうる。
 
 ## 3. 帰結 I｜極限環としての周回運動
 
-![SAW_Fig1_Circulation_Localization](../assets/SAW_Fig1_Lag.png)  
+![SAW_Fig1_Circulation_Localization](../assets/SAW_Fig1_02_Lag.png)    
 **Figure 1｜Circulation and Localization of Lag**  
 
 二体問題は、力を第一原因として仮定せずに再読できる。  
