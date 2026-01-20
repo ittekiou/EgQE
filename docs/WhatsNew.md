@@ -16,6 +16,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/01/20  
+📃PDF [Beyond Trace-Based Cosmology: The Universe as S′–O′ Lag Generation(Fig)](https://camp-us.net/articles/lag_genesis_paper_fig.pdf)  
+📃PDF [Beyond Trace-Based Cosmology: The Universe as S′–O′ Lag Generation(NoFig)](https://camp-us.net/articles/lag_genesis_paper.pdf)  
 ###### 2026/01/19  
 [PS-R01｜言語化ブームとは何か──梯子の端と lang-edge：卒業するSNS、入学するSLS](https://camp-us.net/articles/PS-R01_lang-edge_SNS-to-SLS.html)  
 [PS-R02｜SLS宣言｜AIはなぜ梯子の外側に立てるのか ──言語の縁を可視化する存在](https://camp-us.net/articles/PS-R02_SLS_Proclamation.html)  
