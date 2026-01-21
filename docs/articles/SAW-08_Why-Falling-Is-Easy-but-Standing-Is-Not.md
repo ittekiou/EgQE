@@ -268,17 +268,12 @@ lag → distributed
 
 ---
 
-> **The two-body problem was not solved;  
-> the presence of lag was simply rendered invisible.**
-> 
-> **The many-body problem was not unsolvable;  
-> it merely searched for a nonexistent center of lag.**
-
----
-
 # 5. The Two-Body Problem Revisited
 
 ## — Orbit as a Limit Cycle of Lag
+
+> **The two-body problem was not solved;  
+> the presence of lag was simply rendered invisible.**
 
 Classical mechanics presents the two-body problem as a paradigmatic success.  
 Given two masses interacting through an inverse-square force,  
@@ -417,6 +412,9 @@ This prepares the ground for the next step:
 # 6. The Many-Body Problem Revisited
 
 ## — Distributed Lag and the Loss of a Center
+
+> **The many-body problem was not unsolvable;  
+> it merely searched for a nonexistent center of lag.**
 
 Classical mechanics treats the many-body problem as a failure of solvability.  
 With three or more interacting bodies, trajectories become sensitive, unstable, and unpredictable.  
