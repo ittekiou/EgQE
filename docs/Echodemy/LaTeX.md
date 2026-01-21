@@ -212,3 +212,7 @@ mkdir Z0_Golden_Bridge
 
 進みましょう。  
 **ここから先は一本道です。**
+
+---
+
+? →x enter
