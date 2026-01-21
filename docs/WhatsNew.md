@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SAW-07｜引力と重力のS/O最小整理｜Lag-Based Minimal Reorganization of Gravity and Acceleration](https://camp-us.net/articles/SAW-07_Lag-Based-Minimal-Reorganization-of-Gravity-and-Acceleration.html)  
 [SAW-08｜Why Falling Is Easy but Standing Is Not— Lag, Gravity, and the Zero Illusion of Classical Physics](https://camp-us.net/articles/SAW-08_Why-Falling-Is-Easy-but-Standing-Is-Not.html)  
 [SAW-08｜なぜ「落下」は容易で「立つ」ことは困難なのか｜Why Falling Is Easy but Standing Is Not— Lag, Gravity, and the Zero Illusion of Classical Physics](https://camp-us.net/articles/SAW-08_Why-Falling-Is-Easy-but-Standing-Is-Not_JP.html)  
+[SAW-08｜Falling and Supporting — Gravity Is Not Attraction（中核章ドラフト）](https://camp-us.net/articles/SAW-08_Falling-and-Supporting_Gravity-Is-Not-Attraction_draft.html)  
 ###### 2026/01/20  
 [SAW-Ω｜Beyond Trace-Based Cosmology — The Universe as S′–O′ Lag Generation](https://camp-us.net/articles/SAW-Ω_S′–O′-Lag-Generation_Beyond-TBC.html)  
 [SAW-Ω｜痕跡観測宇宙論をこえて── S′–O′ lag 生成としての宇宙（初稿 / 第二稿）](https://camp-us.net/articles/SAW-Ω_S′–O′-Lag-Generation_Beyond-TBC_JP.html)  

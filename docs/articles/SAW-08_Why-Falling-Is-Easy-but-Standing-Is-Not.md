@@ -734,6 +734,7 @@ We stand askew.
 > It explains why searching for a central solution was never appropriate.
 
 👉 [SAW-08｜なぜ「落下」は容易で「立つ」ことは困難なのか｜Why Falling Is Easy but Standing Is Not— Lag, Gravity, and the Zero Illusion of Classical Physics](https://camp-us.net/articles/SAW-08_Why-Falling-Is-Easy-but-Standing-Is-Not_JP.html)  
+👉 [SAW-08｜Falling and Supporting — Gravity Is Not Attraction（中核章ドラフト）](https://camp-us.net/articles/SAW-08_Falling-and-Supporting_Gravity-Is-Not-Attraction_draft.html)  
 
 ---
 
@@ -831,4 +832,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Jan 20, 2026 · Web Jan 21, 2026 |</p>
+<p align="center">| Drafted Jan 21, 2026 · Web Jan 21, 2026 |</p>

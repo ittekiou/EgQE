@@ -187,6 +187,7 @@ SAW は革命を起こさない。
 | 7. 結論       | 7. Conclusion — We Stand Askew                  | 「二体は解けていなかった／多体は中心を探していただけ」再掲OK |
 
 👉 [SAW-08｜Why Falling Is Easy but Standing Is Not— Lag, Gravity, and the Zero Illusion of Classical Physics](https://camp-us.net/articles/SAW-08_Why-Falling-Is-Easy-but-Standing-Is-Not.html)  
+👉 [SAW-08｜Falling and Supporting — Gravity Is Not Attraction（中核章ドラフト）](https://camp-us.net/articles/SAW-08_Falling-and-Supporting_Gravity-Is-Not-Attraction_draft.html)  
 
 ---
 
