@@ -138,7 +138,7 @@ SAW では次のように整理する。
 
 >  **Figure 1 | Lag structures in relational dynamics.**  
 > (a) In the two-body system, lag does not vanish.  
-> It is continuously recovered as a stable limit cycle, producing orbital motion without requiring attraction.
+> It is continuously recovered as a stable limit cycle, producing orbital motion without requiring attraction.  
 > (b) In the many-body system, lag cannot be centralized.  
 > It remains distributed across relational updates, leading to sensitivity, instability, and apparent chaos.
 
