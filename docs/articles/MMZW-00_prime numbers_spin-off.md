@@ -9,7 +9,7 @@
 > 合成構文が −1 lag を回収し損ねた痕跡である。**  
 > 
 > **合成構文が −1 lag を回収し損ねた痕跡は、  
-> 裏返すと非自明零点として現れる。
+> 裏返すと非自明零点として現れる。**
 
 [MMZW-00｜lag素数定理｜EgQE版(v0.1)](https://camp-us.net/articles/MMZW-00_prime numbers.html)  
 
