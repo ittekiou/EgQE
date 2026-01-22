@@ -33,6 +33,7 @@
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.0)](https://camp-us.net/articles/res12_v10.pdf)  
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
 
+[MMZW-00｜lag素数定理｜EgQE版(v0.1)](https://camp-us.net/articles/MMZW-00_prime numbers.html)  
 [MMZW-02｜なぜZUREヤクザは裏で整列したがるのか――非同一化・非閉性・中立安定としての非自明零点](https://camp-us.net/articles/MMZW-02_Riemann-Hypothesis_spin-off_1.html)  
 
 ---
