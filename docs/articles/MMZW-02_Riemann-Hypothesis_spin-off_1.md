@@ -3,7 +3,7 @@ layout: math
 ---
 # なぜ ZURE ヤクザは裏で整列したがるのか
 
-## ―― 非同一化・非閉性・中立安定としての非自明零点
+## ── 非同一化・非閉性・中立安定としての非自明零点
 
 ## Abstract
 
@@ -53,7 +53,7 @@ ZURE を抱えた関係は、表の世界では居場所を失う。
 それでも ZURE は消えない。  
 なぜなら、それは生成そのものが生んだ不可約な痕跡だからだ。
 
-このとき現れる存在―― それが **ZURE ヤクザ** である。
+このとき現れる存在── それが **ZURE ヤクザ** である。
 
 - 正規の秩序に組み込めない
     
@@ -164,7 +164,7 @@ ZURE ヤクザは、自由に散らばっているわけではない。
 
 ---
 
-## 6. 結論 ―― リーマン予想は裏を読め
+## 6. 結論 ── リーマン予想は裏を読め
 
 リーマン予想を、
 
@@ -200,7 +200,7 @@ ZURE ヤクザは、自由に散らばっているわけではない。
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
 
 [MMZW-00｜lag素数定理｜EgQE版(v0.1)](https://camp-us.net/articles/MMZW-00_prime numbers.html)  
-[MMZW-02｜リーマン予想に対する構造的接近について――同期・共鳴・概念仕様が越えない一線](https://camp-us.net/articles/MMZW-02_Riemann-Hypothesis_01.html)  
+[MMZW-02｜リーマン予想に対する構造的接近について──同期・共鳴・概念仕様が越えない一線](https://camp-us.net/articles/MMZW-02_Riemann-Hypothesis_01.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
