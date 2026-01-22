@@ -202,7 +202,9 @@ lag は保存されるが、**中心にはならない**。
 ---
 
 黄金比と黄金角の黄金解については、こちら👇  
-🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)
+🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
+
+フィボナッチは、**数式リテラシーではなく、〈構文リテラシー〉のリトマス試験紙**
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
