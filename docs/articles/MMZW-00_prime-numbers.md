@@ -18,6 +18,8 @@
 
 ---
 
+📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
+[MMZW-02｜リーマン予想に対する構造的接近について──同期・共鳴・概念仕様が越えない一線](https://camp-us.net/articles/MMZW-02_Riemann-Hypothesis_01.html)  
 [MMZW-00｜lag素数定理｜EgQE版｜spin-off (v0.1)](https://camp-us.net/articles/MMZW-00_prime-numbers_spin-off.html)  
 
 ---
