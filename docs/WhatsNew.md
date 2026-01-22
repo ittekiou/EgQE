@@ -28,6 +28,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SAW-10｜The Constancy of the Speed of Light as a Syntactic Assumption── 光速度不変原理の構文的再定位](https://camp-us.net/articles/SAW-10_Speed-of-Light-as-Syntactic-Assumption.html)  
 [SAW-10｜Why No One Called It a Syntactic Assumption: On the Constancy of the Speed of Light── 構文的仮定としての光速度不変原理](https://camp-us.net/articles/SAW-10_Why-No-One-Called-It-a-Syntactic-Assumption.html)  
 [SAW-10｜When Delay Becomes Geometry── Why Lag Was Mistaken for Curvature｜lagが幾何学になるとき── なぜ遅延が曲率と誤解されたのか](https://camp-us.net/articles/SAW-10_When-Delay-Becomes-Geometry.html)  
+[SAW-11｜S′–O′ lag による三態分類](https://camp-us.net/articles/SAW-11_Three-conditions-of-S′-O′-Lag.html)  
 ###### 2026/01/21  
 [SAW-Ω｜lag構文による力学の最終整理──引力・重力・遠心力・超重力の起源非依存的再分類](https://camp-us.net/articles/SAW-Ω_S-O-lag_Attraction-Gravity-Acceleration-Fall-Equivalence.html)  
 [SAW-07｜引力と重力のS/O最小整理｜Lag-Based Minimal Reorganization of Gravity and Acceleration](https://camp-us.net/articles/SAW-07_Lag-Based-Minimal-Reorganization-of-Gravity-and-Acceleration.html)  
