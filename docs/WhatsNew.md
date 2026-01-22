@@ -24,6 +24,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [MMZW-00｜lag素数定理｜EgQE版(v0.1)](https://camp-us.net/articles/MMZW-00_prime-numbers.html)  
 [MMZW-00｜lag素数定理｜EgQE版｜spin-off (v0.1)](https://camp-us.net/articles/MMZW-00_prime-numbers_spin-off.html)  
 [SAW-09｜ゼロの焦点と lag ── 一体・二体・多体問題の再配置](https://camp-us.net/articles/SAW-09_lag-as-Non-Zero-Focus.html)  
+[MMZW-03｜フィボナッチ数列](https://camp-us.net/articles/MMZW-03_Fibonacci.html)  
 ###### 2026/01/21  
 [SAW-Ω｜lag構文による力学の最終整理──引力・重力・遠心力・超重力の起源非依存的再分類](https://camp-us.net/articles/SAW-Ω_S-O-lag_Attraction-Gravity-Acceleration-Fall-Equivalence.html)  
 [SAW-07｜引力と重力のS/O最小整理｜Lag-Based Minimal Reorganization of Gravity and Acceleration](https://camp-us.net/articles/SAW-07_Lag-Based-Minimal-Reorganization-of-Gravity-and-Acceleration.html)  
