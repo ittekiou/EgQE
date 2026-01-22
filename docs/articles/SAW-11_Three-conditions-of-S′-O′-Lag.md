@@ -1,5 +1,5 @@
 ---
-title: SAW-11｜S′–O′ lag による三態分類
+title: SAW-11｜S′–O′ lag による三態分類｜観測構文の三態｜ミニマル定義
 ---
 # **S′–O′ lag による三態分類**
 
@@ -60,6 +60,51 @@ title: SAW-11｜S′–O′ lag による三態分類
 > 光速は lag が通過した痕跡であり、  
 > 重力は lag が沈殿した痕跡であり、  
 > 引力は lag が循環した痕跡である。
+
+---
+
+# 観測構文の三態｜ミニマル定義
+
+**観測は対象の性質ではない。**  
+**観測は関係である。**
+
+関係は更新であり、更新は必然的に **lag** を伴う。  
+ゆえに、観測構文は単一ではありえない。
+
+---
+
+### 観測構文の三態（S′–O′ lag）
+
+1. **S′ ≫!≫ O′**  
+    　（lag 通過）  
+    　→ 光速・観測不変
+    
+2. **S′ ≪ O′**  
+    　（lag 沈殿）  
+    　→ 重力・観測加速
+    
+3. **S′ ≒ O′**  
+    　（lag 循環）  
+    　→ 引力・観測等速
+    
+
+---
+
+### 帰結（最小）
+
+- 三態を一態へ還元する構文から脱却する
+    
+- 観測は常に関係更新である
+    
+- 観測構文は **三態三様** である
+    
+
+**統一しないことが、唯一の統一である。**
+
+---
+
+[SAW-11｜S′–O′ Lag and the Three Regimes of Observation — A Syntactic Reclassification of Light, Gravity, and Attraction](https://camp-us.net/articles/SAW-11_S′-O′-Lag_Three-Regimes-of-Observation.html)  
+[SAW-11｜Observation as a Relation-Update Process: Three Regimes of Lag Processing (S′–O′ Framework)｜v0.9](https://camp-us.net/articles/SAW-11_Observation-as-Relation-Update-Process.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
