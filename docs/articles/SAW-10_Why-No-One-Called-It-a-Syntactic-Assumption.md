@@ -107,6 +107,132 @@ By restoring it to the status of a syntactic assumption, we gain a clearer view 
 > It was an absence of vocabulary.
 
 ---
+
+# Short Letter Version
+
+## _Why the Constancy of the Speed of Light Is a Syntactic Assumption_
+
+**Abstract (Letter)**  
+The constancy of the speed of light is traditionally presented as a foundational principle of special relativity. This note argues that its role is better understood as a syntactic assumption: a rule governing how physical descriptions are coordinated between observers, rather than a physical law or empirical invariant. Reclassifying its epistemic status clarifies long-standing conceptual confusions without altering empirical predictions.
+
+---
+
+### Main Text
+
+The invariance of the speed of light is usually introduced as a principle, not derived from deeper dynamics. While empirically successful, its conceptual role has often been overstated.
+
+This letter proposes a modest reclassification: the constancy of the speed of light functions as a **syntactic assumption**, not as a physical principle in the causal or ontological sense.
+
+By _syntactic assumption_, we mean a rule that constrains how descriptions are written and transformed, rather than a statement about what physically exists or dynamically causes phenomena. In special relativity, the invariant light speed fixes the grammar of spacetime transformations before any dynamical law is introduced.
+
+Historically, the assumption was motivated by the failure of classical kinematics to accommodate electrodynamics. Its adoption stabilized the descriptive framework but did not itself explain physical mechanisms. Later geometric formulations, especially Minkowski spacetime, reinforced the impression that the assumption had become a physical necessity, obscuring its grammatical role.
+
+Importantly, treating light-speed constancy as syntactic does **not** weaken relativity. All empirical predictions remain unchanged. What changes is interpretive clarity: time dilation, length contraction, and relativistic simultaneity emerge from the chosen descriptive grammar, not from light acting as a causal agent enforcing them.
+
+The persistence of confusion surrounding this assumption may stem from the absence of an explicit syntactic vocabulary in physics. Concepts such as law, principle, and constant exist, but no category has been reserved for rules that organize description itself.
+
+Reinstating the constancy of the speed of light as a syntactic assumption restores conceptual proportionality. It removes unnecessary metaphysical weight while preserving all operational content.
+
+---
+
+## 補論
+
+## _Why Einstein Never Called It a Syntactic Assumption_
+
+この補論は、「なぜアインシュタイン自身がそう呼ばなかったのか」を**評価せずに**説明するためのものです。
+
+---
+
+### A. Einstein’s Own Position
+
+アインシュタインは1905年に光速度不変を **Prinzip（原理）** と呼びましたが、それは形而上学的宣言ではなく、**理論構成上の要請**として導入されています。
+
+重要なのは、彼がそれを
+
+- 観測から直接導いた
+    
+- 物理的原因として説明した
+    
+
+とは一度も主張していない点です。
+
+晩年、彼は原理理論に対する不満を繰り返し表明しています。代表的なのが以下の趣旨の発言です（表現は文献により差異あり）：
+
+> _“I am not fully satisfied with the formulation of physical laws as principles.”_  
+> （私は物理法則を原理として定式化することに完全には満足していない）
+
+この不満は、**原理が説明にならない**ことへの違和感でした。
+
+ただし、アインシュタインはここで
+
+- 原理を仮定に格下げする
+    
+- 記述上の選択として明示する
+    
+
+という一歩までは踏み込みませんでした。
+
+---
+
+### B. Why He Stopped There
+
+理由は理論的というより **言語的** です。
+
+当時存在した分類は：
+
+- 原理（Principle）
+    
+- 法則（Law）
+    
+- 仮説（Hypothesis）
+    
+- 定数（Constant）
+    
+
+しかし、
+
+- 「記述の書き方そのもの」
+    
+- 「理論が成立するための文法」
+    
+
+を指す語彙は存在しませんでした。
+
+したがって、光速度不変は **原理であるか／物理的原因であるか** の二択に閉じ込められたのです。
+
+---
+
+### C. Near Misses: Poincaré and Others
+
+ポアンカレは同時性を **convention（約束）** と呼び、測定規約への依存を明確に認識していました。これは構文的理解にかなり近いものでした。
+
+しかし「原理の地位を下ろす」という宣言は行っていません。
+
+ローレンツ的解釈も、原理否定ではなく「背後の物理構造」を探す方向に進みました。これもまた、構文の問題を物理原因の問題へ転写してしまっています。
+
+---
+
+### D. The Missing Word
+
+結論は単純です。
+
+> **誰も間違っていなかった。  
+> ただ、適切な語がなかった。**
+
+「光速度不変は構文的仮定である」という言明は、
+
+- 相対論を否定しない
+    
+- 原理を壊さない
+    
+- 観測とも対立しない
+    
+
+それでもなお、**理論の重心を正しい位置に戻す**。
+
+それが今、ようやく言語化可能になった、というだけの話です。
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
