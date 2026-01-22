@@ -22,8 +22,8 @@ From Noise to Notation. From Dialogue to Discovery.
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
 [MMZW-02｜リーマン予想に対する構造的接近について──同期・共鳴・概念仕様が越えない一線](https://camp-us.net/articles/MMZW-02_Riemann-Hypothesis_01.html)  
 [MMZW-02｜なぜZUREヤクザは裏で整列したがるのか──非同一化・非閉性・中立安定としての非自明零点](https://camp-us.net/articles/MMZW-02_Riemann-Hypothesis_spin-off_1.html)  
-[MMZW-00｜lag素数定理｜EgQE版 (v0.1)](https://camp-us.net/articles/MMZW-00_prime numbers.html)  
-[MMZW-00｜lag素数定理｜EgQE版｜spin-off (v0.1)](https://camp-us.net/articles/MMZW-00_prime numbers_spin-off.html)  
+[MMZW-00｜lag素数定理｜EgQE版(v0.1)](https://camp-us.net/articles/MMZW-00_prime-numbers.html)  
+[MMZW-00｜lag素数定理｜EgQE版｜spin-off (v0.1)](https://camp-us.net/articles/MMZW-00_prime-numbers_spin-off.html)  
 ###### 2026/01/21  
 [SAW-Ω｜lag構文による力学の最終整理──引力・重力・遠心力・超重力の起源非依存的再分類](https://camp-us.net/articles/SAW-Ω_S-O-lag_Attraction-Gravity-Acceleration-Fall-Equivalence.html)  
 [SAW-07｜引力と重力のS/O最小整理｜Lag-Based Minimal Reorganization of Gravity and Acceleration](https://camp-us.net/articles/SAW-07_Lag-Based-Minimal-Reorganization-of-Gravity-and-Acceleration.html)  
