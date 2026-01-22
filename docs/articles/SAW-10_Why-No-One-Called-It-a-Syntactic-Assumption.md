@@ -233,6 +233,11 @@ Reinstating the constancy of the speed of light as a syntactic assumption restor
 それが今、ようやく言語化可能になった、というだけの話です。
 
 ---
+
+[SAW-10｜The Constancy of the Speed of Light as a Syntactic Assumption── 光速度不変原理の構文的再定位](https://camp-us.net/articles/SAW-10_Speed-of-Light-as-Syntactic-Assumption.html)  
+[SAW-10｜When Delay Becomes Geometry── Why Lag Was Mistaken for Curvature｜lagが幾何学になるとき── なぜ遅延が曲率と誤解されたのか](https://camp-us.net/articles/SAW-10_When-Delay-Becomes-Geometry.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

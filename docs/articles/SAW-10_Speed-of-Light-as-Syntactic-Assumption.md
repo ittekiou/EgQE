@@ -91,6 +91,12 @@ Further questions—such as how lag, delay, or interaction emerge—are left del
 
 This work treats physical theory as a syntactic practice grounded in trace, coordination, and update, rather than as a closed system of ontological commitments.
 
+
+---
+
+[SAW-10｜Why No One Called It a Syntactic Assumption: On the Constancy of the Speed of Light── 構文的仮定としての光速度不変原理](https://camp-us.net/articles/SAW-10_Why-No-One-Called-It-a-Syntactic-Assumption.html)  
+[SAW-10｜When Delay Becomes Geometry── Why Lag Was Mistaken for Curvature｜lagが幾何学になるとき── なぜ遅延が曲率と誤解されたのか](https://camp-us.net/articles/SAW-10_When-Delay-Becomes-Geometry.html)  
+
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
