@@ -16,7 +16,6 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
-
 ###### 2026/01/22  
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.0)](https://camp-us.net/articles/res12_v10.pdf)  
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  

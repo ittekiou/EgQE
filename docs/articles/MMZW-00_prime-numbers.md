@@ -18,7 +18,7 @@
 
 ---
 
-[MMZW-00｜lag素数定理｜EgQE版｜spin-off (v0.1)](https://camp-us.net/articles/MMZW-00_prime numbers_spin-off.html)  
+[MMZW-00｜lag素数定理｜EgQE版｜spin-off (v0.1)](https://camp-us.net/articles/MMZW-00_prime-numbers_spin-off.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
