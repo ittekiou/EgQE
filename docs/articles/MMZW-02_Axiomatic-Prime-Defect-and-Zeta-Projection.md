@@ -3,8 +3,8 @@ layout: math
 title: "MMZW-02｜素数不動点から臨界線へ: Axiomatic Prime Defect and Zeta Projection── ZURE 的 Riemann 素焼きスケッチv0.1/v0.2"
 ---
 #### EgQE v0.1
-## 素数不動点から臨界線へ
-### ── ZURE 的 Riemann 素焼きスケッチ
+# 素数不動点から臨界線へ
+## ── ZURE 的 Riemann 素焼きスケッチ
 
 ### Abstract
 
