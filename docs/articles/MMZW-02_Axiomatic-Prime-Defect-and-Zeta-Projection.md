@@ -423,10 +423,7 @@ it only shows where their shadows can stand.
 
 <svg width="640" height="360" viewBox="0 0 640 360"
      xmlns="http://www.w3.org/2000/svg">
-<svg ...>
   <rect width="100%" height="100%" fill="#fff"/>
-  <!-- 以下、図形 -->
-</svg>
 
   <!-- Prime Defect Box -->
   <rect x="40" y="120" width="200" height="80"
