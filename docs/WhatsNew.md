@@ -23,6 +23,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [MMZW-02｜Primes as Axiomatic Fixed Defects (v0.1-v1.0)](https://camp-us.net/articles/MMZW-02_Primes-as-Axiomatic-Defects.html)  
 [MMZW-02｜Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/MMZW-02_rh_form_prime_defects.html)  
 📃PDF [Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/rh_form_prime_defects_v1_0.pdf)  
+[MMZW-02｜素数欠陥から臨界線へ: Prime Defect Line 全論文](https://camp-us.net/articles/MMZW-02_index.html)  
 ###### 2026/01/22  
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.0)](https://camp-us.net/articles/res12_v10.pdf)  
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
