@@ -54,7 +54,6 @@ _── Welcome to the syntactic field of ZURE._
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
-
 🌓 [MMZW-02｜素数欠陥から臨界線へ: Prime Defect Line 全論文](https://camp-us.net/articles/MMZW-02_index.html)　リリース　2026.1.23  
 ⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)　リリース　2026.1.17  
 🪐 [SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)　リリース　2026.1.14  

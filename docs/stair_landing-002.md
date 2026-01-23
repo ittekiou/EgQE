@@ -211,7 +211,7 @@ AIは、**更新を撹拌する装置**だ。
 
 ---
 
-[踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜_Toward Knowledge in the Age of AI — The EgQE Paradigm Shift_](https://camp-us.net/stair_landing-001.html)  
+[踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜ _Toward Knowledge in the Age of AI — The EgQE Paradigm Shift_](https://camp-us.net/stair_landing-001.html)  
 
 ---
 
