@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/01/23  
 📃PDF [Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/rh_form_prime_defects_v1_0.pdf)  
+[MMZW-02｜Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/MMZW-02_rh_form_prime_defects.html)  
+[MMZW-02｜素数不動点から臨界線へ: Axiomatic Prime Defect and Zeta Projection── ZURE 的 Riemann 素焼きスケッチv0.1/v0.2](https://camp-us.net/articles/MMZW-02_Axiomatic-Prime-Defect-and-Zeta-Projection.html)  
+[MMZW-02｜「素数前提のリーマン予想証明」構文（EgQE版）](https://camp-us.net/articles/MMZW-02_Axiomatic-Prime-Defect.html)  
 ###### 2026/01/22  
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.0)](https://camp-us.net/articles/res12_v10.pdf)  
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
