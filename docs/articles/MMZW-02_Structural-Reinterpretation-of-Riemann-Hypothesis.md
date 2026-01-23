@@ -397,6 +397,8 @@ Stable analytic shadows persist exclusively on the critical line (\Re(s)=\tfrac1
   <rect x="40" y="80" width="200" height="80" fill="none" stroke="black"/>
   <rect x="260" y="80" width="200" height="80" fill="none" stroke="black"/>
   <rect x="480" y="80" width="200" height="80" fill="none" stroke="black"/>
+  <rect width="100%" height="100%" fill="#fff"/>
+
 
   <!-- Arrows -->
   <line x1="240" y1="120" x2="260" y2="120" stroke="black"/>
