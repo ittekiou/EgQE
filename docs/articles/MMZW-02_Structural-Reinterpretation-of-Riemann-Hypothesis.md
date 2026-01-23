@@ -394,11 +394,10 @@ Stable analytic shadows persist exclusively on the critical line (\Re(s)=\tfrac1
 
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260">
   <!-- Boxes -->
+  <rect width="100%" height="100%" fill="#fff"/>
   <rect x="40" y="80" width="200" height="80" fill="none" stroke="black"/>
   <rect x="260" y="80" width="200" height="80" fill="none" stroke="black"/>
   <rect x="480" y="80" width="200" height="80" fill="none" stroke="black"/>
-  <rect width="100%" height="100%" fill="#fff"/>
-
 
   <!-- Arrows -->
   <line x1="240" y1="120" x2="260" y2="120" stroke="black"/>
