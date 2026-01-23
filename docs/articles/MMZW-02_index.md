@@ -1,5 +1,6 @@
 ---
 title: "MMZW-02｜素数欠陥から臨界線へ: Prime Defect Line 全論文"
+layout: math
 ---
 # MMZW-02  **Prime Defect Line**  
 ## *素数欠陥から臨界線へ*
