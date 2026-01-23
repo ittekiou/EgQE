@@ -46,14 +46,14 @@ $$
 
 ## 🛤️ 研究ライン図
 
-mermaid
-graph TD
-    A[整数構文<br/>合成失敗] --> B[lag=-1<br/>不動点 P]
-    B --> C[ζ 解析投影]
-    C --> D[Re(s)>1/2<br/>過平滑化<br/>defect消失]
-    C --> E[Re(s)<1/2<br/>過干渉<br/>発散]
-    C --> F[Re(s)=1/2<br/>安定化閾値<br/>零点整列]
-    F -.->|RH| G[構文的必然性]
+mermaid  
+graph TD  
+    A[整数構文<br/>合成失敗] --> B[lag=-1<br/>不動点 P]  
+    B --> C[ζ 解析投影]  
+    C --> D[Re(s)>1/2<br/>過平滑化<br/>defect消失]  
+    C --> E[Re(s)<1/2<br/>過干渉<br/>発散]  
+    C --> F[Re(s)=1/2<br/>安定化閾値<br/>零点整列]  
+    F -.->|RH| G[構文的必然性]  
 
 ---
 
