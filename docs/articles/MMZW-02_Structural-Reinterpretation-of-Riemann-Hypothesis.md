@@ -29,7 +29,7 @@ The contribution is conceptual rather than computational: a reframing of primes,
 
 ---
 
-## Appendix : Figure 1.
+## Appendix A : Figure 1.
 
 ```
 [ Prime Defect (Fix) ]

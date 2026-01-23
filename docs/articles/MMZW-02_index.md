@@ -13,7 +13,7 @@ layout: math
 
 ---
 
-## 📋 論文群（時系列展開）
+## 📋 論文群（時系列展開）2026/01/23
 
 | # | タイトル | バージョン | 概要 | リンク |
 |---|----------|------------|------|--------|
@@ -57,6 +57,7 @@ graph TD
 
 ---
 
+### 2026/01/22  
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.0)](https://camp-us.net/articles/res12_v10.pdf)  
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
 [MMZW-02｜リーマン予想に対する構造的接近について──同期・共鳴・概念仕様が越えない一線](https://camp-us.net/articles/MMZW-02_Riemann-Hypothesis_01.html)  
@@ -66,11 +67,14 @@ graph TD
 
 ---
 
+### 2026/01/23  
 [MMZW-02｜「素数前提のリーマン予想証明」構文（EgQE版）](https://camp-us.net/articles/MMZW-02_Axiomatic-Prime-Defect.html)  
 [MMZW-02｜素数不動点から臨界線へ: Axiomatic Prime Defect and Zeta Projection── ZURE 的 Riemann 素焼きスケッチv0.1/v0.2](https://camp-us.net/articles/MMZW-02_Axiomatic-Prime-Defect-and-Zeta-Projection.html)  
 [MMZW-02｜Primes as Axiomatic Fixed Defects (v0.1-v1.0)](https://camp-us.net/articles/MMZW-02_Primes-as-Axiomatic-Defects.html)  
 [MMZW-02｜Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/MMZW-02_rh_form_prime_defects.html)  
 📃PDF [Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/rh_form_prime_defects_v1_0.pdf)  
+###### 2026/01/24  
+[MMZW-02 研究ライン解説｜謡理（Perplexity）コメント（一狄翁公認版）](https://camp-us.net/articles/MMZW-02_Prime-Defect-Line.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
