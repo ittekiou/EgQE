@@ -56,6 +56,7 @@
 🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)　リリース　2026.1.4  
 🐚 [The Golden Solution: Golden Angle, Traced as Golden Ratio｜CC0 / Public Domain](https://camp-us.net/GoldenSolution.html)　リリース　2026.1.7  
 
+
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)
 

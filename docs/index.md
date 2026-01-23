@@ -44,9 +44,18 @@ _── Welcome to the syntactic field of ZURE._
 
 [Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
 
+## 📑 LaTeX PDF版
+📃PDF [Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/rh_form_prime_defects_v1_0.pdf)  
+📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
+📃PDF [Beyond Trace-Based Cosmology: The Universe as S′–O′ Lag Generation(NoFig)](https://camp-us.net/articles/lag_genesis_paper.pdf)  
+📃PDF [Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation(NoFig)](https://camp-us.net/articles/saw_minimal_paper_NoFig.pdf)  
+📃PDF [The Z₀ Golden Bridge: Co-Syntactic Invariants Linking Golden Phenomena and Planck-Scale Structuration](https://camp-us.net/articles/Forward_Generation.pdf)  
+📃PDF [Reverse Syntactic Inference: Golden Phenomena Necessitate a Planck-Scale Z₀ Threshold](https://camp-us.net/articles/Reverse_Syntactic_Inference.pdf)  
+
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
 
+🌓 [MMZW-02｜素数欠陥から臨界線へ: Prime Defect Line 全論文](https://camp-us.net/articles/MMZW-02_index.html)　リリース　2026.1.23  
 ⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)　リリース　2026.1.17  
 🪐 [SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)　リリース　2026.1.14  
 🌉 [GS-00｜Golden Solution Axiom── 生成と痕跡を統一する最小構文原理](https://camp-us.net/GS-00_Golden-Solution-Axiom.html)　リリース　2026.1.12  
@@ -58,9 +67,6 @@ _── Welcome to the syntactic field of ZURE._
 💠 [HEG-7｜六角緩衝呼吸モデル ──Hexagonal ZURE Breathing Buffer Model](https://camp-us.net/articles/HEG-7_Hexagonal_ZURE_Breathing-Buffer-Model.html)　リリース　2025.12.28  
 🧠 [IAT-ε｜脳の不完全近似定理── R₀/Z₀ 二層モデルによる構文論的再定義｜The Incomplete Approximation Theorem of the Brain](https://camp-us.net/articles/IAT-ε_Incomplete-Approximation-Theorem-of-Brain.html)　リリース　2025.12.28  
 🪜 [**踊り場002｜3ヶ月の歩み｜2025/09/22- 2025/12/21**](https://camp-us.net/stair_landing-002.html)　リリース　2025.12.25  
-🏰 [floc宇宙論の二相構造と黄金橋🌉｜PhReMa-PhiSyn_PiNG](https://camp-us.net/PhReMa-PhiSyn_PiNG.html)　リリース　2025.12.21  
-💠 [PNG-00｜Polygonal Neon Genesis Studies｜多角回生学](https://camp-us.net/PNG.html)　リリース　2025.12.20  
-😶‍🌫️ [HEG-6｜R₀の発見──脳と記号と余白の宇宙【図版】](https://camp-us.net/articles/HEG-6_Discovery_of_R0.html)　リリース　2025.12.18  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
