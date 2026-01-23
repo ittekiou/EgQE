@@ -482,12 +482,7 @@ Figure 1: A schematic view of prime numbers interpreted as fixed non-recoverable
 
 ---
 
-[MMZW-02｜「素数前提のリーマン予想証明」構文（EgQE版）](https://camp-us.net/articles/MMZW-02_Axiomatic-Prime-Defect.html)  
-[MMZW-02｜Why Prime Numbers Are Not Generated: A Structural Reinterpretation of the Riemann Hypothesis](https://camp-us.net/articles/MMZW-02_Structural-Reinterpretation-of-Riemann-Hypothesis.html)  
-[MMZW-02｜Primes as Axiomatic Fixed Defects (v0.1-v1.0)](https://camp-us.net/articles/MMZW-02_Primes-as-Axiomatic-Defects.html)  
-
-[MMZW-02｜Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/MMZW-02_rh_form_prime_defects.html)  
-📃PDF [Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/rh_form_prime_defects_v1_0.pdf)  
+[MMZW-02｜素数欠陥から臨界線へ: Prime Defect Line 全論文](https://camp-us.net/articles/MMZW-02_index.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
