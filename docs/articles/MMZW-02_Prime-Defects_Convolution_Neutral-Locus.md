@@ -7,6 +7,53 @@ layout: math
 > Prime defects are not.  
 > What cannot be absorbed must survive only on a neutral line.
 
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
+  <!-- dark-mode safe background -->
+  <rect x="0" y="0" width="720" height="240" fill="#ffffff"/>
+
+  <defs>
+    <marker id="arrowHead_simple" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#111111"/>
+    </marker>
+  </defs>
+
+  <!-- Boxes -->
+  <rect x="40"  y="70" width="200" height="100" rx="14" fill="none" stroke="#111111" stroke-width="2"/>
+  <rect x="260" y="70" width="200" height="100" rx="14" fill="none" stroke="#111111" stroke-width="2"/>
+  <rect x="480" y="70" width="200" height="100" rx="14" fill="none" stroke="#111111" stroke-width="2"/>
+
+  <!-- Box text -->
+  <text x="140" y="110" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
+        font-size="16" fill="#111111">Convolution closure</text>
+  <text x="140" y="135" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
+        font-size="12" fill="#111111">absorbs composites</text>
+  <text x="140" y="155" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
+        font-size="12" fill="#111111">leaves prime defects</text>
+
+  <text x="360" y="120" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
+        font-size="16" fill="#111111">Lag norm</text>
+  <text x="360" y="145" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
+        font-size="12" fill="#111111">survivability test</text>
+
+  <text x="575" y="110" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
+        font-size="16" fill="#111111">Neutral locus</text>
+  <text x="580" y="135" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
+        font-size="16" fill="#111111">Re(s) = 1/2</text>
+  <text x="580" y="155" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
+        font-size="12" fill="#111111">neither 0  nor ∞</text>
+
+  <!-- Arrows -->
+  <line x1="240" y1="120" x2="260" y2="120" stroke="#111111" stroke-width="2" marker-end="url(#arrowHead_simple)"/>
+  <line x1="460" y1="120" x2="480" y2="120" stroke="#111111" stroke-width="2" marker-end="url(#arrowHead_simple)"/>
+
+  <!-- Minimal neutral line marker inside right box -->
+  <line x1="580" y1="92" x2="580" y2="168" stroke="#111111" stroke-width="1"/>
+
+  <!-- Tiny footer -->
+  <text x="360" y="210" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
+        font-size="16" fill="#111111">Prime defects persist only on the neutral line.</text>
+</svg>
+
 ---
 
 ## A. Prime Defects as Non-Absorbable Residues under Convolution
@@ -271,55 +318,6 @@ $$
 If a residual structure persists under analytic smoothing without growth or decay, its representation must lie on a neutral line.
 
 In the zeta framework, this neutrality corresponds to $\Re(s)=\tfrac12$.
-
----
-
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
-  <!-- dark-mode safe background -->
-  <rect x="0" y="0" width="720" height="240" fill="#ffffff"/>
-
-  <defs>
-    <marker id="arrowHead_simple" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L12,6 L0,12 Z" fill="#111111"/>
-    </marker>
-  </defs>
-
-  <!-- Boxes -->
-  <rect x="40"  y="70" width="200" height="100" rx="14" fill="none" stroke="#111111" stroke-width="2"/>
-  <rect x="260" y="70" width="200" height="100" rx="14" fill="none" stroke="#111111" stroke-width="2"/>
-  <rect x="480" y="70" width="200" height="100" rx="14" fill="none" stroke="#111111" stroke-width="2"/>
-
-  <!-- Box text -->
-  <text x="140" y="110" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
-        font-size="16" fill="#111111">Convolution closure</text>
-  <text x="140" y="135" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
-        font-size="12" fill="#111111">absorbs composites</text>
-  <text x="140" y="155" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
-        font-size="12" fill="#111111">leaves prime defects</text>
-
-  <text x="360" y="120" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
-        font-size="16" fill="#111111">Lag norm</text>
-  <text x="360" y="145" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
-        font-size="12" fill="#111111">survivability test</text>
-
-  <text x="575" y="110" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
-        font-size="16" fill="#111111">Neutral locus</text>
-  <text x="580" y="135" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
-        font-size="16" fill="#111111">Re(s) = 1/2</text>
-  <text x="580" y="155" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
-        font-size="12" fill="#111111">neither 0  nor ∞</text>
-
-  <!-- Arrows -->
-  <line x1="240" y1="120" x2="260" y2="120" stroke="#111111" stroke-width="2" marker-end="url(#arrowHead_simple)"/>
-  <line x1="460" y1="120" x2="480" y2="120" stroke="#111111" stroke-width="2" marker-end="url(#arrowHead_simple)"/>
-
-  <!-- Minimal neutral line marker inside right box -->
-  <line x1="580" y1="92" x2="580" y2="168" stroke="#111111" stroke-width="1"/>
-
-  <!-- Tiny footer -->
-  <text x="360" y="210" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif"
-        font-size="16" fill="#111111">Prime defects persist only on the neutral line.</text>
-</svg>
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
