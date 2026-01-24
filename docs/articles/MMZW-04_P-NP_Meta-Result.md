@@ -1,5 +1,6 @@
 ---
 layout: math
+title: "MMZW-04｜Meta-Result on the Solvability of the P/NP Question: On the expressive limits of time-based (or size-based) scalar languages in computational complexity theory"
 ---
 # Meta-Result on the Solvability of the P/NP Question
 
