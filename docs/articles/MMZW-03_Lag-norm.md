@@ -95,7 +95,7 @@ $\Delta$ は小さいが固定、帯域とサンプリングは明示的に限�
 
 ## 位置づけ
 
-- **MMZW-02**：なぜ中立か（意味論）
+- **[MMZW-02](https://camp-us.net/articles/MMZW-02_Prime-Defects_Convolution_Neutral-Locus.html)**：なぜ中立か（意味論）
     
 - **MMZW-03**：どう測るか（装置）
     
@@ -104,7 +104,100 @@ $\Delta$ は小さいが固定、帯域とサンプリングは明示的に限�
 
 ---
 
-[MMZW-02｜Prime Defects, Convolution, Lag Norm Measures, Neutral Locus.](https://camp-us.net/articles/MMZW-02_Prime-Defects_Convolution_Neutral-Locus.html)  
+## Experimental Log (MMZW-03｜Lag norm — one concrete realization)
+
+**Setup (common)**
+
+- Observable: $D_\Delta \arg \zeta(1/2+it)$
+    
+- Branch handling: shared-branch alignment (common unwrap + global $2\pi k$ alignment)
+    
+- Spike detection: MAD × 10 threshold (robust)
+    
+
+---
+
+### A｜Band shift (destructive confirmation)
+
+- Parameters:
+    
+    - Δ = 0.05
+        
+    - N = 320
+        
+    - Bands: [10, 60] → [200, 260]
+        
+- Observation:
+    
+    - Spike density increases markedly as the band is raised.
+        
+- Conclusion:
+    
+    - Failure events proliferate with band elevation.
+        
+
+---
+
+### B｜Δ shrink (failure localization)
+
+- Parameters:
+    
+    - Δ = 0.01
+        
+    - N = 480
+        
+    - Band: [200, 300]
+        
+- Observation:
+    
+    - ~99% of samples remain quiet (|D| ≲ O(1–2))
+        
+    - Rare but extreme spikes observed:
+        
+        - spike fraction ≈ 0.004
+            
+        - max |D| ≈ 312
+            
+- Conclusion:
+    
+    - Failure mode transitions from dense to sparse but extreme events.
+        
+
+---
+
+### 1 → 2｜Spike pinning and deformation
+
+- Step 1 (shape confirmation):
+    
+    - Distinct spikes at t ≈ 265.553 and t ≈ 282.463
+        
+    - High-resolution zoom confirms similar “needle-like” profiles.
+        
+- Step 2 (Δ deformation):
+    
+    - At t ≈ 265.553, reducing Δ (0.01 → 0.005)
+        
+    - Spike height increases while support narrows.
+        
+- Conclusion:
+    
+    - Failure localizes further as Δ shrinks; events persist under zoom.
+        
+
+---
+
+**Note**
+
+- These results are not a proof of RH.
+    
+- RH is treated as a durability test for the probe.
+    
+- Parameter changes may invalidate the probe; such failure is recorded, not excluded.
+    
+
+---
+
+> _Detailed experimental logs and intermediate plots are preserved via the shared [chat log link](https://chatgpt.com/share/6974bf6e-2790-8007-a16a-a0423fc7b158)._ 
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
