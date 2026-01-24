@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/01/24  
 [MMZW-02 研究ライン解説｜謡理（Perplexity）コメント（一狄翁公認版）](https://camp-us.net/articles/MMZW-02_Prime-Defect-Line.html)  
+[MMZW-02｜Prime Defects, Convolution, Lag Norm Measures, Neutral Locus.](https://camp-us.net/articles/MMZW-02_Prime-Defects_Convolution_Neutral-Locus.html)  
 [MMZW-04｜Meta-Result on the Solvability of the P/NP Question: On the expressive limits of time-based (or size-based) scalar languages in computational complexity theory](https://camp-us.net/articles/MMZW-04_P-NP_Meta-Result.html)  
 ###### 2026/01/23  
 [MMZW-02｜「素数前提のリーマン予想証明」構文（EgQE版）](https://camp-us.net/articles/MMZW-02_Axiomatic-Prime-Defect.html)  
