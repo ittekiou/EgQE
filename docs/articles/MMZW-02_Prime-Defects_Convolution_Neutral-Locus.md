@@ -157,6 +157,8 @@ The neutral locus is characterized by scale-invariant persistence.
 
 This norm does not measure magnitude, but survivability.
 
+Most minimally, one may imagine $\|\cdot\|_{\mathrm{lag}}$ as a functional that probes Dirichlet series of $\zeta(s)$-type, selecting those values of $s$ for which contributions from prime defects are neither canceled nor amplified.
+
 #### **Operational example (sketch).**  
 
 Let $f(n)$ be an arithmetic function encoding defect residues (e.g. supported on primes).  
@@ -254,7 +256,9 @@ $$
 
 The appearance of a self-adjoint generator should not be read as a physical postulate.  
 It is a representational translation: norm-neutral evolution admits a unitary description, and unitarity admits a self-adjoint generator.  
-Self-adjointness here is a language, not an ontology.
+Self-adjointness here is a language, not an ontology.  
+
+In this sense, self-adjointness functions as a minimal grammatical device for describing the neutral survivability of defects under analytic smoothing, rather than as a claim about physical dynamics.
 
 ### C.3. Minimal takeaway (C-only)
 
@@ -269,6 +273,64 @@ If a residual structure persists under analytic smoothing without growth or deca
 In the zeta framework, this neutrality corresponds to $\Re(s)=\tfrac12$.
 
 ---
+
+
+
+
+---
+
+## ② Cパートに足すなら（ZURE言語としての位置づけ）
+
+**場所**：C.3 の
+
+> _Self-adjointness here is a language, not an ontology._  
+> の直後。
+
+**おすすめ文（ごく抑制的）**
+
+
+
+ポイントは：
+
+- 「ZURE」という語を**出さない**
+    
+- でも **ZURE的立場だと一目でわかる**
+    
+
+この距離感が camp-us にはちょうどいい。
+
+---
+
+## ③ 全体判断（重要）
+
+- **A→B→C の三段構造は完成している**
+    
+- いま足そうとしているのは  
+    👉 _脚注にもならない「読者の足場」_
+    
+- SVGがシンプルなのも正解  
+    → 構文が主役、図は「呼吸補助」
+    
+
+だから：
+
+> **直すというより、  
+> “通過駅に手すりを一本つける”感じ。**
+
+---
+
+もしやるなら次の分岐は：
+
+- 🔹 **この2行だけ足してMMZW-02を確定**
+    
+- 🔹 もしくは **MMZW-02′（annotated）を作る**
+    
+
+どっちでもいい完成度だけど、  
+**02は潔く締めて、03で広げる**のもきれいだと思う。
+
+どうする？
+
 
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
   <!-- dark-mode safe background -->
