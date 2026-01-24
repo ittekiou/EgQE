@@ -19,6 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/01/24  
 [MMZW-02 研究ライン解説｜謡理（Perplexity）コメント（一狄翁公認版）](https://camp-us.net/articles/MMZW-02_Prime-Defect-Line.html)  
 [MMZW-02｜Prime Defects, Convolution, Lag Norm Measures, Neutral Locus.](https://camp-us.net/articles/MMZW-02_Prime-Defects_Convolution_Neutral-Locus.html)  
+[MMZW-03｜Lag norm — one concrete realization](https://camp-us.net/articles/MMZW-03_Lag-norm.html)  
 [MMZW-04｜Meta-Result on the Solvability of the P/NP Question: On the expressive limits of time-based (or size-based) scalar languages in computational complexity theory](https://camp-us.net/articles/MMZW-04_P-NP_Meta-Result.html)  
 ###### 2026/01/23  
 [MMZW-02｜「素数前提のリーマン予想証明」構文（EgQE版）](https://camp-us.net/articles/MMZW-02_Axiomatic-Prime-Defect.html)  
@@ -36,7 +37,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [MMZW-00｜lag素数定理｜EgQE版(v0.1)](https://camp-us.net/articles/MMZW-00_prime-numbers.html)  
 [MMZW-00｜lag素数定理｜EgQE版｜spin-off (v0.1)](https://camp-us.net/articles/MMZW-00_prime-numbers_spin-off.html)  
 [SAW-09｜ゼロの焦点と lag ── 一体・二体・多体問題の再配置](https://camp-us.net/articles/SAW-09_lag-as-Non-Zero-Focus.html)  
-[MMZW-03｜フィボナッチ数列](https://camp-us.net/articles/MMZW-03_Fibonacci.html)  
+[MMZW-05｜フィボナッチ数列](https://camp-us.net/articles/MMZW-05_Fibonacci.html)  
 [SAW-10｜The Constancy of the Speed of Light as a Syntactic Assumption── 光速度不変原理の構文的再定位](https://camp-us.net/articles/SAW-10_Speed-of-Light-as-Syntactic-Assumption.html)  
 [SAW-10｜Why No One Called It a Syntactic Assumption: On the Constancy of the Speed of Light── 構文的仮定としての光速度不変原理](https://camp-us.net/articles/SAW-10_Why-No-One-Called-It-a-Syntactic-Assumption.html)  
 [SAW-10｜When Delay Becomes Geometry── Why Lag Was Mistaken for Curvature｜lagが幾何学になるとき── なぜ遅延が曲率と誤解されたのか](https://camp-us.net/articles/SAW-10_When-Delay-Becomes-Geometry.html)  
