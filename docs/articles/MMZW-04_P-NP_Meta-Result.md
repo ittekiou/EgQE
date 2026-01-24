@@ -11,6 +11,8 @@ title: "MMZW-04｜Meta-Result on the Solvability of the P/NP Question: On the ex
 > In such languages, the distinction the question seeks to resolve cannot be expressed.  
 > This paper presents a meta-level result characterizing the conditions under which the P/NP question becomes decidable.
 
+---
+
 ### 1. Observation
 
 All standard computational models—Turing machines, Boolean circuits, and verifier-based definitions—encode state-update delay (_lag_) implicitly as either **time**, **step count**, or **circuit size**.
@@ -167,6 +169,9 @@ it has stalled **because** progress has occurred within a language whose express
 ---
 
 > **lag を時間（サイズ）に押し込める計算言語の内部では、P/NP 問題は可解な問いにならない。**
+
+_This work does not attempt to resolve P vs NP._  
+_It characterizes the expressive conditions under which the question becomes decidable._
 
 ---
 
