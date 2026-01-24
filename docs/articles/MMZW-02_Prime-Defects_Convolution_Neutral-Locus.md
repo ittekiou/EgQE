@@ -122,11 +122,11 @@ $$
 
 ### B.2. Define a lag norm by “stability against smoothing vs interference”
 
-We define a norm functional $|\cdot|_{\mathrm{lag}}$ whose interpretation is:
+We define a norm functional $\|\cdot\|_{\mathrm{lag}}$ whose interpretation is:
 
-- **Too much smoothing** (typical of $\Re(s)>\tfrac12$) makes residues disappear: $|S_s|_{\mathrm{lag}}\to 0$.
+- **Too much smoothing** (typical of $\Re(s)>\tfrac12$) makes residues disappear: $\|S_s\|_{\mathrm{lag}}\to 0$.
     
-- **Too much interaction / interference** (typical of $\Re(s)<\tfrac12$) makes residues unstable: $|S_s|_{\mathrm{lag}}\to\infty$.
+- **Too much interaction / interference** (typical of $\Re(s)<\tfrac12$) makes residues unstable: $\|S_s\|_{\mathrm{lag}}\to\infty$.
     
 - The critical locus is where the residue is **neither erased nor divergent**.
     
@@ -262,7 +262,8 @@ $$
 \boxed{  
 \textbf{If lag is neutrally stable, it admits a spectral (self-adjoint) translation.}  
 }  
-$$
+$$  
+
 If a residual structure persists under analytic smoothing without growth or decay, its representation must lie on a neutral line.
 
 In the zeta framework, this neutrality corresponds to $\Re(s)=\tfrac12$.
