@@ -19,7 +19,7 @@ title: MMZW-03｜Lag norm — one concrete realization
 
 臨界線上の位相差分を用いる。
 
-- 位相：(\phi(t)=\arg\zeta(\tfrac12+it))
+- 位相：$\phi(t)=\arg\zeta(\tfrac12+it)$
     
 - 差分（最小正則化）：  
 
