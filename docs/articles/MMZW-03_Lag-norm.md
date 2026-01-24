@@ -1,8 +1,8 @@
 ---
 layout: math
-title: MMZW-03｜Lag norm — one concrete realization
+title: MMZW-03a｜Lag norm — one concrete realization
 ---
-# MMZW-03｜Lag norm — one concrete realization
+# MMZW-03a｜Lag norm — one concrete realization
 
 > この実験でわかったことは、「素数が特別だから1/2に集まる」のではなく、  
 > **「そこ以外では、生き残れない」** ということでした。  
@@ -110,7 +110,7 @@ $\Delta$ は小さいが固定、帯域とサンプリングは明示的に限�
 
 ---
 
-## Experimental Log (MMZW-03｜Lag norm — one concrete realization)
+## Experimental Log (MMZW-03a｜Lag norm — one concrete realization)
 
 **Setup (common)**
 
@@ -198,7 +198,7 @@ $\Delta$ は小さいが固定、帯域とサンプリングは明示的に限�
 
 #### 壊れうるラグノルムを使った、再現可能な構文耐久テスト
 
-今回のMMZW-03は、「どこに零点があるか」ではなく、**「どこなら、壊れたまま存在できるか」** を調べる実験でした。  
+今回のMMZW-03aは、「どこに零点があるか」ではなく、**「どこなら、壊れたまま存在できるか」** を調べる実験でした。  
 その結果、**本稿で定義した lag-norm 探針のもとでは**、生き残れる場所は**一本の線しかなかった**。  
 それが、**Re(s)=1/2** でした。
 
