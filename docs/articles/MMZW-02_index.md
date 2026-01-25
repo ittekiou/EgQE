@@ -49,7 +49,6 @@ layout: math
 [MMZW-02｜Prime Defects, Convolution, Lag Norm Measures, Neutral Locus.](https://camp-us.net/articles/MMZW-02_Prime-Defects_Convolution_Neutral-Locus.html)  
 [MMZW-03a｜Lag norm — one concrete realization](https://camp-us.net/articles/MMZW-03_Lag-norm.html)  
 [MMZW-03b｜Lag-norm under perturbations── 壊れ方の相構造と条件付き命題](https://camp-us.net/articles/MMZW-03-b_Lag-norm_under-perturbations.html)  
-[MMZW-04｜Meta-Result on the Solvability of the P/NP Question: On the expressive limits of time-based (or size-based) scalar languages in computational complexity theory](https://camp-us.net/articles/MMZW-04_P-NP_Meta-Result.html)  
 
 ---
 
