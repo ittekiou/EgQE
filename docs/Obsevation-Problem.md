@@ -1,4 +1,6 @@
-
+---
+title: SAW-OP｜観測とはなにか──最新ミニマル観測公理系
+---
 # 観測とはなにか──最新ミニマル観測公理系
 （Generation–Observation–Inscription）
 
@@ -173,12 +175,15 @@ lag relations は必ず **複数の relation phase（S/O）** を含む。
 
 ---
 
-[SAW/AR-0｜Minimal Axioms(v0.21) ── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/articles/SAW-AR-0_Minimal-Axioms_v02.html)  
+**SAW / OP — Observative Projection**  
+_Zero-point syntax and the trace of worlds_
+
+[SAW-OP｜観測問題の解決──lag relations と零点構文による再定式化](https://camp-us.net/articles/SAW-OP_Obsevative-Solution.html)  
+[SAW-OP｜観測問題spin-off──看板を抜けたら、そこは宇宙への出口だった。](https://camp-us.net/articles/SAW-OP_spin-off-01.html)  
 
 ---
 
-**SAW / OP — Observative Projection**  
-_Zero-point syntax and the trace of worlds_
+[SAW/AR-0｜Minimal Axioms(v0.21) ── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/articles/SAW-AR-0_Minimal-Axioms_v02.html)  
 
 ---
 ⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)  
