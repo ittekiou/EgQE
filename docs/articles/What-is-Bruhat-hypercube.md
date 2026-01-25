@@ -298,7 +298,7 @@ hypercube は：
 
 # **Bruhat hypercube の lag relations 構文による解釈** v0.1
 
-👉 [Bruhat hypercube の lag relations 構文による解釈 v0.2](https://camp-us.net/articles/SAW-OP_Obsevative-Solution.html)  
+👉 [Bruhat hypercube の lag relations 構文による解釈 v0.2](https://camp-us.net/articles/Bruhat-hypercube_lag-relations.html)  
 
 ## 0｜立場宣言（前提）
 

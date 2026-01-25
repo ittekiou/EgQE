@@ -155,7 +155,7 @@ Hypercube is not a structure but a trace of non-closed generative flow.
 
 ---
 
-👉 [Bruhat hypercube（ブリュア・ハイパーキューブ）を代数から解放しよう！](https://camp-us.net/articles/SAW-OP_Obsevative-Solution.html)  
+👉 [Bruhat hypercube（ブリュア・ハイパーキューブ）を代数から解放しよう！](https://camp-us.net/articles/What-is-Bruhat-hypercube.html)  
 
 ---
 
