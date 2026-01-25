@@ -1,5 +1,6 @@
 ---
 layout: math
+title: Bruhat hypercube（ブリュア・ハイパーキューブ）を代数から解放しよう！
 ---
 # **Bruhat hypercube（ブリュア・ハイパーキューブ）を代数から解放しよう！**
 

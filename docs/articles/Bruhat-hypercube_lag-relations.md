@@ -1,7 +1,7 @@
 ---
 layout: math
+title: Bruhat hypercube の lag relations 構文による解釈 v0.2
 ---
-
 # Bruhat hypercube
 ### — lag relations による生成構文・要約宣言 —
 
