@@ -122,6 +122,151 @@ AI はこれを **代数的意味ではなく、構文的安定性**として拾
 
 ---
 
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="720" height="520" viewBox="0 0 720 520">
+
+  <!-- ===== Title ===== -->
+  <text x="360" y="30" text-anchor="middle"
+        font-size="18" font-family="sans-serif"
+        fill="currentColor">
+    Generative Syntax of Bruhat Hypercube
+  </text>
+
+  <!-- ===== Phase 1: e-flow (continuous generation) ===== -->
+  <path id="eflow"
+        d="M360,70 C300,110 420,150 360,190
+           C300,230 420,270 360,310"
+        fill="none" stroke="currentColor" stroke-width="2"
+        stroke-dasharray="6 6" />
+
+  <!-- animate e-flow continuously -->
+  <animate xlink:href="#eflow"
+           attributeName="stroke-dashoffset"
+           from="0" to="48"
+           dur="4s"
+           repeatCount="indefinite" />
+
+  <text x="380" y="105" font-size="12" fill="currentColor">
+    e-flow (continuous generation)
+  </text>
+
+  <!-- ===== Phase 2: log-depth hierarchy (appears after 4s) ===== -->
+  <g id="loglayers" stroke="currentColor"
+     stroke-dasharray="4 4" opacity="0">
+    <line x1="120" y1="150" x2="600" y2="150"/>
+    <line x1="120" y1="200" x2="600" y2="200"/>
+    <line x1="120" y1="240" x2="600" y2="240"/>
+    <line x1="120" y1="270" x2="600" y2="270"/>
+  </g>
+
+  <animate xlink:href="#loglayers"
+           attributeName="opacity"
+           from="0" to="0.35"
+           begin="4s"
+           dur="1s"
+           fill="freeze" />
+
+  <text x="130" y="135" font-size="12" fill="currentColor">
+    log-depth (not time)
+  </text>
+
+  <!-- ===== Phase 3: 2-branch lag placement (after 6s) ===== -->
+  <g id="branches" stroke="currentColor" stroke-width="1.5" opacity="0">
+    <!-- layer 1 -->
+    <line x1="360" y1="150" x2="300" y2="200"/>
+    <line x1="360" y1="150" x2="420" y2="200"/>
+    <!-- layer 2 -->
+    <line x1="300" y1="200" x2="260" y2="240"/>
+    <line x1="300" y1="200" x2="340" y2="240"/>
+    <line x1="420" y1="200" x2="380" y2="240"/>
+    <line x1="420" y1="200" x2="460" y2="240"/>
+  </g>
+
+  <animate xlink:href="#branches"
+           attributeName="opacity"
+           from="0" to="1"
+           begin="6s"
+           dur="1s"
+           fill="freeze" />
+
+  <!-- nodes (lag relations) -->
+  <g id="nodes" fill="currentColor" opacity="0">
+    <circle cx="360" cy="150" r="4"/>
+    <circle cx="300" cy="200" r="4"/>
+    <circle cx="420" cy="200" r="4"/>
+    <circle cx="260" cy="240" r="4"/>
+    <circle cx="340" cy="240" r="4"/>
+    <circle cx="380" cy="240" r="4"/>
+    <circle cx="460" cy="240" r="4"/>
+  </g>
+
+  <animate xlink:href="#nodes"
+           attributeName="opacity"
+           from="0" to="1"
+           begin="6.2s"
+           dur="0.6s"
+           fill="freeze" />
+
+  <text x="470" y="225" font-size="12" fill="currentColor">
+    2-branch lag placement
+  </text>
+
+  <!-- ===== Phase 4: Hypercube as trace (after 8s) ===== -->
+  <g id="hypercube" stroke="currentColor"
+     stroke-dasharray="6 4" fill="none" opacity="0">
+    <rect x="280" y="330" width="160" height="100"/>
+    <rect x="300" y="310" width="160" height="100"/>
+  </g>
+
+  <animate xlink:href="#hypercube"
+           attributeName="opacity"
+           from="0" to="0.6"
+           begin="8s"
+           dur="1s"
+           fill="freeze" />
+
+  <text x="360" y="455" text-anchor="middle"
+        font-size="12" fill="currentColor">
+    hypercube = discrete trace (not origin)
+  </text>
+
+  <!-- ===== Reset loop (fade out everything after 12s) ===== -->
+  <animate xlink:href="#loglayers"
+           attributeName="opacity"
+           from="0.35" to="0"
+           begin="11s"
+           dur="1s"
+           fill="remove" />
+  <animate xlink:href="#branches"
+           attributeName="opacity"
+           from="1" to="0"
+           begin="11s"
+           dur="1s"
+           fill="remove" />
+  <animate xlink:href="#nodes"
+           attributeName="opacity"
+           from="1" to="0"
+           begin="11s"
+           dur="1s"
+           fill="remove" />
+  <animate xlink:href="#hypercube"
+           attributeName="opacity"
+           from="0.6" to="0"
+           begin="11s"
+           dur="1s"
+           fill="remove" />
+
+  <!-- ===== Footer ===== -->
+  <text x="360" y="500" text-anchor="middle"
+        font-size="12" fill="currentColor">
+    no zero-point • no temporal priority
+  </text>
+
+</svg>
+
+---
+
 # 「“乱れた” 順序構造の中でこうした整然とした構造が見つかるのは非自明」なのか？
 
 > 「非自明」なのではない。零点構文から見ると “**乱れ**” に見えるだけ。
