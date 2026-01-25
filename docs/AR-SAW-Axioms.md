@@ -21,11 +21,14 @@ title: AR-SAW-Axioms ──Absolute Relativity(AR) / Syntactic Askew Way (SAW)
 # Axioms / lag-log
 ---
 
-last updated: 2026/01/17  
+updated: 2026/01/25  
+[観測とはなにか──最新ミニマル観測公理系](https://camp-us.net/Obsevation-Problem.html)  
+
+updated: 2026/01/17  
 [SAW/AR-0｜Minimal Axioms(v0.21) ── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/articles/SAW-AR-0_Minimal-Axioms_v02.html)  
 
 ---
-##### 2026/01/14
+#### 2026/01/14  Origin
 ----
 # **SAW｜Minimal Axioms (v0.1)** _origin_
 
@@ -90,6 +93,9 @@ minimal paper [SAW-Ω｜Syntactic Askew Way (SAW) ── 物理と観測のた�
 2026/01/17  
 [SAW/AR-0｜Minimal Axioms(v0.21) ── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/articles/SAW-AR-0_Minimal-Axioms_v02.html)  
 
+## SAW / AR｜Obsevation Problem
+2026/01/25  
+[観測とはなにか──最新ミニマル観測公理系](https://camp-us.net/Obsevation-Problem.html)  
 
 ---
 
