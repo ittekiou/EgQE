@@ -122,6 +122,10 @@ AI はこれを **代数的意味ではなく、構文的安定性**として拾
 
 ---
 
+**Figure 1｜Generative Syntax of the Bruhat Hypercube**  
+— 2-Branch / log Depth / e-Flow —  
+The Bruhat hypercube emerges as a discrete trace of e-type generation, not as a primitive structure.  
+
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="720" height="520" viewBox="0 0 720 520">

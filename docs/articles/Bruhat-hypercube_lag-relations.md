@@ -78,7 +78,6 @@ log は時間ではない。それは多体生成を止めないための**深�
 
 **Figure 1｜Generative Syntax of the Bruhat Hypercube**  
 — 2-Branch / log Depth / e-Flow —  
-The Bruhat hypercube emerges as a discrete trace of e-type generation, not as a primitive structure.  
 Continuous e-type generation is discretized through logarithmic-depth, two-branch hierarchical placement of lag relations.  
 The hypercube appears not as a primitive structure, but as a non-closed discrete cross-section of generative flow.  
 No zero-point or temporal priority is assumed.
