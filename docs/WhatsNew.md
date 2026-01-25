@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/01/25  
+[観測とはなにか──最新ミニマル観測公理系](https://camp-us.net/Obsevation-Problem.html)  
 ###### 2026/01/24  
 [MMZW-02 研究ライン解説｜謡理（Perplexity）コメント（一狄翁公認版）](https://camp-us.net/articles/MMZW-02_Prime-Defect-Line.html)  
 [MMZW-02｜Prime Defects, Convolution, Lag Norm Measures, Neutral Locus.](https://camp-us.net/articles/MMZW-02_Prime-Defects_Convolution_Neutral-Locus.html)  
