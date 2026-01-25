@@ -164,6 +164,13 @@ lag relations は必ず **複数の relation phase（S/O）** を含む。
 
 ---
 
+	1.	世界は変わらず、痕跡だけが変わる。
+	2.	観測とは、lag relations への零点構文の差し込みである。
+	3.	観測で振る舞いは変わらない。痕跡構文の振る舞いは変わる。
+	4.	観測に振り舞わされているのは宇宙ではなかった。
+
+---
+
 [SAW/AR-0｜Minimal Axioms(v0.21) ── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/articles/SAW-AR-0_Minimal-Axioms_v02.html)  
 
 ---
