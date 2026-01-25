@@ -175,6 +175,18 @@ lag relations は必ず **複数の relation phase（S/O）** を含む。
 
 ---
 
+# 「零点構文」定義
+
+### 「観測零点構文」（原点）
+
+> **観測零点構文とは、多位相に存在する対象に、零点を内在化する構文操作である。**
+
+### 「零点構文」（抽象）
+
+> **零点構文とは、構文化が生起したという事実そのものによって、外部に置けない基準点が内在化される構文条件である。
+
+---
+
 **SAW / OP — Observative Projection**  
 _Zero-point syntax and the trace of worlds_
 
