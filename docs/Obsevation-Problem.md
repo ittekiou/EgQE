@@ -1,7 +1,9 @@
 
 # 観測とはなにか──最新ミニマル観測公理系
-
 （Generation–Observation–Inscription）
+
+### SAW/OP
+_How worlds appear without changing_
 
 ---
 
@@ -122,7 +124,7 @@ lag relations は必ず **複数の relation phase（S/O）** を含む。
 
 私たちが何かを見るとき、起きているのは、  
 
-―― **世界が変わることではありません。**
+── **世界が変わることではありません。**
 
 観測とは、
 
@@ -172,6 +174,11 @@ lag relations は必ず **複数の relation phase（S/O）** を含む。
 ---
 
 [SAW/AR-0｜Minimal Axioms(v0.21) ── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/articles/SAW-AR-0_Minimal-Axioms_v02.html)  
+
+---
+
+**SAW / OP — Observative Projection**  
+_Zero-point syntax and the trace of worlds_
 
 ---
 ⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)  
