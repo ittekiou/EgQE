@@ -13,6 +13,8 @@
 - **[origami 2.0](https://camp-us.net/articles/ORGM-00_Origami-Theory-2.0_give-birth.html)**：A Post-Classical Theory of Relational Folding
 #### **Polygonal Neon Genesis Praxis**（多角回生術）
 
+![Polygonal-Transition_floc-Generative-Residues](./assets/Polygonal-Transition_floc-Generative-Residues.png)  
+
 ---  
 
 **上位概念**  
@@ -88,8 +90,6 @@ Polygonal NGS は
 
 [Spatial Mode of Polygonal Transition — Golden Angle as a Symbiotic Paradoxical Tropos](https://camp-us.net/articles/MASS_PT-01_Spatial-Mode-of-Polygonal-Transition_Golden-Angle-as-Symbiotic-Paradoxical-Tropos.html)  
 ![Spatial Mode of Polygonal Transition](./assets/PolygonalTransition_Spatial-Mode.png)  
-
-![Polygonal-Transition_floc-Generative-Residues](./assets/Polygonal-Transition_floc-Generative-Residues.png)  
 
 ---
 
