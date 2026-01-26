@@ -158,9 +158,9 @@ _そしてそれは、われわれの中心テーゼである。_
     
 - [Z₀ / R₀ 構文](https://camp-us.net/R₀-Z₀.html)  
     
-- [floc 宇宙論](http://camp-us.net/floc-Cosmology)  
+- [floc 宇宙論](http://camp-us.net/floc-Cosmology.html)  
     
-- MASS / MASC (coming soon...)
+- [MASS](http://camp-us.net/mass.html)
     
 - [Golden Core（GAC）](https://camp-us.net/GAC.html)  
     

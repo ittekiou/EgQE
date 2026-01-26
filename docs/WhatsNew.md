@@ -16,6 +16,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/01/26  
+💎 [MASS｜多角共生学｜Multi-Angular Symbiosis Studies](https://camp-us.net/MASS.html)  
+[HEG-7｜なぜ floc は生まれるのか｜科学短評](https://camp-us.net/articles/HEG-7_Polygonal-Transition_floc-Generative-Residues.html)  
 ###### 2026/01/25  
 [SAW-OP｜観測とはなにか──最新ミニマル観測公理系](https://camp-us.net/Obsevation-Problem.html)  
 [SAW-OP｜観測問題の解決──lag relations と零点構文による再定式化](https://camp-us.net/articles/SAW-OP_Obsevative-Solution.html)  
