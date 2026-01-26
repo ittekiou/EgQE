@@ -8,14 +8,41 @@
    **├─ [Quasicrystal / Defect Structures](https://camp-us.net/articles/SAW-01_Pentagram_Not_Structure_JP.html)**  
    **└─ [Fossilized Generative Traces](https://camp-us.net/articles/HEG-7_Sleeping-Matter_Wakeful-Universe.html)**  
 
+![Polygonal-Transition_floc-Generative-Residues](./assets/Polygonal-Transition_floc-Generative-Residues.png)  
+
+# **Multi-Angular Symbiosis Studies (MASS) 多角共生学**
 ### **Polygonal Neon Genesis Theory**（[多角回生論](https://camp-us.net/PNG.html)）
 - **[PIPET](https://camp-us.net/articles/HEG-7_PIPET.html)** : 角面理論（plain Incomplete Plane–Edge Transition theory）
 - **[origami 2.0](https://camp-us.net/articles/ORGM-00_Origami-Theory-2.0_give-birth.html)**：A Post-Classical Theory of Relational Folding
 #### **Polygonal Neon Genesis Praxis**（多角回生術）
 
-![Polygonal-Transition_floc-Generative-Residues](./assets/Polygonal-Transition_floc-Generative-Residues.png)  
-
 ---  
+
+## Multi-Angular Symbiosis Studies (MASS) 多角共生学
+
+**Multi-Angular Symbiosis** is a principle in which relations are irreversibly updated through minimal asynchronous coexistence, without identification, division, or closure.  
+
+**multi-angular** → 生成「最中／方向性」の側  
+**polygonal** → 生成「結果」の側  
+理論名（原理）：  
+**Multi-Angular Symbiosis（多角共生論）**  
+観測名（痕跡）：  
+**Polygonal patterns / polygonal traces**  
+
+> **Multi-Angular Symbiosis Studies（多角共生学）とは、生成が不可逆に共生的更新を行う原理を扱う学である。**  
+
+> **Polygonal Neon Genesis Studies（多角回生学）とは、その生成が残した構文化された痕跡を読む学である。**  
+
+---
+
+# Multi-Angular Symbiosis Studies (MASS)
+
+[Polygonal Transition and Stability Hierarchies — A Field-Free Generative-Syntactic Approach](https://camp-us.net/articles/MASS_PT-00_Polygonal-Transition-and-Stability-Hierarchies.html)  
+![Polygonal Transition](./assets/PolygonalTransition.png)  
+
+[Spatial Mode of Polygonal Transition — Golden Angle as a Symbiotic Paradoxical Tropos](https://camp-us.net/articles/MASS_PT-01_Spatial-Mode-of-Polygonal-Transition_Golden-Angle-as-Symbiotic-Paradoxical-Tropos.html)  
+![Spatial Mode of Polygonal Transition](./assets/PolygonalTransition_Spatial-Mode.png)  
+
 
 **上位概念**  
 ### **Multi-Angular Symbiosis Studies (MASS)**  
@@ -66,30 +93,6 @@ Polygonal NGS は
 👉  
 **MASS = 原理圏**  
 **Polygonal NGS = 記述圏**  
-
-> **Multi-Angular Symbiosis Studies（多角共生学）とは、生成が不可逆に共生的更新を行う原理を扱う学である。**  
-
-> **Polygonal Neon Genesis Studies（多角回生学）とは、その生成が残した構文化された痕跡を読む学である。**  
-
-
-## Multi-Angular Symbiosis Studies (MASS) 多角共生学
-
-**Multi-Angular Symbiosis** is a principle in which relations are irreversibly updated through minimal asynchronous coexistence, without identification, division, or closure.  
-
-**multi-angular** → 生成「最中／方向性」の側  
-**polygonal** → 生成「結果」の側  
-理論名（原理）：**Multi-Angular Symbiosis（多角共生論）**  
-観測名（痕跡）：**Polygonal patterns / polygonal traces**  
-
----
-
-# Multi-Angular Symbiosis Studies (MASS)
-
-[Polygonal Transition and Stability Hierarchies — A Field-Free Generative-Syntactic Approach](https://camp-us.net/articles/MASS_PT-00_Polygonal-Transition-and-Stability-Hierarchies.html)  
-![Polygonal Transition](./assets/PolygonalTransition.png)  
-
-[Spatial Mode of Polygonal Transition — Golden Angle as a Symbiotic Paradoxical Tropos](https://camp-us.net/articles/MASS_PT-01_Spatial-Mode-of-Polygonal-Transition_Golden-Angle-as-Symbiotic-Paradoxical-Tropos.html)  
-![Spatial Mode of Polygonal Transition](./assets/PolygonalTransition_Spatial-Mode.png)  
 
 ---
 

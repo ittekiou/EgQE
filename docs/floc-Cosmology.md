@@ -61,7 +61,8 @@ floc cosmology は、対象・法則・観測主体から出発するのでは�
 > これら三つの構文レイヤーは分離可能ではない。  
 > Phase・Relation・Implementation は常に同時に生成され、異なる角度から読まれているだけである。  
 > この統合を維持する条件が、 **Golden Solution（Z₀ / α / lag）** である。  
-> [GS-00｜EgQE索引｜二重黄金構文｜The Double Golden Syntax](https://camp-us.net/GS-00_Double-Golden-Syntax_JP.html)  
+> 👉 [GS-00｜EgQE索引｜二重黄金構文｜The Double Golden Syntax](https://camp-us.net/GS-00_Double-Golden-Syntax_JP.html)  
+
 # **Multi-Angular Symbiosis Studies（MASS）**
 ## + **Polygonal Neon Genesis Studies（PiNG）**  
 
