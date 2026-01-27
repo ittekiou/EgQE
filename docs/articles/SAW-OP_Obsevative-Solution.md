@@ -146,7 +146,7 @@ lag relations は常に多位相のまま存続する。
 ---
 
 [SAW-OP｜観測とはなにか──最新ミニマル観測公理系](https://camp-us.net/Obsevation-Problem.html)  
-[SAW-OP｜観測問題の解決から多体零点構文の展開へ](https://camp-us.net/articles/SAW-OP_Obsevative-Solution_Appendix.html)  
+[SAW-OP｜観測問題と多体零点構文](https://camp-us.net/articles/SAW-OP_Obsevative-Solution_Appendix.html)  
 [SAW-OP｜観測問題spin-off──看板を抜けたら、そこは宇宙への出口だった。](https://camp-us.net/articles/SAW-OP_spin-off-01.html)  
 
 ---

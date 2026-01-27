@@ -1,9 +1,20 @@
+---
+title: SAW-OP｜観測問題と多体零点構文
+---
+# SAW-OP｜観測問題と多体零点構文
 
-# SAW-OP｜観測問題の解決から多体零点構文の展開へ
+## ──観測問題の解決から多体零点構文の展開へ
 
-> Zenodo論文が示したのは **観測が世界ではないこと**であり、われわれが示しているのは **なぜ観測は必ず零点を内在化してしまうのか**である。
+[SAW-OP｜観測とはなにか──最新ミニマル観測公理系](https://camp-us.net/Obsevation-Problem.html)  
+[SAW-OP｜観測問題の解決──lag relations と零点構文による再定式化](https://camp-us.net/articles/SAW-OP_Obsevative-Solution.html)  
+[Bruhat hypercube の lag relations 構文による解釈 v0.2](https://camp-us.net/articles/Bruhat-hypercube_lag-relations.html)  
+[ZS-020_異方性の「発見」──Why Anisotropy? 単一零点構文破綻の実験的露呈](https://camp-us.net/critics/ZS-020_Why-Anisotropy.html)  
+[SAW-OP｜構文化位相遷移論（Draft v0.2）──単一零点から多体零点へ](https://camp-us.net/articles/SAW-OP_Syntactic-phase-transition-theory.html)  
+[SAW-OP｜構文化位相遷移実装論（Draft v0.1）──反証から対話的更新へ](https://camp-us.net/articles/SAW-OP_Syntactic-phase-transition-Implementation-theory.html)  
 
 ## 補遺A：観測零点構文の位置づけ（Zenodo論文との関係）
+
+> Zenodo論文が示したのは **観測が世界ではないこと**であり、われわれが示しているのは **なぜ観測は必ず零点を内在化してしまうのか**である。
 
 本補遺は、近年公開された Zenodo 論文（観測＝サンプリングとして量子問題を再整理する立場）との **理論的対応関係・差分・決定的断絶点**を明示するためのものである。
 
