@@ -1,4 +1,6 @@
-
+---
+title: SAW-OP｜構文化位相遷移実装論（Draft v0.1）──反証から対話的更新へ
+---
 # 構文化位相遷移実装論（Draft v0.1）
 
 [SAW-OP｜構文化位相遷移論（Draft v0.2）──単一零点から多体零点へ](https://camp-us.net/articles/SAW-OP_Syntactic-phase-transition-theory.html)  
