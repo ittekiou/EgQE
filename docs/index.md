@@ -32,6 +32,8 @@ _── Welcome to the syntactic field of ZURE._
 📄 [**構文学派宣言──Manifesto of the Syntax School**](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)　2025.10.14  
 📝 [**Zuresonancismo Manifesto**](https://camp-us.net/Zuresonancismo_Manifesto.html)　2025.12.4  
 📃 [**ZURE場理論憲章｜ZURE-Field Theory Charter**](https://camp-us.net/ZURE-Field-Theory-Charter.html)　2026.1.2  
+🪐 [**floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality**](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)　2026.1.14  
+⚡️ [**AR-SAW-Axioms**](https://camp-us.net/AR-SAW-Axioms.html)　2026.1.17  
 
 ---
 ## 🔭 Overview  
