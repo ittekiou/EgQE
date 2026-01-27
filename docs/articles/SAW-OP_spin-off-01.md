@@ -276,6 +276,7 @@ lag が短いと：
 
 [SAW-OP｜観測とはなにか──最新ミニマル観測公理系](https://camp-us.net/Obsevation-Problem.html)  
 [SAW-OP｜観測問題の解決──lag relations と零点構文による再定式化](https://camp-us.net/articles/SAW-OP_Obsevative-Solution.html)  
+[SAW-OP｜観測問題の解決から多体零点構文の展開へ](https://camp-us.net/articles/SAW-OP_Obsevative-Solution_Appendix.html)  
 
 ---
 
