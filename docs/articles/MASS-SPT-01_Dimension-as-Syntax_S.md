@@ -101,6 +101,7 @@ Figure 1 summarizes the core mechanism proposed in this paper. Rather than treat
 ## 4. Time as a Syntactic Dimension
 
 Time is not a generative axis.  
+
 It emerges when parallel updates cannot be spatially retained under single zero-point constraints.
 
 Sequentialization becomes necessary, and the resulting ordering axis is treated as a dimension.  
@@ -153,7 +154,7 @@ Once these limitations are lifted, the necessity of dimension disappears.
 
 ---
 
-[MASS-SPT-01｜次元とは構文である──零点構文と遷移する次元](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_JP.html)  
+[MASS-SPT-01｜次元とは構文である：零点構文と遷移する次元──時間と空間はいかにして次元になったのか](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_JP.html)  
 [MASS-SPT-01｜Dimension as Syntax──Zero-Point Construction and the Emergence, Transition, and Dissolution of Dimensions](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax.html)  
 
 ---

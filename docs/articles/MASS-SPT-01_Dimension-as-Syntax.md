@@ -134,6 +134,7 @@ Arrows indicate syntactic transitions driven by changes in zero-point constraint
 ## 4. Why Time Became a Dimension
 
 Time is not a generative axis.  
+
 It arises as a compensatory structure when parallel updates cannot be spatially arranged.
 
 Under single zero-point syntax, updates are forced into sequence.  
@@ -191,7 +192,7 @@ This reinterpretation opens a path toward rethinking observation, agency, and th
 
 ---
 
-[MASS-SPT-01｜次元とは構文である──零点構文と遷移する次元](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_JP.html)  
+[MASS-SPT-01｜次元とは構文である：零点構文と遷移する次元──時間と空間はいかにして次元になったのか](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_JP.html)  
 [MASS-SPT-01｜Dimension as Syntax──Zero-Point Construction and the Syntactic Origin of Dimensions(Short Version)](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_S.html)  
 
 ---
