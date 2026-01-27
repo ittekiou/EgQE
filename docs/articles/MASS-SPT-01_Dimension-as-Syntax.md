@@ -192,7 +192,7 @@ This reinterpretation opens a path toward rethinking observation, agency, and th
 
 ---
 
-[MASS-SPT-01｜次元とは構文である：零点構文と遷移する次元──時間と空間はいかにして次元になったのか](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_JP.html)  
+[MASS-SPT-01｜次元は構文である：遷移する次元と零点構文──空間と時間はいかに次元となったか](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_JP.html)  
 [MASS-SPT-01｜Dimension as Syntax──Zero-Point Construction and the Syntactic Origin of Dimensions(Short Version)](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_S.html)  
 
 ---

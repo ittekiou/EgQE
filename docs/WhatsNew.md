@@ -23,7 +23,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SAW-OP｜構文化位相遷移実装論（Draft v0.1）──反証から対話的更新へ](https://camp-us.net/articles/SAW-OP_Syntactic-phase-transition-Implementation-theory.html)  
 [MASS-SPT-01｜Dimension as Syntax──Zero-Point Construction and the Syntactic Origin of Dimensions(Short Version)](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_S.html)  
 [MASS-SPT-01｜Dimension as Syntax──Zero-Point Construction and the Emergence, Transition, and Dissolution of Dimensions](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax.html)  
-[MASS-SPT-01｜次元とは構文である：零点構文と遷移する次元──時間と空間はいかにして次元になったのか](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_JP.html)  
+[MASS-SPT-01｜次元は構文である：遷移する次元と零点構文──空間と時間はいかに次元となったか](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_JP.html)  
 ###### 2026/01/26  
 💎 [MASS｜多角共生学｜Multi-Angular Symbiosis Studies](https://camp-us.net/MASS.html)  
 [HEG-7｜なぜ floc は生まれるのか｜科学短評](https://camp-us.net/articles/HEG-7_Polygonal-Transition_floc-Generative-Residues.html)  
