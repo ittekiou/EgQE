@@ -287,96 +287,7 @@ floc とは、
 
 ## Figure｜Observational Zero-Point Syntax Map (R₀ → Z₀)
 
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="560" viewBox="0 0 880 560">
-  <!-- Background FIRST (dark-mode safe) -->
-  <rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
-
-  <defs>
-    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
-      <path d="M0,0 L12,6 L0,12 Z" fill="#111111"/>
-    </marker>
-  </defs>
-
-  <!-- Styling via attributes for maximum portability -->
-  <!-- Title -->
-  <text x="40" y="44" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
-        font-size="20" font-weight="700" fill="#111111">
-    Observational Zero-Point Syntax Map (R₀ → Z₀) — with Bruhat hypercube & floc
-  </text>
-
-  <!-- Main vertical flow boxes -->
-  <!-- Box geometry -->
-  <!-- Column center: x=440 -->
-  <!-- Boxes -->
-  <g stroke="#111111" stroke-width="2" fill="none">
-    <rect x="260" y="80"  width="360" height="70" rx="10"/>
-    <rect x="260" y="180" width="360" height="70" rx="10"/>
-    <rect x="260" y="280" width="360" height="70" rx="10"/>
-    <rect x="240" y="380" width="400" height="90" rx="14"/>
-    <rect x="260" y="490" width="360" height="60" rx="10"/>
-  </g>
-
-  <!-- Text in boxes -->
-  <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" fill="#111111">
-    <!-- R0 -->
-    <text x="440" y="108" font-size="18" font-weight="700" text-anchor="middle">R₀ — 多位相生成場 (no privileged zero)</text>
-    <text x="440" y="132" font-size="14" text-anchor="middle">未分離・非閉包・「時間」以前</text>
-
-    <!-- Syntactic ignition -->
-    <text x="440" y="208" font-size="18" font-weight="700" text-anchor="middle">構文化の生起 (ignition)</text>
-    <text x="440" y="232" font-size="14" text-anchor="middle">零点の内在化が不可避に立ち上がる</text>
-
-    <!-- Multiple zero-points -->
-    <text x="440" y="308" font-size="18" font-weight="700" text-anchor="middle">複数零点構文 (multi-zero-point)</text>
-    <text x="440" y="332" font-size="14" text-anchor="middle">多体・多観測：零点は外部から統合できない</text>
-
-    <!-- Bruhat hypercube -->
-    <text x="440" y="410" font-size="18" font-weight="800" text-anchor="middle">Bruhat hypercube — 零点関係空間</text>
-    <text x="440" y="434" font-size="14" text-anchor="middle">頂点＝局所零点配置 / 辺＝独立 lag 更新 / 中心なしの秩序</text>
-    <text x="440" y="456" font-size="14" text-anchor="middle">秩序は「位置」ではなく「独立性」から立つ</text>
-
-    <!-- Z0 -->
-    <text x="440" y="520" font-size="18" font-weight="700" text-anchor="middle">Z₀ — 観測後安定相</text>
-    <text x="440" y="542" font-size="14" text-anchor="middle">時間・名づけ・同定（局所的閉包）</text>
-  </g>
-
-  <!-- Vertical arrows -->
-  <g stroke="#111111" stroke-width="2.5" fill="none" marker-end="url(#arrow)">
-    <line x1="440" y1="150" x2="440" y2="180"/>
-    <line x1="440" y1="250" x2="440" y2="280"/>
-    <line x1="440" y1="350" x2="440" y2="380"/>
-    <line x1="440" y1="470" x2="440" y2="490"/>
-  </g>
-
-  <!-- floc side branch -->
-  <g stroke="#111111" stroke-width="2" fill="none">
-    <rect x="40" y="375" width="180" height="100" rx="12"/>
-  </g>
-  <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" fill="#111111">
-    <text x="130" y="404" font-size="18" font-weight="800" text-anchor="middle">floc</text>
-    <text x="120" y="428" font-size="13" text-anchor="middle">非回収 lag の残渣</text>
-    <text x="130" y="448" font-size="13" text-anchor="middle">閉包し損ねた更新痕跡</text>
-  </g>
-
-  <!-- Arrow from hypercube to floc (non-recovered lag) -->
-  <g stroke="#111111" stroke-width="2.5" fill="none" marker-end="url(#arrow)">
-    <path d="M260,400 C220,400 220,400 220,400 C200,400 190,400 180,400"/>
-  </g>
-  <text x="260" y="365" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
-        font-size="14" fill="#111111" text-anchor="end">非回収 lag</text>
-
-  <!-- Axis / legend -->
-  <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" fill="#111111">
-    <text x="40" y="120" font-size="13" font-weight="700">読み方</text>
-    <text x="40" y="142" font-size="12">上ほど「生成」／下ほど「観測」</text>
-    <text x="40" y="162" font-size="12">横方向は「零点間関係」</text>
-    <text x="40" y="182" font-size="12">中心零点を仮定しない</text>
-  </g>
-
-  <!-- Subtle guide line for readability -->
-  <line x1="40" y1="190" x2="220" y2="190" stroke="#111111" stroke-width="1" opacity="0.25"/>
-</svg>
-
+![Observational-Zero-Point-Syntax-Map](../assets/Observational-Zero-Point-Syntax-Map.png)  
 
 ---
 
@@ -1275,6 +1186,7 @@ Bruhat hypercube が「整然」に見えるのは、lag が**独立に成立し
 
 [SAW-OP｜観測とはなにか──最新ミニマル観測公理系](https://camp-us.net/Obsevation-Problem.html)  
 [SAW-OP｜観測問題の解決──lag relations と零点構文による再定式化](https://camp-us.net/articles/SAW-OP_Obsevative-Solution.html)  
+[SAW-OP｜構文化位相遷移論（Draft v0.2）──単一零点から多体零点へ](https://camp-us.net/articles/SAW-OP_Syntactic-phase-transition-theory.html)  
 
 ---
 

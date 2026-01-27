@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/01/27  
 [SAW-OP｜観測問題の解決から多体零点構文の展開へ](https://camp-us.net/articles/SAW-OP_Obsevative-Solution_Appendix.html)  
+[SAW-OP｜構文化位相遷移論（Draft v0.2）──単一零点から多体零点へ](https://camp-us.net/articles/SAW-OP_Syntactic-phase-transition-theory.html)  
 [ZS-020_異方性の「発見」──Why Anisotropy? 単一零点構文破綻の実験的露呈](https://camp-us.net/critics/ZS-020_Why-Anisotropy.html)  
 ###### 2026/01/26  
 💎 [MASS｜多角共生学｜Multi-Angular Symbiosis Studies](https://camp-us.net/MASS.html)  
