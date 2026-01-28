@@ -19,6 +19,10 @@ SAW-OP（Syntactic Askew Way｜観測構文論）は、**観測・次元・秩�
 
 [MASS-SPT-02｜単一零点構文はなぜ多次元化するのか──多体零点構文への序章](https://camp-us.net/articles/MASS-SPT-02_Why-Zero-point-syntax_Falling-into-multiple-dimensions.html)  
 
+## 2026/01/28｜ホモ・サピエンスは単一零点を相対化できるか
+
+[MASS-SPT-03｜次元をめぐるGoogle AIモードとの対話ログ──「零点構文」と次元論が通じてしまった記録として](https://camp-us.net/articles/MASS-SPT-03_Google-AI-lag-log.html)  
+
 ---
 
 ## 2026/01/27｜単一零点構文の破綻が露呈した日
