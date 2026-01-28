@@ -3,7 +3,7 @@ title: SAW-OP｜構文化位相遷移実装論（Draft v0.1）──反証から
 ---
 # 構文化位相遷移実装論（Draft v0.1）
 
-[SAW-OP｜構文化位相遷移論（Draft v0.2）──単一零点から多体零点へ](https://camp-us.net/articles/SAW-OP_Syntactic-phase-transition-theory.html)  
+[SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)  
 
 ## 0｜立場宣言
 

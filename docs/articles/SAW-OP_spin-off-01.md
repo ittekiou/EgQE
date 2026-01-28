@@ -278,6 +278,8 @@ lag が短いと：
 [SAW-OP｜観測問題の解決──lag relations と零点構文による再定式化](https://camp-us.net/articles/SAW-OP_Obsevative-Solution.html)  
 [SAW-OP｜観測問題と多体零点構文](https://camp-us.net/articles/SAW-OP_Obsevative-Solution_Appendix.html)  
 
+[SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)  
+
 ---
 
 **SAW / OP — Observative Projection**  

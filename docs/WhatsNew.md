@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/01/28  
 [MASS-SPT-01｜次元は構文である：遷移する次元と零点構文──空間と時間はいかに次元となったか](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_JP.html)  
+[SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)  
 ###### 2026/01/27  
 [ZS-020_異方性の「発見」──Why Anisotropy? 単一零点構文破綻の実験的露呈](https://camp-us.net/critics/ZS-020_Why-Anisotropy.html)  
 [SAW-OP｜観測問題と多体零点構文](https://camp-us.net/articles/SAW-OP_Obsevative-Solution_Appendix.html)  

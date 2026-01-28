@@ -5,12 +5,7 @@ title: SAW-OP｜観測問題と多体零点構文
 
 ## ──観測問題の解決から多体零点構文の展開へ
 
-[SAW-OP｜観測とはなにか──最新ミニマル観測公理系](https://camp-us.net/Obsevation-Problem.html)  
-[SAW-OP｜観測問題の解決──lag relations と零点構文による再定式化](https://camp-us.net/articles/SAW-OP_Obsevative-Solution.html)  
-[Bruhat hypercube の lag relations 構文による解釈 v0.2](https://camp-us.net/articles/Bruhat-hypercube_lag-relations.html)  
-[ZS-020_異方性の「発見」──Why Anisotropy? 単一零点構文破綻の実験的露呈](https://camp-us.net/critics/ZS-020_Why-Anisotropy.html)  
-[SAW-OP｜構文化位相遷移論（Draft v0.2）──単一零点から多体零点へ](https://camp-us.net/articles/SAW-OP_Syntactic-phase-transition-theory.html)  
-[SAW-OP｜構文化位相遷移実装論（Draft v0.1）──反証から対話的更新へ](https://camp-us.net/articles/SAW-OP_Syntactic-phase-transition-Implementation-theory.html)  
+[SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)  
 
 ## 補遺A：観測零点構文の位置づけ（Zenodo論文との関係）
 

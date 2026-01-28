@@ -9,6 +9,8 @@ title: SAW-OP｜構文化位相遷移論（Draft v0.2）──単一零点から
 
 > **When the world becomes unreadable, the syntax of reading itself transitions.**
 
+[SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)  
+
 ## 一文定義（英日対照）
 
 ### 🇯🇵 日本語

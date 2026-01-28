@@ -8,6 +8,8 @@ title: SAW-OP｜観測問題の解決──lag relations と零点構文によ�
 **SAW / OP — Observative Projection**  
 _Zero-point syntax and the trace of worlds_
 
+[SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)  
+
 ---
 
 > **観測とは、lag relations への 零点構文の差し込みである。**

@@ -190,9 +190,7 @@ lag relations は必ず **複数の relation phase（S/O）** を含む。
 **SAW / OP — Observative Projection**  
 _Zero-point syntax and the trace of worlds_
 
-[SAW-OP｜観測問題の解決──lag relations と零点構文による再定式化](https://camp-us.net/articles/SAW-OP_Obsevative-Solution.html)  
-[SAW-OP｜観測問題と多体零点構文](https://camp-us.net/articles/SAW-OP_Obsevative-Solution_Appendix.html)  
-[SAW-OP｜観測問題spin-off──看板を抜けたら、そこは宇宙への出口だった。](https://camp-us.net/articles/SAW-OP_spin-off-01.html)  
+[SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)  
 
 ---
 
