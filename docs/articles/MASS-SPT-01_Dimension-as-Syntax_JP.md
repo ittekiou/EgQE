@@ -1140,4 +1140,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Jan 27, 2026 · Web Jan 27, 2026 |</p>
+<p align="center">| Drafted Jan 27, 2026 · Web Jan 28, 2026 |</p>
