@@ -140,6 +140,8 @@ AIとの対話が示したのは、次の事実だった。
 > 中間相とは、秩序化に失敗した段階ではない。  
 > 不安定が安定として持続する、独立した相である。
 
+_This phase does not resolve. It persists._
+
 ---
 
 👉 [SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)  
