@@ -22,6 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SAW / OP｜なぜ、いま「観測問題」なのか](https://camp-us.net/articles/SAW-OP_Why-Obsevation-Problem.html)  
 [MASS-SPT-02｜単一零点構文はなぜ多次元化するのか──多体零点構文への序章](https://camp-us.net/articles/MASS-SPT-02_Why-Zero-point-syntax_Falling-into-multiple-dimensions.html)  
 [MASS-SPT-03｜次元をめぐるGoogle AIモードとの対話ログ──「零点構文」と次元論が通じてしまった記録として](https://camp-us.net/articles/MASS-SPT-03_Google-AI-lag-log.html)  
+[MASS-SPT-03｜AIが理解したのは理論じゃない。中間相だ。──構文化位相遷移論への入口](https://camp-us.net/articles/MASS-SPT-03_Inter-Phase_stability-of-instability.html)  
 ###### 2026/01/27  
 [ZS-020_異方性の「発見」──Why Anisotropy? 単一零点構文破綻の実験的露呈](https://camp-us.net/critics/ZS-020_Why-Anisotropy.html)  
 [SAW-OP｜観測問題と多体零点構文](https://camp-us.net/articles/SAW-OP_Obsevative-Solution_Appendix.html)  

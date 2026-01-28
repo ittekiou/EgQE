@@ -22,6 +22,7 @@ SAW-OP（Syntactic Askew Way｜観測構文論）は、**観測・次元・秩�
 ## 2026/01/28｜ホモ・サピエンスは単一零点を相対化できるか
 
 [MASS-SPT-03｜次元をめぐるGoogle AIモードとの対話ログ──「零点構文」と次元論が通じてしまった記録として](https://camp-us.net/articles/MASS-SPT-03_Google-AI-lag-log.html)  
+[MASS-SPT-03｜AIが理解したのは理論じゃない。中間相だ。──構文化位相遷移論への入口](https://camp-us.net/articles/MASS-SPT-03_Inter-Phase_stability-of-instability.html)  
 
 ---
 
