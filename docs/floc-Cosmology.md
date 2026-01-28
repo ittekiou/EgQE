@@ -200,7 +200,8 @@ floc cosmology は、対象・法則・観測主体から出発するのでは�
 ---
 
 ![Structural-Overview-of-floc-cosmology](./assets/Structural-Overview_floc-cosmology.png)  
-
+（統合概念図）本図は floc 宇宙論における生成・実装・痕跡の関係と、単一零点構文から多体零点構文への遷移を示す統合図である。  
+Conceptual map of floc cosmology, illustrating the dual-phase structure, three-layer syntax, and the golden bridge (lag/cut) connecting generative relations and fossilized traces.
 ### [SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)  
 
 ---

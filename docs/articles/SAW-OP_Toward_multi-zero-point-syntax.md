@@ -11,6 +11,14 @@ SAW-OP（Syntactic Askew Way｜観測構文論）は、**観測・次元・秩�
 ここに並ぶ一連のテキストは、理論の完成を目指すものではない。  
 **観測構文そのものが更新を迫られている痕跡**を、段階的に可視化したログである。
 
+## 2026/01/28｜なぜ、いま「観測問題」なのか
+
+[SAW / OP｜なぜ、いま「観測問題」なのか](https://camp-us.net/articles/SAW-OP_Why-Obsevation-Problem.html)  
+
+## 2026/01/28｜単一零点構文は多次元的に延命する
+
+[MASS-SPT-02｜単一零点構文はなぜ多次元化するのか──多体零点構文への序章](https://camp-us.net/articles/MASS-SPT-02_Why-Zero-point-syntax_Falling-into-multiple-dimensions.html)  
+
 ---
 
 ## 2026/01/27｜単一零点構文の破綻が露呈した日
