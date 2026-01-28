@@ -56,6 +56,10 @@ lag を生成としては読まず、自由度として整理する。
 > **多次元構文は単一零点構文の延命策であり、多体零点構文は生成秩序の回復である。**
 
 ---
+
+👉 [SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)  
+
+---
 💠 [MASS｜多角共生学｜Multi-Angular Symbiosis Studies](https://camp-us.net/MASS.html)  
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
