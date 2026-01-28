@@ -26,9 +26,9 @@ SAW-OP（Syntactic Askew Way｜観測構文論）は、**観測・次元・秩�
     　── 単一零点 → 多体零点への遷移を **構文の位相遷移**として記述し、反証中心の学から**対話的更新**への転換を示す。
     
 - [MASS-SPT-01｜次元は構文である：遷移する次元と零点構文──空間と時間はいかに次元となったか](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_JP.html)  
-    　── 時間と空間は前提ではなく、**零点構文の結果として次元になった**ことを示す三部構成。
-    　[MASS-SPT-01｜Dimension as Syntax──Zero-Point Construction and the Syntactic Origin of Dimensions(Short Version)](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_S.html)  
-    　[MASS-SPT-01｜Dimension as Syntax──Zero-Point Construction and the Emergence, Transition, and Dissolution of Dimensions](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax.html)  
+    　── 時間と空間は前提ではなく、**零点構文の結果として次元になった**ことを示す三部構成。  
+    　・[MASS-SPT-01｜Dimension as Syntax──Zero-Point Construction and the Syntactic Origin of Dimensions(Short Version)](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_S.html)  
+    　・[MASS-SPT-01｜Dimension as Syntax──Zero-Point Construction and the Emergence, Transition, and Dissolution of Dimensions](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax.html)  
 
 ---
 
