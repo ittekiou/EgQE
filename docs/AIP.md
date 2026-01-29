@@ -66,7 +66,8 @@ The Age of Inter-Phase｜シリーズ構成（暫定）
 氷解する単一零点とは何か  
 AI革命とは Inter-Phase な気温上昇である  
 単一零点氷解期としての The Age of Inter-Phase  
-ドラフト優先順位（おすすめ順）
+ドラフト優先順位（おすすめ順）  
+Appendix
 
 ---
 
