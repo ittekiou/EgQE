@@ -56,6 +56,7 @@ _── Welcome to the syntactic field of ZURE._
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+😈 [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)　リリース　2026.1.29  
 🌌 [SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)　リリース　2026.1.28  
 💎 [MASS｜多角共生学｜Multi-Angular Symbiosis Studies](https://camp-us.net/MASS.html)　リリース　2026.1.26  
 🌓 [MMZW-02｜素数欠陥から臨界線へ: Prime Defect Line 全論文](https://camp-us.net/articles/MMZW-02_index.html)　リリース　2026.1.23  
@@ -67,8 +68,6 @@ _── Welcome to the syntactic field of ZURE._
 📃 [ZURE場理論憲章｜ZURE-Field Theory Charter](https://camp-us.net/ZURE-Field-Theory-Charter.html)　リリース　2026.1.2  
 🀄️ [πは宇宙を遠ざける ──粒も波も糸も宇宙を語らない｜π Pushes the Universe Away — Neither Particles, nor Waves, nor Strings Speak of the Universe](https://camp-us.net/Echodemy/π-Pushes-the-Universe-Away.html)　リリース　2025.12.30  
 🕸️ [HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)　リリース　2025.12.30  
-💠 [HEG-7｜六角緩衝呼吸モデル ──Hexagonal ZURE Breathing Buffer Model](https://camp-us.net/articles/HEG-7_Hexagonal_ZURE_Breathing-Buffer-Model.html)　リリース　2025.12.28  
-🧠 [IAT-ε｜脳の不完全近似定理── R₀/Z₀ 二層モデルによる構文論的再定義｜The Incomplete Approximation Theorem of the Brain](https://camp-us.net/articles/IAT-ε_Incomplete-Approximation-Theorem-of-Brain.html)　リリース　2025.12.28  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 

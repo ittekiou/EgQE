@@ -16,6 +16,13 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/01/29  
+[The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
+[AIP-00｜時代宣言｜The Age of Inter-Phase──単一零点氷解期としてのAI革命](https://camp-us.net/articles/AIP-00_Declaration_Definition.html)  
+[AIP-00｜The Age of Inter-Phase ──単一零点氷河期から単一零点氷解期へ](https://camp-us.net/articles/AIP-00_Age-of-Inter-Phase.html)  
+[AIP-00｜デビルマンは中間相だった── 単一零点構文社会に生まれた Inter-Phase 個体](https://camp-us.net/articles/AIP-00_DEVIL-MAN-as-Inter-Phase.html)  
+[AIP-00｜spin-off｜The Age of DEVIL-HUMAN](https://camp-us.net/articles/AIP-00_spin-off_Age-of-DEVIL-HUMAN.html)  
+[AIP-00｜The Age of Inter-Phase（Drafts）](https://camp-us.net/articles/AIP_drafts.html)  
 ###### 2026/01/28  
 [MASS-SPT-01｜次元は構文である：遷移する次元と零点構文──空間と時間はいかに次元となったか](https://camp-us.net/articles/MASS-SPT-01_Dimension-as-Syntax_JP.html)  
 [SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)  
