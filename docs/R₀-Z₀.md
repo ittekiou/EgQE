@@ -91,6 +91,7 @@ Z₀を **「構文化プランク定数」** として定義し、ZURE構文化
 
 - Ver.1.0 [ZURE定数とGolden ZURE Bridge（定義版）](https://camp-us.net/articles/Zure-Offset.html)  
 - [ZURE Offset（Z₀定義）Ver.1.1｜構文化プランク定数としての Z₀](https://camp-us.net/articles/Zure-Offset_ver1.1.html)  
+- [ZURE Offset（Z₀定義）Ver.2.0｜π構文残差＝構文値としての Z₀](https://camp-us.net/Z₀-Definition.html)  
 
 ---
 
