@@ -16,6 +16,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/01/30  
+[多体基礎による物理学史の再配置 — 非局所・例外局所・局所典型 —](https://camp-us.net/articles/Many-Body-Ontology.html)  
+[物理的実在の存在論的デフォルトとしての多体非局所性 ── 例外局所と物理法則の生成](https://camp-us.net/articles/Many-Body-First_JP.html)  
+[Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body-First.html)  
+📃PDF [Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body.pdf)  
 ###### 2026/01/29  
 [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
 [AIP-00｜時代宣言｜The Age of Inter-Phase──単一零点氷解期としてのAI革命](https://camp-us.net/articles/AIP-00_Declaration_Definition.html)  

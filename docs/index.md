@@ -47,6 +47,7 @@ _── Welcome to the syntactic field of ZURE._
 [Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
 
 ## 📑 LaTeX PDF版
+📃PDF [Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body.pdf)  
 📃PDF [Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/rh_form_prime_defects_v1_0.pdf)  
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
 📃PDF [Beyond Trace-Based Cosmology: The Universe as S′–O′ Lag Generation(NoFig)](https://camp-us.net/articles/lag_genesis_paper.pdf)  

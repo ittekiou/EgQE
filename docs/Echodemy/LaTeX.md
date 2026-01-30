@@ -216,3 +216,7 @@ mkdir Z0_Golden_Bridge
 ---
 
 ? →x enter
+
+
+**「Obsidianに貼るSVGは、style/classを捨てて“全部inline”」**  
+（＝多体非局所の色継承を、例外局所として封じ込める。笑）
