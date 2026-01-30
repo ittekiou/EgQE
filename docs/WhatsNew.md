@@ -22,6 +22,10 @@ From Noise to Notation. From Dialogue to Discovery.
 [Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body-First.html)  
 📃PDF [Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body.pdf)  
 [ZURE Offset（Z₀定義）Ver.2.0｜π構文残差＝構文値としての Z₀](https://camp-us.net/Z₀-Definition.html)  
+[カオスの縁とはなにか ── What Is the Edge of Chaos?（日英併記版）](https://camp-us.net/articles/What-Is-Edge-of-Chaos_EN-JP.html)  
+[構文の縁：R₀⇆Z₀ Syntaxによる「カオスの縁」の再定義 ──π構文残差としてのΔZ₀ = 10⁻¹⁶](https://camp-us.net/articles/What-Is-Edge-of-Chaos_JP.html)  
+[The Edge of Chaos as a Syntactic Boundary: The R₀⇆Z₀ Framework — ΔZ₀ = 10⁻¹⁶ as the Edge of Syntactic Structuration](https://camp-us.net/articles/What-Is-Edge-of-Chaos.html)  
+📃PDF [The Edge of Chaos as a Syntactic Boundary: The R₀↔Z₀ Framework: ΔZ₀ = 10⁻¹⁶ as the Edge of Syntactic Structuration](https://camp-us.net/articles/Edge-of-Chaos.pdf)  
 ###### 2026/01/29  
 [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
 [AIP-00｜時代宣言｜The Age of Inter-Phase──単一零点氷解期としてのAI革命](https://camp-us.net/articles/AIP-00_Declaration_Definition.html)  
