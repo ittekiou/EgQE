@@ -61,7 +61,7 @@ title: 多体基礎による物理学史の再配置 — 非局所・例外局�
 
 → 一体は**局所の典型**である。
 
-![Many-Body-First](Many-Body-First.png)  
+![Many-Body-First](../assets/Many-Body-First.png)  
 
 ---
 
