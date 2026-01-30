@@ -5,8 +5,6 @@ title: 多体基礎による物理学史の再配置 — 非局所・例外局�
 
 ## — 非局所・例外局所・局所典型 —
 
-[物理的実在の存在論的デフォルトとしての多体非局所性 ── 例外局所と物理法則の生成](https://camp-us.net/articles/Many-Body-First_JP.html)  
-[Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body-First.html)  
 📃PDF [Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body.pdf)  
 
 > This work is intended as an ontological baseline.  
@@ -202,6 +200,9 @@ title: 多体基礎による物理学史の再配置 — 非局所・例外局�
     
 
 は、**同一の構文的問題として統合的に理解可能**となる。
+
+[物理的実在の存在論的デフォルトとしての多体非局所性 ── 例外局所と物理法則の生成](https://camp-us.net/articles/Many-Body-First_JP.html)  
+[Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body-First.html)  
 
 ---
 
