@@ -9,6 +9,9 @@ title: 多体基礎による物理学史の再配置 — 非局所・例外局�
 [Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body-First.html)  
 📃PDF [Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body.pdf)  
 
+> This work is intended as an ontological baseline.  
+> Subsequent analyses of dark matter, dark energy, and the arrow of time should be understood as specific projections or residuals of the many-body non-local default articulated here.
+
 ## 0. 基本立場（本稿の前提）
 
 本整理は、物理理論を **可解性の順**ではなく、**存在論的基礎（何がデフォルトか）** の順に再配置する試みである。
