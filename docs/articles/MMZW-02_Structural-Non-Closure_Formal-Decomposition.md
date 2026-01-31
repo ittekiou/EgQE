@@ -253,8 +253,8 @@ This perspective reframes future work not as a race toward closure, but as an ex
 # Appendix lag-log
 
 ---
-**(i) 階乗列で “arbitrarily long gaps” を最小限に証明**し、ついでにそれを使って **Lemma 3A を締め直し**、最後に **Proposition 2（inheritance）をより厳密な形に書き換え**ます。  
-（比喩ゼロ／論文体／「どこまで言えるか」を明確に線引きします）
+**(i) 階乗列で “arbitrarily long gaps” を最小限に証明**し、ついでにそれを使って **Lemma 3A を締め直し**、最後に **Proposition 2（inheritance）をより厳密な形に書き換え**。  
+（比喩ゼロ／論文体／「どこまで言えるか」を明確に線引き）
 
 ---
 
@@ -383,7 +383,7 @@ This abstracts the common structure appearing in:
 Fix any truncation-based prime observable $\mathcal O_T$.  
 Then statements of the form
 
-> “$\mathcal O_T$ exhibits behavior $B$ for all $|t|\le T$, hence RH holds globally”
+> “$\mathcal O_T$ exhibits behavior $B$ for all $\|t\|\le T$, hence RH holds globally”
 
 are not logically valid **without an additional uniform control principle** that bounds the truncation error uniformly over the entire infinite domain.
 
@@ -401,7 +401,7 @@ $$
 valid for all $t$ in an unbounded domain.  
 Absent such a uniform remainder bound, agreement on every finite window does not entail global validity. ∎
 
-> **Important:** これは「できない」ではなく、**“必要な追加原理が要る”** 。
+> **Important:** 「できない」→ **“必要な追加原理が要る”** 。
 
 ---
 
@@ -417,7 +417,7 @@ Therefore, any attempt to upgrade finite-window stability of $\mathcal O_T$ to a
 Consequently, the missing ingredient in such approaches is not “more computation,” but a genuinely new global control principle—one that is not reducible to bounded local propagation along prime structure. ∎
 
 > **What changed:**  
-> “inheritance” を、「素数側の（局所的に閉じない）性質が**切断観測からのグローバル保証**を阻む」という **方法論命題**に落とした。厳密度が上がり、言い過ぎを避けられる。
+> “inheritance” を、「素数側の（局所的に閉じない）性質が**切断観測からのグローバル保証**を阻む」という **方法論命題**に落とした。厳密度を上げ、言い過ぎを避ける。
 
 ---
 
@@ -436,8 +436,8 @@ Consequently, the missing ingredient in such approaches is not “more computati
 
 ## 次の精密化（推奨）
 
-**Lemma 4** の「uniform remainder bound の必要性」を、$\zeta'/\zeta$ の素数和表現（$\sum \Lambda(n)n^{-s}$）と、典型的な切断誤差 $\sum_{n>N} \Lambda(n)n^{-\sigma}$ の評価問題として、**1段だけ数式で明示**する。  
-目的はただ一つ：
+**Lemma 4** の「uniform remainder bound の必要性」を、$\zeta'/\zeta$ の素数和表現（$\sum \Lambda(n)n^{-s}$）と、典型的な切断誤差 $\sum_{n>N} \Lambda(n)n^{-\sigma}$ の評価問題として、**1段だけ数式で明示**。  
+目的は一つ：
 
 > **「切断観測がなぜ“全域排除”に昇格できないか」を、ζ′/ζ の素数和と誤差項の形で“見える化”する**
 
@@ -546,7 +546,7 @@ Therefore, the persistence of RH as an open problem is consistent with a structu
 
 ---
 
-# F. What has now been achieved (整理)
+# F. What has now been achieved
 
 - ✔ 階乗列で **prime gaps unbounded** を完全に自立証明
     
@@ -578,7 +578,7 @@ Therefore, the persistence of RH as an open problem is consistent with a structu
 
 > **Lemma G + Corollary G1：素数側に unbounded がある（最小事実）**
 
-この _unbounded_ は「素数ギャップの非有界性」だと明示した方が良い。
+この _unbounded_ は「素数ギャップの非有界性」だと明示。
 
 **修正版：**
 
@@ -623,8 +623,7 @@ Therefore, the persistence of RH as an open problem is consistent with a structu
     
 - **結論**  
     以上により、本論の方法論的骨格──  
-    **「有限的観測可能性は、必ずしも無限域における制御可能性を含意しない」**  
-    という主張が確定する。
+    **「有限的観測可能性は、必ずしも無限域における制御可能性を含意しない」** という主張が確定する。
     
 
 ---
@@ -795,7 +794,7 @@ This is the exact abstract form of what RH exemplifies.
 
 ## Where this leaves you
 
-You now have **three publishable layers**:
+We now have **three publishable layers**:
 
 1. **MMZW-02** (math / philosophy of mathematics)
     
