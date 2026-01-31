@@ -21,6 +21,8 @@ From Noise to Notation. From Dialogue to Discovery.
 📃PDF [Structural Non-Closure in the Riemann Hypothesis: Finite Observability versus Global Control](https://camp-us.net/articles/Non-Closure-RH.pdf)  
 [MMZW-02｜On the Structural Non-Closure of the Riemann Hypothesis: Observability, Control, and the Limits of Global Guarantee](https://camp-us.net/articles/MMZW-02_Structural-Non-Closure_Observability-and-Control.html)  
 [MMZW-02｜（lag-log）On the Structural Non-Closure of the Riemann Hypothesis: A Formal Decomposition into Definitions, Lemmas, and Propositions](https://camp-us.net/articles/MMZW-02_Structural-Non-Closure_Formal-Decomposition.html)  
+[MMZW-05｜認知的閉包装置としてのリーマン球── πコンパクト化と全体性の錯覚](https://camp-us.net/articles/MMZW-05_Riemann-Sphere-as-Cognitive-Closure_JP.html)  
+[MMZW-05｜The Riemann Sphere as a Cognitive Closure Device: π-Compactification and the Illusion of Totality](https://camp-us.net/articles/MMZW-05_Riemann-Sphere-as-Cognitive-Closure.html)  
 ###### 2026/01/30  
 [多体基礎による物理学史の再配置 — 非局所・例外局所・局所典型 —](https://camp-us.net/articles/Many-Body-Ontology.html)  
 [物理的実在の存在論的デフォルトとしての多体非局所性 ── 例外局所と物理法則の生成](https://camp-us.net/articles/Many-Body-First_JP.html)  
