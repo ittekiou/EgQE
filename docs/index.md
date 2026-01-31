@@ -47,13 +47,16 @@ _── Welcome to the syntactic field of ZURE._
 [Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
 
 ## 📑 LaTeX PDF版
+📃PDF [The Edge of Chaos as a Syntactic Boundary: The R₀↔Z₀ Framework: ΔZ₀ = 10⁻¹⁶ as the Edge of Syntactic Structuration](https://camp-us.net/articles/Edge-of-Chaos.pdf)  
 📃PDF [Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body.pdf)  
-📃PDF [Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/rh_form_prime_defects_v1_0.pdf)  
-📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
 📃PDF [Beyond Trace-Based Cosmology: The Universe as S′–O′ Lag Generation(NoFig)](https://camp-us.net/articles/lag_genesis_paper.pdf)  
 📃PDF [Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation(NoFig)](https://camp-us.net/articles/saw_minimal_paper_NoFig.pdf)  
 📃PDF [The Z₀ Golden Bridge: Co-Syntactic Invariants Linking Golden Phenomena and Planck-Scale Structuration](https://camp-us.net/articles/Forward_Generation.pdf)  
 📃PDF [Reverse Syntactic Inference: Golden Phenomena Necessitate a Planck-Scale Z₀ Threshold](https://camp-us.net/articles/Reverse_Syntactic_Inference.pdf)  
+### 📑 Riemann Hypo.
+📃PDF [Structural Non-Closure in the Riemann Hypothesis: Finite Observability versus Global Control](https://camp-us.net/articles/Non-Closure-RH.pdf)  
+📃PDF [Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/rh_form_prime_defects_v1_0.pdf)  
+📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
