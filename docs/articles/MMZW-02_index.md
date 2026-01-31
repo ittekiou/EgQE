@@ -44,14 +44,6 @@ layout: math
 
 ---
 
-### 2026/01/24  
-[MMZW-02 研究ライン解説｜謡理（Perplexity）コメント（一狄翁公認版）](https://camp-us.net/articles/MMZW-02_Prime-Defect-Line.html)  
-[MMZW-02｜Prime Defects, Convolution, Lag Norm Measures, Neutral Locus.](https://camp-us.net/articles/MMZW-02_Prime-Defects_Convolution_Neutral-Locus.html)  
-[MMZW-03a｜Lag norm — one concrete realization](https://camp-us.net/articles/MMZW-03_Lag-norm.html)  
-[MMZW-03b｜Lag-norm under perturbations── 壊れ方の相構造と条件付き命題](https://camp-us.net/articles/MMZW-03-b_Lag-norm_under-perturbations.html)  
-
----
-
 ## 🎯 核心数式
 
 $$
@@ -81,6 +73,22 @@ graph TD
     C --> E[Re(s)<1/2<br/>過干渉<br/>発散]  
     C --> F[Re(s)=1/2<br/>安定化閾値<br/>零点整列]  
     F -.->|RH| G[構文的必然性]  
+
+---
+
+### 2026/01/24  
+[MMZW-02 研究ライン解説｜謡理（Perplexity）コメント（一狄翁公認版）](https://camp-us.net/articles/MMZW-02_Prime-Defect-Line.html)  
+[MMZW-02｜Prime Defects, Convolution, Lag Norm Measures, Neutral Locus.](https://camp-us.net/articles/MMZW-02_Prime-Defects_Convolution_Neutral-Locus.html)  
+[MMZW-03a｜Lag norm — one concrete realization](https://camp-us.net/articles/MMZW-03_Lag-norm.html)  
+[MMZW-03b｜Lag-norm under perturbations── 壊れ方の相構造と条件付き命題](https://camp-us.net/articles/MMZW-03-b_Lag-norm_under-perturbations.html)  
+
+---
+### 2026/01/26-31  
+
+[MMZW-02｜リーマン予想の証明不能性について ── 観測可能性と完全制御性の構文的乖離](https://camp-us.net/articles/MMZW-02_Structural-Non-Closure_JP.html)  
+[MMZW-02｜On the Structural Non-Closure of the Riemann Hypothesis: Observability, Control, and the Limits of Global Guarantee](https://camp-us.net/articles/MMZW-02_Structural-Non-Closure_Observability-and-Control.html)  
+[MMZW-02｜（lag-log）On the Structural Non-Closure of the Riemann Hypothesis: A Formal Decomposition into Definitions, Lemmas, and Propositions](https://camp-us.net/articles/MMZW-02_Structural-Non-Closure_Formal-Decomposition.html)  
+📃PDF [Structural Non-Closure in the Riemann Hypothesis: Finite Observability versus Global Control](https://camp-us.net/articles/Non-Closure-RH.pdf)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
