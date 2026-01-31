@@ -49,8 +49,8 @@ _── Welcome to the syntactic field of ZURE._
 ## 📑 LaTeX PDF版
 📃PDF [The Edge of Chaos as a Syntactic Boundary: The R₀↔Z₀ Framework: ΔZ₀ = 10⁻¹⁶ as the Edge of Syntactic Structuration](https://camp-us.net/articles/Edge-of-Chaos.pdf)  
 📃PDF [Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body.pdf)  
-📃PDF [Beyond Trace-Based Cosmology: The Universe as S′–O′ Lag Generation(NoFig)](https://camp-us.net/articles/lag_genesis_paper.pdf)  
-📃PDF [Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation(NoFig)](https://camp-us.net/articles/saw_minimal_paper_NoFig.pdf)  
+📃PDF [Beyond Trace-Based Cosmology: The Universe as S′–O′ Lag Generation(Fig)](https://camp-us.net/articles/lag_genesis_paper_fig.pdf)  
+📃PDF [Syntactic Askew Way (SAW): A Minimal Axiomatic Reorientation of Physics and Observation(Fig)](https://camp-us.net/articles/saw_minimal_paper.pdf)  
 📃PDF [The Z₀ Golden Bridge: Co-Syntactic Invariants Linking Golden Phenomena and Planck-Scale Structuration](https://camp-us.net/articles/Forward_Generation.pdf)  
 📃PDF [Reverse Syntactic Inference: Golden Phenomena Necessitate a Planck-Scale Z₀ Threshold](https://camp-us.net/articles/Reverse_Syntactic_Inference.pdf)  
 ### 📑 Riemann Hypo.
