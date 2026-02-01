@@ -132,18 +132,6 @@
   <!-- Palette -->
   <!-- bisque: #C9A36A | soot: #111111 | ice: #7FA6C7 -->
 
-  <defs>
-    <!-- Soft shadow-ish via duplicate strokes (keeps it SVG-simple) -->
-    <style>
-      .soot { stroke:#111111; fill:none; }
-      .bisque { stroke:#C9A36A; fill:none; }
-      .ice { stroke:#7FA6C7; fill:none; }
-      .txtMain { fill:#111111; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Arial; font-weight: 800; }
-      .txtMono { fill:#111111; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-weight: 700; letter-spacing: 0.06em; }
-      .small { font-size: 14px; opacity: 0.85; }
-    </style>
-  </defs>
-
   <!-- Mark group -->
   <g transform="translate(110,160)">
     <!-- Non-closure ring (intentionally not closed) -->
