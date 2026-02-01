@@ -3,7 +3,7 @@ title: SAW-00｜Non-Closure Syntax Kit for Physical Reality｜物理宇宙のた
 ---
 # SAW-00｜Non-Closure Syntax Kit for Physical Reality
 
-lag relations / Non-Closure / Inter-Phase
+## lag relations / Non-Closure / Inter-Phase
 
 - lag relations
     
