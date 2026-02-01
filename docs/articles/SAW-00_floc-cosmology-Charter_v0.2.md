@@ -198,6 +198,10 @@ MASS は方法論ではない。
 
 ---
 
+[SAW-00｜Non-Closure Syntax Kit for Physical Reality｜物理宇宙のための必須構文 Kit（minimal Kit-8）](https://camp-us.net/articles/SAW-00_Non-Closure-Syntax-Kit_LarNCS.html)  
+
+---
+
 # **floc cosmology — Minimal Charter (v0.2)**
 
 ## _A Lag-Relational Non-Closure Syntax_

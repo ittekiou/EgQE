@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/02/01  
 [SAW-00｜floc cosmology 憲章（v0.2）: A Lag-Relational Non-Closure Syntax](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.2.html)  
+[SAW-00｜Non-Closure Syntax Kit for Physical Reality｜物理宇宙のための必須構文 Kit（minimal Kit-8）](https://camp-us.net/articles/SAW-00_Non-Closure-Syntax-Kit_LarNCS.html)  
 ###### 2026/01/31  
 [MMZW-02｜リーマン予想の証明不能性について ── 観測可能性と完全制御性の構文的乖離](https://camp-us.net/articles/MMZW-02_Structural-Non-Closure_JP.html)  
 📃PDF [Structural Non-Closure in the Riemann Hypothesis: Finite Observability versus Global Control](https://camp-us.net/articles/Non-Closure-RH.pdf)  
