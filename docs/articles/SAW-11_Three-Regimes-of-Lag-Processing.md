@@ -6,6 +6,8 @@
 
 （v0.1）
 
+> These three states are the minimal classification that allows quantum measurement, relativistic observation, and everyday perception to be interpreted within a single framework.
+
 ---
 
 ## Abstract

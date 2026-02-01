@@ -77,6 +77,11 @@
 
 ---
 
+公理 T4・T5 の具体的な振る舞いは、SAW-11 における S′–O′–lag 三態として展開される。  
+For concrete behaviors of the three regimes, see SAW-11 (S′–O′ lag classification).
+
+---
+
 ## 系
 
 - 観測問題とは、絶対的観測者の不在に由来する構文的問題である

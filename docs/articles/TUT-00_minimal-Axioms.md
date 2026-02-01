@@ -56,6 +56,12 @@ title: TUT-00｜Trinity統一理論｜ミニマル公理（確定版）
 > mathematical syntax constitutes merely a subset of it.**
 
 ---
+
+**注：**  
+「[SAW-00｜floc cosmology 憲章（v0.2）](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.2.html)  のうち、観測構文に関する最小公理。  
+TUT-00 extracts the minimal axioms of observation syntax from the floc cosmology charter.
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
