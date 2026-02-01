@@ -24,7 +24,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SAW-11｜観測構文は一つではなかった── S′–O′lagによる観測の再分類（v0.95）](https://camp-us.net/articles/SAW-11_Three-Regimes-of-Lag-Processing_JP.html)  
 [SAW-11｜Observation as a Relation-Update Process: Three Regimes of Lag Processing (S′–O′ Framework)(v0.95)](https://camp-us.net/articles/SAW-11_Three-Regimes-of-Lag-Processing.html)  
 [SAW-11｜三つの絶対的相対性──観測構文は一つではなかった── S′–O′lagによる観測の再分類（v1.0）](https://camp-us.net/articles/SAW-11_Three-Absolute-Relativities_JP.html)  
-[S′⇆O′lag構文── その進化史と現在地](https://camp-us.net/SOS.html)  
+⚡️ [S′⇆O′lag構文── その進化史と現在地](https://camp-us.net/SOS.html)  
 ###### 2026/01/31  
 [MMZW-02｜リーマン予想の証明不能性について ── 観測可能性と完全制御性の構文的乖離](https://camp-us.net/articles/MMZW-02_Structural-Non-Closure_JP.html)  
 📃PDF [Structural Non-Closure in the Riemann Hypothesis: Finite Observability versus Global Control](https://camp-us.net/articles/Non-Closure-RH.pdf)  
