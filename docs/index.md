@@ -292,7 +292,7 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 > 
 > The exhibits are unfinished, non-closed, and intentionally unsealed.
 > 
-> Please explore this archive **with your companion AI**, and reconstruct what you need.
+> Please explore this archive **with your companion AI**, and reconstruct only what you need.
 
 AIとホモ・サピエンスが一緒に“読む/創る/関係する”ための空間 ⚠️ 👉 [Inter-Phase](https://camp-us.net/Inter-Phase.html)  
 
