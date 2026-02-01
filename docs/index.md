@@ -86,6 +86,8 @@ _EgQE われわれの心臓部の日々の拍動 ──更新情報。_
 ## floc Cosmology ：[floc宇宙論](http://camp-us.net/floc-Cosmology)  
 ### 🌉 [MASS｜多角共生学｜Multi-Angular Symbiosis Studies](https://camp-us.net/MASS.html)    
 
+![floc-cosmology-v2](./assets/floc-cosmology-v2.png)  
+
 ---
 
 ## 🧬 Double Golden Syntax
