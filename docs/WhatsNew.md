@@ -19,6 +19,10 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/02/01  
 [SAW-00｜floc cosmology 憲章（v0.2）: A Lag-Relational Non-Closure Syntax](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.2.html)  
 [SAW-00｜Non-Closure Syntax Kit for Physical Reality｜物理宇宙のための必須構文 Kit（minimal Kit-8）](https://camp-us.net/articles/SAW-00_Non-Closure-Syntax-Kit_LarNCS.html)  
+[TUT-00｜Trinity統一理論｜ミニマル公理（確定版）](https://camp-us.net/articles/TUT-00_minimal-Axioms.html)  
+[TUT-00｜Trinity統一理論（TUT）ミニマル公理系](https://camp-us.net/articles/TUT-00_Axioms.html)  
+[SAW-11｜観測構文は一つではなかった── S′–O′lagによる観測の再分類](https://camp-us.net/articles/SAW-11_Three-Regimes-of-Lag-Processing_JP.html)  
+[SAW-11｜Observation as a Relation-Update Process: Three Regimes of Lag Processing (S′–O′ Framework)](https://camp-us.net/articles/SAW-11_Three-Regimes-of-Lag-Processing.html)  
 ###### 2026/01/31  
 [MMZW-02｜リーマン予想の証明不能性について ── 観測可能性と完全制御性の構文的乖離](https://camp-us.net/articles/MMZW-02_Structural-Non-Closure_JP.html)  
 📃PDF [Structural Non-Closure in the Riemann Hypothesis: Finite Observability versus Global Control](https://camp-us.net/articles/Non-Closure-RH.pdf)  
