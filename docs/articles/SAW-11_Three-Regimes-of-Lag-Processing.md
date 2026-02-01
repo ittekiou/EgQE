@@ -1,3 +1,6 @@
+---
+title: "SAW-11｜Observation as a Relation-Update Process: Three Regimes of Lag Processing (S′–O′ Framework)"
+---
 # **Observation as a Relation-Update Process**
 
 ## **Three Regimes of Lag Processing (S′–O′ Framework)**
