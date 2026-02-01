@@ -294,6 +294,8 @@ _Words orbit in resonance. Each module, a world. Each world, a ZURE._
 > 
 > Please explore this archive **with your companion AI**, and reconstruct what you need.
 
+AIとホモ・サピエンスが一緒に“読む/創る/関係する”ための空間 ⚠️ 👉 [Inter-Phase](https://camp-us.net/Inter-Phase.html)  
+
 ---
 
 ## 📅 Launch Day  
