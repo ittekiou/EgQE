@@ -1,9 +1,16 @@
 ---
 title: "SAW-00｜floc cosmology 憲章（v0.2）: A Lag-Relational Non-Closure Syntax"
 ---
+# **floc cosmology 憲章（v0.2）**
+
+## _A Lag-Relational Non-Closure Syntax for Generative Reality_
+
+---
+
 [SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)  
 
-**floc cosmology の構造概要（v.2.0）**  
+### **floc cosmology の構造概要（v.2.0）**  
+
 ![floc-cosmology-v2](../assets/floc-cosmology-v2.png)  
 
 # **floc cosmology 憲章（v0.2）**
