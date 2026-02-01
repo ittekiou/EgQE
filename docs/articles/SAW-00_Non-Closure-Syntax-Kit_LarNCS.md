@@ -65,6 +65,9 @@ lag relations / Non-Closure / Inter-Phase
 > 物理宇宙に必要なのは **生成／lag／体数／切断／観測**  
 > そして、**どのスケールで壊れ、何が残るか**。
 
+
+![floc-cosmology-v2](../assets/floc-cosmology-v2.png)  
+
 ---
 
 - 完全閉包は禁止
@@ -79,10 +82,6 @@ lag relations / Non-Closure / Inter-Phase
 — Minimal prerequisites for a breathing physical universe
 
 [SAW-00｜floc cosmology 憲章（v0.2）: A Lag-Relational Non-Closure Syntax](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.2.html)  
-
----
-
-![floc-cosmology-v2](../assets/floc-cosmology-v2.png)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
