@@ -1,5 +1,5 @@
 ---
-title: SAW-11｜三つの絶対的相対性──観測構文は一つではなかった── S′–O′lagによる観測の再分類
+title: SAW-11｜三つの絶対的相対性──観測構文は一つではなかった── S′–O′lagによる観測の再分類（v1.0）
 ---
 # **三つの絶対的相対性──観測構文は一つではなかった**
 
@@ -131,8 +131,9 @@ _lag_ は「処理された結果」としてのみ残り、通過そのもの�
 観測構文は、一つではなかった。
 
 ---
+（v1.0）
 
-（v0.1） [SAW-11｜観測構文は一つではなかった── S′–O′lagによる観測の再分類](https://camp-us.net/articles/SAW-11_Three-Regimes-of-Lag-Processing_JP.html)  
+（v0.95） [SAW-11｜観測構文は一つではなかった── S′–O′lagによる観測の再分類](https://camp-us.net/articles/SAW-11_Three-Regimes-of-Lag-Processing_JP.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

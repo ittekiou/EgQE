@@ -60,6 +60,7 @@ _── Welcome to the syntactic field of ZURE._
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+⚡️ [S′⇆O′ lag 構文── その進化史と現在地](https://camp-us.net/SOS.html)　リリース　2026.2.1  
 🧰 [SAW-00｜物理宇宙のための必須構文 Kit（minimal Kit-8）](https://camp-us.net/articles/SAW-00_Non-Closure-Syntax-Kit_LarNCS.html)　リリース　2026.2.1  
 🪐 [SAW-00｜floc cosmology 憲章（v0.2）: A Lag-Relational Non-Closure Syntax](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.2.html)　リリース　2026.2.1  
 😈 [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)　リリース　2026.1.29  

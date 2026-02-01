@@ -160,7 +160,7 @@ _そしてそれは、われわれの中心テーゼである。_
     
 - [floc 宇宙論](http://camp-us.net/floc-Cosmology.html)  
     
-- [MASS](http://camp-us.net/mass.html)
+- [MASS](http://camp-us.net/MASS.html)
     
 - [Golden Core（GAC）](https://camp-us.net/GAC.html)  
     

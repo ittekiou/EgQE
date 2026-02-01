@@ -1,5 +1,5 @@
 ---
-title: SAW-11｜観測構文は一つではなかった── S′–O′lagによる観測の再分類（v0.1）
+title: SAW-11｜観測構文は一つではなかった── S′–O′lagによる観測の再分類（v0.95）
 ---
 # 観測構文は一つではなかった
 
@@ -84,7 +84,7 @@ S′–O′ 関係において、更新が **通過的に処理される場合**
 そして観測構文は、一つではなかった。
 
 ---
-（v0.1）
+（v0.95）
 
 [SAW-11｜Observation as a Relation-Update Process: Three Regimes of Lag Processing (S′–O′ Framework)](https://camp-us.net/articles/SAW-11_Three-Regimes-of-Lag-Processing.html)  
 
