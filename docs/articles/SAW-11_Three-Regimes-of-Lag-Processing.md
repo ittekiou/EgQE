@@ -4,6 +4,8 @@
 
 ### _An Essay on Syntactic Acceleration Beyond the Constancy of Light Speed_
 
+（v0.1）
+
 ---
 
 ## Abstract
