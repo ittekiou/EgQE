@@ -23,6 +23,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [SAW-AR｜Cover Letter｜Gravity Is Not a Force: A Lag-Based Reclassification of Gravity, Attraction, and Free Fall](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force_Cover-Letter.html)  
 📃PDF [Gravity Is Not a Force: A Lag-Based Reclassification of Gravity, Attraction, and Free Fall](https://camp-us.net/articles/Gravity-Not-Force.pdf)  
 [SAW-MK-00｜Metric Kit v0.1(Conceptual)｜Lag Relations の診断量](https://camp-us.net/articles/SAW-MK-00_Metric-Kit_v0.1.html)  
+[PS-G01｜研究資源配分における「RH(−)型／RH(＋)型」判定基準の導入について（行政への提言）](https://camp-us.net/articles/PS-G01_RH-_to_RH+.html)  
+[PS-G01｜研究資源配分における 「探索的・構文刷新型基礎研究」の評価指標導入について（文部科学省・科研費制度向け提言）](https://camp-us.net/articles/PS-G01_RH-_to_RH+_br.html)  
 ###### 2026/02/01  
 [SAW-00｜floc cosmology 憲章（v0.2）: A Lag-Relational Non-Closure Syntax](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.2.html)  
 [SAW-00｜Non-Closure Syntax Kit for Physical Reality｜物理宇宙のための必須構文 Kit（minimal Kit-8）](https://camp-us.net/articles/SAW-00_Non-Closure-Syntax-Kit_LarNCS.html)  
