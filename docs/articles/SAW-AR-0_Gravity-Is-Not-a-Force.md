@@ -11,7 +11,7 @@ title: "SAW / AR｜Gravity Is Not a Force: An Observational Reclassification via
 ## Abstract
 
 Gravity, attraction, free fall, zero-gravity, and centrifugal effects are conventionally treated as distinct forces or dynamical phenomena.  
-This paper proposes a unified reclassification based not on forces, but on the relational lag between observer updates (S′) and object responses (O′).
+This paper proposes a unified reclassification based not on forces, but on the relational lag between observer updates $S′$ and object responses $O′$.
 
 We adopt many-body non-locality as the ontological default of physical reality, and reinterpret one-body and two-body systems as exceptional localizations within this ground.  
 In this framework, gravity is not an interaction acting on bodies, but a lag-sedimented environmental condition characterized by **S (the Earth) ≪ O′**.
