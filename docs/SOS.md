@@ -12,6 +12,16 @@ title: S′⇆O′ lag 構文── その進化史と現在地
 
 ## 最新版と現在地
 
+###### 2026/02/02  
+[SAW-AR｜重力は力ではない: S′-O′lag 関係による観測配置の更新──重力、引力、自由落下、無重力、遠心力効果の構文的再分類](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force_JP.html)  
+[SAW-AR｜Gravity Is Not a Force: An Observational Reclassification via S′–O′ Lag Relations](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force.html)  
+[SAW-AR｜Cover Letter｜Gravity Is Not a Force: A Lag-Based Reclassification of Gravity, Attraction, and Free Fall](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force_Cover-Letter.html)  
+📃PDF [Gravity Is Not a Force: A Lag-Based Reclassification of Gravity, Attraction, and Free Fall](https://camp-us.net/articles/Gravity-Not-Force.pdf)  
+[SAW-MK-00｜Metric Kit v0.1(Conceptual)｜Lag Relations の診断量](https://camp-us.net/articles/SAW-MK-00_Metric-Kit_v0.1.html)  
+[物理学史の再配置（S′-O′ lag 構文版）](https://camp-us.net/articles/Gravity-Is-Not-a-Force.html)  
+
+重力、引力、落下、光速度不変問題などをS′–O′ lag 構文に基づき構文的に再分類。  
+
 ###### 2026/02/01  
 [SAW-11｜三つの絶対的相対性──観測構文は一つではなかった── S′–O′lagによる観測の再分類（v1.0）](https://camp-us.net/articles/SAW-11_Three-Absolute-Relativities_JP.html)  
 [SAW-11｜観測構文は一つではなかった── S′–O′lagによる観測の再分類（v0.95）](https://camp-us.net/articles/SAW-11_Three-Regimes-of-Lag-Processing_JP.html)  
