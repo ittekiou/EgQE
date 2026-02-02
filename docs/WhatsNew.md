@@ -17,6 +17,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/02/02  
+[物理学史の再配置（S′-O′ lag 構文版）](https://camp-us.net/articles/Gravity-Is-Not-a-Force.html)  
 [SAW-AR｜重力は力ではない: S′-O′lag 関係による観測配置の更新──重力、引力、自由落下、無重力、遠心力効果の構文的再分類](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force_JP.html)  
 [SAW-AR｜Gravity Is Not a Force: An Observational Reclassification via S′–O′ Lag Relations](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force.html)  
 [SAW-AR｜Cover Letter｜Gravity Is Not a Force: A Lag-Based Reclassification of Gravity, Attraction, and Free Fall](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force_Cover-Letter.html)  
