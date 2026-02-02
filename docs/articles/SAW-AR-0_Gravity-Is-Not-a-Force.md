@@ -218,13 +218,14 @@ It is a **syntactic device** designed to reposition the reader within a lag-base
 **Figure 1.**  An Observational Reclassification via S′–O′ Lag Relations  
 ![Gravity-Not-Force](../assets/Gravity-Not-Force.png)  
 
-**Figure 1.**  
-Syntactic reclassification of gravity, attraction, free fall, zero-gravity, and centrifugal effects based on S′–O′ lag relations.  
-The vertical axis represents three observational regimes: observer-dominant lag $S′ ≫ O′$, object-dominant lag $S′ ≪ O′$, and near-synchronous updating $S′ ≃ O′$.  
-The horizontal structure reorganizes one-body, two-body, and many-body configurations not by problem difficulty, but by degrees of ontological invisibilization.  
-Gravity appears as a lag-sedimented environmental condition characterized by S (the Earth) ≪ O′, rather than as an attractive force.  
-Free fall corresponds to S′ ≫ O′ occurring within this gravity-conditioned environment and arises from the loss of support rather than from gravitational pulling.  
-The diagram functions not as a causal explanation but as a syntactic positioning device that relocates the observer within a many-body, lag-based universe.
+**Figure 1 | Reclassification of Observational Configurations via S′–O′ Lag Relations**  
+This figure reclassifies gravity, attraction, free fall, zero gravity, and centrifugal effects  
+not as forces or fields, but as configurations of **S′–O′ lag relations** (update–response delay).  
+The many-body, non-local regime (upper region) represents the ontological default characterized by asynchronous updating and lag.    
+Two-body configurations emerge as exceptional localizations.  
+The one-body regime (lower region) corresponds to the typical local limit involving observer embodiment, first-person perspective, and locally generated time.  
+Gravity is positioned not as an interaction, but as a **lag-sedimented environmental condition** ($S \ll O′$).  
+Attraction, centrifugal effects, and zero gravity arise as projective manifestations of distinct S′–O′ observational placements.
 
 ---
 
