@@ -1,6 +1,6 @@
 ---
 layout: math
-title: "SAW / AR｜Gravity Is Not a Force: An Observational Reclassification via S′–O′ Lag Relations"
+title: "SAW-AR｜Gravity Is Not a Force: An Observational Reclassification via S′–O′ Lag Relations"
 ---
 # **Gravity Is Not a Force**
 ## _An Observational Reclassification via S′–O′ Lag Relations_
