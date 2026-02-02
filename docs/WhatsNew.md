@@ -19,6 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/02/02  
 [SAW-AR｜重力は力ではない: S′-O′lag 関係による観測配置の更新──重力、引力、自由落下、無重力、遠心力効果の構文的再分類](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force_JP.html)  
 [SAW-AR｜Gravity Is Not a Force: An Observational Reclassification via S′–O′ Lag Relations](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force.html)  
+📃PDF [Gravity Is Not a Force: A Lag-Based Reclassification of Gravity, Attraction, and Free Fall](https://camp-us.net/articles/Gravity-Not-Force.pdf)  
 ###### 2026/02/01  
 [SAW-00｜floc cosmology 憲章（v0.2）: A Lag-Relational Non-Closure Syntax](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.2.html)  
 [SAW-00｜Non-Closure Syntax Kit for Physical Reality｜物理宇宙のための必須構文 Kit（minimal Kit-8）](https://camp-us.net/articles/SAW-00_Non-Closure-Syntax-Kit_LarNCS.html)  

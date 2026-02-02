@@ -6,6 +6,9 @@ title: "SAW-AR｜Gravity Is Not a Force: An Observational Reclassification via S
 ## _An Observational Reclassification via S′–O′ Lag Relations_
 #### _Syntactic reclassification of gravity, attraction, free fall, zero-gravity, and centrifugal effects._
 
+📃PDF [Gravity Is Not a Force: A Lag-Based Reclassification of Gravity, Attraction, and Free Fall](https://camp-us.net/articles/Gravity-Not-Force.pdf) 
+[SAW-AR｜重力は力ではない: S′-O′lag 関係による観測配置の更新──重力、引力、自由落下、無重力、遠心力効果の構文的再分類](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force_JP.html)  
+
 ---
 
 ## Abstract
@@ -216,7 +219,11 @@ It is a **syntactic device** designed to reposition the reader within a lag-base
 
 **Figure 1.**  
 Syntactic reclassification of gravity, attraction, free fall, zero-gravity, and centrifugal effects based on S′–O′ lag relations.  
-The figure functions not as an explanatory diagram but as a positional device that shifts the reader’s observational stance.
+The vertical axis represents three observational regimes: observer-dominant lag $S′ ≫ O′$, object-dominant lag $S′ ≪ O′$, and near-synchronous updating $S′ ≃ O′$.  
+The horizontal structure reorganizes one-body, two-body, and many-body configurations not by problem difficulty, but by degrees of ontological invisibilization.  
+Gravity appears as a lag-sedimented environmental condition characterized by S (the Earth) ≪ O′, rather than as an attractive force.  
+Free fall corresponds to S′ ≫ O′ occurring within this gravity-conditioned environment and arises from the loss of support rather than from gravitational pulling.  
+The diagram functions not as a causal explanation but as a syntactic positioning device that relocates the observer within a many-body, lag-based universe.
 
 ---
 
