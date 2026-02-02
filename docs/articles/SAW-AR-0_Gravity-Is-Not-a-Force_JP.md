@@ -10,6 +10,7 @@ title: "SAW-AR｜重力は力ではない: S′-O′lag 関係による観測配
 
 [SAW-AR｜Gravity Is Not a Force: An Observational Reclassification via S′–O′ Lag Relations](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force.html)  
 📃PDF [Gravity Is Not a Force: A Lag-Based Reclassification of Gravity, Attraction, and Free Fall](https://camp-us.net/articles/Gravity-Not-Force.pdf) 
+[SAW-MK-00｜Metric Kit v0.1(Conceptual)｜Lag Relations の診断量](https://camp-us.net/articles/SAW-MK-00_Metric-Kit_v0.1.html)  
 
 ---
 
