@@ -156,47 +156,7 @@ Both are necessities of inference under conditions of partial observational acce
 
 **Figure｜Update–Trace–Inference Structure of Entanglement**  
 
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
-
-  <!-- Background -->
-  <rect x="0" y="0" width="720" height="420" fill="#ffffff"/>
-
-  <!-- Update Layer -->
-  <rect x="110" y="40" width="500" height="80" rx="8" fill="#f0f4ff" stroke="#333"/>
-  <text x="360" y="75" text-anchor="middle" font-size="18" font-weight="bold">
-    Update (Global)
-  </text>
-  <text x="360" y="100" text-anchor="middle" font-size="13">
-    System-level update unit · non-local by construction
-  </text>
-
-  <!-- Arrow -->
-  <line x1="360" y1="120" x2="360" y2="160" stroke="#333" stroke-width="2"/>
-  <polygon points="354,160 366,160 360,170" fill="#333"/>
-
-  <!-- Trace Layer -->
-  <rect x="110" y="170" width="500" height="90" rx="8" fill="#f9f9f9" stroke="#333"/>
-  <text x="360" y="205" text-anchor="middle" font-size="18" font-weight="bold">
-    Trace (Local Access)
-  </text>
-  <text x="360" y="230" text-anchor="middle" font-size="13">
-    Locally recorded outcomes · correlated but incomplete
-  </text>
-
-  <!-- Arrow -->
-  <line x1="360" y1="260" x2="360" y2="300" stroke="#333" stroke-width="2"/>
-  <polygon points="354,300 366,300 360,310" fill="#333"/>
-
-  <!-- Inference Layer -->
-  <rect x="110" y="310" width="500" height="80" rx="8" fill="#fff3f3" stroke="#333"/>
-  <text x="360" y="345" text-anchor="middle" font-size="18" font-weight="bold">
-    Inference (Model Reconstruction)
-  </text>
-  <text x="360" y="370" text-anchor="middle" font-size="13">
-    Local / causal / separable reconstruction attempt
-  </text>
-
-</svg>
+![update-trace-inference.png](../assets/update-trace-inference.png)  
 
 A global update produces locally accessible traces.  
 When inference attempts to reconstruct the update using only local, separable models, the resulting mismatch appears as entanglement.
