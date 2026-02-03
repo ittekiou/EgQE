@@ -31,7 +31,7 @@
   <text class="f p ink" x="70" y="420">• symmetry / global：美しさ優先・全体は一つであるべき</text>
 
   <!-- Left desire box -->
-  <rect class="boxLite" x="64" y="448" width="452" height="76" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
+  <rect class="boxLite" x="64" y="448" width="456" height="76" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
   <text class="f h3 ink" x="82" y="476">構文的欲望</text>
   <text class="f p muted" x="82" y="498">全体は一つであるべき / 差は消せるはず / 説明は閉じるべき</text>
 

@@ -17,7 +17,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/02/04  
-[Z。宣言（V2.0）図版）](https://camp-us.net/assets/Replacement-Map.svg)  
+[Z。宣言（V2.0）図版](https://camp-us.net/assets/Replacement-Map.svg)  
 ###### 2026/02/03  
 📃PDF [Entanglement as Non-Closure of Local Explanations: A Reinterpretation of Bell via Lag Syntax](https://camp-us.net/articles/Bells-Theorem.pdf)  
 📃PDF [What Is Observed Is Not a State: Entanglement as Lag-Structured Non-Closure](https://camp-us.net/articles/entanglement.pdf)  
