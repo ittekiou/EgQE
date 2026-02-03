@@ -20,6 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 📃PDF [Entanglement as Non-Closure of Local Explanations: A Reinterpretation of Bell via Lag Syntax](https://camp-us.net/articles/Bells-Theorem.pdf)  
 📃PDF [What Is Observed Is Not a State: Entanglement as Lag-Structured Non-Closure](https://camp-us.net/articles/entanglement.pdf)  
 [SAW-AR｜Appendix E｜A Common Syntax for Gravitational Waves, Entanglement, and Collapse](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force_Appendix-E_Entanglement.html)  
+[SAW-AR｜Entanglement as a Failure of Local Closure: Why Bell’s Theorem Diagnoses Explanatory Bias Rather Than Nonlocal Reality](https://camp-us.net/articles/SAW-AR-0_Entanglement_as_Failure-of-Local-Closure.html)  
 ###### 2026/02/02  
 [物理学史の再配置（S′-O′ lag 構文版）](https://camp-us.net/articles/Gravity-Is-Not-a-Force.html)  
 [SAW-AR｜重力は力ではない: S′-O′lag 関係による観測配置の更新──重力、引力、自由落下、無重力、遠心力効果の構文的再分類](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force_JP.html)  

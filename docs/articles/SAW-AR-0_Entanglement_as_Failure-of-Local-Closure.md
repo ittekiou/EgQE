@@ -5,9 +5,12 @@ layout: math
 
 ## _Why Bell’s Theorem Diagnoses Explanatory Bias Rather Than Nonlocal Reality_
 
+📃PDF [Entanglement as Non-Closure of Local Explanations: A Reinterpretation of Bell via Lag Syntax](https://camp-us.net/articles/Bells-Theorem.pdf)  
+📃PDF [What Is Observed Is Not a State: Entanglement as Lag-Structured Non-Closure](https://camp-us.net/articles/entanglement.pdf)  
+
 ---
 
-## **Abstract（Revised）**
+## **Abstract**
 
 Entanglement is widely interpreted as evidence that physical reality itself is nonlocal. This paper argues that such an interpretation mislocates the source of the problem. What is empirically observed in Bell-type experiments is limited to localized measurement outcomes and the statistical correlations revealed through their comparison. No global system state, nonlocal interaction, or superluminal influence is directly observed.
 
@@ -151,6 +154,8 @@ Both are necessities of inference under conditions of partial observational acce
 
 ---
 
+**Figure｜Update–Trace–Inference Structure of Entanglement**  
+
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
 
   <!-- Background -->
@@ -193,8 +198,6 @@ Both are necessities of inference under conditions of partial observational acce
 
 </svg>
 
-
-**Figure｜Update–Trace–Inference Structure of Entanglement**  
 A global update produces locally accessible traces.  
 When inference attempts to reconstruct the update using only local, separable models, the resulting mismatch appears as entanglement.
 
@@ -213,3 +216,24 @@ Within this framework, wavefunction collapse is reinterpreted as an inferential 
 Entanglement, therefore, marks the boundary of a particular explanatory regime. It is not a property of physical systems, but a visible limit of closed, state-centric description. Recognizing this limit does not diminish the empirical content of quantum theory. It clarifies what quantum phenomena do—and do not—require us to believe about the structure of reality.
 
 ---
+
+[SAW-AR｜重力は力ではない: S′-O′lag 関係による観測配置の更新──重力、引力、自由落下、無重力、遠心力効果の構文的再分類](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force_JP.html)  
+[SAW-AR｜Gravity Is Not a Force: An Observational Reclassification via S′–O′ Lag Relations](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force.html)  
+[SAW-AR｜Appendix E｜A Common Syntax for Gravitational Waves, Entanglement, and Collapse](https://camp-us.net/articles/SAW-AR-0_Gravity-Is-Not-a-Force_Appendix-E_Entanglement.html)  
+[SAW-MK-00｜Metric Kit v0.1(Conceptual)｜Lag Relations の診断量](https://camp-us.net/articles/SAW-MK-00_Metric-Kit_v0.1.html)  
+
+---
+*EgQE — Echo-Genesis Qualia Engine*  
+[_camp-us.net_](https://camp-us.net/)
+
+---
+
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Feb 3, 2026 · Web Feb 3, 2026 |</p>
