@@ -624,6 +624,22 @@ but rather the **form taken by an explanation that fails to close**.
 
 ---
 
+# Appendix Summary｜Entanglement, Update Granularity, and Observational Syntax
+
+This appendix repositions entanglement-related phenomena by separating three descriptive layers: **update**, **trace**, and **inference**.
+
+At the update level, relational configurations are redefined in a single event whose minimal granularity may be global rather than decomposable into subsystem updates. This update is not directly observable.
+
+At the trace level, localized outcomes are stabilized after the update and constitute the sole empirical content accessible to observers. No-signaling holds at this level because marginal trace statistics are invariant under distant settings, regardless of update granularity.
+
+At the inference level, observers reconstruct correlations from traces using classical communication and modeling assumptions. When π-closed, state-centric models are imposed, this reconstruction introduces artifacts such as wavefunction collapse, causal arrows, and nonlocal influence narratives.
+
+Within this framework, **entanglement does not denote a physical interaction or ontological novelty**, but rather the resistance encountered when post-update trace configurations are forced back into π-closed local explanatory models. Collapse is thus an inference artifact, and apparent nonlocal causality arises from constraints on trace accessibility rather than from superluminal transmission.
+
+Separating these layers resolves the apparent tension between global update coherence and no-signaling, and clarifies why correlated outcomes do not imply controllable influence.
+
+---
+
 # Appendix E｜No-Signaling and Update Granularity
 
 ## Why Global Updates Do Not Enable Superluminal Communication
@@ -643,6 +659,51 @@ We distinguish three levels that are often conflated:
     
 
 No-signaling is a statement about **trace-level observables**, not about the update level.
+
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <style>
+    .box { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+    .label { font-family: serif; font-size: 16px; fill: #000000; }
+    .small { font-size: 13px; fill: #000000; }
+    .arrow { stroke: #000000; stroke-width: 2; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#000000"/>
+    </marker>
+  </defs>
+
+  <!-- UPDATE -->
+  <rect x="160" y="30" width="320" height="80" class="box"/>
+  <text x="320" y="65" text-anchor="middle" class="label">UPDATE</text>
+  <text x="320" y="90" text-anchor="middle" class="small">
+    Global update / indivisible event
+  </text>
+
+  <!-- TRACE -->
+  <rect x="160" y="170" width="320" height="90" class="box"/>
+  <text x="320" y="205" text-anchor="middle" class="label">TRACE</text>
+  <text x="320" y="230" text-anchor="middle" class="small">
+    Localized outcomes after update
+  </text>
+
+  <!-- INFERENCE -->
+  <rect x="160" y="310" width="320" height="80" class="box"/>
+  <text x="320" y="345" text-anchor="middle" class="label">INFERENCE</text>
+  <text x="320" y="370" text-anchor="middle" class="small">
+    Reconstruction, collapse, causality
+  </text>
+
+  <!-- Arrows -->
+  <line x1="320" y1="110" x2="320" y2="170" class="arrow"/>
+  <line x1="320" y1="260" x2="320" y2="310" class="arrow"/>
+</svg>
+
+> **Figure E.1｜Three Descriptive Layers: Update, Trace, and Inference**  
+> Physical reconfiguration occurs at the update level and is not directly observable.  
+> Observation accesses only localized traces formed after the update.  
+> Collapse and causal narratives arise at the inference level when traces are reconstructed under π-closed assumptions.
 
 ---
 
@@ -847,68 +908,6 @@ Thus, causal language emerges from **inference over traces**, not from physical 
     
 - **Inference**: post hoc reconstruction that introduces “collapse” and causal arrows.
     
-
-
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
-  <style>
-    .box { fill: #ffffff; stroke: #000000; stroke-width: 2; }
-    .label { font-family: serif; font-size: 16px; fill: #000000; }
-    .small { font-size: 13px; fill: #000000; }
-    .arrow { stroke: #000000; stroke-width: 2; marker-end: url(#arrowhead); }
-  </style>
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#000000"/>
-    </marker>
-  </defs>
-
-  <!-- UPDATE -->
-  <rect x="160" y="30" width="320" height="80" class="box"/>
-  <text x="320" y="65" text-anchor="middle" class="label">UPDATE</text>
-  <text x="320" y="90" text-anchor="middle" class="small">
-    Global update / indivisible event
-  </text>
-
-  <!-- TRACE -->
-  <rect x="160" y="170" width="320" height="90" class="box"/>
-  <text x="320" y="205" text-anchor="middle" class="label">TRACE</text>
-  <text x="320" y="230" text-anchor="middle" class="small">
-    Localized outcomes after update
-  </text>
-
-  <!-- INFERENCE -->
-  <rect x="160" y="310" width="320" height="80" class="box"/>
-  <text x="320" y="345" text-anchor="middle" class="label">INFERENCE</text>
-  <text x="320" y="370" text-anchor="middle" class="small">
-    Reconstruction, collapse, causality
-  </text>
-
-  <!-- Arrows -->
-  <line x1="320" y1="110" x2="320" y2="170" class="arrow"/>
-  <line x1="320" y1="260" x2="320" y2="310" class="arrow"/>
-</svg>
-
-> **Figure E.1｜Three Descriptive Layers: Update, Trace, and Inference**  
-> Physical reconfiguration occurs at the update level and is not directly observable.  
-> Observation accesses only localized traces formed after the update.  
-> Collapse and causal narratives arise at the inference level when traces are reconstructed under π-closed assumptions.
-
----
-
-# Appendix Summary D-F｜Entanglement, Update Granularity, and Observational Syntax
-
-This appendix repositions entanglement-related phenomena by separating three descriptive layers: **update**, **trace**, and **inference**.
-
-At the update level, relational configurations are redefined in a single event whose minimal granularity may be global rather than decomposable into subsystem updates. This update is not directly observable.
-
-At the trace level, localized outcomes are stabilized after the update and constitute the sole empirical content accessible to observers. No-signaling holds at this level because marginal trace statistics are invariant under distant settings, regardless of update granularity.
-
-At the inference level, observers reconstruct correlations from traces using classical communication and modeling assumptions. When π-closed, state-centric models are imposed, this reconstruction introduces artifacts such as wavefunction collapse, causal arrows, and nonlocal influence narratives.
-
-Within this framework, **entanglement does not denote a physical interaction or ontological novelty**, but rather the resistance encountered when post-update trace configurations are forced back into π-closed local explanatory models. Collapse is thus an inference artifact, and apparent nonlocal causality arises from constraints on trace accessibility rather than from superluminal transmission.
-
-Separating these layers resolves the apparent tension between global update coherence and no-signaling, and clarifies why correlated outcomes do not imply controllable influence.
 
 ---
 
