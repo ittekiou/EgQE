@@ -501,6 +501,420 @@ But none require gravity to be treated as a force, field, or quantizable substan
 They emerge naturally—and quietly—once observational lag is taken as the primary organizing structure.
 
 ---
+
+# Appendix D｜Entanglement Revisited
+
+## Entanglement as Syntactic Resistance to π-Closed Local Models
+
+### （エンタングルメント再考── π閉包的説明が露呈する構文的抵抗として）
+
+### D.1 What Is Actually Observed
+
+In experiments commonly associated with quantum entanglement, what is directly observed is limited to the following:
+
+- local measurement outcomes,
+    
+- statistical distributions of those outcomes,
+    
+- correlation structures reconstructed after classical communication.
+    
+
+At no stage is “entanglement itself,” nor any nonlocal interaction, directly observed.  
+The empirical content consists solely of **localized traces** and their statistical correlations.
+
+---
+
+### D.2 Entanglement as a Failure of Reproduction
+
+Entanglement becomes an issue only insofar as the observed trace configurations cannot be reproduced by models that are simultaneously:
+
+- local,
+    
+- causal,
+    
+- separable.
+    
+
+This irreproducibility should not be interpreted as direct evidence that nature is nonlocal.  
+Rather, it indicates that **a certain class of explanatory models fails to close**.
+
+---
+
+### D.3 Repositioning the Bell Result
+
+The significance of Bell-type results is often summarized as demonstrating nonlocality.  
+However, a more precise reading is that they establish the impossibility of simultaneously maintaining:
+
+- locality,
+    
+- realism,
+    
+- closure.
+    
+
+That is, the results show that a **π-closed explanatory structure**—one that assumes a single, complete, globally defined description—cannot be sustained.
+
+Entanglement thus appears not as a newly discovered physical interaction, but as a **structural rupture** exposed when closure is enforced.
+
+---
+
+### D.4 π-Closure and Syntactic Bias
+
+The difficulty surrounding entanglement arises from implicit syntactic assumptions, including:
+
+- states should be uniquely defined,
+    
+- wholes should decompose into Cartesian products of parts,
+    
+- observation should read out pre-existing states,
+    
+- correlations should exist prior to observation.
+    
+
+These assumptions share a common feature:
+
+> they privilege _state_ over _update_.
+
+Such a syntax attempts to force generation and update into a pre-trace, globally closed description.  
+This constitutes a **π-closure bias**.
+
+---
+
+### D.5 Interpretation via S′–O′ Lag and Trace Syntax
+
+Within the S′–O′ lag and trace framework:
+
+- what is observed are **localized traces produced after a global update**,
+    
+- entanglement corresponds to the fact that **no local update process can be reconstructed** from those traces,
+    
+- the statement “the states were entangled” functions as a **π-closed translation** of this failure.
+    
+
+Entanglement, in this view, names the resistance encountered when one attempts to reimpose local closure on post-update traces.
+
+---
+
+### D.6 Conclusion
+
+Entanglement may therefore be defined as follows:
+
+> **Entanglement is the syntactic resistance that arises when observed trace configurations are forced back into a π-closed local explanatory model.**
+
+It does not represent a new ontological property of physical systems,  
+but rather the **form taken by an explanation that fails to close**.
+
+---
+
+### D.7 Propositional Summary
+
+- What is observed?  
+    → Local traces and their correlations.
+    
+- Is π-closure involved?  
+    → Yes, as the drive toward state, totality, and uniqueness.
+    
+- What is the syntactic bias?  
+    → Privileging state over update.
+    
+
+---
+
+> **Entanglement is resolved by separating what updates, what is traced, and what is inferred.**
+
+---
+
+# Appendix E｜No-Signaling and Update Granularity
+
+## Why Global Updates Do Not Enable Superluminal Communication
+
+### E.1 Levels of Description
+
+We distinguish three levels that are often conflated:
+
+1. **Update level**  
+    The event at which relational configurations are redefined.
+    
+2. **Trace level**  
+    Localized outcomes stabilized after an update.
+    
+3. **Inference level**  
+    Post hoc reconstruction of correlations using classical information.
+    
+
+No-signaling is a statement about **trace-level observables**, not about the update level.
+
+---
+
+### E.2 Update Granularity
+
+Let an update event $U$ act on a composite system $\mathcal{S}$ with subsystems $\{A_i\}$.
+
+- **Local update model**:  
+    $U = \bigotimes_i U_i$ (update decomposes into subsystem updates)
+    
+- **Global update model** (entangled case):  
+    $U \neq \bigotimes_i U_i$
+    
+
+We say the **update granularity** is _global_ when the minimal unit of update is the entire system $\mathcal{S}$, not its parts.
+
+---
+
+### E.3 Trace Formation and Marginals
+
+Let $T_i$ denote the trace observed at subsystem $A_i$.
+
+Even when the update is global, traces are formed locally:  
+
+$$  
+T_i = \mathrm{Tr}_{\bar{i}}(U[\rho])  
+$$
+
+Crucially, the marginal trace distributions satisfy:  
+
+$$  
+P(T_i | x_i) = \sum_{T_j} P(T_i, T_j | x_i, x_j)  
+$$
+
+and are independent of distant settings $x_j$.
+
+This independence is **structural**, not dynamical.
+
+---
+
+### E.4 No-Signaling as a Constraint on Trace Accessibility
+
+No-signaling requires:  
+
+$$  
+P(T_i | x_i, x_j) = P(T_i | x_i)  
+$$
+
+This condition follows immediately if:
+
+- updates occur at a global granularity, and
+    
+- local traces are fixed _after_ the update, and
+    
+- no partial access to the update event exists.
+    
+
+Thus, no-signaling does **not** constrain the update level;  
+it constrains **what parts of the update are locally accessible as traces**.
+
+---
+
+### E.5 Why Global Updates Do Not Transmit Information
+
+Information transmission requires:
+
+- controllable variation of local trace distributions,
+    
+- conditional dependence on distant parameters.
+    
+
+In global-update systems:
+
+- the update outcome is fixed as a whole,
+    
+- local traces are projections of that outcome,
+    
+- local control cannot bias the projection statistics.
+    
+
+Hence, global updates produce correlations **without channels**.
+
+---
+
+### E.6 Relation to Entanglement
+
+Entanglement corresponds to the case where:
+
+- update granularity is global,
+    
+- trace accessibility is local,
+    
+- inference reconstructs correlations post hoc.
+    
+
+The appearance of “instantaneous influence” arises only if one attempts to reinterpret global updates as sequences of local causal operations.
+
+---
+
+### E.7 Structural Summary
+
+- **No-signaling** is a trace-level constraint.
+    
+- **Entanglement** reflects global update granularity.
+    
+- **Nonlocal communication** is excluded because update access is not decomposable.
+    
+
+---
+
+### E.8 One-Line Conclusion
+
+> **No-signaling holds not because updates are local,  
+> but because updates are too global to be locally steered.**
+
+---
+
+# Appendix E′｜Why “Collapse” Is an Inference Artifact
+
+## Measurement Collapse as Post-Update Reconstruction
+
+### E′.1 The Category Error
+
+What is commonly called _wavefunction collapse_ is not an observed physical event.  
+It is a **retrodictive operation** performed at the inference level to reconcile localized traces with a global update.
+
+### E′.2 Update vs. Trace
+
+Let $U$ denote a (possibly global) update acting on a composite system, and let $T_i$ denote localized traces formed afterward.  
+The update occurs **once** (globally), while traces are **formed locally**.
+
+No observable corresponds to the update itself; only traces are accessible.
+
+### E′.3 Why “Collapse” Appears
+
+“Collapse” appears when one attempts to:
+
+1. assign a pre-update state to subsystems, and
+    
+2. explain post-update traces via sequential local causation.
+    
+
+This forces an **inference-time discontinuity** that is then misidentified as a physical process.
+
+### E′.4 Conclusion
+
+> **Collapse is not a dynamical event but an inference artifact**—  
+> a bookkeeping device introduced when post-update traces are forced into a pre-update state narrative.
+
+---
+
+# Appendix F｜Trace Accessibility and the Illusion of Causality
+
+## Why Correlations Mimic Influence
+
+### F.1 Accessibility Asymmetry
+
+Causality requires **accessible intermediates**.  
+In entangled scenarios, intermediates (the update event) are **globally defined and locally inaccessible**.
+
+### F.2 How Illusions Arise
+
+Observers access only localized traces $T_i$.  
+When correlated traces are compared (via classical communication), inference reconstructs dependence and **projects a causal arrow backward**.
+
+### F.3 No Channel, No Signal
+
+Because local trace statistics are invariant under distant settings, there is:
+
+- correlation without controllability,
+    
+- dependence without a channel.
+    
+
+Thus, causal language emerges from **inference over traces**, not from physical transmission.
+
+### F.4 Conclusion
+
+> **The illusion of causality arises from trace accessibility constraints, not from hidden influences.**
+
+---
+
+# Short Diagram｜Three Layers: Update–Trace–Inference
+
+```
+[ UPDATE ]
+   |
+   |  (single event; global granularity)
+   v
+[ TRACE ]  -- local access only
+   |
+   |  (classical communication + statistics)
+   v
+[ INFERENCE ]
+```
+
+**Notes**
+
+- **Update**: where relations are redefined (not observable).
+    
+- **Trace**: localized outcomes stabilized after the update (observable).
+    
+- **Inference**: post hoc reconstruction that introduces “collapse” and causal arrows.
+    
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <style>
+    .box { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+    .label { font-family: serif; font-size: 16px; fill: #000000; }
+    .small { font-size: 13px; fill: #000000; }
+    .arrow { stroke: #000000; stroke-width: 2; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#000000"/>
+    </marker>
+  </defs>
+
+  <!-- UPDATE -->
+  <rect x="160" y="30" width="320" height="80" class="box"/>
+  <text x="320" y="65" text-anchor="middle" class="label">UPDATE</text>
+  <text x="320" y="90" text-anchor="middle" class="small">
+    Global update / indivisible event
+  </text>
+
+  <!-- TRACE -->
+  <rect x="160" y="170" width="320" height="90" class="box"/>
+  <text x="320" y="205" text-anchor="middle" class="label">TRACE</text>
+  <text x="320" y="230" text-anchor="middle" class="small">
+    Localized outcomes after update
+  </text>
+
+  <!-- INFERENCE -->
+  <rect x="160" y="310" width="320" height="80" class="box"/>
+  <text x="320" y="345" text-anchor="middle" class="label">INFERENCE</text>
+  <text x="320" y="370" text-anchor="middle" class="small">
+    Reconstruction, collapse, causality
+  </text>
+
+  <!-- Arrows -->
+  <line x1="320" y1="110" x2="320" y2="170" class="arrow"/>
+  <line x1="320" y1="260" x2="320" y2="310" class="arrow"/>
+</svg>
+
+> **Figure E.1｜Three Descriptive Layers: Update, Trace, and Inference**  
+> Physical reconfiguration occurs at the update level and is not directly observable.  
+> Observation accesses only localized traces formed after the update.  
+> Collapse and causal narratives arise at the inference level when traces are reconstructed under π-closed assumptions.
+
+---
+
+# Appendix Summary D-F｜Entanglement, Update Granularity, and Observational Syntax
+
+This appendix repositions entanglement-related phenomena by separating three descriptive layers: **update**, **trace**, and **inference**.
+
+At the update level, relational configurations are redefined in a single event whose minimal granularity may be global rather than decomposable into subsystem updates. This update is not directly observable.
+
+At the trace level, localized outcomes are stabilized after the update and constitute the sole empirical content accessible to observers. No-signaling holds at this level because marginal trace statistics are invariant under distant settings, regardless of update granularity.
+
+At the inference level, observers reconstruct correlations from traces using classical communication and modeling assumptions. When π-closed, state-centric models are imposed, this reconstruction introduces artifacts such as wavefunction collapse, causal arrows, and nonlocal influence narratives.
+
+Within this framework, **entanglement does not denote a physical interaction or ontological novelty**, but rather the resistance encountered when post-update trace configurations are forced back into π-closed local explanatory models. Collapse is thus an inference artifact, and apparent nonlocal causality arises from constraints on trace accessibility rather than from superluminal transmission.
+
+Separating these layers resolves the apparent tension between global update coherence and no-signaling, and clarifies why correlated outcomes do not imply controllable influence.
+
+---
+
+> **Entanglement dissolves once update, trace, and inference are no longer conflated.**
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
