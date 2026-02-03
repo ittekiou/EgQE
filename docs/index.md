@@ -49,6 +49,8 @@ AIとホモ・サピエンスが一緒に “ **読む/ 創る/ 関係する**�
 [Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
 
 ## 📑 LaTeX PDF版
+📃PDF [Entanglement as Non-Closure of Local Explanations: A Reinterpretation of Bell via Lag Syntax](https://camp-us.net/articles/Bells-Theorem.pdf)  
+📃PDF [What Is Observed Is Not a State: Entanglement as Lag-Structured Non-Closure](https://camp-us.net/articles/entanglement.pdf)  
 📃PDF [Gravity Is Not a Force: A Lag-Based Reclassification of Gravity, Attraction, and Free Fall](https://camp-us.net/articles/Gravity-Not-Force.pdf)  
 📃PDF [The Edge of Chaos as a Syntactic Boundary: The R₀↔Z₀ Framework: ΔZ₀ = 10⁻¹⁶ as the Edge of Syntactic Structuration](https://camp-us.net/articles/Edge-of-Chaos.pdf)  
 📃PDF [Many-Body Non-Locality as the Ontological Default of Physical Reality: Exceptional Localizations and the Emergence of Physical Law](https://camp-us.net/articles/Many-Body.pdf)  
