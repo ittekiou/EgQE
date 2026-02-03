@@ -1,5 +1,6 @@
 ---
 layout: math
+title: "SAW-AR｜Entanglement as a Failure of Local Closure: Why Bell’s Theorem Diagnoses Explanatory Bias Rather Than Nonlocal Reality"
 ---
 # **Entanglement as a Failure of Local Closure**
 
