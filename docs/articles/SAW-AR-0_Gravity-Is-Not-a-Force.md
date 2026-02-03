@@ -624,6 +624,11 @@ but rather the **form taken by an explanation that fails to close**.
 
 ---
 
+📃PDF [Entanglement as Non-Closure of Local Explanations: A Reinterpretation of Bell via Lag Syntax](https://camp-us.net/articles/Bells-Theorem.pdf)  
+📃PDF [What Is Observed Is Not a State: Entanglement as Lag-Structured Non-Closure](https://camp-us.net/articles/entanglement.pdf)  
+
+---
+
 # Appendix Summary｜Entanglement, Update Granularity, and Observational Syntax
 
 This appendix repositions entanglement-related phenomena by separating three descriptive layers: **update**, **trace**, and **inference**.
