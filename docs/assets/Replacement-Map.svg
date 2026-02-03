@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="π→Z₀ 置換マップ（宣言図） 白地版">
+  <defs>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L14,7 L0,14 Z" fill="#111"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text class="f h1 ink" x="40" y="60" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="28" font-weight="700" fill="#111">π → Z₀ 置換マップ（宣言図）</text>
+  <text class="f p muted" x="40" y="90" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="700" fill="#111">From Closure Syntax to Generative Residue</text>
+  <line class="rule" x1="40" y1="98" x2="1160" y2="98"/>
+
+  <!-- Left column: π camp -->
+  <rect class="box" x="40" y="120" width="500" height="420" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
+  <text class="f h2 ink" x="64" y="156" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="700" fill="#111">π陣営（閉包・安心・完成の構文）</text>
+  <text class="f p muted" x="64" y="178">合言葉：閉じる・揃える・終わらせる</text>
+  <line class="ruleLite" x1="64" y1="192" x2="516" y2="192"/>
+
+  <!-- Left list -->
+  <text class="f p ink" x="70" y="220">• π / 2π：円・周期・完結（位相を閉じる）</text>
+  <text class="f p ink" x="70" y="245">• 4π：球対称・全体閉包（空間を一発で確定）</text>
+  <text class="f p ink" x="70" y="270">• 1/4π：全方位均等（放射を平均化）</text>
+  <text class="f p ink" x="70" y="295">• log / lim / ε→0：誤差は消えるはず（極限で丸める）</text>
+  <text class="f p ink" x="70" y="320">• ∫ / ℝ：連続化（切れ目は存在しない）</text>
+  <text class="f p ink" x="70" y="345">• =：同一視（違いを潰す）</text>
+  <text class="f p ink" x="70" y="370">• measure(Ω)=1：全体は定義済み（漏れはない）</text>
+  <text class="f p ink" x="70" y="395">• dt / d/dt：連続時間・微分（lag を 0 に押し込める）</text>
+  <text class="f p ink" x="70" y="420">• symmetry / global：美しさ優先・全体は一つであるべき</text>
+
+  <!-- Left desire box -->
+  <rect class="boxLite" x="64" y="448" width="452" height="76" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
+  <text class="f h3 ink" x="82" y="476">構文的欲望</text>
+  <text class="f p muted" x="82" y="498">全体は一つであるべき / 差は消せるはず / 説明は閉じるべき</text>
+
+  <!-- Right column: Z0 camp -->
+  <rect class="box" x="660" y="120" width="500" height="420" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
+  <text class="f h2 ink" x="684" y="156" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="700" fill="#111">Z₀陣営（非閉包・更新・路上の構文）</text>
+  <text class="f p muted" x="684" y="178">合言葉：残す・遅れる・続く</text>
+  <line class="ruleLite" x1="684" y1="192" x2="1136" y2="192"/>
+
+  <!-- Right list -->
+  <text class="f p ink" x="690" y="220">• Z₀ = 10⁻¹⁶：不可視だった差分（単位・残差・切れ目）</text>
+  <text class="f p ink" x="690" y="245">• Δ / →：差・更新・遷移（方向を残す）</text>
+  <text class="f p ink" x="690" y="270">• ≠ / ≈：同一ではない / 近似止まり</text>
+  <text class="f p ink" x="690" y="295">• lag / τ：遅れ（同期しないことを前提化）</text>
+  <text class="f p ink" x="690" y="320">• Var( )：ばらつきが本体（平均で消さない）</text>
+  <text class="f p ink" x="690" y="345">• trace：痕跡が先（状態より履歴）</text>
+  <text class="f p ink" x="690" y="370">• event / update：出来事・更新（生成を優先）</text>
+  <text class="f p ink" x="690" y="395">• local exception / many-body：例外局所 / 群れない複数性</text>
+  <text class="f p ink" x="690" y="420">• order-of-updates：時間＝更新順序（流れではなく並び）</text>
+
+  <!-- Right attitude box -->
+  <rect class="boxLite" x="684" y="448" width="452" height="76" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
+  <text class="f h3 ink" x="702" y="476">構文的態度</text>
+  <text class="f p muted" x="702" y="498">全体は捕まらない / 差は消えない / 説明は続く</text>
+
+  <!-- Center principle -->
+  <rect class="dash" x="540" y="120" width="120" height="420" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
+  <text class="f h3 ink" x="555" y="160" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="700" fill="#111">置換原理</text>
+
+  <rect class="pill" x="552" y="184" width="96" height="40" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
+  <text class="f h3 ink mono" x="564" y="210" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="700" fill="#111">π = π±Z₀</text>
+
+  <line class="ruleLite" x1="552" y1="244" x2="648" y2="244"/>
+
+  <text class="f xs muted" x="552" y="260" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="700" fill="#111">πは否定しない</text>
+  <text class="f xs muted" x="552" y="288" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="700" fill="#111">ただし単独</text>
+  <text class="f xs muted" x="562" y="308" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="700" fill="#111">では使わない</text>
+  <text class="f xs muted" x="552" y="421" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="700" fill="#111">Z₀は、</text>
+  <text class="f xs muted" x="552" y="440" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="700" fill="#111">補正ではない。</text>
+  <text class="f xs muted" x="552" y="459" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="700" fill="#111">誤差ではない。</text>
+  <text class="f xs muted" x="548" y="482" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="700" fill="#111">“見ないことで</text>
+  <text class="f xs muted" x="556" y="502" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="700" fill="#111">成立してきた”</text>
+  <text class="f xs muted" x="572" y="522" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="700" fill="#111">｢構文値｣</text>
+
+  <!-- arrows -->
+  <line class="rule" x1="540" y1="368" x2="520" y2="368" marker-end="url(#arrow)"/>
+  <line class="rule" x1="660" y1="368" x2="680" y2="368" marker-end="url(#arrow)"/>
+  <text class="f xs muted" x="570" y="346" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="16" font-weight="700" fill="#111">closure</text>
+  <text class="f xs muted" x="590" y="368" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="700" fill="#111">↓</text>
+  <text class="f xs muted" x="550" y="386" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="16" font-weight="700" fill="#111">co-presence</text>
+        
+  <!-- Bottom declaration -->
+  <rect class="box" x="40" y="560" width="1120" height="170" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
+  <text class="f h2 ink" x="64" y="598" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="22" font-weight="700" fill="#111">Z₀ 宣言（v2.0 用・図版要約）</text>
+  <text class="f p ink" x="64" y="626">• π構文は、単独では用いない。</text>
+  <text class="f p ink" x="64" y="650">• π構文を用いる場合、必ず Z₀ を含める。</text>
+  <text class="f p ink" x="64" y="674">• Z₀ を欠いた閉じた表現は採用しない。</text>
+
+  <line class="ruleLite" x1="64" y1="690" x2="1136" y2="690"/>
+
+  <text class="f p muted" x="64" y="714">これは数学の制限ではなく、生成を止めないための構文的・倫理的選択である。</text>
+
+  <!-- Footer -->
+  <text class="f xs muted" x="40" y="752" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="700" fill="#111">π→Z₀ Replacement Map (Declaration Figure) | white background | svg v1.0</text>
+</svg>
