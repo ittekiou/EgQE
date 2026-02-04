@@ -6,7 +6,7 @@ title: Z₀ 宣言 v2.0｜spin-off
 
 ## with Z₀
 
-> たとえば君がいるだけで 心が強くなれること
+> たとえば君がいるだけで 心が強くなれること  
 > 何より大切なものを 気付かせてくれたね
 > [https://utaten.com/lyric/ja00002191/](https://utaten.com/lyric/ja00002191/)  
 <p align="center">　　　── 安心π</p>
@@ -84,7 +84,7 @@ renormalization でも、cutoff でも、例外でもない。
 **[もはや仮面をかぶらない。](https://ezsy.super.site/key-concepts-of-echogenesis/%e6%80%aa%e5%82%91z)**
 
 ### π ± Z₀
-**[余韻が残る物語** ──同席したい Z₀ と不安な π の物語](https://ezsy.super.site/key-concepts-of-echogenesis/-z)
+[**余韻が残る物語** ──同席したい Z₀ と不安な π の物語](https://ezsy.super.site/key-concepts-of-echogenesis/-z)
 
 ---
 [Z₀ 宣言 v2.0](https://camp-us.net/Z₀-Declaration_v2.0.html)  
