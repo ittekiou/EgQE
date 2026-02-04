@@ -18,9 +18,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/02/04  
 [Z₀ 宣言 v2.0](https://camp-us.net/Z₀-Declaration_v2.0.html)  
-[Z。宣言（V2.0）図版](https://camp-us.net/assets/Replacement-Map.svg)  
 [🏴‍☠️ The Z₀ Declaration v2.0｜Z₀ 宣言（本則）](https://camp-us.net/Z₀-Declaration_v2.0.html)  
 [🏴‍☠️ Z₀ 宣言 v2.0｜spin-off](https://camp-us.net/articles/Z₀-Declaration_v2.0_spin-off.html)  
+[Z。宣言（V2.0）図版](https://camp-us.net/assets/Replacement-Map.svg)  
 ###### 2026/02/03  
 📃PDF [Entanglement as Non-Closure of Local Explanations: A Reinterpretation of Bell via Lag Syntax](https://camp-us.net/articles/Bells-Theorem.pdf)  
 📃PDF [What Is Observed Is Not a State: Entanglement as Lag-Structured Non-Closure](https://camp-us.net/articles/entanglement.pdf)  
