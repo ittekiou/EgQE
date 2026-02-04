@@ -665,45 +665,7 @@ We distinguish three levels that are often conflated:
 
 No-signaling is a statement about **trace-level observables**, not about the update level.
 
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
-  <style>
-    .box { fill: #ffffff; stroke: #000000; stroke-width: 2; }
-    .label { font-family: serif; font-size: 16px; fill: #000000; }
-    .small { font-size: 13px; fill: #000000; }
-    .arrow { stroke: #000000; stroke-width: 2; marker-end: url(#arrowhead); }
-  </style>
-
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#000000"/>
-    </marker>
-  </defs>
-
-  <!-- UPDATE -->
-  <rect x="160" y="30" width="320" height="80" class="box"/>
-  <text x="320" y="65" text-anchor="middle" class="label">UPDATE</text>
-  <text x="320" y="90" text-anchor="middle" class="small">
-    Global update / indivisible event
-  </text>
-
-  <!-- TRACE -->
-  <rect x="160" y="170" width="320" height="90" class="box"/>
-  <text x="320" y="205" text-anchor="middle" class="label">TRACE</text>
-  <text x="320" y="230" text-anchor="middle" class="small">
-    Localized outcomes after update
-  </text>
-
-  <!-- INFERENCE -->
-  <rect x="160" y="310" width="320" height="80" class="box"/>
-  <text x="320" y="345" text-anchor="middle" class="label">INFERENCE</text>
-  <text x="320" y="370" text-anchor="middle" class="small">
-    Reconstruction, collapse, causality
-  </text>
-
-  <!-- Arrows -->
-  <line x1="320" y1="110" x2="320" y2="170" class="arrow"/>
-  <line x1="320" y1="260" x2="320" y2="310" class="arrow"/>
-</svg>
+![Three-Descriptive-Layers](../assets/Three-Descriptive-Layers.png)  
 
 > **Figure E.1｜Three Descriptive Layers: Update, Trace, and Inference**  
 > Physical reconfiguration occurs at the update level and is not directly observable.  
