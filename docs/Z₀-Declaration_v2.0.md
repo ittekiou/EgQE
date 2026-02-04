@@ -127,7 +127,7 @@ It is a **syntactic and ethical choice** made to prevent the premature closure o
 
 ---
 
-👉 Full Version [Z₀ 宣言 v2.0](https://camp-us.net/Z₀-Declaration_v2.0.html)  
+👉 Full Version [Z₀ 宣言 v2.0](https://camp-us.net/Z₀-Declaration_v2.0_full.html)  
 [🏴‍☠️ Z₀ 宣言 v2.0｜spin-off](https://camp-us.net/articles/Z₀-Declaration_v2.0_spin-off.html)  
 
 ---

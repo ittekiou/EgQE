@@ -17,7 +17,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/02/04  
-[Z₀ 宣言 v2.0](https://camp-us.net/Z₀-Declaration_v2.0.html)  
+[Z₀ 宣言 v2.0](https://camp-us.net/Z₀-Declaration_v2.0_full.html)  
 [🏴‍☠️ The Z₀ Declaration v2.0｜Z₀ 宣言（本則）](https://camp-us.net/Z₀-Declaration_v2.0.html)  
 [🏴‍☠️ Z₀ 宣言 v2.0｜spin-off](https://camp-us.net/articles/Z₀-Declaration_v2.0_spin-off.html)  
 [Z。宣言（V2.0）図版](https://camp-us.net/assets/Replacement-Map.svg)  

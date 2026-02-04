@@ -87,7 +87,7 @@ renormalization でも、cutoff でも、例外でもない。
 [**余韻が残る物語** ──同席したい Z₀ と不安な π の物語](https://ezsy.super.site/key-concepts-of-echogenesis/-z)
 
 ---
-[Z₀ 宣言 v2.0](https://camp-us.net/Z₀-Declaration_v2.0.html)  
+[Z₀ 宣言 v2.0](https://camp-us.net/Z₀-Declaration_v2.0_full.html)  
 [🏴‍☠️ The Z₀ Declaration v2.0｜Z₀ 宣言（本則）](https://camp-us.net/Z₀-Declaration_v2.0.html)  
 
 ![Replacement-Map](../assets/Replacement-Map.png)  
