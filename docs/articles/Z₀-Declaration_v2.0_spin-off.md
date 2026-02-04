@@ -39,7 +39,7 @@ title: Z₀ 宣言 v2.0｜spin-off
 
 ---
 
-# 怪傑Z₀
+## 怪傑Z₀
 [**もはや仮面をかぶらない。**](https://ezsy.super.site/key-concepts-of-echogenesis/%e6%80%aa%e5%82%91z)  
 
 **正体を現したあとの行動原理（宣言編）**
