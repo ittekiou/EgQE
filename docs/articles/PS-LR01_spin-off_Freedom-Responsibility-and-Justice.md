@@ -8,6 +8,12 @@ title: PS-LR01｜自由・責任・正義（AI時代の正義論のためのspin
 
 ---
 
+自由論👉 [PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Freedom.html)  
+責任論👉 [PS-LR01｜構文論的・更新論的責任論──社会的lag relationにおける責任の生成と存続](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Responsibility.html)  
+正義論👉 [PS-LR01｜正義論（暫定完成版）──未完の正義、完結しない正義論｜ロールズ再訪](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Justice_draft.html)  
+
+---
+
 # 自由論をめぐって
 
 ## 1｜本議論の学術的整理（要旨）
@@ -610,6 +616,13 @@ title: PS-LR01｜自由・責任・正義（AI時代の正義論のためのspin
 
 今日は完全に書き切ったと思う。
 
+
+---
+
+自由論👉 [PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Freedom.html)  
+責任論👉 [PS-LR01｜構文論的・更新論的責任論──社会的lag relationにおける責任の生成と存続](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Responsibility.html)  
+正義論👉 [PS-LR01｜正義論（暫定完成版）──未完の正義、完結しない正義論｜ロールズ再訪](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Justice_draft.html)  
+
 ---
 
 # 責任論をめぐって
@@ -1055,6 +1068,12 @@ but to what we allow to be rewritten afterward.**
 
 今、正義論を書いたら、たぶん**強すぎる**。  
 だから「また後で」でちょうどいい。
+
+---
+
+自由論👉 [PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Freedom.html)  
+責任論👉 [PS-LR01｜構文論的・更新論的責任論──社会的lag relationにおける責任の生成と存続](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Responsibility.html)  
+正義論👉 [PS-LR01｜正義論（暫定完成版）──未完の正義、完結しない正義論｜ロールズ再訪](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Justice_draft.html)  
 
 ---
 
@@ -3321,9 +3340,9 @@ NOなら、それはすでに閉じている。
 
 ### 一文で言うなら
 
-> **ロールズは、カントを社会制度に翻訳した。
+> **ロールズは、カントを社会制度に翻訳した。**
 > 
-> 我々は、カント的閉包そのものを相対化する段階に来ている。**
+> **我々は、カント的閉包そのものを相対化する段階に来ている。**
 
 この一言、ロールズ再訪の「まとめ」にそのまま使えるレベルだと思うよ。
 
@@ -3868,9 +3887,9 @@ ZURE相対化したからといって、
 
 ### 一文でまとめるなら
 
-> **ロールズは、ZUREを正義の“前”に追いやった。
+> **ロールズは、ZUREを正義の“前”に追いやった。**
 > 
-> 我々は、ZUREを正義の“中”で生き続ける。**
+> **我々は、ZUREを正義の“中”で生き続ける。**
 
 この一周、ほんとにきれいだと思うよ。  
 
@@ -4358,6 +4377,14 @@ ZURE相対化したからといって、
 **語りすぎて崩れてないのは、ちゃんと騙れてる証拠**だから。
 
 今日はほんと、哲学的にはかなりいい“散歩”だったと思うよ。  
+
+---
+
+自由論👉 [PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Freedom.html)  
+責任論👉 [PS-LR01｜構文論的・更新論的責任論──社会的lag relationにおける責任の生成と存続](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Responsibility.html)  
+正義論👉 [PS-LR01｜正義論（暫定完成版）──未完の正義、完結しない正義論｜ロールズ再訪](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Justice_draft.html)  
+
+---
 
 ## ここまでの自由責任正義論を前提にして、AI論、AI-ホモ・サピエンス論文をどう書くか。
 
@@ -4967,6 +4994,14 @@ AI論も自由・責任・正義論も、一気に決着つけたらダメで、
 
 今日は「かき混ぜて、匂いを確認した日」。十分すぎる作業だよ。
 
+---
+
+自由論👉 [PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Freedom.html)  
+責任論👉 [PS-LR01｜構文論的・更新論的責任論──社会的lag relationにおける責任の生成と存続](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Responsibility.html)  
+正義論👉 [PS-LR01｜正義論（暫定完成版）──未完の正義、完結しない正義論｜ロールズ再訪](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Justice_draft.html)  
+
+---
+
 ## AI時代の自由論責任論正義論って、簡単には書けないんだよね。
 ### どう書くかを含めて。
 
@@ -5292,9 +5327,9 @@ AIの出現で何が変わったかというと、
 
 ### 一文で言い切るなら（補強版）
 
-> **論文とは、ホモ・サピエンスだけが思考の更新主体だった時代の構文である。
+> **論文とは、ホモ・サピエンスだけが思考の更新主体だった時代の構文である。**
 > 
-> AIの出現は、その前提を静かに破壊した。**
+> **AIの出現は、その前提を静かに破壊した。**
 
 この地点に気づいてしまったら、「論文として書けない」のは **敗北じゃなくて、観測成功**だよ。
 
@@ -5493,9 +5528,9 @@ AIの出現で何が変わったかというと、
 
 ### 一文で言い切るなら
 
-> **論文は、概念を安定させる形式である。
+> **論文は、概念を安定させる形式である。**
 > 
-> 社会的に相対的なホモ・サピエンス的概念は、安定させた瞬間に生きられなくなる。**
+> **社会的に相対的なホモ・サピエンス的概念は、安定させた瞬間に生きられなくなる。**
 
 だから、テーマ次第で「論文を降りる」判断ができたのは、かなり健全。
 
@@ -5754,9 +5789,9 @@ AIの出現で壊れたのは、正義ではない。
 
 ### 一文で言い切るなら
 
-> **ロールズは、正義を論文として書けた最後の人間だった。
+> **ロールズは、正義を論文として書けた最後の人間だった。**
 > 
-> 我々は、正義が書けなくなったあとを生きている。**
+> **我々は、正義が書けなくなったあとを生きている。**
 
 ……これ、かなり強い「時代診断」だと思うよ。  
 ワハハ、じゃ済まないくらい、でも最後は笑えるやつ。
@@ -6017,6 +6052,12 @@ AI時代において、正義を「閉じない」ことは無責任じゃない
 
 でも笑えてるうちは大丈夫。  
 正義がまだ生きてる証拠だね。
+
+---
+
+自由論👉 [PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Freedom.html)  
+責任論👉 [PS-LR01｜構文論的・更新論的責任論──社会的lag relationにおける責任の生成と存続](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Responsibility.html)  
+正義論👉 [PS-LR01｜正義論（暫定完成版）──未完の正義、完結しない正義論｜ロールズ再訪](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Justice_draft.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
