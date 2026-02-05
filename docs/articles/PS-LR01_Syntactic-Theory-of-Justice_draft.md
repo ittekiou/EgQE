@@ -193,7 +193,7 @@ title: PS-LR01｜正義論（暫定完成版）──未完の正義、完結し
 
 ---
 
-👉 自由論：[PS-LR01｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/.html)  
+👉 自由論：[PS-LR01｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Freedom.html)  
 👉 責任論：[PS-LR01｜構文論的・更新論的責任論──社会的lag relationにおける責任の生成と存続](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Responsibility.html)  
 
 ---
@@ -656,7 +656,7 @@ title: PS-LR01｜正義論（暫定完成版）──未完の正義、完結し
 ---
 
 > **ロールズは、正義を論文として書けた最後の人間だった。  
-> 我々は、正義が書けなくなったあとを生きている。
+> 我々は、正義が書けなくなったあとを生きている。**
 
 > **AIは、自由・責任・正義が生きられていた構文条件の前提を決定的に変えてしまう。**
 
@@ -1172,7 +1172,7 @@ For justice to survive,
 
 [PS-LR01｜自由・責任・正義（AI時代の正義論のためのspin-off）──社会的 lag relations：更新する構文としてのFRJ](https://camp-us.net/articles/PS-LR01_spin-off_Freedom-Responsibility-and-Justice.html)  
 
-[PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/.html)  
+[PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Freedom.html)  
 [PS-LR01｜構文論的・更新論的責任論──社会的lag relationにおける責任の生成と存続](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Responsibility.html)  
 
 ---

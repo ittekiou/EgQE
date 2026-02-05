@@ -460,7 +460,7 @@ title: PS-LR01｜自由・責任・正義（AI時代の正義論のためのspin
 
 ### ここまでをミニマル学術論文にしよう。
 
-👉 [PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/.html)  
+👉 [PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Freedom.html)  
 
 ---
 
@@ -556,7 +556,7 @@ title: PS-LR01｜自由・責任・正義（AI時代の正義論のためのspin
 これは**理論の背骨を一段だけ露出させる章**だね。  
 では、ミニマル学術文体で「補論」としてまとめる。
 
-👉 [PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/.html)  
+👉 [PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Freedom.html)  
 
 ---
 
