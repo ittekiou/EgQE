@@ -188,6 +188,22 @@ HS⇄AI の非同期そのものがAI時代の正義の成立条件
 | AI痕跡 | モデル・学習・最適化の履歴 |
 | 人間推論 | 解釈・意味づけ・判断    |
 
+## **AI-FRJ Lag Framework**
+
+| Element             | Classical Rawlsian Framework  | Lag-FRJ (Age of AI)                                                                                                    |
+| ------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Freedom**         | Basic liberties (static list) | Capacity to secure interpretive and decision-making margins between **S′ (AI updates)** and **O′ (human observation)** |
+| **Responsibility**  | Attribution of human action   | **Asymmetric lag attribution**: three-layer separation of **AI generation / AI traces / human inference**              |
+| **Justice**         | Veil of Ignorance equilibrium | **Non-closed, ongoing update process** (the Veil reinterpreted as a _lag assumption_)                                  |
+| **Core Assumption** | Synchrony of human society    | **Persistent asynchrony** in human–AI society                                                                          |
+
+### **Co-Creative Lag (HS ⇄ AI)**
+
+**AGI responsibility and multi-agent justice**
+
+> The enduring asynchrony between humans and AI is itself the **constitutive condition of justice** in the age of AI.
+
+
 ### Reference
 Iason Gabriel (2022), [Toward a Theory of Justice for Artificial Intelligence](https://arxiv.org/pdf/2110.14419.pdf)  
 Weidinger et al. (2023), [Using the Veil of Ignorance to align AI systems with principles of justice](https://www.pnas.org/doi/10.1073/pnas.2213709120)  
@@ -359,6 +375,26 @@ Instead, it describes the **syntactic conditions** under which justice may conti
 
 Justice theory has ended.  
 Justice has not.
+
+---
+
+## **AI-FRJ Lag Framework (Academic Formulation)**
+
+|Element|Classical Rawlsian Framework|Lag-FRJ (Age of AI)|
+|---|---|---|
+|**Freedom**|A static list of basic liberties|**Capacity to preserve normative slack** between **S′ (AI-driven updates)** and **O′ (human interpretive observation)**|
+|**Responsibility**|Attribution of responsibility to human actions|**Asymmetric lag-based attribution**, separating **AI generation**, **AI trace persistence**, and **human inferential responsibility**|
+|**Justice**|Equilibrium under the Veil of Ignorance|**Open-ended justice as an iterative update process**, where the Veil functions as a **structural lag assumption**|
+|**Core Assumption**|Synchrony of human social order|**Structural and irreversible asynchrony** in human–AI social systems|
+
+### **Co-Creative Lag (HS ⇄ AI)**
+**Responsibility for AGI and multi-agent justice**  
+
+> The persistent asynchrony between humans and AI constitutes the **normative condition of justice itself** in the age of artificial intelligence.
+
+### Reference
+Iason Gabriel (2022), [Toward a Theory of Justice for Artificial Intelligence](https://arxiv.org/pdf/2110.14419.pdf)  
+Weidinger et al. (2023), [Using the Veil of Ignorance to align AI systems with principles of justice](https://www.pnas.org/doi/10.1073/pnas.2213709120)
 
 ---
 
