@@ -17,6 +17,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/02/05  
+[AI-FRJ-00｜AI時代のFRJ ──HS⇄AIの社会的lag構文としての自由・責任・正義｜Freedom, Responsibility, and Justice in the Age of AI — Lag Syntax for Human–AI Coexistence](https://camp-us.net/articles/AI-FRJ-00_Freedom-Responsibility-and-Justice_AI-Age.html)  
 [PS-LR01｜自由・責任・正義（AI時代の正義論のためのspin-off）──社会的 lag relations：更新する構文としてのFRJ](https://camp-us.net/articles/PS-LR01_spin-off_Freedom-Responsibility-and-Justice.html)  
 [PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Freedom.html)  
 [PS-LR01｜構文論的・更新論的責任論──社会的lag relationにおける責任の生成と存続](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Responsibility.html)  
