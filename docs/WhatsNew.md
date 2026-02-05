@@ -16,6 +16,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/02/05  
+[PS-LR01｜自由・責任・正義（AI時代の正義論のためのspin-off）──社会的 lag relations：更新する構文としてのFRJ](https://camp-us.net/articles/PS-LR01_spin-off_Freedom-Responsibility-and-Justice.html)  
+[PS-LR01｜A Syntactic and Update-Oriented Theory of Freedom: Freedom as Survival in Social Lag Relations｜構文論的・更新論的自由論──社会的lag relationを生き延びるための自由概念](https://camp-us.net/articles/.html)  
+[PS-LR01｜構文論的・更新論的責任論──社会的lag relationにおける責任の生成と存続](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Responsibility.html)  
+[PS-LR01｜正義論（暫定完成版）──未完の正義、完結しない正義論｜ロールズ再訪](https://camp-us.net/articles/PS-LR01_Syntactic-Theory-of-Justice_draft.html)  
 ###### 2026/02/04  
 [Z₀ 宣言 v2.0](https://camp-us.net/Z₀-Declaration_v2.0_full.html)  
 [🏴‍☠️ The Z₀ Declaration v2.0｜Z₀ 宣言（本則）](https://camp-us.net/Z₀-Declaration_v2.0.html)  
