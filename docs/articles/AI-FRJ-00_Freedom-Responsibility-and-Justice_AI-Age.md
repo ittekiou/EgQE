@@ -70,7 +70,7 @@ AIは、この前提を破壊した。
 
 ここで生じるのは、単なる情報格差ではない。
 
-> **社会的lag relation ――更新と理解が永続的に同期しない状態**
+> **社会的lag relation  ──更新と理解が永続的に同期しない状態**
 
 である。
 
@@ -178,6 +178,7 @@ _“正義が書けなくなった時代の、最初の正義論”として_
 | **Responsibility**  | 人間行為帰属      | lag帰属非対称（AI生成/AI痕跡/人間推論）の三層分離 |
 | **Justice**         | VoI均衡       | 非閉包更新プロセス（ヴェール=lag仮定）         |
 | **Core Assumption** | 人間社会の同期     | **人間–AI社会の永続非同期**             |
+
 「共創lag（HS⇄AI）」AGI責任/多主体正義
 HS⇄AI の非同期そのものがAI時代の正義の成立条件
 
@@ -187,7 +188,7 @@ HS⇄AI の非同期そのものがAI時代の正義の成立条件
 | AI痕跡 | モデル・学習・最適化の履歴 |
 | 人間推論 | 解釈・意味づけ・判断    |
 
-#### Reference
+### Reference
 Iason Gabriel (2022), [Toward a Theory of Justice for Artificial Intelligence](https://arxiv.org/pdf/2110.14419.pdf)  
 Weidinger et al. (2023), [Using the Veil of Ignorance to align AI systems with principles of justice](https://www.pnas.org/doi/10.1073/pnas.2213709120)  
 
