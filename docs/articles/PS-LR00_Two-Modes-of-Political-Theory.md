@@ -507,7 +507,7 @@ But only an immanent theory of political update can explain why political realit
 - **痕跡可視性（trace-visibility）**：部分的投影関数— 一部更新が隠蔽される理由（Perelmanの停滞修辞）。
     
 
-更新 → Lag(τ) → Trace(σ) （σ=選択的構文）
+$更新 → Lag(τ) → Trace(σ)$ （σ=選択的構文）
 
 政治は即座に見えるものではない。  
 更新は先行し、痕跡は遅れて現れる。
