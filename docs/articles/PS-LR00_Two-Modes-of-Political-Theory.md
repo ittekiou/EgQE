@@ -180,6 +180,7 @@ Political change is neither instantaneous nor fully traceable.
 It unfolds through lag-structured updates whose traces become visible only under specific conditions.
 
 ![Update-Lag-Trace-Inference](../assets/Update-Lag-Trace-Inference.png)  
+Update–Lag–Trace implies that generative processes are never fully locatable prior to trace accumulation.
 
 ---
 
@@ -616,6 +617,8 @@ $更新 → Lag(τ) → Trace(σ)$ （σ=選択的構文）
 </text>
 </svg>
 
+The following section does not introduce a new hypothesis, but formalizes why generative politics, by its structural nature, cannot be directly described.
+
 ---
 
 # Appendix
@@ -626,6 +629,8 @@ $更新 → Lag(τ) → Trace(σ)$ （σ=選択的構文）
 
 Generative Politics（生成的政治学）は、その対象の性質上、**直接的に記述されることができない**。  
 これは理論的未成熟や記述技法の不足によるものではなく、**政治的生成そのものが「痕跡化以前の更新過程」に属している**という構造的理由による。
+
+The impossibility of direct generative description is not an epistemic deficit but a structural property of political updating.
 
 本稿で示してきた _Update–Lag–Trace–Inference_ の枠組みにおいて、観測可能なのは常に **Trace（痕跡）** であり、**Update（生成的更新）そのものではない**。政治的生成とは、制度・言説・決定・権力配置といった可視的アーティファクトが成立する**前段階の、関係的・非同期的・非閉包的更新過程**である。  
 それは、観測点に到達する前に **lag（遅延）** を経て部分的にしか痕跡化されない。
