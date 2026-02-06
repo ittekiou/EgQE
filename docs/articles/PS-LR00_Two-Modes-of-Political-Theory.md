@@ -1,6 +1,6 @@
 ---
 layout: math
-title: PS-LR00｜二つの政治学：生成的政治学（Generative Politics）とトレース政治学（Trace-Politics）――政治的更新の内在理論へ
+title: PS-LR00｜二つの政治学：生成的政治学（Generative Politics）とトレース政治学（Trace-Politics）──政治的更新の内在理論へ
 title_en: "PS-LR00｜Two Modes of Political Theory ── Generative Politics and Trace-Politics: Toward an Immanent Theory of Political Update"
 ---
 # Two Modes of Political Theory
@@ -232,7 +232,7 @@ But only an immanent theory of political update can explain why political realit
 
 # 二つの政治学・最短定義
 
-## ――更新・遅延・痕跡から政治を捉え直す
+## ──更新・遅延・痕跡から政治を捉え直す
 
 ### 図1｜更新―遅延―痕跡（Update–Lag–Trace）
 
@@ -335,7 +335,7 @@ But only an immanent theory of political update can explain why political realit
 
 ## 生成的政治学（Generative Politics）とトレース政治学（Trace-Politics）
 
-### ――政治的更新の内在理論へ
+### ──政治的更新の内在理論へ
 
 ---
 

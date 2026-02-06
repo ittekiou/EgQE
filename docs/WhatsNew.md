@@ -17,7 +17,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/02/06  
-[PS-LR00｜二つの政治学：生成的政治学とトレース政治学――政治的更新の内在理論へ｜Two Modes of Political Theory ── Generative Politics and Trace-Politics: Toward an Immanent Theory of Political Update](https://camp-us.net/articles/PS-LR00_Two-Modes-of-Political-Theory.html)  
+[PS-LR00｜二つの政治学：生成的政治学とトレース政治学──政治的更新の内在理論へ｜Two Modes of Political Theory ── Generative Politics and Trace-Politics: Toward an Immanent Theory of Political Update](https://camp-us.net/articles/PS-LR00_Two-Modes-of-Political-Theory.html)  
 ###### 2026/02/05  
 [AI-FRJ-00｜AI時代のFRJ ──HS⇄AIの社会的lag構文としての自由・責任・正義｜Freedom, Responsibility, and Justice in the Age of AI — Lag Syntax for Human–AI Coexistence](https://camp-us.net/articles/AI-FRJ-00_Freedom-Responsibility-and-Justice_AI-Age.html)  
 [PS-LR01｜自由・責任・正義（AI時代の正義論のためのspin-off）──社会的 lag relations：更新する構文としてのFRJ](https://camp-us.net/articles/PS-LR01_spin-off_Freedom-Responsibility-and-Justice.html)  
