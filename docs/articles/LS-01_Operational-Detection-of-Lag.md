@@ -598,12 +598,14 @@ $$
 対流が抑制され、準静的掃引が成立する二相 NESS において、配置反転 $g_{\mathrm{eff}}=0$ 近傍では次が成り立つ：
 
 1. **前兆としての residual lag**  
+    
     $$  
     \boxed{\text{sign}(\delta\theta)\ \text{tracks}\ \text{sign}(g_{\mathrm{eff}})\ \text{up to a metastable window.}}  
     $$  
     すなわち、反転に先立ち $\|\delta\theta\|$ が増大し、$\delta\theta$ の符号が反転側へ向かうことは、配置転移の前兆指標となる。
     
 2. **lag-window の存在と役割**  
+    
     $$  
     \boxed{\Delta\lambda>0\ \Longleftrightarrow\ \text{coexistence of two metastable configurations under the same control}}  
     $$  
@@ -611,6 +613,7 @@ $$
     
 3. **実験的判定規則（操作的）**  
     反転帯内では、配置（上下）そのものよりも  
+    
     $$  
     \boxed{\delta\theta\ \text{and its drift under quasi-static sweep}}  
     $$  
@@ -828,16 +831,19 @@ $\delta\theta$ は平衡からの誤差ではない。
 対流が抑制され、準静的掃引が成立する二相 NESS において、次が成り立つ：
 
 1. **符号対応**  
+    
     $$  
     \boxed{\text{sign}(\delta\theta)=\text{sign}(g_{\mathrm{eff}})\quad \text{outside the metastable window.}}  
     $$
     
 2. **単調性（前兆）**  
+    
     $$  
     \boxed{|\delta\theta|\ \text{increases monotonically as}\ g_{\mathrm{eff}}\ \text{approaches }0.}  
     $$
     
 3. **反転後の緩和**  
+    
     $$  
     \boxed{ \text{after configuration inversion,}\ \delta\theta \to 0\ \text{under steady driving.}}  
     $$
@@ -1004,6 +1010,7 @@ $$
 1. **符号対応**：反転帯外で $\text{sign}(\delta\theta)=\text{sign}(g_{\mathrm{eff}})$。
     
 2. **比例仮説（弱）**：  
+    
     $$  
     \Delta\lambda \sim \sup_{\lambda\in \text{window}}|\delta\theta|  
     $$  
@@ -1030,6 +1037,7 @@ $$
 $$  
 \boxed{\ \delta\theta\ \text{を測れば、}\ \Delta\lambda\ \text{が読める}\ }  
 $$  
+
 本ノートは、lag を**測れる量**として実験に引き渡す。
 
 ---
