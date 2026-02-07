@@ -1014,6 +1014,7 @@ $$
     $$  
     \Delta\lambda \sim \sup_{\lambda\in \text{window}}|\delta\theta|  
     $$  
+    
     （比例係数は系依存、符号と次数は普遍。）
     
 3. **消失条件**：$\delta\theta\equiv 0$ なら lag-window は消失。
