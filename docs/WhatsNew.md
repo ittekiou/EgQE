@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/02/07  
+[遅延構文論（Lag Syntax）｜ミニマル定義](https://camp-us.net/LS.html)  
 ###### 2026/02/06  
 [PS-LR00｜二つの政治学：生成的政治学とトレース政治学──政治的更新の内在理論へ｜Two Modes of Political Theory ── Generative Politics and Trace-Politics: Toward an Immanent Theory of Political Update](https://camp-us.net/articles/PS-LR00_Two-Modes-of-Political-Theory.html)  
 ###### 2026/02/05  
