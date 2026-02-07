@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/02/08  
+[LP-01｜政治的意味空間論 2.0 ── lag-head / lag-window による日本政治の構文分析：なぜ日本では政権交代が起きにくいのか](https://camp-us.net/articles/LP-01_Beyond-Regime-Change.html)  
 ###### 2026/02/07  
 [遅延構文論（Lag Syntax）｜ミニマル定義](https://camp-us.net/LS.html)  
 [LS-01｜Lag as a Fundamental Quantity— Configurational Selection beyond Energy and Force in Nonequilibrium Steady States｜lag を基本量とする物理 ── 非平衡定常状態における配置選択の構文理論](https://camp-us.net/articles/LS-01_Lag-as-Fundamental-Quantity.html)  
