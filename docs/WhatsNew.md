@@ -18,6 +18,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/02/07  
 [遅延構文論（Lag Syntax）｜ミニマル定義](https://camp-us.net/LS.html)  
+[LS-01｜Lag as a Fundamental Quantity— Configurational Selection beyond Energy and Force in Nonequilibrium Steady States｜lag を基本量とする物理 ── 非平衡定常状態における配置選択の構文理論](https://camp-us.net/articles/LS-01_Lag-as-Fundamental-Quantity.html)  
+[LS-01｜Operational Detection of Lag in Nonequilibrium Phase Configurations](https://camp-us.net/articles/LS-01_Operational-Detection-of-Lag.html)  
+[LS-01｜Operational Detection of Lag in Nonequilibrium Phase Configurations｜Cover Letter｜Figure｜Q&A](https://camp-us.net/articles/LS-01_Operational-Detection-of-Lag_CL-QA.html)  
 ###### 2026/02/06  
 [PS-LR00｜二つの政治学：生成的政治学とトレース政治学──政治的更新の内在理論へ｜Two Modes of Political Theory ── Generative Politics and Trace-Politics: Toward an Immanent Theory of Political Update](https://camp-us.net/articles/PS-LR00_Two-Modes-of-Political-Theory.html)  
 ###### 2026/02/05  
