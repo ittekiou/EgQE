@@ -3,6 +3,8 @@ title: 遅延構文論（Lag Syntax）｜ミニマル定義
 ---
 # 遅延構文論（Lag Syntax）｜ミニマル定義
 
+> Lag Syntax is the theory that treats asynchronous relations not as defects but as the generative condition of syntax.
+
 **遅延構文論**とは、同期不可能性を欠陥ではなく、生成の条件として扱う構文理論である。
 
 世界は即時には更新されない。  
