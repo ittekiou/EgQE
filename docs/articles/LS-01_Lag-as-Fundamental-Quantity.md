@@ -572,7 +572,7 @@ $$
 $$
 
 _Proof._  
-二つの停留解における配置変分値の差は $\Delta \mathcal{F} = 2\mathcal{H}_{\mathrm{tot}}\Psi$ に比例し、$\Psi>0$ のもとで符号は $\mathcal{H}_{\mathrm{tot}}$ に一致する。∎
+二つの停留解における配置変分値の差は $\Delta \mathcal{F} = 2\mathcal{H}_{\mathrm{tot}}\Psi$ に比例し、 $\Psi>0$ のもとで符号は $\mathcal{H}_{\mathrm{tot}}$ に一致する。∎
 
 ---
 
