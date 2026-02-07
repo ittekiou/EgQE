@@ -602,6 +602,7 @@ $$
     $$  
     \boxed{\text{sign}(\delta\theta)\ \text{tracks}\ \text{sign}(g_{\mathrm{eff}})\ \text{up to a metastable window.}}  
     $$  
+    
     すなわち、反転に先立ち $\|\delta\theta\|$ が増大し、$\delta\theta$ の符号が反転側へ向かうことは、配置転移の前兆指標となる。
     
 2. **lag-window の存在と役割**  
@@ -609,6 +610,7 @@ $$
     $$  
     \boxed{\Delta\lambda>0\ \Longleftrightarrow\ \text{coexistence of two metastable configurations under the same control}}  
     $$  
+    
     $\Delta\lambda$ が有限である限り、$g_{\mathrm{eff}}=0$ は一点の転移線ではなく、準安定存続を許す幅をもつ「反転帯」として観測される。
     
 3. **実験的判定規則（操作的）**  
@@ -617,6 +619,7 @@ $$
     $$  
     \boxed{\delta\theta\ \text{and its drift under quasi-static sweep}}  
     $$  
+    
     がよりロバストに測定され、反転の方向（どちらへ落ちるか）を予告する。
     
 
