@@ -605,7 +605,8 @@ _Proof._
 
 $$
 \mathcal{H}_{\mathrm{tot}}=\sum_{i,\alpha}\mathcal{H}_{i,\alpha}
-$$   
+$$  
+
 の符号構造によって選択される。
 
 ---
