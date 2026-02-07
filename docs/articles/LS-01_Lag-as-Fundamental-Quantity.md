@@ -601,7 +601,12 @@ _Proof._
 ## 系（Corollaries）
 
 **Corollary 1（Generalization to multicomponent systems）**  
-多相・多成分系においても、安定配置は $\mathcal{H}_{\mathrm{tot}}=\sum_{i,\alpha}\mathcal{H}_{i,\alpha}$ の符号構造によって選択される。
+多相・多成分系においても、安定配置は  
+
+$$
+\mathcal{H}_{\mathrm{tot}}=\sum_{i,\alpha}\mathcal{H}_{i,\alpha}
+$$   
+の符号構造によって選択される。
 
 ---
 
