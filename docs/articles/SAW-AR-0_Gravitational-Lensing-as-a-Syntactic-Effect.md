@@ -71,7 +71,18 @@ Inference bends when lag is closed as geometry.
 
 ---
 
-## Appendix｜Relation to General-Relativistic Observables
+# Appendix
+
+### Correspondence between GR Observables and Lag-Projection Syntax
+
+| GR Observable      | Standard Interpretation (GR)            | Lag-Projection Interpretation                           |
+| ------------------ | --------------------------------------- | ------------------------------------------------------- |
+| Deflection angle   | Curvature of spacetime                  | Angular misalignment from lag-projected trace placement |
+| Shapiro time delay | Slowing of light in gravitational field | Update–observation lag accumulated along inference path |
+| Magnification      | Focusing by gravitational potential     | Density of trace overlap under lag circulation          |
+| Multiple images    | Multiple geodesics in curved spacetime  | Discrete inference branches from non-closed lag loops   |
+
+## Relation to General-Relativistic Observables
 
 ### _(Angles, Magnification, and Time Delay as Trace Redistribution)_
 
@@ -162,7 +173,9 @@ By encoding asynchronous update relations into a smooth geometric structure, GR 
 
 ## Footnote｜Relation to No-Signaling
 
-_No-signaling corresponds to limited local trace accessibility under global updates; the present framework preserves no-signaling by construction, as lag redistribution affects inference but does not introduce transmissible channels._
+_No-signaling corresponds to limited local trace accessibility under global updates; the present framework preserves no-signaling by construction, as lag redistribution affects inference but does not introduce transmissible channels._  
+
+*Note:* This reinterpretation remains compatible with no-signaling principles, as lag-projection redistributes inference across observational layers without introducing any locally controllable superluminal channels.
 
 ---
 
