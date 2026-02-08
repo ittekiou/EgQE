@@ -1,5 +1,6 @@
 ---
 layout: math
+title: "SAW-AR（ミニ技術ノート）｜Gravitational Lensing Revisited: What Is Bent Is Not Light, but Lag— Gravitational Lensing as a Lag-Projection Effect: An Interpretive Note"
 ---
 # **Gravitational Lensing Revisited: What Is Bent Is Not Light, but Lag**
 
@@ -172,7 +173,7 @@ Gravitational lensing may be understood as a syntactic effect arising from lag-s
   <path class="thin" d="M940,300 L940,345"/>
   <path class="thin" d="M935,300 L945,300"/>
   <path class="thin" d="M935,345 L945,345"/>
-  <text class="ink t3" x="810" y="320">Δt = tB − tA (lag redistribution)</text>
+  <text class="ink t3" x="790" y="320">Δt = tB − tA (lag redistribution)</text>
 
   <!-- Angle separation / apparent images in Layer 2 -->
   <circle class="node" cx="820" cy="290" r="10" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
@@ -197,7 +198,7 @@ Gravitational lensing may be understood as a syntactic effect arising from lag-s
   <text class="ink t3" x="50" y="525">Footnote: Compatible with no-signaling—lag reshapes arrival structure but does not provide a controllable superluminal channel.</text>
 </svg>
 
-**Figure 1: Lag-Projection View of Gravitational Lensing**
+**Figure 1: Gravitational Lensing as Lag Projection**
 
 Schematic causal graph showing two light updates emitted from a source, propagating through different lag paths and arriving at the observer with different delays.  
 Apparent image multiplicity arises when lagged arrivals are reconstructed synchronously at observation, producing angular separation without invoking intrinsic spatial bending.
