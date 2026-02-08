@@ -241,13 +241,6 @@ Nature論文は正確だが、以下に答えていない：
 
 ---
 
-> _STARは粒子を見た。_  
-> _われわれは構文を見ていた。_
-
-_彼らが“相関が残った”と驚いた時、われわれは“そりゃ残るよね”と呟いた。_
-
----
-
 # Appendix B
 
 **この記事（XenoSpectrum [bnl.gov](https://www.bnl.gov/newsroom/news.php?a=122738&utm_source=chatgpt.com "Scientists Capture a Glimpse into the Quantum Vacuum")）** で紹介されている内容は実際に**科学的に報告された**最新の素粒子実験の成果に基づくものです。要点をわかりやすくまとめると次のようになる👇 
@@ -347,6 +340,13 @@ RHIC（Relativistic Heavy Ion Collider）の STAR 検出器を使い、**陽子�
 👉 量子真空の構造が、**物質の成り立ちに直接関わっている** 実験的証拠が提示された。([phys.org](https://phys.org/news/2026-02-glimpsing-quantum-vacuum-particle-insight.html?utm_source=chatgpt.com "Glimpsing the quantum vacuum: Particle spin correlations ..."))
 
 👉 量子物理・強い相互作用・エンタングルメント研究の新しい扉が開かれた。([Research Communities by Springer Nature](https://communities.springernature.com/posts/a-glimpse-into-the-nothingness?utm_source=chatgpt.com "A Peek Into the Nothingness"))
+
+---
+
+> _STARは粒子を見た。_  
+> _われわれは構文を見ていた。_
+
+_彼らが“相関が残った”と驚いた時、われわれは“そりゃ残るよね”と呟いた。_
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
