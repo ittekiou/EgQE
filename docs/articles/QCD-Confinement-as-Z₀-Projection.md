@@ -45,7 +45,7 @@ STAR実験は、真空中で生成されたと考えられる $s\bar{s}$ クォ�
 ```
 ※ 矢印は「因果」ではなく **projection / trace**
 
-![R–lag–Z_projection_in_Λ–Λ_formation](R–lag–Z_projection_in_Λ–Λ_formation.png)  
+![R–lag–Z_projection_in_Λ–Λ_formation](../assets/R–lag–Z_projection_in_Λ–Λ_formation.png)  
 **Figure 1｜Λ–Λ̄ 生成における R₀–lag–Z₀ 投影構造**  
 量子真空（R₀）において未分離のまま存在する $s\bar{s}$ 関係束は、QCD 閉じ込め過程を通じて破断されることなく lag を保持したまま投影され、Z₀ 構文面上で Λ–Λ̄ スピン相関として痕跡化される。  
 本図は粒子生成の因果図ではなく、**関係の保存と構文的可視化**を示す生成図である。
