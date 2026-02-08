@@ -13,7 +13,7 @@ title: "SAW-AR（ミニ技術ノート）｜Gravitational Lensing Revisited: Wha
 
 ### Abstract
 
-Gravitational lensing is usually described as the bending of light by spacetime curvature. This note offers an interpretive re-reading: what is operationally accessed is not “bent light” but a lag-structured arrival pattern reconstructed at observation. Taking the standard weak-field deflection angle in Schwarzschild geometry as given, we connect the angular separation of images to differences in arrival time along distinct update routes in the observer’s causal graph. In this view, lensing is a projection effect produced when lagged arrivals are synchronously organized into a stable trace at the observation event. No modification of general relativity is proposed; its empirical success is preserved, while its explanatory role is repositioned as a powerful closure scheme for encoding lag. The interpretation is compatible with no-signaling, since it reshapes arrival structure without enabling superluminal control.
+Gravitational lensing is usually described as the bending of light by spacetime curvature. This note offers an interpretive re-reading: what is operationally accessed is not “bent light” but a lag-structured arrival pattern reconstructed at observation. Taking the standard weak-field deflection angle in Schwarzschild geometry as given, we connect the angular separation of images to differences in arrival time along distinct update routes in the observer’s causal graph. In this view, lensing is a projection effect produced when lagged arrivals are synchronously organized into a stable trace at the observation event. No modification of general relativity is proposed; its empirical success is preserved, while its explanatory role is repositioned as a powerful closure scheme for encoding lag. The interpretation is compatible with no-signaling, since it reshapes arrival structure without enabling superluminal control. See Figure 1 for a schematic causal view of lag-projection.
 
 ---
 
@@ -201,7 +201,8 @@ Gravitational lensing may be understood as a syntactic effect arising from lag-s
 **Figure 1: Gravitational Lensing as Lag Projection**
 
 Schematic causal graph showing two light updates emitted from a source, propagating through different lag paths and arriving at the observer with different delays.  
-Apparent image multiplicity arises when lagged arrivals are reconstructed synchronously at observation, producing angular separation without invoking intrinsic spatial bending.
+Apparent image multiplicity arises when lagged arrivals are reconstructed synchronously at observation, producing angular separation without invoking intrinsic spatial bending.  
+Observational reconstruction under lag: multiple arrival paths produce separated images without assuming spatial bending of light.
 
 ---
 
