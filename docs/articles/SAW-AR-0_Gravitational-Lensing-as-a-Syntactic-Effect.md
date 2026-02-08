@@ -167,7 +167,7 @@ This reinterpretation preserves all standard gravitational lensing observables a
 ## One-Paragraph Note｜Why General Relativity Works So Well
 
 General relativity works remarkably well because it provides an exceptionally powerful **closure mechanism**.  
-By encoding asynchronous update relations into a smooth geometric structure, GR converts distributed lag effects into globally consistent predictions. This geometric closure suppresses residual update gaps and yields stable, computable observables, even when the underlying processes are non-synchronous. In this sense, the empirical success of GR reflects not the literal curvature of spacetime as a physical substance, but the effectiveness of geometric closure as an inferential syntax for organizing lag-structured traces. GR succeeds precisely because it closes what would otherwise remain open.
+By encoding asynchronous update relations into a smooth geometric structure, GR converts distributed **asynchronous lag effects** into globally consistent predictions. This geometric closure suppresses residual update gaps and yields stable, computable observables, even when the underlying processes are non-synchronous. In this sense, the empirical success of GR reflects not the literal curvature of spacetime as a physical substance, but the effectiveness of geometric closure as an inferential syntax for organizing lag-structured traces. GR succeeds precisely because it closes what would otherwise remain open.
 
 ---
 
