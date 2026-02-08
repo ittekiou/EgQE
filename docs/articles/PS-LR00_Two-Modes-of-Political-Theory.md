@@ -14,6 +14,7 @@ title_en: "PS-LR00｜Two Modes of Political Theory ── Generative Politics an
 Political theory has long oscillated between two incommensurable orientations: explaining political generation versus reconstructing its traces. This paper disambiguates them as **Generative Politics**—an immanent theory of political update—and **Trace-Politics**—analysis of closed artifacts—resolving conflation-induced stasis. Most existing political theories operate within one of these modes without explicitly recognizing the distinction.
 
 While both traditions have yielded substantial insights, neither adequately theorizes the **unit of political update**, the **lag structure of change**, or the **conditions of trace accessibility** through which political transformation actually occurs.  
+Generative Politics, as proposed here, is distinguished by its focus on update granularity, lag, and trace accessibility as primary political operators, rather than as retrospective descriptions.  
 We argue that a genuinely immanent political theory must shift its focus from political outcomes or historical artifacts to the **syntax of political updating itself**.
 
 ---
