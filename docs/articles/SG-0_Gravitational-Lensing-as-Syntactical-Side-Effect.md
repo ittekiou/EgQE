@@ -43,8 +43,9 @@ In a universe where no object is a perfect sphere and no process is perfectly cl
 
 ---
 
-[SAW-AR｜Gravitational Lensing as a Syntactic Effect (Light Bending as Lag Projection)｜GR to SO lag](https://camp-us.net/articles/SAW-AR-0_Gravitational-Lensing-as-a-Syntactic-Effect.html)  
 [SAW-AR｜Appendix X｜Light Bending as Lag Projection｜遅延投影としての光の屈曲](https://camp-us.net/articles/SAW-AR-0_Light-Bending-as-Lag-Projection.html)  
+[SAW-AR｜Gravitational Lensing as a Syntactic Effect (Light Bending as Lag Projection)｜GR to SO lag](https://camp-us.net/articles/SAW-AR-0_Gravitational-Lensing-as-a-Syntactic-Effect.html)  
+[SAW-AR（ミニ技術ノート）｜Gravitational Lensing Revisited: What Is Bent Is Not Light, but Lag— Gravitational Lensing as a Lag-Projection Effect: An Interpretive Note](https://camp-us.net/articles/SAW-AR-0_Gravitational-Lensing-Revisited.html)  
 
 ---
 
