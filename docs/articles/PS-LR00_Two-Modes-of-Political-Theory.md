@@ -7,6 +7,8 @@ title_en: "PS-LR00｜Two Modes of Political Theory ── Generative Politics an
 ## Generative Politics and Trace-Politics
 ### Toward an Immanent Theory of Political Update
 
+> Politics is not what is generated, but **where updates occur, how lag accumulates, and which traces remain accessible**.
+
 ---
 
 ## Abstract
