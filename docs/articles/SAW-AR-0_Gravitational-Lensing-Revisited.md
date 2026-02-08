@@ -173,7 +173,7 @@ Gravitational lensing may be understood as a syntactic effect arising from lag-s
   <path class="thin" d="M940,300 L940,345"/>
   <path class="thin" d="M935,300 L945,300"/>
   <path class="thin" d="M935,345 L945,345"/>
-  <text class="ink t3" x="770" y="320">Δt = tB − tA (lag redistribution)</text>
+  <text class="ink t3" x="765" y="320">Δt = tB − tA (lag redistribution)</text>
 
   <!-- Angle separation / apparent images in Layer 2 -->
   <circle class="node" cx="820" cy="290" r="10" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
