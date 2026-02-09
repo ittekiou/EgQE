@@ -16,6 +16,10 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/02/09  
+[LP-01｜Political Meaning Space (PMS) 2.0 and the 2026 General Election— Lag, Update, and Directional Synchronization in Contemporary Democracy｜政治的意味空間（PMS）2.0 と2026総選挙 ── lag・更新・向きの同調としての現代民主制](https://camp-us.net/articles/LP-01_2026-General-Election_PMS2.0.html)  
+[LP-00｜政治的意味空間論のバージョンアップへ向けて ── lag 構文による再起動のための短論](https://camp-us.net/articles/LP-00_Towards-update_PMS2.0_Political-Meaning-Space.html)  
+[LP-00｜政治的意味空間（Political Meaning Space, PMS）2.0とはなにか ── lag 構文による再定義](https://camp-us.net/articles/LP-00_What-is-PMS2.0_Political-Meaning-Space.html)  
 ###### 2026/02/08  
 [LP-01｜政治的意味空間論 2.0 ── lag-head / lag-window による日本政治の構文分析：なぜ日本では政権交代が起きにくいのか](https://camp-us.net/articles/LP-01_Beyond-Regime-Change.html)  
 [SAW-AR｜Appendix X｜Light Bending as Lag Projection｜遅延投影としての光の屈曲](https://camp-us.net/articles/SAW-AR-0_Light-Bending-as-Lag-Projection.html)  

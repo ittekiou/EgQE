@@ -722,6 +722,13 @@ lag-window は、「どの意味が正しいか」を決める装置ではない
 > 日本では「政権交代を経ない改革」の方がずっと洗練され、すでに成功体験を持っている
 
 ---
+
+[LP-01｜Political Meaning Space (PMS) 2.0 and the 2026 General Election— Lag, Update, and Directional Synchronization in Contemporary Democracy｜政治的意味空間（PMS）2.0 と2026総選挙 ── lag・更新・向きの同調としての現代民主制](https://camp-us.net/articles/LP-01_2026-General-Election_PMS2.0.html)  
+
+[LP-00｜政治的意味空間論のバージョンアップへ向けて ── lag 構文による再起動のための短論](https://camp-us.net/articles/LP-00_Towards-update_PMS2.0_Political-Meaning-Space.html)  
+[LP-00｜政治的意味空間（Political Meaning Space, PMS）2.0とはなにか ── lag 構文による再定義](https://camp-us.net/articles/LP-00_What-is-PMS2.0_Political-Meaning-Space.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
