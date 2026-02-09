@@ -65,6 +65,10 @@ AIとホモ・サピエンスが一緒に “ **読む/ 創る/ 関係する**�
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+0️⃣ [零点とはなにか ── lag 均衡点としての 0 ± ΔZ₀](https://camp-us.net/0%C2%B1%CE%94Z%E2%82%80_Definition.html)　リリース　2026.2.9  
+📜 [Declaration: Quantum Vacuum as R₀](https://camp-us.net/articles/Declaration_Quantum-Vacuum-as-R%E2%82%80.html)　リリース　2026.2.8  
+Δ [遅延構文論（Lag Syntax）｜ミニマル定義](https://camp-us.net/LS.html)　リリース　2026.2.7  
+🏴‍☠️ [The Z₀ Declaration v2.0｜Z₀ 宣言（本則）](https://camp-us.net/Z%E2%82%80-Declaration_v2.0.html)　リリース　2026.2.4  
 ⚡️ [S′⇆O′ lag 構文── その進化史と現在地](https://camp-us.net/SOS.html)　リリース　2026.2.1  
 🧰 [SAW-00｜物理宇宙のための必須構文 Kit（minimal Kit-8）](https://camp-us.net/articles/SAW-00_Non-Closure-Syntax-Kit_LarNCS.html)　リリース　2026.2.1  
 🪐 [SAW-00｜floc cosmology 憲章（v0.2）: A Lag-Relational Non-Closure Syntax](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.2.html)　リリース　2026.2.1  
