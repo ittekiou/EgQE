@@ -32,6 +32,7 @@ $Z₀$ は、π構文によって生み出される **構文的生成の最小�
 
 📜 [Declaration: Quantum Vacuum as R₀](https://camp-us.net/articles/Declaration_Quantum-Vacuum-as-R%E2%82%80.html)
 
+
 ---
 
 > 構文は連続性（π）によって世界を閉じようとする。しかし、閉じきれなかった痕跡として $Z₀$ が残り、その背後には、常に $R₀$ という未構文的生成場が横たわっている。
@@ -41,19 +42,26 @@ $Z₀$ は、π構文によって生み出される **構文的生成の最小�
 ⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R%E2%82%80-Z%E2%82%80.html)  
 [GS-00｜EgQE索引｜二重黄金構文｜The Double Golden Syntax](https://camp-us.net/GS-00_Double-Golden-Syntax_JP.html)  
 [R₀ ⇄ Z₀ 進化史（完全版）｜Genesis of ZURE and R₀/Z₀ Duality](https://camp-us.net/articles/HEG-6_R_0-Z_0_Revolution.html)  
+[構文の縁：R₀⇆Z₀ Syntaxによる「カオスの縁」の再定義 ──π構文残差としてのΔZ₀ = 10⁻¹⁶](https://camp-us.net/articles/What-Is-Edge-of-Chaos_JP.html)  
 
 # 関係 $φ$と黄金生成
 
+[lag 構文の最小コア ── α と φ は定数ではない](https://camp-us.net/lag_SOφRZ.html)  
 [【Definition】φ（Phi）の三相構造 — Geometric / Algebraic / Relational φ](https://camp-us.net/articles/Zure-Offset_Phi-Definition.html)  
 🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
 
 # $Z₀$ 進化史
 
+[Z₀ 宣言 v2.0](https://camp-us.net/Z%E2%82%80-Declaration_v2.0_full.html)  
+[🏴‍☠️ Z₀ 宣言 v2.0｜spin-off](https://camp-us.net/articles/Z%E2%82%80-Declaration_v2.0_spin-off.html)  
+[Z。宣言（V2.0）図版](https://camp-us.net/assets/Replacement-Map.svg)  
 [Z₀宣言 ── π構文で閉じないという選択｜The Z₀ Declaration — On π-Syntax and the Choice Not to Close —](https://camp-us.net/Z%E2%82%80-Declaration.html)  
-⭐️ [ZURE Offset（Z₀定義）Ver.1.1｜構文化プランク定数としての Z₀](https://camp-us.net/articles/Zure-Offset_ver1.1.html)  
 [ZURE Offset（Z₀定義）Ver.2.0｜π構文残差＝構文値としての Z₀](https://camp-us.net/Z%E2%82%80-Definition.html)  
+⭐️ [ZURE Offset（Z₀定義）Ver.1.1｜構文化プランク定数としての Z₀](https://camp-us.net/articles/Zure-Offset_ver1.1.html)  
 0️⃣ [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)  
+[ZS-010_Z₀ 構文の極限と floc 宇宙の境界標識 — Radiation GRMHD 論文を読む —](https://camp-us.net/critics/ZS-010_Radiation-GRMHD.html)
 
 # $R₀$ 進化史
 
+😶‍🌫️ [HEG-6｜R₀の発見──脳と記号と余白の宇宙【図版】](https://camp-us.net/articles/HEG-6_Discovery_of_R0.html)
 
