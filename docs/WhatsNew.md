@@ -27,7 +27,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SG-0｜Gravitational Lensing as a Syntactical Side Effect](https://camp-us.net/articles/SG-0_Gravitational-Lensing-as-Syntactical-Side-Effect.html)  
 [SAW-AR（ミニ技術ノート）｜Gravitational Lensing Revisited: What Is Bent Is Not Light, but Lag— Gravitational Lensing as a Lag-Projection Effect: An Interpretive Note](https://camp-us.net/articles/SAW-AR-0_Gravitational-Lensing-Revisited.html)  
 [SG series｜Syntactical Glasses](https://camp-us.net/articles/SG-0_Syntactical-Glasses.html)  
-[Declaration: Quantum Vacuum as R₀](https://camp-us.net/articles/Declaration_Quantum-Vacuum-as-R₀.html)  
+📜 [Declaration: Quantum Vacuum as R₀](https://camp-us.net/articles/Declaration_Quantum-Vacuum-as-R₀.html)  
 [QCD閉じ込め過程における関係保存の実験的検証：Lag構文による再解釈｜QCD Confinement as Z₀-Projection](https://camp-us.net/articles/QCD-Confinement-as-Z₀-Projection.html)  
 ###### 2026/02/07  
 [遅延構文論（Lag Syntax）｜ミニマル定義](https://camp-us.net/LS.html)  
