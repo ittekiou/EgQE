@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [LP-00｜政治的意味空間論のバージョンアップへ向けて ── lag 構文による再起動のための短論](https://camp-us.net/articles/LP-00_Towards-update_PMS2.0_Political-Meaning-Space.html)  
 [LP-00｜政治的意味空間（Political Meaning Space, PMS）2.0とはなにか ── lag 構文による再定義](https://camp-us.net/articles/LP-00_What-is-PMS2.0_Political-Meaning-Space.html)  
 0️⃣ [零点とはなにか ── lag 均衡点としての 0 ± ΔZ₀](https://camp-us.net/0±ΔZ₀_Definition.html)  
+[ZURE Offset（Z₀定義）Ver.2.1｜πの有限桁性](https://camp-us.net/Z₀-Definition_2.1.html)  
 ###### 2026/02/08  
 [LP-01｜政治的意味空間論 2.0 ── lag-head / lag-window による日本政治の構文分析：なぜ日本では政権交代が起きにくいのか](https://camp-us.net/articles/LP-01_Beyond-Regime-Change.html)  
 [SAW-AR｜Appendix X｜Light Bending as Lag Projection｜遅延投影としての光の屈曲](https://camp-us.net/articles/SAW-AR-0_Light-Bending-as-Lag-Projection.html)  

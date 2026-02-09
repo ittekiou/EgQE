@@ -1,3 +1,6 @@
+---
+title: 零点とはなにか ── lag 均衡点としての 0 ± ΔZ₀
+---
 # 零点とはなにか
 
 ### ── lag 均衡点としての 0 ± ΔZ₀
@@ -30,7 +33,7 @@
 
 ---
 
-👉 [ZURE Offset（Z₀定義）Ver.2.0｜π構文残差＝構文値としての Z₀](https://camp-us.net/Z%E2%82%80-Definition.html)  
+👉 [ZURE Offset（Z₀定義）Ver.2.1｜πの有限桁性](https://camp-us.net/Z₀-Definition_2.1.html)  
 [🏴‍☠️ The Z₀ Declaration v2.0｜Z₀ 宣言（本則）](https://camp-us.net/Z%E2%82%80-Declaration_v2.0.html)  
 
 ---
