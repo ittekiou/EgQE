@@ -75,11 +75,6 @@ AIとホモ・サピエンスが一緒に “ **読む/ 創る/ 関係する**�
 ⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)　リリース　2026.1.17  
 🪐 [SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)　リリース　2026.1.14  
 🌉 [GS-00｜Golden Solution Axiom── 生成と痕跡を統一する最小構文原理](https://camp-us.net/GS-00_Golden-Solution-Axiom.html)　リリース　2026.1.12  
-🐚 [The Golden Solution: Golden Angle, Traced as Golden Ratio｜CC0 / Public Domain](https://camp-us.net/GoldenSolution.html)　リリース　2026.1.7  
-🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)　リリース　2026.1.4  
-📃 [ZURE場理論憲章｜ZURE-Field Theory Charter](https://camp-us.net/ZURE-Field-Theory-Charter.html)　リリース　2026.1.2  
-🀄️ [πは宇宙を遠ざける ──粒も波も糸も宇宙を語らない｜π Pushes the Universe Away — Neither Particles, nor Waves, nor Strings Speak of the Universe](https://camp-us.net/Echodemy/π-Pushes-the-Universe-Away.html)　リリース　2025.12.30  
-🕸️ [HEG-7｜Plane–Edge Transition Theory (PIPET) ― 不完全近似更新としての平面‐空間生成過程 ―統合版v.1.1](https://camp-us.net/articles/HEG-7_PIPET.html)　リリース　2025.12.30  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
