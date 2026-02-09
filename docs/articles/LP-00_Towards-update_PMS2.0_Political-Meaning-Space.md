@@ -127,11 +127,6 @@ lag-window とは、
 
 ---
 
-[LP-01｜政治的意味空間論 2.0 ── lag-head / lag-window による日本政治の構文分析：なぜ日本では政権交代が起きにくいのか](https://camp-us.net/articles/LP-01_Beyond-Regime-Change.html)  
-[LP-01｜Political Meaning Space (PMS) 2.0 and the 2026 General Election— Lag, Update, and Directional Synchronization in Contemporary Democracy｜政治的意味空間（PMS）2.0 と2026総選挙 ── lag・更新・向きの同調としての現代民主制](https://camp-us.net/articles/LP-01_2026-General-Election_PMS2.0.html)  
-
----
-
 ## 付論｜総選挙という lag-head の事例
 
 > **評価しない。解釈しない。責任追及しない。  
@@ -174,6 +169,11 @@ lag-head による配置選択は、集団が非同期的脅威に晒された�
 
 > この選挙は、何が選ばれたかを示すものではない。  
 > **どの向きが、いつ、どの条件で立ったか**を示す事例である。
+
+---
+
+[LP-01｜政治的意味空間論 2.0 ── lag-head / lag-window による日本政治の構文分析：なぜ日本では政権交代が起きにくいのか](https://camp-us.net/articles/LP-01_Beyond-Regime-Change.html)  
+[LP-01｜Political Meaning Space (PMS) 2.0 and the 2026 General Election— Lag, Update, and Directional Synchronization in Contemporary Democracy｜政治的意味空間（PMS）2.0 と2026総選挙 ── lag・更新・向きの同調としての現代民主制](https://camp-us.net/articles/LP-01_2026-General-Election_PMS2.0.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
