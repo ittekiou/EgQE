@@ -182,8 +182,8 @@ floc cosmology は、対象・法則・観測主体から出発するのでは�
 ### **両者を結ぶ黄金橋**🌉
 
 # 三層構文
-## Phase Syntax（R₀ ⇆ Z₀）
-## Relation Syntax（S′ ⇄ O′）
+## [Phase Syntax（R₀ ⇆ Z₀）](https://camp-us.net/RZ.html) 
+## [Relation Syntax（S′ ⇄ O′）](https://camp-us.net/SOS.html) 
 ## Implementation Syntax（HS ⇄ AI）
 
 > これら三つの構文レイヤーは分離可能ではない。  
@@ -191,11 +191,9 @@ floc cosmology は、対象・法則・観測主体から出発するのでは�
 > この統合を維持する条件が、 **Golden Solution（Z₀ / α / lag）** である。  
 > 👉 [GS-00｜EgQE索引｜二重黄金構文｜The Double Golden Syntax](https://camp-us.net/GS-00_Double-Golden-Syntax_JP.html)  
 
-# **Multi-Angular Symbiosis Studies（MASS）**
-## **Polygonal Neon Genesis Studies（PiNG）**  
-## **Syntactic Phase Transition Theory** (SPT) 構文位相遷移論  
-
-👉 [MASS｜多角共生学｜Multi-Angular Symbiosis Studies](https://camp-us.net/MASS.html)  
+## [**Multi-Angular Symbiosis Studies（MASS）**](https://camp-us.net/MASS.html) 
+### **Polygonal Neon Genesis Studies**（PiNG）
+### **Syntactic Phase Transition Theory** (SPT)  構文位相遷移論  
 
 ---
 

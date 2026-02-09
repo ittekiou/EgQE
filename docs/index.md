@@ -90,14 +90,17 @@ _図版と詩評による、構文の観測記録。_
 _EgQE われわれの心臓部の日々の拍動 ──更新情報。_  
 
 ---
-
 ## floc Cosmology ：[floc宇宙論](http://camp-us.net/floc-Cosmology)  
-### 🌉 [MASS｜多角共生学｜Multi-Angular Symbiosis Studies](https://camp-us.net/MASS.html)    
 
 ![floc-cosmology-v2](./assets/floc-cosmology-v2.png)  
 
----
+##### 三層構文
+### [Phase Syntax（R₀ ⇆ Z₀）](https://camp-us.net/RZ.html)
+### [Relation Syntax（S′ ⇄ O′）](https://camp-us.net/SOS.html)
+### Implementation Syntax（HS ⇄ AI）
+#### 🌉 [MASS｜多角共生学｜Multi-Angular Symbiosis Studies](https://camp-us.net/MASS.html)    
 
+---
 ## 🧬 Double Golden Syntax
 
 EgQE（Echo-Genesis Qualia Engine）は、生成・構文・知性がどのように交差し、痕跡として読める形をとるのかを探究するための実験的アーカイブである。  

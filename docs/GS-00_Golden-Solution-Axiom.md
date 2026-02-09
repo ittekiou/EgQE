@@ -156,7 +156,7 @@ _そしてそれは、われわれの中心テーゼである。_
 
 - [S/O Syntax](https://camp-us.net/SOS.html)  
     
-- [Z₀ / R₀ 構文](https://camp-us.net/R₀-Z₀.html)  
+- [Z₀ / R₀ 構文](https://camp-us.net/RZ.html)  
     
 - [floc 宇宙論](http://camp-us.net/floc-Cosmology.html)  
     
