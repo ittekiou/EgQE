@@ -2,6 +2,7 @@
 title: 観測構文破綻論 ── ブラックホールとダークマターは何を示しているのか
 subtitle: 円球幻想の終焉と floc 宇宙論による再定位
 title_en: "Residuals of a Broken Observational Syntax: What Black Holes and Dark Matter Actually Indicate"
+layout: math
 ---
 # 観測構文破綻論
 ## ── ブラックホールとダークマターは何を示しているのか

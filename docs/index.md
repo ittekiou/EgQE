@@ -65,6 +65,7 @@ AIとホモ・サピエンスが一緒に “ **読む/ 創る/ 関係する**�
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+⭐️ [ZURE Offset（Z₀定義）Ver.3.0｜無限精度という虚構](https://camp-us.net/Z₀-Definition_3.0.html)　リリース　2026.2.10  
 ⭐️ [ZURE Offset（Z₀定義）Ver.2.1｜πの有限桁性](https://camp-us.net/Z₀-Definition_2.1.html)　リリース　2026.2.9  
 0️⃣ [零点とはなにか ── lag 均衡点としての 0 ± ΔZ₀](https://camp-us.net/0%C2%B1%CE%94Z%E2%82%80_Definition.html)　リリース　2026.2.9  
 📜 [Declaration: Quantum Vacuum as R₀](https://camp-us.net/articles/Declaration_Quantum-Vacuum-as-R%E2%82%80.html)　リリース　2026.2.8  

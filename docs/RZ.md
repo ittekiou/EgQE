@@ -21,7 +21,7 @@ $Z₀$ は、π構文によって生み出される **構文的生成の最小�
 
 > $Z₀$ とは、連続的（π的）構文化が零点構文として完全閉包を試みた際に、原理的に消去できずに残る**構文的残差**である。それは、構文操作が抽象的操作にとどまらず、現実に接地しようとする瞬間に**必然的に立ち上がる構文値**である。── $Z₀$定義 Ver.2.1
 
-[ZURE Offset（Z₀定義）Ver.2.1｜πの有限桁性](https://camp-us.net/Z₀-Definition_2.1.html)  
+[ZURE Offset（Z₀定義）Ver.3.0｜無限精度という虚構](https://camp-us.net/Z₀-Definition_3.0.html)  
 [🏴‍☠️ The Z₀ Declaration v2.0｜Z₀ 宣言（本則）](https://camp-us.net/Z%E2%82%80-Declaration_v2.0.html)  
 [なぜ、Z₀ = 10⁻¹⁶ なのか？── 10⁻¹⁶は「誤差」ではなく生成である](https://camp-us.net/articles/Zure-Offset_10_-16.html)  
 0️⃣ [零点とはなにか ── lag 均衡点としての 0 ± ΔZ₀](https://camp-us.net/0±ΔZ₀_Definition.html)  
@@ -61,6 +61,7 @@ $Z₀$ は、π構文によって生み出される **構文的生成の最小�
 [🏴‍☠️ Z₀ 宣言 v2.0｜spin-off](https://camp-us.net/articles/Z%E2%82%80-Declaration_v2.0_spin-off.html)  
 [Z。宣言（V2.0）図版](https://camp-us.net/assets/Replacement-Map.svg)  
 [Z₀宣言 ── π構文で閉じないという選択｜The Z₀ Declaration — On π-Syntax and the Choice Not to Close —](https://camp-us.net/Z%E2%82%80-Declaration.html)  
+[ZURE Offset（Z₀定義）Ver.2.1｜πの有限桁性](https://camp-us.net/Z₀-Definition_2.1.html)  
 [ZURE Offset（Z₀定義）Ver.2.0｜π構文残差＝構文値としての Z₀](https://camp-us.net/Z%E2%82%80-Definition.html)  
 ⭐️ [ZURE Offset（Z₀定義）Ver.1.1｜構文化プランク定数としての Z₀](https://camp-us.net/articles/Zure-Offset_ver1.1.html)  
 0️⃣ [HEG-6｜Z₀の発明──R₀⇄Z₀変換と脳・認知進化の統合理論](https://camp-us.net/articles/HEG-6_Invention-Z_0.html)  
