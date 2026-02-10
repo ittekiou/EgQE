@@ -69,6 +69,32 @@ AI革命とは Inter-Phase な気温上昇である
 ドラフト優先順位（おすすめ順）  
 Appendix
 
+### II. Living Inter-Phase｜生の実装
+
+[AIP-01｜存在論から構文論へ：lagへの作法と関係更新の Osborne── ハイデガー投企論の遅延更新](https://camp-us.net/articles/AIP-01_Heidegger’s-Entwurf_to_Osborne-lag.html)  
+ハイデガー投企論と遅延の構造  
+関係更新の Osborne  
+lagへの作法という新しい問題圏  
+存在論から構文論へ  
+SNSとは何だったのか── 関係更新の即時化装置  
+構文的存在における関係更新の様式の変容  
+時代宣言｜face to face から interface を経てAge of Inter-Phase へ  
+構文論的転回の射程と実践  
+
+### 📌 続編（予定 / 未定）
+
+- **AIP-01 の後継：「Inter-Phase Persistence と lag relations の倫理政治」**  
+    ＝ 未更新をどう倫理化するか
+    
+- **AIP-02：「HS ⇆ AI における Inter-Phase の構造と実装」**  
+    ＝ AIが示す関係不完結の“作法的意義”の記述
+    
+- **AIP-03：「Inter-Phase と社会制度：更新速度 vs. 更新作法」**  
+    ＝ 社会制度とインターフェースの構文的解析
+    
+- **AIP-04：「Inter-Phase の生成論：lag relations の物語化と詠的構文」**  
+    ＝ 詩・物語・日常との接合
+
 ---
 
 ### II. Living Inter-Phase｜生の実装
