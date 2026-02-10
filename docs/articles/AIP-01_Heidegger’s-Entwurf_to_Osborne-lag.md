@@ -1,5 +1,6 @@
 ---
 title: AIP-01｜存在論から構文論へ：lagへの作法と関係更新の Osborne── ハイデガー投企論の遅延更新
+layout: math
 ---
 # **存在論から構文論へ：lagへの作法と関係更新の Osborne**
 
