@@ -81,6 +81,10 @@ _$Z₀$ is not an error term but the unavoidable trace left when ideal syntax is
 _$Z₀$は、構文が実装を引き受けたという事実そのものの痕跡である_
 
 ---
+
+⚡️ [R₀⇆Z₀構文 ──その進化史と現在地](https://camp-us.net/RZ.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

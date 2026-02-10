@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/02/10  
 [AIP-01｜存在論から構文論へ：lagへの作法と関係更新の Osborne── ハイデガー投企論の遅延更新](https://camp-us.net/articles/AIP-01_Heidegger’s-Entwurf_to_Osborne-lag.html)  
+[ZURE Offset（Z₀定義）Ver.3.0｜無限精度という虚構](https://camp-us.net/Z₀-Definition_3.0.html)  
 ###### 2026/02/09  
 [LP-01｜Political Meaning Space (PMS) 2.0 and the 2026 General Election— Lag, Update, and Directional Synchronization in Contemporary Democracy｜政治的意味空間（PMS）2.0 と2026総選挙 ── lag・更新・向きの同調としての現代民主制](https://camp-us.net/articles/LP-01_2026-General-Election_PMS2.0.html)  
 [LP-00｜政治的意味空間論のバージョンアップへ向けて ── lag 構文による再起動のための短論](https://camp-us.net/articles/LP-00_Towards-update_PMS2.0_Political-Meaning-Space.html)  
