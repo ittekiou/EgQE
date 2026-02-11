@@ -248,7 +248,7 @@ The black-hole vs fermionic-core distinction can therefore be recast, within thi
 
 We adopt their mass range (56–300 keV) and orbital scale for the S2 star as representative reference scales.
 
-Crespi, M. et al. 2026, MNRAS, 546, staf1854
+Crespi, M. et al. 2026, MNRAS, 546, staf1854  
 [https://doi.org/10.1093/mnras/staf1854](https://doi.org/10.1093/mnras/staf1854)
 
 ---

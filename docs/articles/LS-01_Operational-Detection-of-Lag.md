@@ -1046,48 +1046,7 @@ $$
 
 ---
 
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
-  <style>
-    text { font-family: Helvetica, Arial, sans-serif; font-size: 12px; }
-    .title { font-size: 14px; font-weight: bold; }
-    .box { fill: none; stroke: #000; stroke-width: 1.2; }
-    .dash { stroke-dasharray: 4 3; }
-    .red { stroke: #c00; fill: none; stroke-width: 1.5; }
-  </style>
-
-  <!-- Panel labels -->
-  <text x="10" y="20" class="title">(a)</text>
-  <text x="310" y="20" class="title">(b)</text>
-  <text x="610" y="20" class="title">(c)</text>
-
-  <!-- (a) Experimental setup -->
-  <rect x="40" y="40" width="180" height="220" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
-  <line x1="40" y1="120" x2="220" y2="120" stroke="#000"/>
-  <text x="80" y="117">interface</text>
-  <circle cx="130" cy="100" r="4" fill="#000"/>
-  <circle cx="130" cy="135" r="4" fill="#000"/>
-  <text x="145" y="100">T⁺</text>
-  <text x="145" y="138">T⁻</text>
-  <text x="90" y="255">L</text>
-
-  <!-- (b) delta theta -->
-  <line x1="340" y1="260" x2="340" y2="40" stroke="#000"/>
-  <line x1="340" y1="260" x2="520" y2="260" stroke="#000"/>
-  <line x1="360" y1="60" x2="500" y2="200" stroke="#000"/>
-  <line x1="360" y1="140" x2="500" y2="140" class="dash"/>
-  <line x1="430" y1="140" x2="430" y2="200" stroke="red" stroke-width="1.5"/>
-  <text x="440" y="175" fill="#c00">δθ</text>
-  <text x="490" y="145">Tc(p)</text>
-
-  <!-- (c) lag-window -->
-  <line x1="640" y1="260" x2="860" y2="260" stroke="#000"/>
-  <line x1="680" y1="80" x2="820" y2="160" stroke="#000"/>
-  <line x1="680" y1="160" x2="820" y2="80" stroke="#000"/>
-  <line x1="740" y1="80" x2="740" y2="160" class="dash"/>
-  <line x1="780" y1="80" x2="780" y2="160" class="dash"/>
-  <text x="745" y="70">Δλ</text>
-  <text x="700" y="255">λ</text>
-</svg>
+![Operational-detection-of-lag_mono](../assets/Operational-detection-of-lag_mono.png)  
 
 **Figure 1.** Operational detection of lag in nonequilibrium phase configurations.   
 (a) Experimental configuration: a two-phase vertical cell of height $L$ under quasi-static thermal driving. Local temperatures are measured immediately above and below the interface.   
