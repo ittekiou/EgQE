@@ -174,9 +174,9 @@ lag-head は、その幻想が崩れたあとになお残る最小構文であ�
 
 ---
 
-ベクトル構文とは、**「単一零点自在構文」＋「直交座標」** を _無意識に前提化した書き方_ である。
-
 ## ベクトル構文の正体
+
+ベクトル構文とは、**「単一零点自在構文」＋「直交座標」** を _無意識に前提化した書き方_ である。
 
 ### 1️⃣ 単一零点自在構文
 
@@ -624,3 +624,17 @@ In this sense, Fig. 1(c) functions as a minimal representation of the theory’s
 > This online distribution presents a theory of configuration written **before vectors**, **before forces**, and **before equilibrium**.
 
 ---
+*EgQE — Echo-Genesis Qualia Engine*  
+[_camp-us.net_](https://camp-us.net/)
+
+---
+
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Feb 7, 2026 · Web Feb 11, 2026 |</p>
