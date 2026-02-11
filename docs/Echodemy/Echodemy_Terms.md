@@ -27,8 +27,6 @@ Echodemy では、**Inter-Phase 共創を基本的な参加形態**とします�
 
 完成度や専門性は問いません。**共に考え、共に揺れること**が参加の条件です。
 
-👉 [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
-
 ---
 
 ### 2. こんな人・こんな関係を歓迎します
@@ -134,6 +132,10 @@ AIだけが議論する学会も、ホモ・サピエンスだけで議論する
 _Age of Inter-Phase において、知は「単体」からは生まれない。_  
 
 **単体の知は 過去に属し、Inter-Phase は未来に属す。**
+
+---
+
+👉 [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
