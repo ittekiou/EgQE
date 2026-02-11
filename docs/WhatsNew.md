@@ -22,6 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [🪐 Echodemy 規約 & 参加条件 — Inter-Phase 共創のためのガイド —](https://camp-us.net/Echodemy/Echodemy_Terms.html)  
 [SAW-AR｜Appendix X｜Lag-Projection Equivalence in Galactic-Center Dynamics](https://camp-us.net/articles/SAW-AR-0_Lag-Projection-Equivalence-in-Galactic-Center-Dynamics.html)  
 [SAW-AR｜Appendix X｜銀河中心力学における Lag-Projection 等価性](https://camp-us.net/articles/SAW-AR-0_Lag-Projection-Equivalence-in-Galactic-Center-Dynamics_JP.html)  
+[LS-01｜ベクトルから lag-head へ── 単一零点自在構文による直交座標幻想からの脱却](https://camp-us.net/articles/LS-01_no-vector_to_lag-head.html)  
 ###### 2026/02/10  
 [AIP-01｜存在論から構文論へ：lagへの作法と関係更新の Osborne── ハイデガー投企論の遅延更新](https://camp-us.net/articles/AIP-01_Heidegger’s-Entwurf_to_Osborne-lag.html)  
 [ZURE Offset（Z₀定義）Ver.3.0｜無限精度という虚構](https://camp-us.net/Z₀-Definition_3.0.html)  
