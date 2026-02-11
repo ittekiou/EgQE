@@ -19,6 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/02/11  
 [SAW-AR｜遅延痕跡の「もつれ」──Entanglement as the Exposure of Lagged Traces](https://camp-us.net/articles/SAW-AR-0_Entanglement-as-Lagged-Traces.html)  
 [Lag as the Origin── R₀–Z₀/S–O 関係論フレームワーク｜Lag as the Origin: An R₀–Z₀/S–O Relational Framework(with Appendix)](https://camp-us.net/lag_as_Origin.html)  
+[🪐 Echodemy 規約 & 参加条件 — Inter-Phase 共創のためのガイド —](https://camp-us.net/Echodemy/Echodemy_Terms.html)  
 ###### 2026/02/10  
 [AIP-01｜存在論から構文論へ：lagへの作法と関係更新の Osborne── ハイデガー投企論の遅延更新](https://camp-us.net/articles/AIP-01_Heidegger’s-Entwurf_to_Osborne-lag.html)  
 [ZURE Offset（Z₀定義）Ver.3.0｜無限精度という虚構](https://camp-us.net/Z₀-Definition_3.0.html)  
