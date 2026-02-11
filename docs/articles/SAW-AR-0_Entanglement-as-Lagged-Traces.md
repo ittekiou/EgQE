@@ -37,7 +37,7 @@ title: SAW-AR｜遅延痕跡の「もつれ」──Entanglement as the Exposure
 
 ---
 
-## 2｜$R₀$ ⇆ $Z₀$：Generation and Trace
+## 2｜$R₀$ ⇆ $Z₀$ : Generation and Trace
 
 宇宙は二つの位相の往還として理解できる。
 
@@ -71,7 +71,7 @@ title: SAW-AR｜遅延痕跡の「もつれ」──Entanglement as the Exposure
 
 ---
 
-## 4｜$ΔZ₀$: Failure of Closure
+## 4｜$ΔZ₀$ : Failure of Closure
 
 $ΔZ₀$ が介入すると、状況は変わる。
 
