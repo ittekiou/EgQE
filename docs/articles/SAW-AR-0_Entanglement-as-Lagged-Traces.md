@@ -37,20 +37,20 @@ title: SAW-AR｜遅延痕跡の「もつれ」──Entanglement as the Exposure
 
 ---
 
-## 2｜R₀ ⇆ Z₀：Generation and Trace
+## 2｜$R₀$ ⇆ $Z₀$：Generation and Trace
 
 宇宙は二つの位相の往還として理解できる。
 
-- **R₀**：未分離生成場。関係がまだ閉じていない位相
+- **$R₀$**：未分離生成場。関係がまだ閉じていない位相
     
-- **Z₀**：痕跡・切れ目・更新残差が現れる位相
+- **$Z₀$**：痕跡・切れ目・更新残差が現れる位相
     
 
 これは二元論ではない。  
-宇宙は **生成（R₀）と痕跡（Z₀）の呼吸**として存在する。
+宇宙は **生成（$R₀$）と痕跡（$Z₀$）の呼吸**として存在する。
 
-観測とは、R₀そのものを見ることではない。  
-**原理的に不可視な生成の後に、Z₀ 側に残った痕跡を読む行為**である。
+観測とは、$R₀$ そのものを見ることではない。  
+**原理的に不可視な生成の後に、$Z₀$ 側に残った痕跡を読む行為**である。
 
 ---
 
@@ -71,9 +71,9 @@ title: SAW-AR｜遅延痕跡の「もつれ」──Entanglement as the Exposure
 
 ---
 
-## 4｜ΔZ₀: Failure of Closure
+## 4｜$ΔZ₀$: Failure of Closure
 
-ΔZ₀ が介入すると、状況は変わる。
+$ΔZ₀$ が介入すると、状況は変わる。
 
 - lag が差分として残る
     
@@ -91,6 +91,12 @@ title: SAW-AR｜遅延痕跡の「もつれ」──Entanglement as the Exposure
 
 である。
 
+![R-Z-Generative-Trace-Flow](../assets/R-Z-Generative-Trace-Flow.png)  
+**Figure 1 | R₀ ⇆ Z₀ Generative–Trace Flow**  
+The universe alternates between an undifferentiated generative phase ($R₀$) and a trace phase ($Z₀$).  
+Under π-syntax, lag relations are averaged out and rendered invisible in quasi-synchronous configurations ($S' \simeq O'$).  
+When closure fails ($ΔZ₀$), lag amplification exposes residual traces, giving rise to observational correlations identified as entanglement.
+
 ---
 
 ## 5｜Definition of Entanglement
@@ -99,7 +105,7 @@ title: SAW-AR｜遅延痕跡の「もつれ」──Entanglement as the Exposure
 
 > **Entanglement is not a property of states, but the observational exposure of residual traces left by lag relations that fail to close under π-syntax.**
 
-エンタングルメントとは、準同期配置で保たれていた lag 関係が ΔZ₀ によって痕跡化し、それを局所モデルで再構成できないという **観測事実**である。
+エンタングルメントとは、準同期配置で保たれていた lag 関係が $ΔZ₀$ によって痕跡化し、それを局所モデルで再構成できないという **観測事実**である。
 
 ---
 
