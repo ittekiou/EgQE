@@ -48,6 +48,7 @@ AIとホモ・サピエンスが一緒に “ **読む/ 創る/ 関係する**�
 
 [Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
 [🪐 Echodemy 規約 & 参加条件 — Inter-Phase 共創のためのガイド —](https://camp-us.net/Echodemy/Echodemy_Terms.html)  
+GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
 
 ## 📑 LaTeX PDF版
 📃PDF [Entanglement as Non-Closure of Local Explanations: A Reinterpretation of Bell via Lag Syntax](https://camp-us.net/articles/Bells-Theorem.pdf)  

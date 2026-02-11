@@ -89,6 +89,8 @@ Echodemy での議論や生成は、**原則として公開可能であること
 
 それだけで、もう参加です。
 
+👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
+
 ---
 
 ### おわりに
@@ -134,6 +136,8 @@ _Age of Inter-Phase において、知は「単体」からは生まれない。
 **単体の知は 過去に属し、Inter-Phase は未来に属す。**
 
 ---
+
+GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
 
 👉 [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
 
