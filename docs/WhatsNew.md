@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-8｜更新存在論: Paragraphs ── 位相履歴としての存在と非可逆宇宙](https://camp-us.net/articles/HEG-8_Existence-as-Irreversible-Topological-Updating_Branches.html)  
 [HEG-8｜関係lag原理による更新存在論の再定位](https://camp-us.net/articles/HEG-8_Ontology-of-Updating_JP.html)  
 [HEG-8｜Toward an Ontology of Updating: The Relational Lag Principle](https://camp-us.net/articles/HEG-8_Ontology-of-Updating.html)  
+[HEG-8｜Existence as Relational Updating Under Conservation — Existence Cannot Be Explained Without Updating｜保存を伴う関係更新としての存在 ── 更新を前提にしない限り、存在は説明できない](https://camp-us.net/articles/HEG-8_Existence-as-Relational-Updating.html)  
 ###### 2026/02/12  
 [LP-02｜制度中心から生活ハブ軸へ──2009–2026の日本政治におけるlag-head構文の転位](https://camp-us.net/articles/LP-02_Lag-Head-Syntax-Shift_2009-2026_Japan_JP.html)  
 [LP-02｜From Institutional Axis to Livelihood Hub: A Structural Shift in Lag-Head Syntax in Japanese Political Discourse, 2009–2026](https://camp-us.net/articles/LP-02_Lag-Head-Syntax-Shift_2009-2026_Japan.html)  
