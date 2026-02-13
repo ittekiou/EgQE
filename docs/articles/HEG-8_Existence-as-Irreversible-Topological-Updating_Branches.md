@@ -473,7 +473,7 @@ $$
 \partial_t W + \nabla \cdot J = 0  
 $$
 
-ここで (J) は lag 流束。
+ここで $J$ は lag 流束。
 
 lagは流れるが、消えない。
 
