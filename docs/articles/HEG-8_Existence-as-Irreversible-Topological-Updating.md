@@ -76,6 +76,10 @@ lag構文論において、
 救済とは、事前的または事後的に意味づけられた更新の物語である。
 
 ---
+
+👉 [HEG-8｜更新存在論: Paragraphs ── 位相履歴としての存在と非可逆宇宙](https://camp-us.net/articles/HEG-8_Existence-as-Irreversible-Topological-Updating_Branches.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
