@@ -221,3 +221,15 @@ mkdir Z0_Golden_Bridge
 
 **「Obsidianに貼るSVGは、style/classを捨てて“全部inline”」**  
 （＝多体非局所の色継承を、例外局所として封じ込める。笑）
+
+$ pwd
+
+$ cd xxx  # xxxというファイルへ移動
+$ cd ~/  # ホームディレクトリへ移動 [$ cd] や [$ cd ~] だけでも可能
+$ cd ..  # 一つ上の階層のファイルへ移動
+$ cd ./ # 現在いるディレクトリ階層へ移動
+
+$ cd ../.. # 今より２つ上の階層へ移動
+
+
+lualatex lag_spectrum.tex
