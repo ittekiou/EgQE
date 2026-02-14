@@ -21,7 +21,7 @@ $$
 
 where $\omega$ denotes modulation frequency rather than photon frequency.
 
-For Sgr A*, the gravitational time scale $t_g = GM/c^3 \approx 21\mathrm{s}$ sets the natural dynamical unit.  
+For Sgr A*, the gravitational time scale $t_g = GM/c^3 \approx 21\,\mathrm{s}$ sets the natural dynamical unit.  
 We show that a lag-fixation mechanism predicts a characteristic spectral structure:
 
 1. a low-frequency plateau $\tau_0 \sim O(t_g)$,
@@ -54,7 +54,7 @@ $$
 t_g = \frac{GM}{c^3}.  
 $$
 
-For Sgr A*, $t_g \approx 21\mathrm{s}$.
+For Sgr A*, $t_g \approx 21\,\mathrm{s}$.
 
 The present work proposes that mass stabilization may manifest observationally not as a fundamental condensate, but as a structured phase-delay spectrum in modulation frequency space.  
 Specifically, we consider the group delay
@@ -100,9 +100,9 @@ Instead, mass arises as a **stable fixation of phase delay (lag)** under irrever
 
 The construction requires only:
 
-1. A continuous relational substrate (denoted $R_0)$,
+1. A continuous relational substrate (denoted $R_0$),
     
-2. A projection–cut operation (trace formation, $Z_0)$,
+2. A projection–cut operation (trace formation, $Z_0$),
     
 3. Non-synchronous updating (lag).
     
@@ -176,7 +176,7 @@ The physically measurable quantity is phase delay:
 $$  
 \tau_\alpha(\omega;\mu)
 =
-\partial_\omega  
+-\partial_\omega  
 \arg G_\alpha(\omega;\mu).  
 $$
 
@@ -193,13 +193,15 @@ $$
 \frac{\gamma_\alpha(\mu)}{m_{\mathrm{lag},\alpha}^2(\mu)}.  
 $$
 
+The negative sign reflects causal retarded structure.  
+
 Hence:
 
 $$  
 \boxed{  
 m_{\mathrm{lag},\alpha}^2(\mu)
 =
-\frac{\gamma_\alpha(\mu)}{\tau_\alpha(0;\mu)}  
+-\frac{\gamma_\alpha(\mu)}{\tau_\alpha(0;\mu)}  
 }  
 $$
 
@@ -604,7 +606,8 @@ M \approx 4.3 \times 10^6 M_\odot
 $$
 
 $$  
-t_g = \frac{r_g}{c} \approx 21\mathrm{s}  
+t_g = \frac{r_g}{c} \approx 21\,\mathrm{s}
+  
 $$
 
 ISCO hotspot benchmark:
@@ -627,11 +630,17 @@ $$
 
 Corresponding plateau:
 
-$$  
-\tau_0 \sim 10\text{–}100\ \mathrm{s}  
+$$
+\tau_0 \sim O(t_g),
 $$
 
-Naturally $O(t_g)$.
+which for Sgr A* corresponds to
+
+$$
+\tau_0 \sim 10\text{--}100\,\mathrm{s}.
+$$
+
+We distinguish this natural gravitational scale from a conservative detectability floor set by phase noise, calibration accuracy, and finite bandwidth.
 
 ---
 
@@ -657,7 +666,7 @@ The observable is the group delay of the modulation component:
 $$  
 \tau(\omega;\mu)
 =
-\partial_\omega \phi(\omega;\mu),  
+-\partial_\omega \phi(\omega;\mu),  
 $$
 
 where $\omega$ denotes the _modulation frequency_ (e.g., QPO band), not photon frequency.
@@ -671,7 +680,7 @@ For Sgr A*:
 $$  
 M \simeq 4.3\times10^6 M_\odot,  
 \qquad  
-t_g=\frac{GM}{c^3}\simeq 21\mathrm{s}.  
+t_g=\frac{GM}{c^3}\simeq 21\,\mathrm{s}.  
 $$
 
 NIR flare time-scales of $20\text{–}60$ min correspond to
@@ -749,7 +758,7 @@ Figure 1 shows:
 The QPO window lies near the transition region $\omega \sim \Lambda_{\rm lag}$, maximizing discriminability.
 
 ![lag_spectrum](../assets/lag_spectrum.png)  
-Lag spectrum in modulation frequency $\omega$ (not photon frequency). The gray band indicates residual phase delays explainable by GR+plasma propagation after model subtraction (schematic 0.1--0.5 s). The blue curve shows the lag-fixation model with a low-$\omega$ plateau ($\tau_0\sim O(t_g)$) and an $\omega^{-2}$ tail. The QPO band (20--60 min) lies near the transition region, where discriminability between plateau and decay is maximal.
+Lag spectrum in modulation frequency $\omega$ (not photon frequency). The gray band indicates residual phase delays explainable by GR+plasma propagation after model subtraction (schematic upper bound: 0.1--0.5 s). The blue curve shows the lag-fixation model with a low-$\omega$ plateau ($\tau_0\sim O(t_g)$) and an $\omega^{-2}$ tail. The QPO band (20--60 min) lies near the transition region, where discriminability between plateau and decay is maximal.
 
 ---
 
@@ -810,20 +819,43 @@ with proportionality bounded by mode-dependent factors.
 
 ---
 
-## 4.6 Falsifiability
+## 4.6 Order-of-Magnitude Sensitivity Estimate
 
-The lag-fixation model is excluded if:
+With a modulation bandwidth
 
-1. No low-frequency plateau up to $O(1\text{–}10)\mathrm{s}$,
-    
-2. No $\omega^{-2}$ decay,
-    
-3. No systematic environmental modulation of $\tau_0$,
-    
-4. No multi-band invariance of $\Lambda_{\rm lag}$.
-    
+$$
+\Delta \omega \sim 10^{-3}\,\mathrm{rad/s},
+$$
 
-Detection of all four signatures would indicate mass stabilization at gravitational time-scale, independent of Higgs-like symmetry breaking.
+and a detectable phase swing
+
+$$
+\Delta \phi \sim 10^{-2}\text{--}10^{-1}\,\mathrm{rad},
+$$
+
+we estimate
+
+$$
+\tau_0 \sim \frac{\Delta \phi}{\Delta \omega}
+\sim 10\text{--}100\,\mathrm{s},
+$$
+
+consistent with the natural gravitational scale
+
+$$
+t_g \simeq 21\,\mathrm{s}
+\quad \text{for Sgr A*}.
+$$
+
+
+As a conservative lower bound limited by instrumental phase noise and calibration uncertainty,
+we also consider sensitivity down to
+
+$$
+\tau_0 \sim O(1\text{--}10)\,\mathrm{s}.
+$$
+
+This hierarchy separates physical scale from observational floor.
 
 ---
 
@@ -835,8 +867,7 @@ $$
 \tau_0 \sim O(t_g)  
 $$
 
-is observed in Sgr A* modulation spectra,  
-mass emerges as a stabilized phase delay rather than a fundamental scalar condensate.
+is observed in Sgr A* modulation spectra, mass admits an observational realization as stabilized phase delay, without requiring a fundamental scalar condensate at this scale.
 
 ---
 
@@ -859,7 +890,7 @@ Absence of a plateau at $O(1\text{–}10)\mathrm{s}$, failure to observe the pre
 If confirmed, the results would indicate that mass can emerge observationally as stabilized phase delay in dynamical systems governed by strong gravity.  
 Such an outcome would not replace collider-scale symmetry breaking mechanisms, but would extend the phenomenology of mass stabilization into the astrophysical domain.
 
-The Galactic Center thus provides a unique laboratory for testing whether mass is exclusively a field condensate property, or whether it also admits a dynamical realization as phase fixation at a fundamental time scale.
+The Galactic Center therefore constitutes a natural laboratory for testing whether mass admits a dynamical realization as stabilized phase delay at the gravitational time scale.
 
 ---
 
