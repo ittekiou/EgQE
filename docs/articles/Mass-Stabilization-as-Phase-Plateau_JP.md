@@ -99,7 +99,7 @@ lagは構文である。
 
 👉 [Mass Stabilization as Phase Plateau: An Observational Test in the Galactic Center](https://camp-us.net/articles/Mass-Stabilization-as-Phase-Plateau.html)  
 
-![lag_spectrum](../assets/lag_spectrum.pdf)  
+![lag_spectrum](../assets/lag_spectrum.png)  
 Lag spectrum in modulation frequency $\omega$ (not photon frequency). The gray band indicates residual phase delays explainable by GR+plasma propagation after model subtraction (schematic 0.1--0.5 s). The blue curve shows the lag-fixation model with a low-$\omega$ plateau ($\tau_0\sim O(t_g)$) and an $\omega^{-2}$ tail. The QPO band (20--60 min) lies near the transition region, where discriminability between plateau and decay is maximal.
 
 ---
