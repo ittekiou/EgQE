@@ -19,7 +19,7 @@ title_en: "Mass Stabilization as Phase Plateau: An Observational Test in the Gal
 
 それは美しい物語だ。
 
-だが―― その物語は、すでに観測構文を前提にしている。
+だが── その物語は、すでに観測構文を前提にしている。
 
 ---
 
