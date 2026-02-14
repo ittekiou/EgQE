@@ -23,6 +23,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-9｜多体起源論: Origin Without Center as Syntax](https://camp-us.net/articles/HEG-9_Multi-Origin-Theory_JP.html)  
 [ヒッグスは場ではない: 質量とは切断の安定度である](https://camp-us.net/articles/Mass-Stabilization-as-Phase-Plateau_JP.html)  
 [Mass Stabilization as Phase Plateau: An Observational Test in the Galactic Center](https://camp-us.net/articles/Mass-Stabilization-as-Phase-Plateau.html)  
+📃PDF [Mass Stabilization as Phase Plateau: An Observational Test in the Galactic Center](https://camp-us.net/articles/Phase-Plateau.pdf)  
 ###### 2026/02/13  
 [HEG-8｜更新存在論序説 ── 位相履歴としての存在と非可逆宇宙](https://camp-us.net/articles/HEG-8_Existence-as-Irreversible-Topological-Updating.html)  
 [HEG-8｜更新存在論: Paragraphs ── 位相履歴としての存在と非可逆宇宙](https://camp-us.net/articles/HEG-8_Existence-as-Irreversible-Topological-Updating_Branches.html)  

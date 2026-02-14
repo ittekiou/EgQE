@@ -233,3 +233,6 @@ $ cd ../.. # 今より２つ上の階層へ移動
 
 
 lualatex lag_spectrum.tex
+
+
+Phase-Plateau.tex

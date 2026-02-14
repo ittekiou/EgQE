@@ -6,6 +6,8 @@ title_en: "Mass Stabilization as Phase Plateau: An Observational Test in the Gal
 > This article presents an observational proposal for testing mass stabilization in strong-gravity environments.  
 > The framework does not seek to replace collider-scale symmetry breaking mechanisms, but to examine whether mass can manifest observationally as a structured phase-delay spectrum near the Galactic Center.
 
+📃PDF [Mass Stabilization as Phase Plateau: An Observational Test in the Galactic Center](https://camp-us.net/articles/Phase-Plateau.pdf)  
+
 # ヒッグスは場ではない
 ## 質量とは切断の安定度である
 

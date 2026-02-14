@@ -8,6 +8,10 @@ title: "Mass Stabilization as Phase Plateau: An Observational Test in the Galact
 # **Mass Stabilization as Phase Plateau:**  
 ## **An Observational Test in the Galactic Center**
 
+📃PDF [Mass Stabilization as Phase Plateau: An Observational Test in the Galactic Center](https://camp-us.net/articles/Phase-Plateau.pdf)  
+
+---
+
 ## Abstract
 
 We propose an observational test of mass stabilization based on phase-delay structure in modulation frequency space.  
@@ -483,6 +487,8 @@ $$
 
 Smoothing recommended.
 
+For reference, we adopt a conservative detectability threshold of order $1\,\mathrm{s}$ in plateau amplitude, used as the reference level in Fig.~1 and consistent with current phase precision limits.
+
 ---
 
 ## 3.4 Lag Parameter Model
@@ -512,7 +518,6 @@ Expected signatures:
     $$  
     \tau(\omega) \sim \omega^{-2}  
     $$
-    
 
 Detectable plateau ranges:
 
@@ -895,6 +900,10 @@ The Galactic Center therefore constitutes a natural laboratory for testing wheth
 ---
 
  #GalacticCenter #StrongGravity #PhaseDelay #MassStabilization #ObservationalTest
+
+---
+
+[ヒッグスは場ではない: 質量とは切断の安定度である](https://camp-us.net/articles/Mass-Stabilization-as-Phase-Plateau_JP.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

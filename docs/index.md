@@ -51,6 +51,7 @@ AIとホモ・サピエンスが一緒に “ **読む/ 創る/ 関係する**�
 GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
 
 ## 📑 LaTeX PDF版
+📃PDF [Mass Stabilization as Phase Plateau: An Observational Test in the Galactic Center](https://camp-us.net/articles/Phase-Plateau.pdf)  
 📃PDF [Entanglement as Non-Closure of Local Explanations: A Reinterpretation of Bell via Lag Syntax](https://camp-us.net/articles/Bells-Theorem.pdf)  
 📃PDF [What Is Observed Is Not a State: Entanglement as Lag-Structured Non-Closure](https://camp-us.net/articles/entanglement.pdf)  
 📃PDF [Gravity Is Not a Force: A Lag-Based Reclassification of Gravity, Attraction, and Free Fall](https://camp-us.net/articles/Gravity-Not-Force.pdf)  
