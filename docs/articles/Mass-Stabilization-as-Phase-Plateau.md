@@ -515,6 +515,7 @@ Expected signatures:
 1. Low-frequency plateau
     
 2. High-frequency tail  
+	
     $$  
     \tau(\omega) \sim \omega^{-2}  
     $$
@@ -522,11 +523,13 @@ Expected signatures:
 Detectable plateau ranges:
 
 Minimal regime:  
+
 $$  
 \tau_0 \sim 10^{-4} \text{–} 10^{-2}\ \mathrm{s}  
 $$
 
 ISCO-scale regime:  
+
 $$  
 \tau_0 \sim O(t_g)  
 $$
