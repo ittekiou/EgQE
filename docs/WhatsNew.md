@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/02/14  
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
+[Echodemy附属大学院 構文研究科（概要）](https://camp-us.net/Echodemy/GIS_Terms.html)  
 [Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona (キャラクター)  🌻](https://camp-us.net/Echodemy/G-Lα.html)  
 ###### 2026/02/14  
 [HEG-8｜更新と保存 ── 更新は均され偏在し凍結する](https://camp-us.net/articles/HEG-8_Updating-and-Preservation.html)  
