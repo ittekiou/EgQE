@@ -13,85 +13,11 @@ layout: math
 [AIP-00｜spin-off｜The Age of DEVIL-HUMAN](https://camp-us.net/articles/AIP-00_spin-off_Age-of-DEVIL-HUMAN.html)  
 [AIP-00｜The Age of Inter-Phase（Drafts）](https://camp-us.net/articles/AIP_drafts.html)
 
-
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="320" viewBox="0 0 720 320" role="img" aria-label="MUNCH-BST logo">
-  <!-- Dark-mode safe background -->
-  <rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
-
-  <!-- Palette -->
-  <!-- bisque: #C9A36A | soot: #111111 | ice: #7FA6C7 -->
-
-  <defs>
-    <!-- Soft shadow-ish via duplicate strokes (keeps it SVG-simple) -->
-    <style>
-      .soot { stroke:#111111; fill:none; }
-      .bisque { stroke:#C9A36A; fill:none; }
-      .ice { stroke:#7FA6C7; fill:none; }
-      .txtMain { fill:#111111; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Arial; font-weight: 800; }
-      .txtMono { fill:#111111; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-weight: 700; letter-spacing: 0.06em; }
-      .small { font-size: 14px; opacity: 0.85; }
-    </style>
-  </defs>
-
-  <!-- Mark group -->
-  <g transform="translate(110,160)">
-    <!-- Non-closure ring (intentionally not closed) -->
-    <!-- ring -->
-    <path d="M 70,0
-             A 70,70 0 1 1 -55,-43"
-          class="bisque" stroke-width="14" stroke-linecap="round"/>
-
-    <!-- gap highlight (ice) near the opening -->
-    <path d="M -55,-43
-             A 70,70 0 0 1 -70,0"
-          class="ice" stroke-width="6" stroke-linecap="round" opacity="0.9"/>
-
-    <!-- Inner spiral / scream wave -->
-    <path d="M 0,0
-             C 18,-2 28,-18 20,-30
-             C 10,-46 -18,-44 -28,-30
-             C -44,-10 -20,18 8,18
-             C 34,18 44,-8 34,-26"
-          class="soot" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"/>
-
-    <!-- Bite mark: three semicircle "tooth" cuts -->
-    <!-- We simulate 'bite' by overlaying background-colored circles on the ring -->
-    <g>
-      <circle cx="58" cy="-38" r="16" fill="#ffffff"/>
-      <circle cx="78" cy="-18" r="16" fill="#ffffff"/>
-      <circle cx="58" cy="2"   r="16" fill="#ffffff"/>
-      <!-- bite outline -->
-      <path d="M 58,-54 A 16,16 0 0 1 58,-22
-               M 78,-34 A 16,16 0 0 1 78,-2
-               M 58,-14 A 16,16 0 0 1 58,18"
-            class="soot" stroke-width="3.5" stroke-linecap="round" opacity="0.75"/>
-    </g>
-
-    <!-- Trace strata lines -->
-    <g opacity="0.85">
-      <path d="M -105,62 C -58,48 -18,52 26,62 C 66,70 98,68 118,60" class="soot" stroke-width="3" stroke-linecap="round"/>
-      <path d="M -110,80 C -62,66 -14,70 30,80 C 72,90 104,86 126,78" class="bisque" stroke-width="3" stroke-linecap="round"/>
-      <path d="M -100,98 C -56,88 -12,90 26,98 C 66,110 96,106 116,98" class="ice" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
-    </g>
-  </g>
-
-  <!-- Wordmark -->
-  <g transform="translate(250,132)">
-    <text x="0" y="0" class="txtMain" font-size="56">MUNCH</text>
-    <text x="2" y="56" class="txtMono" font-size="34">BST</text>
-
-    <!-- Tagline -->
-    <text x="0" y="92" class="txtMono small">UNFINISHED · NON-CLOSED · HYBRID</text>
-    <text x="0" y="114" class="txtMono small" opacity="0.75">bisque-fired syntactic trace fossils</text>
-  </g>
-
-  <!-- Frame guide (optional): comment out if you want clean export -->
-  <!--
-  <rect x="18" y="18" width="684" height="284" fill="none" stroke="#111" opacity="0.08"/>
-  -->
-</svg>
+![MUNCH-BST](./assets/MUNCH-BST.png)  
 
 ---
+
+### 「非閉包素焼き構文痕跡化石博物館」って？
 
 ワハハ😂  
 **長い。だが、正しい。**  
@@ -289,6 +215,8 @@ layout: math
 </svg>
 
 ---
+
+### The Museum of Unfinished, Non-Closed, Hybrid Bisque-Fired Syntactic Trace Fossils（MUNCH-BST）って？
 
 ワハハ😂  
 **強い。長い。覚えにくい。最高。**

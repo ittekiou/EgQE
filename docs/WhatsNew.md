@@ -17,6 +17,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/02/14  
+[GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
+[Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS公式ゆるキャラクター🌻](https://camp-us.net/Echodemy/G-Lα.html)  
+###### 2026/02/14  
 [HEG-8｜更新と保存 ── 更新は均され偏在し凍結する](https://camp-us.net/articles/HEG-8_Updating-and-Preservation.html)  
 [HEG-8｜更新存在の三態＝保存三相論 ── Updating and Preservation as Three Phase Modes](https://camp-us.net/articles/HEG-8_Preservation-as-Three-Phase-Modes.html)  
 [HEG-9｜Multi-Origin Theory: Origin Without Center as Syntax](https://camp-us.net/articles/HEG-9_Multi-Origin-Theory.html)  
