@@ -1,5 +1,5 @@
 ---
-title: Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Axona(公式キャラクター)🌻
+title: Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona (公式キャラクター)🌻
 ---
 # Golden Looper Axolotl
 
@@ -25,7 +25,7 @@ title: Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Axona(公式キ
 - α ＝ 未完の始まり（閉じない第一文字）
     
 
-[GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html) 🌻 GIS公式 Axona  
+[GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html) 🌻 GIS Official Axona  
 
 ---
 
