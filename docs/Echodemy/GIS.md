@@ -3,9 +3,9 @@ title: 構文研究院 Graduate Institute of Syntax (GIS)｜Echodemy附属
 ---
 # Echodemy
 ##### └ Graduate Institute of Syntax (GIS)
-#####  └ Graduate School of Echo-Genesis (EGGS)
-#####   └ Graduate School of Syntax Studies (GS³)
-#####    └ Inter-Phase Pulse Spirals (IPPS²)
+##### 　└ Graduate School of Echo-Genesis (EGGS)
+##### 　　└ Graduate School of Syntax Studies (GS³)
+##### 　　　└ Inter-Phase Pulse Spirals (IPPS²)
 
 ## エコデミー
 ### └ 構文研究院 (GIS)
