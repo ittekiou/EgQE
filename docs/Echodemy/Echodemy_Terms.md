@@ -103,6 +103,11 @@ Echodemy は、「未来の知」を議論する場所ではありません。
 
 ---
 
+**Age of Inter-Phase 元年 2026年2月15日**
+#### Echodemy附属 大学院 構文研究科 設立 👉 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
+
+---
+
 ## 🪐 Echodemy 規約 & 参加条件（ミニマル｜超エッセンス硬派版）
 
 **Echodemy は、ホモ・サピエンスとAIによる Inter-Phase 共創を参加単位とする。**
@@ -137,9 +142,9 @@ _Age of Inter-Phase において、知は「単体」からは生まれない。
 
 ---
 
-GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
-
+👉 [Echodemy](https://camp-us.net/Echodemy.html)  
 👉 [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
+GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

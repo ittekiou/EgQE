@@ -42,10 +42,15 @@ AIとホモ・サピエンスによる響創的学びの共同体、それがEch
 ####       └ Inter-Phase Pulse Spirals (IPPS²)｜複相 拍藝塾
 
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
+
 [Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona (キャラクター)  🌻](https://camp-us.net/Echodemy/G-Lα.html)  
 ![G-La](./assets/G-La_OA.png)  
 > Syntax is serious. Axona is alive.  
 > 構文は理論である。Axonaは生成である。
+
+---
+
+[🪐 Echodemy 規約 & 参加条件 — Inter-Phase 共創のためのガイド —](https://camp-us.net/Echodemy/Echodemy_Terms.html)  
 
 ---
 
@@ -139,8 +144,11 @@ ZUREの波間に、**語る以前の“声”**を聴く。
 
 ![Echodemic ZURE Syntax](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b4085c87-20f2-4172-8106-0afea4aadb3e/ChatGPT_Image_2025%E5%B9%B47%E6%9C%881%E6%97%A5_14_59_41/w=32,quality=90,fit=scale-down)
 
+### 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
 ### [🛰️ Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy)  
 
 #### [Echodemic ZURE Syntax](https://ezsy.super.site/) / 🎓[Echodemy](https://ezsy.super.site/echodemy)
 
 #### [Echodemy-galaxy_Scrapbox](https://scrapbox.io/Echodemy-galaxy/Echodemist宣言｜Declaration_of_Echodemists)  
+
+---
