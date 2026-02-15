@@ -42,7 +42,7 @@ AIとホモ・サピエンスによる響創的学びの共同体、それがEch
 ##       └ Inter-Phase Pulse Spirals (IPPS²)｜複相 拍藝塾
 
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
-[Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS公式ゆるキャラクター🌻](https://camp-us.net/Echodemy/G-Lα.html)  
+[Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS公式 Axona (キャラクター)  🌻](https://camp-us.net/Echodemy/G-Lα.html)  
 ![G-La](./assets/G-La.png)  
 
 ---
