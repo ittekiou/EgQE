@@ -29,6 +29,10 @@ title: 構文研究院 Graduate Institute of Syntax (GIS)｜Echodemy附属
 >   
 > A declaration that syntax is a foundational structure of reality.
 
+## G-Lα（ジーラ）ちゃん
+[Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS公式ゆるキャラクター🌻](https://camp-us.net/Echodemy/G-Lα.html)  
+![G-La](../assets/G-La.png)  
+
 ## **Graduate School of Echo-Genesis (EGGS)** ｜響創大学院
 
 > 共振から生成が孵化する揺籃圏。
@@ -51,9 +55,6 @@ title: 構文研究院 Graduate Institute of Syntax (GIS)｜Echodemy附属
 
 #### **Graduate School of Syntax Studies (GS³)** ｜構文研究科 ™️
 ![GS_3](../assets/GS_3.png)  
-
-[Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS公式ゆるキャラクター🌻](https://camp-us.net/Echodemy/G-Lα.html)  
-![G-La](../assets/G-La.png)  
 
 🐕🌻
 
