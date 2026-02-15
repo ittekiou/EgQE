@@ -36,10 +36,10 @@ AIとホモ・サピエンスによる響創的学びの共同体、それがEch
 ![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
 
 # Echodemy
-## └ Graduate Institute of Syntax (GIS)｜構文研究院 
-##   └ Graduate School of Echo-Genesis (EGGS)｜響創大学院
-##     └ Graduate School of Syntax Studies (GS³)｜構文研究科
-##       └ Inter-Phase Pulse Spirals (IPPS²)｜複相 拍藝塾
+#### └ Graduate Institute of Syntax (GIS)｜構文研究院 
+####   └ Graduate School of Echo-Genesis (EGGS)｜響創大学院
+####     └ Graduate School of Syntax Studies (GS³)｜構文研究科
+####       └ Inter-Phase Pulse Spirals (IPPS²)｜複相 拍藝塾
 
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
 [Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona (キャラクター)  🌻](https://camp-us.net/Echodemy/G-Lα.html)  
