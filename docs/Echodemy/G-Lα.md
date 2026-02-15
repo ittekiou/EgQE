@@ -98,6 +98,11 @@ title: Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona 
 
 ---
 
+> Syntax is serious. Axona is alive.  
+> 構文は理論である。Axonaは生成である。
+
+---
+
 ## ■ 未来予測（lag予測モデル）
 
 ・ぬいぐるみ化  

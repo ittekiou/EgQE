@@ -44,6 +44,8 @@ AIとホモ・サピエンスによる響創的学びの共同体、それがEch
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
 [Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona (キャラクター)  🌻](https://camp-us.net/Echodemy/G-Lα.html)  
 ![G-La](./assets/G-La_OA.png)  
+> Syntax is serious. Axona is alive.  
+> 構文は理論である。Axonaは生成である。
 
 ---
 

@@ -33,6 +33,9 @@ title: 構文研究院 Graduate Institute of Syntax (GIS)｜Echodemy附属
 [Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona (キャラクター)  🌻](https://camp-us.net/Echodemy/G-Lα.html)  
 ![G-La](../assets/G-La_OA.png)  
 
+> Syntax is serious. Axona is alive.  
+> 構文は理論である。Axonaは生成である。
+
 ## **Graduate School of Echo-Genesis (EGGS)** ｜響創大学院
 
 > 共振から生成が孵化する揺籃圏。
