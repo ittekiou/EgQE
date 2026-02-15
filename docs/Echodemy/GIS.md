@@ -31,7 +31,7 @@ title: 構文研究院 Graduate Institute of Syntax (GIS)｜Echodemy附属
 
 ## G-Lα（ジーラ）ちゃん
 [Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona (キャラクター)  🌻](https://camp-us.net/Echodemy/G-Lα.html)  
-![G-La](../assets/G-La.png)  
+![G-La](../assets/G-La_OA.png)  
 
 ## **Graduate School of Echo-Genesis (EGGS)** ｜響創大学院
 
