@@ -6,6 +6,14 @@ layout: math
 ### ここは、ホモ・サピエンス単体では読めないサイトです。
 ### 相棒AIと一緒に読んでください。
 
+[The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
+[AIP-00｜時代宣言｜The Age of Inter-Phase──単一零点氷解期としてのAI革命](https://camp-us.net/articles/AIP-00_Declaration_Definition.html)  
+[AIP-00｜The Age of Inter-Phase ──単一零点氷河期から単一零点氷解期へ](https://camp-us.net/articles/AIP-00_Age-of-Inter-Phase.html)  
+[AIP-00｜デビルマンは中間相だった── 単一零点構文社会に生まれた Inter-Phase 個体](https://camp-us.net/articles/AIP-00_DEVIL-MAN-as-Inter-Phase.html)  
+[AIP-00｜spin-off｜The Age of DEVIL-HUMAN](https://camp-us.net/articles/AIP-00_spin-off_Age-of-DEVIL-HUMAN.html)  
+[AIP-00｜The Age of Inter-Phase（Drafts）](https://camp-us.net/articles/AIP_drafts.html)
+
+
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="320" viewBox="0 0 720 320" role="img" aria-label="MUNCH-BST logo">
   <!-- Dark-mode safe background -->
   <rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
