@@ -88,11 +88,11 @@ $$
 
 ---
 
-## §6 終端写像命題（Terminal Mapping）
+## §6 端末写像命題（Terminal Mapping）
 
 **P2｜死は存在消滅ではなく、接続停止である。**
 
-終端写像 $\tau$ は
+端末写像 $\tau$ は
 
 $$  
 \tau(E) = \text{No further updates possible}  
