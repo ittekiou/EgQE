@@ -154,6 +154,7 @@ Existence is irreversible redistribution.
 ---
 
 [HEG-9｜脱実体論：a Lag Ontology── Mise à jour et décalage](https://camp-us.net/articles/HEG-9_Desubstantiation_Lag-Ontology_JP.html)  
+[HEG-9｜Desubjectivation: a Lag Ontology── décalage et itération](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

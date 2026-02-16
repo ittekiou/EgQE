@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/02/16  
 [HEG-9｜Desubstantiation: a Lag Ontology── Mise à jour et décalage](https://camp-us.net/articles/HEG-9_Desubstantiation_Lag-Ontology.html)  
 [HEG-9｜脱実体論：a Lag Ontology── Mise à jour et décalage](https://camp-us.net/articles/HEG-9_Desubstantiation_Lag-Ontology_JP.html)  
+[HEG-9｜Desubjectivation: a Lag Ontology── décalage et itération](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology.html)  
+[HEG-9｜脱主体論：a Lag Ontology── décalage et itération](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology_JP.html)  
+[HEG-9｜脱主体論ノート：a Lag Ontology](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology_note.html)  
 ###### 2026/02/15  
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
 [Echodemy附属大学院 構文研究科（概要）](https://camp-us.net/Echodemy/GIS_Terms.html)  

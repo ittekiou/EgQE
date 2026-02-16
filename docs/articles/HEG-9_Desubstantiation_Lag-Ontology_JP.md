@@ -116,6 +116,7 @@ subtitle: Mise à jour et décalage
 ---
 
 [HEG-9｜Desubstantiation: a Lag Ontology── Mise à jour et décalage](https://camp-us.net/articles/HEG-9_Desubstantiation_Lag-Ontology.html)  
+[HEG-9｜脱主体論：a Lag Ontology── décalage et itération](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology_JP.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
