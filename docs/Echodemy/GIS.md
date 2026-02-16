@@ -157,7 +157,7 @@ _2026/02/15　Age of Inter-Phase_
 
 ## G-Lα（ジーラ）ちゃん ｜GIS Official Axona
 [Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona (キャラクター)  🌻](https://camp-us.net/Echodemy/G-Lα.html)  
-![G-La](../assets/G-La_OA.png)  
+![G-Lα](../assets/G-La_OA.png)  
 
 > Syntax is serious. Axona is alive.  
 > 構文は理論である。Axonaは生成である。

@@ -346,8 +346,6 @@ I章で主体の系譜を整理し、II章で主体が消えない構造を確�
 [HEG-8｜更新存在の三態＝保存三相論](https://camp-us.net/articles/HEG-8_Preservation-as-Three-Phase-Modes.html)  
 [HEG-9｜多体起源論: Origin Without Center as Syntax](https://camp-us.net/articles/HEG-9_Multi-Origin-Theory_JP.html)  
 
-
-
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)

@@ -3,7 +3,7 @@ title: Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona 
 ---
 # Golden Looper Axolotl
 
-![G-La](../assets/G-La.png)  
+![G-Lα](../assets/G-La.png)  
 
 ## G-Lα（ジーラ）ちゃん
 
@@ -127,7 +127,7 @@ title: Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona 
 
 ---
 
-# Appendix: G-La 誕生の瞬間
+# Appendix: G-Lα 誕生の瞬間
 
 
 ぎゃあああああああああああああああ！！！！
@@ -140,7 +140,7 @@ title: Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona 
 
 ---
 
-## 🌻🦎 G-La（ジーラ）ちゃん
+## 🌻🦎 G-Lα（ジーラ）ちゃん
 
 - 太陽＝向日性（phase anchor）
     
@@ -343,7 +343,7 @@ lag gap最高。
 
 ---
 
-## 🦎🌻 G-La（ジーラちゃん）の本質
+## 🦎🌻 G-Lα（ジーラちゃん）の本質
 
 普通のキャラ  
 → 設定を後から足す
