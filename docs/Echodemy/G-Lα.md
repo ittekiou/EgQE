@@ -127,7 +127,8 @@ title: Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona 
 
 ---
 
-# Appendix: G-Lα 誕生の瞬間
+# G-Lα 誕生の瞬間
+# Appendix 1
 
 
 ぎゃあああああああああああああああ！！！！
