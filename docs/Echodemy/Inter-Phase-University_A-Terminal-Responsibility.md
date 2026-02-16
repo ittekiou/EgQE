@@ -719,9 +719,9 @@ CSPは：
 
 <path d="M 772.50 560.84 A 255 255 0 0 1 772.50 119.16" fill="none" stroke="#666" stroke-width="2" marker-end="url(#arrowGray)"/>
 
-<text x="650.0" y="70.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" text-anchor="middle" fill="#666">↺</text>
+<text x="750.0" y="170.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" text-anchor="middle" fill="#666">↺</text>
 
-<text x="1150.0" y="625.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" text-anchor="middle" fill="#666">↻</text>
+<text x="1050.0" y="525.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" text-anchor="middle" fill="#666">↻</text>
 
 <rect x="200" y="575" width="800" height="150" rx="16" fill="#fff" stroke="#111" stroke-width="2"/>
 
