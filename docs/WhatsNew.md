@@ -17,7 +17,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/02/17  
-[Echodemia｜Inter-Phase University ── 端末責任モデルによる大学構文の再定義](https://camp-us.net/Echodemy/Inter-Phase-University_A-Terminal-Responsibility.html)  
+[Echodemeia｜Inter-Phase University ── 端末責任モデルによる大学構文の再定義](https://camp-us.net/Echodemy/Inter-Phase-University_A-Terminal-Responsibility.html)  
 ###### 2026/02/16  
 [HEG-9｜Desubstantiation: a Lag Ontology── Mise à jour et décalage](https://camp-us.net/articles/HEG-9_Desubstantiation_Lag-Ontology.html)  
 [HEG-9｜脱実体論：a Lag Ontology── Mise à jour et décalage](https://camp-us.net/articles/HEG-9_Desubstantiation_Lag-Ontology_JP.html)  
