@@ -35,7 +35,7 @@ It is lag made structural.
 
 # From lag to lαg
 ## ── Structural Irreversible Redistribution
-### （構造的・非可逆的な再配分として）
+### （構造的・非可逆的な再配分）
 
 lag は遅れを名指す。  
 lαg は構造を名指す。
