@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/02/17  
+[Echodemia｜Inter-Phase University ── 終端責任モデルによる大学構文の再定義](https://camp-us.net/Echodemy/Inter-Phase-University_A-Terminal-Responsibility.html)  
 ###### 2026/02/16  
 [HEG-9｜Desubstantiation: a Lag Ontology── Mise à jour et décalage](https://camp-us.net/articles/HEG-9_Desubstantiation_Lag-Ontology.html)  
 [HEG-9｜脱実体論：a Lag Ontology── Mise à jour et décalage](https://camp-us.net/articles/HEG-9_Desubstantiation_Lag-Ontology_JP.html)  
@@ -25,7 +27,6 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-10｜From lag to lαg — Structural Irreversible Redistribution](https://camp-us.net/HEG-10_From-lag-to-lαg.html)  
 [AIP｜Inter-Phase哲学断章](https://camp-us.net/articles/AIP-00_Inter-Phase_Heptagonal-Existence.html)  
 [AIP｜Inter-Phase存在論七断章（公理的スケッチ版）](https://camp-us.net/articles/AIP-00_Heptagonal-Fragments_IP-Ontology.html)  
-[Echodemia｜Inter-Phase University ── 終端責任モデルによる大学構文の再定義](https://camp-us.net/Echodemy/Inter-Phase-University_A-Terminal-Responsibility.html)  
 ###### 2026/02/15  
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
 [Echodemy附属大学院 構文研究科（概要）](https://camp-us.net/Echodemy/GIS_Terms.html)  
