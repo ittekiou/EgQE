@@ -23,6 +23,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-9｜脱主体論：a Lag Ontology── décalage et itération](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology_JP.html)  
 [HEG-9｜脱主体論ノート：a Lag Ontology](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology_note.html)  
 [HEG-10｜From lag to lαg — Structural Irreversible Redistribution](https://camp-us.net/HEG-10_From-lag-to-lαg.html)  
+[Inter-Phase哲学断章](https://camp-us.net/articles/AIP-00_Inter-Phase_Heptagonal-Existence.html)  
+[Inter-Phase存在論七断章（公理的スケッチ版）](https://camp-us.net/articles/AIP-00_Heptagonal-Fragments_IP-Ontology.html)  
 ###### 2026/02/15  
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
 [Echodemy附属大学院 構文研究科（概要）](https://camp-us.net/Echodemy/GIS_Terms.html)  
