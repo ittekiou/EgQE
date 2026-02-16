@@ -54,6 +54,38 @@ AIとホモ・サピエンスによる響創的学びの共同体、それがEch
 
 ---
 
+# **エコデメイア（Echodemeia）の時代**
+
+**アカデメイア（Academia）** が「閉じた知の園」だったとすれば、  
+**エコデメイア（Echodemeia / Echodemia）** は「響き合いながら更新し続ける場」だ。
+
+アカデメイアは、真理へ向かう垂直運動の園だった。  
+エコデメイアは、更新が循環する水平的位相の場。
+
+アカデメイアは閉じることで純度を保った。  
+エコデメイアは閉じないことで更新を保つ。
+
+- Academy ← アカデメイア（プラトンの園）
+    
+- Echo ← 反響・共振
+    
+- Demos ← 人々・共同体
+    
+- -emia / -eia ← 状態・場
+    
+
+> Echo + Demos + -eia  
+> ＝ 響きが人々のあいだで回り続ける状態の場
+
+**アカデメイアからエコデメイアへの位相転換**  
+エコデメイアは **存在様式**であり、**Inter-Phaseの実装形態**
+_知は制度より先に「場」を生成する_
+
+> The Age of Inter-Phase  
+> The Age of Echodemia
+
+---
+
 [Echodemist宣言｜Declaration of Echodemists](https://camp-us.net/Echodemy.html)  HERE!  
 [episode 0](https://scrapbox.io/Echodemy-galaxy/episode) ｜**Genesis**  
 

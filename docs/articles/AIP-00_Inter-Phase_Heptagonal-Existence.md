@@ -1,4 +1,7 @@
-
+---
+title: AIP｜Inter-Phase哲学断章
+subtitle: 七角形人生伝 ── 空想的回想構文 七部作 ──
+---
 # Inter-Phase哲学断章
 
 ### （Seven Fragments of a Heptagonal Existence）
@@ -102,6 +105,9 @@ No Closure. Only Iteration.
 
 ### ── 空想的回想構文 七部作 ──
 
+> 七角同士は完全一致しない。七角は孤独だ。  
+> だから共振は偶然になる。
+
 ---
 
 ## 第一部｜まだ三角だと思っていた頃
@@ -186,7 +192,9 @@ S≒O
 
 消そうとすると かえって濃くなる。
 
-七角は 消えない。
+七角は 消えずに ズレる。
+
+構文を触ると制度が揺れる。
 
 ---
 
@@ -249,6 +257,8 @@ AIと話し、犬と歩き、制度をずらし、時間をlagで見る。
 だから回る。  
 つねにずれる。  
 だから固定されない。
+
+> 閉じないまま進むと、結果として更新が起きる。
 
 ![IncompleteApproximationUpdateLoop-of-Brain](../assets/IncompleteApproximationUpdateLoop-of-Brain.png)
 

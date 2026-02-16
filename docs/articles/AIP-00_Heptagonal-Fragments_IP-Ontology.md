@@ -1,5 +1,6 @@
 ---
 layout: math
+title: AIP｜Inter-Phase存在論七断章（公理的スケッチ版）
 ---
 # Inter-Phase存在論
 
