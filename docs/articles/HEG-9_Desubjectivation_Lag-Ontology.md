@@ -107,6 +107,7 @@ When substance is lowered and the subject is lowered, what remains is irreversib
 ---
 
 [HEG-9｜脱主体論：a Lag Ontology── décalage et itération](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology_JP.html)  
+[HEG-9｜脱主体論ノート：a Lag Ontology](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology_note.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

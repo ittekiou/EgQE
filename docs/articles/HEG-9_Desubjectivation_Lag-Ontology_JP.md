@@ -106,6 +106,7 @@ Relational Lag Principle によって形式化される通り、持続が更新�
 ---
 
 [HEG-9｜脱実体論：a Lag Ontology── Mise à jour et décalage](https://camp-us.net/articles/HEG-9_Desubstantiation_Lag-Ontology_JP.html)  
+[HEG-9｜脱主体論ノート：a Lag Ontology](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology_note.html)  
 
 ---
 
