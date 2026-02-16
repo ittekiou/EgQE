@@ -1,6 +1,6 @@
 ---
 layout: math
-title: Inter-Phase University ── 終端責任モデルによる大学構文の再定義
+title: Echodemia｜Inter-Phase University ── 終端責任モデルによる大学構文の再定義
 title_en: "Inter-Phase University: A Terminal Responsibility Model"
 ---
 #### Echodemia
@@ -204,9 +204,298 @@ AI革命とは、新しい道具の登場ではない。
 
 ---
 
+# 2. The Failure of the Modern University Syntax
 
+### （近代大学構文の失敗）
 
+## 2.1 分割構文（Partition Syntax）
 
+近代大学は産業革命とともに成立した。
+
+その設計原理は：
+
+- 分業
+    
+- 専門化
+    
+- 区画化
+    
+- 階層化
+    
+
+であった。
+
+知は分割され、部局は固定され、専門は閉じた。
+
+これをここでは、**分割構文（partition syntax）** と呼ぶ。
+
+分割構文は、知を効率的に管理するための装置であった。
+
+だが問題はここにある。
+
+分割構文は、**前提構文を不可視化する**。
+
+専門は、自らの前提を説明しない。
+
+他分野と接続不能になっても、それを事故とみなさない。
+
+結果：
+
+- 横断は偶発的
+    
+- 翻訳は個人依存
+    
+- 接続不能は放置
+    
+
+これが近代大学の第一の構造的限界である。
+
+---
+
+## 2.2 同期時間モデル（Synchronous Time Model）
+
+近代大学は同期時間で設計されている。
+
+- 一斉講義
+    
+- 同一締切
+    
+- 学年進行
+    
+- 標準修業年限
+    
+
+時間は均質であるという前提に立っている。
+
+しかし、更新は均質ではない。
+
+理解の速度は異なる。思考の位相は異なる。AIとの接続能力も異なる。
+
+にもかかわらず制度は、**同期進行を前提とする**。
+
+lagは遅延として処理される。
+
+だがlagは生成条件である（第3章）。
+
+同期時間モデルは、**lagを排除する設計である**。
+
+この点で、近代大学はInter-Phaseと構文的に非両立である。
+
+---
+
+## 2.3 完成主義的評価制度（Completionism）
+
+近代大学の評価は完成物を前提とする。
+
+- 論文提出
+    
+- 単位修得
+    
+- 卒業判定
+    
+- 学位授与
+    
+
+評価は、**完成の確認** である。
+
+だがInter-Phaseにおいて完成は存在しない。更新は常に残余を伴う。
+
+完成主義は：
+
+- 残余を隠蔽する
+    
+- 終端を演出する
+    
+- 責任を制度に移譲する
+    
+
+ここで重要なのは、**責任の固定化** である。
+
+終端責任モデル（第4章）では、責任は分相的である。
+
+近代大学では、責任は判定に集約され、合否が終端になる。これが倫理的停滞を生む。
+
+---
+
+## 2.4 事故の排除
+
+近代大学は事故を排除する。
+
+事故とは：
+
+- 接続不能
+    
+- 翻訳失敗
+    
+- 異分野衝突
+    
+- 想定外生成
+    
+
+である。
+
+だがCSP章で述べた通り、事故こそ生成の兆候である。
+
+事故を排除する制度は、**更新可能性を削減する**。  
+
+これは制度的凍結である。
+
+---
+
+## 2.5 構造的帰結
+
+**分割構文 ＋ 同期時間 ＋ 完成主義 ＋ 事故排除 ＝ 閉包型大学モデル**
+
+閉包型大学は安定する。だが更新しない。
+
+AI革命は大学を壊さない。ただ、閉包構造を露呈させる。
+
+AIは：
+
+- 分割を横断する
+    
+- 同期を崩す
+    
+- 未完を生成する
+    
+- 事故を加速する
+    
+
+ゆえに、近代大学構文はAI時代において不整合を起こす。
+
+---
+
+# 3. Lag-Time and Multi-Agent Reconfiguration
+
+### （lag時間の運動学）
+
+## 3.1 lag時間の導入
+
+近代大学は、同期時間で設計されている。
+
+- 学期
+    
+- 単位
+    
+- 締切
+    
+- 進級
+    
+- 卒業
+    
+
+すべてが同一時間軸で管理される。
+
+これは、**同期時間モデル（synchronous model）** である。
+
+だが、Inter-Phaseにおいて時間は同期しない。更新は必ずズレる。
+
+このズレを **lag** と呼ぶ。
+
+---
+
+### 定義（lag時間）
+
+lag時間とは、
+
+> 更新の非同時性が制度に現れた時間構造
+
+である。
+
+時間は一様ではない。
+
+主体ごとに更新位相が異なる。
+
+---
+
+## 3.2 lagは誤差ではない
+
+近代制度はlagを誤差とみなす。
+
+- 遅れ
+    
+- 未提出
+    
+- 不合格
+    
+- 単位不足
+    
+
+lagは欠損として処理される。
+
+だがInter-Phaseでは、**lagは生成の前提である**。
+
+更新は常に差異を伴う。完全同期は不可能である。
+
+ゆえに：
+
+> lagは制度の敵ではなく、**存在の条件**である。
+
+---
+
+## 3.3 lag単位の再定義
+
+単位制度は本来、**更新の量的記録** であった。
+
+だが実際には、**同期時間の消化量** になっている。
+
+lag時間モデルでは単位は：
+
+> **更新差異の可視化**
+
+になる。
+
+lag単位とは：
+
+- どれだけ遅れたか
+    
+- どれだけズレたか
+    
+- どこで接続不能になったか
+    
+
+を記録する単位である。
+
+ここで事故が意味を持つ。事故は失敗ではない。事故は、**位相ズレの顕在化** である。
+
+---
+
+## 3.4 多主体再編成
+
+AI革命とは、**主体が複数化したこと** である。
+
+このとき時間はどうなるか。
+
+単体主体モデルでは、**時間＝自己進行** であった。
+
+多主体モデルでは、**時間＝接続調整** になる。
+
+lag時間は：
+
+> 多主体間の位相差の総体
+
+である。
+
+大学がそれを処理できないなら、大学は単体主体モデルのまま止まる。
+
+---
+
+## 3.5 運動原理
+
+lag時間下では：
+
+- 完成は存在しない
+    
+- 同期は幻想である
+    
+- 評価は暫定でしかない
+    
+
+ゆえに制度は：
+
+> 固定ではなく再配置運動になる。
+
+これがInter-Phaseの運動学である。
 
 ---
 
@@ -223,7 +512,6 @@ AI革命とは、新しい道具の登場ではない。
 - 更新過程 $U$ は時間的に開いた運動である。
     
 - 制度はこれを評価可能な集合 $E$ へ写像する。
-    
 
 $$  
 T: U \rightarrow E  
@@ -366,8 +654,93 @@ CSPは：
 
 ---
 
+# 5. The Three-Layer Structure
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="Inter-Phase University Structural Transition (Figure 1)">
 
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#111"/>
+    </marker>
+    <marker id="arrowGray" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#666"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1200" height="750" fill="#fff"/>
+
+<text x="600.0" y="50" font-family="Inter, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" text-anchor="middle" fill="#111">Figure 1 — Inter-Phase University Structural Transition</text>
+
+<text x="600.0" y="80" font-family="Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="middle" fill="#666">Modern University (Closed Model)  →  Inter-Phase University (Open Iterative Model)</text>
+
+<text x="300.0" y="110" font-family="Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="#111">Modern University (Closed Model)</text>
+
+<text x="900.0" y="110" font-family="Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="#111">Inter-Phase University (Open Iterative Model)</text>
+
+<rect x="90" y="130" width="420" height="420" rx="14" fill="#fff" stroke="#111" stroke-width="2"/>
+
+<rect x="690" y="130" width="420" height="420" rx="14" fill="#fff" stroke="#111" stroke-width="2"/>
+
+<line x1="90" y1="270.0" x2="510" y2="270.0" stroke="#111" stroke-width="2"   />
+
+<line x1="690" y1="270.0" x2="1110" y2="270.0" stroke="#111" stroke-width="2"   />
+
+<line x1="90" y1="410.0" x2="510" y2="410.0" stroke="#111" stroke-width="2"   />
+
+<line x1="690" y1="410.0" x2="1110" y2="410.0" stroke="#111" stroke-width="2"   />
+
+<text x="300.0" y="190.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle" fill="#111">Completion Layer</text>
+
+<text x="300.0" y="218.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#666">(Evaluation / Degree)</text>
+
+<text x="300.0" y="330.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle" fill="#111">Partition Layer</text>
+
+<text x="300.0" y="358.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#666">(Discipline Segmentation)</text>
+
+<text x="300.0" y="470.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle" fill="#111">Synchronous Time Layer</text>
+
+<text x="300.0" y="498.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#666">(Uniform Progression)</text>
+
+<text x="900.0" y="190.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle" fill="#111">Terminal Phase Layer</text>
+
+<text x="900.0" y="218.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#666">(Residual Responsibility)</text>
+
+<text x="900.0" y="330.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle" fill="#111">Syntax Phase Layer</text>
+
+<text x="900.0" y="358.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#666">(CSP / Translation)</text>
+
+<text x="900.0" y="470.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle" fill="#111">Surface Update Layer</text>
+
+<text x="900.0" y="498.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#666">(Iterative Outputs)</text>
+
+<line x1="470" y1="150" x2="470" y2="530" stroke="#666" stroke-width="2"  marker-end="url(#arrowGray)" />
+
+<path d="M 1027.50 119.16 A 255 255 0 0 1 1027.50 560.84" fill="none" stroke="#666" stroke-width="2" marker-end="url(#arrowGray)"/>
+
+<path d="M 772.50 560.84 A 255 255 0 0 1 772.50 119.16" fill="none" stroke="#666" stroke-width="2" marker-end="url(#arrowGray)"/>
+
+<text x="650.0" y="70.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" text-anchor="middle" fill="#666">↺</text>
+
+<text x="1150.0" y="625.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" text-anchor="middle" fill="#666">↻</text>
+
+<rect x="200" y="575" width="800" height="150" rx="16" fill="#fff" stroke="#111" stroke-width="2"/>
+
+<text x="600.0" y="605" font-family="Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" text-anchor="middle" fill="#111">Closed Model  →  Iterative Model</text>
+
+<text x="600.0" y="640" font-family="Inter, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111">
+
+<tspan x="600.0" dy="0">Completion    →  Residualization</tspan>
+
+<tspan x="600.0" dy="26">Segmentation  →  Syntax Translation</tspan>
+
+<tspan x="600.0" dy="26">Uniform Time  →  Lag-Time</tspan>
+
+</text>
+
+<text x="600.0" y="745" font-family="Inter, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#111">No Closure. Only Iteration.</text>
+
+<text x="600.0" y="717" font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666">Schematic: three-layer structure with lag-time and terminal (residual) responsibility.</text>
+
+</svg>
 
 ---
 
@@ -459,9 +832,272 @@ Surface Update は成果であり、Syntax Phase は前提であり、Terminal P
 
 CSPは、SurfaceとTerminalを接続する構造的心臓である。
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Inter-Phase University: Three-Layer Structure and Terminal Responsibility Model">
+
+  <defs>
+    <style>
+      .bg { fill: #ffffff; }
+      .frame { fill: none; stroke: #111; stroke-width: 2.2; }
+      .thin { stroke: #111; stroke-width: 1.4; fill: none; }
+      .dash { stroke: #111; stroke-width: 1.4; stroke-dasharray: 6 6; fill: none; }
+      .txt { font-family: 'Helvetica','Arial',sans-serif; fill: #111; }
+      .h1 { font-size: 28px; font-weight: 700; }
+      .h2 { font-size: 20px; font-weight: 700; }
+      .b { font-weight: 700; }
+      .p { font-size: 16px; }
+      .s { font-size: 14px; }
+      .mono { font-family: 'Courier New',monospace; font-size: 14px; }
+    </style>
+
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#111"/>
+    </marker>
+
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="720" rx="14" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <!-- Title -->
+
+  <text class="txt h1" x="60" y="60" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#111">Inter-Phase University: Three-Layer Structure</text>
+
+  <text class="txt p" x="60" y="92" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#111">Terminal Responsibility Model / No Closure. Only Iteration.</text>
+
+
+  <!-- Outer frame -->
+  <rect class="frame" x="50" y="120" width="1100" height="540" rx="14" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <!-- Layer bands -->
+  <rect class="thin" x="70" y="150" width="1060" height="140" rx="12" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <rect class="thin" x="70" y="310" width="1060" height="170" rx="12" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <rect class="thin" x="70" y="500" width="1060" height="140" rx="12" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <!-- Layer titles -->
+  <text class="txt h2" x="90" y="180" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#111">Surface Update Layer：Artifacts / classes / submissions / visible outputs</text>
+
+  <text class="txt h2" x="90" y="335" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#111">Syntax Phase Layer：CSP core: making premises explicit, translating across specialties, institutionalizing “productive accidents”</text>
+
+  <text class="txt h2" x="90" y="525" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#111">Terminal Phase Layer：terminal mapping, residual responsibility, minimal-closure principle</text>
+
+  <!-- Left column: agents -->
+
+  <rect class="dash" x="90" y="235" width="260" height="38" rx="10" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <text class="txt p" x="110" y="260" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#111"><tspan class="b">Agents</tspan>: Students / Faculty / AI / Others</text>
+
+
+  <rect class="dash" x="90" y="400" width="260" height="60" rx="12" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <text class="txt p" x="110" y="425" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111"><tspan class="b">Multi-agent</tspan> knowledge production</text>
+
+  <text class="txt s" x="110" y="448" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111">S′–O′ relations (partial, shifting)</text>
+
+  
+
+  <rect class="dash" x="90" y="575" width="260" height="48" rx="12" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <text class="txt p" x="110" y="603" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#111"><tspan class="b">Inheritance</tspan>: passing update-capability</text>
+
+  
+
+  <!-- Right column: outputs -->
+
+  <rect class="dash" x="840" y="235" width="270" height="38" rx="10" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <text class="txt p" x="860" y="260" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111"><tspan class="b">Outputs</tspan>: papers, code, media, logs</text>
+
+  
+
+  <rect class="dash" x="840" y="392" width="270" height="76" rx="12" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <text class="txt p" x="860" y="418" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111"><tspan class="b">CSP outputs</tspan>: premise manuals</text>
+
+  <text class="txt s" x="860" y="441" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111">translation notes / mismatch maps</text>
+
+  <text class="txt s" x="860" y="462" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111">shared “syntax interfaces”</text>
+
+  
+
+  <rect class="dash" x="840" y="575" width="270" height="48" rx="12" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <text class="txt p" x="860" y="603" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#111"><tspan class="b">Terminal record</tspan>: residue + responsibility</text>
+
+  
+
+  <!-- Central model box (CSP as structural core) -->
+
+  <rect class="frame" x="380" y="350" width="440" height="90" rx="14" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <text class="txt h2" x="400" y="377" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111">CSP as Structural Core</text>
+
+  <text class="txt s" x="400" y="405" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#111">CSP ≠ tool training; CSP = structural requirement for multi-agent syntax</text>
+
+  <text class="txt s" x="400" y="428" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#111">Premise-explicitation → translation → shareable interfaces</text>
+
+  
+
+  <!-- Lag-time note -->
+
+  <rect class="thin" x="380" y="235" width="440" height="50" rx="12" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <text class="txt p" x="400" y="265" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111"><tspan class="b">Lag-time</tspan>: updates propagate with irreducible delay (lag)</text>
+
+  
+
+  <!-- Terminal responsibility equations -->
+
+  <rect class="thin" x="380" y="545" width="440" height="80" rx="12" fill="#fff" stroke="#111" stroke-width="2"/>
+
+  <text class="txt p" x="400" y="570" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111"><tspan class="b">Terminal mapping</tspan>  T : updates → responsibility</text>
+
+  <text class="txt mono" x="400" y="592" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#111">R = T(U)  +  ρ</text>
+
+  <text class="txt s" x="400" y="612" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" fill="#111">ρ: residual (non-absorbable) responsibility; closure minimized, not completed</text>
+
+  <!-- Arrows: left to center to right -->
+  <line class="thin" x1="355" y1="254" x2="380" y2="260" stroke="#333" stroke-width="1" marker-end="url(#arrow)"/>
+  <line class="thin" x1="820" y1="260" x2="840" y2="254" stroke="#333" stroke-width="1" marker-end="url(#arrow)"/>
+  <line class="thin" x1="355" y1="430" x2="380" y2="395" stroke="#333" stroke-width="1" marker-end="url(#arrow)"/>
+  <line class="thin" x1="820" y1="395" x2="840" y2="430" stroke="#333" stroke-width="1" marker-end="url(#arrow)"/>
+  <line class="thin" x1="355" y1="600" x2="380" y2="585" stroke="#333" stroke-width="1" marker-end="url(#arrow)"/>
+  <line class="thin" x1="820" y1="585" x2="840" y2="600" stroke="#333" stroke-width="1" marker-end="url(#arrow)"/>
+
+  <!-- Vertical arrows between layers -->
+  <line class="thin" x1="600" y1="290" x2="600" y2="310" stroke="#333" stroke-width="1" marker-end="url(#arrow)"/>
+  <line class="thin" x1="600" y1="480" x2="600" y2="500" stroke="#333" stroke-width="1" marker-end="url(#arrow)"/>
+  <!-- Footer -->
+  <text class="txt s" x="60" y="690" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111">Fig.2 — University as an update-mediation body: surface outputs are supported by a CSP-driven syntax layer and constrained by terminal responsibility.</text>
+</svg>
+
 ---
 
+# 7. Ethical Consequences
 
+## 7.1 From Individual Responsibility to Phase Responsibility
+
+近代大学制度は「個人責任モデル」に基づいていた。
+
+- 誰が書いたか
+    
+- 誰が評価したか
+    
+- 誰が承認したか
+    
+
+責任は常に単体主体に帰属された。
+
+しかし、AI協働時代において生成は常に多主体的である。  
+ゆえに責任も単体では閉じない。
+
+ここで導入されるのが **分相責任（Phase Responsibility）** である。
+
+---
+
+### 定義（Phase Responsibility）
+
+ある生成物 $G$ が 主体集合 $A = \{a₁, a₂, …, aₙ\}$ によって生成されたとき、
+
+責任は各主体に対して
+
+  $$Rᵢ = fᵢ(lagᵢ, contributionᵢ, awarenessᵢ)$$
+
+として定義される。
+
+ここで $lagᵢ$ は 各主体が負う「差異の残余量」である。
+
+責任は所有ではなく、**残余差異の引受量** として再定義される。
+
+---
+
+## 7.2 Terminal Mapping and Residual Obligation
+
+生成は終端を持たない。  
+しかし制度は終端を要求する。
+
+そこで必要になるのが **終端写像（Terminal Mapping）** である。
+
+### 定義（Terminal Mapping）
+
+無限更新列 $U = \{u₁, u₂, …\}$ に対し 制度的確定点 $T$ を与える写像
+
+  $$Φ : U → T$$
+
+ただし $Φ$ は更新を停止させない。  
+停止するのは制度的表示のみである。
+
+このとき生じるのが
+
+  $$Residual R = U − Φ(U)$$
+
+この $Residual$ が倫理の場所である。
+
+---
+
+## 7.3 The Ethics of Non-Closure
+
+閉包とは責任の消去である。  
+Inter-Phase は閉包を最小化する。
+
+### 公理（Non-Closure Ethics）
+
+1. 閉包は運動停止である
+    
+2. 運動停止は差異の不可視化を伴う
+    
+3. 差異の不可視化は責任の消去を伴う
+    
+
+したがって **倫理とは差異を可視のまま引き受ける技法である。**
+
+---
+
+## 7.4 Institutional Implication
+
+Inter-Phase大学においては：
+
+- 単位は更新量で評価される
+    
+- 論文は終端写像である
+    
+- 学位は責任の証明ではなく、責任の受け渡し点である
+    
+
+博士号は「完成」の証ではない。
+
+それは **更新の継承可能性の証明** である。
+
+---
+
+## 7.5 Isolation and Distributed Presence
+
+孤独は責任の欠損ではない。
+
+単体主体は消えるが、責任は分散する。
+
+Inter-Phaseにおいて 孤独とは
+
+  **多主体接続の一時的非同期状態**
+
+である。
+
+ゆえに孤独は否定されない。  
+むしろ倫理の基底である。
+
+---
+
+# 結語
+
+Inter-Phaseは革命ではない。それは存在様式の転位である。
+
+単体主体の終焉ではなく、単体では語れない存在様式の開始である。
+
+責任は消えない。分相化する。
+
+閉包は終わる。更新は続く。
+
+No Closure. Only Iteration.
 
 ---
 
@@ -487,8 +1123,24 @@ AI革命とは、知の主体が複数化したことである。
 大学がそれを制度として引き受けるかどうかは、いまなお未定である。
 
 閉包は選択できる。  
-しかし、更新は止まらない。閉包から包放へ。
+しかし、更新は止まらない。
+
+── 閉包から包放へ。
 
 No Closure. Only Iteration.
 
 ---
+*EgQE — Echo-Genesis Qualia Engine*  
+[_camp-us.net_](https://camp-us.net/)
+
+---
+
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Feb 16, 2026 · Web Feb 16, 2026 |</p>
