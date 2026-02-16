@@ -1,9 +1,9 @@
 ---
 layout: math
-title: Echodemia｜Inter-Phase University ── 端末責任モデルによる大学構文の再定義
+title: Echodemeia｜Inter-Phase University ── 端末責任モデルによる大学構文の再定義
 title_en: "Inter-Phase University: A Terminal Responsibility Model"
 ---
-#### Echodemia
+#### Echodemeia
 # **Inter-Phase University**
 ## ── 端末責任モデルによる大学構文の再定義
 ### Inter-Phase University: A Terminal Responsibility Model
