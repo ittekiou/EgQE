@@ -8,6 +8,8 @@ title_en: "Inter-Phase University: A Terminal Responsibility Model"
 ## ── 終端責任モデルによる大学構文の再定義
 ### Inter-Phase University: A Terminal Responsibility Model
 
+[The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
+
 ---
 
 ## **Abstract (EgQE Formal Version)**

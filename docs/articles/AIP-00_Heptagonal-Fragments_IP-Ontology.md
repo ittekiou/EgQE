@@ -8,8 +8,8 @@ title: AIP｜Inter-Phase存在論七断章（公理的スケッチ版）
 
 ### 副題：_Heptagonal Fragments Toward an Inter-Phase Ontology_
 
-👉 [Inter-Phase](https://camp-us.net/Inter-Phase.html)  
 [Inter-Phase哲学断章](https://camp-us.net/articles/AIP-00_Inter-Phase_Heptagonal-Existence.html)  
+[The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
 
 ---
 

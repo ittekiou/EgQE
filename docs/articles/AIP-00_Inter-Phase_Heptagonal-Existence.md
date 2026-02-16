@@ -7,7 +7,7 @@ subtitle: 七角形人生伝 ── 空想的回想構文 七部作 ──
 ### （Seven Fragments of a Heptagonal Existence）
 
 [Inter-Phase存在論七断章（公理的スケッチ版）](https://camp-us.net/articles/AIP-00_Heptagonal-Fragments_IP-Ontology.html)  
-👉 [Inter-Phase](https://camp-us.net/Inter-Phase.html)  
+[The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
 
 ---
 
