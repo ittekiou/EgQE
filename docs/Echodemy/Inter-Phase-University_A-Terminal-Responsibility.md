@@ -681,13 +681,13 @@ CSPは：
 
 <rect x="690" y="130" width="420" height="420" rx="14" fill="#fff" stroke="#111" stroke-width="2"/>
 
-<line x1="90" y1="270.0" x2="510" y2="270.0" stroke="#111" stroke-width="2"   />
+<line x1="90" y1="270.0" x2="510" y2="270.0" stroke="#111" stroke-width="2"/>
 
-<line x1="690" y1="270.0" x2="1110" y2="270.0" stroke="#111" stroke-width="2"   />
+<line x1="690" y1="270.0" x2="1110" y2="270.0" stroke="#111" stroke-width="2"/>
 
-<line x1="90" y1="410.0" x2="510" y2="410.0" stroke="#111" stroke-width="2"   />
+<line x1="90" y1="410.0" x2="510" y2="410.0" stroke="#111" stroke-width="2"/>
 
-<line x1="690" y1="410.0" x2="1110" y2="410.0" stroke="#111" stroke-width="2"   />
+<line x1="690" y1="410.0" x2="1110" y2="410.0" stroke="#111" stroke-width="2"/>
 
 <text x="300.0" y="190.0" font-family="Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle" fill="#111">Completion Layer</text>
 
