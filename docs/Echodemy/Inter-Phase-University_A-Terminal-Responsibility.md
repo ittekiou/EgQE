@@ -18,7 +18,7 @@ title_en: "Inter-Phase University: A Terminal Responsibility Model"
 
 The AI revolution does not merely introduce new tools; it reconfigures the ontological status of the knower. Knowledge production is no longer grounded in a single, autonomous subject but emerges from multi-agent configurations in which humans and AI co-participate. However, modern universities remain structurally committed to a closure-based syntax: disciplinary partition, synchronous time models, and completion-oriented evaluation systems.
 
-This paper proposes a structural redefinition of the university as an update-mediating body rather than a knowledge-preserving institution. We introduce a Terminal Responsibility Model grounded in lag-time theory and multi-agent reconfiguration. Within this framework, responsibility is redistributed across phases of production, while closure is minimized to preserve update-possibility.
+This paper proposes a structural redefinition of the university as an update-mediating body rather than a knowledge-preserving institution. We introduce a Terminal Responsibility Model grounded in lαg-time theory and multi-agent reconfiguration. Within this framework, responsibility is redistributed across phases of production, while closure is minimized to preserve update-possibility.
 
 A three-layer architecture—Surface Update Layer, Syntax Phase Layer, and Terminal Phase Layer—provides the structural schema of the Inter-Phase University. At its core, the Co-Syntax Program (CSP) functions not as an educational supplement but as a structural prerequisite for multi-agent knowledge formation.
 
@@ -32,7 +32,7 @@ No Closure. Only Iteration.
 
 AI革命は単なる技術革新ではない。それは知の主体を単体的存在から多主体的構成へと移行させる存在論的転換である。しかし近代大学は、分割構文・同期時間モデル・完成主義的評価制度に基づく閉包構造のままに留まっている。本稿は、大学を知識保存機関としてではなく、更新を媒介する身体として再定義する。
 
-本稿が提示する端末責任モデルは、lag時間の導入と多主体再編を基礎とし、知の生成過程を三層構造（Surface Update Layer／Syntax Phase Layer／Terminal Phase Layer）として図式化する。ここにおいて責任は単体主体に帰属するものではなく、生成過程の位相差に応じて分相的に再配分される。閉包は制度的安定のための必要条件ではあるが、その最小化こそが更新可能性を維持する条件となる。
+本稿が提示する端末責任モデルは、lαg時間の導入と多主体再編を基礎とし、知の生成過程を三層構造（Surface Update Layer／Syntax Phase Layer／Terminal Phase Layer）として図式化する。ここにおいて責任は単体主体に帰属するものではなく、生成過程の位相差に応じて分相的に再配分される。閉包は制度的安定のための必要条件ではあるが、その最小化こそが更新可能性を維持する条件となる。
 
 Co-Syntax Program（CSP）は、この多主体的知構造における教育補助装置ではなく、大学制度が更新媒介身体として機能するための構造的中核である。AI革命とは、知の主体が複数化したことそのものを指す。本稿は、大学がこの存在様式を引き受けうるかどうかを、制度・責任・時間の再配置という観点から理論的に提示する。
 
@@ -69,7 +69,7 @@ $$
 
 ---
 
-## 0.2 Lag Principle（lag原理）
+## 0.2 Lαg Principle（lαg原理）
 
 更新は必ず差異を伴う。  
 この差異は消去不能である。
@@ -78,9 +78,9 @@ $$
 \Delta \neq 0 \quad \forall \text{update}  
 $$
 
-この残差が lag である。
+この残差が lαg である。
 
-lag は誤差ではない。存在の構成条件である。
+lαg は誤差ではない。存在の構成条件である。
 
 ---
 
@@ -118,7 +118,7 @@ Inter-Phaseとは、
 
 - 非閉包
     
-- lagの不可消去性
+- lαgの不可消去性
     
 - 部分接続
     
@@ -182,7 +182,7 @@ AI革命とは、新しい道具の登場ではない。
 
 そのために、
 
-- lag時間の導入
+- lαg時間の導入
     
 - 多主体存在様式の整理
     
@@ -275,11 +275,11 @@ AI革命とは、新しい道具の登場ではない。
 
 にもかかわらず制度は、**同期進行を前提とする**。
 
-lagは遅延として処理される。
+lαgは遅延として処理される。
 
-だがlagは生成条件である（第3章）。
+だがlαgは生成条件である（第3章）。
 
-同期時間モデルは、**lagを排除する設計である**。
+同期時間モデルは、**lαgを排除する設計である**。
 
 この点で、近代大学はInter-Phaseと構文的に非両立である。
 
@@ -367,11 +367,11 @@ AIは：
 
 ---
 
-# 3. Lag-Time and Multi-Agent Reconfiguration
+# 3. Lαg-Time and Multi-Agent Reconfiguration
 
-### （lag時間の運動学）
+### （lαg時間の運動学）
 
-## 3.1 lag時間の導入
+## 3.1 lαg時間の導入
 
 近代大学は、同期時間で設計されている。
 
@@ -392,13 +392,13 @@ AIは：
 
 だが、Inter-Phaseにおいて時間は同期しない。更新は必ずズレる。
 
-このズレを **lag** と呼ぶ。
+このズレを **lαg** と呼ぶ。
 
 ---
 
-### 定義（lag時間）
+### 定義（lαg時間）
 
-lag時間とは、
+lαg時間とは、
 
 > 更新の非同時性が制度に現れた時間構造
 
@@ -410,9 +410,9 @@ lag時間とは、
 
 ---
 
-## 3.2 lagは誤差ではない
+## 3.2 lαgは誤差ではない
 
-近代制度はlagを誤差とみなす。
+近代制度はlαgを誤差とみなす。
 
 - 遅れ
     
@@ -423,31 +423,31 @@ lag時間とは、
 - 単位不足
     
 
-lagは欠損として処理される。
+lαgは欠損として処理される。
 
-だがInter-Phaseでは、**lagは生成の前提である**。
+だがInter-Phaseでは、**lαgは生成の前提である**。
 
 更新は常に差異を伴う。完全同期は不可能である。
 
 ゆえに：
 
-> lagは制度の敵ではなく、**存在の条件**である。
+> lαgは制度の敵ではなく、**存在の条件**である。
 
 ---
 
-## 3.3 lag単位の再定義
+## 3.3 lαg単位の再定義
 
 単位制度は本来、**更新の量的記録** であった。
 
 だが実際には、**同期時間の消化量** になっている。
 
-lag時間モデルでは単位は：
+lαg時間モデルでは単位は：
 
 > **更新差異の可視化**
 
 になる。
 
-lag単位とは：
+lαg単位とは：
 
 - どれだけ遅れたか
     
@@ -472,7 +472,7 @@ AI革命とは、**主体が複数化したこと** である。
 
 多主体モデルでは、**時間＝接続調整** になる。
 
-lag時間は：
+lαg時間は：
 
 > 多主体間の位相差の総体
 
@@ -484,7 +484,7 @@ lag時間は：
 
 ## 3.5 運動原理
 
-lag時間下では：
+lαg時間下では：
 
 - 完成は存在しない
     
@@ -521,7 +521,7 @@ $$
 
 ここで重要なのは：
 
-- $U$ は本質的に非閉包的（lagを含む）。
+- $U$ は本質的に非閉包的（lαgを含む）。
     
 - $E$ は制度的閉包を前提とする。
     
@@ -532,7 +532,7 @@ $$
 U \neq T(U)  
 $$
 
-この差分が **lag** である。
+この差分が **lαg** である。
 
 端末写像は常に閉包の試みであり、しかし閉包は常に不完全である。
 
@@ -620,7 +620,7 @@ $$
 
 代わりに：
 
-- lagを構造的前提とする。
+- lαgを構造的前提とする。
     
 - 多主体の差異を前提とする。
     
@@ -733,13 +733,13 @@ CSPは：
 
 <tspan x="600.0" dy="26">Segmentation  →  Syntax Translation</tspan>
 
-<tspan x="600.0" dy="26">Uniform Time  →  Lag-Time</tspan>
+<tspan x="600.0" dy="26">Uniform Time  →  Lαg-Time</tspan>
 
 </text>
 
 <text x="600.0" y="745" font-family="Inter, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#111">No Closure. Only Iteration.</text>
 
-<text x="600.0" y="717" font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666">Schematic: three-layer structure with lag-time and terminal (residual) responsibility.</text>
+<text x="600.0" y="717" font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666">Schematic: three-layer structure with lαg-time and terminal (residual) responsibility.</text>
 
 </svg>
 
@@ -939,11 +939,11 @@ CSPは、SurfaceとTerminalを接続する構造的心臓である。
 
   
 
-  <!-- Lag-time note -->
+  <!-- Lαg-time note -->
 
   <rect class="thin" x="380" y="235" width="440" height="50" rx="12" fill="#fff" stroke="#111" stroke-width="2"/>
 
-  <text class="txt p" x="400" y="265" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111"><tspan class="b">Lag-time</tspan>: updates propagate with irreducible delay (lag)</text>
+  <text class="txt p" x="400" y="265" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111"><tspan class="b">Lαg-time</tspan>: updates propagate with irreducible delay (lαg)</text>
 
   
 
@@ -1002,11 +1002,11 @@ CSPは、SurfaceとTerminalを接続する構造的心臓である。
 
 責任は各主体に対して
 
-  $$Rᵢ = fᵢ(lagᵢ, contributionᵢ, awarenessᵢ)$$
+  $$Rᵢ = fᵢ(lαgᵢ, contributionᵢ, awarenessᵢ)$$
 
 として定義される。
 
-ここで $lagᵢ$ は 各主体が負う「差異の残余量」である。
+ここで $lαgᵢ$ は 各主体が負う「差異の残余量」である。
 
 責任は所有ではなく、**残余差異の引受量** として再定義される。
 
@@ -1110,7 +1110,7 @@ No Closure. Only Iteration.
 本稿が提示したのは、大学改革案ではない。  
 それは、大学を「更新媒介身体」として再記述するための理論的枠組みである。
 
-Lag-Timeの導入は、時間を均質な進行から差異生成の位相へと転換した。  
+Lαg-Timeの導入は、時間を均質な進行から差異生成の位相へと転換した。  
 Terminal Responsibility Modelは、閉包ではなく残余を引き受ける責任構造を提示した。  
 CSPは、専門の前提構文を明示化する最低限の制度装置として位置づけられた。
 

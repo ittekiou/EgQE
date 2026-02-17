@@ -44,7 +44,7 @@ $$
 
 ---
 
-## §3 Lag原理（Irreducible Residue Principle）
+## §3 Lαg原理（Irreducible Residue Principle）
 
 **A3｜差異は消去不能である。**
 
@@ -72,7 +72,7 @@ $$
 
 ---
 
-## §5 時間生成命題（Lag-Time Proposition）
+## §5 時間生成命題（Lαg-Time Proposition）
 
 **P1｜時間は差異の蓄積効果である。**
 
