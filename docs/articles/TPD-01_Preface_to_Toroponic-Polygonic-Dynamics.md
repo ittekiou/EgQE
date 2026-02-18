@@ -898,7 +898,7 @@ S/O も同様に：
 
   <!-- regions -->
   <!-- Freezing (Hexagon) region: low update intensity -->
-  <rect class="region" x="150" y="430" width="690" height="70" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
+  <rect class="box" x="150" y="430" width="690" height="70" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
   <text class="label" x="170" y="460">FREEZING phase (Hexagon / m=6)</text>
   <text class="label small" x="170" y="485">sleep • trace fixation • local stability (Z-dominant)</text>
 
@@ -909,7 +909,7 @@ S/O も同様に：
   <text class="label small" x="400" y="350">updating → persistence (R↔Z reciprocity)</text>
 
   <!-- Diffusive / Fiction-excess region: high intensity, fine coarse-graining -->
-  <rect class="region" x="560" y="140" width="300" height="110" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
+  <rect class="box" x="560" y="140" width="300" height="110" rx="16" fill="#ffffff" opacity="0.96" stroke="#111" stroke-width="2"/>
   <text class="label" x="575" y="170">DIFFUSIVE / FICTION-EXCESS (m ≥ 8)</text>
   <text class="label small" x="575" y="195">description outruns structure</text>
   <text class="label small" x="575" y="220">narrative fixation / over-modeling</text>
