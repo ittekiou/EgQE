@@ -886,7 +886,7 @@ S/O も同様に：
   <!-- key vertical bands: φ lower bound and golden angle upper bound -->
   <!-- φ as lower bound band -->
   <line class="dash" x1="350" y1="120" x2="310" y2="540"/>
-  <text class="label small" x="230" y="112">φ (lower bound)</text>
+  <text class="label small" x="250" y="112">φ (lower bound)</text>
 
   <!-- golden angle as upper bound line -->
   <line class="dash" x1="790" y1="120" x2="760" y2="540"/>
