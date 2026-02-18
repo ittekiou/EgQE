@@ -43,7 +43,7 @@ For $m = 6$, coarse-grained sectors align too easily with rotational recurrence.
 Under low update intensity:
 
 $$  
-\|\Delta W_n\| \to 0  
+|\Delta W_n| \to 0  
 $$
 
 sector visitation patterns stabilize.
