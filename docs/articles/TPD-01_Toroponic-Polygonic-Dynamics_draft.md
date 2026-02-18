@@ -284,7 +284,7 @@ The hexagon uniquely:
 Under conserved redistribution, low update intensity  
 
 $$  
-\|\Delta W_n\| \to 0  
+|\Delta W_n| \to 0  
 $$
 
 leads to sector recurrence concentrated within fixed regions.
