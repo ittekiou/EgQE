@@ -125,7 +125,7 @@ $$
 最小反転命題：  
 
 $$  
-\boxed{ \text{Persistence does not ground updating;\ updating grounds persistence.}}  
+\boxed{ \text{Persistence does not ground updating; updating grounds persistence.}}  
 $$
 
 （この一行が “脱実体／脱主体” の両方を同時処理する基盤。）
