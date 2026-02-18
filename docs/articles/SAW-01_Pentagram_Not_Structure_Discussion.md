@@ -1,6 +1,7 @@
 ---
 title: Pentagram as an Observational Projection, Not a Structural Symmetry【Discussion and Figures】
 subtitle: "The Generative Origin of the Pentagram (36°/72°) Observational Pattern in Amorphous–Quasicrystalline–Crystalline Transitions: From Polygonal Transitions and Asynchronous Orientation Updates"
+layout: math
 ---
 # Pentagram as an Observational Projection, Not a Structural Symmetry
 

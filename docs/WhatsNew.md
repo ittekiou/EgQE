@@ -16,6 +16,16 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/02/18  
+[ZS-021_理想非結晶──秩序はどこに宿るのか](https://camp-us.net/critics/ZS-021_Ideal-non-crystals.html)  
+[SAW-12｜秩序は対称性を超える── lag制御という構造原理｜Order Beyond Symmetry Breaking: Lag Regulation as a Structural Principle](https://camp-us.net/articles/SAW-12_Order-Beyond-Symmetry-Breaking.html)  
+[TPD-01｜序説＆数理化 (Draft)｜Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Preface_to_Toroponic-Polygonic-Dynamics.html)  
+[TPD-01｜（Draft）Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Toroponic-Polygonic-Dynamics_draft.html)  
+[TPD-01｜Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Toroponic-Polygonic-Dynamics.html)  
+[TPD-02｜The Heptagonal Mode — Minimal Drift Structure](https://camp-us.net/articles/TPD-02_Heptagonal-Mode_Minimal-Drift.html)  
+[TPD-00｜七の定理｜Seven as Minimal Irreducible Rotational Coarse-Graining](https://camp-us.net/articles/TPD-00_Seven_Theorem.html)  
+[TPD-00｜Seven as Minimal Irreducible Rotational Coarse-Graining: A Number-Theoretic and Dynamical Formulation](https://camp-us.net/articles/TPD-00_Seven-as-Minimal-Irreducible-Rotational-Coarse-Graining.html)  
+[TPD-00｜Tropotic lαg Axis: A Minimal Note](https://camp-us.net/articles/TPD-00_Tropotic-lαg-Axis.html)  
 ###### 2026/02/17  
 [Echodemeia｜Inter-Phase University ── 端末責任モデルによる大学構文の再定義](https://camp-us.net/Echodemy/Inter-Phase-University_A-Terminal-Responsibility.html)  
 [Echodemeia｜アカデミズムとエコデミズム── 近代私的所有構文のゆらぎと学会制度](https://camp-us.net/Echodemy/academism-echodemism-Syntax.html)  

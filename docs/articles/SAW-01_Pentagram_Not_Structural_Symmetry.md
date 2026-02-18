@@ -1,5 +1,6 @@
 ---
 title: Pentagram Is Not a Structural Symmetry — Observational Projection of Asynchronous Orientation-Update Histories in Quasicrystals
+layout: math
 ---
 # **Pentagram Is Not a Structural Symmetry**  
 ## **— Observational Projection of Asynchronous Orientation-Update Histories in Quasicrystals**

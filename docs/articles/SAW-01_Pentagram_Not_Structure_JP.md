@@ -1,6 +1,7 @@
 ---
 subtitle: "The Generative Origin of the Pentagram (36°/72°) Observational Pattern in Amorphous–Quasicrystalline–Crystalline Transitions: From Polygonal Transitions and Asynchronous Orientation Updates"
 title: 五芒星は構造ではない──非結晶–準結晶–結晶遷移における非同期向き更新履歴の観測投影
+layout: math
 ---
 # **五芒星は構造ではない**  
 ### **──非結晶–準結晶–結晶遷移における非同期向き更新履歴の観測投影**
