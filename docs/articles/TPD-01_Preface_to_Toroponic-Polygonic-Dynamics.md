@@ -1,6 +1,6 @@
 ---
 layout: math
-title: TPD-01｜序説＆数理化 (Draft)｜Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle
+title: TPD-01｜序説＆数理化｜Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle
 ---
 ### TPD-01 Preface
 # Toroponic Polygonic Dynamics

@@ -19,7 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/02/18  
 [ZS-021_理想非結晶──秩序はどこに宿るのか](https://camp-us.net/critics/ZS-021_Ideal-non-crystals.html)  
 [SAW-12｜秩序は対称性を超える── lag制御という構造原理｜Order Beyond Symmetry Breaking: Lag Regulation as a Structural Principle](https://camp-us.net/articles/SAW-12_Order-Beyond-Symmetry-Breaking.html)  
-[TPD-01｜序説＆数理化 (Draft)｜Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Preface_to_Toroponic-Polygonic-Dynamics.html)  
+[TPD-01｜序説＆数理化｜Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Preface_to_Toroponic-Polygonic-Dynamics.html)  
 [TPD-01｜（Draft）Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Toroponic-Polygonic-Dynamics_draft.html)  
 [TPD-01｜Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Toroponic-Polygonic-Dynamics.html)  
 [TPD-02｜The Heptagonal Mode — Minimal Drift Structure](https://camp-us.net/articles/TPD-02_Heptagonal-Mode_Minimal-Drift.html)  
