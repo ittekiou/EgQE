@@ -265,18 +265,20 @@ Seven は「意味」ではなく、**吸収不能性という構造条件**と�
 
 ### (Dynamic Axis Layer)
 
+更新（存在）と向き（運動）と持続（共存）が **Tropotic lαg Axis**として統合される。
+
 Seven は単独で完結しない。
 
 以下の三要素の関係として配置される：
 
 - φ（Golden Ratio）＝閉包傾向
     
-- θₐ（Golden Angle）＝持続的屈折
+- θₐ（Golden Angle）＝生成的屈折
     
 - Seven＝非吸収的ヒンジ
     
 
-Tropotic lαg Axis は、生成（屈折）、閉包（屈服）、持続（不屈）の三態を統合する動態軸である。この層では Three-Layer 版が理論的枠組みを与える。
+Tropotic lαg Axis は、生成（屈折）、閉包（屈服）、持続（不屈）の三態を存在・運動・生態として統合する動態軸である。この層では Three-Layer 版が理論的枠組みを与える。
 
 [TPD-00｜Tropotic lαg Axis: A Minimal Note](https://camp-us.net/articles/TPD-00_Tropotic-lαg-Axis.html)    
 
@@ -290,7 +292,7 @@ Golden Domain とは、φ と θₐ により構造が吸収・整流される�
 
 しかしその境界に、**Heptagonal Hinge** が現れる。
 
-Seven は対立を作るのではない。Seven は吸収を停止させる最小ヒンジである。
+Seven は対立を作るのではない。Seven は吸収に回収されない最小ヒンジである。
 
 [TPD-02｜Toroponic Polygonic Dynamics I｜The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg](https://camp-us.net/articles/TPD-02_Golden-Domain_Heptagonal-Hinge.html)  
 
