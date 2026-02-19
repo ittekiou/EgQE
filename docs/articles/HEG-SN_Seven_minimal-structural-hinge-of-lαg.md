@@ -91,6 +91,10 @@ Seven is structural.
 
 そのあいだで、lαg は生成する。
 
+> φ surrenders.  
+> θₐ deflects.  
+> 7 does not yield.
+
 ---
 
 # HEG-SN｜七だけが屈しない
@@ -194,6 +198,12 @@ $$
 七は構造である。
 
 七だけが屈しない。
+
+
+> Three binds, four squares, five condenses, six stabilizes, eight over-closes, nine loops.  
+> Seven alone does not yield.  
+> _座屈でもなく、卑屈でもなく、窮屈でもなく、退屈でもなく、拮屈でもなく、偏屈でもない。  
+> 不屈だけが持続を生む。_
 
 ---
 
