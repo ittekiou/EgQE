@@ -214,31 +214,148 @@ $$
 
 ---
 
-👉 [TPD-02｜Seven as Ontological Hinge: The Minimal Non-Absorbed Condition of lαg](https://camp-us.net/articles/TPD-02_Seven-as-Ontological-Hinge.html)  
+# TPD｜Seven Architecture Map
 
-👉 [TPD-02｜Toroponic Polygonic Dynamics I｜The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg（Mathematical Enhanced Edition）](https://camp-us.net/articles/TPD-02_Golden-Domain_Heptagonal-Hinge_Mathematical-Enhanced-Edition.html)  
+### — Structural Organization of the Heptagonal Hinge —
 
 ---
 
-# TPD｜Toroponic Polygonic Dynamics
+## 0｜Scope
 
-[TPD-01｜序説＆数理化｜Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Preface_to_Toroponic-Polygonic-Dynamics.html)  
-[TPD-01｜（Draft）Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Toroponic-Polygonic-Dynamics_draft.html)  
-[TPD-01｜Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Toroponic-Polygonic-Dynamics.html)  
-[TPD-02｜The Heptagonal Mode — Minimal Drift Structure](https://camp-us.net/articles/TPD-02_Heptagonal-Mode_Minimal-Drift.html)  
+本ページは、Toroponic-Polygonic Dynamics（TPD）および Seven 系列論文群の**構造整理ページ**である。目的は三つある。
 
-[TPD-00｜七の定理｜Seven as Minimal Irreducible Rotational Coarse-Graining](https://camp-us.net/articles/TPD-00_Seven_Theorem.html)  
-[TPD-00｜Seven as Minimal Irreducible Rotational Coarse-Graining: A Number-Theoretic and Dynamical Formulation](https://camp-us.net/articles/TPD-00_Seven-as-Minimal-Irreducible-Rotational-Coarse-Graining.html)  
+1. 概念層の明確化
+    
+2. 発展順ではなく構造順への再配列
+    
+3. Seven を軸とした理論配置の可視化
+    
 
-## Tropotic lαg Axis
+ここで扱う Seven は象徴ではない。それは **最小非吸収的構造単位** として定義される。
 
-[TPD-00｜Tropotic lαg Axis: A Minimal Note](https://camp-us.net/articles/TPD-00_Tropotic-lαg-Axis.html)  
-[TPD-00｜Tropotic lαg Axis: A Minimal Three-Layer Note｜lαg Axis 三層統合（Draft）](https://camp-us.net/articles/TPD-00_Tropotic-lαg-Axis_Three-Layer.html)  
-[TPD-00｜黄金域と七角ヒンジの動態整理｜（Draft）The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg](https://camp-us.net/articles/TPD-00_Golden-Domain_Heptagonal-Hinge.html)  
-[TPD-00｜定理部分の数理強化（Draft）The Golden Domain and the Heptagonal Hinge](https://camp-us.net/articles/TPD-00_Golden-Domain_Heptagonal-Hinge_Mathematics-Enhanced.html)  
-[TPD-00｜Seven as the Minimal Irreducible Rotational Hinge: A Short Note](https://camp-us.net/articles/TPD-00_Seven_Short-Note.html)  
-[TPD-00｜Seven as Ontological Hinge（日本語版Draft）: Minimal Non-Absorbed Coarse-Graining Theorem](https://camp-us.net/articles/TPD-00_Seven-as-Ontological-Hinge_JP_draft.html)  
+---
+
+# I｜Seven Core
+
+### (Minimal Structural Layer)
+
+Seven に関する基礎命題群：
+
+- [TPD-00｜七の定理｜Seven as Minimal Irreducible Rotational Coarse-Graining](https://camp-us.net/articles/TPD-00_Seven_Theorem.html)  
+    
+- [TPD-00｜Seven as Minimal Irreducible Rotational Coarse-Graining: A Number-Theoretic and Dynamical Formulation](https://camp-us.net/articles/TPD-00_Seven-as-Minimal-Irreducible-Rotational-Coarse-Graining.html)  
+    
+- [TPD-02｜Seven as Ontological Hinge: The Minimal Non-Absorbed Condition of lαg](https://camp-us.net/articles/TPD-02_Seven-as-Ontological-Hinge.html)  
+    
+- [TPD-00｜Seven as the Minimal Irreducible Rotational Hinge: A Short Note](https://camp-us.net/articles/TPD-00_Seven_Short-Note.html)  
+    
+
+ここで示されるのは：
+
+- Seven は素数であるという算術的事実
+    
+- しかし理論上重要なのは、**回転的粗視化において最小の非吸収単位であること**
+    
+
+Seven は「意味」ではなく、**吸収不能性という構造条件**として機能する。
+
+---
+
+# II｜Tropotic lαg Axis
+
+### (Dynamic Axis Layer)
+
+Seven は単独で完結しない。
+
+以下の三要素の関係として配置される：
+
+- φ（Golden Ratio）＝閉包傾向
+    
+- θₐ（Golden Angle）＝持続的屈折
+    
+- Seven＝非吸収的ヒンジ
+    
+
+Tropotic lαg Axis は、生成（屈折）、閉包（屈服）、持続（不屈）の三態を統合する動態軸である。この層では Three-Layer 版が理論的枠組みを与える。
+
+[TPD-00｜Tropotic lαg Axis: A Minimal Note](https://camp-us.net/articles/TPD-00_Tropotic-lαg-Axis.html)    
+
+---
+
+# III｜Golden Domain & Heptagonal Hinge
+
+### (Boundary Interaction Layer)
+
+Golden Domain とは、φ と θₐ により構造が吸収・整流される領域。
+
+しかしその境界に、**Heptagonal Hinge** が現れる。
+
+Seven は対立を作るのではない。Seven は吸収を停止させる最小ヒンジである。
+
 [TPD-02｜Toroponic Polygonic Dynamics I｜The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg](https://camp-us.net/articles/TPD-02_Golden-Domain_Heptagonal-Hinge.html)  
+
+数学強化版では、このヒンジが **不可約回転粗視化条件**として定式化される。
+
+👉 [TPD-02｜Toroponic Polygonic Dynamics I｜The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg（Mathematical Enhanced Edition）](https://camp-us.net/articles/TPD-02_Golden-Domain_Heptagonal-Hinge_Mathematical-Enhanced-Edition.html)  
+[TPD-00｜定理部分の数理強化（Draft）The Golden Domain and the Heptagonal Hinge](https://camp-us.net/articles/TPD-00_Golden-Domain_Heptagonal-Hinge_Mathematics-Enhanced.html)  
+
+---
+
+# IV｜Toroponic-Polygonic Dynamics
+
+### (Dynamic Expansion Layer)
+
+Toroponic：回転的屈折循環  
+Polygonic：多角的構造展開
+
+このTPD 本論で扱われる主題：
+
+- 非同期角度生成
+- [TPD-01｜（Draft）Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Toroponic-Polygonic-Dynamics_draft.html)  
+
+- 吸収と非吸収の力学  
+- [TPD-01｜Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Toroponic-Polygonic-Dynamics.html)  
+- [TPD-02｜The Heptagonal Mode — Minimal Drift Structure](https://camp-us.net/articles/TPD-02_Heptagonal-Mode_Minimal-Drift.html)  
+
+Heptagonal Mode は、**吸収されない最小ドリフト状態**として導入される。
+
+---
+
+# V｜Integrated Snapshot（HEG-SN）
+
+HEG-SN は、上記層の統合的スナップショットである。
+
+Seven は、象徴でも神秘でもなく、黄金構造への敵対でもなく、構造的吸収を停止させる最小ヒンジとして再定義される。
+
+[HEG-SN｜七だけが屈しない──不屈の動態学｜Toward a Minimal Structural Condition of Irreversibility](https://camp-us.net/articles/HEG-SN_Seven_minimal-structural-hinge-of-lαg.html)  
+
+---
+
+**初読者**
+
+1. [TPD-00｜Seven as the Minimal Irreducible Rotational Hinge: A Short Note](https://camp-us.net/articles/TPD-00_Seven_Short-Note.html)  
+    
+2. [TPD-00｜Seven as Ontological Hinge（日本語版Draft）: Minimal Non-Absorbed Coarse-Graining Theorem](https://camp-us.net/articles/TPD-00_Seven-as-Ontological-Hinge_JP_draft.html)  
+    
+3. [TPD-00｜黄金域と七角ヒンジの動態整理｜（Draft）The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg](https://camp-us.net/articles/TPD-00_Golden-Domain_Heptagonal-Hinge.html)  
+    
+
+**理論的関心を持つ読者**
+
+1. [TPD-00｜七の定理｜Seven as Minimal Irreducible Rotational Coarse-Graining](https://camp-us.net/articles/TPD-00_Seven_Theorem.html)  
+    
+2. [TPD-00｜Tropotic lαg Axis: A Minimal Three-Layer Note｜lαg Axis 三層統合（Draft）](https://camp-us.net/articles/TPD-00_Tropotic-lαg-Axis_Three-Layer.html)  
+    
+3. [TPD-01｜序説＆数理化｜Toroponic Polygonic Dynamics — Between the Golden Ratio and the Golden Angle](https://camp-us.net/articles/TPD-01_Preface_to_Toroponic-Polygonic-Dynamics.html)  
+    
+
+---
+
+## Note
+
+本整理は、執筆順ではなく**構造順**に基づく。
+
+Seven は理論の中心ではない。中心を作らないための最小条件である。
 
 > 7はlαg下で最小の非吸収回転粗視化ヒンジ。音楽の純正律から宇宙の準周期秩序までを、非同時制御で繋ぐ。
 
