@@ -176,6 +176,13 @@ Seven is the minimal structural condition of persistence without closure.
 Where seven is absent, redistribution collapses.
 
 ---
+
+**Figure 1. The Golden Domain and the Heptagonal Hinge.**   
+![Golden-Domain_and_Heptagonal-Hinge](../assets/Golden-Domain_and_Heptagonal-Hinge.png)  
+
+**Figure 1.** Structural axis of toroponic redistribution between the Golden Ratio (φ; closure/trace regime), the Golden Angle (θₐ; maximal non-simultaneity under irrational rotation), and the minimal non-absorbed coarse-grained hinge (7). The heptagonal regime is the smallest prime partition surviving equal-partition factorization and structural absorption (C1–C3), thereby sustaining coherence between closure and dispersion under lαg.
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

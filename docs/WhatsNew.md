@@ -21,8 +21,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [TPD-00｜黄金域と七角ヒンジの動態整理｜（Draft）The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg](https://camp-us.net/articles/TPD-00_Golden-Domain_Heptagonal-Hinge.html)  
 [TPD-00｜定理部分の数理強化（Draft）The Golden Domain and the Heptagonal Hinge](https://camp-us.net/articles/TPD-00_Golden-Domain_Heptagonal-Hinge_Mathematics-Enhanced.html)  
 [TPD-00｜Seven as the Minimal Irreducible Rotational Hinge: A Short Note](https://camp-us.net/articles/TPD-00_Seven_Short-Note.html)  
-
 [TPD-02｜Toroponic Polygonic Dynamics I｜The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg](https://camp-us.net/articles/TPD-02_Golden-Domain_Heptagonal-Hinge.html)  
+[TPD-02｜Toroponic Polygonic Dynamics I｜The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg（Mathematical Enhanced Edition）](https://camp-us.net/articles/TPD-02_Golden-Domain_Heptagonal-Hinge_Mathematical-Enhanced-Edition.html)  
 [TPD-02｜Seven as Ontological Hinge: The Minimal Non-Absorbed Condition of lαg](https://camp-us.net/articles/TPD-02_Seven-as-Ontological-Hinge.html)  
 ###### 2026/02/18  
 [ZS-021_理想非結晶──秩序はどこに宿るのか](https://camp-us.net/critics/ZS-021_Ideal-non-crystals.html)  
