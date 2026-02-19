@@ -240,6 +240,8 @@ $$
 [TPD-00｜Seven as Ontological Hinge（日本語版Draft）: Minimal Non-Absorbed Coarse-Graining Theorem](https://camp-us.net/articles/TPD-00_Seven-as-Ontological-Hinge_JP_draft.html)  
 [TPD-02｜Toroponic Polygonic Dynamics I｜The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg](https://camp-us.net/articles/TPD-02_Golden-Domain_Heptagonal-Hinge.html)  
 
+> 7はlαg下で最小の非吸収回転粗視化ヒンジ。音楽の純正律から宇宙の準周期秩序までを、非同時制御で繋ぐ。
+
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
