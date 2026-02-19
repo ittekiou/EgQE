@@ -77,7 +77,7 @@ It generates standing.
 
 **There is only one axis: lαg redistributing, reorienting, and sustaining coexistence.**
 
-**軸はひとつだけである。lαg は再配分し、再配向し、共存を持続させる。
+**軸はひとつだけである。lαg は再配分し、再配向し、共存を持続させる。**
 
 ---
 

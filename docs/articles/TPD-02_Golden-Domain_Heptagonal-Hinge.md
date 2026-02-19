@@ -173,6 +173,14 @@ There is no foundational simultaneity.
 There is only lαg redistributing, reorienting, and sustaining coexistence.
 
 ---
+
+**Figure 1.**
+![GoldenDomain-HeptagonalHinge](../assets/GoldenDomain-HeptagonalHinge.png)  
+
+**Figure 1. The Golden Domain and the Heptagonal Hinge.**   
+Irrational rotation under the golden angle (θₐ) generates maximal non-overlapping distribution. Under coarse-graining, sustained redistribution condenses as proportional trace (φ). Seven-fold partitioning functions as the minimal irreducible hinge sustaining coherence between closure and dispersion under the Tropotic lαg Axis.
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
