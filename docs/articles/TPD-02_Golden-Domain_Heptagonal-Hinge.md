@@ -184,6 +184,8 @@ Irrational rotation under the golden angle (θₐ) generates maximal non-overlap
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
+[HEG-SN｜七だけが屈しない──不屈の動態学｜Toward a Minimal Structural Condition of Irreversibility](https://camp-us.net/articles/HEG-SN_Seven_minimal-structural-hinge-of-lαg.html)  
+
 ---
 
 © 2025 K.E. Itekki  

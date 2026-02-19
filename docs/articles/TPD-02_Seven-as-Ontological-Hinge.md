@@ -116,7 +116,7 @@ Thus golden closure forms a structural absorption boundary.
 
 ### Theorem (Minimal Non-Absorbed Partition)
 
-The smallest ( m \ge 2 ) satisfying none of (C1–C3) is
+The smallest $m \ge 2$ satisfying none of (C1–C3) is
 
 $$  
 m = 7.  
@@ -183,8 +183,14 @@ Where seven is absent, redistribution collapses.
 **Figure 1.** Structural axis of toroponic redistribution between the Golden Ratio (φ; closure/trace regime), the Golden Angle (θₐ; maximal non-simultaneity under irrational rotation), and the minimal non-absorbed coarse-grained hinge (7). The heptagonal regime is the smallest prime partition surviving equal-partition factorization and structural absorption (C1–C3), thereby sustaining coherence between closure and dispersion under lαg.
 
 ---
+
+[TPD-02｜Toroponic Polygonic Dynamics I｜The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg（Mathematical Enhanced Edition）](https://camp-us.net/articles/TPD-02_Golden-Domain_Heptagonal-Hinge_Mathematical-Enhanced-Edition.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
+
+[HEG-SN｜七だけが屈しない──不屈の動態学｜Toward a Minimal Structural Condition of Irreversibility](https://camp-us.net/articles/HEG-SN_Seven_minimal-structural-hinge-of-lαg.html)  
 
 ---
 
