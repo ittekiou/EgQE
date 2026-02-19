@@ -14,10 +14,11 @@ title: "TPD-00｜Seven as Ontological Hinge（日本語版Draft）: Minimal Non-
 
 - 円周上の無理回転  
 	
-    $$  
-    T_\omega(x)=x+\omega \pmod{1}  
-    $$  
-    ただし ω は無理数。
+$$  
+T_\omega(x)=x+\omega \pmod{1}  
+$$  
+
+ただし ω は無理数。
     
 - m 等分による粗視化（equal partition coding）
     
