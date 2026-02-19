@@ -310,7 +310,7 @@ Polygonic：多角的構造展開
 
 このTPD 本論で扱われる主題：
 
-- 非同期角度生成
+- 非同期角度生成  
  [TPD-02｜The Heptagonal Mode — Minimal Drift Structure](https://camp-us.net/articles/TPD-02_Heptagonal-Mode_Minimal-Drift.html)  
 
 - 吸収と非吸収の力学  
