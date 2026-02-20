@@ -1,5 +1,6 @@
 ---
 layout: math
+title: "HEG-10｜Axis Prelude｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering"
 ---
 ### HEG-10: Axis Prelude — Bounded Persistent Non-Closure
 # A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics
