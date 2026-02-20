@@ -24,6 +24,9 @@
 [ZS-019_磁壁という境界 ──Why Boundary? 摩擦は痕跡を生むか](https://camp-us.net/critics/ZS-019_Why-Boundary.html)  
 [ZS-020_異方性の「発見」──Why Anisotropy? 単一零点構文破綻の実験的露呈](https://camp-us.net/critics/ZS-020_Why-Anisotropy.html)  
 
+[ZS-021_理想非結晶──秩序はどこに宿るのか](https://camp-us.net/critics/ZS-021_Ideal-non-crystals.html)  
+[ZS-022_構文の射程 ──なぜ single-minus はゼロとされ、なぜ非ゼロが現れたのか](https://camp-us.net/critics/ZS-022_Single-minus_nonzero.html)  
+
 ---
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)

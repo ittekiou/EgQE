@@ -16,6 +16,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+[ZS-022_構文の射程 ──なぜ single-minus はゼロとされ、なぜ非ゼロが現れたのか](https://camp-us.net/critics/ZS-022_Single-minus_nonzero.html)  
 ###### 2026/02/19  
 [TPD-00｜Tropotic lαg Axis: A Minimal Three-Layer Note｜lαg Axis 三層統合（Draft）](https://camp-us.net/articles/TPD-00_Tropotic-lαg-Axis_Three-Layer.html)  
 [TPD-00｜黄金域と七角ヒンジの動態整理｜（Draft）The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg](https://camp-us.net/articles/TPD-00_Golden-Domain_Heptagonal-Hinge.html)  
