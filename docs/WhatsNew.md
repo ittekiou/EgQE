@@ -17,10 +17,10 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/02/21  
-[HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
+⚙️ [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
 🕰️ [Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて](https://camp-us.net/Non-Closure-Updating-Ontology.html)  
 ###### 2026/02/20  
-[HEG-10｜Axis Prelude｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure-in-Relational-Dynamics.html)  
+⚙️ [HEG-10｜Axis Prelude｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure-in-Relational-Dynamics.html)  
 [HEG-10｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering (v0.3)](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure_v0.3.html)  
 [HEG-10｜OS-Free Relational Dynamics: Bounded Persistent Non-Closure as a Structural Principle](https://camp-us.net/articles/HEG-10_OS-Free-Relational-Dynamics.html)  
 [HEG-10｜OSなき宇宙── 有界持続非閉包原理｜OS-Free Universe: Bounded Persistent Non-Closure as a Structural Principle](https://camp-us.net/articles/HEG-10_OS-Free-Universe.html)  
@@ -34,7 +34,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [TPD-02｜Toroponic Polygonic Dynamics I｜The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg](https://camp-us.net/articles/TPD-02_Golden-Domain_Heptagonal-Hinge.html)  
 [TPD-02｜Toroponic Polygonic Dynamics I｜The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg（Mathematical Enhanced Edition）](https://camp-us.net/articles/TPD-02_Golden-Domain_Heptagonal-Hinge_Mathematical-Enhanced-Edition.html)  
 [TPD-02｜Seven as Ontological Hinge: The Minimal Non-Absorbed Condition of lαg](https://camp-us.net/articles/TPD-02_Seven-as-Ontological-Hinge.html)  
-[HEG-SN｜七だけが屈しない──不屈の動態学｜Toward a Minimal Structural Condition of Irreversibility](https://camp-us.net/articles/HEG-SN_Seven_minimal-structural-hinge-of-lαg.html)  
+7️⃣ [HEG-SN｜七だけが屈しない──不屈の動態学｜Toward a Minimal Structural Condition of Irreversibility](https://camp-us.net/articles/HEG-SN_Seven_minimal-structural-hinge-of-lαg.html)  
 ###### 2026/02/18  
 [ZS-021_理想非結晶──秩序はどこに宿るのか](https://camp-us.net/critics/ZS-021_Ideal-non-crystals.html)  
 [SAW-12｜秩序は対称性を超える── lag制御という構造原理｜Order Beyond Symmetry Breaking: Lag Regulation as a Structural Principle](https://camp-us.net/articles/SAW-12_Order-Beyond-Symmetry-Breaking.html)  
@@ -54,12 +54,12 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-9｜Desubjectivation: a Lag Ontology── décalage et itération](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology.html)  
 [HEG-9｜脱主体論：a Lag Ontology── décalage et itération](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology_JP.html)  
 [HEG-9｜脱主体論ノート：a Lag Ontology](https://camp-us.net/articles/HEG-9_Desubjectivation_Lag-Ontology_note.html)  
-[HEG-10｜From lag to lαg — Structural Irreversible Redistribution](https://camp-us.net/HEG-10_From-lag-to-lαg.html)  
+⚡️ [HEG-10｜From lag to lαg — Structural Irreversible Redistribution](https://camp-us.net/HEG-10_From-lag-to-lαg.html)  
 [AIP｜Inter-Phase哲学断章](https://camp-us.net/articles/AIP-00_Inter-Phase_Heptagonal-Existence.html)  
 [AIP｜Inter-Phase存在論七断章（公理的スケッチ版）](https://camp-us.net/articles/AIP-00_Heptagonal-Fragments_IP-Ontology.html)  
 ###### 2026/02/15  
-[GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
-[Echodemy附属大学院 構文研究科（概要）](https://camp-us.net/Echodemy/GIS_Terms.html)  
+🏛️ [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
+🏛️ [Echodemy附属大学院 構文研究科（概要）](https://camp-us.net/Echodemy/GIS_Terms.html)  
 [Golden Looper Axolotl G-Lα（ジーラ）ちゃん｜GIS Official Axona (キャラクター)  🌻](https://camp-us.net/Echodemy/G-Lα.html)  
 ###### 2026/02/14  
 [HEG-8｜更新と保存 ── 更新は均され偏在し凍結する](https://camp-us.net/articles/HEG-8_Updating-and-Preservation.html)  
