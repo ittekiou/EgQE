@@ -321,53 +321,7 @@ A full development—Lie algebraic structure, non-commutative geometry, and quan
 
 ---
 
-# Axis Prelude
-
-The universe is not structured by closure, but by bounded remainder.
-
-Let $\ell(t)=S(t)-O(t)$.  
-What persists is not equilibrium, but lag.
-
-Across drifting envelopes, lag enters four domains:  
-$\phi$ (absorption),  
-$6$ (local symmetry),  
-$H7$ (persistent non-closure),  
-$\theta_a$ (generative tilt).
-
-When observed continuously, lag oscillates.  
-When sampled discretely, it rotates.
-
-Same remainder, different clock.
-
-This is the Axis-4 model.
-## Axis-4: Structural and Generative Correspondence
-
-We introduce a minimal relational axis defined by  
-
-$$  
-\ell(t)=S(t)-O(t).  
-$$
-
-Rather than fixing static thresholds, we classify (\ell(t)) through dynamically drifting envelopes $\epsilon_1(t), \epsilon_2(t)$, yielding four structural domains $\{\phi,6,H7,\theta_a\}$ (Fig.A).  
-These domains do not represent equilibrium states but bounded regimes under persistent non-closure.
-
-Absorption is intentionally misaligned between $S$ and $O$, encoding non-synchronous entry into structured configurations. Stability is therefore not convergence, but bounded persistence under regime switching.
-
-Sampling $\ell(t)$ at discrete update times $t_n$ produces  
-
-$$  
-\theta_n = \mathcal{A}(\ell(t_n)),  
-$$
-
-the residual phase (Fig.B). The continuous remainder and the discrete angular remainder express the same relational surplus under different clocks.
-
-Thus, structural classification (Fig.A) and generative rotation (Fig.B) are two projections of the same lag dynamic.
-
-![Structural-Axis](../assets/Structural-Axis.png)  
-**See Fig.B for the continuous–discrete correspondence, where residual phase $\theta_n$ is defined as the angularized remainder of sampled lag $\ell(t_n)$.**
-
-![Continuous–Discrete-Correspondence](../assets/Continuous–Discrete-Correspondence.png)  
-**See Fig.A for the Axis-4 structural domains $\{\phi,6,H7,\theta_a\}$ governing SO lag, classified by $\|\ell\|$ relative to drifting envelopes $\epsilon_1(t),\epsilon_2(t)$.**
+Axis-4 provides the minimal structural compression of the present framework.
 
 👉 [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
 

@@ -24,7 +24,7 @@ $$
 Across dynamically drifting envelopes, lag enters four domains $\{\phi, 6, H7, \theta_a\}$.  
 When observed continuously, lag oscillates; when sampled discretely, it rotates as residual phase.
 
-Axis-4 unifies structural classification and generative rotation as two clocks of the same bounded relational remainder.
+Axis-4 unifies structural classification and generative rotation as two clocks of the same bounded relational remainder. Axis-4 isolates the minimal relational axis underlying the broader framework of HEG-10.
 
 ---
 
