@@ -1,6 +1,6 @@
 ---
 layout: math
-title:
+title: "HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock"
 ---
 ### HEG-10: Axis-4: Axis-Core Prelude — Bounded Persistent Non-Closure
 # Axis-4
