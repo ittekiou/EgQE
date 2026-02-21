@@ -160,8 +160,8 @@ Here, updating ontology gained formal stability.
 [HEG-10｜Axis Prelude｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure-in-Relational-Dynamics.html)  
 
 [HEG-10｜OSなき宇宙── 有界持続非閉包原理｜OS-Free Universe: Bounded Persistent Non-Closure as a Structural Principle](https://camp-us.net/articles/HEG-10_OS-Free-Universe.html)  
-[HEG-10｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering (v0.3)](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure_v0.3.html)  
 [HEG-10｜OS-Free Relational Dynamics: Bounded Persistent Non-Closure as a Structural Principle](https://camp-us.net/articles/HEG-10_OS-Free-Relational-Dynamics.html)  
+[HEG-10｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering (v0.3)](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure_v0.3.html)  
 
 ![Bounded-Persistent-Non-Closure](./assets/Bounded-Persistent-Non-Closure.png)  
 
