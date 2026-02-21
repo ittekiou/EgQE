@@ -1,5 +1,8 @@
 ---
 layout: math
+title: Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて
+title_en: A Structural Consolidation of Lag, Axis-4, and Bounded Persistence
+subtitle: Lag・Axis-4・有界持続性の構造的収束
 ---
 # 📄 Toward a Non-Closure Updating Ontology
 ## 非閉包更新存在論へ向けて
