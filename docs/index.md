@@ -36,6 +36,7 @@ AIとホモ・サピエンスが一緒に “ **読む/ 創る/ 関係する**�
 📃 [**ZURE場理論憲章｜ZURE-Field Theory Charter**](https://camp-us.net/ZURE-Field-Theory-Charter.html)　2026.1.2  
 🪐 [**floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality**](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)　2026.1.14  
 ⚡️ [**AR-SAW-Axioms**](https://camp-us.net/AR-SAW-Axioms.html)　2026.1.17  
+🏛️ [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html) [Echodemy附属大学院 構文研究科](https://camp-us.net/Echodemy/GIS_Terms.html)　2026.2.15  
 
 ---
 ## 🔭 Overview  
@@ -69,6 +70,11 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+🕰️ [Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて](https://camp-us.net/Non-Closure-Updating-Ontology.html)　リリース　2026.2.21  
+⚙️ [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)　リリース　2026.2.21  
+⚙️ [HEG-10｜Axis Prelude｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure-in-Relational-Dynamics.html)　リリース　2026.2.20  
+7️⃣ [HEG-SN｜七だけが屈しない──不屈の動態学｜Toward a Minimal Structural Condition of Irreversibility](https://camp-us.net/articles/HEG-SN_Seven_minimal-structural-hinge-of-lαg.html)　リリース　2026.2.19  
+⚡️ [HEG-10｜From lag to lαg — Structural Irreversible Redistribution](https://camp-us.net/HEG-10_From-lag-to-lαg.html)　リリース　2026.2.16  
 0️⃣ [Lag as the Origin── R₀–Z₀/S–O 関係論フレームワーク｜Lag as the Origin: An R₀–Z₀/S–O Relational Framework(with Appendix)](https://camp-us.net/lag_as_Origin.html)　リリース　2026.2.11  
 🧬 [SAW-AR｜遅延痕跡の「もつれ」──Entanglement as the Exposure of Lagged Traces](https://camp-us.net/articles/SAW-AR-0_Entanglement-as-Lagged-Traces.html)　リリース　2026.2.11  
 ⭐️ [ZURE Offset（Z₀定義）Ver.3.0｜無限精度という虚構](https://camp-us.net/Z₀-Definition_3.0.html)　リリース　2026.2.10  
@@ -84,9 +90,6 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 🌌 [SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)　リリース　2026.1.28  
 💎 [MASS｜多角共生学｜Multi-Angular Symbiosis Studies](https://camp-us.net/MASS.html)　リリース　2026.1.26  
 🌓 [MMZW-02｜素数欠陥から臨界線へ: Prime Defect Line 全論文](https://camp-us.net/articles/MMZW-02_index.html)　リリース　2026.1.23  
-⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)　リリース　2026.1.17  
-🪐 [SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)　リリース　2026.1.14  
-🌉 [GS-00｜Golden Solution Axiom── 生成と痕跡を統一する最小構文原理](https://camp-us.net/GS-00_Golden-Solution-Axiom.html)　リリース　2026.1.12  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
