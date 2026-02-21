@@ -10,11 +10,17 @@ title: "HEG-10｜Axis Prelude｜A Structural Note on Bounded Persistent Non-Clos
 
 ## Abstract
 
-This note presents a minimal structural observation concerning relational dynamics: exact synchrony does not generically occur, yet divergence is not necessary. Defining lag as ℓ(t) = S′(t) − O′(t), we consider systems in which lag remains bounded but non-vanishing. This condition—termed bounded persistent non-closure—appears naturally in delay differential systems exhibiting Hopf bifurcation and sustained oscillations. A discrete analogue is formulated via residual phase under folding symmetry, establishing structural correspondence between continuous and discrete domains. Reordering the one–two–many hierarchy, we suggest that many-body systems may be treated as structurally primary, with simpler systems emerging as lag-reduction limits. A preliminary generator perspective is briefly indicated. The aim is to provide a minimal cross-domain structural viewpoint rather than to replace existing physical theories. The structural overview is presented in the unified figure below.  
+This note presents a minimal structural observation concerning relational dynamics: exact synchrony does not generically occur, yet divergence is not necessary. Defining lag as ℓ(t) = S′(t) − O′(t), we consider systems in which lag remains bounded but non-vanishing. This condition—termed bounded persistent non-closure—appears naturally in delay differential systems exhibiting Hopf bifurcation and sustained oscillations. A discrete analogue is formulated via residual phase under folding symmetry, establishing structural correspondence between continuous and discrete domains. Reordering the one–two–many hierarchy, we suggest that many-body systems may be treated as structurally primary, with simpler systems emerging as lag-reduction limits. A preliminary generator perspective is briefly indicated. The aim is to provide a minimal cross-domain structural viewpoint rather than to replace existing physical theories. The structural overview is presented in the unified figure below. Axis-4 (Axis-Core Prelude) is derived as the minimal structural core of the relational lag dynamics introduced here.
 
 ![Heg10](../assets/Heg10.png)  
 **Figure — Structural Overview of Bounded Persistent Non-Closure.**  
-Continuous–discrete correspondence and hierarchical reordering are shown in a unified diagram.
+Continuous–discrete correspondence and hierarchical reordering are shown in a unified diagram. See Axis-4 (Axis-Core Prelude) for the minimal axis model of relational lag.
+
+---
+
+> In this note we introduce the structural dynamics of relational lag ($\ell(t)=S(t)-O(t)$). As a minimal core projection of this structure, see **Axis-4: Axis-Core Prelude v1.0** for a compact axis model that unifies structural domains and generative correspondence.
+
+👉 [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
 
 ---
 
@@ -263,6 +269,109 @@ Periodic structure does not presuppose π as fundamental; π appears as a descri
 ### On Z₀
 
 Closed zero-point formulations correspond to limiting cases of lag reduction. The present framework operates prior to such closure assumptions.
+
+---
+
+## X. Axis-Core Prelude as a Minimal Bridge
+
+A minimal bridge between discrete updates and continuous evolution is given by the classical correspondence  
+
+$$  
+x_{n+1}=Ux_n,\qquad \dot x = \mathcal A x,\qquad U = e^{\mathcal A \Delta t},  
+$$   
+so that  
+
+$$
+\mathcal A = \frac{1}{\Delta t}\log U .  
+$$
+
+In the discrete description, eigenvalues typically appear on the unit circle,  
+
+$$  
+\mu_k = e^{i\theta_k},  
+$$
+
+while in continuous time the corresponding generator eigenvalues satisfy  
+
+$$  
+\lambda_k = \frac{1}{\Delta t}\log \mu_k = \frac{i,\theta_k}{\Delta t}\quad (\mathrm{mod} 2\pi i/\Delta t).  
+$$
+
+Hence, **residual phase $\theta_k$** in discrete dynamics becomes the **imaginary part** (frequency) of the generator spectrum in continuous time.
+
+Motivated by this, we note that relational lag may be treated as a generator candidate. If one introduces operators $\mathcal S,\mathcal O$ for subject/object update actions and defines a relational lag operator by the commutator  
+
+$$  
+\mathcal L := [\mathcal S,\mathcal O],  
+$$
+
+then a lag-induced update may be formally written as  
+
+$$  
+U = e^{\mathcal L}.  
+$$
+
+This suggests that **persistent non-closure** can be interpreted as a **spectral property of a relational generator**, with the Axis-4 domains providing the structural classification of regimes in which such spectral remnants persist.
+
+A full development—Lie algebraic structure, non-commutative geometry, and quantization—lies beyond the scope of this note and is left for future work.
+
+> We do not pursue a full generator theory here; the purpose of this section is only to secure the continuous–discrete bridge that makes “same remainder, different clock” mathematically literal.
+
+> _Note:_ the complex logarithm is multivalued, $\log(e^{i\theta}) = i(\theta+2\pi m)$, which corresponds to phase-winding ambiguity. We treat this as part of the residual structure rather than a defect.
+
+---
+
+# Axis Prelude
+
+The universe is not structured by closure, but by bounded remainder.
+
+Let $\ell(t)=S(t)-O(t)$.  
+What persists is not equilibrium, but lag.
+
+Across drifting envelopes, lag enters four domains:  
+$\phi$ (absorption),  
+$6$ (local symmetry),  
+$H7$ (persistent non-closure),  
+$\theta_a$ (generative tilt).
+
+When observed continuously, lag oscillates.  
+When sampled discretely, it rotates.
+
+Same remainder, different clock.
+
+This is the Axis-4 model.
+## Axis-4: Structural and Generative Correspondence
+
+We introduce a minimal relational axis defined by  
+
+$$  
+\ell(t)=S(t)-O(t).  
+$$
+
+Rather than fixing static thresholds, we classify (\ell(t)) through dynamically drifting envelopes $\epsilon_1(t), \epsilon_2(t)$, yielding four structural domains $\{\phi,6,H7,\theta_a\}$ (Fig.A).  
+These domains do not represent equilibrium states but bounded regimes under persistent non-closure.
+
+Absorption is intentionally misaligned between $S$ and $O$, encoding non-synchronous entry into structured configurations. Stability is therefore not convergence, but bounded persistence under regime switching.
+
+Sampling $\ell(t)$ at discrete update times $t_n$ produces  
+
+$$  
+\theta_n = \mathcal{A}(\ell(t_n)),  
+$$
+
+the residual phase (Fig.B). The continuous remainder and the discrete angular remainder express the same relational surplus under different clocks.
+
+Thus, structural classification (Fig.A) and generative rotation (Fig.B) are two projections of the same lag dynamic.
+
+![Structural-Axis](../assets/Structural-Axis.png)  
+**See Fig.B for the continuous–discrete correspondence, where residual phase $\theta_n$ is defined as the angularized remainder of sampled lag $\ell(t_n)$.**
+
+![Continuous–Discrete-Correspondence](../assets/Continuous–Discrete-Correspondence.png)  
+**See Fig.A for the Axis-4 structural domains $\{\phi,6,H7,\theta_a\}$ governing SO lag, classified by $\|\ell\|$ relative to drifting envelopes $\epsilon_1(t),\epsilon_2(t)$.**
+
+👉 [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
+
+#axis-core-prelude #bounded-persistent-non-closure
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

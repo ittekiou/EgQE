@@ -7,6 +7,10 @@ title: "HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspon
 ## Structural and Generative Correspondence of Relational Lag
 ## _— Same Remainder, Different Clock_
 
+> Axis-4 arises as the minimal structural projection of the bounded persistent non-closure dynamics introduced in **HEG-10: Bounded Persistent Non-Closure in Relational Dynamics**. While this note focuses on core relational architecture, fuller context and broader structural dynamics are found in the HEG-10 exposition.
+
+👉 [HEG-10｜Axis Prelude｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure-in-Relational-Dynamics.html)  
+
 ---
 
 ## Abstract
@@ -111,58 +115,15 @@ The continuous remainder and the discrete angular remainder express the same rel
 
 ---
 
-# 4. Generator Perspective (Preliminary)
+## 4. Generator Perspective (Minimal Remark)
 
-Discrete evolution may be written as
+Discrete update and continuous evolution are classically related by $U = e^{\mathcal A \Delta t}$.
 
-$$  
-x_{n+1} = U x_n,  
-$$
+If relational lag is represented by a commutator $\mathcal L = [\mathcal S, \mathcal O]$, then formally $U = e^{\mathcal L}$.
 
-while continuous evolution satisfies
+Thus, persistent non-closure may be interpreted as a spectral property of a relational generator.
 
-$$  
-\dot{x} = \mathcal{A} x,  
-\quad  
-U = e^{\mathcal{A}\Delta t}.  
-$$
-
-Hence,
-
-$$  
-\mathcal{A} = \frac{1}{\Delta t} \log U.  
-$$
-
-If discrete eigenvalues satisfy
-
-$$  
-\mu_k = e^{i\theta_k},  
-$$
-
-then
-
-$$  
-\lambda_k = \frac{1}{\Delta t}\log \mu_k  
-= \frac{i\theta_k}{\Delta t}.  
-$$
-
-Residual phase in discrete dynamics corresponds to the imaginary part of the continuous generator spectrum.
-
-If relational lag is represented by a commutator
-
-$$  
-\mathcal{L} = [\mathcal{S}, \mathcal{O}],  
-$$
-
-then
-
-$$  
-U = e^{\mathcal{L}}.  
-$$
-
-Persistent non-closure may therefore be interpreted as a spectral property of a relational generator.
-
-A full generator theory is beyond the scope of this note and left for future work.
+(See HEG-10 for full spectral discussion.)
 
 ---
 
@@ -175,23 +136,35 @@ Axis-4 defines stability as bounded non-convergent persistence and unifies struc
 
 ---
 
+> See HEG-10 for the broader structural context of bounded persistent non-closure.
+
 ### Fig.A — Structural Axis
 ![Structural-Axis](../assets/Structural-Axis.png)  
 **Fig.A — Axis-4 Structural Lag Domains (SO configuration).**  
-The relational lag $\ell(t)=S(t)-O(t)$ is classified into four domains $\{\phi,6,H7,\theta_a\}$ according to its magnitude relative to dynamically drifting envelopes $\epsilon_1(t),\epsilon_2(t)$.  
-Absorption is intentionally misaligned between $S$ and $O$, encoding non-synchronous entry into structured regimes.  
-See Fig.B for the continuous–discrete correspondence (same remainder, different clock).
+The relational lag $\ell(t)=S(t)-O(t)$ is classified into four domains $\{\phi,6,H7,\theta_a\}$ according to its magnitude relative to dynamically drifting envelopes $\epsilon_1(t),\epsilon_2(t)$. Absorption is misaligned between $S$ and $O$.  
+See Fig.B for the continuous–discrete correspondence (same remainder, different clock).  
+_See also HEG-10 Figure 1 for the broader relational structure of persistent non-closure._
 
 ### Fig.B — Continuous–Discrete Correspondence
 ![Continuous–Discrete-Correspondence](../assets/Continuous–Discrete-Correspondence.png)  
 **Fig.B — Continuous–Discrete Correspondence of Lag.**  
 The continuous remainder $\ell(t)$ and the discrete residual phase $\theta_n=\mathcal{A}(\ell(t_n))$ represent the same relational remainder under different clocks.  
 Bounded oscillation under drifting envelopes corresponds to residual rotation modulo $2\pi$.  
-See Fig.A for the structural classification of SO lag across the $\phi$–$6$–$H7$–$\theta_a$ domains.
+See Fig.A for the structural classification of SO lag across the $\phi$–$6$–$H7$–$\theta_a$ domains.  
+_This projection relates to HEG-10’s discussion of residual phase and lag classification._
+
+---
+
+### Kernel Note
+
+Axis-4 is a structural compression of HEG-10.  
+It isolates the minimal relational axis without redeveloping the broader theoretical framework.
 
 ---
 
 👉 [HEG-10｜Axis Prelude｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure-in-Relational-Dynamics.html)  
+
+#axis-core-prelude #bounded-persistent-non-closure
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

@@ -174,6 +174,8 @@ Exact synchrony is not generically realized in relational systems. Lag may persi
 
 👉 [HEG-10｜Axis Prelude｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure-in-Relational-Dynamics.html)  
 
+#axis-core-prelude #bounded-persistent-non-closure
+
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
