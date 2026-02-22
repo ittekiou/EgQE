@@ -16,6 +16,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/02/22  
+[HEG-10｜Axis-4 as Ontology (EgQE Public Edition)](https://camp-us.net/articles/HEG-10_Axis-4_as-Ontology_v1.1.html)  
+[HEG-10｜Axis-4 as Dialogue Theory（対話理論としての Axis-4）](https://camp-us.net/articles/HEG-10_Axis-4_as-Dialogue-Theory.html)  
 ###### 2026/02/21  
 ⚙️ [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
 🕰️ [Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて](https://camp-us.net/Non-Closure-Updating-Ontology.html)  
