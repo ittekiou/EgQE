@@ -283,6 +283,10 @@ HEG-10 は形式的だった。
 
 ---
 
+👉 [HEG-10｜Axis-4 as Ontology (EgQE Public Edition)](https://camp-us.net/articles/HEG-10_Axis-4_as-Ontology_v1.1.html)  
+
+---
+
 # 1️⃣ なぜ対話がコアになるのか
 
 宇宙が何か、ではなく
@@ -404,8 +408,6 @@ floc宇宙論：
 
 ---
 
-窯だし素焼きはこちら  
-👉 [HEG-10｜Axis-4 as Ontology (EgQE Public Edition)](https://camp-us.net/articles/HEG-10_Axis-4_as-Ontology_v1.1.html)  
 👉 [HEG-10｜Axis-4 as Dialogue Theory（対話理論としての Axis-4）](https://camp-us.net/articles/HEG-10_Axis-4_as-Dialogue-Theory.html)  
 
 ---

@@ -200,6 +200,9 @@ This is not a new theory. It is structural compression.
 (→ Link Axis-Core Prelude)
 
 [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
+[HEG-10｜Axis-4 as Ontology (EgQE Public Edition)](https://camp-us.net/articles/HEG-10_Axis-4_as-Ontology_v1.1.html)  
+[HEG-10｜Axis-4 as Dialogue Theory（対話理論としての Axis-4）](https://camp-us.net/articles/HEG-10_Axis-4_as-Dialogue-Theory.html)  
+[HEG-10｜Axis-4 Memorandum of Dialogue (Axis-4 as Ontology / Dialogue Theory)](https://camp-us.net/articles/HEG-10_Axis-4_Dialogue-Memo_Ontology_to_Dialogue-Theory.html)  
 
 ![Structural-Axis](./assets/Structural-Axis.png)  
 
