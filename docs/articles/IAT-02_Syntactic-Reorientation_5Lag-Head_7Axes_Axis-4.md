@@ -255,6 +255,10 @@ Under these conditions,
 > The universe can be described as the persistent dialogue of generative relations.
 
 ---
+
+[IAT-02｜7axes ― 七つの軸：持続には理由があった（v0.1）｜Seven Axes of Syntax ― Why Persistence Exists](https://camp-us.net/articles/IAT-02_Seven-Axes-of-Syntax_v0.1.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
