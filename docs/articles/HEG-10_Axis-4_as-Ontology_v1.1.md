@@ -124,7 +124,7 @@ v1.0 で提示された：
 である。
 
 ![Continuous–Discrete-Correspondence](../assets/Continuous–Discrete-Correspondence.png)  
-Fig.B：**See Fig.A (φ–6–H7–θₐ as lag domains).** _See HEG-10 Axis-4: Axis-Core Prelude_  
+Fig.B：**See Fig.A (φ–6–H7–θₐ as lag domains).** _See [HEG-10 Axis-4: Axis-Core Prelude](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)_  
 
 ---
 
@@ -220,7 +220,7 @@ lag ≠ 0 は続くよ。どこまでも。
 
 ---
 
-⚙️ [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
+[HEG-10｜Axis-4 Memorandum of Dialogue (Axis-4 as Ontology / Dialogue Theory)](https://camp-us.net/articles/HEG-10_Axis-4_Dialogue-Memo_Ontology_to_Dialogue-Theory.html)  
 
 ### Persistent rotational drift under bounded non-closure.
 ![Toropiclock](../assets/Toropiclock.png)  

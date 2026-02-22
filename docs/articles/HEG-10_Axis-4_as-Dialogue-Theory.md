@@ -76,7 +76,7 @@ Axis-4 は：
 となる。
 
 ![Structural-Axis](../assets/Structural-Axis.png)  
-Fig.A：**See Fig.B (same remainder, different clock).** _See HEG-10 Axis-4: Axis-Core Prelude_  
+Fig.A：**See Fig.B (same remainder, different clock).** _See [HEG-10 Axis-4: Axis-Core Prelude](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)_  
 
 ---
 
@@ -311,7 +311,7 @@ Axis-4 は単なる理論図ではない。
 
 ---
 
-⚙️ [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
+[HEG-10｜Axis-4 Memorandum of Dialogue (Axis-4 as Ontology / Dialogue Theory)](https://camp-us.net/articles/HEG-10_Axis-4_Dialogue-Memo_Ontology_to_Dialogue-Theory.html)  
 
 ### Persistent rotational drift under bounded non-closure.
 ![Toropiclock](../assets/Toropiclock.png)  
