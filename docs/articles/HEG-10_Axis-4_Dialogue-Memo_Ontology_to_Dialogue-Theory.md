@@ -8,6 +8,8 @@ title: HEG-10｜Axis-4 Memorandum of Dialogue (Axis-4 as Ontology / Dialogue The
 
 ---
 
+# Axis-4 as Ontology
+
 # 0️⃣ 出発点：HEG-10 の最小定式
 
 ⚙️ [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
@@ -286,6 +288,8 @@ HEG-10 は形式的だった。
 👉 [HEG-10｜Axis-4 as Ontology (EgQE Public Edition)](https://camp-us.net/articles/HEG-10_Axis-4_as-Ontology_v1.1.html)  
 
 ---
+
+# Axis-4 as Dialogue Theory
 
 # 1️⃣ なぜ対話がコアになるのか
 
