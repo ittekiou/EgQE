@@ -22,6 +22,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-10｜Axis-4 Memorandum of Dialogue (Axis-4 as Ontology / Dialogue Theory)](https://camp-us.net/articles/HEG-10_Axis-4_Dialogue-Memo_Ontology_to_Dialogue-Theory.html)  
 ⚓️ [IAT-02｜構文論的転回に向けて ― 5 Lag-Head 原理・7axes・Axis-4 の最小定式 ―｜Toward a Syntactic Reorientation of Cosmology and Philosophy: 5 Lag-Head Principles, 7 Axes, and Axis-4](https://camp-us.net/articles/IAT-02_Syntactic-Reorientation_5Lag-Head_7Axes_Axis-4.html)  
 [IAT-02｜7axes ― 七つの軸：持続には理由があった（v0.1）｜Seven Axes of Syntax ― Why Persistence Exists](https://camp-us.net/articles/IAT-02_Seven-Axes-of-Syntax_v0.1.html)  
+[DLMZ-03｜理論の利得とは何か ──ポパー・クーン・ラカトシュをめぐって](https://camp-us.net/articles/DLMZ-03_Popper-Kuhn-Lakatos.html)  
+[DLMZ-03｜構文的利得の具体化 ──R/Z構文と生成的研究プログラム](https://camp-us.net/articles/DLMZ-03_Syntactic-Gain_R-Z.html)  
 ###### 2026/02/21  
 ⚙️ [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
 🕰️ [Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて](https://camp-us.net/Non-Closure-Updating-Ontology.html)  
