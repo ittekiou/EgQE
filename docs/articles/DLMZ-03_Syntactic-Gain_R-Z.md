@@ -6,6 +6,9 @@ title: DLMZ-03｜構文的利得の具体化 ──R/Z構文と生成的研究�
 # 構文的利得の具体化
 ## ──R/Z構文と生成的研究プログラム
 
+[DLMZ-03｜理論の利得とは何か ──ポパー・クーン・ラカトシュをめぐって](https://camp-us.net/articles/DLMZ-03_Popper-Kuhn-Lakatos.html)  
+
+---
 
 ## 1. 前稿からの接続
 

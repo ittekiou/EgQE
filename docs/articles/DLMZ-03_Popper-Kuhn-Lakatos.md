@@ -165,6 +165,10 @@ title: DLMZ-03｜理論の利得とは何か ──ポパー・クーン・ラ�
 （構文的利得を、関係の再配列（R）や位相の再地割り（Z）として具体化する議論は、別稿に譲る。）
 
 ---
+
+[DLMZ-03｜構文的利得の具体化 ──R/Z構文と生成的研究プログラム](https://camp-us.net/articles/DLMZ-03_Syntactic-Gain_R-Z.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
