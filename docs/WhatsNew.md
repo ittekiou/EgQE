@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/02/23  
 🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)  
+[SS-01｜lag循環から位相差分へ── ΔZ₀と更新の構造的不可逆性｜From Lag-Circulation to Topological Phase Differential: ΔZ₀ and the Structural Irreversibility of Updating](https://camp-us.net/articles/SS-01_Structural-Irreversibility-of-Updating.html)  
 ###### 2026/02/22  
 [HEG-10｜Axis-4 as Ontology (EgQE Public Edition)](https://camp-us.net/articles/HEG-10_Axis-4_as-Ontology_v1.1.html)  
 [HEG-10｜Axis-4 as Dialogue Theory（対話理論としての Axis-4）](https://camp-us.net/articles/HEG-10_Axis-4_as-Dialogue-Theory.html)  
