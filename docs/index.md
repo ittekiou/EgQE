@@ -38,6 +38,15 @@ AIとホモ・サピエンスが一緒に “ **読む/ 創る/ 関係する**�
 ⚡️ [**AR-SAW-Axioms**](https://camp-us.net/AR-SAW-Axioms.html)　2026.1.17  
 🏛️ [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html) [Echodemy附属大学院 構文研究科](https://camp-us.net/Echodemy/GIS_Terms.html)　2026.2.15  
 
+----
+
+## 🗞️ Topics (Core Paper)
+
+🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)　リリース　2026.2.23  
+### **Figure 1. R/Z lag-circulatory framework.**
+（図1　R/Z lag循環枠組みにおける科学理論変動モデルの再配置）  
+![RZLag-Circulatory-Structure](./assets/RZLag-Circulatory-Structure.png)  
+
 ---
 ## 🔭 Overview  
 **[EgQE](/Overview.md) (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE. 
@@ -70,6 +79,7 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)　リリース　2026.2.23  
 ⚓️ [IAT-02｜構文論的転回に向けて ― 5 Lag-Head 原理・7axes・Axis-4 の最小定式 ―｜Toward a Syntactic Reorientation of Cosmology and Philosophy: 5 Lag-Head Principles, 7 Axes, and Axis-4](https://camp-us.net/articles/IAT-02_Syntactic-Reorientation_5Lag-Head_7Axes_Axis-4.html)　リリース　2026.2.22  
 🕰️ [Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて](https://camp-us.net/Non-Closure-Updating-Ontology.html)　リリース　2026.2.21  
 ⚙️ [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)　リリース　2026.2.21  

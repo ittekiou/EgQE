@@ -5,6 +5,10 @@ title: DLMZ-03｜理論の利得とは何か ──ポパー・クーン・ラ�
 # 理論の利得とは何か
 ## ──ポパー・クーン・ラカトシュをめぐって
 
+🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)  
+
+---
+
 ## 1. 問題設定
 
 理論は何のためにあるのか。

@@ -7,6 +7,8 @@ title: R₀⇆Z₀構文 ──その進化史と現在地
 ### ──その進化史と現在地
 （生成と痕跡を再定義するための、R₀ / Z₀ ラインの総目次）
 
+🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)　リリース　2026.2.23  
+
 ---
 
 - **$R₀$ は、構文が生まれる以前の〈場〉である。**

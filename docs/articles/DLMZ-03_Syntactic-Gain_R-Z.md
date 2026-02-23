@@ -111,6 +111,10 @@ R/Zは次の点でそれを満たす。
 物理的応用（量子論・宇宙論への展開）は、この枠組みの検証段階として次稿で扱う。
 
 ---
+
+🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
