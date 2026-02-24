@@ -19,7 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/02/24  
 [SS-02｜メタ視点の再定義── 構文の縁としてのメタとその再定位｜Redefining the Meta: Meta as a Syntactic Edge and Its Repositioning](https://camp-us.net/articles/SS-02_Redefining_the-Meta-as-Syntactic-Edge.html)  
 [SS-03｜演繹・帰納・アブダクション再考: 推論とは何か── 論理分類を超えて｜Beyond Logical Taxonomy: Inference as Lag-Scaled Relational Dynamics](https://camp-us.net/articles/SS-03_Inference_Lag-Scaled-Relational-Dynamics.html)  
-[LP-AIP｜Lagはどこへ行くのか── Inter-Phase時代における制度的判断の政治学｜Where Lag Goes: The Politics of Institutional Judgment in the Age of Inter-Phase](https://camp-us.net/articles/LP-AIP_Where-Lag-Goes.html)  
+[LP-AIP｜Lagはどこへ行くのか── Inter-Phase時代における制度的判断の政治学｜Where Lag Goes: The Politics of Institutional Judgment in the Age of Inter-Phase](https://camp-us.net/articles/LP-AIP_Where-Lag-Goes_v0.2.html)  
 ###### 2026/02/23  
 🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)  
 [SS-01｜lag循環から位相差分へ── ΔZ₀と更新の構造的不可逆性｜From Lag-Circulation to Topological Phase Differential: ΔZ₀ and the Structural Irreversibility of Updating](https://camp-us.net/articles/SS-01_Structural-Irreversibility-of-Updating.html)  
