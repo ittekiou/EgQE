@@ -12,6 +12,8 @@ title_en: "Where Lag Goes: The Politics of Institutional Judgment in the Age of 
 #### _A UTM Supplement (v0.2 – sharpened)_
 [Echodemeia｜Inter-Phase University ── 端末責任モデルによる大学構文の再定義](https://camp-us.net/Echodemy/Inter-Phase-University_A-Terminal-Responsibility.html)  
 
+> _**AIは自動化じゃない。Lagの居場所を変えるだけ。**_
+
 ---
 
 ## Abstract
@@ -245,7 +247,7 @@ Such anchoring mechanisms may include mandatory human-in-the-loop review, high-r
 AIは制度を自動化しているのではない。lagを再配置している。
 
 lagとは、閉包を不可能にする非吸収的な構造的緊張である。  
-生成AIはlagを制度的端末から上流の設計層へ移動させる。  
+生成AIはlagを制度的端末から上流の形式設計層（フレーム設計・モデル構成）へ移動させる。  
 その再配置こそが、説明責任・自律性・専門性の政治的再編成を引き起こす。
 
 問題はAIの能力ではない。lagがどこにあるかである。
@@ -269,7 +271,7 @@ lagが所在不明になれば権力は不透明化する。
 
 UTMにおいて大学は保存装置ではない。更新が現実へ接続される端末である。
 
-端末とは、終点ではなく、周縁でもなく、結果が帰結化する接続点である。
+端末とは、終点ではなく、周縁でもなく、“更新が帰結化する結合点”である。
 
 歴史的にlagは端末に存在していた：
 
@@ -286,7 +288,7 @@ UTMにおいて大学は保存装置ではない。更新が現実へ接続さ�
 
 ---
 
-## 3. Inter-Phaseとlagの移動
+## 3. Inter-Phaseはlagを移動する
 
 Inter-Phaseとは、判断と実行のあいだでlagが再配置される構造層である。
 
@@ -315,7 +317,7 @@ Terminal Driftとは技術革新ではない。政治的リスクの再配分で
 
 ---
 
-## 4. lag配分の政治
+## 4. lagの所在が政治を規定する
 
 ### 4.1 説明責任
 
