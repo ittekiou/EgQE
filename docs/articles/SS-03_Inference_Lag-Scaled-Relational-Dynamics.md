@@ -290,11 +290,11 @@ lagとは、予測的関係構成と展開する入力との不一致から生�
 
 三態はカテゴリではなく、閾値構造をもつ連続スペクトルである。
 
-|推論形式|lagの規模|動的性質|
-|---|---|---|
-|演繹（Deduction）|最小|関係構造の閉包を維持|
-|帰納（Induction）|中程度|関係パラメータの連続調整|
-|アブダクション（Abduction）|大|関係トポロジーの位相転位|
+| 推論形式               | lagの規模 | 動的性質 | 存在様式 |
+| ------------------ | ------ | ---- | ---- |
+| 演繹（Deduction）      | 最小     | 閉包維持 | 構造   |
+| 帰納（Induction）      | 中程度    | 調整   | 非閉包  |
+| アブダクション（Abduction） | 大      | 位相転位 | 生成   |
 
 **Figure 1.**  **Lag-scaled relational dynamics with threshold structure.**  
 ![Lag-scaled-relational-dynamics](../assets/Lag-scaled-relational-dynamics.png)  
