@@ -109,9 +109,11 @@ The next section advances the latter possibility.
 
 If inference is defined as the dynamical reconfiguration of relational structure under structural–temporal tension (lag), then the classical tripartite distinction can be reconsidered as scale-differentiated regimes of lag processing rather than distinct logical operations.
 
+Lag refers to structural–temporal tension emerging from mismatch between predictive relational configuration and unfolding input.
+
 The difference between deduction, induction, and abduction does not lie in formal structure alone, but in the amplitude and structural depth of lag engaged during reconfiguration.
 
-### 4.2 Deduction: Zero-Lag Closure Regime
+### 4.2 Deduction: Minimal-Lag Closure Regime
 
 Deduction corresponds to a regime in which structural–temporal tension is assumed to be negligible or internally absorbed. The predictive configuration already contains the relational pathways required for conclusion generation.
 
@@ -176,7 +178,6 @@ High amplitude → Phase shift (Abduction)
 
 Inference is therefore best understood as a dynamical spectrum of lag-scaled relational reconfiguration.
 
-**Figure 1.**  **Lag-scaled relational dynamics with threshold structure.**  
 ![Lag-scaled-relational-dynamics](../assets/Lag-scaled-relational-dynamics.png)  
 **Figure 1.**  **Lag-scaled relational dynamics with threshold structure.**  
 Deduction, induction, and abduction are represented as dynamical regimes along increasing structural–temporal tension. The spectrum is continuous; however, beyond a threshold, relational topology undergoes qualitative reconfiguration, corresponding to abduction as a phase-shift regime.
