@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/02/24  
+[SS-02｜メタ視点の再定義── 構文の縁としてのメタとその再定位｜Redefining the Meta: Meta as a Syntactic Edge and Its Repositioning](https://camp-us.net/articles/SS-02_Redefining_the-Meta-as-Syntactic-Edge.html)  
 ###### 2026/02/23  
 🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)  
 [SS-01｜lag循環から位相差分へ── ΔZ₀と更新の構造的不可逆性｜From Lag-Circulation to Topological Phase Differential: ΔZ₀ and the Structural Irreversibility of Updating](https://camp-us.net/articles/SS-01_Structural-Irreversibility-of-Updating.html)  
