@@ -5,6 +5,12 @@ title: "HEG-11｜関係性宇宙論の最深部: SO–lag–Axis–ψₜ–Z₀"
 # 🜂 関係性宇宙論の最深部
 ## SO–lag–Axis–ψₜ–Z₀
 
+> Reality is not substance but non-closing relational asymmetry.  
+> The structured asymmetry yields space; the preserved asymmetry yields time; the fixation of difference yields syntax.  
+> Space and time are differentiated modes of preserved relational non-closure.
+
+---
+
 ## 0. 根底
 
 > 実体はない。関係がある。
@@ -106,6 +112,20 @@ SO が閉じないから lag がある。lag が保存されるから層があ�
 ## 🔁 依存関係（深度順）
 
 SO → lag → Axis-4 → ψₜ → Z₀
+
+```
+        SO
+         ↓
+        lag
+       ↙   ↘
+  Axis-4    ψₜ
+         ↓
+         Z₀
+         
+lag
+  ├─ 構造化 → Axis-4
+  └─ 保存化 → ψₜ
+```
 
 種は増えていない。次元も増えていない。階層が見えただけだ。
 
