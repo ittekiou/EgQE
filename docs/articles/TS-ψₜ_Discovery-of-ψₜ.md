@@ -157,6 +157,11 @@ In its most compressed form:
 
 ---
 
+**footnote**:  
+> This paper isolates the structural condition of temporal possibility; it does not yet address metric time, directionality, or physical irreversibility.
+
+---
+
 # ψₜの発見
 ## ── φとψのSO構文への逆射影
 
@@ -356,6 +361,11 @@ $$
 > 時間とは、非対称保存が層化する構文である。
 
 へと精緻化可能である。
+
+---
+
+**補足:**  
+ψₜ は _構文化可能性条件_ であり、数値化・計量化・時間方向性の付与は後続の Z₀ 投影操作に属する。
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
