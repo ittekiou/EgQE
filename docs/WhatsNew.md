@@ -16,6 +16,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/02/25  
+[TS-00｜時間はどう扱われてきたか── 物理理論における時間の外在化と非対称の位置｜How Has Time Been Handled?: Time as an Externalized Asymmetry — A Memorandum on the Structural Omission in Physics](https://camp-us.net/articles/TS-00_How-Has-Time-Been-Handled_in_Physics.html)  
+[TS-01｜哲学時間と物理時間の非対称性── 構文時間論への予備的考察｜The Asymmetry of Philosophical and Physical Time — A Preliminary Note toward a Syntactic Theory of Time](https://camp-us.net/articles/TS-01_Asymmetry_of_Philosophical-and-Physical-Time.html)  
 ###### 2026/02/24  
 [SS-02｜メタ視点の再定義── 構文の縁としてのメタとその再定位｜Redefining the Meta: Meta as a Syntactic Edge and Its Repositioning](https://camp-us.net/articles/SS-02_Redefining_the-Meta-as-Syntactic-Edge.html)  
 [SS-03｜演繹・帰納・アブダクション再考: 推論とは何か── 論理分類を超えて｜Beyond Logical Taxonomy: Inference as Lag-Scaled Relational Dynamics](https://camp-us.net/articles/SS-03_Inference_Lag-Scaled-Relational-Dynamics.html)  
