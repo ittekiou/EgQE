@@ -114,4 +114,17 @@ $$S''/S = S/S + O/S + O'/S$$
 へ自然に移行できる。
 
 ---
+*EgQE — Echo-Genesis Qualia Engine*  
+[_camp-us.net_](https://camp-us.net/)
 
+---
+
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Feb 25, 2026 · Web Feb 25, 2026 |</p>
