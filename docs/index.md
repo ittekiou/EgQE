@@ -79,6 +79,7 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+⏳ [TS-ψₜ｜🜂TS 最小公理宣言（v0.1）｜🜂TS Minimal Axiomatic Declaration (v0.1)](https://camp-us.net/TS-ψₜ.html)　リリース　2026.2.25  
 🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)　リリース　2026.2.23  
 ⚓️ [IAT-02｜構文論的転回に向けて ― 5 Lag-Head 原理・7axes・Axis-4 の最小定式 ―｜Toward a Syntactic Reorientation of Cosmology and Philosophy: 5 Lag-Head Principles, 7 Axes, and Axis-4](https://camp-us.net/articles/IAT-02_Syntactic-Reorientation_5Lag-Head_7Axes_Axis-4.html)　リリース　2026.2.22  
 🕰️ [Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて](https://camp-us.net/Non-Closure-Updating-Ontology.html)　リリース　2026.2.21  
