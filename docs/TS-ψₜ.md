@@ -115,7 +115,7 @@ $$S''/S = S/S + O/S + O'/S$$
 
 ---
 
-[TS-ψₜ｜ψₜの発見 ── φとψのSO構文への逆射影｜TS-ψₜ｜The Discovery of ψₜ: Inverse Projection from φ and ψ into S/O Syntax](https://camp-us.net/articles/TS-ψₜ_Discovery-of-ψₜ.html)  
+[TS-ψₜ｜ψₜの発見 ── φとψのSO構文への逆射影｜The Discovery of ψₜ: Inverse Projection from φ and ψ into S/O Syntax](https://camp-us.net/articles/TS-ψₜ_Discovery-of-ψₜ.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
