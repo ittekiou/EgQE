@@ -116,12 +116,15 @@ $$S''/S = S/S + O/S + O'/S$$
 ---
 
 [TS-ψₜ｜ψₜの発見 ── φとψのSO構文への逆射影｜The Discovery of ψₜ: Inverse Projection from φ and ψ into S/O Syntax](https://camp-us.net/articles/TS-ψₜ_Discovery-of-ψₜ.html)  
-⚡️ [TS-05｜ψₜ三部作 統合宣言── 非対称・相対化・非閉包再帰｜ψₜ: A Triptych on Structural Dynamics — Self-Asymmetry, Self-Relativization, and Non-Closed Recursion](https://camp-us.net/articles/TS-05_ψₜ_Triptych_on_Structural-Dynamics.html)  
 
 ---
 
 [TS-00｜時間はどう扱われてきたか── 物理理論における時間の外在化と非対称の位置｜How Has Time Been Handled?: Time as an Externalized Asymmetry — A Memorandum on the Structural Omission in Physics](https://camp-us.net/articles/TS-00_How-Has-Time-Been-Handled_in_Physics.html)  
 [TS-01｜哲学時間と物理時間の非対称性── 構文時間論への予備的考察｜The Asymmetry of Philosophical and Physical Time — A Preliminary Note toward a Syntactic Theory of Time](https://camp-us.net/articles/TS-01_Asymmetry_of_Philosophical-and-Physical-Time.html)  
+
+---
+
+⚡️ [TS-05｜ψₜ三部作 統合宣言── 非対称・相対化・非閉包再帰｜ψₜ: A Triptych on Structural Dynamics — Self-Asymmetry, Self-Relativization, and Non-Closed Recursion](https://camp-us.net/articles/TS-05_ψₜ_Triptych_on_Structural-Dynamics.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
