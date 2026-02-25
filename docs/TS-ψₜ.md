@@ -116,6 +116,7 @@ $$S''/S = S/S + O/S + O'/S$$
 ---
 
 [TS-ψₜ｜ψₜの発見 ── φとψのSO構文への逆射影｜The Discovery of ψₜ: Inverse Projection from φ and ψ into S/O Syntax](https://camp-us.net/articles/TS-ψₜ_Discovery-of-ψₜ.html)  
+⚡️ [TS-05｜ψₜ三部作 統合宣言── 非対称・相対化・非閉包再帰｜ψₜ: A Triptych on Structural Dynamics — Self-Asymmetry, Self-Relativization, and Non-Closed Recursion](https://camp-us.net/articles/TS-05_ψₜ_Triptych_on_Structural-Dynamics.html)  
 
 ---
 
