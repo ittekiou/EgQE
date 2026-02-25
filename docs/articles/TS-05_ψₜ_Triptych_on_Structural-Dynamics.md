@@ -51,8 +51,10 @@ title_en: "TS-05｜ψₜ: A Triptych on Structural Dynamics — Self-Asymmetry, 
 ψₜは閉じない。
 
 $$
-\psi_t^{(n+1)} = Z_0^{Axis-4}(\psi_t^{(n)}{\ell})
+\psi_t^{(n+1)} = Z_0^{\text{Axis-4}}\!\left(\psi_t^{(n)}, \ell\right)
 $$
+
+> ここで ℓ は層インデックス（層間参照）を表し、乗算ではなく層位置の指定である。
 
 更新は同一層に戻らない。  
 固定点を持たない。
