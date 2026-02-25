@@ -24,6 +24,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-11｜関係性宇宙論の最深部: SO–lag–Axis–ψₜ–Z₀｜Minimal Structural Map](https://camp-us.net/articles/HEG-11_SO–lag–Axis–ψₜ–Z₀_Minimal-Structural-Map.html)  
 [TS-02｜自己非対称性としての ψₜ（Draft）｜ψₜ as Self-Asymmetry](https://camp-us.net/articles/TS-02_ψₜ_Self-Asymmetry_draft.html)  
 [TS-03｜自己相対化のタネとしての ψₜ（Draft）｜ψₜ as the Seed of Self-Relativization](https://camp-us.net/articles/TS-03_ψₜ_Self-Relativization-Seed_draft.html)  
+[TS-04｜自己再帰性としての ψₜ── 層間・他者媒介の非閉包再帰（Minimal Core Draft）](https://camp-us.net/articles/TS-04_ψₜ_Non-Closed-Self-Recursiveness.html)  
+[TS-05｜ψₜ三部作 統合宣言── 非対称・相対化・非閉包再帰｜ψₜ: A Triptych on Structural Dynamics — Self-Asymmetry, Self-Relativization, and Non-Closed Recursion](https://camp-us.net/articles/TS-05_ψₜ_Triptych_on_Structural-Dynamics.html)  
 ###### 2026/02/24  
 [SS-02｜メタ視点の再定義── 構文の縁としてのメタとその再定位｜Redefining the Meta: Meta as a Syntactic Edge and Its Repositioning](https://camp-us.net/articles/SS-02_Redefining_the-Meta-as-Syntactic-Edge.html)  
 [SS-03｜演繹・帰納・アブダクション再考: 推論とは何か── 論理分類を超えて｜Beyond Logical Taxonomy: Inference as Lag-Scaled Relational Dynamics](https://camp-us.net/articles/SS-03_Inference_Lag-Scaled-Relational-Dynamics.html)  

@@ -86,6 +86,9 @@ lag
 
 ψₜは時間のタネであると同時に、自己相対化のタネである。
 
+---
+
+[TS-05｜ψₜ三部作 統合宣言── 非対称・相対化・非閉包再帰｜ψₜ: A Triptych on Structural Dynamics — Self-Asymmetry, Self-Relativization, and Non-Closed Recursion](https://camp-us.net/articles/TS-05_ψₜ_Triptych_on_Structural-Dynamics.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

@@ -368,6 +368,10 @@ $$
 ψₜ は _構文化可能性条件_ であり、数値化・計量化・時間方向性の付与は後続の Z₀ 投影操作に属する。
 
 ---
+
+[TS-05｜ψₜ三部作 統合宣言── 非対称・相対化・非閉包再帰｜ψₜ: A Triptych on Structural Dynamics — Self-Asymmetry, Self-Relativization, and Non-Closed Recursion](https://camp-us.net/articles/TS-05_ψₜ_Triptych_on_Structural-Dynamics.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
