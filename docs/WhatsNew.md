@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [TS-01｜哲学時間と物理時間の非対称性── 構文時間論への予備的考察｜The Asymmetry of Philosophical and Physical Time — A Preliminary Note toward a Syntactic Theory of Time](https://camp-us.net/articles/TS-01_Asymmetry_of_Philosophical-and-Physical-Time.html)  
 [TS-ψₜ｜🜂TS 最小公理宣言（v0.1）｜🜂TS Minimal Axiomatic Declaration (v0.1)](https://camp-us.net/TS-ψₜ.html)  
 [TS-ψₜ｜ψₜの発見 ── φとψのSO構文への逆射影｜The Discovery of ψₜ: Inverse Projection from φ and ψ into S/O Syntax](https://camp-us.net/articles/TS-ψₜ_Discovery-of-ψₜ.html)  
+[HEG-11｜関係性宇宙論の最深部: SO–lag–Axis–ψₜ–Z₀｜Minimal Structural Map](https://camp-us.net/articles/HEG-11_SO–lag–Axis–ψₜ–Z₀_Minimal-Structural-Map.html)  
 ###### 2026/02/24  
 [SS-02｜メタ視点の再定義── 構文の縁としてのメタとその再定位｜Redefining the Meta: Meta as a Syntactic Edge and Its Repositioning](https://camp-us.net/articles/SS-02_Redefining_the-Meta-as-Syntactic-Edge.html)  
 [SS-03｜演繹・帰納・アブダクション再考: 推論とは何か── 論理分類を超えて｜Beyond Logical Taxonomy: Inference as Lag-Scaled Relational Dynamics](https://camp-us.net/articles/SS-03_Inference_Lag-Scaled-Relational-Dynamics.html)  
