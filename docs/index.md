@@ -102,8 +102,6 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 🪐 [SAW-00｜floc cosmology 憲章（v0.2）: A Lag-Relational Non-Closure Syntax](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.2.html)　リリース　2026.2.1  
 😈 [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)　リリース　2026.1.29  
 🌌 [SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)　リリース　2026.1.28  
-💎 [MASS｜多角共生学｜Multi-Angular Symbiosis Studies](https://camp-us.net/MASS.html)　リリース　2026.1.26  
-🌓 [MMZW-02｜素数欠陥から臨界線へ: Prime Defect Line 全論文](https://camp-us.net/articles/MMZW-02_index.html)　リリース　2026.1.23  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
