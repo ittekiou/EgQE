@@ -9,7 +9,7 @@ title_en: "SN-ψₜ-02｜A Structural Note on the restful-6 – H7 – ψ – θ
 
 ### On the Emergence of Preservation Between Hexagonal Stability and the Golden Angle
 
-[SN-ψₜ-01｜七角と黄金角のあいだにおける保存構文の暫定配置｜A Structural Note on the H7–ψ–θₐ Band](https://camp-us.net/articles/SN-ψₜ-01_Structural-Note_on_H7–ψ–θₐ_Band.html)  
+[SN-ψₜ-01｜七角と黄金角のあいだにおける保存構文の暫定配置｜A Structural Note on the H7-ψ-θₐ Band](https://camp-us.net/articles/SN-ψₜ-01_Structural-Note_on_H7-ψ-θₐ_Band.html)  
 
 ---
 
@@ -290,7 +290,7 @@ H7 では持続が始まり、ψ において初めて保存が成立する。
 
 ⏳ [TS-ψₜ｜TS 最小公理宣言（v0.2）｜TS Minimal Axiomatic Declaration (v0.2)](https://camp-us.net/TS-ψₜ_v0.2.html)  
 [TS-06｜構文不可逆性と時間生成── ψₜ–Z₀ 更新モデル（構文的定式）](https://camp-us.net/articles/TS-06_ψₜ_Temporal-Irreversibility.html)  
-[SN-ψₜ-01｜七角と黄金角のあいだにおける保存構文の暫定配置｜A Structural Note on the H7–ψ–θₐ Band](https://camp-us.net/articles/SN-ψₜ-01_Structural-Note_on_H7–ψ–θₐ_Band.html)  
+[SN-ψₜ-01｜七角と黄金角のあいだにおける保存構文の暫定配置｜A Structural Note on the H7-ψ-θₐ Band](https://camp-us.net/articles/SN-ψₜ-01_Structural-Note_on_H7-ψ-θₐ_Band.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

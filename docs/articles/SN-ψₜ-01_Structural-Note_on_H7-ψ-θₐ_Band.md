@@ -175,7 +175,7 @@ To be clarified:
 
 ---
 
-[SN-ψₜ-02｜六角から黄金角のあいだにおける保存構文の暫定配置── A Structural Note on the restful-6 – H7 – ψ – θₐ Band: On the Emergence of Preservation Between Hexagonal Stability and the Golden Angle](https://camp-us.net/articles/SN-ψₜ-02_Structural-Note_on_restful6-H7–ψ–θₐ_Band.html)  
+[SN-ψₜ-02｜六角から黄金角のあいだにおける保存構文の暫定配置── A Structural Note on the restful-6 – H7 – ψ – θₐ Band: On the Emergence of Preservation Between Hexagonal Stability and the Golden Angle](https://camp-us.net/articles/SN-ψₜ-02_Structural-Note_on_restful6-H7-ψ-θₐ_Band.html)  
 
 ---
 

@@ -153,7 +153,7 @@ TS-01で特定された構造的欠落──すなわち非対称の生成点の
 
 ---
 
-[SN-ψₜ-01｜七角と黄金角のあいだにおける保存構文の暫定配置｜A Structural Note on the H7–ψ–θₐ Band](https://camp-us.net/articles/SN-ψₜ-01_Structural-Note_on_H7–ψ–θₐ_Band.html)  
+[SN-ψₜ-01｜七角と黄金角のあいだにおける保存構文の暫定配置｜A Structural Note on the H7-ψ-θₐ Band](https://camp-us.net/articles/SN-ψₜ-01_Structural-Note_on_H7-ψ-θₐ_Band.html)  
 
 ---
 
