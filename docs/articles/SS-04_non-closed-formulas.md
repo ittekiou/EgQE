@@ -1,4 +1,6 @@
-
+---
+title: SS-04｜生成の数理は可能か──非閉包と数式の縁｜Can Non-Closure Be Formalized?
+---
 # 生成の数理は可能か
 ## ──非閉包と数式の縁（Core Draft）
 ## Can Non-Closure Be Formalized?
