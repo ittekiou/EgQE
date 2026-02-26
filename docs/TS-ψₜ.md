@@ -117,6 +117,8 @@ $$S''/S = S/S + O/S + O'/S$$
 
 [TS-ψₜ｜ψₜの発見 ── φとψのSO構文への逆射影｜The Discovery of ψₜ: Inverse Projection from φ and ψ into S/O Syntax](https://camp-us.net/articles/TS-ψₜ_Discovery-of-ψₜ.html)  
 
+update: [TS-ψₜ｜TS 最小公理宣言（v0.2）｜TS Minimal Axiomatic Declaration (v0.2)](https://camp-us.net/TS-ψₜ_v0.2.html)  
+
 ---
 
 [TS-00｜時間はどう扱われてきたか── 物理理論における時間の外在化と非対称の位置｜How Has Time Been Handled?: Time as an Externalized Asymmetry — A Memorandum on the Structural Omission in Physics](https://camp-us.net/articles/TS-00_How-Has-Time-Been-Handled_in_Physics.html)  

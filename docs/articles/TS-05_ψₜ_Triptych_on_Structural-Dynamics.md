@@ -81,6 +81,10 @@ $$
 
 ---
 
+本三部作の最小公理的整理は、TS-ψₜ v0.2 において提示される。  
+The minimal axiomatic consolidation of this triptych is provided in TS-ψₜ v0.2.  
+👉 [TS-ψₜ｜TS 最小公理宣言（v0.2）｜TS Minimal Axiomatic Declaration (v0.2)](https://camp-us.net/TS-ψₜ_v0.2.html)  
+
 [TS-ψₜ｜🜂TS 最小公理宣言（v0.1）｜🜂TS Minimal Axiomatic Declaration (v0.1)](https://camp-us.net/TS-ψₜ.html)  
 [TS-ψₜ｜ψₜの発見 ── φとψのSO構文への逆射影｜The Discovery of ψₜ: Inverse Projection from φ and ψ into S/O Syntax](https://camp-us.net/articles/TS-ψₜ_Discovery-of-ψₜ.html)  
 
