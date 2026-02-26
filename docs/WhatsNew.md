@@ -16,6 +16,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/02/27  
 [SN-ψₜ-03｜他者性と空間生成｜Otherness and Spatial Expansion: A Structural Note on the restful6–H7–ψ–θₐ Band](https://camp-us.net/articles/SN-ψₜ-03_Structural-Note_on_Otherness.html)  
 ###### 2026/02/26  
 [SS-04｜生成の数理は可能か──非閉包と数式の縁｜Can Non-Closure Be Formalized?](https://camp-us.net/articles/SS-04_non-closed-formulas.html)  
