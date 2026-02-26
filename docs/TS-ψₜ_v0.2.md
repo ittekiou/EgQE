@@ -160,11 +160,12 @@ TS-01で特定された構造的欠落──すなわち非対称の生成点の
 
 ⚡️ [TS-05｜ψₜ三部作 統合宣言── 非対称・相対化・非閉包再帰｜ψₜ: A Triptych on Structural Dynamics — Self-Asymmetry, Self-Relativization, and Non-Closed Recursion](https://camp-us.net/articles/TS-05_ψₜ_Triptych_on_Structural-Dynamics.html)  
 
+⏳ [TS-06｜構文不可逆性と時間生成── ψₜ–Z₀ 更新モデル（構文的定式）](https://camp-us.net/articles/TS-06_ψₜ_Temporal-Irreversibility.html)  
+
 ---
 
 [TS-ψₜ｜🜂TS 最小公理宣言（v0.1）｜🜂TS Minimal Axiomatic Declaration (v0.1)](https://camp-us.net/TS-ψₜ.html)  
 [TS-ψₜ｜ψₜの発見 ── φとψのSO構文への逆射影｜The Discovery of ψₜ: Inverse Projection from φ and ψ into S/O Syntax](https://camp-us.net/articles/TS-ψₜ_Discovery-of-ψₜ.html)  
-
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
