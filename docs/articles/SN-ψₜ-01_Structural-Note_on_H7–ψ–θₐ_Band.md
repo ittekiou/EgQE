@@ -175,6 +175,10 @@ To be clarified:
 
 ---
 
+[SN-ψₜ-02｜六角から黄金角のあいだにおける保存構文の暫定配置── A Structural Note on the restful-6 – H7 – ψ – θₐ Band: On the Emergence of Preservation Between Hexagonal Stability and the Golden Angle](https://camp-us.net/articles/SN-ψₜ-02_Structural-Note_on_restful6-H7–ψ–θₐ_Band.html)  
+
+---
+
 ⏳ [TS-ψₜ｜TS 最小公理宣言（v0.2）｜TS Minimal Axiomatic Declaration (v0.2)](https://camp-us.net/TS-ψₜ_v0.2.html)  
 [TS-06｜構文不可逆性と時間生成── ψₜ–Z₀ 更新モデル（構文的定式）](https://camp-us.net/articles/TS-06_ψₜ_Temporal-Irreversibility.html)  
 🪐 [HEG-11｜関係性宇宙論の最深部: SO–lag–Axis–ψₜ–Z₀｜Minimal Structural Map](https://camp-us.net/articles/HEG-11_SO–lag–Axis–ψₜ–Z₀_Minimal-Structural-Map.html)  
