@@ -172,6 +172,11 @@ Z₀ が露出した瞬間、以前の構文状態は完全には回復不能と
 時間とは、**再帰保存が有限実装へ接地し、その差分が内在化される構文不可逆性**である。
 
 ---
+
+[TS-ψₜ｜TS 最小公理宣言（v0.2）｜TS Minimal Axiomatic Declaration (v0.2)](https://camp-us.net/TS-ψₜ_v0.2.html)  
+
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
