@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/02/28  
+🔷 [HEG-11｜SO–lag 転回── 他者・空間・時間の生成的再定位｜The SO–lag Turn: Re-grounding Otherness, Space, and Time](https://camp-us.net/articles/HEG-11-SN_SO–lag-Turn_Otherness-Spacetime.html)  
 ###### 2026/02/27  
 [SN-ψₜ-03｜他者性と空間生成｜Otherness and Spatial Expansion: A Structural Note on the restful6–H7–ψ–θₐ Band](https://camp-us.net/articles/SN-ψₜ-03_Structural-Note_on_Otherness.html)  
 [TS-07｜二系譜の交点── ψₜ他者不可逆論｜Otherness as the Mediator of Temporal Irreversibility](https://camp-us.net/articles/TS-07_Otherness_as_Mediator_of_Temporal-Irreversibility.html)  
