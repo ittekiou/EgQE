@@ -66,10 +66,10 @@ This is motion.
 その生成運動を、相似構文として凝縮した比が φ。  
 The generative motion, when condensed into a similarity structure, appears as φ.
 
-つまり：黄金角的生成 → 相似比として定着 → φ
+つまり：黄金角的生成 → 相似比として定着 → φ  
 That is, Golden-angle generation → becomes stabilized as a similarity ratio → φ
 
-ここで重要なのは：φ は原因ではなく、生成運動の比的固定である。 
+ここで重要なのは：φ は原因ではなく、生成運動の比的固定である。  
 What is crucial is this: φ is not the cause, but a ratio-based fixation of generative motion.
 
 そしてこの比が最初に内在する多角形が五角形である。  
