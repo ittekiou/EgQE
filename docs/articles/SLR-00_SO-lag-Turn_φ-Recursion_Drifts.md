@@ -2391,6 +2391,10 @@ $r = 1 + 1/r + 1/r²$
 > 生成黄金角の痕跡としての相似固定点
 
 ---
+
+[SN-φ-00｜黄金螺旋の三層構造 ── 生成・固定・再帰｜The Three-Layer Structure of the Golden Spiral — The Pentagon as SO-Origin](https://camp-us.net/articles/SN-φ-00_Golden-Spiral_Three-Layer-Structure.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
