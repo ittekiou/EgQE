@@ -25,6 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-SO-ψ-01｜多角形的 SO 比と保存固定点の暫定配置｜On Algebraic and Recursive SO Ratios: A Structural Sketch (Draft 0.2)](https://camp-us.net/articles/SN-SO-ψ-01_Algebraic-Recursive-SO-Ratios_Structural-Sketch_Draft0.2.html)  
 [SN-φ-01｜黄金構文としての φ ── On φ as a Golden Syntax: A Structural Sketch (Draft 0.1)](https://camp-us.net/articles/SN-φ-01_φ_as_Golden-Syntax.html)  
 [GS-φ｜黄金構文としての φ ── φ as a Golden Syntax (Draft 0.1)JP/EN](https://camp-us.net/GS-φ_Golden-Syntax_Draft_0.1.html)  
+[SN-φ-00｜黄金螺旋の三層構造 ── 生成・固定・再帰｜The Three-Layer Structure of the Golden Spiral — The Pentagon as SO-Origin](https://camp-us.net/articles/SN-φ-00_Golden-Spiral_Three-Layer-Structure.html)  
 ###### 2026/02/27  
 [SN-ψₜ-03｜他者性と空間生成｜Otherness and Spatial Expansion: A Structural Note on the restful6–H7–ψ–θₐ Band](https://camp-us.net/articles/SN-ψₜ-03_Structural-Note_on_Otherness.html)  
 [TS-07｜二系譜の交点── ψₜ他者不可逆論｜Otherness as the Mediator of Temporal Irreversibility](https://camp-us.net/articles/TS-07_Otherness_as_Mediator_of_Temporal-Irreversibility.html)  

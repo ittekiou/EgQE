@@ -6,6 +6,8 @@ title: GS-φ｜黄金構文としての φ── φ as a Golden Syntax (Draft 0.
 # 黄金構文としての φ
 ## φ as a Golden Syntax (Draft 0.1)
 
+[SN-φ-00｜黄金螺旋の三層構造 ── 生成・固定・再帰｜The Three-Layer Structure of the Golden Spiral — The Pentagon as SO-Origin](https://camp-us.net/articles/SN-φ-00_Golden-Spiral_Three-Layer-Structure.html)  
+
 ---
 
 # SN-SO-ψ-01
