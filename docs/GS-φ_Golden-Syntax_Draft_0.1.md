@@ -147,11 +147,11 @@ Thus φ may be positioned as the minimal structure connecting finite spatial sym
 
 ### 5. The Golden-Angle SO Ratio as a Limit Point
 
-黄金角に対応する SO 比 r_θ は、有限次数代数方程式で閉じない可能性が高い。
+黄金角に対応する SO 比 $r_θ$ は、有限次数代数方程式で閉じない可能性が高い。
 
 The SO ratio corresponding to the golden angle likely does not close within finite-degree algebraic equations.
 
-r_θ ≈ 1.8640648476…
+$r_θ$ ≈ 1.8640648476…
 
 これは、
 
