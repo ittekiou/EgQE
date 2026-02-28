@@ -1,5 +1,6 @@
 ---
 layout: math
+title: GS-φ｜黄金構文としての φ── φ as a Golden Syntax (Draft 0.1)
 ---
 # GS-φ
 # 黄金構文としての φ
