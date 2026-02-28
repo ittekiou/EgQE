@@ -18,8 +18,13 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/02/28  
 🔷 [HEG-11｜SO–lag 転回── 他者・空間・時間の生成的再定位｜The SO–lag Turn: Re-grounding Otherness, Space, and Time](https://camp-us.net/articles/HEG-11-SN_SO-lag-Turn_Otherness-Spacetime.html)  
+[SLR-00｜SO–lag 転回から φ への再帰（草稿集）｜SO-lαg-φ drifts Collection](https://camp-us.net/articles/SLR-00_SO-lag-Turn_φ-Recursion_Drifts.html)  
 [SLR-01｜他者がひらく宇宙 ──時空内存在モデルから、SO–lag 生成存在論へ｜The Universe Opened by Otherness: From an Intra-Spacetime Model of Being to SO–lag Generative Ontology](https://camp-us.net/articles/SLR-01_Universe_Opened-by_Otherness.html)  
 [SLR-02｜空間と時間の構文的派生 ── SO–lag 生成存在論における最小命題｜Space and Time as Derived Syntactic Modes](https://camp-us.net/articles/SLR-02_Space-Time_as_Derived-Syntactic-Modes.html)  
+[HEG-11｜lag / lαg 使い分け整理（暫定固定 v1.0）](https://camp-us.net/articles/HEG-11_From-lag-to-lαg_v1.0.html)  
+[SN-SO-ψ-01｜多角形的 SO 比と保存固定点の暫定配置｜On Algebraic and Recursive SO Ratios: A Structural Sketch (Draft 0.2)](https://camp-us.net/articles/SN-SO-ψ-01_Algebraic-Recursive-SO-Ratios_Structural-Sketch_Draft0.2.html)  
+[SN-φ-01｜黄金構文としての φ ── On φ as a Golden Syntax: A Structural Sketch (Draft 0.1)](https://camp-us.net/articles/SN-φ-01_φ_as_Golden-Syntax.html)  
+[GS-φ｜黄金構文としての φ ── φ as a Golden Syntax (Draft 0.1)JP/EN](https://camp-us.net/GS-φ_Golden-Syntax_Draft_0.1.html)  
 ###### 2026/02/27  
 [SN-ψₜ-03｜他者性と空間生成｜Otherness and Spatial Expansion: A Structural Note on the restful6–H7–ψ–θₐ Band](https://camp-us.net/articles/SN-ψₜ-03_Structural-Note_on_Otherness.html)  
 [TS-07｜二系譜の交点── ψₜ他者不可逆論｜Otherness as the Mediator of Temporal Irreversibility](https://camp-us.net/articles/TS-07_Otherness_as_Mediator_of_Temporal-Irreversibility.html)  

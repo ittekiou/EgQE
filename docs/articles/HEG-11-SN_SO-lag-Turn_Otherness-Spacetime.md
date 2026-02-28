@@ -106,6 +106,7 @@ SO → lag → otherness → space / time
 ---
 
 ⚡️ [AR-SAW-Axioms](https://camp-us.net/AR-SAW-Axioms.html)  
+[SLR-00｜SO–lag 転回から φ への再帰（草稿集）｜SO-lαg-φ drifts Collection](https://camp-us.net/articles/SLR-00_SO-lag-Turn_φ-Recursion_Drifts.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
