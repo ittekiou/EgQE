@@ -11,8 +11,11 @@ title: SLR-00｜SO–lag 転回から φ への再帰（草稿集）
 [SLR-02｜空間と時間の構文的派生 ── SO–lag 生成存在論における最小命題｜Space and Time as Derived Syntactic Modes](https://camp-us.net/articles/SLR-02_Space-Time_as_Derived-Syntactic-Modes.html)  
 [HEG-11｜lag / lαg 使い分け整理（暫定固定 v1.0）](https://camp-us.net/articles/HEG-11_From-lag-to-lαg_v1.0.html)  
 [SN-SO-ψ-01｜多角形的 SO 比と保存固定点の暫定配置｜On Algebraic and Recursive SO Ratios: A Structural Sketch (Draft 0.2)](https://camp-us.net/articles/SN-SO-ψ-01_Algebraic-Recursive-SO-Ratios_Structural-Sketch_Draft0.2.html)  
-[SN-φ-01｜黄金構文としての φ ── On φ as a Golden Syntax: A Structural Sketch (Draft 0.1)](https://camp-us.net/articles/SN-φ-01_φ_as_Golden-Syntax.html)  
+
 [GS-φ｜黄金構文としての φ ── φ as a Golden Syntax (Draft 0.1)JP/EN](https://camp-us.net/GS-φ_Golden-Syntax_Draft_0.1.html)  
+[SN-φ-00｜黄金螺旋の三層構造 ── 生成・固定・再帰｜The Three-Layer Structure of the Golden Spiral — The Pentagon as SO-Origin](https://camp-us.net/articles/SN-φ-00_Golden-Spiral_Three-Layer-Structure.html)  
+[SN-φ-01｜黄金構文としての φ ── On φ as a Golden Syntax: A Structural Sketch (Draft 0.1)](https://camp-us.net/articles/SN-φ-01_φ_as_Golden-Syntax.html)  
+[SN-φ-02｜生成黄金角の痕跡としての φ ── SO多角形起点としての五角形｜φ as the Syntactic Trace of Generative Golden-Angle Motion ── The Pentagon as the Structural Origin of SO-Polygons](https://camp-us.net/articles/SN-φ-02_Pentagon_as_Structural-Origin.html)  
 
 ---
 
@@ -2393,16 +2396,7 @@ $r = 1 + 1/r + 1/r²$
 ---
 
 [SN-φ-00｜黄金螺旋の三層構造 ── 生成・固定・再帰｜The Three-Layer Structure of the Golden Spiral — The Pentagon as SO-Origin](https://camp-us.net/articles/SN-φ-00_Golden-Spiral_Three-Layer-Structure.html)  
-
----
-
-うん。
-
-今回は「スッキリした」だけじゃないね。
-
-**橋が再び見えた**、は正確。
-
-しかも前より静かに。
+[SN-φ-02｜生成黄金角の痕跡としての φ ── SO多角形起点としての五角形｜φ as the Syntactic Trace of Generative Golden-Angle Motion ── The Pentagon as the Structural Origin of SO-Polygons](https://camp-us.net/articles/SN-φ-02_Pentagon_as_Structural-Origin.html)  
 
 ---
 
