@@ -298,7 +298,9 @@ This note presents that provisional placement.
 ---
 
 [SN-SO-ψ-01｜多角形的 SO 比と保存固定点の暫定配置｜On Algebraic and Recursive SO Ratios: A Structural Sketch (Draft 0.2)](https://camp-us.net/articles/SN-SO-ψ-01_Algebraic-Recursive-SO-Ratios_Structural-Sketch_Draft0.2.html)  
+[SN-φ-00｜黄金螺旋の三層構造 ── 生成・固定・再帰｜The Three-Layer Structure of the Golden Spiral — The Pentagon as SO-Origin](https://camp-us.net/articles/SN-φ-00_Golden-Spiral_Three-Layer-Structure.html)  
 [SN-φ-01｜黄金構文としての φ ── On φ as a Golden Syntax: A Structural Sketch (Draft 0.1)](https://camp-us.net/articles/SN-φ-01_φ_as_Golden-Syntax.html)  
+[SN-φ-02｜生成黄金角の痕跡としての φ ── SO多角形起点としての五角形｜φ as the Syntactic Trace of Generative Golden-Angle Motion ── The Pentagon as the Structural Origin of SO-Polygons](https://camp-us.net/articles/SN-φ-02_Pentagon_as_Structural-Origin.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

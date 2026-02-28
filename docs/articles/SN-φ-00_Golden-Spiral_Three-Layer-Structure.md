@@ -257,7 +257,7 @@ It is the visible articulation of **motion, ratio, and time** within a three-lay
 
 ---
 
-[GS-φ｜黄金構文としての φ ── φ as a Golden Syntax (Draft 0.1)JP/EN](https://camp-us.net/GS-φ_Golden-Syntax_Draft_0.1.html)  
+[SN-φ-02｜生成黄金角の痕跡としての φ ── SO多角形起点としての五角形｜φ as the Syntactic Trace of Generative Golden-Angle Motion ── The Pentagon as the Structural Origin of SO-Polygons](https://camp-us.net/articles/SN-φ-02_Pentagon_as_Structural-Origin.html)  
 [SLR-00｜SO–lag 転回から φ への再帰（草稿集）｜SO-lαg-φ drifts Collection](https://camp-us.net/articles/SLR-00_SO-lag-Turn_φ-Recursion_Drifts.html)  
 
 ---
