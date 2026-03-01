@@ -124,6 +124,7 @@ Generation continues.
 ---
 
 [SN-φ-06｜SO lαg 基底構文図（SN-φ 三部作・完結図式編）](https://camp-us.net/articles/SN-φ-06_SO-lag-syntax-diagram.html)  
+[Z₀ v4.0｜From Offset to Encounter Operator（構文閾から遭遇演算子へ）](https://camp-us.net/Z₀_v4.0.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
