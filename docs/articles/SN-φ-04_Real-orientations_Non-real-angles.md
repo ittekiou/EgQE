@@ -8,6 +8,7 @@ title: SN-φ-04｜実在する向きと実在しない角度 ── αとθₐ�
 ### （$ΔR$／$ΔR_z$／$ΔZ_z$ 三層構文による整理）
 
 [SN-φ-06｜SO lαg 基底構文図（SN-φ 三部作・完結図式編）](https://camp-us.net/articles/SN-φ-06_SO-lag-syntax-diagram.html)  
+[SN-φ｜The Non-Closure Syntax of Space and Time — From lαg to φ: From lαg to φ: Generative Bifurcation and Structural Asymmetry](https://camp-us.net/articles/SN-φ_Non-Closure-Syntax_of_Space-Time.html)  
 
 ---
 

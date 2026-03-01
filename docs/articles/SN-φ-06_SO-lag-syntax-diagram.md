@@ -6,6 +6,8 @@ title: SN-φ-06｜SO lαg 基底構文図（SN-φ 三部作・完結図式編）
 # SO lαg 基底構文図
 ## （SN-φ 三部作・完結図式編）
 
+[SN-φ｜The Non-Closure Syntax of Space and Time — From lαg to φ: From lαg to φ: Generative Bifurcation and Structural Asymmetry](https://camp-us.net/articles/SN-φ_Non-Closure-Syntax_of_Space-Time.html)  
+
 ---
 
 ## 0｜宣言
@@ -32,15 +34,7 @@ SN-φ-03（時間）、SN-φ-04（空間）、SN-φ-05（構文統合）で示�
 
 # Ⅱ｜基底分岐図
 
-```text
-        lαg
-          ↓
-          α
-          ↓
-          φ
-        ↙   ↘
-     θₐ       ψ
-```
+![Generative-Phase-Diagram](../assets/Generative-Phase-Diagram.png)  
 
 生成はlαgから始まる。
 

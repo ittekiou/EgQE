@@ -21,6 +21,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-φ-04｜実在する向きと実在しない角度 ── αとθₐのあいだ（R/Z三層構文による整理）](https://camp-us.net/articles/SN-φ-04_Real-orientations_Non-real-angles.html)  
 [SN-φ-05｜Z₀ ── 閉包を破断する閾（φ/πズレの一般理論／構文論的統合）](https://camp-us.net/articles/SN-φ-05_closure-breaking-threshold.html)  
 [SN-φ-06｜SO lαg 基底構文図（SN-φ 三部作・完結図式編）](https://camp-us.net/articles/SN-φ-06_SO-lag-syntax-diagram.html)  
+[SN-φ｜The Non-Closure Syntax of Space and Time — From lαg to φ: From lαg to φ: Generative Bifurcation and Structural Asymmetry](https://camp-us.net/articles/SN-φ_Non-Closure-Syntax_of_Space-Time.html)  
+
 ###### 2026/02/28  
 🔷 [HEG-11｜SO–lag 転回── 他者・空間・時間の生成的再定位｜The SO–lag Turn: Re-grounding Otherness, Space, and Time](https://camp-us.net/articles/HEG-11-SN_SO-lag-Turn_Otherness-Spacetime.html)  
 [SLR-00｜SO–lag 転回から φ への再帰（草稿集）｜SO-lαg-φ drifts Collection](https://camp-us.net/articles/SLR-00_SO-lag-Turn_φ-Recursion_Drifts.html)  
