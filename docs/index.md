@@ -79,6 +79,8 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+Ζ₀ [Z₀ v4.0｜From Offset to Encounter Operator（構文閾から遭遇演算子へ）](https://camp-us.net/Z₀_v4.0.html)　リリース　2026.3.1  
+Φ [SN-φ｜The Non-Closure Syntax of Space and Time — From lαg to φ: From lαg to φ: Generative Bifurcation and Structural Asymmetry](https://camp-us.net/articles/SN-φ_Non-Closure-Syntax_of_Space-Time.html)　リリース　2026.3.1  
 🔷 [HEG-11｜SO–lag 転回── 他者・空間・時間の生成的再定位｜The SO–lag Turn: Re-grounding Otherness, Space, and Time](https://camp-us.net/articles/HEG-11-SN_SO-lag-Turn_Otherness-Spacetime.html)　リリース　2026.2.28  
 ⏳ [TS-ψₜ｜TS 最小公理宣言（v0.2）｜TS Minimal Axiomatic Declaration (v0.2)](https://camp-us.net/TS-ψₜ_v0.2.html)　リリース　2026.2.26  
 🪐 [HEG-11｜関係性宇宙論の最深部: SO–lag–Axis–ψₜ–Z₀｜Minimal Structural Map](https://camp-us.net/articles/HEG-11_SO–lag–Axis–ψₜ–Z₀_Minimal-Structural-Map.html)　リリース　2026.2.25  
@@ -102,7 +104,6 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 ⚡️ [S′⇆O′ lag 構文── その進化史と現在地](https://camp-us.net/SOS.html)　リリース　2026.2.1  
 🧰 [SAW-00｜物理宇宙のための必須構文 Kit（minimal Kit-8）](https://camp-us.net/articles/SAW-00_Non-Closure-Syntax-Kit_LarNCS.html)　リリース　2026.2.1  
 🪐 [SAW-00｜floc cosmology 憲章（v0.2）: A Lag-Relational Non-Closure Syntax](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.2.html)　リリース　2026.2.1  
-😈 [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)　リリース　2026.1.29  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
