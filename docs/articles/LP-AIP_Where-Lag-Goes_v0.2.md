@@ -425,7 +425,7 @@ lagは時間的遅延ではない。関係構造における閉包不可能性�
 
 ---
 
-_**ars technē architectonica politica** ——これが原点であり、目標。_
+_**ars technē architectonica politica** ──これが原点であり、目標。_
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
