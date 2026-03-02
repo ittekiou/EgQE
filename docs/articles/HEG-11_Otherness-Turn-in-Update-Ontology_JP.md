@@ -178,6 +178,7 @@ $$
 
 ---
 
+[HEG-11｜lagは不可逆更新を生む── Φは閉じ、Ψは持ち越す](https://camp-us.net/articles/HEG-11_Lag_Irreversible-Update.html)  
 [HEG-11｜The Otherness Turn in Update Ontology: The Structural Ground of Space and Time](https://camp-us.net/articles/HEG-11_Otherness-Turn-in-Update-Ontology.html)  
 
 ---

@@ -157,6 +157,7 @@ It is the structural trace of unfinished relation.
 
 ---
 
+[HEG-11｜Lag as the Generator of Irreversible Update: Φ Closes. Ψ Carries.](https://camp-us.net/articles/HEG-11_Lag_Irreversible-Update.html)  
 [HEG-11｜更新存在論の他者転回 ── 空間と時間の構造的根拠](https://camp-us.net/articles/HEG-11_Otherness-Turn-in-Update-Ontology_JP.html)  
 
 ---
