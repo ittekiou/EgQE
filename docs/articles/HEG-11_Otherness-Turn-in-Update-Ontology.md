@@ -156,6 +156,10 @@ Time is not a cosmic flow.
 It is the structural trace of unfinished relation.
 
 ---
+
+[HEG-11｜更新存在論の他者転回 ── 空間と時間の構造的根拠](https://camp-us.net/articles/HEG-11_Otherness-Turn-in-Update-Ontology_JP.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

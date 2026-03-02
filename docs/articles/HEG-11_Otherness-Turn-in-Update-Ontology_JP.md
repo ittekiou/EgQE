@@ -177,6 +177,10 @@ $$
 $$
 
 ---
+
+[HEG-11｜The Otherness Turn in Update Ontology: The Structural Ground of Space and Time](https://camp-us.net/articles/HEG-11_Otherness-Turn-in-Update-Ontology.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
