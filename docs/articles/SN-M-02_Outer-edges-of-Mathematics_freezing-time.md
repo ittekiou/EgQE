@@ -83,7 +83,7 @@ $$
 
 ## 1｜数は記号構文である
 
-SN-M-01の出発点：
+[SN-M-01](https://camp-us.net/articles/SN-M-01_Mathematics-Revealed_Difference-Freezed-Carryover.html)の出発点：
 
 > 数は、生成（ΔR）が凍結（ΔZ）したときに現れる構文痕跡である。
 

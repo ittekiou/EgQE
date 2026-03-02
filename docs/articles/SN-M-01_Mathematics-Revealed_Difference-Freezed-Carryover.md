@@ -93,6 +93,8 @@ lag は未凍結であり、持ち越される差分である。
 - 時間は数学の外か、それとも外縁か？
     
 
+👉 [SN-M-02｜数学の外縁 ── 式の型・凍結・時間](https://camp-us.net/articles/SN-M-02_Outer-edges-of-Mathematics_freezing-time.html)  
+
 ---
 
 ## 結語
