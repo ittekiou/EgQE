@@ -16,7 +16,7 @@ title_en: "HEG-11｜The Otherness Turn in Update Ontology: The Structural Ground
 
 > 存在とは更新である
 
-という立場を取ってきた。
+という立場をとってきた。
 
 しかし未解決だった問いがある。
 

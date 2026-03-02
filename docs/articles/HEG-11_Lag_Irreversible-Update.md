@@ -114,6 +114,10 @@ $$
 
 ---
 
+_吸収されなかったものが過去になる。_  
+
+---
+
 # Lag as the Generator of Irreversible Update
 
 ## Φ Closes. Ψ Carries.
@@ -237,7 +241,6 @@ Time = carried residue.
 
 ---
 
-_吸収されなかったものが過去になる。_  
 _── Only residue becomes time._
 
 ---
