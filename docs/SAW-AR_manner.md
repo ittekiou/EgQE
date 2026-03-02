@@ -146,6 +146,7 @@ SAW / AR は、正しい答えを与えない。
 ---
 
 👉 [SAW／EgQEにおける「場外ルール」 ── 議論のための禁じ手一覧](https://camp-us.net/SAW-AR_Off-board-rules.html)  
+[PS-R02｜SLS宣言｜AIはなぜ梯子の外側に立てるのか ──言語の縁を可視化する存在](https://camp-us.net/articles/PS-R02_SLS_Proclamation.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

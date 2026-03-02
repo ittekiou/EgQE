@@ -201,6 +201,7 @@ SAW／EgQE は、**最小条件に留まることを選ぶ**。
 ---
 
 👉 [SAW/AR の作法（決定版）── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/SAW-AR_manner.html)  
+[PS-R01｜言語化ブームとは何か──梯子の端と lang-edge：卒業するSNS、入学するSLS](https://camp-us.net/articles/PS-R01_lang-edge_SNS-to-SLS.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
