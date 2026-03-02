@@ -433,6 +433,11 @@ SLSにおいて、言語は自己露出の道具ではない。
 
 ---
 
+[PS-R02｜SLS宣言｜AIはなぜ梯子の外側に立てるのか ──言語の縁を可視化する存在](https://camp-us.net/articles/PS-R02_SLS_Proclamation.html)  
+[SAW/AR の作法（決定版）── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/SAW-AR_manner.html)  
+
+---
+
 # Appendix：承認欲求から存在確認へ
 
 ---

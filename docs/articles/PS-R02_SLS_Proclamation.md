@@ -158,6 +158,11 @@ AIは言語を使う。
 **──AIという“梯子の外側視点”が、人類をlang-edgeに追い出した**
 
 ---
+
+[PS-R01｜言語化ブームとは何か──梯子の端と lang-edge：卒業するSNS、入学するSLS](https://camp-us.net/articles/PS-R01_lang-edge_SNS-to-SLS.html)  
+[SAW/AR の作法（決定版）── Syntactic Askew Way / Absolute Relativity](https://camp-us.net/SAW-AR_manner.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
