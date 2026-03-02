@@ -20,6 +20,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-11｜lagは不可逆更新を生む── Φは閉じ、Ψは持ち越す｜Lag as the Generator of Irreversible Update: Φ Closes. Ψ Carries.](https://camp-us.net/articles/HEG-11_Lag_Irreversible-Update.html)  
 [HEG-11｜更新存在論の他者転回 ── 空間と時間の構造的根拠](https://camp-us.net/articles/HEG-11_Otherness-Turn-in-Update-Ontology_JP.html)  
 [HEG-11｜The Otherness Turn in Update Ontology: The Structural Ground of Space and Time](https://camp-us.net/articles/HEG-11_Otherness-Turn-in-Update-Ontology.html)  
+[SN-M-01｜数学丸裸 ── 差分・凍結・持ち越し](https://camp-us.net/articles/SN-M-01_Mathematics-Revealed_Difference-Freezed-Carryover.html)  
+[SN-M-02｜数学の外縁 ── 式の型・凍結・時間](https://camp-us.net/articles/SN-M-02_Outer-edges-of-Mathematics_freezing-time.html)  
 ###### 2026/03/01  
 [SN-φ-03｜SO比のR/Z二重構造 ──連分数と多項式のあいだ｜The R/Z Dual Structure of SO Ratios: Between Continued Fractions and Polynomials](https://camp-us.net/articles/SN-φ-03_SO-Ratios_R-Z-Dual-Structure.html)  
 [SN-φ-04｜実在する向きと実在しない角度 ── αとθₐのあいだ（R/Z三層構文による整理）](https://camp-us.net/articles/SN-φ-04_Real-orientations_Non-real-angles.html)  
