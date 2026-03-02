@@ -16,6 +16,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/02  
+[HEG-11｜更新存在論の他者転回 ── 空間と時間の構造的根拠](https://camp-us.net/articles/HEG-11_Otherness-Turn-in-Update-Ontology_JP.html)  
+[HEG-11｜The Otherness Turn in Update Ontology: The Structural Ground of Space and Time](https://camp-us.net/articles/HEG-11_Otherness-Turn-in-Update-Ontology.html)  
 ###### 2026/03/01  
 [SN-φ-03｜SO比のR/Z二重構造 ──連分数と多項式のあいだ｜The R/Z Dual Structure of SO Ratios: Between Continued Fractions and Polynomials](https://camp-us.net/articles/SN-φ-03_SO-Ratios_R-Z-Dual-Structure.html)  
 [SN-φ-04｜実在する向きと実在しない角度 ── αとθₐのあいだ（R/Z三層構文による整理）](https://camp-us.net/articles/SN-φ-04_Real-orientations_Non-real-angles.html)  
