@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/03  
+[HEG-11｜三体はなぜ閉じないのか ── 背景化不能としての非可積分（付:定義）｜Why Does the Three-Body System Not Close? — Non-Integrability as the Impossibility of Backgrounding (with Definitions)](https://camp-us.net/articles/HEG-11_Why_Three-Body System_Not-Close.html)  
 ###### 2026/03/02  
 [HEG-11｜lagは不可逆更新を生む── Φは閉じ、Ψは持ち越す｜Lag as the Generator of Irreversible Update: Φ Closes. Ψ Carries.](https://camp-us.net/articles/HEG-11_Lag_Irreversible-Update.html)  
 [HEG-11｜更新存在論の他者転回 ── 空間と時間の構造的根拠](https://camp-us.net/articles/HEG-11_Otherness-Turn-in-Update-Ontology_JP.html)  
