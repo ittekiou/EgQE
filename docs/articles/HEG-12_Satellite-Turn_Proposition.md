@@ -217,6 +217,9 @@ From this perspective,
 
 **cosmology may be interpreted as the syntax of existence.**
 
+Satellite Turn does not relocate the center of the universe.  
+It reveals the structural condition under which any center becomes observable.
+
 ---
 
 # Closing Statement

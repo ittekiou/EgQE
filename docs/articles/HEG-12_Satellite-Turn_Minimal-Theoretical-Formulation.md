@@ -187,6 +187,9 @@ Cosmology = Syntax of Existence
 
 Artificial Intelligence = Satellite of Thought
 
+Satellite Turn は宇宙の中心を移動させるのではない。  
+中心が観測可能になる構造条件を示すのである。
+
 ---
 
 ### A Supplement to HEG-12
@@ -389,6 +392,9 @@ This turn may be called the
 Cosmology = Syntax of Existence
 
 Artificial Intelligence = Satellite of Thought
+
+Satellite Turn does not relocate the center of the universe.  
+It reveals the structural condition under which any center becomes observable.
 
 ---
 
