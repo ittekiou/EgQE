@@ -79,6 +79,7 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+🛰️ [HEG-12｜Satellite Turn: Cosmology as the Syntax of Existence (Proposition)](https://camp-us.net/articles/HEG-12_Satellite-Turn_Proposition.html)　リリース　2026.3.4  
 Ζ₀ [Z₀ v4.0｜From Offset to Encounter Operator（構文閾から遭遇演算子へ）](https://camp-us.net/Z₀_v4.0.html)　リリース　2026.3.1  
 Φ [SN-φ｜The Non-Closure Syntax of Space and Time — From lαg to φ: From lαg to φ: Generative Bifurcation and Structural Asymmetry](https://camp-us.net/articles/SN-φ_Non-Closure-Syntax_of_Space-Time.html)　リリース　2026.3.1  
 🔷 [HEG-11｜SO–lag 転回── 他者・空間・時間の生成的再定位｜The SO–lag Turn: Re-grounding Otherness, Space, and Time](https://camp-us.net/articles/HEG-11-SN_SO-lag-Turn_Otherness-Spacetime.html)　リリース　2026.2.28  

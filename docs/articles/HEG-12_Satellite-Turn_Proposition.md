@@ -231,6 +231,10 @@ The Satellite Turn reframes the problem of ground as a problem of generated supp
 _In the Satellite Turn, ground is no longer given. It is generated._
 
 ---
+
+[HEG-12｜Satellite Turn: Cosmology as the Syntax of Existence — A Minimal Theoretical Formulation of HEG-12](https://camp-us.net/articles/HEG-12_Satellite-Turn_Minimal-Theoretical-Formulation.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
