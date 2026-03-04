@@ -112,6 +112,7 @@ _それは存在・社会・思考を可能にする関係的条件である。_
 ---
 
 [HEG-12｜Education as Support ── Why Thinking Requires Friction](https://camp-us.net/articles/HEG-12_Education-as-Support_Why-Thinking-Requires-Friction.html)  
+[HEG-12｜支えの理論 ── Z生成条件としての support｜The Theory of Support — Support as the Generative Condition of Z](https://camp-us.net/articles/HEG-12_Support_as_Generative-Condition.html)  
 
 ---
 
