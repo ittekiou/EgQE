@@ -25,7 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-12｜支えの哲学 ── 非閉包と不安定という生存条件｜Philosophy of Support — Non-Closure and Instability as Conditions of Existence](https://camp-us.net/articles/HEG-12_Philosophy-of-Support.html)  
 🛰️ [HEG-12｜Satellite Turn: Cosmology as the Syntax of Existence (Proposition)](https://camp-us.net/articles/HEG-12_Satellite-Turn_Proposition.html)  
 [HEG-12｜Satellite Turn ── 支えとしての存在構造（HEG-12補論）｜Satellite Turn: Cosmology as the Syntax of Existence — A Minimal Theoretical Formulation of HEG-12](https://camp-us.net/articles/HEG-12_Satellite-Turn_Minimal-Theoretical-Formulation.html)  
-[HEG-12｜Satellite Turn とガリレオの系譜 ── ニュートンからガリレオへ｜HEG-12｜The Satellite Turn and the Return to Galileo: Support and the Galilean Lineage── From Newton Back to Galileo](https://camp-us.net/articles/HEG-12_From-Newton_Back-to-Galileo.html)  
+[HEG-12｜Satellite Turn とガリレオの系譜 ── ニュートンからガリレオへ｜The Satellite Turn and the Return to Galileo: Support and the Galilean Lineage── From Newton Back to Galileo](https://camp-us.net/articles/HEG-12_From-Newton_Back-to-Galileo.html)  
 ###### 2026/03/03  
 [HEG-11｜三体はなぜ閉じないのか ── 背景化不能としての非可積分（付:定義）｜Why Does the Three-Body System Not Close? — Non-Integrability as the Impossibility of Backgrounding (with Definitions)](https://camp-us.net/articles/HEG-11_Why_Three-Body-System_Not-Close.html)  
 ###### 2026/03/02  
