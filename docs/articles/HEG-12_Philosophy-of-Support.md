@@ -7,6 +7,9 @@ title_en: HEG-12｜Philosophy of Support — Non-Closure and Instability as Cond
 ## Philosophy of Support  
 ### — Non-Closure and Instability as Conditions of Existence
 
+In a falling universe, ground is not given.  
+It must be generated as support.
+
 ---
 
 宇宙の基本状態は非閉包である。

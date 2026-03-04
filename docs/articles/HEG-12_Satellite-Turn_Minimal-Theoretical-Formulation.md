@@ -192,6 +192,11 @@ Satellite Turn は宇宙の中心を移動させるのではない。
 
 ---
 
+In a falling universe, ground is not given.  
+It must be generated as support.
+
+---
+
 ### A Supplement to HEG-12
 # Satellite Turn
 ## Support as the Structural Condition of Ground

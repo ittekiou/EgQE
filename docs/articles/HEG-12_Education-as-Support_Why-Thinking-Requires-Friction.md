@@ -104,6 +104,9 @@ title: HEG-12｜Education as Support ── Why Thinking Requires Friction
 _Inter-Phaseの時代において、支えとは単なる物理的安定条件ではない。_  
 _それは存在・社会・思考を可能にする関係的条件である。_
 
+In a falling universe, ground is not given.  
+It must be generated as support.
+
 ---
 
 [HEG-12｜Support in Society ── Friction as the Condition of Living Together](https://camp-us.net/articles/HEG-12_Support-in-Society_Friction_Condition-of-Living-Together.html)  

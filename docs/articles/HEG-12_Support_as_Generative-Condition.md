@@ -8,6 +8,9 @@ title_en: HEG-12｜The Theory of Support — Support as the Generative Condition
 ## The Theory of Support
 ### — Support as the Generative Condition of Z
 
+In a falling universe, ground is not given.  
+It must be generated as support.
+
 ---
 
 ## 1｜問題設定
