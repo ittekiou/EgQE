@@ -112,6 +112,10 @@ Satellite Turn は ニュートン力学の延長ではない。
 
 それはむしろ、**ガリレオの洞察への回帰** である。
 
+> 重力は落下を説明する。  
+> 曲率は重力を説明する。  
+> 支えは落下の中の安定を説明する。
+
 ---
 
 ## 7　ガリレオの系譜
@@ -257,6 +261,10 @@ Ground is no longer assumed as a primitive foundation.
 
 It becomes a generated condition.
 
+> Gravity explains falling.  
+> Curvature explains gravity.  
+> Support explains persistence within falling.
+
 ---
 
 ## 7. The Galilean Lineage
@@ -286,7 +294,7 @@ Ground emerges through support within persistent fall.
 > _E pur si muove._
 
 The universe falls.  
-The ground support.
+The ground supports.
 
 Existence does not collapse.
 
