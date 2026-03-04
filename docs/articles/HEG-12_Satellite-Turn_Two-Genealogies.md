@@ -152,6 +152,11 @@ title_en: HEG-12｜Two Genealogies of the Satellite Turn — From Center to Supp
 
 ---
 
+_Inter-Phaseの時代において、支えとは単なる物理的安定条件ではない。_  
+_それは存在・社会・思考を可能にする関係的条件である。_
+
+---
+
 # Two Genealogies of the Satellite Turn
 ## — From Center to Support
 
@@ -297,6 +302,9 @@ It reveals the structural conditions that make persistence possible in a world w
 
 > The universe does not rest on a ground.  
 > It learns to stand through support.
+
+> In the Age of Inter-Phase, support is not merely a physical condition of stability.  
+> It is the relational condition under which existence, society, and thinking become possible.
 
 ---
 

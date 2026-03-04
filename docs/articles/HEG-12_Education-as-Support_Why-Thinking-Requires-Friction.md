@@ -5,6 +5,11 @@ title: HEG-12｜Education as Support ── Why Thinking Requires Friction
 # Education as Support
 ## ── Why Thinking Requires Friction
 
+> In the Age of Inter-Phase, support is not merely a physical condition of stability.  
+> It is the relational condition under which existence, society, and thinking become possible.
+
+---
+
 ### 1. 問い
 
 教育とは何か。
@@ -93,6 +98,11 @@ title: HEG-12｜Education as Support ── Why Thinking Requires Friction
 教育は知識を与えるものではない。教育は思考を可能にする。
 
 そして思考とは、**摩擦を支えに変える能力** なのである。
+
+---
+
+_Inter-Phaseの時代において、支えとは単なる物理的安定条件ではない。_  
+_それは存在・社会・思考を可能にする関係的条件である。_
 
 ---
 

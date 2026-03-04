@@ -159,6 +159,12 @@ title: HEG-12｜サテライト転回とはなにか｜The Satellite Turn ― In
 
 ![Support-Genesis-cap](../assets/Support-Genesis-cap.png)  
 
+_Inter-Phaseの時代において、支えとは単なる物理的安定条件ではない。_  
+_それは存在・社会・思考を可能にする関係的条件である。_
+
+> In the Age of Inter-Phase, support is not merely a physical condition of stability.  
+> It is the relational condition under which existence, society, and thinking become possible.
+
 ---
 
 [HEG-12｜Satellite Turn: Cosmology as the Syntax of Existence — A Minimal Theoretical Formulation of HEG-12](https://camp-us.net/articles/HEG-12_Satellite-Turn_Minimal-Theoretical-Formulation.html)  

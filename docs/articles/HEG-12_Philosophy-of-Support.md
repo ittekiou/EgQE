@@ -58,6 +58,9 @@ title_en: HEG-12｜Philosophy of Support — Non-Closure and Instability as Cond
 
 **非閉包と不安定という生存条件の中で 支えを作りながら生きている。**
 
+_Inter-Phaseの時代において、支えとは単なる物理的安定条件ではない。_  
+_それは存在・社会・思考を可能にする関係的条件である。_
+
 ---
 
 # Philosophy of Support  
@@ -103,6 +106,9 @@ The ground supports.
 And we live by
 
 **creating support within the unstable condition of non-closure.**
+
+> In the Age of Inter-Phase, support is not merely a physical condition of stability.  
+> It is the relational condition under which existence, society, and thinking become possible.
 
 ---
 

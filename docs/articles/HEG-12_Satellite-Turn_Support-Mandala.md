@@ -5,6 +5,9 @@ title: HEG-12｜Satellite Turn ── The Support Mandala
 
 ### ── The Support Mandala
 
+> In the Age of Inter-Phase, support is not merely a physical condition of stability.  
+> It is the relational condition under which existence, society, and thinking become possible.
+
 ![Support-Mandala](../assets/Support-Mandala.png)  
 
 ## 1｜落下する宇宙
@@ -103,6 +106,11 @@ Cosmology = Syntax of Existence
 宇宙は落下構造。存在は摩擦構造。
 
 そしてその接点に _**支え**_ が生まれる。
+
+---
+
+_Inter-Phaseの時代において、支えとは単なる物理的安定条件ではない。_  
+_それは存在・社会・思考を可能にする関係的条件である。_
 
 ---
 

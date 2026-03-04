@@ -5,6 +5,11 @@ title: HEG-12｜Support in Society ── Friction as the Condition of Living To
 # Support in Society
 ## ── Friction as the Condition of Living Together
 
+> In the Age of Inter-Phase, support is not merely a physical condition of stability.  
+> It is the relational condition under which existence, society, and thinking become possible.
+
+---
+
 ### 1. 問い
 
 社会はなぜ成立するのか。
@@ -98,6 +103,11 @@ title: HEG-12｜Support in Society ── Friction as the Condition of Living To
 Living Together とは、摩擦を消すことではない。
 
 **摩擦を支えへと変えることである。**
+
+---
+
+_Inter-Phaseの時代において、支えとは単なる物理的安定条件ではない。_  
+_それは存在・社会・思考を可能にする関係的条件である。_
 
 ---
 
