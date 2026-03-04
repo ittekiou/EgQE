@@ -18,6 +18,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/03/04  
 [SN-RZ-00｜RZ構文と統一理論の条件（熟成メモ）｜RZ Syntax and the Condition of Unified Theory (Draft)](https://camp-us.net/articles/SN-RZ-00_RZ-Syntax_Unified-Theory_Condition.html)  
+[HEG-12｜支えの理論 ── Z生成条件としての support｜The Theory of Support — Support as the Generative Condition of Z](https://camp-us.net/articles/HEG-12_Support_as_Generative-Condition.html)  
+[HEG-12｜支えの系譜 ── 重力から support へ｜The Genealogy of Support — From Gravity to Support](https://camp-us.net/articles/HEG-12_Gravity-to-Support_Genealogy-of-Support.html)  
+[HEG-12｜人工衛星とはなにか ── 無重力と擬似地上｜Artificial Satellites — Between the Falling Universe and Pseudo-Ground](https://camp-us.net/articles/HEG-12_Artificial-Satellites_Pseudo-Ground.html)  
+[HEG-12｜地上の条件 ── 非閉包の不安定と支えという安定｜Conditions of the Ground — Instability of Non-Closure and Stability of Support](https://camp-us.net/articles/HEG-12_Conditions-of-the-Ground.html)  
+[HEG-12｜支えの哲学 ── 非閉包と不安定という生存条件｜Philosophy of Support — Non-Closure and Instability as Conditions of Existence](https://camp-us.net/articles/HEG-12_Philosophy-of-Support.html)  
 ###### 2026/03/03  
 [HEG-11｜三体はなぜ閉じないのか ── 背景化不能としての非可積分（付:定義）｜Why Does the Three-Body System Not Close? — Non-Integrability as the Impossibility of Backgrounding (with Definitions)](https://camp-us.net/articles/HEG-11_Why_Three-Body-System_Not-Close.html)  
 ###### 2026/03/02  
