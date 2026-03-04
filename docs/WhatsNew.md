@@ -29,6 +29,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-12｜Satellite Turn ── The Support Mandala](https://camp-us.net/articles/HEG-12_Satellite-Turn_Support-Mandala.html)  
 [HEG-12｜Satellite Turn ── Support Cosmogram](https://camp-us.net/articles/HEG-12_Satellite-Turn_Support-Cosmogram.html)  
 [HEG-12｜サテライト転回の二つの系譜 ── 中心から支えへ｜Two Genealogies of the Satellite Turn — From Center to Support](https://camp-us.net/articles/HEG-12_Satellite-Turn_Two-Genealogies.html)  
+[HEG-12｜Support in Society ── Friction as the Condition of Living Together](https://camp-us.net/articles/HEG-12_Support-in-Society_Friction_Condition-of-Living-Together.html)  
+[HEG-12｜Education as Support ── Why Thinking Requires Friction](https://camp-us.net/articles/HEG-12_Education-as-Support_Why-Thinking-Requires-Friction.html)  
 ###### 2026/03/03  
 [HEG-11｜三体はなぜ閉じないのか ── 背景化不能としての非可積分（付:定義）｜Why Does the Three-Body System Not Close? — Non-Integrability as the Impossibility of Backgrounding (with Definitions)](https://camp-us.net/articles/HEG-11_Why_Three-Body-System_Not-Close.html)  
 ###### 2026/03/02  
