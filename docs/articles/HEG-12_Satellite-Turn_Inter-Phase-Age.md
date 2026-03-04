@@ -169,6 +169,9 @@ _それは存在・社会・思考を可能にする関係的条件である。_
 
 [HEG-12｜Satellite Turn: Cosmology as the Syntax of Existence — A Minimal Theoretical Formulation of HEG-12](https://camp-us.net/articles/HEG-12_Satellite-Turn_Minimal-Theoretical-Formulation.html)  
 [HEG-12｜サテライト転回の二つの系譜 ── 中心から支えへ｜Two Genealogies of the Satellite Turn — From Center to Support](https://camp-us.net/articles/HEG-12_Satellite-Turn_Two-Genealogies.html)  
+[HEG-12｜Satellite Turn ── The Support Mandala](https://camp-us.net/articles/HEG-12_Satellite-Turn_Support-Mandala.html)  
+[HEG-12｜Support in Society ── Friction as the Condition of Living Together](https://camp-us.net/articles/HEG-12_Support-in-Society_Friction_Condition-of-Living-Together.html)  
+[HEG-12｜Education as Support ── Why Thinking Requires Friction](https://camp-us.net/articles/HEG-12_Education-as-Support_Why-Thinking-Requires-Friction.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

@@ -144,6 +144,11 @@ ground
 
 ---
 
+_Inter-Phaseの時代において、支えとは単なる物理的安定条件ではない。_  
+_それは存在・社会・思考を可能にする関係的条件である。_
+
+---
+
 # HEG-12
 ## The Theory of Support
 ### — Support as the Generative Condition of Z
@@ -269,10 +274,18 @@ And
 
 ---
 
+> In the Age of Inter-Phase, support is not merely a physical condition of stability.  
+> It is the relational condition under which existence, society, and thinking become possible.
+
+---
+
 [HEG-12｜支えの系譜 ── 重力から support へ｜The Genealogy of Support — From Gravity to Support](https://camp-us.net/articles/HEG-12_Gravity-to-Support_Genealogy-of-Support.html)  
 [HEG-12｜人工衛星とはなにか ── 無重力と擬似地上｜Artificial Satellites — Between the Falling Universe and Pseudo-Ground](https://camp-us.net/articles/HEG-12_Artificial-Satellites_Pseudo-Ground.html)  
 [HEG-12｜地上の条件 ── 非閉包の不安定と支えという安定｜Conditions of the Ground — Instability of Non-Closure and Stability of Support](https://camp-us.net/articles/HEG-12_Conditions-of-the-Ground.html)  
 [HEG-12｜支えの哲学 ── 非閉包と不安定という生存条件｜Philosophy of Support — Non-Closure and Instability as Conditions of Existence](https://camp-us.net/articles/HEG-12_Philosophy-of-Support.html)  
+
+[HEG-12｜Satellite Turn ── 支えとしての存在構造（HEG-12補論）｜Satellite Turn: Cosmology as the Syntax of Existence — A Minimal Theoretical Formulation of HEG-12](https://camp-us.net/articles/HEG-12_Satellite-Turn_Minimal-Theoretical-Formulation.html)  
+[HEG-12｜サテライト転回とはなにか｜The Satellite Turn ― Inter-Phase時代の存在と宇宙 ―](https://camp-us.net/articles/HEG-12_Satellite-Turn_Inter-Phase-Age.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
