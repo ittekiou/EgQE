@@ -3,6 +3,10 @@ title: "HEG-12｜Descartes: The Unsupported Ground"
 ---
 # Descartes: The Unsupported Ground
 
+> Sustineor ergo sum.
+
+---
+
 ## 1. The Cartesian Beginning
 
 René Descartes begins modern philosophy with a famous proposition:

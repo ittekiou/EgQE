@@ -161,6 +161,8 @@ fall → support → subject
 
 明らかにされるべきなのは、グラウンドを支える **関係の構造** なのである。
 
+> Sustineor ergo sum.
+
 ---
 
 # The Missing Support
@@ -302,6 +304,8 @@ To understand existence, philosophy must move beyond the subject as foundation a
 What must be questioned is the assumption that produces ground.
 
 What must be clarified are the relations that support it.
+
+> Sustineor ergo sum.
 
 ---
 
