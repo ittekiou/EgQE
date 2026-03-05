@@ -32,7 +32,7 @@ _Relation remains._
 _La structure naît d'une amorce._
 
 ---
-*EgQE — Echo-Genesis Qualia Engine*  #Core
+*EgQE — Echo-Genesis Qualia Engine*  #Core  
 [_camp-us.net_](https://camp-us.net/)  
 
 ---
