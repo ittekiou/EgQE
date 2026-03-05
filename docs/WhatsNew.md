@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/03/05  
 [HEG-12｜失われた Support ──存在の構文としての宇宙論｜The Missing Support: Cosmology as the Syntax of Existence](https://camp-us.net/articles/HEG-12_The-Missing-Support.html)  
 [HEG-12｜失われた Support ──近代科学哲学の Missing Link｜The Missing Support: The Birth of the Unsupported Ground — A Missing Link in the Philosophy of Modern Science](https://camp-us.net/articles/HEG-12_Missing-Support_Birth-of-Unsupported-Ground.html)  
+[HEG-12｜Descartes: The Unsupported Ground](https://camp-us.net/articles/HEG-12_Descartes_Unsupported-Ground.html)  
+[HEG-12｜失われたサポート ── デカルトと「支えなきグラウンド」｜The Missing Support: Descartes and the Unsupported Ground](https://camp-us.net/articles/HEG-12_Missing-Support_Descartes-Unsupported-Ground.html)  
 ###### 2026/03/04  
 [SN-RZ-00｜RZ構文と統一理論の条件（熟成メモ）｜RZ Syntax and the Condition of Unified Theory (Draft)](https://camp-us.net/articles/SN-RZ-00_RZ-Syntax_Unified-Theory_Condition.html)  
 [HEG-12｜支えの理論 ── Z生成条件としての support｜The Theory of Support — Support as the Generative Condition of Z](https://camp-us.net/articles/HEG-12_Support_as_Generative-Condition.html)  
