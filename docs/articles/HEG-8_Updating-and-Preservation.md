@@ -1,9 +1,14 @@
-
+---
+title: "HEG-8｜更新と保存── 更新は均され偏在し凍結する｜Updating and Preservation: Topological Constraint of Relational Lag"
+---
 # 更新と保存
 ### ── 更新は均され偏在し凍結する
-
 ## Updating and Preservation
 ### ── Topological Constraint of Relational Lag
+
+[EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
+
+---
 
 ## 1. 更新
 

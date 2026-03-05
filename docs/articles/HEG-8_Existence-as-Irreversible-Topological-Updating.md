@@ -3,10 +3,12 @@ title: HEG-8｜更新存在論序説 ── 位相履歴としての存在と非
 title_en: HEG-8｜Existence as Irreversible Topological Updating
 ---
 # 更新存在論序説
-
 ## ── 位相履歴としての存在と非可逆宇宙
-
 ### Existence as Irreversible Topological Updating
+
+[EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
+
+---
 
 ### 1. 構文の定義
 

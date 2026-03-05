@@ -4,6 +4,8 @@ title: HEG-8｜更新存在の三態＝保存三相論 ── Updating and Prese
 ## 更新存在の三態＝保存三相論
 ### Updating and Preservation as Three Phase Modes
 
+[EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
+
 ---
 
 ## 1. 問題設定

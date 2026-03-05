@@ -4,9 +4,12 @@ title_en: HEG-8｜Existence as Relational Updating Under Conservation — Existe
 ---
 # Existence as Relational Updating Under Conservation
 ## — Existence Cannot Be Explained Without Updating
-
 ## 保存を伴う関係更新としての存在
 ### ── 更新を前提にしない限り、存在は説明できない
+
+[EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
+
+---
 
 ### 1. The Question
 

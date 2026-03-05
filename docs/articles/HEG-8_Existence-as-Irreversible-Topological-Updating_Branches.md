@@ -4,10 +4,12 @@ title_en: HEG-8｜Existence as Irreversible Topological Updating Branches
 layout: math
 ---
 # 更新存在論：Paragraphs
-
 ## ── 位相履歴としての存在と非可逆宇宙
 
+[EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
 [HEG-8｜更新存在論序説 ── 位相履歴としての存在と非可逆宇宙](https://camp-us.net/articles/HEG-8_Existence-as-Irreversible-Topological-Updating.html)  
+
+---
 
 #### HEG-8.1　更新と痕跡
 #### HEG-8.2　物語と救済

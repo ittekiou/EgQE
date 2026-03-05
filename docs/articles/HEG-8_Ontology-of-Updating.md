@@ -3,8 +3,11 @@ layout: math
 title_en: "HEG-8｜Toward an Ontology of Updating: The Relational Lag Principle"
 ---
 # Toward an Ontology of Updating: The Relational Lag Principle
-
 ## 関係lag原理による更新存在論の再定位
+
+[EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
+
+---
 
 ### **Abstract**
 
