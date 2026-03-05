@@ -412,6 +412,8 @@ object      — Modern science
 project     — Heidegger
 ```
 
+![TheMissingSupport](../assets/TheMissingSupport.png)  
+
 ここで support は **存在の安定化を生む関係構造** として現れる。
 
 ---
