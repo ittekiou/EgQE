@@ -150,7 +150,7 @@ Existence emerges not from thought alone, but from the relational stabilization 
 
 ---
 
-[HEG-12｜失われた Support ──存在の構文としての宇宙論｜The Missing Support: Cosmology as the Syntax of Existence](https://camp-us.net/articles/HEG-12_The-Missing-Support.html)  
+[HEG-12｜失われた Support ──近代科学哲学の Missing Link｜The Missing Support: The Birth of the Unsupported Ground — A Missing Link in the Philosophy of Modern Science](https://camp-us.net/articles/HEG-12_Missing-Support_Birth-of-Unsupported-Ground.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

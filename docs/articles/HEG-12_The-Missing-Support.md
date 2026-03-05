@@ -207,8 +207,6 @@ Cosmology = Syntax of Existence
 ---
 
 [HEG-12｜失われた Support ──近代科学哲学の Missing Link｜The Missing Support: The Birth of the Unsupported Ground — A Missing Link in the Philosophy of Modern Science](https://camp-us.net/articles/HEG-12_Missing-Support_Birth-of-Unsupported-Ground.html)  
-[HEG-12｜Descartes: The Unsupported Ground](https://camp-us.net/articles/HEG-12_Descartes_Unsupported-Ground.html)  
-[HEG-12｜失われたサポート ── デカルトと「支えなきグラウンド」｜The Missing Support: Descartes and the Unsupported Ground](https://camp-us.net/articles/HEG-12_Missing-Support_Descartes-Unsupported-Ground.html)  
 
 ---
 # Short Essay Edition（短論版）

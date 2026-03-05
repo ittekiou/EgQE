@@ -143,6 +143,14 @@ supportは **記号化されないまま失われた**。
 
 ---
 
+[HEG-12｜失われた Support ──存在の構文としての宇宙論｜The Missing Support: Cosmology as the Syntax of Existence](https://camp-us.net/articles/HEG-12_The-Missing-Support.html)  
+[HEG-12｜Descartes: The Unsupported Ground](https://camp-us.net/articles/HEG-12_Descartes_Unsupported-Ground.html)  
+[HEG-12｜失われたサポート ── デカルトと「支えなきグラウンド」｜The Missing Support: Descartes and the Unsupported Ground](https://camp-us.net/articles/HEG-12_Missing-Support_Descartes-Unsupported-Ground.html)  
+[HEG-12｜サポートと投企 ── ハイデガーと失われた関係｜Support and Project: A Note on Heidegger and the Missing Relation](https://camp-us.net/articles/HEG-12_Support-Project_Heidegger-Missing-Relation.html)  
+[HEG-12｜アリストテレスと支えなき基盤 ── 実体と失われた関係｜Aristotle and the Ground Without Support: A Note on Substance and the Missing Relation](https://camp-us.net/articles/HEG-12_Aristotle-Ground-Without-Support.html)  
+
+---
+
 # The Missing Support: 
 # The Birth of the Unsupported Ground
 ## A Missing Link in the Philosophy of Modern Science
