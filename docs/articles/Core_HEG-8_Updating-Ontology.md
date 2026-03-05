@@ -24,6 +24,8 @@ title: HEG-8｜更新存在論 ── 核心命題
 [HEG-8｜Existence as Relational Updating Under Conservation — Existence Cannot Be Explained Without Updating｜保存を伴う関係更新としての存在 ── 更新を前提にしない限り、存在は説明できない](https://camp-us.net/articles/HEG-8_Existence-as-Relational-Updating.html)  
 [HEG-8｜更新と保存 ── 更新は均され偏在し凍結する](https://camp-us.net/articles/HEG-8_Updating-and-Preservation.html)  
 [HEG-8｜更新存在の三態＝保存三相論 ── Updating and Preservation as Three Phase Modes](https://camp-us.net/articles/HEG-8_Preservation-as-Three-Phase-Modes.html)  
+_Syntax fails._  
+_Relation remains._
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
