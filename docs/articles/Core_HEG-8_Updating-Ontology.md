@@ -14,7 +14,9 @@ title: HEG-8｜更新存在論 ── 核心命題
 **Time appears only in trace-preserving phases.**
 
 ---
+_Existence, order, and time are all syntax of updating._
 
+The following paper leads to these three central propositions.
 ## HEG-8 更新存在論シリーズ
 
 [HEG-8｜更新存在論序説 ── 位相履歴としての存在と非可逆宇宙](https://camp-us.net/articles/HEG-8_Existence-as-Irreversible-Topological-Updating.html)  
@@ -34,6 +36,7 @@ _La structure naît d'une amorce._
 [_camp-us.net_](https://camp-us.net/)  
 
 ---
+This document is part of the EgQE Core Series, outlining the minimal syntactic foundations of the HEG framework.
 
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
