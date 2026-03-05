@@ -4,9 +4,10 @@ title_en: "HEG-12｜The Missing Support: Cosmology as the Syntax of Existence"
 ---
 # **The Missing Support**  
 ## _Cosmology as the Syntax of Existence_
-
 # 失われた Support
 ## ──近代科学哲学における Missing Link
+
+> E pur si cadit.
 
 ---
 # Manifesto版
@@ -459,4 +460,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Mar 4, 2026 · Web Mar 4, 2026 |</p>
+<p align="center">| Drafted Mar 5, 2026 · Web Mar 5, 2026 |</p>
