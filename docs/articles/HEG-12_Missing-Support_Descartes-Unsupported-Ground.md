@@ -161,6 +161,8 @@ fall → support → subject
 
 明らかにされるべきなのは、グラウンドを支える **関係の構造** なのである。
 
+Supported, therefore we exist.
+
 > Sustineor ergo sum.
 
 ---
