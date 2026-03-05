@@ -1,11 +1,11 @@
 ---
-title: HEG-12｜失われた Support ──近代科学哲学における Missing Link
+title: HEG-12｜失われた Support ──存在の構文としての宇宙論
 title_en: "HEG-12｜The Missing Support: Cosmology as the Syntax of Existence"
 ---
 # **The Missing Support**  
 ## _Cosmology as the Syntax of Existence_
 # 失われた Support
-## ──近代科学哲学における Missing Link
+## ──存在の構文としての宇宙論
 
 > E pur si cadit.
 
