@@ -225,7 +225,7 @@ No Closure. Only Iteration.
 
 > Ce livre, lecteur, est un livre de bonne foi. Il t’avertit, dès le début, que je ne l’ai écrit que pour moi et quelques intimes, sans me préoccuper qu’il pût être pour toi de quelque intérêt, ou passer à la postérité ; de si hautes visées sont au-dessus de ce dont je suis capable.
 > 
-> ......Ainsi, lecteur, c’est moi-même qui fais l’objet de mon livre ; peut-être n’est-ce pas là une raison suffisante pour que tu emploies tes loisirs à un sujet aussi peu sérieux et de si minime importance. Sur ce, à la grâce de Dieu. 　　　　—— Michel de Montaigne / Essais
+> ......Ainsi, lecteur, c’est moi-même qui fais l’objet de mon livre ; peut-être n’est-ce pas là une raison suffisante pour que tu emploies tes loisirs à un sujet aussi peu sérieux et de si minime importance. Sur ce, à la grâce de Dieu. 　　　　── Michel de Montaigne / Essais
 
 EgQE is not a finished system.
 

@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/05  
+[HEG-12｜失われた Support ──近代科学哲学における Missing Link｜HEG-12｜The Missing Support: Cosmology as the Syntax of Existence](https://camp-us.net/articles/HEG-12_The-Missing-Support.html)  
 ###### 2026/03/04  
 [SN-RZ-00｜RZ構文と統一理論の条件（熟成メモ）｜RZ Syntax and the Condition of Unified Theory (Draft)](https://camp-us.net/articles/SN-RZ-00_RZ-Syntax_Unified-Theory_Condition.html)  
 [HEG-12｜支えの理論 ── Z生成条件としての support｜The Theory of Support — Support as the Generative Condition of Z](https://camp-us.net/articles/HEG-12_Support_as_Generative-Condition.html)  
