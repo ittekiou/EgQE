@@ -27,9 +27,11 @@ title: HEG-8｜更新存在論 ── 核心命題
 _Syntax fails._  
 _Relation remains._
 
+_La structure naît d'une amorce._
+
 ---
-*EgQE — Echo-Genesis Qualia Engine*  
-[_camp-us.net_](https://camp-us.net/)
+*EgQE — Echo-Genesis Qualia Engine*  #Core
+[_camp-us.net_](https://camp-us.net/)  
 
 ---
 
