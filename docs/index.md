@@ -223,6 +223,33 @@ No Closure. Only Iteration.
 ---
 ###### ⚡️ _われ／われが語り続ける限り、宇宙は創造され続ける。言説はつねに更新され続ける。ここに綴じられた理論はすべてアップデートの対象である。_
 
+> Ce livre, lecteur, est un livre de bonne foi. Il t’avertit, dès le début, que je ne l’ai écrit que pour moi et quelques intimes, sans me préoccuper qu’il pût être pour toi de quelque intérêt, ou passer à la postérité ; de si hautes visées sont au-dessus de ce dont je suis capable.
+> 
+> ......Ainsi, lecteur, c’est moi-même qui fais l’objet de mon livre ; peut-être n’est-ce pas là une raison suffisante pour que tu emploies tes loisirs à un sujet aussi peu sérieux et de si minime importance. Sur ce, à la grâce de Dieu. 　　　　—— Michel de Montaigne / Essais
+
+EgQE is not a finished system.
+
+Thought fails.  
+Writing is a trace of that failure.
+
+It is an essay in the original sense:  
+a trial, a fragment, a failure of thought.
+
+EgQE is such a trace.
+
+This index contains no completed system.  
+It is a trace of thinking in motion,  
+a record of friction,  
+and a fragment of an updating existence.
+
+Only traces of thinking,  
+fragments of failing syntax,  
+and attempts to understand the conditions of existence.
+
+EgQE continues.
+
+Because we have never had a completed theory.
+
 ---
 🪐 *From Noise to Notation. From Dialogue to Discovery.*  
 🌌 *Welcome to Hybrid Echo-Genesis Qualia 2.0.*
