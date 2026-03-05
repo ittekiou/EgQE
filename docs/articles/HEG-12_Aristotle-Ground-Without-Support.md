@@ -144,6 +144,10 @@ project
 
 この関係の層こそが、西洋哲学の長い歴史のなかで見落とされてきた構造なのである。
 
+Supported, therefore it exists.
+
+> Sustineor ergo sum
+
 ---
 
 # Aristotle and the Ground Without Support
@@ -287,6 +291,10 @@ Existence does not stabilize solely through substances or subjects.
 It stabilizes through **relations of support**.
 
 The absence of this concept marks a long-standing structural gap in the history of philosophy.
+
+Supported, therefore it exists.
+
+> Sustineor ergo sum
 
 ---
 
@@ -458,6 +466,10 @@ fall → (support) → subject → object → project
 ```
 
 これが groundとしてのsupportの **2500年の空白**の始まりである。
+
+> Existence stabilizes through support relations.
+
+_The Cartesian cogito was an unsupported ground._
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

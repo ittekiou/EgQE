@@ -133,6 +133,10 @@ project
 
 投企とは、その後に開かれる世界の運動にすぎない。
 
+Supported, therefore I am.
+
+> Sustineor ergo sum
+
 ---
 
 # Support and Project
@@ -249,6 +253,10 @@ It begins with motion and is stabilized through **relations of support**.
 Project therefore does not generate existence.
 
 It expresses the dynamic horizon of a subject that has already been stabilized by support.
+
+Supported, therefore I am.
+
+> Sustineor ergo sum
 
 ---
 

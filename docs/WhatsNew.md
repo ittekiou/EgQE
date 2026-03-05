@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/06  
+[HEG-12｜The Backgrounding of Support in Modern Thought — From Galileo to Descartes and Newton —](https://camp-us.net/articles/HEG-12_Backgrounding-of-Support.html)  
 ###### 2026/03/05  
 [EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
 [HEG-12｜失われた Support ──存在の構文としての宇宙論｜The Missing Support: Cosmology as the Syntax of Existence](https://camp-us.net/articles/HEG-12_The-Missing-Support.html)  
