@@ -219,6 +219,8 @@ Four-dimensional spacetime is therefore **zero-point syntax**.
 [SLR-01｜他者がひらく宇宙 ──時空内存在モデルから、SO–lag 生成存在論へ｜The Universe Opened by Otherness: From an Intra-Spacetime Model of Being to SO–lag Generative Ontology](https://camp-us.net/articles/SLR-01_Universe_Opened-by_Otherness.html)  
 [SLR-02｜空間と時間の構文的派生 ── SO–lag 生成存在論における最小命題｜Space and Time as Derived Syntactic Modes](https://camp-us.net/articles/SLR-02_Space-Time_as_Derived-Syntactic-Modes.html)  
 🔷 [HEG-11｜SO–lag 転回── 他者・空間・時間の生成的再定位｜The SO–lag Turn: Re-grounding Otherness, Space, and Time](https://camp-us.net/articles/HEG-11-SN_SO-lag-Turn_Otherness-Spacetime.html)  
+[HEG-11｜lagは不可逆更新を生む── Φは閉じ、Ψは持ち越す｜Lag as the Generator of Irreversible Update: Φ Closes. Ψ Carries.](https://camp-us.net/articles/HEG-11_Lag_Irreversible-Update.html)  
+[HEG-11｜The Otherness Turn in Update Ontology: The Structural Ground of Space and Time](https://camp-us.net/articles/HEG-11_Otherness-Turn-in-Update-Ontology.html)  
 [HEG-11｜更新存在論の他者転回 ── 空間と時間の構造的根拠](https://camp-us.net/articles/HEG-11_Otherness-Turn-in-Update-Ontology_JP.html)  
 [HEG-11｜三体はなぜ閉じないのか ── 背景化不能としての非可積分（付:定義）｜Why Does the Three-Body System Not Close? — Non-Integrability as the Impossibility of Backgrounding (with Definitions)](https://camp-us.net/articles/HEG-11_Why_Three-Body-System_Not-Close.html)  
 #### Satellite Turn
