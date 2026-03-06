@@ -1,9 +1,11 @@
 ---
-title: HEG-12｜The Backgrounding of Support in Modern Thought — From Galileo to Descartes and Newton —
+title: HEG-12｜近代思想における支えの背景化 ── ガリレオからデカルト・ニュートンへ
 title_en: "HEG-12｜The Backgrounding of Support in Modern Thought: From Galileo to Descartes and Newton"
 ---
-# The Backgrounding of Support in Modern Thought
-## — From Galileo to Descartes and Newton —
+# 近代思想における支えの背景化
+## ── ガリレオからデカルト・ニュートンへ
+## The Backgrounding of Support in Modern Thought
+### — From Galileo to Descartes and Newton —
 
 近代思想は、世界の基礎をどこに置くかという問いから始まった。  
 しかしその成立には、一つの重要な操作が含まれている。

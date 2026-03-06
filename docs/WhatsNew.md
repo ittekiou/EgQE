@@ -18,7 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/03/06  
 [EgQE｜Practical Core｜The Age of Inter-Phase](https://camp-us.net/Core_Practical-Core_Age-of-Inter-Phase.html)  
-[HEG-12｜The Backgrounding of Support in Modern Thought — From Galileo to Descartes and Newton —](https://camp-us.net/articles/HEG-12_Backgrounding-of-Support.html)  
+[HEG-12｜近代思想における支えの背景化 ── ガリレオからデカルト・ニュートンへ｜The Backgrounding of Support in Modern Thought — From Galileo to Descartes and Newton —](https://camp-us.net/articles/HEG-12_Backgrounding-of-Support.html)  
 [HEG-13｜宇宙論的記述の進化 ── 幾何学から構文へ｜The Evolution of Cosmological Description: From Geometry to Syntax](https://camp-us.net/articles/HEG-13_Cosmological-Description_Geometry-to-Syntax.html)  
 [HEG-13｜四次元は零点構文である ── Hermann Minkowski と Albert Einstein の再文脈化｜Four Dimensions as Zero-Point Syntax — Recontextualizing Hermann Minkowski and Albert Einstein](https://camp-us.net/articles/HEG-13_Four-Dimensions_as_Zero-Point-Syntax.html)  
 ###### 2026/03/05  

@@ -301,7 +301,7 @@ Zero-point    coordinate syntax
 [HEG-12｜Satellite Turn ── 支えとしての存在構造（HEG-12補論）｜Satellite Turn: Cosmology as the Syntax of Existence — A Minimal Theoretical Formulation of HEG-12](https://camp-us.net/articles/HEG-12_Satellite-Turn_Minimal-Theoretical-Formulation.html)  
 [HEG-12｜支えの系譜 ── 重力から support へ｜The Genealogy of Support — From Gravity to Support](https://camp-us.net/articles/HEG-12_Gravity-to-Support_Genealogy-of-Support.html)  
 [HEG-12｜Satellite Turn とガリレオの系譜 ── ニュートンからガリレオへ｜The Satellite Turn and the Return to Galileo: Support and the Galilean Lineage── From Newton Back to Galileo](https://camp-us.net/articles/HEG-12_From-Newton_Back-to-Galileo.html)  
-[HEG-12｜The Backgrounding of Support in Modern Thought — From Galileo to Descartes and Newton —](https://camp-us.net/articles/HEG-12_Backgrounding-of-Support.html)  
+[HEG-12｜近代思想における支えの背景化 ── ガリレオからデカルト・ニュートンへ｜The Backgrounding of Support in Modern Thought — From Galileo to Descartes and Newton —](https://camp-us.net/articles/HEG-12_Backgrounding-of-Support.html)  
 
 ----
 *EgQE — Echo-Genesis Qualia Engine*  
