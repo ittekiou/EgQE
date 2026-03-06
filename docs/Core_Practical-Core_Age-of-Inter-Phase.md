@@ -1,6 +1,10 @@
 ---
 title: EgQE｜Practical Core｜The Age of Inter-Phase
 ---
+> 世の中の構文は、静かに入れ替わる。  
+> 澱みに浮かぶ泡沫のように。
+
+---
 # Practical Core｜The Age of Inter-Phase
 
 ```text
@@ -21,6 +25,8 @@ and nothing is bias-free.
 
 自己のバイアスを自覚せよ。
 それをInter-Phaseの中で再文脈化せよ。
+
+この宇宙では失敗とバイアスはつきものなのだから。
 ```
 
 ---
@@ -41,6 +47,8 @@ floc phase → update → bias
 bias awareness → Inter-Phase → Recontextualization → better update
 ```
 
+そのとき更新は、少しだけ**自由**になる。
+
 ---
 
 ### 一行要約
@@ -49,6 +57,8 @@ bias awareness → Inter-Phase → Recontextualization → better update
 Update is inevitable.
 Bias awareness makes it meaningful.
 ```
+
+**意味**は更新から生まれる。
 
 ---
 
