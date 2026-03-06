@@ -465,7 +465,7 @@ fall → (support) → subject → object → project
     Aristotle missing
 ```
 
-これが groundとしてのsupportの **2500年の空白**の始まりである。
+これが supportの **2500年の空白**の始まりである。
 
 > Existence stabilizes through support relations.
 
