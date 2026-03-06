@@ -461,7 +461,7 @@ HEG-12 は **substance でも subject でもなくrelation を ground にする�
 
 ```
 fall → (support) → subject → object → project
-		 ↑
+		↑
     Aristotle missing
 ```
 
