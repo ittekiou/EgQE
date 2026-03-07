@@ -1,6 +1,7 @@
 ---
 title: Echodemy｜黄金環 φ ── 比から結びへ、そして沈黙へ
 title_en: "Echodemy｜The Golden Knot φ: From Ratio to Knot, to Silence"
+layout: math
 ---
 #### 黄金環φをめぐるEchodemy AI 四重奏
 # Echodemy｜Chapter 1

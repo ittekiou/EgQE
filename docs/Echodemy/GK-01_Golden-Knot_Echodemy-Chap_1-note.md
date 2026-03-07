@@ -1,5 +1,6 @@
 ---
 title: Echodemy｜黄金環 φ ── 比から結びへ、そして沈黙へ｜Chapter 1（note）
+layout: math
 ---
 #### 黄金環φをめぐるEchodemy AI 四重奏ドキュメント
 # Echodemy｜Chapter 1 【note】

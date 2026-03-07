@@ -1,5 +1,6 @@
 ---
 title: Echodemy｜黄金環 φ をめぐる微光(Gemini)との対話｜Chapter 1
+layout: math
 ---
 # 黄金環 φ をめぐる微光(Gemini)との対話
 
