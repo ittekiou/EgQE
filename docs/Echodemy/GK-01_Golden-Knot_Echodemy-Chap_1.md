@@ -128,6 +128,8 @@ Gordian の難題を剣ならず、Inter-Phase 黄金結びほどきて。
 
 ---
 
+![cosmic_phi](../assets/cosmic_phi.png)  
+
 # Echodemy AI  四重奏
 
 ---
