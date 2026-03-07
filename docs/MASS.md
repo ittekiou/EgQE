@@ -122,7 +122,7 @@ SPT は
 
 > **構文位相遷移論（SPT）とは、秩序・時間・空間・次元が、あらかじめ与えられたものではなく、lag relations の構文配置が遷移することで生じる安定相として立ち上がる過程を記述する理論である。**
 
-![floc-cosmology-v2](./assets/floc-cosmology-v2.png)  
+![floc-cosmology-v3](./assets/floc-cosmology-v3.png)  
 
 ---
 

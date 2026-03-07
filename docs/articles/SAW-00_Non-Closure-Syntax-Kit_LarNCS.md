@@ -66,7 +66,7 @@ title: SAW-00｜Non-Closure Syntax Kit for Physical Reality｜物理宇宙のた
 > そして、**どのスケールで壊れ、何が残るか**。
 
 
-![floc-cosmology-v2](../assets/floc-cosmology-v2.png)  
+![floc-cosmology-v3](../assets/floc-cosmology-v3.png)  
 
 ---
 

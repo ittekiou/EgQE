@@ -62,9 +62,9 @@ floc cosmology は、単一視点を取らない。
 同一の生成を、**異なる圧力方向から支える二つの読み**である。
 
 ---
-### **floc cosmology の構造概要（v.2.0）**  
+### **floc cosmology の構造概要（v.3.0）**  
 
-![floc-cosmology-v2](../assets/floc-cosmology-v2.png)  
+![floc-cosmology-v3](../assets/floc-cosmology-v3.png)  
 
 ---
 
@@ -298,7 +298,7 @@ We do not ask first.
 
 ---
 
-![floc-cosmology-v2](../assets/floc-cosmology-v2.png)  
+![floc-cosmology-v3](../assets/floc-cosmology-v3.png)  
 
 ---
 

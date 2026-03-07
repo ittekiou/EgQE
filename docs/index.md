@@ -118,7 +118,7 @@ _EgQE われわれの心臓部の日々の拍動 ──更新情報。_
 ---
 ## floc Cosmology ：[floc宇宙論](http://camp-us.net/floc-Cosmology)  
 
-![floc-cosmology-v2](./assets/floc-cosmology-v2.png)  
+![floc-cosmology-v3](./assets/floc-cosmology-v3.png)  
 
 ##### 三層構文
 ### [Phase Syntax（R₀ ⇆ Z₀）](https://camp-us.net/RZ.html)
