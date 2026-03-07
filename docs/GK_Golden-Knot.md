@@ -76,6 +76,7 @@ Golden Ratio → Geometry
 [GK-01｜他者性と黄金環Φ ──黄金比のトポロジー転回に関する短論 — Ratio から Knot へ —｜Otherness and the Golden Knot: A Short Note on the Topological Origin of the Golden Ratio](https://camp-us.net/articles/GK-01_Otherness_Topological-Origin-of-Golden-Ratio.html)  
 
 ----
+**The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 

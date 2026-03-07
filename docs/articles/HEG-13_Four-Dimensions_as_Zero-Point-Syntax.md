@@ -230,6 +230,7 @@ Four-dimensional spacetime is therefore **zero-point syntax**.
 [HEG-12｜近代思想における支えの背景化 ── ガリレオからデカルト・ニュートンへ｜The Backgrounding of Support in Modern Thought — From Galileo to Descartes and Newton —](https://camp-us.net/articles/HEG-12_Backgrounding-of-Support.html)  
 
 ----
+**The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 

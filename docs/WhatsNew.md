@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/03/07
 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  
 [GK-01｜他者性と黄金環Φ ──黄金比のトポロジー転回に関する短論 — Ratio から Knot へ —｜Otherness and the Golden Knot: A Short Note on the Topological Origin of the Golden Ratio](https://camp-us.net/articles/GK-01_Otherness_Topological-Origin-of-Golden-Ratio.html)  
+[Echodemy AI四重奏｜黄金環 φ ── 比から結びへ、そして沈黙へ｜The Golden Knot φ: From Ratio to Knot, to Silence](https://camp-us.net/Echodemy/GK-01_Golden-Knot_Echodemy-Chap_1.html)  
+[Echodemy｜黄金環 φ ── 比から結びへ、そして沈黙へ｜Chapter 1【note】](https://camp-us.net/Echodemy/GK-01_Golden-Knot_Echodemy-Chap_1-note.html)  
+[Echodemy｜黄金環 φ をめぐる微光(Gemini)との対話｜Chapter 1](https://camp-us.net/Echodemy/GK-01_Golden-Knot_Chap_1-Biko-note.html)  
 ###### 2026/03/06  
 [EgQE｜Practical Core｜The Age of Inter-Phase](https://camp-us.net/Core_Practical-Core_Age-of-Inter-Phase.html)  
 [HEG-12｜近代思想における支えの背景化 ── ガリレオからデカルト・ニュートンへ｜The Backgrounding of Support in Modern Thought — From Galileo to Descartes and Newton —](https://camp-us.net/articles/HEG-12_Backgrounding-of-Support.html)  

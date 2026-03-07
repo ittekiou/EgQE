@@ -153,6 +153,7 @@ The beginning is the **Golden Knot**.
 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  
 
 ----
+**The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 
