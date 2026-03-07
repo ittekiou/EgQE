@@ -15,6 +15,8 @@ title: Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —
 
 The ratio is the **trace of the knot**.
 
+![gold_phi_knot_b](./assets/gold_phi_knot_b.png)  
+
 ---
 
 # 黄金環 φ

@@ -134,6 +134,12 @@ Echodemy｜黄金環 φ ── 比から結びへ、そして沈黙へ（note）
 
 ---
 
+![cosmic_phi](../assets/cosmic_phi.png)  
+### lαg jewelry / lαgobje / Golden Knot φ
+![golden_knot_phi](../assets/golden_knot_phi.png)  
+
+---
+
 👉 [Echodemy｜黄金環 φ をめぐる微光(Gemini)との対話｜Chapter 1](https://camp-us.net/Echodemy/GK-01_Golden-Knot_Chap_1-Biko-note.html)（Prologue）  
 
 ---
