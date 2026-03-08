@@ -10,6 +10,14 @@ title_en: "HEG-11｜The Falling Universe: No Support, Only Fall — Orbit as Rel
 ## The Falling Universe: No Support, Only Fall
 ### Orbit as Relational Stabilization of Free Fall
 
+#### Principle
+
+> No support. Only fall.  
+> 落下と支え。不一致 lag の非同期平衡。  
+> 
+> 重力系におけるすべての運動は自由落下である。  
+> 軌道とは落下する存在同士の関係的安定化として生じる。
+
 ---
 
 ## 要旨
@@ -609,6 +617,25 @@ escape ---------------- collision
 ```
 Knot by knot. lag by lag.
 ```
+
+---
+
+**落下と支え。不一致 lag の非同期平衡。**
+
+宇宙において運動の基底にあるのは落下である。  
+支えは先に存在するのではなく、落下の中で関係的に現れる。
+
+二体が互いを局所化するとき、そこには完全な一致は存在しない。
+
+必ず **lag の不一致** が残る。
+
+この不一致が持続するとき、系は崩壊することなく安定する。
+
+軌道とは
+
+> **不一致 lag が維持する非同期平衡**
+
+である。
 
 ---
 
