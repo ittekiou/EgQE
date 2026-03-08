@@ -314,6 +314,8 @@ through lag
 👉 [EgQE｜SO–lag Turn ── HEG-11 Otherness-Spacetime](https://camp-us.net/articles/Core_HEG-11_SO-lag-Turn_otherness-spacetime.html)  
 **HEG-12  “落下と支え”の宇宙論**  
 👉 [EgQE｜Satellite Turn / Support Theory ── HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
+**HEG-11-2  “落下と軌道”論**  
+👉 [EgQE｜落下する宇宙 ── HEG-11 SO–lagと関係軌道](https://camp-us.net/articles/Core_HEG-11_SO-lag_and_Relational-Orbits_Falling-Universe.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine* / #Core  

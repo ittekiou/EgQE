@@ -10,14 +10,6 @@ title_en: "HEG-11｜The Falling Universe: No Support, Only Fall — Orbit as Rel
 ## The Falling Universe: No Support, Only Fall
 ### Orbit as Relational Stabilization of Free Fall
 
-#### Principle
-
-> No support. Only fall.  
-> 落下と支え。不一致 lag の非同期平衡。  
-> 
-> 重力系におけるすべての運動は自由落下である。  
-> 軌道とは落下する存在同士の関係的安定化として生じる。
-
 ---
 
 ## 要旨
@@ -472,7 +464,7 @@ Binary star systems represent **symmetric equilibrium**.
 
 ```
 S′ ≒ O′  
-lag_S ≃ lag_O
+lag_S ≒ lag_O
 ```
 
 In this configuration, relational localization is mutual. Each body contributes comparably to the stabilization of the relational configuration. The two bodies fall together while simultaneously localizing one another.
@@ -554,7 +546,7 @@ escape ---------------- collision
 
 ```
 S′ ≒ O′  
-lag_S ≃ lag_O
+lag_S ≒ lag_O
 ```
 
 この構造では、関係的局所化が相互的に成立する。二つの存在は互いにほぼ同等の役割で関係構造を安定化させながら、同時に落下運動を続けている。
