@@ -40,7 +40,7 @@ These stabilized configurations are read in the Z-layer as **substance, subject,
 
 ---
 
-# HEG-09 Core（Public Version）
+# HEG-09 Core
 
 存在は実体から始まらない。存在は主体から始まらない。
 

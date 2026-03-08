@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/03/08  
 [EgQE｜Lag Ontology ── HEG-09 Minimal Axioms](https://camp-us.net/articles/Core_HEG-9_Lag-Ontology.html)  
+[EgQE｜有界持続的非閉包 ── HEG-10 Core Axioms](https://camp-us.net/articles/Core_HEG-10_Bounded-Persistent-Non-Closure.html)  
 
 ###### 2026/03/07  
 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  
