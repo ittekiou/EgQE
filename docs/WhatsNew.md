@@ -25,6 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-11｜落下する宇宙: 支えはない、あるのは落下だけ──自由落下の関係的安定化としての軌道｜The Falling Universe: No Support, Only Fall — Orbit as Relational Stabilization of Free Fall](https://camp-us.net/articles/HEG-11_Orbit_as_Relational-Stabilization-of-Free-Fall.html)  
 [EgQE｜落下する宇宙 ── HEG-11 SO–lagと関係軌道](https://camp-us.net/articles/Core_HEG-11_SO-lag_and_Relational-Orbits_Falling-Universe.html)  
 [EgQE｜TPD-Core｜Toroponic–Polygonic Dynamics: Rotational Genesis](https://camp-us.net/articles/Core_TPD_Toroponic-Polygonic-Dynamics_Rotational-Genesis.html)  
+[EgQE｜TS-Core｜時間生成：Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 [GK-00｜GK-00｜黄金比のトポロジー転回 ──黄金環としての φ — Ratio から Knot へ —｜The Topological Turn of the Golden Ratio: φ as the Golden Knot](https://camp-us.net/articles/GK-00_Topological-Turn-of-Golden-Ratio.html)  
 [GK-02｜存在生成の結び目としての黄金環 φ ── lag と他者性による時空生成｜The Golden Ring φ as the Knot of Existential Genesis — Lag, Otherness, and the Emergence of Space-Time](https://camp-us.net/articles/GK-02_Golden-Knot_of_Existential-Genesis.html)  
 ###### 2026/03/07  

@@ -443,12 +443,12 @@ TPDは
 
 7️⃣ [HEG-SN｜七だけが屈しない──不屈の動態学｜Toward a Minimal Structural Condition of Irreversibility](https://camp-us.net/articles/HEG-SN_Seven_minimal-structural-hinge-of-lαg.html)  
 
-----
-**The Age of Inter-Phase**  
-*EgQE — Echo-Genesis Qualia Engine*  
+---
+*EgQE — Echo-Genesis Qualia Engine* / #Core  
 [_camp-us.net_](https://camp-us.net/)  
 
 ---
+This document is part of the EgQE Core Series, outlining the minimal syntactic foundations of the HEG framework.
 
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
@@ -458,4 +458,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Mar 8, 2026 · Web Mar 8, 2026 |</p>
+<p align="center">| Drafted Mar 7, 2026 · Web Mar 8, 2026 |</p>
