@@ -1,5 +1,6 @@
 ---
 title: TS-Core｜時間生成：Time Syntax — Core Statement
+layout: math
 ---
 # TS Core（Public Edition）
 ## Time Syntax Series — Core Statement
@@ -505,9 +506,9 @@ lag → ψₜ
 
 非閉包再帰
 
-```
-ψₜ^(n+1) = Z₀^{Axis-4}(ψₜ^(n), ℓ)
-```
+$$
+\psi_t^{(n+1)} = Z_0^{\text{Axis-4}}\!\left(\psi_t^{(n)}, \ell\right)
+$$
 
 つまり
 
@@ -554,13 +555,9 @@ Z₀
 R′
 ```
 
-これはかなり重要です。
+これはかなり重要。
 
-時間を
-
-**更新イベント**
-
-として定義している。
+時間を **更新イベント** として定義している。
 
 [TS-06｜構文不可逆性と時間生成── ψₜ–Z₀ 更新モデル（構文的定式）](https://camp-us.net/articles/TS-06_ψₜ_Temporal-Irreversibility.html)  
 
