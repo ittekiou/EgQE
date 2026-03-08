@@ -89,6 +89,40 @@ And
 
 ---
 
+## **HEG-12  “落下と支え”の宇宙論**  
+
+[HEG-12｜支えの理論 ── Z生成条件としての support｜The Theory of Support — Support as the Generative Condition of Z](https://camp-us.net/articles/HEG-12_Support_as_Generative-Condition.html)  
+[HEG-12｜支えの系譜 ── 重力から support へ｜The Genealogy of Support — From Gravity to Support](https://camp-us.net/articles/HEG-12_Gravity-to-Support_Genealogy-of-Support.html)  
+
+[HEG-12｜人工衛星とはなにか ── 無重力と擬似地上｜Artificial Satellites — Between the Falling Universe and Pseudo-Ground](https://camp-us.net/articles/HEG-12_Artificial-Satellites_Pseudo-Ground.html)  
+[HEG-12｜地上の条件 ── 非閉包の不安定と支えという安定｜Conditions of the Ground — Instability of Non-Closure and Stability of Support](https://camp-us.net/articles/HEG-12_Conditions-of-the-Ground.html)  
+
+[HEG-12｜支えの哲学 ── 非閉包と不安定という生存条件｜Philosophy of Support — Non-Closure and Instability as Conditions of Existence](https://camp-us.net/articles/HEG-12_Philosophy-of-Support.html)  
+
+[HEG-12｜Satellite Turn ── 支えとしての存在構造（HEG-12補論）｜Satellite Turn: Cosmology as the Syntax of Existence — A Minimal Theoretical Formulation of HEG-12](https://camp-us.net/articles/HEG-12_Satellite-Turn_Minimal-Theoretical-Formulation.html)  
+🛰️ [HEG-12｜Satellite Turn: Cosmology as the Syntax of Existence (Proposition)](https://camp-us.net/articles/HEG-12_Satellite-Turn_Proposition.html)  
+
+[HEG-12｜Satellite Turn とガリレオの系譜 ── ニュートンからガリレオへ｜The Satellite Turn and the Return to Galileo: Support and the Galilean Lineage── From Newton Back to Galileo](https://camp-us.net/articles/HEG-12_From-Newton_Back-to-Galileo.html)  
+
+[HEG-12｜サテライト転回とはなにか｜The Satellite Turn ― Inter-Phase時代の存在と宇宙 ―](https://camp-us.net/articles/HEG-12_Satellite-Turn_Inter-Phase-Age.html)  
+[HEG-12｜Satellite Turn ── The Support Mandala](https://camp-us.net/articles/HEG-12_Satellite-Turn_Support-Mandala.html)  
+[HEG-12｜Satellite Turn ── Support Cosmogram](https://camp-us.net/articles/HEG-12_Satellite-Turn_Support-Cosmogram.html)  
+
+[HEG-12｜サテライト転回の二つの系譜 ── 中心から支えへ｜Two Genealogies of the Satellite Turn — From Center to Support](https://camp-us.net/articles/HEG-12_Satellite-Turn_Two-Genealogies.html)  
+[HEG-12｜Support in Society ── Friction as the Condition of Living Together](https://camp-us.net/articles/HEG-12_Support-in-Society_Friction_Condition-of-Living-Together.html)  
+[HEG-12｜Education as Support ── Why Thinking Requires Friction](https://camp-us.net/articles/HEG-12_Education-as-Support_Why-Thinking-Requires-Friction.html)  
+
+[HEG-12｜失われた Support ──存在の構文としての宇宙論｜The Missing Support: Cosmology as the Syntax of Existence](https://camp-us.net/articles/HEG-12_The-Missing-Support.html)  
+
+[HEG-12｜失われた Support ──近代科学哲学の Missing Link｜The Missing Support: The Birth of the Unsupported Ground — A Missing Link in the Philosophy of Modern Science](https://camp-us.net/articles/HEG-12_Missing-Support_Birth-of-Unsupported-Ground.html)  
+
+[HEG-12｜Descartes: The Unsupported Ground](https://camp-us.net/articles/HEG-12_Descartes_Unsupported-Ground.html)  
+[HEG-12｜失われたサポート ── デカルトと「支えなきグラウンド」｜The Missing Support: Descartes and the Unsupported Ground](https://camp-us.net/articles/HEG-12_Missing-Support_Descartes-Unsupported-Ground.html)  
+[HEG-12｜サポートと投企 ── ハイデガーと失われた関係｜Support and Project: A Note on Heidegger and the Missing Relation](https://camp-us.net/articles/HEG-12_Support-Project_Heidegger-Missing-Relation.html)  
+[HEG-12｜アリストテレスと支えなき基盤 ── 実体と失われた関係｜Aristotle and the Ground Without Support: A Note on Substance and the Missing Relation](https://camp-us.net/articles/HEG-12_Aristotle-Ground-Without-Support.html)  
+
+[HEG-12｜近代思想における支えの背景化 ── ガリレオからデカルト・ニュートンへ｜The Backgrounding of Support in Modern Thought — From Galileo to Descartes and Newton —](https://camp-us.net/articles/HEG-12_Backgrounding-of-Support.html)  
+
 **HEG Core Diagram**
 
 ```
