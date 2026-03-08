@@ -174,8 +174,6 @@ Gravity → Support
 
 という再定義が行われる。
 
-👉 [EgQE｜Satellite Turn / Support Theory ── HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
-
 ---
 
 ## Missing Support
@@ -191,6 +189,8 @@ Gravity → Support
 ```
 
 は、**支えなき地上** として構築された。
+
+[HEG-12｜失われた Support ──存在の構文としての宇宙論｜The Missing Support: Cosmology as the Syntax of Existence](https://camp-us.net/articles/HEG-12_The-Missing-Support.html)  
 
 ---
 
@@ -216,6 +216,9 @@ relation
 
 の中で存在する。
 
+[HEG-12｜サテライト転回とはなにか｜The Satellite Turn ― Inter-Phase時代の存在と宇宙 ―](https://camp-us.net/articles/HEG-12_Satellite-Turn_Inter-Phase-Age.html)  
+🛰️ [HEG-12｜Satellite Turn: Cosmology as the Syntax of Existence (Proposition)](https://camp-us.net/articles/HEG-12_Satellite-Turn_Proposition.html)  
+
 ---
 
 ## Support Principle
@@ -231,6 +234,8 @@ support
 によって成立する。
 
 relation と event は、**support 条件のもとで生成する**。
+
+👉 [EgQE｜Satellite Turn / Support Theory ── HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
 
 ---
 
