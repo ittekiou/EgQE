@@ -166,7 +166,7 @@ Reality = bounded persistence of lag without closure
 👉 [EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
 **HEG-09 = lag存在論**  
 👉 [EgQE｜Lag Ontology ── HEG-09 Minimal Axioms](https://camp-us.net/articles/Core_HEG-9_Lag-Ontology.html)  
-**HEG-10 = lag力学**
+**HEG-10 = lag動態原論**
 
 ---
 *EgQE — Echo-Genesis Qualia Engine* / #Core  
