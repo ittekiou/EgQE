@@ -62,7 +62,7 @@ HEG-11｜Otherness as the Mediator of Space-Time
 HEG-11｜Lag and the Emergence of Temporal Irreversibility
 ```
 
-**HEG-11  “他者→時空生成”論
+**HEG-11  “他者→時空生成”論**
 
 ```
 SO → lag → otherness → space/time
@@ -85,7 +85,7 @@ SO → lag → otherness → space/time
 👉 [EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
 **HEG-09 = lag存在論**  
 👉 [EgQE｜Lag Ontology ── HEG-09 Minimal Axioms](https://camp-us.net/articles/Core_HEG-9_Lag-Ontology.html)  
-**HEG-10 = lag動態原論**
+**HEG-10 = lag動態原論**  
 👉 [EgQE｜有界持続的非閉包 ── HEG-10 Core Axioms](https://camp-us.net/articles/Core_HEG-10_Bounded-Persistent-Non-Closure.html)  
 
 ---
