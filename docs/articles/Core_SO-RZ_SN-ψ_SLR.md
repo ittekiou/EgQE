@@ -18,7 +18,7 @@ title: Core-SO-RZ｜空間前提の存在論の反転
 
 **空間前提の存在論の反転**
 
-> 他者が時空をひらき
+> 他者が時空をひらき  
 > 空間が時間より先に現れる  
 
 👉 [EgQE｜SLR Core｜The Universe Opened by Otherness](https://camp-us.net/articles/Core_SLR_Universe-Opened_by_Otherness.html)  
