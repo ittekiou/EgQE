@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [EgQE｜有界持続非閉包 ── HEG-10 Core Axioms](https://camp-us.net/articles/Core_HEG-10_Bounded-Persistent-Non-Closure.html)  
 [EgQE｜SO–lag Turn ── HEG-11 Otherness-Spacetime](https://camp-us.net/articles/Core_HEG-11_SO-lag-Turn_otherness-spacetime.html)  
 [EgQE｜Satellite Turn / Support Theory ── HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
+[EgQE｜更新存在論から支えの理論へ｜HEG-08–12 Core Map](https://camp-us.net/articles/Core_HEG-8-12_Map_Satellite-Turn_Updating-Ontology.html)  
 ###### 2026/03/07  
 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  
 [GK-01｜他者性と黄金環Φ ──黄金比のトポロジー転回に関する短論 — Ratio から Knot へ —｜Otherness and the Golden Knot: A Short Note on the Topological Origin of the Golden Ratio](https://camp-us.net/articles/GK-01_Otherness_Topological-Origin-of-Golden-Ratio.html)  

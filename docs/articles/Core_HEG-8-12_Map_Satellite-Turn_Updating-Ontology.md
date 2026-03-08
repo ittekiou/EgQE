@@ -1,6 +1,7 @@
 ---
 layout: math
-title: "EgQE｜HEG Core Map: Updating Ontology → Satellite Turn ── HEG-08–12 Structural Overview"
+title_en: "EgQE｜HEG Core Map: Updating Ontology → Satellite Turn ── HEG-08–12 Structural Overview"
+title: EgQE｜更新存在論から支えの理論へ｜HEG-08–12 Core Map
 ---
 # HEG Core Map
 ## HEG-08–12 Structural Overview
