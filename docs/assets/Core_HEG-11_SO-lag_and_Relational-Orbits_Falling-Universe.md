@@ -95,9 +95,13 @@ non-closure
 
 重力系におけるすべての運動は **自由落下**である。
 
-軌道は引力や支えの結果ではない。
+All motion in gravitational systems is free fall.
 
+軌道は引力や支えの結果ではない。  
 それは**落下する存在同士の関係的安定化**として生じる。
+
+Orbit is not the result of attraction or support,  
+but a relational stabilization between bodies that fall together.
 
 ```
 lag
@@ -115,6 +119,8 @@ three-body instability
 ## 二体関係の基本構造
 
 二体の遭遇は 四つの構造的結果を生む。
+
+Two-body encounters produce four structural outcomes:
 
 ```
 escape
@@ -164,6 +170,8 @@ lag_S ≠ lag_O
 ### Escape
 ### 逃走軌道
 
+Escape occurs when relational stabilization fails.
+
 ```
 S′ > O′
 ```
@@ -178,6 +186,8 @@ S′ > O′
 
 ### 衝突
 
+Collision occurs when relational localization collapses.
+
 ```
 S′ < O′
 ```
@@ -186,23 +196,40 @@ S′ < O′
 
 これは、**関係構造の崩壊** である。
 
+Thus orbit is a rare configuration of **localized free fall**.
+
 👉 [HEG-11｜落下する宇宙: 支えはない、あるのは落下だけ──自由落下の関係的安定化としての軌道｜The Falling Universe: No Support, Only Fall — Orbit as Relational Stabilization of Free Fall](https://camp-us.net/articles/HEG-11_Orbit_as_Relational-Stabilization-of-Free-Fall.html)  
 
 ---
 
+```
+Two-body stabilization
+↓
+Three-body non-closure
+```
+
+---
+
 # HEG-11-B
-
 ## Why the Three-Body System Does Not Close
-
+### Non-Integrability as the Impossibility of Backgrounding
 ## 三体問題はなぜ閉じないのか
 
 二体問題は 安定な関係構造を許す。
 
+The two-body system allows stable relational configurations.
+
 三体問題は それを許さない。
+
+The three-body system does not.
 
 古典力学では 三体問題は **非可積分 (non-integrable)** と呼ばれる。
 
+The classical statement is that the three-body problem is **non-integrable**.
+
 SO–lag 理論では この事実はより根本的に理解できる。
+
+Within the SO–lag framework, this can be interpreted more fundamentally.
 
 三体関係では 関係相互作用そのものが 関係場を更新してしまう。
 
@@ -212,9 +239,23 @@ SO–lag 理論では この事実はより根本的に理解できる。
 
 > **関係は背景化できない**
 
+A closed background cannot be constructed.
+
+Relational interactions propagate without closure because each interaction modifies the relational field itself.
+
+Thus the system cannot stabilize into a finite set of conserved relations.
+
 三体問題の非可積分性とは、単なる計算困難ではない。
 
+Non-integrability is therefore not merely a technical mathematical difficulty.
+
 それは、**関係世界の非閉包性** の最小例である。
+
+It reflects a deeper structural property:
+
+> **relational dynamics cannot be fully backgrounded.**
+
+The three-body system therefore represents the minimal structure of **persistent relational instability**.
 
 👉 [HEG-11｜三体はなぜ閉じないのか ── 背景化不能としての非可積分（付:定義）｜Why Does the Three-Body System Not Close? — Non-Integrability as the Impossibility of Backgrounding (with Definitions)](https://camp-us.net/articles/HEG-11_Why_Three-Body-System_Not-Close.html)  
 
