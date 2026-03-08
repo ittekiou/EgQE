@@ -2,7 +2,7 @@
 layout: math
 title: HEG-10｜有界持続的非閉包  ──  Core Axioms
 ---
-# EgQE｜有界持続的非閉包  ── HEG-10 Core
+# EgQE｜有界持続非閉包  ── HEG-10 Core
 ## _Bounded Persistent Non-Closure_
 
 ---
@@ -107,7 +107,7 @@ lag は持続する。
 しかし lag は発散しない。
 
 この状態──  
-**有界持続的非閉包**── は、閉包を伴わない安定性を生み出す。
+**有界持続非閉包**── は、閉包を伴わない安定性を生み出す。
 
 時間とは、lag が不可逆的に持続することである。
 
