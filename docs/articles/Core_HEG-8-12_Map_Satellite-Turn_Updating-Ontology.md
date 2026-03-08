@@ -317,6 +317,17 @@ through lag
 **HEG-11-2  “落下と軌道”論**  
 👉 [EgQE｜落下する宇宙 ── HEG-11 SO–lagと関係軌道](https://camp-us.net/articles/Core_HEG-11_SO-lag_and_Relational-Orbits_Falling-Universe.html)  
 
+```
+HEG ＝ 存在生成（ontology / support / updating）
+TPD ＝ 幾何生成（polygon / hinge / domain）
+TS ＝ 時間生成（lag / ψₜ / irreversibility）
+SN ＝ 数理構文（ratio / syntax / operator）
+```
+
+[TPD-Core｜Toroponic–Polygonic Dynamics: Rotational Genesis](https://camp-us.net/articles/Core_TPD_Toroponic-Polygonic-Dynamics_Rotational-Genesis.html)  
+[TS-Core｜時間生成：Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
+
+
 ---
 *EgQE — Echo-Genesis Qualia Engine* / #Core  
 [_camp-us.net_](https://camp-us.net/)  

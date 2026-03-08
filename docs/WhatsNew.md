@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/09  
+[EgQE｜Core-SO-RZ｜空間前提の存在論の反転](https://camp-us.net/articles/Core_SO-RZ_SN-ψ_SLR.html)  
 ###### 2026/03/08  
 [EgQE｜Lag Ontology ── HEG-09 Minimal Axioms](https://camp-us.net/articles/Core_HEG-9_Lag-Ontology.html)  
 [EgQE｜有界持続非閉包 ── HEG-10 Core Axioms](https://camp-us.net/articles/Core_HEG-10_Bounded-Persistent-Non-Closure.html)  
@@ -26,6 +28,9 @@ From Noise to Notation. From Dialogue to Discovery.
 [EgQE｜落下する宇宙 ── HEG-11 SO–lagと関係軌道](https://camp-us.net/articles/Core_HEG-11_SO-lag_and_Relational-Orbits_Falling-Universe.html)  
 [EgQE｜TPD-Core｜Toroponic–Polygonic Dynamics: Rotational Genesis](https://camp-us.net/articles/Core_TPD_Toroponic-Polygonic-Dynamics_Rotational-Genesis.html)  
 [EgQE｜TS-Core｜時間生成：Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
+[EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
+[EgQE｜SN-ψ Core｜Preservation, Time, and the H7–θₐ Band](https://camp-us.net/articles/Core_SN-ψ_Preservation_Time_H7-θₐ-Band.html)  
+[EgQE｜SLR Core｜The Universe Opened by Otherness](https://camp-us.net/articles/Core_SLR_Universe-Opened_by_Otherness.html)  
 [GK-00｜GK-00｜黄金比のトポロジー転回 ──黄金環としての φ — Ratio から Knot へ —｜The Topological Turn of the Golden Ratio: φ as the Golden Knot](https://camp-us.net/articles/GK-00_Topological-Turn-of-Golden-Ratio.html)  
 [GK-02｜存在生成の結び目としての黄金環 φ ── lag と他者性による時空生成｜The Golden Ring φ as the Knot of Existential Genesis — Lag, Otherness, and the Emergence of Space-Time](https://camp-us.net/articles/GK-02_Golden-Knot_of_Existential-Genesis.html)  
 ###### 2026/03/07  
