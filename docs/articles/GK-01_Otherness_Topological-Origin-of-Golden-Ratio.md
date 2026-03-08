@@ -2,6 +2,7 @@
 title: GK-01｜他者性と黄金環Φ ──黄金比のトポロジー転回に関する短論 — Ratio から Knot へ —
 title_en: "GK-01｜Otherness and the Golden Knot: A Short Note on the Topological Origin of the Golden Ratio"
 ---
+# GK-01
 # 他者性と黄金環Φ
 ## ──黄金比のトポロジー転回に関する短論
 ### — Ratio から Knot へ —
@@ -73,6 +74,8 @@ Geometry（黄金比）
 それは、より基底的な構造の **幾何学的痕跡**である。
 
 始まりにあるのは **黄金環 φ** である。
+
+![Golden_phi](../assets/Golden_phi.png)  
 
 ---
 
