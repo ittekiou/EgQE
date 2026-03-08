@@ -110,6 +110,9 @@ observation
 > **Golden Knot, knot by knot.  
 > The universe updates — lag by lag.**
 
+### Solαr Compass
+![SolαrCompass](../assets/SolαrCompass.png)  
+
 ---
 
 # GK-02
