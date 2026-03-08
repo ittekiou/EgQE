@@ -215,47 +215,69 @@ Three-body non-closure
 ### Non-Integrability as the Impossibility of Backgrounding
 ## 三体問題はなぜ閉じないのか
 
-二体問題は 安定な関係構造を許す。
+---
+
+二体問題は安定な関係構造を許す。
 
 The two-body system allows stable relational configurations.
 
-三体問題は それを許さない。
+三体問題はそれを許さない。
 
 The three-body system does not.
 
 古典力学では 三体問題は **非可積分 (non-integrable)** と呼ばれる。
 
-The classical statement is that the three-body problem is **non-integrable**.
+In classical mechanics, the three-body problem is called **non-integrable**.
 
-SO–lag 理論では この事実はより根本的に理解できる。
+SO–lag 理論では、この事実はより根本的に理解できる。
 
-Within the SO–lag framework, this can be interpreted more fundamentally.
+Within the SO–lag framework, this fact admits a deeper interpretation.
 
-三体関係では 関係相互作用そのものが 関係場を更新してしまう。
+三体関係では、相互作用そのものが関係場を更新してしまう。
+
+In a three-body relation, the interaction itself updates the relational field.
 
 つまり、背景を固定できない。
+
+In other words, the background cannot be fixed.
 
 したがって
 
 > **関係は背景化できない**
 
-A closed background cannot be constructed.
+Thus,
 
-Relational interactions propagate without closure because each interaction modifies the relational field itself.
+> **relations cannot be backgrounded**
 
-Thus the system cannot stabilize into a finite set of conserved relations.
+関係相互作用は閉包せず、相互作用のたびに関係場そのものを変えてしまう。
 
-三体問題の非可積分性とは、単なる計算困難ではない。
+Relational interactions do not close.  
+Each interaction modifies the relational field itself.
 
-Non-integrability is therefore not merely a technical mathematical difficulty.
+したがって 有限個の保存関係へと 安定化することはない。
 
-それは、**関係世界の非閉包性** の最小例である。
+Therefore the system cannot stabilize into a finite set of conserved relations.
+
+三体問題の非可積分性は、単なる計算困難ではない。
+
+The non-integrability of the three-body problem is not merely a computational difficulty.
+
+それは
+
+> **関係世界の非閉包性**
+
+の最小例である。
 
 It reflects a deeper structural property:
 
-> **relational dynamics cannot be fully backgrounded.**
+> **relational dynamics cannot be fully backgrounded**
+
+三体問題とは、**持続する関係的不安定性** の最小構造なのである。
 
 The three-body system therefore represents the minimal structure of **persistent relational instability**.
+
+> Two bodies can stabilize.  
+> Three bodies cannot.
 
 👉 [HEG-11｜三体はなぜ閉じないのか ── 背景化不能としての非可積分（付:定義）｜Why Does the Three-Body System Not Close? — Non-Integrability as the Impossibility of Backgrounding (with Definitions)](https://camp-us.net/articles/HEG-11_Why_Three-Body-System_Not-Close.html)  
 
