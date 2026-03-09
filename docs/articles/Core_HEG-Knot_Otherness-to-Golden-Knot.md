@@ -289,6 +289,11 @@ Otherness → Space → Time → Preservation → Knot → Syntax
 > — Otherness, Space, Time, Preservation —  
 > but also the knot of our path toward cosmological syntax.
 
+### この図の読み方
+中心の **Golden Knot φ** は、比ではなく結びです。  
+その外側にある **ψ帯** は保存、さらに外側にある **H7** は有限未完、**Restful-6** は安定、**Time** と **Space** は生成相、最外周に **Otherness** がある。  
+下部の **HEG-8〜13** は、この曼荼羅に到達するまでの宇宙論的記述の進化を示します。
+
 ---
 
 **黄金環とは、比の理論ではなく 結びの理論**であり、**Mandala自体が Knot 構造**をなす
@@ -315,4 +320,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Mar 7, 2026 · Web Mar 9, 2026 |</p>
+<p align="center">| Drafted Mar 7, 2026 · Web Mar 10, 2026 |</p>
