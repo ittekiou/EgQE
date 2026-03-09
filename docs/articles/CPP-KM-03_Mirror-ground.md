@@ -54,7 +54,7 @@ left / right（身体/body symmetry）
 
 ---
 
-_**Orientation is not given by the universe.**_
+_**Orientation is not given by the universe.**_  
 _**The universe appears through orientation.**_
 
 > _宇宙に向きはない。_  
