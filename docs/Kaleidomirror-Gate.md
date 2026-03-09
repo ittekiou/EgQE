@@ -46,6 +46,10 @@ _**Kaleidomirror**_ は、鏡を通して宇宙を覗く。
 _**Orientation is not given by the universe.**_  
 _**The universe appears through orientation.**_
 
+---
+
+# Gate
+
 [CPP｜鏡像の宇宙 ── 物理と現象学のあいだ（断章-序）](https://camp-us.net/articles/CPP-KM-01_Mirror-fragment.html)  
 [CPP｜鏡像の宇宙 断章 ── 歩行と方向](https://camp-us.net/articles/CPP-KM-02_Mirror-walk.html)  
 [CPP｜鏡像の宇宙 断章 ── 地上問題](https://camp-us.net/articles/CPP-KM-03_Mirror-ground.html)  
@@ -53,7 +57,7 @@ _**The universe appears through orientation.**_
 
 ---
 
-# First Door
+# Hall of Three Mirrors
 
 ## Three Mirrors of Space
 
@@ -82,7 +86,7 @@ _**The universe appears through orientation.**_
 
 ---
 
-# Second Door
+# Kaleidomirror Universe
 
 ## Multifaceted Mirror Universe
 
