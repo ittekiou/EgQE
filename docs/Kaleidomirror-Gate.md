@@ -3,8 +3,8 @@ title: 鏡宇宙への扉 ── Kaleidomirror Gate
 title_en: "Kaleidomirror Gate: The Entrance to the Mirror Universe"
 subtitle: Toward the Cosmophysical Phenomenology
 ---
-# Kaleidomirror Gate ── 鏡宇宙への扉
-## The Entrance to the Mirror Universe
+# Kaleidomirror Universe ── 鏡宇宙への扉
+## Mirrors of Cosmophysical Phenomenology
 
 > **鏡は左右を反転しない。**
 
@@ -49,6 +49,8 @@ _**The universe appears through orientation.**_
 ---
 
 # Gate
+
+### 問題の鏡
 
 [CPP｜鏡像の宇宙 ── 物理と現象学のあいだ（断章-序）](https://camp-us.net/articles/CPP-KM-01_Mirror-fragment.html)  
 [CPP｜鏡像の宇宙 断章 ── 歩行と方向](https://camp-us.net/articles/CPP-KM-02_Mirror-walk.html)  
@@ -102,8 +104,12 @@ _**The universe appears through orientation.**_
 
 互いに反射し、生成し合い、回転しながら、一つの宇宙万華鏡を形づくる。
 
+### 哲学の鏡
+
 [CPP｜The Mirror Universe: Between Physics and Phenomenology (Philosophical Essay)｜鏡像の宇宙 ── 物理と現象学のあいだ（哲学エッセイ）](https://camp-us.net/articles/CPP-KM-05_Mirror-Universe_Philosophical-Essay.html)  
 [CPP｜鏡の宇宙 ── 物理と現象学のあいだ（哲学 Journal Edition）｜The Mirror Universe: Between Physics and Phenomenology (Philosophical Journal Edition)](https://camp-us.net/articles/CPP-KM-06_Mirror-Universe_Philosophical-Journal-Edition.html)  
+
+### 理論の鏡
 
 [CPP｜鏡の宇宙 ──物理と現象学のあいだ｜The Mirror Universe: Between Physics and Phenomenology (Academic papers)](https://camp-us.net/articles/CPP-KM-07_Between-Physics-Phenomenology_Academic.html)  
 [CPP｜鏡の宇宙 ──物理と現象学のあいだ（学術Essay）｜The Mirror Universe: Between Physics and Phenomenology (Academic Essay)](https://camp-us.net/articles/CPP-KM-08_Between-Physics-Phenomenology_Academic-Essay.html)  
