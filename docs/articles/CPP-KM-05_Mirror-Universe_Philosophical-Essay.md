@@ -7,10 +7,10 @@ CPP-KM-05
 # The Mirror Universe
 ## — Between Physics and Phenomenology
 
-> Orientation is not given by the universe.
+> Orientation is not given by the universe.  
 > The universe appears through orientation.
 > 
-> 宇宙に向きはない。
+> 宇宙に向きはない。  
 > 向きが宇宙をつくるのだ。
 
 ---

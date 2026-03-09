@@ -155,10 +155,10 @@ Maurice Merleau-Pontyは、空間を身体経験から理解した。
 
 ---
 
-Orientation is not given by the universe.
+Orientation is not given by the universe.  
 The universe appears through orientation.
 
-宇宙に向きはない。
+宇宙に向きはない。  
 向きが宇宙をつくるのだ。
 
 ---

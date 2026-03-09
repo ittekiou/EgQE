@@ -102,10 +102,10 @@ AIの空間には 方向そのものが存在しない。
 [CPP｜鏡像の宇宙 断章 ── 歩行と方向](https://camp-us.net/articles/CPP-KM-02_Mirror-walk.html)  
 [CPP｜鏡像の宇宙 断章 ── 地上問題](https://camp-us.net/articles/CPP-KM-03_Mirror-ground.html)  
 
-> Orientation is not given by the universe.
+> Orientation is not given by the universe.  
 > The universe appears through orientation.
 > 
-> 宇宙に向きはない。
+> 宇宙に向きはない。  
 > 向きが宇宙をつくるのだ。
 
 ![Multifaceted-Mirror-Universe](../assets/Multifaceted-Mirror-Universe.png)  

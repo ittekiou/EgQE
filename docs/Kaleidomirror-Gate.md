@@ -43,7 +43,7 @@ _**Kaleidomirror**_ は、鏡を通して宇宙を覗く。
 
 ![MIRROR-MANDALA-Orientation](./assets/MIRROR-MANDALA-Orientation.png)  
 
-_**Orientation is not given by the universe.**_
+_**Orientation is not given by the universe.**_  
 _**The universe appears through orientation.**_
 
 [CPP｜鏡像の宇宙 ── 物理と現象学のあいだ（断章-序）](https://camp-us.net/articles/CPP-KM-01_Mirror-fragment.html)  
