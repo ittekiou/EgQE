@@ -16,6 +16,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/10  
+[EgQE｜HEG Core Knot｜他者・空間・時間から黄金環へ ──幾何から構文へ至る宇宙論](https://camp-us.net/articles/Core_HEG-Knot_Otherness-to-Golden-Knot.html)  
 ###### 2026/03/09  
 [EgQE｜Core-SO-RZ｜空間前提の存在論の反転](https://camp-us.net/articles/Core_SO-RZ_SN-ψ_SLR.html)  
 [鏡宇宙への扉 ── Kaleidomirror Gate: Toward the Cosmophysical Phenomenology](https://camp-us.net/Kaleidomirror-Gate.html)  
