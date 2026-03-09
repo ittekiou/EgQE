@@ -46,7 +46,7 @@ _**Kaleidomirror**_ は、鏡を通して宇宙を覗く。
 _**Orientation is not given by the universe.**_
 _**The universe appears through orientation.**_
 
-[CPP｜鏡像の宇宙 ── 物理と現象学のあいだ（断章-序）](https://camp-us.net/articles/CPP-KM-01_The-Mirror-Universe.html)  
+[CPP｜鏡像の宇宙 ── 物理と現象学のあいだ（断章-序）](https://camp-us.net/articles/CPP-KM-01_Mirror-fragment.html)  
 [CPP｜鏡像の宇宙 断章 ── 歩行と方向](https://camp-us.net/articles/CPP-KM-02_Mirror-walk.html)  
 [CPP｜鏡像の宇宙 断章 ── 地上問題](https://camp-us.net/articles/CPP-KM-03_Mirror-ground.html)  
 [CPP｜鏡像の宇宙 ── 物理と現象学のあいだ（断章-まとめ）](https://camp-us.net/articles/CPP-KM-04_The-Mirror-Universe_JP.html)  
