@@ -18,6 +18,19 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/03/09  
 [EgQE｜Core-SO-RZ｜空間前提の存在論の反転](https://camp-us.net/articles/Core_SO-RZ_SN-ψ_SLR.html)  
+[鏡宇宙への扉 ── Kaleidomirror Gate: Toward the Cosmophysical Phenomenology](https://camp-us.net/Kaleidomirror-Gate.html)  
+[CPP｜鏡像の宇宙 ── 物理と現象学のあいだ（断章-序）](https://camp-us.net/articles/CPP-KM-01_The-Mirror-Universe.html)  
+[CPP｜鏡像の宇宙 断章 ── 歩行と方向](https://camp-us.net/articles/CPP-KM-02_Mirror-walk.html)  
+[CPP｜鏡像の宇宙 断章 ── 地上問題](https://camp-us.net/articles/CPP-KM-03_Mirror-ground.html)  
+[CPP｜鏡像の宇宙 ── 物理と現象学のあいだ（断章-まとめ）](https://camp-us.net/articles/CPP-KM-04_The-Mirror-Universe_JP.html)  
+[CPP｜The Mirror Universe: Between Physics and Phenomenology (Philosophical Essay)｜鏡像の宇宙 ── 物理と現象学のあいだ（哲学エッセイ）](https://camp-us.net/articles/CPP-KM-05_Mirror-Universe_Philosophical-Essay.html)  
+[CPP｜鏡の宇宙 ── 物理と現象学のあいだ（哲学 Journal Edition）｜The Mirror Universe: Between Physics and Phenomenology (Philosophical Journal Edition)](https://camp-us.net/articles/CPP-KM-06_Mirror-Universe_Philosophical-Journal-Edition.html)  
+[CPP｜鏡の宇宙 ──物理と現象学のあいだ｜The Mirror Universe: Between Physics and Phenomenology (Academic papers)](https://camp-us.net/articles/CPP-KM-07_Between-Physics-Phenomenology_Academic.html)  
+[CPP｜鏡の宇宙 ──物理と現象学のあいだ（学術Essay）｜The Mirror Universe: Between Physics and Phenomenology (Academic Essay)](https://camp-us.net/articles/CPP-KM-08_Between-Physics-Phenomenology_Academic-Essay.html)  
+[CPP｜宇宙物理現象哲学と三つの鏡像｜Cosmophysical Phenomenology and the Three Mirrors](https://camp-us.net/articles/CPP-KM-09_Cosmophysical-Phenomenology-and-the-Three-Mirrors.html)  
+[CPP｜反転しない鏡、反転する理論｜The Mirror That Does Not Invert, The Theory That Does](https://camp-us.net/articles/CPP-KM-10_Mirror-That-Does-Not-Invert.html)  
+[CPP｜空間の三つの鏡 ── 三鏡構図｜The Three Mirrors of Space](https://camp-us.net/articles/CPP-KM-11_Three-Mirrors-of-Space.html)  
+[CPP｜三鏡空間論 ──宇宙物理現象哲学への試論｜Three Mirrors of Space: Kant, Einstein, and Merleau-Ponty — Toward a Cosmophysical Phenomenology](https://camp-us.net/articles/CPP-KM-12_Kant-Einstein-Merleau-Ponty_Toward-Cosmophysical-Phenomenology.html)  
 ###### 2026/03/08  
 [EgQE｜Lag Ontology ── HEG-09 Minimal Axioms](https://camp-us.net/articles/Core_HEG-9_Lag-Ontology.html)  
 [EgQE｜有界持続非閉包 ── HEG-10 Core Axioms](https://camp-us.net/articles/Core_HEG-10_Bounded-Persistent-Non-Closure.html)  
