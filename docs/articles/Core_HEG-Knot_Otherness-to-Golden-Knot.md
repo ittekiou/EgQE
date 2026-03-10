@@ -52,54 +52,51 @@ Cosmological Syntax
 
 ---
 
-# シリーズ対応図
+# シリーズ対応図｜HEG Core Knot
 
-```text
-                 HEG Core Knot
-────────────────────────────────────
+────────────────────────────────────  
 
-Otherness
-│
-│  SN-ψₜ-03
-│  他者性と空間生成
-│
-Space
-│
-│  SN-ψₜ-01
-│  七角帯 H7–ψ
-│
-Time
-│
-│  SN-ψₜ-02
-│  六角–七角保存帯
-│
-Preservation Band ψ
-│
-│  HEG-8
-│  更新と保存（三相論）
-│
-Golden Knot φ
-│
-│  GK series
-│  黄金環
-│
-Cosmological Syntax
-│
-│  HEG-9
-│  Multi-Origin Theory
-│
-│  HEG-10
-│  lag → lαg
-│
-│  HEG-11
-│  Support Theory
-│
-│  HEG-12
-│  Artificial Satellite / Ground
-│
-│  HEG-13
-│  Geometry → Syntax
-```
+Otherness  
+│  
+│  [SN-ψₜ-03](https://camp-us.net/articles/SN-ψₜ-03_Structural-Note_on_Otherness.html)  
+│  他者性と空間生成  
+│  
+Space  
+│  
+│  [SN-ψₜ-01](https://camp-us.net/articles/SN-ψₜ-01_Structural-Note_on_H7-ψ-θₐ_Band.html)  
+│  七角帯 H7–ψ  
+│  
+Time  
+│  
+│  [SN-ψₜ-02](https://camp-us.net/articles/SN-ψₜ-02_Structural-Note_on_restful6-H7-ψ-θₐ_Band.html)  
+│  六角–七角保存帯  
+│  
+Preservation Band ψ  
+│  
+│  [HEG-8](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
+│  更新と保存（三相論）  
+│  
+Golden Knot φ  
+│  
+│  [GK series](https://camp-us.net/GK_Golden-Knot.html)  
+│  黄金環  
+│  
+Cosmological Syntax  
+│  
+│  [HEG-9](https://camp-us.net/articles/Core_HEG-9_Lag-Ontology.html)  
+│  Multi-Origin Theory  
+│  
+│  [HEG-10](https://camp-us.net/articles/Core_HEG-10_Bounded-Persistent-Non-Closure.html)  
+│  lag → lαg  
+│  
+│  [HEG-11](https://camp-us.net/articles/Core_HEG-11_SO-lag-Turn_otherness-spacetime.html)  
+│  Support Theory  
+│  
+│  [HEG-12](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
+│  Artificial Satellite / Ground  
+│  
+│  HEG-13  
+│  Geometry → Syntax  
 
 ---
 
@@ -107,26 +104,24 @@ Cosmological Syntax
 
 HEGシリーズは **宇宙論の側からこの構造に到達する系譜**である。
 
-```text
-HEG-8
-Updating / Preservation
-↓
-HEG-9
-Multi-Origin Theory
-↓
-HEG-10
-lag → lαg
-↓
-HEG-11
-Support Theory
-↓
-HEG-12
-Satellite / Ground
-↓
-HEG-13
-Cosmological Description
-Geometry → Syntax
-```
+[HEG-8](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
+Updating / Preservation  
+↓  
+[HEG-9](https://camp-us.net/articles/Core_HEG-9_Lag-Ontology.html)  
+Multi-Origin Theory  
+↓  
+[HEG-10](https://camp-us.net/articles/Core_HEG-10_Bounded-Persistent-Non-Closure.html)  
+lag → lαg  
+↓  
+[HEG-11](https://camp-us.net/articles/Core_HEG-11_SO-lag-Turn_otherness-spacetime.html)  
+Support Theory  
+↓  
+[HEG-12](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
+Satellite / Ground  
+↓  
+HEG-13  
+Cosmological Description  
+Geometry → Syntax  
 
 この流れは **幾何学的宇宙観から構文宇宙論への転回** を示している。
 
@@ -155,6 +150,8 @@ Golden Knot
 したがって **Golden Ratio は始まりではない。**
 
 それは **Golden Knot の幾何学的痕跡** である。
+
+👉 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  
 
 ---
 
