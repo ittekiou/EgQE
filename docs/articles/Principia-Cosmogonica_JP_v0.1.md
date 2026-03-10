@@ -1,6 +1,7 @@
 ---
 title: 宇宙生成原論 Principia Cosmogonica (v0.1) 日本語学術版
 subtitle: SO-lagと時空構文の生成原理
+layout: math
 ---
 ### 日本語学術版 (v0.1)
 # Principia Cosmogonica
