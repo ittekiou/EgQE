@@ -45,13 +45,13 @@ SO-lag (relation = otherness)
 ### Generative Bands
 
 ```
-φ ~ 6 ~ 7 ~ θα　（→拡張差分）
-φ ~ 6 ~ 7 ~ ψ ~ θα　（→保存差分）
+φ ~ 6 ~ 7 ~ θα　（→ 拡張差分）
+φ ~ 6 ~ 7 ~ ψ ~ θα　（→ 保存差分）
 ```
 
 ```
-φ ~ 6 ~ 7 ~ θα  (expanded differential)
-φ ~ 6 ~ 7 ~ ψ ~ θα  (preserved differential)
+φ ~ 6 ~ 7 ~ θα  (→ expanded differential)
+φ ~ 6 ~ 7 ~ ψ ~ θα  (→ preserved differential)
 ```
 
 ---
