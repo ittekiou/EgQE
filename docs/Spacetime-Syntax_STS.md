@@ -1,6 +1,7 @@
 ---
 title: HEG 宇宙生成式
 title_en: HEG Cosmogenic Formula
+subtitle: SO-lag and the Emergence of Spacetime-Syntax
 ---
 # HEG 宇宙生成式
 ## HEG Cosmogenic Formula
@@ -42,10 +43,6 @@ SO-lag
 R → ΔZ → Spacetime-Syntax
 ```
 
-```id="kw6zj9"
-R → ΔZ → Spacetime-Syntax
-```
-
 ---
 
 # 超最小式
@@ -53,10 +50,6 @@ R → ΔZ → Spacetime-Syntax
 ## Ultra-Minimal Expression
 
 ```id="z4w9m1"
-SO-lag → φ → ΔZ → Spacetime-Syntax
-```
-
-```id="3j4u1b"
 SO-lag → φ → ΔZ → Spacetime-Syntax
 ```
 
@@ -90,8 +83,29 @@ differential trace
 spacetime-syntax
 ```
 
+👉 [STS-01｜HEG 完全ミニマルコア（最小生成式）｜HEG Ultra-Minimal Core: Minimal Generative Formula](https://camp-us.net/articles/STS-01_Minimal-Generative-Formula.html)  
+
+---
+
+[EgQE｜HEG Core Knot｜他者・空間・時間から黄金環へ ──幾何から構文へ至る宇宙論](https://camp-us.net/articles/Core_HEG-Knot_Otherness-to-Golden-Knot.html)  
+
 ---
 
 _**関係（他者性）が宇宙を生成する**_
 
+----
+**The Age of Inter-Phase**  
+*EgQE — Echo-Genesis Qualia Engine*  
+[_camp-us.net_](https://camp-us.net/)  
+
 ---
+
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Mar 10, 2026 · Web Mar 10, 2026 |</p>
