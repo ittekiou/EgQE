@@ -139,7 +139,7 @@ Consequently, space and time are not pre-existing geometrical backgrounds but em
 **lag**とは、関係が完全には閉じないことによって生じる構造的ズレである。  
 lagは運動でも力でもなく、関係が更新され続けるための条件として現れる。
 
-**Definition 1 | lag**
+#### **Definition 1 | lag**
 
 _Lag_ is the structural offset that arises when relations fail to close completely.  
 Lag is neither motion nor force; it is the condition that enables relations to persist through updating.
@@ -151,7 +151,7 @@ Lag is neither motion nor force; it is the condition that enables relations to p
 **SO-lag**とは、他者性を伴う関係非対称として現れるlagである。  
 それは生成構造の最小非可逆点として、宇宙生成の起点を形成する。
 
-**Definition 2 | SO-lag**
+#### **Definition 2 | SO-lag**
 
 _SO-lag_ is lag appearing as relational asymmetry involving otherness.  
 It functions as the minimal irreversible hinge of generative structure.
@@ -163,7 +163,7 @@ It functions as the minimal irreversible hinge of generative structure.
 **黄金環 φ（Golden Knot）** とは、SO-lagが安定化したときに形成される生成ヒンジである。  
 それは関係の循環を安定化させつつ、完全な閉包を回避する構造を示す。
 
-**Definition 3 | Golden Knot φ**
+#### **Definition 3 | Golden Knot φ**
 
 The **Golden Knot φ** is the generative hinge that stabilizes when SO-lag attains structural persistence.  
 It stabilizes relational circulation while preventing complete closure.
@@ -174,7 +174,7 @@ It stabilizes relational circulation while preventing complete closure.
 
 **生成トポロジー（Generative Topology）** とは、6・7・α・ψ・φ によって構成される五角生成構造であり、宇宙生成の基本配置を表す。
 
-**Definition 4 | Generative Topology**
+#### **Definition 4 | Generative Topology**
 
 _Generative Topology_ refers to the pentagonal generative configuration composed of **6, 7, α, ψ, and φ**, representing the fundamental arrangement of cosmic generation.
 
@@ -184,7 +184,7 @@ _Generative Topology_ refers to the pentagonal generative configuration composed
 
 **Axis-4**とは、生成トポロジーから抽出された離散軸であり、生成構造を粗視化した記号的ヒンジである。
 
-**Definition 5 | Axis-4**
+#### **Definition 5 | Axis-4**
 
 _Axis-4_ is a discrete axis extracted from the generative topology and functions as a coarse-grained symbolic hinge.
 
@@ -195,7 +195,7 @@ _Axis-4_ is a discrete axis extracted from the generative topology and functions
 **ΔZ**とは、生成構造が差分として現れるトレースである。  
 生成そのものは直接観測されないが、ΔZを通じて構造として現れる。
 
-**Definition 6 | ΔZ**
+#### **Definition 6 | ΔZ**
 
 _ΔZ_ is the differential trace through which generative structure becomes observable.
 
@@ -205,7 +205,7 @@ _ΔZ_ is the differential trace through which generative structure becomes obser
 
 **Spacetime-Syntax**とは、生成トポロジーの投影として現れる構造であり、空間と時間がトポロジー・再帰・構文の三つの投影として現れる状態を指す。
 
-**Definition 7 | Spacetime-Syntax**
+#### **Definition 7 | Spacetime-Syntax**
 
 _Spacetime-Syntax_ denotes the structural projection of generative topology in which space and time emerge as projections of topology, recursion, and syntax.
 
@@ -217,7 +217,7 @@ _Spacetime-Syntax_ denotes the structural projection of generative topology in w
 
 **関係は完全には閉じない。**
 
-**Axiom 1 | Non-Closure**
+#### **Axiom 1 | Non-Closure**
 
 Relations never close completely.
 
@@ -227,7 +227,7 @@ Relations never close completely.
 
 **非閉包はlagとして現れる。**
 
-**Axiom 2 | Lag**
+#### **Axiom 2 | Lag**
 
 Non-closure appears as lag.
 
@@ -237,7 +237,7 @@ Non-closure appears as lag.
 
 **更新とは、持続する≠である。**
 
-**Axiom 3 | Updating**
+#### **Axiom 3 | Updating**
 
 Updating is the persistence of ≠.
 
@@ -247,7 +247,7 @@ Updating is the persistence of ≠.
 
 **生成は他者性を伴う非対称から始まる。**
 
-**Axiom 4 | Otherness**
+#### **Axiom 4 | Otherness**
 
 Generation begins from asymmetry involving otherness.
 
@@ -257,7 +257,7 @@ Generation begins from asymmetry involving otherness.
 
 **生成はヒンジを通じて安定化する。**
 
-**Axiom 5 | Generative Hinge**
+#### **Axiom 5 | Generative Hinge**
 
 Generation stabilizes through hinges.
 
@@ -268,7 +268,7 @@ Generation stabilizes through hinges.
 **生成は直接観測されない。  
 それは差分トレースとして現れる。**
 
-**Axiom 6 | Differential Trace**
+#### **Axiom 6 | Differential Trace**
 
 Generation is not directly observable.  
 It appears as differential trace.
@@ -279,7 +279,7 @@ It appears as differential trace.
 
 **空間と時間は生成構造の投影である。**
 
-**Axiom 7 | Spacetime-Syntax**
+#### **Axiom 7 | Spacetime-Syntax**
 
 Space and time are projections of generative structure.
 
@@ -307,7 +307,7 @@ Generative topology emerging from SO-lag through the Golden Knot φ and forming 
 
 ### English
 
-**Figure 1 | Generative Topology**
+#### **Figure 1 | Generative Topology**
 
 This diagram illustrates the fundamental generative structure proposed in _Principia Cosmogonica_.  
 Starting from **SO-lag**, defined as relational asymmetry, the generative hinge **Golden Knot φ** stabilizes and gives rise to a **pentagonal generative topology** composed of **6, 7, α, ψ, and φ**.
@@ -350,7 +350,7 @@ Axis-4 は
 
 ### English
 
-**Figure 2 | Axis-4 Generative Sequence**
+#### **Figure 2 | Axis-4 Generative Sequence**
 
 This diagram presents the **Axis-4 structure** extracted from the underlying generative topology.
 
