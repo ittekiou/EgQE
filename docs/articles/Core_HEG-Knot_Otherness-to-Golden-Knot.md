@@ -20,7 +20,7 @@ title_en: "HEG Core Knot｜From Otherness to the Golden Knot: Otherness, Space, 
 
 **他者 → 空間 → 時間 → 保存**
 
-という生成過程の中で現れる **構造的な結び（structural knot）** である。
+という生成過程の中で現れる **構造的な環（structural knot）** である。
 
 ---
 
@@ -179,7 +179,7 @@ Syntax
 
 **他者・空間・時間・保存**
 
-という生成過程の中で必然的に現れる **構造的結び** である。
+という生成過程の中で必然的に現れる **構造的環** である。
 
 ---
 
@@ -284,7 +284,7 @@ Otherness → Space → Time → Preservation → Knot → Syntax
 ## The Golden Knot of Our Path
 ### ― Geometry → Syntax ―
 
-> **黄金環は理論の対象であるだけでなく、われわれが辿ってきた道の結びでもある。**
+> **黄金環は理論の対象であるだけでなく、われわれが辿ってきた道の環でもある。**
 
 ---
 
@@ -295,17 +295,17 @@ Otherness → Space → Time → Preservation → Knot → Syntax
 > but also the knot of our path toward cosmological syntax.
 
 ### この図の読み方
-中心の **Golden Knot φ** は、比ではなく結びです。  
+中心の **Golden Knot φ** は、比ではなく環です。  
 その外側にある **ψ帯** は保存、さらに外側にある **H7** は有限未完、**Restful-6** は安定、**Time** と **Space** は生成相、最外周に **Otherness** がある。  
 下部の **HEG-8〜13** は、この曼荼羅に到達するまでの宇宙論的記述の進化を示します。
 
 ---
 
-**黄金環とは、比の理論ではなく 結びの理論**であり、**Mandala自体が Knot 構造**をなす
+**黄金環とは、比の理論ではなく 環の理論**であり、**Mandala自体が Knot 構造**をなす
 
 > The Golden Knot is both a structural necessity of the cosmos and the knot of our path toward it.
 
-> 黄金環は宇宙構造の必然であり、同時にわれわれの道の結びめでもある。
+> 黄金環は宇宙構造の必然であり、同時にわれわれの道の環でもある。
 
 ![cosmic_phi_g](../assets/cosmic_phi_c.png)  
 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  

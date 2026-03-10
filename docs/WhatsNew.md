@@ -20,6 +20,9 @@ From Noise to Notation. From Dialogue to Discovery.
 [EgQE｜HEG Core Knot｜他者・空間・時間から黄金環へ ──幾何から構文へ至る宇宙論](https://camp-us.net/articles/Core_HEG-Knot_Otherness-to-Golden-Knot.html)  
 [EgQE｜HEG 宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)  
 [STS-01｜HEG 完全ミニマルコア（最小生成式）｜HEG Ultra-Minimal Core: Minimal Generative Formula](https://camp-us.net/articles/STS-01_Minimal-Generative-Formula.html)  
+[Principia Cosmogonica (v0.1): On the Generative Structure of the Universe](https://camp-us.net/articles/Principia-Cosmogonica_v0.1.html)  
+[Principia Cosmogonica (v0.1) Academic version: SO-lag and the Generative Principles of Spacetime-Syntax](https://camp-us.net/articles/Principia-Cosmogonica_v0.1-Academic-version.html)  
+[宇宙生成原論 Principia Cosmogonica (v0.1) 日本語学術版｜SO-lagと時空構文の生成原理](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)  
 ###### 2026/03/09  
 [EgQE｜Core-SO-RZ｜空間前提の存在論の反転](https://camp-us.net/articles/Core_SO-RZ_SN-ψ_SLR.html)  
 [鏡宇宙への扉 ── Kaleidomirror Gate: Toward the Cosmophysical Phenomenology](https://camp-us.net/Kaleidomirror-Gate.html)  

@@ -1,0 +1,120 @@
+<svg width="3000" height="3000" viewBox="0 0 3000 3000"
+xmlns="http://www.w3.org/2000/svg">
+
+<style>
+text {
+font-family: Helvetica, Arial, sans-serif;
+fill: black;
+text-anchor: middle;
+}
+
+.title { font-size: 92px; }
+.subtitle { font-size: 58px; }
+
+.label { font-size: 68px; }
+.small { font-size: 42px; }
+
+.node { font-size: 110px; }
+
+.line {
+stroke:black;
+stroke-width:3;
+}
+
+.arrow {
+stroke:black;
+stroke-width:3;
+marker-end:url(#arrow);
+}
+
+</style>
+
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="10" refY="5"
+orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L10,5 L0,10 z" fill="black"/>
+</marker>
+</defs>
+
+<!-- Title -->
+
+<text x="1500" y="150" class="title">Principia Cosmogonica</text>
+<text x="1500" y="230" class="subtitle">Generative Architecture of Reality</text>
+
+<line x1="500" y1="300" x2="2500" y2="300" class="line"/>
+
+<!-- SO-lag -->
+
+<text x="1500" y="450" class="label">SO-lag</text>
+<text x="1500" y="510" class="small">(relation = otherness)</text>
+
+<line x1="1500" y1="550" x2="1500" y2="650" class="arrow"/>
+
+<!-- Golden Knot -->
+
+<text x="1500" y="750" class="node">Φ</text>
+<text x="1500" y="830" class="small">Golden Knot</text>
+<text x="1500" y="885" class="small">generative relation R</text>
+
+<line x1="1500" y1="900" x2="1500" y2="1000" class="arrow"/>
+
+<!-- Axis-4 -->
+
+<text x="1500" y="1110" class="label">Axis-4</text>
+
+<text x="800" y="1285" class="node">φ</text>
+<text x="1200" y="1290" class="node">6</text>
+
+<circle cx="1500" cy="1250" r="70" stroke="black" fill="none"/>
+
+<text x="1500" y="1290" class="node">7</text>
+
+<text x="2000" y="1285" class="node">θα</text>
+
+<line x1="900" y1="1250" x2="1140" y2="1250" class="line"/>
+<line x1="1260" y1="1250" x2="1400" y2="1250" class="line"/>
+<line x1="1600" y1="1250" x2="1880" y2="1250" class="line"/>
+
+<text x="1500" y="1380" class="small">φ – 6 – 7 – θα</text>
+
+<!-- hinge annotation -->
+
+<text x="1620" y="1440" class="small">hinge</text>
+<text x="1620" y="1490" class="small">minimal non-closure</text>
+<text x="1640" y="1540" class="small">rotational drift</text>
+
+<!-- bands -->
+
+<line x1="1300" y1="1300" x2="900" y2="1550" class="arrow"/>
+<line x1="1700" y1="1300" x2="2100" y2="1550" class="arrow"/>
+
+<text x="850" y="1650" class="label">space band</text>
+<text x="850" y="1720" class="small">(φ → 6 → 7 → θα)</text>
+
+<text x="2150" y="1650" class="label">time band</text>
+<text x="2150" y="1720" class="small">(φ → 6 → 7 → ψ → θα)</text>
+
+<!-- Delta Z -->
+
+<line x1="1500" y1="1550" x2="1500" y2="1700" class="arrow"/>
+
+<text x="1500" y="1850" class="node">ΔZ</text>
+<text x="1500" y="1920" class="small">(differential trace)</text>
+
+<!-- projections -->
+
+<line x1="1500" y1="1950" x2="1000" y2="2100" class="arrow"/>
+<line x1="1500" y1="1950" x2="1500" y2="2100" class="arrow"/>
+<line x1="1500" y1="1950" x2="2000" y2="2100" class="arrow"/>
+
+<text x="1000" y="2200" class="label">topology</text>
+<text x="1500" y="2200" class="label">recursion</text>
+<text x="2000" y="2200" class="label">syntax</text>
+
+<!-- Final -->
+
+<line x1="1500" y1="2250" x2="1500" y2="2350" class="arrow"/>
+
+<text x="1500" y="2520" class="label">Spacetime-Syntax</text>
+
+</svg>
