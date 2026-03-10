@@ -213,7 +213,7 @@ Axis-4
 ---
 
 ## **図2｜Axis-4生成系列（Axis-4 Generative Sequence）**
-![Axis-4_Generative-Sequence](../assets/Axis-4_Generative-Sequence.png)  
+![Axis-4_Generative-Sequence_](../assets/Axis-4_Generative-Sequence.png)  
 _Caption_  
 Axis-4 as a coarse-grained symbolic axis extracted from the generative topology, producing spatial and temporal generative bands.
 
