@@ -80,8 +80,11 @@ Golden Ratio → Geometry
 [GK-02｜存在生成の結び目としての黄金環 φ ── lag と他者性による時空生成｜The Golden Ring φ as the Knot of Existential Genesis — Lag, Otherness, and the Emergence of Space-Time](https://camp-us.net/articles/GK-02_Golden-Knot_of_Existential-Genesis.html)  
 
 [SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-%CF%86_Bifurcation-of-Generation_l%CE%B1g-to-%CF%86.html)  
-
 [HEG Core Knot｜他者・空間・時間から黄金環へ ──幾何から構文へ至る宇宙論](https://camp-us.net/articles/Core_HEG-Knot_Otherness-to-Golden-Knot.html)  
+
+---
+
+👉 [HEG 宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)  
 
 ----
 **The Age of Inter-Phase**  

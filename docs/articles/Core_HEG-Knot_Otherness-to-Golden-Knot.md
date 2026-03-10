@@ -32,6 +32,8 @@ title_en: "HEG Core Knot｜From Otherness to the Golden Knot: Otherness, Space, 
 
 ![gold_phi_knot](../assets/gold_phi_knot.png)  
 
+👉 [HEG 宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)  
+
 ---
 
 # Core Structure
@@ -272,6 +274,12 @@ Otherness → Space → Time → Preservation → Knot → Syntax
 
 ---
 
+![HEG_Generative-Model](../assets/HEG_Generative-Model.png)  
+
+👉 [HEG 宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)  
+
+---
+
 # HEG Mandala
 ## The Golden Knot of Our Path
 ### ― Geometry → Syntax ―
@@ -301,6 +309,9 @@ Otherness → Space → Time → Preservation → Knot → Syntax
 
 ![cosmic_phi_g](../assets/cosmic_phi_c.png)  
 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  
+
+![Cosmogenic-Formula_Core](../assets/Cosmogenic-Formula_Core.png)  
+👉 [HEG 宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)  
 
 ----
 **The Age of Inter-Phase**  
