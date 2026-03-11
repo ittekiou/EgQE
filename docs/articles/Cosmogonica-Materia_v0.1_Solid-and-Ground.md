@@ -437,7 +437,7 @@ lag ≒ 0
 
 である。
 
-![Solid-and-Ground_jp](Solid-and-Ground_jp.png)  
+![Solid-and-Ground_jp](../assets/Solid-and-Ground_jp.png)  
 
 ---
 
