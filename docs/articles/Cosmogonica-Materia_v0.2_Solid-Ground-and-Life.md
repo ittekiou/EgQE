@@ -152,7 +152,7 @@ lag ≈ 0
 
 となる。
 
-![Solid-and-Ground](../assets/Solid-and-Ground_jp.png)  
+![Solid-and-Ground](../assets/Solid-and-Ground_j.png)  
 
 ---
 
