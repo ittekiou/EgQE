@@ -244,7 +244,7 @@ lag ≈ 0
 結晶では
 
 ```
-lag = 0
+lag ≒ 0
 ```
 
 が理想的に成立し、対称構造が周期的に反復する。
@@ -524,7 +524,7 @@ Within this framework, crystalline solids occupy a special position.
 In crystals,
 
 ```
-lag = 0
+lag ≒ 0
 ```
 
 and closure is arranged in highly symmetric periodic structures.
