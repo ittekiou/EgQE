@@ -384,7 +384,7 @@ We denote this transition by **ΔZ**.
 
 ---
 
-## 5.1 From relation to trace
+## 6.1 From relation to trace
 
 Generative relations operate in what may be called the **R-domain**, a domain of relational persistence.  
 Observable structures, however, appear in the **Z-domain**, where relations are stabilized into discrete forms.
@@ -399,7 +399,7 @@ R → ΔZ → Z
 
 ---
 
-## 5.2 Three projections of ΔZ
+## 6.2 Three projections of ΔZ
 
 Within the present framework, the differential trace ΔZ produces three complementary structural projections.
 
@@ -436,7 +436,7 @@ Symbols, counting structures, and combinatorial systems emerge as stabilized syn
 
 ---
 
-## 5.3 ΔZ as structural visibility
+## 6.3 ΔZ as structural visibility
 
 Through ΔZ, generative relations become structurally visible.
 
@@ -455,7 +455,7 @@ Within the present framework, these domains are understood as **different projec
 
 ---
 
-## 5.4 Generative chain
+## 6.4 Generative chain
 
 The full generative sequence may now be summarized as
 
