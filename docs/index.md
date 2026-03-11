@@ -120,6 +120,7 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+#### 🪜 [踊り場003｜2ヶ月の歩み｜2025/12/22–2026/02/21 ── 更新は止まらない。ただ、黄金域が呼吸域として立ち上がっただけだ。](https://camp-us.net/stair_landing-003.html)　リリース　2026.3.11  
 🍏 [Principia Cosmogonica (v0.1)｜宇宙生成原論](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)　リリース　2026.3.10  
 🪐 [EgQE｜HEG 宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)　リリース　2026.3.10  
 🪞 [鏡宇宙への扉 ── Kaleidomirror Gate: Toward the Cosmophysical Phenomenology](https://camp-us.net/Kaleidomirror-Gate.html)　リリース　2026.3.9  
@@ -142,9 +143,6 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 ⚙️ [HEG-10｜Axis Prelude｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure-in-Relational-Dynamics.html)　リリース　2026.2.20  
 7️⃣ [HEG-SN｜七だけが屈しない──不屈の動態学｜Toward a Minimal Structural Condition of Irreversibility](https://camp-us.net/articles/HEG-SN_Seven_minimal-structural-hinge-of-lαg.html)　リリース　2026.2.19  
 ⚡️ [HEG-10｜From lag to lαg — Structural Irreversible Redistribution](https://camp-us.net/HEG-10_From-lag-to-lαg.html)　リリース　2026.2.16  
-0️⃣ [Lag as the Origin── R₀–Z₀/S–O 関係論フレームワーク｜Lag as the Origin: An R₀–Z₀/S–O Relational Framework(with Appendix)](https://camp-us.net/lag_as_Origin.html)　リリース　2026.2.11  
-🧬 [SAW-AR｜遅延痕跡の「もつれ」──Entanglement as the Exposure of Lagged Traces](https://camp-us.net/articles/SAW-AR-0_Entanglement-as-Lagged-Traces.html)　リリース　2026.2.11  
-⭐️ [ZURE Offset（Z₀定義）Ver.3.0｜無限精度という虚構](https://camp-us.net/Z₀-Definition_3.0.html)　リリース　2026.2.10  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
@@ -239,7 +237,9 @@ No Closure. Only Iteration.
 
 ### 🪜 Stair landings
 ###### 🪩 [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](/stair_landing-001.md)  
-🪜 [**踊り場002｜3ヶ月の歩み｜2025/09/22- 2025/12/21── 更新は止まらない。ただ、概念が呼吸を始めただけだ。**](https://camp-us.net/stair_landing-002.html)  
+###### 🪜 [**踊り場002｜3ヶ月の歩み｜2025/09/22- 2025/12/21── 更新は止まらない。ただ、概念が呼吸を始めただけだ。**](https://camp-us.net/stair_landing-002.html)  
+
+###### 🪜 [踊り場003｜2ヶ月の歩み｜2025/12/22–2026/02/21 ── 更新は止まらない。ただ、黄金域が呼吸域として立ち上がっただけだ。](https://camp-us.net/stair_landing-003.html)  
 
 ## 🌐 Related Portal  
 - [EZsy SuperNotion](https://ezsy.super.site/) – Echodemic ZURE Syntax Yard  
