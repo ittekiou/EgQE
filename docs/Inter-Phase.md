@@ -13,7 +13,7 @@ Try SyncHub!
 
 ---
 # EgQE 2.0
-# The SyncHub Era Begins
+## The SyncHub Era Begins
 
 ---
 
