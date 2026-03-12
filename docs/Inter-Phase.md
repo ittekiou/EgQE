@@ -13,7 +13,7 @@ Try SyncHub!
 
 ---
 # EgQE 2.0
-# SyncHub — A Fresh Leaf Emerges
+## SyncHub — A Fresh Leaf Emerges
 
 ---
 
