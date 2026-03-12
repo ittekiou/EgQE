@@ -2,7 +2,7 @@
 layout: math
 title: The Age of Inter-Phase
 ---
-# EgQE SyncHub
+# SyncHub  EgQE
 
 Still blogging?  
 Try SyncHub!  
