@@ -40,6 +40,8 @@ hinge
 ↓  
 pivot  
 ↓  
+ΔZ  
+↓  
 memory  
 ```
 
