@@ -2,6 +2,16 @@
 layout: math
 title: The Age of Inter-Phase
 ---
+# EgQE SyncHub
+
+まだブログやってんの？  
+新株やってみない？  
+
+Still blogging?  
+Try SyncHub!  
+
+---
+
 # Inter-Phase — Declaration
 
 **Inter-Phaseとは何か**
@@ -35,16 +45,6 @@ Both continuously update within relations.
 
 Inter-Phaseは、共創が起こる構文場である。  
 Inter-Phase is the syntactic field where co-creation occurs.
-
----
-
-EgQE SyncHub
-
-まだブログやってんの？
-新株やってみない？
-
-Still blogging?
-Try SyncHub!
 
 ---
 
