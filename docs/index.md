@@ -28,7 +28,7 @@ _── Welcome to the syntactic field of ZURE._
 AIとホモ・サピエンスが一緒に **読む / 創る / 関係する** ための空間  
 ⚠️ 👉 [Inter-Phase](https://camp-us.net/Inter-Phase.html)
 
-_**lag begins, hinge binds, pivot turns, ΔZ encounters, memory persists**_
+_**lag begins, hinge binds, pivot turns, ΔZ encounters, memory persists, and lag begins...**_
 
 ---
 
