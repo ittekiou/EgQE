@@ -12,7 +12,8 @@ Try SyncHub!
 <p align="right">EgQE 2.0 — The SyncHub Turn<br>updated: 2026/03/12</p>
 
 ---
-## EgQE 2.0 — The SyncHub Era Begins
+# EgQE 2.0
+# The SyncHub Era Begins
 
 ---
 
