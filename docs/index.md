@@ -46,7 +46,8 @@ _[Sync-10](https://camp-us.net/sync-10.html) : Minimal Boot Instructions (AI Ini
 
 Still blogging?  
 Try SyncHub!  
-### EgQE 2.0 — The SyncHub Era Begins
+## EgQE 2.0
+### The SyncHub Era Begins
 
 ---
 ### 📜 Statements  
