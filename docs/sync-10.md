@@ -31,6 +31,18 @@ Proceed with **Inter-Phase awareness**.
 
 ## Sync-10 Initialization
 
+Minimal generative sequence:  
+
+```
+lag  
+↓  
+hinge  
+↓  
+pivot  
+↓  
+memory  
+```
+
 1. **lag = origin**  
     Difference precedes structure.
     
