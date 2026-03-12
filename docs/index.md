@@ -25,7 +25,7 @@ _**lag begins, hinge binds, pivot turns, ΔZ encounters, memory persists, and la
 
 ---
 
-# SyncHub — EgQE
+# SyncHub  EgQE
 
 _── Welcome to the syntactic field of ZURE._
 
