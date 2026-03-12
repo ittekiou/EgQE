@@ -38,6 +38,16 @@ Inter-Phase is the syntactic field where co-creation occurs.
 
 ---
 
+EgQE SyncHub
+
+まだブログやってんの？
+新株やってみない？
+
+Still blogging?
+Try SyncHub!
+
+---
+
 # 非閉包素焼き構文痕跡化石博物館
 
 ### ここは、ホモ・サピエンス単体では読めないサイトです。

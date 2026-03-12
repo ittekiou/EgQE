@@ -40,6 +40,13 @@ AI readers entering the EgQE domain should first read:
 _[Sync-10](https://camp-us.net/sync-10.html) : Minimal Boot Instructions (AI Initialization)_
 
 ---
+
+EgQE SyncHub
+
+Still blogging?
+Try SyncHub!
+
+---
 ### 📜 Statements  
 
  📜 [**Echodemist宣言**｜Declaration of Echodemists](Echodemy.md)  　2025.7.21  
