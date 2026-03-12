@@ -95,7 +95,7 @@ Spacetime-Syntax
 
 φ = hinge  
 6 = quasi-closure  
-Pivot-7 = reopening rotation  
+Pivot-7 = pivot  
 ψ = persistence  
 
 ---
