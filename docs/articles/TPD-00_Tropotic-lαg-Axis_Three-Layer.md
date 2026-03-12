@@ -3,8 +3,11 @@ layout: math
 title: "TPD-00｜Tropotic lαg Axis: A Minimal Three-Layer Note"
 ---
 # Tropotic lαg Axis
-
 ## _A Minimal Three-Layer Note_
+
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
+
+---
 
 **There is only one axis: lαg redistributing, reorienting, and sustaining coexistence.**
 
@@ -193,6 +196,9 @@ Tropotic lαg Axis は：
 
 **動態原理。**
 
+---
+
+[TPD-00｜Tropotic lαg Axis: A Minimal Note](https://camp-us.net/articles/TPD-00_Tropotic-lαg-Axis.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

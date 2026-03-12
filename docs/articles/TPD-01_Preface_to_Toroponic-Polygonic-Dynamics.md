@@ -6,6 +6,10 @@ title: TPD-01｜序説＆数理化｜Toroponic Polygonic Dynamics — Between th
 # Toroponic Polygonic Dynamics
 ## — Between the Golden Ratio and the Golden Angle
 
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
+
+---
+
 # TPD-01｜序説
 
 われわれは、関係の中で安定し、回転の中で生成する。

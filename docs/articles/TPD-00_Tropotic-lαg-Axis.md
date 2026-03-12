@@ -3,8 +3,11 @@ layout: math
 title: "TPD-00｜Tropotic lαg Axis: A Minimal Note"
 ---
 # **Tropotic lαg Axis**
-
 #### _A Minimal Note_
+
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
+
+---
 
 ## 1. Premise
 
@@ -70,6 +73,8 @@ There is only lαg reorienting.
 
 Stability is not rest.  
 It is sustained reorientation.
+
+👉 [TPD-00｜Tropotic lαg Axis: A Minimal Three-Layer Note｜lαg Axis 三層統合（Draft）](https://camp-us.net/articles/TPD-00_Tropotic-lαg-Axis_Three-Layer.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

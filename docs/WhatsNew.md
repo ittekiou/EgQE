@@ -17,6 +17,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/12  
+[EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
 ###### 2026/03/11  
 [宇宙と生命の条件 ── 固体から遭遇まで｜Cosmogonica Materia v0.1｜Solid and Ground — SO Syntax and the Chain of Support── SO構文による三態の再配置](https://camp-us.net/articles/Cosmogonica-Materia_v0.1_Solid-and-Ground.html)  
 [Cosmogonica Materia v0.2 (Academic short version)｜Solid, Ground, and Life in a Falling Universe｜固体・地上・生命 ── 落下宇宙における遭遇の構文](https://camp-us.net/articles/Cosmogonica-Materia_v0.2_Academic-version.html)  

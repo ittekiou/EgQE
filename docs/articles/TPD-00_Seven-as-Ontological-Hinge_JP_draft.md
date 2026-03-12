@@ -3,8 +3,9 @@ layout: math
 title: "TPD-00｜Seven as Ontological Hinge（日本語版Draft）: Minimal Non-Absorbed Coarse-Graining Theorem"
 ---
 # Seven as Ontological Hinge
-
 ## Minimal Non-Absorbed Coarse-Graining Theorem
+
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
 
 ---
 

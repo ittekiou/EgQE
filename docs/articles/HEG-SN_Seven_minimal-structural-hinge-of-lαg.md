@@ -5,7 +5,7 @@ title_en: HEG-SN｜Toward a Minimal Structural Condition of Irreversibility
 ---
 # HEG-SN｜七だけが屈しない
 
-👉 [TPD-02｜Seven as Ontological Hinge: The Minimal Non-Absorbed Condition of lαg](https://camp-us.net/articles/TPD-02_Seven-as-Ontological-Hinge.html)  
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
 
 ## 不屈の動態学 A
 ### Toward a Minimal Structural Condition of Irreversibility

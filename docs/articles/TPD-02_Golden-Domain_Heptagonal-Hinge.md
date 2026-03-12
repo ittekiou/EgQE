@@ -3,10 +3,10 @@ layout: math
 title: "TPD-02｜Toroponic Polygonic Dynamics I｜The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg"
 ---
 # Toroponic Polygonic Dynamics I
-
 ## The Golden Domain and the Heptagonal Hinge
-
 ### Between φ and θα under lαg
+
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
 
 ---
 

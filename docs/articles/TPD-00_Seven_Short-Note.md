@@ -1,9 +1,11 @@
 ---
 layout: math
+title: "TPD-00｜Seven as the Minimal Irreducible Rotational Hinge: A Short Note"
 ---
 # 💣 Seven as the Minimal Irreducible Rotational Hinge
-
 ## _A Short Note_
+
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
 
 ---
 

@@ -4,8 +4,11 @@ title: TPD-00｜黄金域と七角ヒンジの動態整理
 subtitle: "TPD-00｜（Draft）The Golden Domain and the Heptagonal Hinge: Between φ and θα under lαg"
 ---
 # 黄金域と七角ヒンジの動態整理
-
 ## _(Golden Domain and the Heptagonal Hinge)_
+
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
+
+---
 
 ## 1. 基本構図
 

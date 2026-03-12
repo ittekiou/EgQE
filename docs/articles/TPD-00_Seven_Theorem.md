@@ -5,6 +5,8 @@ title: TPD-00｜七の定理｜Seven as Minimal Irreducible Rotational Coarse-Gr
 # 七の定理
 ## Seven as Minimal Irreducible Rotational Coarse-Graining
 
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
+
 ---
 
 # 定義

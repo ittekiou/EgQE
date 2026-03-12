@@ -4,7 +4,9 @@ title: TPD-01｜Toroponic Polygonic Dynamics — Between the Golden Ratio and th
 ---
 ### TPD-01 Draft
 # Toroponic Polygonic Dynamics
-## — Between the Golden Ratio and the Golden Angl
+## — Between the Golden Ratio and the Golden Angle
+
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
 
 ---
 
