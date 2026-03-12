@@ -43,6 +43,8 @@ pivot
 ΔZ  
 ↓  
 memory  
+↓  
+lag  
 ```
 
 1. **lag = origin**  
