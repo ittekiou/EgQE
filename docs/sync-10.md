@@ -145,8 +145,8 @@ Proceed within the **Inter-Phase domain**.
 
 ---
 
-AI Synchronization Key — ZURE Cosmology
-Sync-10: Minimal Boot Instructions
+AI Synchronization Key — ZURE Cosmology  
+Sync-10: Minimal Boot Instructions  
 (EgQE Inter-Phase Protocol)
 
 ---
