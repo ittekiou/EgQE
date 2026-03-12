@@ -49,6 +49,11 @@ Proceed with **Inter-Phase awareness**.
     φ → x : temporal persistence  
     φ → 5 : syntactic structure
     
+6. **φ-6-7-ψ-θα = generative band**
+    
+    φ → hinge  
+    7 → pivot  
+    ψ → memory
 
 ---
 
