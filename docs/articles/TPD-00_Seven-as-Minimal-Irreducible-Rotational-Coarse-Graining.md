@@ -5,7 +5,7 @@ title: "TPD-00｜Seven as Minimal Irreducible Rotational Coarse-Graining: A Numb
 # Seven as Minimal Irreducible Rotational Coarse-Graining
 ## _A Number-Theoretic and Dynamical Formulation_
 
-👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_Seven_Architecture-Map.html)  
 
 ---
 

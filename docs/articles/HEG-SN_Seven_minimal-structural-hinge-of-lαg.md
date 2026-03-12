@@ -5,7 +5,7 @@ title_en: HEG-SN｜Toward a Minimal Structural Condition of Irreversibility
 ---
 # HEG-SN｜七だけが屈しない
 
-👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_Seven_Architecture-Map.html)  
 
 ## 不屈の動態学 A
 ### Toward a Minimal Structural Condition of Irreversibility

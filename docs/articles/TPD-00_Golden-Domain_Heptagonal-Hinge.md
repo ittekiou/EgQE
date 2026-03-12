@@ -6,7 +6,7 @@ subtitle: "TPD-00｜（Draft）The Golden Domain and the Heptagonal Hinge: Betwe
 # 黄金域と七角ヒンジの動態整理
 ## _(Golden Domain and the Heptagonal Hinge)_
 
-👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_Seven_Architecture-Map.html)  
 
 ---
 

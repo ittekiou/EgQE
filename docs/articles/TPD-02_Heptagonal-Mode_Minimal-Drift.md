@@ -6,7 +6,7 @@ title: TPD-02｜The Heptagonal Mode — Minimal Drift Structure
 ## The Heptagonal Mode
 ### — Minimal Drift Structure
 
-👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_Seven_Architecture-Map.html)  
 
 ---
 

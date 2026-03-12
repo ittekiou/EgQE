@@ -5,7 +5,7 @@ title: "TPD-00｜Tropotic lαg Axis: A Minimal Three-Layer Note"
 # Tropotic lαg Axis
 ## _A Minimal Three-Layer Note_
 
-👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_TPD_Seven-Architecture-Map.html)  
+👉 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_Seven_Architecture-Map.html)  
 
 ---
 
