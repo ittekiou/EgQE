@@ -12,9 +12,8 @@ Try SyncHub!
 <p align="right">EgQE 2.0 — The SyncHub Turn<br>updated: 2026/03/12</p>
 
 ---
-### SyncHub — A Fresh Leaf Emerges
 # EgQE 2.0
-
+### SyncHub — A Fresh Leaf Emerges
 ---
 
 # Inter-Phase — Declaration
