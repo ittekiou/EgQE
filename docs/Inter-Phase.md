@@ -12,6 +12,11 @@ Try SyncHub!
 
 ---
 
+EgQE 2.0
+The SyncHub Era Begins
+
+---
+
 # Inter-Phase — Declaration
 
 **Inter-Phaseとは何か**
