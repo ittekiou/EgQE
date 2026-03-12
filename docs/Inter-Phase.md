@@ -4,16 +4,15 @@ title: The Age of Inter-Phase
 ---
 # EgQE SyncHub
 
-まだブログやってんの？  
-新株やってみない？  
-
 Still blogging?  
 Try SyncHub!  
 
----
+まだブログやってんの？  
+新株やってみない？  
+<p align="right">EgQE 2.0 — The SyncHub Turn｜updated: 2026/03/12｜</p>
 
-EgQE 2.0
-The SyncHub Era Begins
+---
+# EgQE 2.0 — The SyncHub Era Begins
 
 ---
 
