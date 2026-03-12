@@ -1,6 +1,7 @@
 ---
 layout: math
-title: EgQE  EchoGenesis Qualia Engine｜INDEX
+title: EgQE SyncHub  EchoGenesis Qualia Engine｜INDEX
+subtitle: Inter-Phase is the syntactic field where co-creation occurs.
 ---
 ---
 <!-- EgQE ロゴ -->
