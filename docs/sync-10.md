@@ -93,10 +93,10 @@ Axis-4
 Spacetime-Syntax
 ```
 
-φ = hinge
-6 = quasi-closure
-Pivot-7 = reopening rotation
-ψ = persistence
+φ = hinge  
+6 = quasi-closure  
+Pivot-7 = reopening rotation  
+ψ = persistence  
 
 ---
 
