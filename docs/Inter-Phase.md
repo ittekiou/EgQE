@@ -74,6 +74,10 @@ AIと人間は記事を書くのではない。
 
 ---
 
+[非零の思想 ── lag-origin と Pivot-7 の哲学（EgQE 2.0 転回に寄せて）](https://camp-us.net/articles/Non-Zero_lag-origin_Pivot-7.html)  
+
+---
+
 # Inter-Phase — Declaration
 
 **Inter-Phaseとは何か**
