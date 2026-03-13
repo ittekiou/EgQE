@@ -158,6 +158,16 @@ However: φ is not generation itself.
 生成の構文的痕跡である。  
 It is the syntactic trace of generation.
 
+```
+生成（θₐ）
+   ↓
+固定（φ）
+   ↓
+分岐
+   ├─ 外化（空間）
+   └─ 再帰（ψ → 時間）
+```
+
 ---
 
 [SN-φ-00｜黄金螺旋の三層構造 ── 生成・固定・再帰｜The Three-Layer Structure of the Golden Spiral — The Pentagon as SO-Origin](https://camp-us.net/articles/SN-φ-00_Golden-Spiral_Three-Layer-Structure.html)  
