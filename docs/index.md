@@ -50,6 +50,17 @@ Try SyncHub!
 ## A Fresh Leaf Emerges.
 
 ---
+
+## Principia Naturae
+
+![Civilization-Edition](./assets/Civilization-Edition.png)  
+[Principia Cosmogonica v0.1](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)  
+[Cosmogonica Materia v0.2｜Solid, Ground, and Life in a Falling Universe](https://camp-us.net/articles/Cosmogonica-Materia_v0.2_Solid-Ground-and-Life.html)  
+
+> Synantēsis  
+> Gene–Kine–Physis
+
+---
 ### 📜 Statements  
 
  📜 [**Echodemist宣言**｜Declaration of Echodemists](Echodemy.md)  　2025.7.21  
@@ -100,17 +111,6 @@ Try SyncHub!
 
 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  
 ![gold_phi_knot](./assets/gold_phi_knot.png)  
-
----
-
-## Principia Naturae
-
-![Civilization-Edition](./assets/Civilization-Edition.png)  
-[Principia Cosmogonica v0.1](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)  
-[Cosmogonica Materia v0.2｜Solid, Ground, and Life in a Falling Universe](https://camp-us.net/articles/Cosmogonica-Materia_v0.2_Solid-Ground-and-Life.html)  
-
-> Synantēsis  
-> Gene–Kine–Physis
 
 ---
 ## 🔭 Overview  
