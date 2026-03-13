@@ -114,6 +114,26 @@ orbit
 three-body instability
 ```
 
+重力を空間の曲率として理解する立場もある。しかし本稿では、より基本的な現象として自由落下と関係構造に着目する。
+
+**落下と支え。  
+不一致 lag の非同期平衡。**
+
+宇宙において運動の基底にあるのは落下である。  
+支えは先に存在するのではなく、落下の中で関係的に現れる。
+
+二体が互いを局所化するとき、そこには完全な一致は存在しない。
+
+必ず **lag の不一致** が残る。
+
+この不一致が持続するとき、系は崩壊することなく安定する。
+
+軌道とは
+
+> **不一致 lag が維持する非同期平衡**
+
+である。
+
 ---
 
 ## Two-Body Relational Outcomes
@@ -324,6 +344,27 @@ lag_S ≠ lag_O
 ---
 
 ### Relational Interpretation
+
+Binary stars represent symmetric equilibrium and occur relatively frequently among stellar systems.  
+However, in the broader population of gravitational systems, asymmetric bound orbits dominate.  
+Thus symmetric equilibrium is a special case of relational stabilization, while asymmetric equilibrium represents the generic form of orbital structure.
+
+連星系は **対称平衡（symmetric equilibrium）** を表す構造であり、恒星系においては比較的よく見られる。  
+しかし、重力系全体を広く見れば、支配的なのは **非対称的な束縛軌道（asymmetric bound orbit）** である。
+
+したがって、対称平衡は関係的安定化の **特殊な場合** にすぎず、非対称平衡こそが軌道構造の **一般的形態** を表している。
+
+As systems grow larger, lag accumulates as relational traces.  
+Yet relative lag becomes smaller with respect to the scale of the system.  
+Large gravitational systems therefore appear more stable, even though non-closure persists.
+
+系のスケールが大きくなるにつれて、lag は関係の痕跡として蓄積していく。  
+しかし同時に、系の規模に対する **相対的な lag** は小さくなる。
+
+その結果、大規模な重力系はより安定しているように見える。  
+それでもなお、**非閉包性そのものが消えるわけではない。**
+
+---
 
 逃走軌道は 関係安定化の失敗であり、衝突は 関係局所化の崩壊である。
 
