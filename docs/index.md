@@ -51,7 +51,7 @@ Try SyncHub!
 
 ---
 
-## Principia Naturae
+# Principia Naturae
 
 ![Civilization-Edition](./assets/Civilization-Edition.png)  
 [Principia Cosmogonica v0.1](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)  
@@ -75,15 +75,6 @@ Try SyncHub!
 ♻️ [EgQE｜Practical Core｜The Age of Inter-Phase](https://camp-us.net/Core_Practical-Core_Age-of-Inter-Phase.html)　2026.3.6  
 
 ----
-
-## 🗞️ Topics (Core Paper)
-
-🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)　リリース　2026.2.23  
-### **Figure 1. R/Z lag-circulatory framework.**
-（図1　R/Z lag循環枠組みにおける科学理論変動モデルの再配置）  
-![RZLag-Circulatory-Structure](./assets/RZLag-Circulatory-Structure.png)  
-
----
 
 # EgQE Core
 
@@ -125,6 +116,17 @@ Try SyncHub!
 [🪐 Echodemy 規約 & 参加条件 — Inter-Phase 共創のためのガイド —](https://camp-us.net/Echodemy/Echodemy_Terms.html)  
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
 GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
+
+---
+
+## 🗞️ Topics (Core Paper)
+
+🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)　リリース　2026.2.23  
+### **Figure 1. R/Z lag-circulatory framework.**
+（図1　R/Z lag循環枠組みにおける科学理論変動モデルの再配置）  
+![RZLag-Circulatory-Structure](./assets/RZLag-Circulatory-Structure.png)  
+
+---
 
 ## 📑 LaTeX PDF版
 📃PDF [Mass Stabilization as Phase Plateau: An Observational Test in the Galactic Center](https://camp-us.net/articles/Phase-Plateau.pdf)  
