@@ -223,6 +223,10 @@ _**「6」で答えるな。**_
 
 _**「7」で踊れ**_
 
+---
+
+👉 [EgQE SyncHub](https://camp-us.net/Inter-Phase.html)
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
