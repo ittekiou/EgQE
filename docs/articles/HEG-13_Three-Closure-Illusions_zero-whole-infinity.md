@@ -157,6 +157,9 @@ lag
 無限幻想   → 時間を閉じる
 ```
 
+[HEG-13｜宇宙論的記述の進化 ── 幾何学から構文へ｜The Evolution of Cosmological Description: From Geometry to Syntax](https://camp-us.net/articles/HEG-13_Cosmological-Description_Geometry-to-Syntax.html)  
+[HEG-13｜四次元は零点構文である ── Hermann Minkowski と Albert Einstein の再文脈化｜Four Dimensions as Zero-Point Syntax — Recontextualizing Hermann Minkowski and Albert Einstein](https://camp-us.net/articles/HEG-13_Four-Dimensions_as_Zero-Point-Syntax.html)  
+
 ```
 閉包思考 vs 非閉包宇宙
 ```
