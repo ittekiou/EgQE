@@ -100,6 +100,10 @@ Try SyncHub!
 [宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)  
 [Principia Cosmogonica (v0.1)｜宇宙生成原論](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)  
 
+---
+
+# Golden Knot｜黄金環 φ
+
 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  
 ![gold_phi_knot](./assets/gold_phi_knot.png)  
 
@@ -143,6 +147,8 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 📃PDF [Structural Non-Closure in the Riemann Hypothesis: Finite Observability versus Global Control](https://camp-us.net/articles/Non-Closure-RH.pdf)  
 📃PDF [Why the Riemann Hypothesis Takes the Form It Does— Prime Defects, Analytic Projection, and Stability on the Critical Line](https://camp-us.net/articles/rh_form_prime_defects_v1_0.pdf)  
 📃PDF [Generative Non-Closure and the Emergence of Re(s)=1/2— Non-Recoverable Traces in Prime Generation (v1.1)](https://camp-us.net/articles/res12_v11.pdf)  
+
+---
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
