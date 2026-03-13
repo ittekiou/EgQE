@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [ZS-023_宇宙ビリヤードの隣人問題 ── DART衝突実験と軌道という局所現象](https://camp-us.net/critics/ZS-023_DART.html)  
 [ZS-024_宇宙はズレで読まれる ── JASMINEと位置天文学の復活](https://camp-us.net/critics/ZS-024_JASMINE_astrometry.html)  
 [HEG-11｜宇宙には局所しかない ──Neighbor Interaction Cosmology](https://camp-us.net/articles/HEG-11_Neighbor-Interaction-Cosmology.html)  
+[HEG-13｜三つの閉包幻想── 零点・全体・無限](https://camp-us.net/articles/HEG-13_Three-Closure-Illusions_zero-whole-infinity.html)  
 ###### 2026/03/12  
 [EgQE｜Seven-Core｜Seven Architecture Map: Structural Organization of the Heptagonal Hinge](https://camp-us.net/articles/Core_Seven_Architecture-Map.html)  
 [踊り場003｜2ヶ月の歩み｜2025/12/22–2026/02/21 ── 更新は止まらない。ただ、黄金域が呼吸域として立ち上がっただけだ。](https://camp-us.net/stair_landing-003.html)  
