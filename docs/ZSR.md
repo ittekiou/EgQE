@@ -26,6 +26,9 @@
 
 [ZS-021_理想非結晶──秩序はどこに宿るのか](https://camp-us.net/critics/ZS-021_Ideal-non-crystals.html)  
 [ZS-022_構文の射程 ──なぜ single-minus はゼロとされ、なぜ非ゼロが現れたのか](https://camp-us.net/critics/ZS-022_Single-minus_nonzero.html)  
+[ZS-023_宇宙ビリヤードの隣人問題 ── DART衝突実験と軌道という局所現象](https://camp-us.net/critics/ZS-023_DART.html)  
+[ZS-024_宇宙はズレで読まれる ── JASMINEと位置天文学の復活](https://camp-us.net/critics/ZS-024_JASMINE_astrometry.html)  
+
 
 ---
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
