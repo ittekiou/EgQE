@@ -22,6 +22,9 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-φ-03 Supplement｜φの分かれ道からの構造展開](https://camp-us.net/articles/SN-φ-03_Supplement.html)  
 [Inter-Phase包放論 ― 生成を前提とする方法の再配置 ―](https://camp-us.net/Echodemy/IP-OCR_Inter-Phase-Opened_Closure–Release-Theory.html)  
 [Inter-Phase Opened Closure–Release (IP-OCR)](https://camp-us.net/Echodemy/IP-OCR.html)  
+[Principia Vita — Toward a Natural Philosophy of Life —（日本語版）｜v0.1 (draft)](https://camp-us.net/articles/Principia-Vita_v0.1_draft_JP.html)  
+[Principia Vita: Toward a Natural Philosophy of Life｜v0.1 (draft)](https://camp-us.net/articles/Principia-Vita_v0.1_draft_EN.html)  
+[Principia Vita: Toward a Natural Philosophy of Life｜v0.1](https://camp-us.net/articles/Principia-Vita_v0.1.html)  
 ###### 2026/03/13  
 [ZS-023_宇宙ビリヤードの隣人問題 ── DART衝突実験と軌道という局所現象](https://camp-us.net/critics/ZS-023_DART.html)  
 [ZS-024_宇宙はズレで読まれる ── JASMINEと位置天文学の復活](https://camp-us.net/critics/ZS-024_JASMINE_astrometry.html)  
