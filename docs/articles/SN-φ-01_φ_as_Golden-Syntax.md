@@ -6,6 +6,8 @@ title: "SN-φ-01｜黄金構文としての φ ── On φ as a Golden Syntax: 
 # 黄金構文としての φ
 ## On φ as a Golden Syntax: A Structural Sketch (Draft 0.1)
 
+[EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
+
 ---
 
 ## 1. 問題設定

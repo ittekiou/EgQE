@@ -6,6 +6,8 @@ title: "SN-φ｜The Non-Closure Syntax of Space and Time — From lαg to φ: A 
 # **The Non-Closure Syntax of Space and Time**  
 ## _From lαg to φ: Generative Bifurcation and Structural Asymmetry_
 
+[EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
+
 ---
 
 ## Abstract 

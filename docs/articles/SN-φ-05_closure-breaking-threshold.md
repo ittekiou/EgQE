@@ -9,6 +9,8 @@ title: SN-φ-05｜Z₀ ── 閉包を破断する閾（φ/πズレの一般理
 [SN-φ-06｜SO lαg 基底構文図（SN-φ 三部作・完結図式編）](https://camp-us.net/articles/SN-φ-06_SO-lag-syntax-diagram.html)  
 [SN-φ｜The Non-Closure Syntax of Space and Time — From lαg to φ: From lαg to φ: Generative Bifurcation and Structural Asymmetry](https://camp-us.net/articles/SN-φ_Non-Closure-Syntax_of_Space-Time.html)  
 
+[EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
+
 ---
 
 ## 0｜問い

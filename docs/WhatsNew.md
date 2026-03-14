@@ -17,6 +17,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/14  
+[SN-φ-03 Draft note｜果てなき旅路への分かれ道：φ](https://camp-us.net/articles/SN-φ-03_note_SO-Ratios_R-Z-Dual-Structure.html)  
 ###### 2026/03/13  
 [ZS-023_宇宙ビリヤードの隣人問題 ── DART衝突実験と軌道という局所現象](https://camp-us.net/critics/ZS-023_DART.html)  
 [ZS-024_宇宙はズレで読まれる ── JASMINEと位置天文学の復活](https://camp-us.net/critics/ZS-024_JASMINE_astrometry.html)  

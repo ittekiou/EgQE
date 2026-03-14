@@ -9,6 +9,7 @@ title_en: SN-φ-00｜The Three-Layer Structure of the Golden Spiral — The Pent
 ## — The Pentagon as SO-Origin
 
 [GS-φ｜黄金構文としての φ ── φ as a Golden Syntax (Draft 0.1)JP/EN](https://camp-us.net/GS-φ_Golden-Syntax_Draft_0.1.html)  
+[EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
 
 ---
 

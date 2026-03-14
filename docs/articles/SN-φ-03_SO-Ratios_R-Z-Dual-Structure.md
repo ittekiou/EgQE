@@ -12,6 +12,8 @@ title_en: "SN-φ-03｜The R/Z Dual Structure of SO Ratios: Between Continued Fra
 [SN-φ-06｜SO lαg 基底構文図（SN-φ 三部作・完結図式編）](https://camp-us.net/articles/SN-φ-06_SO-lag-syntax-diagram.html)  
 [SN-φ｜The Non-Closure Syntax of Space and Time — From lαg to φ: From lαg to φ: Generative Bifurcation and Structural Asymmetry](https://camp-us.net/articles/SN-φ_Non-Closure-Syntax_of_Space-Time.html)  
 
+[EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
+
 ---
 
 ### Abstract
@@ -240,6 +242,12 @@ Z₀が呼ばなければ、抱擁は始まらない。
 **φは、分かれ道として続く。**
 
 ### ──**果てなき旅路への分かれ道：φ**
+
+👉 [SN-φ-03 Draft note｜果てなき旅路への分かれ道：φ](https://camp-us.net/articles/SN-φ-03_note_SO-Ratios_R-Z-Dual-Structure.html)  
+
+---
+
+[EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

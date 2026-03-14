@@ -9,6 +9,8 @@ title_en: SN-φ-02｜φ as the Syntactic Trace of Generative Golden-Angle Motion
 ### ── SO多角形起点としての五角形
 ### ── The Pentagon as the Structural Origin of SO-Polygons
 
+[EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
+
 ---
 
 ## 0. 補助命題 / Preliminary Proposition
