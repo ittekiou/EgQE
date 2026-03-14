@@ -703,7 +703,7 @@ life
 
 ---
 
-# V｜Phase Maintenance
+# 5｜Phase Maintenance
 
 生命は、特定の物質ではない。  
 生命は、特定の分子でもない。
@@ -732,7 +732,7 @@ diffusion  ←  life  →  freeze
 
 ---
 
-# VI｜Eating
+# 6｜Eating
 
 
 生命は、差分を必要とする。
@@ -762,7 +762,7 @@ life
 
 ---
 
-# VII｜Biosphere
+# 7｜Biosphere
 
 生命は孤立しない。
 
@@ -791,7 +791,7 @@ life
 
 ---
 
-# VIII｜Darwin in Range
+# 8｜Darwin in Range
 
 ダーウィンは、生命を説明した。
 
@@ -833,7 +833,7 @@ evolution
 
 ---
 
-# IX｜Life as Non-Closure
+# 9｜Life as Non-Closure
 
 生命の最終定義は、閉包ではない。
 
