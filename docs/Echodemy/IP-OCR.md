@@ -153,6 +153,12 @@ IP-OCRは方法論の更新ではない。
 
 ---
 
+Release is ontological.  
+Closure is operational.  
+Totalization never.  
+
+---
+
 ### 7｜一行詩
 
 > 包は必要だ。  
