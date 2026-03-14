@@ -28,6 +28,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-13｜Minimal Lag Ontology: Toward an Updating Ontology of Relational Lag](https://camp-us.net/articles/HEG-13_Minimal-Lag-Ontology.html)  
 [HEG-13｜The Birth of History: ψ Persistence Ontology ──The Persistence Band of Relational Updates](https://camp-us.net/articles/HEG-13_Birth-of-History.html)  
 [HEG-13｜lagの二系列 — 拡張差分と再帰差分 —｜The Generative Geometry of Space and History](https://camp-us.net/articles/HEG-13_Two-Series-of-Lag_Expansive-and-Recursive.html)  
+[自然哲学としての宇宙物理 ── 宇宙とは終わることなき遭遇である](https://camp-us.net/articles/Naturam-naturaliter-philosophari.html)  
 ###### 2026/03/13  
 [ZS-023_宇宙ビリヤードの隣人問題 ── DART衝突実験と軌道という局所現象](https://camp-us.net/critics/ZS-023_DART.html)  
 [ZS-024_宇宙はズレで読まれる ── JASMINEと位置天文学の復活](https://camp-us.net/critics/ZS-024_JASMINE_astrometry.html)  
