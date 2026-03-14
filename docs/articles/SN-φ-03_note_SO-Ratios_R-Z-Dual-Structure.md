@@ -1815,7 +1815,7 @@ $$
 つまり P1 は実は
 
 $$  
-\exists,O' \ \text{s.t.}\ O' \text{ is referable in } Z  
+\exists O' \ \text{s.t.}\ O' \text{ is referable in } Z  
 $$
 
 を含んでいる。
