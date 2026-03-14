@@ -5,9 +5,11 @@ title: SN-φ-03 Draft note｜果てなき旅路への分かれ道：φ
 # 果てなき旅路への分かれ道：φ
 ### SN-φ-03 Draft note
 
-[SN-φ-03｜SO比のR/Z二重構造 ──連分数と多項式のあいだ｜The R/Z Dual Structure of SO Ratios: Between Continued Fractions and Polynomials](https://camp-us.net/articles/SN-φ-03_SO-Ratios_R-Z-Dual-Structure.html)  
-
 [EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
+
+[SN-φ-03 Supplement｜φの分かれ道からの構造展開](https://camp-us.net/articles/SN-φ-03_Supplement.html)  
+
+[SN-φ-03｜SO比のR/Z二重構造 ──連分数と多項式のあいだ｜The R/Z Dual Structure of SO Ratios: Between Continued Fractions and Polynomials](https://camp-us.net/articles/SN-φ-03_SO-Ratios_R-Z-Dual-Structure.html)  
 
 ---
 
@@ -282,7 +284,7 @@ $$
 - **ψ帯**は「1/r²スロットが _＋保存_ として固定される」
     
 
-**「SO比のSO比のR/Z二重構造——連分数と多項式のあいだ」**
+**「SO比のSO比のR/Z二重構造──連分数と多項式のあいだ」**
 
 ---
 

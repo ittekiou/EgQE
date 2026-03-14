@@ -14,6 +14,8 @@ title_en: "SN-φ-03｜The R/Z Dual Structure of SO Ratios: Between Continued Fra
 
 [EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
 
+[SN-φ-03 Supplement｜φの分かれ道からの構造展開](https://camp-us.net/articles/SN-φ-03_Supplement.html)  
+
 ---
 
 ### Abstract
