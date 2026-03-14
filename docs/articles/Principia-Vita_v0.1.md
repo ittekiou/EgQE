@@ -505,6 +505,11 @@ Life appears where matter, ground, and encounter persist together.
 
 ---
 
+[Principia Vita: Toward a Natural Philosophy of Life｜v0.1 (draft)](https://camp-us.net/articles/Principia-Vita_v0.1_draft_EN.html)  
+[Principia Vita — Toward a Natural Philosophy of Life —（日本語版）｜v0.1 (draft)](https://camp-us.net/articles/Principia-Vita_v0.1_draft_JP.html)  
+
+---
+
 # Principia Vita
 
 ## 生命の自然哲学に向けて
