@@ -30,7 +30,83 @@ Echodemyの探索は、φを起点ではなく**分岐点**として再定位す
 
 ---
 
-# SN-φ-03 Draft note
+# **SO比のR/Z二重構造 — 分岐点ノート**
+
+本ノートは、SN-φ-03「SO比のR/Z二重構造 ──連分数と多項式のあいだ」の検討過程で残された補助記録である。
+
+当初は論文の内部メモとして整理されたが、結果的にここには、R/Z二重構造が明確化される瞬間の思考過程が記録されている。
+
+SN-φ-03本論では、SO比の構文構造が  
+**連分数的展開（relation / ratio）** と  
+**多項式的閉包（equation）**  
+のあいだに位置することが示された。
+
+しかし、このノートにおいて重要なのは、単なる数理的整理ではなく、次の区別が明確になった点である。
+
+- **R（relation / ratio）**  
+    非閉包的関係展開
+    
+- **Z（closure / equation）**  
+    閉包構造としての固定
+    
+
+この区別は、その後の研究において
+
+- Z₀（閉包破断閾）
+    
+- Φ/Ψ分離
+    
+- 空間と時間の構文的派生
+    
+
+といった構造的展開の基礎となった。
+
+したがって本ノートは、SN-φ系列の補助資料であると同時に、**R/Z構文が明確に意識された分岐点の記録** として位置づけられる。
+
+> この時点で、数学的形式は単なる計算技術ではなく、**存在の構文型として再分類される可能性を示した。**
+
+ここに、その記録をそのまま公開しておく。
+
+---
+
+## SN-φ-03 Note
+
+**The R/Z Dual Structure of SO Ratios — A Turning Log**
+
+This note was originally written as a working memorandum during the preparation of SN-φ-03, _“The R/Z Dual Structure of SO Ratios: Between Continued Fractions and Polynomials.”_
+
+Although initially intended as an internal note, it records the moment when the R/Z dual structure became conceptually explicit.
+
+In SN-φ-03, SO ratios were positioned between two mathematical modes:
+
+- **continued-fraction expansion** (relation / ratio)
+    
+- **polynomial closure** (equation)
+    
+
+The key insight emerging in this note is the structural distinction between:
+
+- **R (relation / ratio)** — non-closed relational expansion
+    
+- **Z (closure / equation)** — fixed structural closure
+    
+
+This distinction later became the basis for several developments, including:
+
+- the concept of **Z₀** as a closure-breaking threshold
+    
+- the **Φ/Ψ differentiation**
+    
+- the syntactic derivation of **space and time**
+    
+
+For this reason, the present note is published not merely as a supplement to SN-φ-03, but as a **record of the turning point where the R/Z structure first crystallized**.
+
+> At this point, mathematical form began to appear not merely as a computational device, but as a **syntactic type of existence**.
+
+---
+
+# SN-φ-03 Note
 
 ---
 
