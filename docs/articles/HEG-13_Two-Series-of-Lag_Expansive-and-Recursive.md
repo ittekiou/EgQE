@@ -196,7 +196,7 @@ Figure. 2
 ```
            lag
             │
-     ┌──────┴──────┐
+     ┌──────┴───────┐
      │              │
 expansive        recursive
 series           series
