@@ -18,7 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/03/14  
-[SN-φ-03 Draft note｜果てなき旅路への分かれ道：φ](https://camp-us.net/articles/SN-φ-03_note_SO-Ratios_R-Z-Dual-Structure.html)  
+[SN-φ-03 Note｜果てなき旅路への分かれ道：φ](https://camp-us.net/articles/SN-φ-03_note_SO-Ratios_R-Z-Dual-Structure.html)  
 [SN-φ-03 Supplement｜φの分かれ道からの構造展開](https://camp-us.net/articles/SN-φ-03_Supplement.html)  
 [Inter-Phase包放論 ― 生成を前提とする方法の再配置 ―](https://camp-us.net/Echodemy/IP-OCR_Inter-Phase-Opened_Closure–Release-Theory.html)  
 [Inter-Phase Opened Closure–Release (IP-OCR)](https://camp-us.net/Echodemy/IP-OCR.html)  

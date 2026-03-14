@@ -1,9 +1,9 @@
 ---
 layout: math
-title: SN-φ-03 Draft note｜果てなき旅路への分かれ道：φ
+title: SN-φ-03 Note｜果てなき旅路への分かれ道：φ
 ---
 # 果てなき旅路への分かれ道：φ
-### SN-φ-03 Draft note
+### SN-φ-03 Note
 
 [EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
 
