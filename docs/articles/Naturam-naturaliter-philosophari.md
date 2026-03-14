@@ -176,6 +176,15 @@ _The universe is an endless encounter._
 
 ![2500-YEARS_NATURAL-PHILOSOPHY](../assets/2500-YEARS_NATURAL-PHILOSOPHY.png)  
 
+Principia Cosmogonica
+lag → φ → space
+
+Principia Physica
+support → ground
+
+Principia Vita
+ψ → encounter → life → history
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
