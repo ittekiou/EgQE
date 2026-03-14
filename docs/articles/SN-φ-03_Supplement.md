@@ -92,7 +92,6 @@ SN-φ-03は、**比の数学から生成構文の宇宙論へ** 進むための 
 
 ![PRINCIPIA-NATURAE](../assets/PRINCIPIA-NATURAE.png)  
 
-
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
