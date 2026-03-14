@@ -301,7 +301,7 @@ lαg → α → φ
 
 4. **SN-φ-03 note**  
     φ＝生成ではなく **分岐点**  
-
+[SN-φ-03 Draft note｜果てなき旅路への分かれ道：φ](https://camp-us.net/articles/SN-φ-03_note_SO-Ratios_R-Z-Dual-Structure.html)  
 	
 5. **SN-φ-03**  
     SO比の R/Z 二重構造  
