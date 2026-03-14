@@ -131,7 +131,7 @@ For this reason, the present note is published not merely as a supplement to SN-
     
 - $1/r^2 = O'/S$（**未吸収の再参照**）
     
-- $1/r^3 = O''/S$（**さらに一段深い未吸収**）
+- $1/r^3 = O"/S$（**さらに一段深い未吸収**）
     
 
 ---
