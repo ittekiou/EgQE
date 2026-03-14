@@ -176,13 +176,13 @@ _The universe is an endless encounter._
 
 ![2500-YEARS_NATURAL-PHILOSOPHY](../assets/2500-YEARS_NATURAL-PHILOSOPHY.png)  
 
-Principia Cosmogonica
+Principia Cosmogonica  
 lag → φ → space
 
-Principia Physica
+Principia Physica  
 support → ground
 
-Principia Vita
+Principia Vita  
 ψ → encounter → life → history
 
 ----
