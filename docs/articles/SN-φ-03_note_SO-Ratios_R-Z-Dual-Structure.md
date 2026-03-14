@@ -108,6 +108,10 @@ For this reason, the present note is published not merely as a supplement to SN-
 
 # SN-φ-03 Note
 
+> This note records the moment when mathematical form ceased to appear merely as calculation and began to appear as a **syntactic mode of existence**.
+
+> The consequences of this shift would later lead to the syntactic derivation of **space and time from otherness**.
+
 ---
 
 # 共通：三層と辞書
