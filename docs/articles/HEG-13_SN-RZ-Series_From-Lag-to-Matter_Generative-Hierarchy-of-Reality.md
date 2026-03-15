@@ -141,6 +141,10 @@ lag（ΔR）
 重力 = 落下する宇宙（fall physics）
 ```
 
+### collision physics & fall physics
+
+![EMF-GRV](../assets/EMF-GRV.png)  
+
 ---
 
 ## 基盤論文
