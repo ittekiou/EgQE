@@ -66,7 +66,7 @@ Matter = Λ historical condensation
 
 ### 基礎論
 
-**[SN-RZ-01｜Real ΔR と Syntax ΔZ](https://camp-us.net/articles/SN-RZ-01_Real-R_Syntax-Z.html)** _実在と記述の二層構造について_
+**[SN-RZ-01｜Real ΔR と Syntax ΔZ](https://camp-us.net/articles/SN-RZ-01_Real-R_Syntax-Z.html)** 　_実在と記述の二層構造について_
 
 実在差分 ΔR と構文差分 ΔZ の基本区別を導入する。
 
@@ -76,13 +76,13 @@ Matter = Λ historical condensation
 
 ### 電磁場
 
-**[SN-EMF-01｜SO lagと電磁力](https://camp-us.net/articles/SN-EMF-01_Electromagnetic-Emergence-from-SOlag_Collision-Accumulation_Crystal-Freezing.html)** _衝突・蓄積・結晶凍結の生成系列_
+**[SN-EMF-01｜SO lagと電磁力](https://camp-us.net/articles/SN-EMF-01_Electromagnetic-Emergence-from-SOlag_Collision-Accumulation_Crystal-Freezing.html)** 　_衝突・蓄積・結晶凍結の生成系列_
 
 電磁力をSO lagの方向性固定から導出する。 正負の分岐、クーロン則、結晶凍結を一系列で記述。
 
 > 電磁力とは、衝突・抵抗・摩擦がSO lagを通じて蓄積された構文である。
 
-**[SN-RZ-EMF-01｜電磁場の構文起源](https://camp-us.net/articles/SN-RZ-EMF-01_Electromagnetic-Field_Syntactic-Origin.html)** _Real ΔR と Syntax ΔZ に基づく最小電磁場理論_
+**[SN-RZ-EMF-01｜電磁場の構文起源](https://camp-us.net/articles/SN-RZ-EMF-01_Electromagnetic-Field_Syntactic-Origin.html)** 　_Real ΔR と Syntax ΔZ に基づく最小電磁場理論_
 
 電磁場を ΔZ 構文場として再定義。 保存則 Tr(ΔZ・W)=0 のもとで秩序生成を記述。
 
@@ -92,13 +92,13 @@ Matter = Λ historical condensation
 
 ### 重力場
 
-**[SN-GRV-01｜SO lagと重力](https://camp-us.net/articles/SN-GRV-01_Gravitational-Emergence-from-SOlag_Fall-Support_Orbital-Structure.html)** _落下・支え・軌道構造の生成系列_
+**[SN-GRV-01｜SO lagと重力](https://camp-us.net/articles/SN-GRV-01_Gravitational-Emergence-from-SOlag_Fall-Support_Orbital-Structure.html)** 　_落下・支え・軌道構造の生成系列_
 
 重力をlag勾配の空間的再配分として記述。 落下・支え・軌道を一系列で導出。
 
 > 重力は、落下の持続から生まれる。
 
-**[SN-RZ-GRV-01｜重力場の持続幾何](https://camp-us.net/articles/SN-RZ-GRV-01_Gravitational-Field-as-Persistence-Geometry.html)** _ψ場に基づく最小重力理論_
+**[SN-RZ-GRV-01｜重力場の持続幾何](https://camp-us.net/articles/SN-RZ-GRV-01_Gravitational-Field-as-Persistence-Geometry.html)** 　_ψ場に基づく最小重力理論_
 
 重力を ψ 持続幾何として再定義。 時空曲率を持続する相互作用ネットワークの幾何構造として理解。
 
@@ -108,7 +108,7 @@ Matter = Λ historical condensation
 
 ### 物質
 
-**[SN-RZ-MTR-01｜物質の履歴凝縮](https://camp-us.net/articles/SN-RZ-MTR-01_Matter-as-Historical-Condensation.html)** _Λ場に基づく最小物質生成理論_
+**[SN-RZ-MTR-01｜物質の履歴凝縮](https://camp-us.net/articles/SN-RZ-MTR-01_Matter-as-Historical-Condensation.html)** 　_Λ場に基づく最小物質生成理論_
 
 物質を Λ 履歴場の凝縮として再定義。 粒子・結晶を長期的相互作用履歴の安定化形態として理解。
 
