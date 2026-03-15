@@ -244,6 +244,13 @@ lagは二つの方向を持つ。
 
 **宇宙とは、lagの差分の二系列が重なり合いながら出会い続ける場である。**
 
+---
+
+[自然哲学としての宇宙物理 ── 宇宙とは終わることなき遭遇である](https://camp-us.net/articles/Naturam-naturaliter-philosophari.html)  
+
+[HEG-13｜Minimal Lag Ontology: Toward an Updating Ontology of Relational Lag](https://camp-us.net/articles/HEG-13_Minimal-Lag-Ontology.html)  
+[HEG-13｜The Birth of History: ψ Persistence Ontology ──The Persistence Band of Relational Updates](https://camp-us.net/articles/HEG-13_Birth-of-History.html)  
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  

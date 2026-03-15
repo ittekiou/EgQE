@@ -481,6 +481,55 @@ $$
 
 である。
 
+#### Lag–Ψ–Λ Persistence Diagram  
+```
+                R  (Relational Field)
+        ─────────────────────────────────
+
+                       lag
+                        ●
+                        │
+                        │  ΔW (relational update)
+                        ▼
+
+
+            ═══════════════════════
+                ψ Persistence Band
+            ═══════════════════════
+
+            ΔW₁ → ΔW₂ → ΔW₃ → ΔW₄
+
+            ordering stability
+            synchronization
+            localization
+            freezing
+
+
+                        │
+                        │ trace accumulation
+                        ▼
+
+
+                Λ  History Density
+
+            cumulative trace of updates
+
+
+                        │
+                        ▼
+
+
+                    Existence
+         (irreversible phase history)
+```
+
+---
+
+[自然哲学としての宇宙物理 ── 宇宙とは終わることなき遭遇である](https://camp-us.net/articles/Naturam-naturaliter-philosophari.html)  
+
+[HEG-13｜Minimal Lag Ontology: Toward an Updating Ontology of Relational Lag](https://camp-us.net/articles/HEG-13_Minimal-Lag-Ontology.html)  
+[HEG-13｜lagの二系列 — 拡張差分と再帰差分 —｜The Generative Geometry of Space and History](https://camp-us.net/articles/HEG-13_Two-Series-of-Lag_Expansive-and-Recursive.html)  
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
