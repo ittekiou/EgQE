@@ -24,6 +24,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-RZ-EMF-01｜電磁場の構文起源── Real ΔR と Syntax ΔZ に基づく最小電磁場理論](https://camp-us.net/articles/SN-RZ-EMF-01_Electromagnetic-Field_Syntactic-Origin.html)  
 [SN-RZ-GRV-01｜重力場の持続幾何── ψ場に基づく最小重力理論｜The Gravitational Field as a Persistence Geometry: A Minimal Theory of Gravity from the ψ Field](https://camp-us.net/articles/SN-RZ-GRV-01_Gravitational-Field-as-Persistence-Geometry.html)  
 [SN-RZ-MTR-01｜物質の履歴凝縮── Λ場に基づく最小物質生成理論｜Matter as Historical Condensation: A Minimal Theory of Matter Formation from the Λ Field](https://camp-us.net/articles/SN-RZ-MTR-01_Matter-as-Historical-Condensation.html)  
+[HEG-13｜SN-RZ Series｜実在・場・物質の生成系列｜From Lag to Matter: A Generative Hierarchy of Reality](https://camp-us.net/articles/HEG-13_SN-RZ-Series_From-Lag-to-Matter_Generative-Hierarchy-of-Reality.html)  
 ###### 2026/03/14  
 [SN-φ-03 Note｜果てなき旅路への分かれ道：φ](https://camp-us.net/articles/SN-φ-03_note_SO-Ratios_R-Z-Dual-Structure.html)  
 [SN-φ-03 Supplement｜φの分かれ道からの構造展開](https://camp-us.net/articles/SN-φ-03_Supplement.html)  
