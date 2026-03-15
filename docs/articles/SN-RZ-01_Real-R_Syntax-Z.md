@@ -200,14 +200,7 @@ AI
 
 ---
 
-[HEG-13｜lagの二系列 — 拡張差分と再帰差分 —｜The Generative Geometry of Space and History](https://camp-us.net/articles/HEG-13_Two-Series-of-Lag_Expansive-and-Recursive.html)  
-
-[SN-EMF-01｜SO lagと電磁力 ── 衝突・蓄積・結晶凍結の生成系列｜Electromagnetic Emergence from SO lag — Collision, Accumulation, and Crystal Freezing](https://camp-us.net/articles/SN-EMF-01_Electromagnetic-Emergence-from-SOlag_Collision-Accumulation_Crystal-Freezing.html)  
-[SN-GRV-01｜SO lagと重力 ── 落下・支え・軌道構造の生成系列｜Gravitational Emergence from SO lag — Fall, Support, and Orbital Structure](https://camp-us.net/articles/SN-GRV-01_Gravitational-Emergence-from-SOlag_Fall-Support_Orbital-Structure.html)  
-
-[SN-RZ-EMF-01｜電磁場の構文起源── Real ΔR と Syntax ΔZ に基づく最小電磁場理論](https://camp-us.net/articles/SN-RZ-EMF-01_Electromagnetic-Field_Syntactic-Origin.html)  
-[SN-RZ-GRV-01｜重力場の持続幾何── ψ場に基づく最小重力理論｜The Gravitational Field as a Persistence Geometry: A Minimal Theory of Gravity from the ψ Field](https://camp-us.net/articles/SN-RZ-GRV-01_Gravitational-Field-as-Persistence-Geometry.html)  
-[SN-RZ-MTR-01｜物質の履歴凝縮── Λ場に基づく最小物質生成理論｜Matter as Historical Condensation: A Minimal Theory of Matter Formation from the Λ Field](https://camp-us.net/articles/SN-RZ-MTR-01_Matter-as-Historical-Condensation.html)  
+[HEG-13｜SN-RZ Series｜実在・場・物質の生成系列｜From Lag to Matter: A Generative Hierarchy of Reality](https://camp-us.net/articles/HEG-13_SN-RZ-Series_From-Lag-to-Matter_Generative-Hierarchy-of-Reality.html)  
 
 ---
 

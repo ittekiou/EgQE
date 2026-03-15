@@ -265,7 +265,7 @@ lag
 
 [SN-GRV-01｜SO lagと重力 ── 落下・支え・軌道構造の生成系列｜Gravitational Emergence from SO lag — Fall, Support, and Orbital Structure](https://camp-us.net/articles/SN-GRV-01_Gravitational-Emergence-from-SOlag_Fall-Support_Orbital-Structure.html)  
 
-[HEG-13｜lagの二系列 — 拡張差分と再帰差分 —｜The Generative Geometry of Space and History](https://camp-us.net/articles/HEG-13_Two-Series-of-Lag_Expansive-and-Recursive.html)  
+[HEG-13｜SN-RZ Series｜実在・場・物質の生成系列｜From Lag to Matter: A Generative Hierarchy of Reality](https://camp-us.net/articles/HEG-13_SN-RZ-Series_From-Lag-to-Matter_Generative-Hierarchy-of-Reality.html)  
 
 ----
 **The Age of Inter-Phase**  
