@@ -270,6 +270,8 @@ Collision accumulation within ψ leads to Λ history and ultimately crystal free
 
 ---
 
+[SN-EMF-01｜SO lagと電磁力 ── 衝突・蓄積・結晶凍結の生成系列｜Electromagnetic Emergence from SO lag — Collision, Accumulation, and Crystal Freezing](https://camp-us.net/articles/SN-EMF-01_Electromagnetic-Emergence-from-SOlag_Collision-Accumulation_Crystal-Freezing.html)  
+
 [HEG-13｜SN-RZ Series｜実在・場・物質の生成系列｜From Lag to Matter: A Generative Hierarchy of Reality](https://camp-us.net/articles/HEG-13_SN-RZ-Series_From-Lag-to-Matter_Generative-Hierarchy-of-Reality.html)  
 
 ---

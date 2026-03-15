@@ -211,6 +211,8 @@ EgQE生成系列における物理対応は次の通りである。
 
 ---
 
+[SN-GRV-01｜SO lagと重力 ── 落下・支え・軌道構造の生成系列｜Gravitational Emergence from SO lag — Fall, Support, and Orbital Structure](https://camp-us.net/articles/SN-GRV-01_Gravitational-Emergence-from-SOlag_Fall-Support_Orbital-Structure.html)  
+
 [HEG-13｜SN-RZ Series｜実在・場・物質の生成系列｜From Lag to Matter: A Generative Hierarchy of Reality](https://camp-us.net/articles/HEG-13_SN-RZ-Series_From-Lag-to-Matter_Generative-Hierarchy-of-Reality.html)  
 
 ---

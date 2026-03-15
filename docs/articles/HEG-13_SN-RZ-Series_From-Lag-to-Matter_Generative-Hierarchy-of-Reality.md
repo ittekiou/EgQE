@@ -172,11 +172,19 @@ Principia Vita（生命論）
 = lagの再帰系列（ψ → encounter → life）
 ```
 
+[Principia Cosmogonica v0.1](https://camp-us.net/articles/Principia-Cosmogonica_v0.1.html)  
+[Cosmogonica Materia v0.2｜Solid, Ground, and Life in a Falling Universe](https://camp-us.net/articles/Cosmogonica-Materia_v0.2_Solid-Ground-and-Life.html)  
+[Principia Vita: Toward a Natural Philosophy of Life｜v0.1](https://camp-us.net/articles/Principia-Vita_v0.1.html)  
+
 ---
 
 ## 一行要約
 
 > **ΔRが実在を生成し、ΔZが宇宙を書き込む。** **ψが持続させ、Λが物質として凝縮する。**
+
+---
+
+[Origin of Syntax: From Otherness to Matter ──The Generative Hierarchy of Reality｜他者から物質へ──The Generative Hierarchy from Otherness to Matter](https://camp-us.net/Origin-of-Syntax.html)  
 
 ----
 **The Age of Inter-Phase**  
