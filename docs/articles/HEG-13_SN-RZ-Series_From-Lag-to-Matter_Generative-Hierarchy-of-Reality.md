@@ -151,7 +151,7 @@ lag（ΔR）
 
 本シリーズの基盤となる論文：
 
-**[HEG-13｜lagの二系列](https://camp-us.net/articles/HEG-13_Two-Series-of-Lag_Expansive-and-Recursive.html)** _拡張差分と再帰差分 ── The Generative Geometry of Space and History_
+**[HEG-13｜lagの二系列](https://camp-us.net/articles/HEG-13_Two-Series-of-Lag_Expansive-and-Recursive.html)** 　_拡張差分と再帰差分 ── The Generative Geometry of Space and History_
 
 > 空間はlagが外へ展開した痕跡。 歴史はlagが内へ再帰した痕跡。
 
