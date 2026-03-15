@@ -392,6 +392,8 @@ recursive lag → encounter → life
 
 [HEG-13｜SN-RZ Series｜実在・場・物質の生成系列｜From Lag to Matter: A Generative Hierarchy of Reality](https://camp-us.net/articles/HEG-13_SN-RZ-Series_From-Lag-to-Matter_Generative-Hierarchy-of-Reality.html)  
 
+[SN-00｜EgQE 四系列（Principia構造）](https://camp-us.net/articles/EgQE_lag-4.html)  
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
