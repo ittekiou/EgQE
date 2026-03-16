@@ -3,8 +3,8 @@ layout: math
 title: SN-LIF-02｜向きの進化と脳の誕生 ── orientation → future encounter → trace → memory → brain
 ---
 ### SN-LIF-02  動物の誕生
-## 向きの進化と脳の誕生
-### orientation → future encounter → trace → memory → brain
+# 向きの進化と脳の誕生
+## orientation → future encounter → trace → memory → brain
 
 ---
 
