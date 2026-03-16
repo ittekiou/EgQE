@@ -21,6 +21,9 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-FRC-01｜四つの基本相互作用と宇宙生成構文 ── ΔR → ΔZ → ψ → Λ｜The Four Fundamental Interactions as Generative Phases of Reality](https://camp-us.net/articles/SN-FRC-01_Four-Fundamental-Interactions.html)  
 [SN-SPC-01｜空間生成系列 ── lag → φ → pivot7 → Axis-4 → θα｜The Generative Sequence of Space](https://camp-us.net/articles/SN-SPC-01_Generative-Sequence-of-Space.html)  
 [SN-LIF-01｜再帰lagと生命生成 ── recursive lag → encounter → memory → life｜Recursive Lag and the Emergence of Life](https://camp-us.net/articles/SN-LIF-01_Emergence-of-Life.html)  
+[SN-LIF-02｜向きの進化と脳の誕生 ── orientation → future encounter → trace → memory → brain](https://camp-us.net/articles/SN-LIF-02_future-encounter-memory-brain.html)  
+[SN-LIF-03｜痕跡進化論 ── trace → history → evolution｜補論 ダーウィン再訪 ── 痕跡進化論から見た自然選択](https://camp-us.net/articles/SN-LIF-03_encounter-orientation-evolution.html)  
+[SN-LIF-AN-00｜動物論断章｜Animal Orientation](https://camp-us.net/articles/SN-LIF-AN-00_Animal-Orientation.html)  
 [SN-SOC-01｜記憶の外化と社会生成 ── memory → symbol → record → institution｜Externalization of Memory and the Emergence of Society](https://camp-us.net/articles/SN-SOC-01_Emergence-of-Society.html)  
 [SN-00｜EgQE 四系列（Principia構造）](https://camp-us.net/articles/EgQE_lag-4.html)  
 ###### 2026/03/15  

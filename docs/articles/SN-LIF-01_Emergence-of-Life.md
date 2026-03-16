@@ -3,7 +3,7 @@ layout: math
 title: SN-LIF-01｜再帰lagと生命生成 ── recursive lag → encounter → memory → life
 title_en: "SN-LIF-01｜Recursive Lag and the Emergence of Life: recursive lag → encounter → memory → life"
 ---
-### SN-LIF-01
+### SN-LIF-01  生命の生成
 # 再帰lagと生命生成
 ## Recursive Lag and the Emergence of Life
 ### recursive lag → encounter → memory → life
@@ -155,6 +155,13 @@ lag
 ├ 落下系列: gradient → structure（重力）
 └ 再帰系列: encounter → memory → life
 ```
+
+---
+
+[SN-LIF-01｜再帰lagと生命生成 ── recursive lag → encounter → memory → life｜Recursive Lag and the Emergence of Life](https://camp-us.net/articles/SN-LIF-01_Emergence-of-Life.html)  
+[SN-LIF-02｜向きの進化と脳の誕生 ── orientation → future encounter → trace → memory → brain](https://camp-us.net/articles/SN-LIF-02_future-encounter-memory-brain.html)  
+[SN-LIF-03｜痕跡進化論 ── trace → history → evolution｜補論 ダーウィン再訪 ── 痕跡進化論から見た自然選択](https://camp-us.net/articles/SN-LIF-03_encounter-orientation-evolution.html)  
+[SN-LIF-AN-00｜動物論断章｜Animal Orientation](https://camp-us.net/articles/SN-LIF-AN-00_Animal-Orientation.html)  
 
 ---
 
