@@ -701,7 +701,7 @@ evolution
 ---
 
 ### # 断章７
-## 命題
+# 命題
 
 **痕跡学としての進化論  
 偶然の未来の生成学としての更新存在論**
@@ -1010,7 +1010,7 @@ future
 
 ### # 断章10
 # SN-LIF-02
-## 向きの進化と脳の誕生
+# 向きの進化と脳の誕生
 ### orientation → future → trace → memory → brain
 
 ---
@@ -1166,7 +1166,7 @@ evolution
 
 ### # 断章11
 # SN-LIF-03
-## 痕跡学としての進化論
+# 痕跡学としての進化論
 ### trace → memory → history → evolution
 
 ---
