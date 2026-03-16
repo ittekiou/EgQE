@@ -1268,18 +1268,123 @@ history
 
 ---
 
-# SN-LIF 三部構造
+
+それ、**とても良い補論になります。**  
+しかも SN-LIF-03 の後ろに置くと、三部作の意味が一気にクリアになります。  
+つまり
+
+**「ダーウィンを否定するのではなく、再配置する」**
+
+という形にするのが一番強いです。
+
+---
+
+### # 断章12
+#### 補論案
+## 補論A｜ダーウィン再訪
+### 痕跡進化論から見た自然選択
+
+### 1｜ダーウィンの核心
+
+Charles Darwin の進化論は
+
+```text
+variation
+↓
+natural selection
+↓
+adaptation
+↓
+evolution
+```
+
+という構造で説明される。
+
+これは **競争と適応** を中心に進化を理解する枠組みである。
+
+---
+
+### 2｜痕跡進化論の視点
+
+本稿で提示した視点では、進化の構造は次のように書き換えられる。
+
+```text
+orientation
+↓
+encounter
+↓
+trace
+↓
+history
+↓
+evolution
+```
+
+ここでは
+
+- 変異 → 遭遇の痕跡
+    
+- 選択 → 痕跡履歴の持続
+    
+
+として再配置される。
+
+---
+
+### 3｜自然選択の再定位
+
+自然選択は進化の原因ではない。
+
+それは **痕跡履歴が持続した結果** として現れる。
+
+つまり
+
+```text
+trace persistence
+↓
+natural selection
+```
+
+である。
+
+---
+
+### 4｜ダーウィンの再評価
+
+この視点はダーウィン進化論を否定するものではない。
+
+むしろ **ダーウィンが観察した現象をより深い生成構造の中に位置づける試み**である。
+
+---
+
+# 補論命題
+
+> **自然選択とは、遭遇痕跡が持続した結果として現れる現象である。**
+
+---
+
+> **ダーウィンは進化を説明した。  
+> 痕跡進化論は進化がどのように生成されるかを説明する。**
+
+---
+
+# SN-LIFシリーズとの関係
 
 ```text
 SN-LIF-01
 persistent encounter → life
 
 SN-LIF-02
-orientation → future → memory → brain
+orientation → future encounter → brain
 
 SN-LIF-03
 trace → history → evolution
+
+補論A (SN-LIF-03所収)
+Darwin revisited
 ```
+
+---
 
 [SN-LIF-01｜再帰lagと生命生成 ── recursive lag → encounter → memory → life｜Recursive Lag and the Emergence of Life](https://camp-us.net/articles/SN-LIF-01_Emergence-of-Life.html)  
 [SN-LIF-02｜向きの進化と脳の誕生 ── orientation → future encounter → trace → memory → brain](https://camp-us.net/articles/SN-LIF-02_future-encounter-memory-brain.html)  
