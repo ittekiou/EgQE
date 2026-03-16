@@ -1287,6 +1287,148 @@ trace → history → evolution
 
 ---
 
+# 1 一本の生成系列としての三部作
+
+```text
+persistent encounter
+↓
+life
+↓
+orientation
+↓
+future encounter
+↓
+trace
+↓
+memory
+↓
+brain
+↓
+history
+↓
+evolution
+```
+
+**宇宙 → 生命 → 動物 → 脳 → 進化** という **非常に自然な階層**。
+
+---
+
+# 2 各短論の役割
+
+### [SN-LIF-01](https://camp-us.net/articles/SN-LIF-01_Emergence-of-Life.html)  
+
+**生命の生成**
+
+```
+persistent encounter → life
+```
+
+生命 = **持続する遭遇**
+
+---
+
+### [SN-LIF-02](https://camp-us.net/articles/SN-LIF-02_future-encounter-memory-brain.html)  
+
+**動物の誕生**
+
+```
+orientation → future encounter → brain
+```
+
+> 動物とは未来に向かう向きを進化させた生命である。
+
+---
+
+### [SN-LIF-03](https://camp-us.net/articles/SN-LIF-03_encounter-orientation-evolution.html)  
+
+**進化の再配置**
+
+```
+trace → history → evolution
+```
+
+ダーウィン進化論を **痕跡履歴** として再解釈。
+
+---
+
+# 3 三部作の **3つの層**
+
+|短論|層|
+|---|---|
+|LIF-01|生命生成|
+|LIF-02|動物構造|
+|LIF-03|進化履歴|
+
+```
+life
+↓
+animal
+↓
+evolution
+```
+
+**進化論の階層構造**。
+
+---
+
+# 4 三部作 三命題
+
+### 命題1
+
+> 生命とは持続する遭遇である。
+
+---
+
+### 命題2
+
+> 動物とは未来に向かう向きを進化させた生命である。
+
+---
+
+### 命題3
+
+> 進化とは適者生存ではなく、遭遇痕跡の履歴である。
+
+---
+
+# 5 Darwin 再配置
+
+従来
+
+```
+variation
+↓
+selection
+↓
+adaptation
+↓
+evolution
+```
+
+再配置
+
+```
+orientation
+↓
+encounter
+↓
+trace
+↓
+history
+↓
+evolution
+```
+
+**selection中心 → encounter中心**
+
+---
+
+> **進化とは、遭遇痕跡の履歴が展開する過程である。**
+
+**process ontology**
+
+---
+
 # 全体系列
 
 ```text
@@ -1422,6 +1564,36 @@ structure
 > 進化とは適者生存ではなく、**向きを持つ生命が世界と遭遇し続けた痕跡履歴である。**
 
 ----
+
+**宇宙 → 文明**との接続。
+
+```
+Cosmos
+↓
+Encounter field
+↓
+Life
+↓
+Animal
+↓
+Brain
+↓
+History
+↓
+Society
+```
+
+**SN-SOC（社会生成）** との接続。
+
+```
+brain
+↓
+symbol
+↓
+record
+↓
+institution
+```
 
 **脳の外に出た記憶＝文明**との接続。
 
