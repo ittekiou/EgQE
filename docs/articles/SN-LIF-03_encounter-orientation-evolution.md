@@ -260,6 +260,7 @@ Darwinの構造: variation ↓ natural selection ↓ adaptation ↓ evolution
 ### 命題
 自然選択とは、遭遇痕跡が持続した結果として現れる現象である。
 ## 比較表: 進化モデル
+
 | ダーウィン             | 痕跡進化論     |
 | ----------------- | --------- |
 | variation         | trace     |
