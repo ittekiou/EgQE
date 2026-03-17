@@ -28,11 +28,13 @@ history/time  →   ↓ structure
  ↓ evolution
 ```
 ## 統合表
-| 側面  | 現象学 [1](https://camp-us.net/articles/TS-10_Spatial-and-Preservation_Structuralism-Phenomenology.html) | 構造主義 [1](https://camp-us.net/articles/TS-10_Spatial-and-Preservation_Structuralism-Phenomenology.html) | EgQEブリッジ [2](https://camp-us.net/articles/SN-LIF-03_encounter-orientation-evolution.html)   |
-| --- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| 系列  | 保存 (trace→history)                                                                                    | 空間 (relation→structure)                                                                                | trace persistence                                                                           |
-| 時間性 | 持続/durée                                                                                              | 同時/synchronic                                                                                          | 生成経路                                                                                        |
-| 例   | Husserl retention                                                                                     | Saussure差異                                                                                             | SN-LIF evolution                                                                            |
+
+| 側面  | 現象学 [1](https://camp-us.net/articles/TS-10_Spatial-and-Preservation_Structuralism-Phenomenology.html) | 構造主義 [1](https://camp-us.net/articles/TS-10_Spatial-and-Preservation_Structuralism-Phenomenology.html) | EgQEブリッジ [2](https://camp-us.net/articles/SN-LIF-03_encounter-orientation-evolution.html) |
+| --- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| 系列  | 保存 (trace→history)                                                                                    | 空間 (relation→structure)                                                                                | trace persistence                                                                         |
+| 時間性 | 持続/durée                                                                                              | 同時/synchronic                                                                                          | 生成経路                                                                                      |
+| 例   | Husserl retention                                                                                     | Saussure差異                                                                                             | SN-LIF evolution                                                                          |
+
 ### 結論
 現象学は生命時間を、構造主義は空間を記述。  
 EgQE：traceが生命進化を通じてブリッジ ── 時間なき空間は持続から生まれる。
