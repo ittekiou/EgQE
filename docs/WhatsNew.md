@@ -24,6 +24,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-PHL-BRIDGE-01｜現象学-構造主義ブリッジ ── 生命の痕跡持続から空間構造へ](https://camp-us.net/articles/SN-PHL-BRIDGE-01_Structuralism_Phenomenology_Updating-Ontology.html)  
 [TS-12｜鏡から時間へ ── 構造主義と現象学のあいだ ──](https://camp-us.net/articles/TS-12_mirror-to-time_Structuralism_Phenomenology_Updating-Ontology.html)  
 [SAR-01｜第三の転回としての構文転回｜The Syntax Turn — Three Turns of Modern Thought: From Phenomenology to Linguistic Turn to Syntax](https://camp-us.net/articles/SAR-01_Syntax-Turn_The-Third-Turn-of-Modern-Thought.html)  
+[SN-FLOC-01｜floc automaton: ψ持続による秩序生成 ― エネルギー最小化ではなく履歴持続による生成｜floc automaton: Order through ψ-persistence rather than energy minimization](https://camp-us.net/articles/SN-FLOC-01_floc-automaton.html)  
 ###### 2026/03/16  
 [SN-FRC-01｜四つの基本相互作用と宇宙生成構文 ── ΔR → ΔZ → ψ → Λ｜The Four Fundamental Interactions as Generative Phases of Reality](https://camp-us.net/articles/SN-FRC-01_Four-Fundamental-Interactions.html)  
 [SN-SPC-01｜空間生成系列 ── lag → φ → pivot7 → Axis-4 → θα｜The Generative Sequence of Space](https://camp-us.net/articles/SN-SPC-01_Generative-Sequence-of-Space.html)  
