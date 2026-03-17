@@ -403,7 +403,7 @@ def floc_update(grid, dt=0.02):
 
 ---
 
-A universe that moves only through its neighbors emerges from purely local encounters.
+The universe begins with lag and moves only through its neighbors, emerging from purely local encounters.
 
 ---
 
@@ -763,6 +763,10 @@ def floc_update(grid, dt=0.02):
 ```
 
 Detailed numerical results will be reported separately.
+
+---
+
+From lag arise local encounters among neighbors, and from those encounters the universe emerges.
 
 ----
 **The Age of Inter-Phase**  
