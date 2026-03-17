@@ -398,6 +398,10 @@ def floc_update(grid, dt=0.02):
 
 ---
 
+A universe that moves only through its neighbors emerges from purely local encounters.
+
+---
+
 ### SN-FLOC-01
 ## The floc automaton
 ### Order through ψ-persistence rather than energy minimization
@@ -754,6 +758,11 @@ def floc_update(grid, dt=0.02):
 ```
 
 Detailed numerical results will be reported separately.
+
+---
+
+The universe moves only through its neighbors.  
+It emerges from purely local encounters.
 
 ----
 **The Age of Inter-Phase**  
