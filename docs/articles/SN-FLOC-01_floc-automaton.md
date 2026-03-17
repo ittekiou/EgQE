@@ -702,6 +702,8 @@ Thus the automaton provides a simple dynamic illustration of how encounter diffe
 
 **Figure B1.** Persistence-driven structure formation in the floc automaton (150 frames)
 
+The automaton sometimes resembles a flock-like behavior, prompting the playful nickname **“auto-mutton.”**
+
 ---
 
 ## Observed Phase Transitions
