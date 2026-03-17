@@ -621,6 +621,96 @@ The propagation of ΔZ observed in the automaton corresponds to the **conceptual
 
 Thus the automaton provides a simple dynamic illustration of how encounter differences propagate and accumulate within the EgQE framework.
 
+---
+
+# 補論B｜floc automaton 動的シミュレーション
+
+## Dynamic Visualization of ψ-persistence
+
+---
+
+> **秩序はエネルギー最小化ではなく、履歴持続によって生成される。**  
+> **Order emerges through persistence, not minimization.**
+
+---
+
+![SN-FLOC-01_floc-automaton](../assets/SN-FLOC-01_floc-automaton.gif)
+
+**Figure B1.** floc automaton の動的進化（150フレーム）  
+**Figure B1.** Dynamic evolution of the floc automaton (150 frames)
+
+---
+
+## 観察された相の遷移
+
+## Observed Phase Transitions
+
+```
+0〜50f  : ランダムlag（無秩序相）
+          Random lag field (disordered phase)
+
+50〜100f : ψ蓄積開始（赤い等高線 = ψ > 0.6）
+           ψ accumulation begins (red contour = ψ > 0.6)
+
+100〜150f: Λ凝縮・構造安定化
+           Λ condensation and structural stabilization
+```
+
+---
+
+## 解説｜Description
+
+赤い等高線はψ持続閾値（ψ > 0.6）を超えた凝縮領域を示す。
+
+構造はエネルギー最小化ではなく、遭遇履歴の蓄積によって形成される。
+
+lag場のランダムな揺らぎから始まり、ΔZ遭遇が蓄積してψ帯域が形成され、最終的にΛ凝縮として構造が安定化する——これがEgQE生成系列の動的実証である。
+
+```
+lag（初期ランダム場）
+↓
+ΔZ（遭遇差分・勾配）
+↓
+ψ（履歴持続・赤い等高線）
+↓
+Λ（凝縮・構造安定化）
+```
+
+The red contour lines indicate condensation regions where ψ persistence exceeds the threshold (ψ > 0.6).
+
+Structure emerges not through energy minimization but through the accumulation of encounter history.
+
+Starting from a random lag field, ΔZ encounters accumulate to form the ψ persistence band, which ultimately stabilizes as Λ condensation—this constitutes a dynamic demonstration of the EgQE generative sequence.
+
+```
+lag (initial random field)
+↓
+ΔZ (encounter differences / gradients)
+↓
+ψ (persistent history / red contours)
+↓
+Λ (condensation / structural stabilization)
+```
+
+---
+
+## 実装メモ｜Implementation Note
+
+```python
+# floc automaton コア更新則
+# Core update rule
+
+def floc_update(grid, dt=0.02):
+    grad_x, grad_y = np.gradient(grid)
+    Z = np.sqrt(grad_x**2 + grad_y**2)   # ΔZ遭遇強度
+    psi = np.tanh(Z * 0.5)               # ψ持続蓄積
+    grid += dt * (∇ψ + psi * 0.1 - grid * 0.02)
+    grid[psi > 0.6] *= 0.95              # Λ凝縮
+    return grid
+```
+
+数値結果の詳細は別途報告する。 Detailed numerical results will be reported separately.
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
