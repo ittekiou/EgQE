@@ -6,6 +6,11 @@ title_en: "SN-FLOC-01｜floc automaton: Order through ψ-persistence rather than
 ### SN-FLOC-01
 # floc automaton
 
+> The universe moves only through its neighbors.  
+> It emerges from purely local encounters.
+
+---
+
 floc automaton は遭遇履歴 ψ を蓄積する関係更新モデルである。
 
 The floc automaton is a relational update model in which encounters accumulate as persistence ψ.
@@ -758,11 +763,6 @@ def floc_update(grid, dt=0.02):
 ```
 
 Detailed numerical results will be reported separately.
-
----
-
-The universe moves only through its neighbors.  
-It emerges from purely local encounters.
 
 ----
 **The Age of Inter-Phase**  
