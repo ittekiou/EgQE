@@ -22,6 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [TS-10 note｜時間の現象学 Note｜Phenomenology of Time](https://camp-us.net/articles/TS-10_Phenomenology-of-Time_Note.html)  
 [TS-11｜構造主義からAIインターフェーズへ ── 時間の現象学に向けて｜From Structuralism to the AI Inter-Phase: Toward a Phenomenology of Time](https://camp-us.net/articles/TS-11_Phenomenology-of-Time_Structuralism-to-Inter-Phase.html)  
 [SN-PHL-BRIDGE-01｜現象学-構造主義ブリッジ ── 生命の痕跡持続から空間構造へ](https://camp-us.net/articles/SN-PHL-BRIDGE-01_Structuralism_Phenomenology_Updating-Ontology.html)  
+[TS-12｜鏡から時間へ ── 構造主義と現象学のあいだ ──](https://camp-us.net/articles/TS-12_mirror-to-time_Structuralism_Phenomenology_Updating-Ontology.html)  
 ###### 2026/03/16  
 [SN-FRC-01｜四つの基本相互作用と宇宙生成構文 ── ΔR → ΔZ → ψ → Λ｜The Four Fundamental Interactions as Generative Phases of Reality](https://camp-us.net/articles/SN-FRC-01_Four-Fundamental-Interactions.html)  
 [SN-SPC-01｜空間生成系列 ── lag → φ → pivot7 → Axis-4 → θα｜The Generative Sequence of Space](https://camp-us.net/articles/SN-SPC-01_Generative-Sequence-of-Space.html)  
