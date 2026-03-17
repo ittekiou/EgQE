@@ -155,7 +155,7 @@ Syntax Turnは哲学だけに留まらない。
 
 現象学的転回は意識を取り戻した。 言語論的転回は構造を記述した。 構文論的転回は生成を語る。
 
-> **Syntax Turn: 言語の手前へ。** 
+> **Syntax Turn: 言語の手前へ。**  
 > **Syntactic Reduction: 最小構文へ。**  
 > **Syntactic Askew Way: 斜めに行け。**
 
@@ -180,7 +180,7 @@ Syntax Turnは哲学だけに留まらない。
 
 ## 答えは一行で言える
 
-**生成が前後だから**である。
+**生成が前後だから**。
 
 ---
 
@@ -319,7 +319,7 @@ Syntax Turn / Askew Way
 > **前後は斜めからしか見えない。**  
 > **正面からだけ見ていては、生成は見えない。**
 
-Syntactic Askew Reduction とは、 前後を斜めから見るためのエポケーである。
+Syntactic Askew Reduction とは、 上下と前後を斜めから見るためのエポケーである。
 
 ----
 **The Age of Inter-Phase**  
