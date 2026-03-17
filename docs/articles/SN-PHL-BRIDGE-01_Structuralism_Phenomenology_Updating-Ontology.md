@@ -46,3 +46,20 @@ EgQE：traceが生命進化を通じてブリッジ ── 時間なき空間は
 [SN-LIF-02｜向きの進化と脳の誕生 ── orientation → future encounter → trace → memory → brain](https://camp-us.net/articles/SN-LIF-02_future-encounter-memory-brain.html)  
 [SN-LIF-AN-00｜動物論断章｜Animal Orientation](https://camp-us.net/articles/SN-LIF-AN-00_Animal-Orientation.html)  
 [TS-10 note｜時間の現象学 Note｜Phenomenology of Time](https://camp-us.net/articles/TS-10_Phenomenology-of-Time_Note.html)  
+
+----
+**The Age of Inter-Phase**  
+*EgQE — Echo-Genesis Qualia Engine*  
+[_camp-us.net_](https://camp-us.net/)  
+
+---
+
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Mar 17, 2026 · Web Mar 17, 2026 |</p>

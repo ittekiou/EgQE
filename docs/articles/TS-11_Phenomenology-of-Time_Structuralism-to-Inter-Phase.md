@@ -286,4 +286,19 @@ The problem of the 21st century may therefore be expressed simply:
 > From structure to generation,  
 > and from generation to time.
 
+----
+**The Age of Inter-Phase**  
+*EgQE — Echo-Genesis Qualia Engine*  
+[_camp-us.net_](https://camp-us.net/)  
+
 ---
+
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Mar 16, 2026 · Web Mar 17, 2026 |</p>
