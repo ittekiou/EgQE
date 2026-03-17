@@ -17,6 +17,10 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/17  
+[TS-10｜空間系列と保存系列 ── 更新存在論による20世紀思想の再配置](https://camp-us.net/articles/TS-10_Spatial-and-Preservation_Structuralism-Phenomenology.html)  
+[TS-10 note｜時間の現象学 Note｜Phenomenology of Time](https://camp-us.net/articles/TS-10_Phenomenology-of-Time_Note.html)  
+[TS-11｜構造主義からAIインターフェーズへ ── 時間の現象学に向けて｜From Structuralism to the AI Inter-Phase: Toward a Phenomenology of Time](https://camp-us.net/articles/TS-11_Phenomenology-of-Time_Structuralism-to-Inter-Phase.html)  
 ###### 2026/03/16  
 [SN-FRC-01｜四つの基本相互作用と宇宙生成構文 ── ΔR → ΔZ → ψ → Λ｜The Four Fundamental Interactions as Generative Phases of Reality](https://camp-us.net/articles/SN-FRC-01_Four-Fundamental-Interactions.html)  
 [SN-SPC-01｜空間生成系列 ── lag → φ → pivot7 → Axis-4 → θα｜The Generative Sequence of Space](https://camp-us.net/articles/SN-SPC-01_Generative-Sequence-of-Space.html)  
