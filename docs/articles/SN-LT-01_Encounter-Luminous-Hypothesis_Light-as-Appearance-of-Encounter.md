@@ -536,6 +536,12 @@ Light is the repeated shimmer of encounter.
      └────────────────────────────────┘
 ```
 
+---
+
+**光は encounter の煌めき。暗闇は ΔR の静寂。**
+
+[SN-DK-01｜Darkness Stillness Hypothesis｜暗闇は関係静寂の現れである](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)  
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
