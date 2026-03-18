@@ -188,7 +188,7 @@ It is a **necessary consequence of approximation**.
 
 ```
 encounter → prediction → A≈B → syntax
-                ↑____________________↓
+             ↑____________________↓
             residual difference returns
 ```
 
@@ -212,7 +212,7 @@ Thus syntax follows a cycle.
 
 ```
 encounter → prediction → A≈B → syntax
-                ↑____________________↓
+             ↑____________________↓
             residual difference returns
 ```
 
