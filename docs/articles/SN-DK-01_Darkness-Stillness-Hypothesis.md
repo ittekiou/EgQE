@@ -162,6 +162,115 @@ Persistence            ΔZ
 
 **光は encounter の煌めき。暗闇は ΔR の静寂。**
 
+---
+
+# Appendix B
+## Darkness-First Insight
+### 暗闇先行インスピレーション
+
+本研究において、光論（[SN-LT-01](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)）は当初より、独立した直観として現れたわけではない。  
+インスピレーションの源はむしろ**暗闇のイメージ**にあった。
+
+その生成順序は次のように整理できる。
+
+```
+暗闇（充満した静止）
+↓
+そこから光が立ち上がる
+↓
+「光は encounter の煌めき」
+```
+
+この直観は、[SN-DK-01](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)（Darkness Stillness Hypothesis）と[SN-LT-01](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)（Encounter Light Hypothesis）の関係を明確にする。
+
+---
+
+## 基本構造
+
+Cosmogonica において、暗闇と光の関係は次の構造を持つ。
+
+```
+ΔR substrate
+├ Darkness (quiescent relation)
+└ Encounter
+      ↓
+      Light
+      ↓
+      ΔZ
+```
+
+ここで、
+
+- **Darkness** は ΔR基底の静止状態である
+    
+- **Light** は encounter による出来事である
+    
+
+したがって、**暗闇は基底であり、光は出来事である。**
+
+---
+
+## 体験的直観
+
+この構造は、観測経験とも整合する。
+
+宇宙の大部分は暗闇であり、光は局所的に発生する。
+
+```
+宇宙の基本状態
+= Darkness
+
+局所イベント
+= Light
+```
+
+光は常在するものではなく、**例外的な煌めきとして立ち上がる現象**である。
+
+---
+
+## 思想史的転回
+
+西洋思想においては長らく、
+
+```
+Light → truth
+Darkness → absence
+```
+
+という構図が支配的であった。
+
+プラトンの洞窟寓話以降、光は真理の象徴とされ、暗闇は無知や欠如として理解されてきた。
+
+しかし Cosmogonica はこの関係を反転させる。
+
+```
+Darkness → relational substrate
+Light → encounter trace
+```
+
+すなわち、**暗闇が基底であり、光は遭遇の痕跡である。**
+
+---
+
+## 詩的定式
+
+本研究の核心は、次の二行に集約できる。
+
+**暗闇は ΔR の静寂である。  
+光は encounter の煌めきである。**
+
+英語では次のように表現される。
+
+**Darkness is the silence of ΔR.  
+Light is the shimmer of encounter.**
+
+---
+
+## Log Note
+
+本補論は、一狄翁と綴音による生成ログに基づく。  
+Cosmogonica の多くの概念は、**暗闇から光が立ち上がるイメージ**という直観から出発している。
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
