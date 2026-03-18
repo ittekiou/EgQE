@@ -7,9 +7,9 @@ layout: math
 # Encounter Luminous Hypothesis
 ## Light as the Appearance of Encounter
 
-> Light is the shimmer of encounter.
-> Light is the electromagnetic shimmer of encounter.
-> Light is the manifestation of electromagnetic interaction.
+> Light is the shimmer of encounter.  
+> Light is the electromagnetic shimmer of encounter.  
+> Light is the manifestation of electromagnetic interaction.  
 
 ---
 
@@ -182,7 +182,7 @@ In experimental contexts, what appears as the capture of light may instead be in
 
 In this sense:
 
-Light does not travel.
+Light does not travel.  
 Light happens.
 
 > **Light was not captured.  
