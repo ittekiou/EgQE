@@ -17,6 +17,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/18  
+[SS-05｜遭遇推論としての構文 ──構文生成の命題｜Syntax as Encounter Inference](https://camp-us.net/articles/SS-05_Syntax_as_Encounter-Inference.html)  
 ###### 2026/03/17  
 [TS-10｜空間系列と保存系列 ── 更新存在論による20世紀思想の再配置](https://camp-us.net/articles/TS-10_Spatial-and-Preservation_Structuralism-Phenomenology.html)  
 [TS-10 note｜時間の現象学 Note｜Phenomenology of Time](https://camp-us.net/articles/TS-10_Phenomenology-of-Time_Note.html)  
