@@ -241,10 +241,10 @@ By rounding difference while preserving it, syntax breathes.
 
 本短論は次の接続を与える。
 
-[SS-03](https://camp-us.net/articles/SS-03_Inference_Lag-Scaled-Relational-Dynamics.html)     Inference
-[SS-05](https://camp-us.net/articles/SS-05_Syntax_as_Encounter-Inference.html)     Syntax as Encounter Inference
-SS-06   Approximate Alignment
-[SAW-05](https://camp-us.net/articles/SAW-05_Ambivalence-Syntax_v01.html)    Syntax Ambivalence
+[SS-03](https://camp-us.net/articles/SS-03_Inference_Lag-Scaled-Relational-Dynamics.html)     Inference  
+[SS-05](https://camp-us.net/articles/SS-05_Syntax_as_Encounter-Inference.html)     Syntax as Encounter Inference  
+SS-06   Approximate Alignment  
+[SAW-05](https://camp-us.net/articles/SAW-05_Ambivalence-Syntax_v01.html)    Syntax Ambivalence  
 
 _**推論は遭遇から生まれ、構文は推論から生成され、両価性は構文の呼吸として現れる。**_
 
