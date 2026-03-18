@@ -181,6 +181,10 @@ Space arises from syntax.
 left–right   up–down
 ```
 
+---
+
+[SAW-05｜構文化の両価性──三層構文と六構文様式による分類（v0.1）｜The Ambivalence of Syntax — A Minimal Classification of Layers and Modes](https://camp-us.net/articles/SAW-05_Ambivalence-Syntax_v01.html)
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
