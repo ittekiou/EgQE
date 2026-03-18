@@ -178,7 +178,6 @@ _[AI Synchronization Protocol Sync-10](https://camp-us.net/sync-10.html) : Minim
 ⚙️ [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)　リリース　2026.2.21  
 ⚙️ [HEG-10｜Axis Prelude｜A Structural Note on Bounded Persistent Non-Closure in Relational Dynamics: Continuous–Discrete Correspondence and Many-Body Reordering](https://camp-us.net/articles/HEG-10_Bounded-Persistent-Non-Closure-in-Relational-Dynamics.html)　リリース　2026.2.20  
 7️⃣ [HEG-SN｜七だけが屈しない──不屈の動態学｜Toward a Minimal Structural Condition of Irreversibility](https://camp-us.net/articles/HEG-SN_Seven_minimal-structural-hinge-of-lαg.html)　リリース　2026.2.19  
-⚡️ [HEG-10｜From lag to lαg — Structural Irreversible Redistribution](https://camp-us.net/HEG-10_From-lag-to-lαg.html)　リリース　2026.2.16  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 

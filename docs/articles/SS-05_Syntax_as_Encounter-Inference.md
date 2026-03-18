@@ -172,10 +172,10 @@ Space arises from syntax.
 ---
 
 ```
-		ψ
-		↓
+	ψ
+	↓
 	prediction
-		↓
+	↓
 	front–back
 	↙        ↘
 left–right   up–down
