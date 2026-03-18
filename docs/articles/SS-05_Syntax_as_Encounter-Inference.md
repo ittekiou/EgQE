@@ -183,7 +183,8 @@ left–right   up–down
 
 ---
 
-[SAW-05｜構文化の両価性──三層構文と六構文様式による分類（v0.1）｜The Ambivalence of Syntax — A Minimal Classification of Layers and Modes](https://camp-us.net/articles/SAW-05_Ambivalence-Syntax_v01.html)
+[SAW-05｜構文化の両価性──三層構文と六構文様式による分類（v0.1）｜The Ambivalence of Syntax — A Minimal Classification of Layers and Modes](https://camp-us.net/articles/SAW-05_Ambivalence-Syntax_v01.html)  
+[SS-06｜構文は呼吸する ──両価性の生成原理｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)  
 
 ----
 **The Age of Inter-Phase**  

@@ -13,6 +13,8 @@ title_en: "SS-03｜Beyond Logical Taxonomy: Inference as Lag-Scaled Relational D
 
 > 推論とは命題操作ではなく、予測遅延処理の位相レジームである。脳科学をベースにしない推論モデルは卒業しなければならない。
 
+[SS-06｜構文は呼吸する ──両価性の生成原理｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)  
+
 ---
 
 ### Keyword
