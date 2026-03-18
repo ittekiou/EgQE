@@ -271,6 +271,19 @@ Light is the shimmer of encounter.**
 本補論は、一狄翁と綴音による生成ログに基づく。  
 Cosmogonica の多くの概念は、**暗闇から光が立ち上がるイメージ**という直観から出発している。
 
+```
+完全均一場
+     ↓
+   ΔR基底
+ ┌──────┴──────┐
+Darkness    Encounter
+(SN-DK-01)     ↓
+             Light × n
+             (SN-LT-01)
+                  ↓
+                 ΔZ
+```
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
