@@ -4,7 +4,6 @@ title: SS-06｜構文は呼吸する ──両価性の生成原理
 title_en: SS-06｜Syntax Breathing — The Generative Principle of Ambivalence
 ---
 # **構文は呼吸する ──両価性の生成原理**
-
 # **Syntax Breathing — The Generative Principle of Ambivalence**
 
 ---
