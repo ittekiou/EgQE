@@ -376,6 +376,7 @@ _縦軸: depth of lag (generative flow) / 横軸: typological sequence (0–6) /
 4. 生命は更新することで持続する  
 5. 光は更新なき遭遇の反復である 
 
+---
 
 1. Order is a mode of non-closure.
     
