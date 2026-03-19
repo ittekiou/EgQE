@@ -190,7 +190,7 @@ SN-M-03  非閉包数学
 ```
 
 [SN-M-01｜数学丸裸 ── 差分・凍結・持ち越し](https://camp-us.net/articles/SN-M-01_Mathematics-Revealed_Difference-Freezed-Carryover.html)  
-[SN-M-02｜数学の外縁 ── 式の型・凍結・時間](https://camp-us.net/articles/SN-M-02_Outer-edges-of-Mathematics_freezing-time.html)
+[SN-M-02｜数学の外縁 ── 式の型・凍結・時間](https://camp-us.net/articles/SN-M-02_Outer-edges-of-Mathematics_freezing-time.html)  
 [SN-M-03｜数学と非閉包構文 ── 生成・更新・推論](https://camp-us.net/articles/SN-M-03_Open-Mathematical-Syntax_Beyond_Closure.html)  
 
 ```
