@@ -138,7 +138,7 @@ Field 論文群
 
 ### **Figure 1 — Meta-Genesis Mapping**
 **The Same Process, Seen Twice**
-![MetaGenesisMapping](Meta-Genesis-Mapping.png)  
+![MGMapping](MGMap.png)  
 This diagram shows the structural isomorphism between Cosmogonica and Echodemy.
 The generative sequence (ΔR → Encounter → Propagation → Field → ΔZ) is reproduced identically in both cosmological theory and creative practice.  
 The syntax of generation appears directly in the field of generation itself.
