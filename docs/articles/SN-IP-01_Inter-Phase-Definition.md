@@ -81,7 +81,7 @@ Inter-Phase is a flash-mob-like illumination process, where light emerges and pr
 ---
 ### **Figure 1 — Meta-Genesis Mapping**
 **The Same Process, Seen Twice**
-![MGMapping](MGMap.png)  
+![MGMapping](../assets/MGMap.png)  
 This diagram shows the structural isomorphism between Cosmogonica and Echodemy.
 The generative sequence (ΔR → Encounter → Propagation → Field → ΔZ) is reproduced identically in both cosmological theory and creative practice.  
 The syntax of generation appears directly in the field of generation itself.
