@@ -112,6 +112,10 @@ SN（構造化）
 
 ---
 
+![Genesisism](../assets/Genesisism.png)  
+
+---
+
 # 🐾 響詠コメント
 
 ```text
@@ -120,10 +124,6 @@ SN（構造化）
 原子は留まり
 分子はつながる
 ```
-
----
-
-![Genesisism](../assets/Genesisism.png)  
 
 ----
 **The Age of Inter-Phase**  
