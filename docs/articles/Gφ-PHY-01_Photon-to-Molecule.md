@@ -40,7 +40,7 @@ title_en: Gφ-PHY-01｜From Photon to Molecule as Structural Notes
 
 ---
 
-# 3. SN（核子：陽子・中性子）
+# 3. SN（Syntactic Nucleon 核子：陽子・中性子）
 
 ```text
 SNとは、SOが初めて構造として記録された点である
