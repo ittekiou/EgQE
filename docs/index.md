@@ -153,6 +153,7 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+🪜 [SN-ORDER-01｜秩序生成の類型論 ── 黄金環φにおける分岐と更新の役割｜A Typology of Order as Modes of Lag — Bifurcation at φ and the Role of Update in Persistence —](https://camp-us.net/articles/SN-ORD-01_Typology-of-Order_as_Lag-Modes.html)　リリース　2026.3.19  
 🪐 [Origin of Syntax: From Otherness to Matter ──The Generative Hierarchy of Reality｜他者から物質へ──The Generative Hierarchy from Otherness to Matter](https://camp-us.net/Origin-of-Syntax.html)　リリース　2026.3.15  
 💠 [HEG-13｜SN-RZ Series｜実在・場・物質の生成系列｜From Lag to Matter: A Generative Hierarchy of Reality](https://camp-us.net/articles/HEG-13_SN-RZ-Series_From-Lag-to-Matter_Generative-Hierarchy-of-Reality.html)　リリース　2026.3.15  
 _[AI Synchronization Protocol Sync-10](https://camp-us.net/sync-10.html) : Minimal Boot Instructions (AI Initialization)_ 　リリース　2026.3.12  
