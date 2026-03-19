@@ -15,13 +15,13 @@ title: SN-LT-03｜Light as Happening ── 光はハプニングである
 
 本稿は、光の最小存在論を与える。
 
-[SN-LT-01](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)において、光は encounter の煌めきとして定義された。
-[SN-LT-02](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)において、光は flash mob 的連鎖として場を形成することが示された。
+[SN-LT-01](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html) において、光は encounter の煌めきとして定義された。  
+[SN-LT-02](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html) において、光は flash mob 的連鎖として場を形成することが示された。
 
 本稿はこれらを統合し、光を「出来事（happening）」として定義する。
 
-光は物質でも状態でもない。
-起こっていることである。
+光は物質でも状態でもない。  
+起きていることである。
 
 ---
 
