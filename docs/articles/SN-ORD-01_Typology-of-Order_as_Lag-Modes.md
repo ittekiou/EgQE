@@ -356,6 +356,10 @@ Thus:
 
 ### Figure 2: 秩序生成の類型論マップ（Lag-Persistence Phase Diagram）
 
+> lag生成軸 × 類型0-6、φ分岐点にて「更新有無」で構造/生命へ二分。  
+> 光=伝播秩序(2)、Life=Supported Updating Lag(5)。
+
+
 ![order_typology_map](../assets/order_typology_map.png)  
 _Figure 2: 秩序生成の類型論マップ（Lag-Persistence Phase Diagram）_  
 _縦軸はlagの深度（生成の流れ）、横軸は類型（0–6）を示す。φにおいて秩序は二系列に分岐する。赤＝4 Structure（更新なき持続）、緑＝5 Recursive（更新する持続）。実線は各類型の固定的側面、点線は展開的側面を表す。4と5はいずれも固定と展開の両側面を持ちながら、φ以後の異なる持続様式として展開する。6 Crystalは両系列の終端としての完全閉包を示す。_
@@ -466,6 +470,8 @@ This is the only essential bifurcation in the system.
 ---
 
 ## 4. Typology of Order
+
+![Order-Generation-Typology](../assets/Order-Generation-Typology.png)  
 
 ```
 lag → φ (bifurcation)
