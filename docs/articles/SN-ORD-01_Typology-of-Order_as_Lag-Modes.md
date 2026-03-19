@@ -638,6 +638,11 @@ All diversity of order emerges from this single bifurcation.
 
 それが φ である。
 
+----
+**The Age of Inter-Phase**  
+*EgQE — Echo-Genesis Qualia Engine*  
+[_camp-us.net_](https://camp-us.net/)  
+
 ---
 © 2025 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  

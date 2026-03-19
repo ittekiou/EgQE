@@ -23,6 +23,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-META-01｜Meta-Genesis of Propagation ── 生成する生成構文](https://camp-us.net/articles/SN-META-01_Meta-Genesis-of-Propagation.html)  
 [SN-IP-01｜Inter-Phase Definition ── 位相としての生成](https://camp-us.net/articles/SN-IP-01_Inter-Phase-Definition.html)  
 [SN-ORDER-01｜秩序生成の類型論 ── 黄金環φにおける分岐と更新の役割｜A Typology of Order as Modes of Lag — Bifurcation at φ and the Role of Update in Persistence —](https://camp-us.net/articles/SN-ORD-01_Typology-of-Order_as_Lag-Modes.html)  
+[φGenesisism 宣言](https://camp-us.net/Gφ.html)  
 ###### 2026/03/18  
 [SS-05｜遭遇推論としての構文 ──構文生成の命題｜Syntax as Encounter Inference](https://camp-us.net/articles/SS-05_Syntax_as_Encounter-Inference.html)  
 [SS-06｜構文は呼吸する ──両価性の生成原理｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)  
