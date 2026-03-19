@@ -6,7 +6,7 @@ title: φGenesisism 宣言
 
 **— 公開版（Echodemy Draft v1.0）—**
 
-![Gφ](./assets/φ-G.png)  
+![φ-G](./assets/φ-G.png)  
 
 ---
 
