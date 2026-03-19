@@ -3,8 +3,8 @@ layout: math
 title: SN-META-01｜Meta-Genesis of Propagation ── 生成する生成構文
 ---
 ### 🛰️ SN-META-01
-## Meta-Genesis of Propagation
-### ── 生成する生成構文
+# Meta-Genesis of Propagation
+## ── 生成する生成構文
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

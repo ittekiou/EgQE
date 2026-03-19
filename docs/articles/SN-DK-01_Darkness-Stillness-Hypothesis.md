@@ -3,9 +3,9 @@ layout: math
 title: SN-DK-01｜暗闇は関係静寂の現れである
 title_en: SN-DK-01｜Darkness Stillness Hypothesis
 ---
-# SN-DARK-01
-## Darkness Stillness Hypothesis
-### 暗闇は関係静寂の現れである
+### SN-DARK-01
+# Darkness Stillness Hypothesis
+## 暗闇は関係静寂の現れである
 
 > 暗闇は ΔR の静寂である。  
 > 暗闇は遭遇不在の関係状態である。  

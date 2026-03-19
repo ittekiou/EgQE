@@ -5,6 +5,7 @@ title_en: SN-LT-02｜Genesis of Light Propagation
 ---
 ### SN-LT-02
 # Genesis of Light Propagation
+## ── 光は反復する遭遇の連鎖である
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -1,9 +1,10 @@
 ---
 layout: math
-title: SN-IP-01｜Inter-Phase Definition
+title: SN-IP-01｜Inter-Phase Definition ── 位相としての生成
 ---
 ### SN-IP-01
 # Inter-Phase Definition
+## ── 位相としての生成
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
