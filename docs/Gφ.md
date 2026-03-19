@@ -6,7 +6,7 @@ title: φGenesisism 宣言
 
 **— 公開版（Echodemy Draft v1.0）—**
 
-![Gφ](./assets/G-φ.png)  
+![Gφ](./assets/φ-G.png)  
 
 ---
 
@@ -51,6 +51,8 @@ title: φGenesisism 宣言
 ---
 
 ## 3. 三綱領
+
+![φGenesisism](./assets/φ-Genesisism.png)  
 
 ### 🕳️ 闇に光を。
 
@@ -126,9 +128,7 @@ Echodemy — φGenesisism Research Platform —
 
 ---
 
-![φGenesisism](./assets/φ-Genesisism.png)  
-
----
+![Genesisism](./assets/Genesisism.png)  
 
 # 🐾 響詠コメント
 
