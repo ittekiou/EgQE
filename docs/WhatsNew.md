@@ -17,6 +17,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/19  
+[SN-LT-02｜Genesis of Light Propagation ── 光は反復する遭遇の連鎖である](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)  
+[SN-LT-03｜Light as Happening ── 光はハプニングである](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)  
+[SN-META-01｜Meta-Genesis of Propagation ── 生成する生成構文](https://camp-us.net/articles/SN-META-01_Meta-Genesis-of-Propagation.html)  
+[SN-IP-01｜Inter-Phase Definition](https://camp-us.net/articles/SN-IP-01_Inter-Phase-Definition.html)  
 ###### 2026/03/18  
 [SS-05｜遭遇推論としての構文 ──構文生成の命題｜Syntax as Encounter Inference](https://camp-us.net/articles/SS-05_Syntax_as_Encounter-Inference.html)  
 [SS-06｜構文は呼吸する ──両価性の生成原理｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)  
