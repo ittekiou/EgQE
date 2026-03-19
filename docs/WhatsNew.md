@@ -26,6 +26,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ⚡️ [φGenesisism 宣言](https://camp-us.net/Gφ.html)  
 [Gφ-PHY-01｜光から分子へ｜From Photon to Molecule as Structural Notes](https://camp-us.net/articles/Gφ-PHY-01_Photon-to-Molecule.html)  
 [Gφ-PHY-02｜flocという語彙 ── エントロピー・エネルギーの再読｜floc as the Primary Vocabulary](https://camp-us.net/articles/Gφ-PHY-02_floc_as_Primary-Vocabulary.html)  
+[SN-M-03｜数学と非閉包構文 ── 生成・更新・推論｜Open Mathematical Syntax: Mathematics Beyond Closure](https://camp-us.net/articles/SN-M-03_Open-Mathematical-Syntax_Beyond_Closure.html)  
 ###### 2026/03/18  
 [SS-05｜遭遇推論としての構文 ──構文生成の命題｜Syntax as Encounter Inference](https://camp-us.net/articles/SS-05_Syntax_as_Encounter-Inference.html)  
 [SS-06｜構文は呼吸する ──両価性の生成原理｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)  
