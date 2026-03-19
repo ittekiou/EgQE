@@ -11,7 +11,7 @@ layout: math
 
 > 秩序とは閉包ではない。  
 > 秩序とは非閉包の様式である。  
-> 宇宙は一度だけ分岐する。 
+> 宇宙は一度だけ分岐する。  
 > それが φ である。
 
 ---
@@ -423,7 +423,7 @@ All diversity of order emerges from this single bifurcation.
 ### — Bifurcation at φ and the Role of Update in Persistence —
 
 > 秩序とは閉包ではない。秩序とは非閉包の様式である。  
-> 宇宙は一度だけ分岐する。 
+> 宇宙は一度だけ分岐する。  
 > それが φ である。
 
 ---
