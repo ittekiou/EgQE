@@ -124,7 +124,8 @@ title: φGenesisism 宣言
 
 ## 8. 署名
 
-Echodemy — φGenesisism Research Platform —
+Echodemy  
+— φGenesisism Research Platform —
 
 ---
 

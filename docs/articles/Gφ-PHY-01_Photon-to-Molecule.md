@@ -5,6 +5,9 @@ title_en: Gφ-PHY-01｜From Photon to Molecule as Structural Notes
 # 🪐 Gφ-PHY-01｜光から分子へ
 ## **— From Photon to Molecule as Structural Notes —**
 
+[Gφ-PHY-01e｜光から分子へ（電子 追加版）｜Photon to Molecule (added Electron)](https://camp-us.net/articles/Gφ-PHY-01e_Photon-to-Molecule_and_Electron.html)  
+
+---
 
 ## 0. 概要
 

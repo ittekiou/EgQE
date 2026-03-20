@@ -17,6 +17,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/20  
+[Gφ-PHY-01e｜光から分子へ（電子 追加版）｜Photon to Molecule (added Electron)](https://camp-us.net/articles/Gφ-PHY-01e_Photon-to-Molecule_and_Electron.html)  
+[Gφ-LNG-01｜Polygonal Fiction Hypothesis ── 言語は虚構基盤上に展開する多角形構文である｜The Generative Principle of Language: Language as a Polygonal Syntax on a Fictional Base](https://camp-us.net/articles/Gφ-LNG-01_Principia-Linguistica_01.html)  
 ###### 2026/03/19  
 [SN-LT-02｜Genesis of Light Propagation ── 光は反復する遭遇の連鎖である](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)  
 [SN-LT-03｜Light as Happening ── 光はハプニングである](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)  
