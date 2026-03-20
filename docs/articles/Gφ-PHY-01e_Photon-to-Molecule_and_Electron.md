@@ -8,7 +8,7 @@ title_en: Gφ-PHY-01e｜Photon to Molecule (added Electron)
 
 [Gφ-PHY-01｜光から分子へ｜From Photon to Molecule as Structural Notes](https://camp-us.net/articles/Gφ-PHY-01_Photon-to-Molecule.html)  
 
-> 電荷を帯びた短論として
+> 電荷を帯びた短論
 
 ---
 
@@ -78,8 +78,6 @@ Photon → Electron → SN → Molecule
 ---
 
 電子は、流れる関係を**一時的に受け止め、再び流すインターフェース**である。
-
-本稿（Gφ-PHY-01e）では電子（e）を中心に扱うが、この構造はより一般に Gφ-PHY-01C± として拡張される可能性を持つ。
 
 ---
 
@@ -180,8 +178,10 @@ Photon → Electron → SN → Molecule
 
 ---
 
-電荷を帯びた短論  
+電荷を帯びた短論として  
 — Gφ-PHY-01e / Gφ-PHY-01C± —
+
+> 本稿（Gφ-PHY-01e）では電子（e）を中心に扱うが、この構造はより一般に Gφ-PHY-01C± として拡張される可能性を持つ。
 
 ---
 
