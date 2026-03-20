@@ -192,10 +192,13 @@ All utterances occur at φ:
   <line x1="400" y1="162" x2="400" y2="190" stroke="#c8a84b" stroke-width="1"/>
   <polygon points="400,200 395,190 405,190" fill="#c8a84b"/>
 
+  <text x="415" y="180" text-anchor="middle" font-size="14" fill="#afa9ec">lag</text>
+  
   <!-- φ hinge -->
   <ellipse cx="400" cy="224" rx="60" ry="27" fill="#1e1a0a" stroke="#c8a84b" stroke-width="1.5"/>
   <text x="400" y="213" text-anchor="middle" font-size="16" fill="#c8a84b">φ</text>
-  <text x="400" y="229" text-anchor="middle" font-size="9" fill="#f5d56e">utterance event · branching</text>
+  <text x="400" y="227" text-anchor="middle" font-size="9" fill="#f5d56e">utterance event · branching</text>
+  <text x="400" y="240" text-anchor="middle" font-size="9" fill="#e9edc0">event of differentiation</text>
 
   <!-- octagonal base label -->
   <text x="400" y="274" text-anchor="middle" font-size="9" fill="#e9edc0" letter-spacing="1">OCTAGONAL BASE — fictional foundation of all language</text>
@@ -511,7 +514,7 @@ floc → φ → polygonal differentiation
 |七角形|変化・未来|
 |八角形|神話・詩|
 
-![Language_Polygonal-Syntax](../assets/Language_Polygonal-Syntax.png)  
+![Polygonal-Syntax](../assets/Polygonal-Syntax.png)  
 
 ---
 
