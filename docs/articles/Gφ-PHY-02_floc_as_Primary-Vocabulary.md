@@ -9,6 +9,8 @@ title_en: Gφ-PHY-02｜floc as the Primary Vocabulary
 
 > 公式以前に生成がある。 理論以前にflocがある。
 
+[Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
+
 ---
 
 ## Abstract
