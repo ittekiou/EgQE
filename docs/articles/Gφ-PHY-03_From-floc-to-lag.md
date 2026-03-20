@@ -6,6 +6,7 @@ title_en: Gφ-PHY-03｜From floc to lag — Genesis of Non-Closure and the Emerg
 # **Gφ-PHY-03｜From floc to lag**
 ## _— Genesis of Non-Closure and the Emergence of Update —_
 
+[Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
 [Gφ-PHY-03a｜定数と可視性について｜On Constants and Visibility](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)  
 
 ---

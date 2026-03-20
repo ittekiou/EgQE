@@ -6,6 +6,8 @@ title_en: Gφ-PHY-03a｜On Constants and Visibility
 # **Gφ-PHY-03a｜On Constants and Visibility**
 ## **— 定数と可視性について —**
 
+[Gφ-PHY-03｜From floc to lag — Genesis of Non-Closure and the Emergence of Update —](https://camp-us.net/articles/Gφ-PHY-03_From-floc-to-lag.html)  
+
 ---
 
 ## 🇬🇧 English Version

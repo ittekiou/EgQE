@@ -6,6 +6,8 @@ title_en: Gφ-PHY-03.3｜ψ Band and Society — Language as Externalized Collec
 # **Gφ-PHY-03.3｜ψ Band and Society**
 ## _— Language as Externalized Collective Persistence —_
 
+[Gφ-PHY-03｜From floc to lag — Genesis of Non-Closure and the Emergence of Update —](https://camp-us.net/articles/Gφ-PHY-03_From-floc-to-lag.html)  
+
 ---
 
 ## 0. Introduction
