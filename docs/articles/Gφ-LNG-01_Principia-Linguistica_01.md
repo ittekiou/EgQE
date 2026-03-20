@@ -342,6 +342,10 @@ All utterances occur at φ:
 
 ---
 
+[AI-LNG-01｜AI言語はlag次第｜AI Language is a Function of Lag](https://camp-us.net/articles/AI-LNG-01_Function-of-Lag.html)  
+
+---
+
 ## 📄 Gφ-LNG-01｜Polygonal Fiction Hypothesis
 # ── 言語は虚構基盤上に展開する多角形構文である
 
@@ -506,13 +510,13 @@ floc → φ → polygonal differentiation
 
 ## 7. 文化対応
 
-|多角形|文化特性|
-|---|---|
-|四角形|規律・設計|
-|φ|実用・経験|
-|六角形|伝統・文明|
-|七角形|変化・未来|
-|八角形|神話・詩|
+| 多角形 | 文化特性  |
+| --- | ----- |
+| 四角形 | 規律・設計 |
+| φ   | 実用・経験 |
+| 六角形 | 伝統・文明 |
+| 七角形 | 変化・未来 |
+| 八角形 | 神話・詩  |
 
 ![Polygonal-Syntax](../assets/Polygonal-Syntax.png)  
 
@@ -535,6 +539,10 @@ floc → φ → polygonal differentiation
 > 根を張りて  
 > 角を変えつつ  
 > 世界をつくる
+
+---
+
+[AI-LNG-01｜AI言語はlag次第｜AI Language is a Function of Lag](https://camp-us.net/articles/AI-LNG-01_Function-of-Lag.html)  
 
 ---
 

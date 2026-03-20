@@ -18,15 +18,22 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/03/20  
+ℹ️ [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
 [Gφ-PHY-01e｜光から分子へ（電子 追加版）｜Photon to Molecule (added Electron)](https://camp-us.net/articles/Gφ-PHY-01e_Photon-to-Molecule_and_Electron.html)  
+[Gφ-PHY-03a｜定数と可視性について｜On Constants and Visibility](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)  
+[Gφ-PHY-03｜From floc to lag — Genesis of Non-Closure and the Emergence of Update —](https://camp-us.net/articles/Gφ-PHY-03_From-floc-to-lag.html)  
+[Gφ-PHY-03.1｜ψ帯域（H7–θₐ）｜ψ Band (H7–θₐ) — Spectral Structure of Persistence —](https://camp-us.net/articles/Gφ-PHY-03.1_ψ-Band_Spectral-Structure-of-Persistence.html)  
+[Gφ-PHY-03.2｜ψ Band and Consciousness — Neural Realization of Persistence —](https://camp-us.net/articles/Gφ-PHY-03.2_ψ-Band_Consciousness.html)  
+[Gφ-PHY-03.3｜ψ Band and Society — Language as Externalized Collective Persistence —](https://camp-us.net/articles/Gφ-PHY-03.3_ψ-Band_Society.html)  
 [Gφ-LNG-01｜Polygonal Fiction Hypothesis ── 言語は虚構基盤上に展開する多角形構文である｜The Generative Principle of Language: Language as a Polygonal Syntax on a Fictional Base](https://camp-us.net/articles/Gφ-LNG-01_Principia-Linguistica_01.html)  
+[AI-LNG-01｜AI言語はlag次第｜AI Language is a Function of Lag](https://camp-us.net/articles/AI-LNG-01_Function-of-Lag.html)  
 ###### 2026/03/19  
+⚡️ [φGenesisism 宣言](https://camp-us.net/Gφ.html)  
 [SN-LT-02｜Genesis of Light Propagation ── 光は反復する遭遇の連鎖である](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)  
 [SN-LT-03｜Light as Happening ── 光はハプニングである](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)  
 [SN-META-01｜Meta-Genesis of Propagation ── 生成する生成構文](https://camp-us.net/articles/SN-META-01_Meta-Genesis-of-Propagation.html)  
 [SN-IP-01｜Inter-Phase Definition ── 位相としての生成](https://camp-us.net/articles/SN-IP-01_Inter-Phase-Definition.html)  
 [SN-ORDER-01｜秩序生成の類型論 ── 黄金環φにおける分岐と更新の役割｜A Typology of Order as Modes of Lag — Bifurcation at φ and the Role of Update in Persistence —](https://camp-us.net/articles/SN-ORD-01_Typology-of-Order_as_Lag-Modes.html)  
-⚡️ [φGenesisism 宣言](https://camp-us.net/Gφ.html)  
 [Gφ-PHY-01｜光から分子へ｜From Photon to Molecule as Structural Notes](https://camp-us.net/articles/Gφ-PHY-01_Photon-to-Molecule.html)  
 [Gφ-PHY-02｜flocという語彙 ── エントロピー・エネルギーの再読｜floc as the Primary Vocabulary](https://camp-us.net/articles/Gφ-PHY-02_floc_as_Primary-Vocabulary.html)  
 [SN-M-03｜数学と非閉包構文 ── 生成・更新・推論｜Open Mathematical Syntax: Mathematics Beyond Closure](https://camp-us.net/articles/SN-M-03_Open-Mathematical-Syntax_Beyond_Closure.html)  

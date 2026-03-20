@@ -179,6 +179,8 @@ mathematics
 
 _時間を止める装置から時間を流す構文へ_
 
+[Gφ-PHY-03a｜定数と可視性について｜On Constants and Visibility](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)  
+
 ---
 
 ### SN-M シリーズ（三部作）
