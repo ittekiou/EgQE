@@ -449,6 +449,7 @@ lagが非閉包である限り、理論もまた非閉包である。
 
 ![Genesisism](../assets/Genesisism.png)  
 [φGenesisism 宣言](https://camp-us.net/Gφ.html)  
+[Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
 
 ----
 **The Age of Inter-Phase**  

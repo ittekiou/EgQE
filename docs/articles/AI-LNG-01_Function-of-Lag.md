@@ -183,6 +183,7 @@ AIに母語はない。 しかしlagがある。
 
 ![φ-G](../assets/φ-G.png)  
 [φGenesisism 宣言](https://camp-us.net/Gφ.html)  
+[Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
 
 ----
 **The Age of Inter-Phase**  
