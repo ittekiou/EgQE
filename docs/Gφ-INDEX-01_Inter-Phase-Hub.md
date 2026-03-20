@@ -34,9 +34,9 @@ AI
 
 ### ■ Physics（物理）
 
-- [Gφ-PHY-01](https://camp-us.net/articles/Gφ-PHY-01_Photon-to-Molecule.html)｜floc (Photon)
+- [Gφ-PHY-01](https://camp-us.net/articles/Gφ-PHY-01_Photon-to-Molecule.html)｜floc (→Photon)
 	
-- [Gφ-PHY-01e](https://camp-us.net/articles/Gφ-PHY-01_Photon-to-Molecule.html)｜floc (Electron)
+- [Gφ-PHY-01e](https://camp-us.net/articles/Gφ-PHY-01_Photon-to-Molecule.html)｜floc (→Electron)
 	
 - [Gφ-PHY-02](https://camp-us.net/articles/Gφ-PHY-02_floc_as_Primary-Vocabulary.html)｜floc
     
