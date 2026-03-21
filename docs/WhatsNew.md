@@ -17,6 +17,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/21  
+[Gφ-SN-PT｜構文の周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)  
 ###### 2026/03/20  
 ℹ️ [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
 [Gφ-PHY-01e｜光から分子へ（電子 追加版）｜Photon to Molecule (added Electron)](https://camp-us.net/articles/Gφ-PHY-01e_Photon-to-Molecule_and_Electron.html)  
