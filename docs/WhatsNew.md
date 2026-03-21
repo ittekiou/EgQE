@@ -130,7 +130,7 @@ _[AI Synchronization Protocol Sync-10](https://camp-us.net/sync-10.html) : Minim
 [EgQE｜SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
 [EgQE｜SN-ψ Core｜Preservation, Time, and the H7–θₐ Band](https://camp-us.net/articles/Core_SN-ψ_Preservation_Time_H7-θₐ-Band.html)  
 [EgQE｜SLR Core｜The Universe Opened by Otherness](https://camp-us.net/articles/Core_SLR_Universe-Opened_by_Otherness.html)  
-[GK-00｜GK-00｜黄金比のトポロジー転回 ──黄金環としての φ — Ratio から Knot へ —｜The Topological Turn of the Golden Ratio: φ as the Golden Knot](https://camp-us.net/articles/GK-00_Topological-Turn-of-Golden-Ratio.html)  
+[GK-00｜黄金比のトポロジー転回 ──黄金環としての φ — Ratio から Knot へ —｜The Topological Turn of the Golden Ratio: φ as the Golden Knot](https://camp-us.net/articles/GK-00_Topological-Turn-of-Golden-Ratio.html)  
 [GK-02｜存在生成の結び目としての黄金環 φ ── lag と他者性による時空生成｜The Golden Ring φ as the Knot of Existential Genesis — Lag, Otherness, and the Emergence of Space-Time](https://camp-us.net/articles/GK-02_Golden-Knot_of_Existential-Genesis.html)  
 ###### 2026/03/07  
 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  
