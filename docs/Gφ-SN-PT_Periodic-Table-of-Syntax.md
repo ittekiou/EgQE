@@ -427,6 +427,127 @@ Persistence appears as structure.
 
 ---
 
+# 補論｜証明の位相（Proof as Phase-8 Operation）
+
+---
+
+### 命題
+
+```text
+証明とは8への閉じ込めである。
+Proof is the enclosure into 8.
+```
+
+---
+
+### 定義
+
+証明とは、構文を閉包へと導く操作である。  
+それは対象を完成させ（completes）、同時に虚構として確定させる（imagines）。
+
+---
+
+### 対応関係
+
+```text
+8｜completes / imagines → fiction
+```
+
+したがって、
+
+```text
+証明 = completes ∧ imagines
+```
+
+---
+
+### 含意
+
+- 数学的証明：形式的閉包
+    
+- 論理的証明：言語的閉包
+    
+- 法的証明：制度的閉包
+    
+
+すべて
+
+👉 **8への収束操作**である。
+
+---
+
+### 限界
+
+証明は構文を固定するが、非一致（lag）を消すことはできない。
+
+---
+
+```text
+証明は非一致を消さない
+ただ見えなくするだけである
+```
+
+---
+
+### αとの関係
+
+```text
+8：完成する（completes）
+↓
+α：満ちきる（densest）
+↓
+崩壊が始まる（collapses）
+```
+
+```text
+崩壊するから完成するのではない
+完成するから崩壊が始まる
+```
+
+---
+
+### 結語
+
+```text
+証明は真理ではない
+閉じ方である
+```
+
+```text
+証明は終わりではない
+次のφの直前である
+```
+
+---
+
+🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)　
+
+```text
+証明とは構文を止めることである
+```
+
+[SS-06｜構文は呼吸する ──両価性の生成原理｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)　　
+
+---
+
+## 文明への拡張
+
+```text
+証明とは8への閉じ込めである
+文明とはαへの到達である
+```
+
+---
+
+- ローマは崩壊したのではない
+    
+- 近代も崩壊するのではない
+    
+
+👉 **完成は崩壊の始まり**
+
+---
+
 ![Genesisism](./assets/Genesisism.png)  
 [φGenesisism 宣言](https://camp-us.net/Gφ.html)  
 
