@@ -74,7 +74,7 @@ title_en: Gφ-SN-PT｜Periodic Table of Syntax
 
 ---
 
-[GS-φ｜黄金構文としての φ ── φ as a Golden Syntax (Draft 0.1)](https://camp-us.net/GS-%CF%86_Golden-Syntax_Draft_0.1.html)
+[GS-φ｜黄金構文としての φ ── φ as a Golden Syntax (Draft 0.1)](https://camp-us.net/GS-%CF%86_Golden-Syntax_Draft_0.1.html)  
 [HEG Core Knot｜他者・空間・時間から黄金環へ ──幾何から構文へ至る宇宙論](https://camp-us.net/articles/Core_HEG-Knot_Otherness-to-Golden-Knot.html)
 
 ---
