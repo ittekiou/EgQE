@@ -10,6 +10,9 @@ title_en: Gφ-PHY-03b｜Velocity without Time ── lag-based Definition of Spe
 
 [Gφ-PHY-03a｜定数と可視性について｜On Constants and Visibility](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)  
 
+> 速さは時間ではない  
+> ズレである
+
 ---
 
 ## 基本式
@@ -73,6 +76,8 @@ lagはゼロにならない。
 lag密度の指標である
 ```
 
+時間とはψとして観測されたlag累積にすぎない。
+
 ---
 
 ## 観測的事実の再解釈
@@ -115,8 +120,7 @@ c ≈ min(ΔR → ΔZ 変換レート)
 
 ---
 
-> 速さは時間ではない  
-> ズレである
+速度は時間の関数ではない。ズレの分布である。
 
 ---
 _Draft 0.1 — Non-closure formulation_
