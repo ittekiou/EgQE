@@ -11,6 +11,11 @@ title_en: Gφ-PHY-03b｜Velocity without Time ── lag-based Definition of Spe
 > 速さは時間ではない  
 > ズレである
 
+No time, only lag.  
+No time travel.  
+No time lag —  
+only lag as ψ.  
+
 [Gφ-PHY-03a｜定数と可視性について｜On Constants and Visibility](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)  
 
 ---
