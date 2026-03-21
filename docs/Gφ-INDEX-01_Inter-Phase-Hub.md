@@ -44,6 +44,7 @@ AI
     
 - [Gφ-PHY-03a](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)｜定数と可視性
     
+- [Gφ-PHY-03b](https://camp-us.net/articles/Gφ-PHY-03b_Velocity-without-Time_lag-based-Definition-of-Speed-and-Light.html)｜lag密度速度論
 
 ---
 
