@@ -8,10 +8,10 @@ title_en: Gφ-PHY-03b｜Velocity without Time ── lag-based Definition of Spe
 # lagが速さを決める ── 時間なき速度論
 ### ── 更新レートとしての光速
 
-[Gφ-PHY-03a｜定数と可視性について｜On Constants and Visibility](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)  
-
 > 速さは時間ではない  
 > ズレである
+
+[Gφ-PHY-03a｜定数と可視性について｜On Constants and Visibility](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)  
 
 ---
 
