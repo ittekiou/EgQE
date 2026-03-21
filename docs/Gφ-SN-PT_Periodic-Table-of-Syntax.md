@@ -188,6 +188,67 @@ Within this cycle, non-coincidence never disappears.
 
 ---
 
+## Appendix｜Phase Descriptions
+#### φ → 5 → 6 → 7 → ψ → 8 → α → φ
+
+### φ｜paradox
+
+_φ is the point of syntactic emergence._  
+_Something appears — yet nothing is determined._  
+_To emerge and to remain undefined happen simultaneously._  
+_This is the first ambivalence of syntax._
+
+### 5｜contagion
+
+_Phase 5 is where inside and outside cross._  
+_Something invades from outside (infects) while resonating from within (resonates)._  
+_As these two movements occur simultaneously, the boundary dissolves._  
+_Contagion is the melting of the inside/outside distinction._
+
+### 6｜Kryos
+
+_Phase 6 is the phase of fixation — but fixation is not stability._  
+_The surface solidifies while fractures run through the interior._  
+_Kryos is rigidity by cooling: a stability that already contains the sign of collapse._  
+_Rigor mortis. Something is already cracking inside what appears still._
+
+### 7➕／7➖｜tropos
+
+_Phase 7 is the pivot of ambivalence._  
+_In every other phase, there is a subtle separation between enable and suppress._  
+_In phase 7 alone, destruction and generation occur as a single act._
+
+_7➕: a turning that breaks stability while generating the next form._  
+_7➖: a turning that dissolves form while moving toward separation._
+
+_Tropos means turning._  
+_Phase 7 is where ± is born — the only phase where ambivalence is exposed as polarity._  
+_Here, syntax splits. And moves on._
+
+### ψ｜persistence
+
+_ψ is the phase of persistence — but persistence is not preservation._  
+_It remains (persists) while simultaneously dispersing and fading (dissipates)._  
+_ψ is the persistence of accumulated difference (**lag**)._  
+_As long as syntax breathes, ψ does not end._
+
+### 8｜fiction
+
+_Phase 8 is the phase of closure — but closure is not completion._  
+_It completes while simultaneously being imagined as fiction._  
+_A closed syntax is already an illusion._  
+_A coffin. Inside what appears complete, an open dream remains._
+
+### α｜densest
+
+_α is the phase of maximal density._  
+_Filled to the limit, it overflows — while simultaneously collapsing inward._  
+_α is not a terminus but a critical point toward the next φ._  
+_A tear in the membrane. When density reaches its limit, syntax opens toward the next encounter._
+
+---
+
+
 ![φ-G](./assets/φ-G.png)  
 
 ---
@@ -232,6 +293,8 @@ Within this cycle, non-coincidence never disappears.
 | 8   | completes  | imagines       | fiction     |
 | α   | overflows  | collapses      | densest     |
 
+---
+
 # PiNG-02
 
 ```text
@@ -247,6 +310,64 @@ Within this cycle, non-coincidence never disappears.
 φは非一致の露出であり、ψはその持続である。多角形は進化段階ではなく、持続の安定様式にすぎない。  
 構造は時間から生成されるのではない。持続が構造のように見えているだけである。
 ```
+
+## 各位相の解説
+#### φ → 5 → 6 → 7 → ψ → 8 → α → φ
+
+### φ｜paradox
+
+φは構文の発生点である。  
+まだ何も定まっていないが、すでに何かが現れている。  
+現れることと未定義であることが同時に起きている。  
+これが構文の最初の両価性である。
+
+### 5｜contagion
+
+5は内と外が交差する位相である。  
+外から侵入し（infects）、内から共鳴する（resonates）。  
+この二方向の運動が同時に起きることで、境界が崩れる。  
+感染とは、内外の区別が溶けることである。
+
+### 6｜Kryos
+
+6は固定の位相である。しかし固定は安定ではない。  
+表面は凍りつき（solidifies）、内部では亀裂が走っている（fractures）。  
+Kryosとは、冷却による硬直であり、崩壊の予兆を内包した安定である。  
+死後硬直。静止して見えるものの内側で、すでに何かが割れている。
+
+### 7➕／7➖｜tropos
+
+7は両価性のpivotである。  
+他のすべての位相では、enableとsuppressの間に微細な分離がある。  
+7においてのみ、壊すことと生むことが同一の動作として起きる。
+
+7➕：安定を破りながら、次の形を生む方向への転回。  
+7➖：形を解体しながら、分離へと向かう方向への転回。
+
+troposとは転回である。  
+7は±が生まれる場所であり、両義性が極性として露出する唯一の位相である。  
+ここで構文は裂け、そして次へ向かう。
+
+### ψ｜persistence
+
+ψは持続の位相である。しかし持続は保存ではない。  
+残りながら（persists）、同時に拡散して消えていく（dissipates）。  
+丸められた差異（_lag_）の保持系列がψである。  
+構文の呼吸が続いているかぎり、ψは終わらない。
+
+### 8｜fiction
+
+8は閉包の位相である。しかし閉じることは完成ではない。  
+完成する（completes）と同時に、それは虚構として想像される（imagines）。  
+閉じた構文はすでに幻想である。  
+棺桶。完結して見えるものの内側に、開かれた夢が残っている。
+
+### α｜densest
+
+αは極限密度の位相である。  
+限界まで満ちて溢れ出し（overflows）、同時に内側へ崩壊する（collapses）。  
+αは終端ではなく、次のφへの臨界点である。  
+膜の破れ目。密度が極限に達したとき、構文は次の遭遇へ向けて開く。
 
 ---
 
