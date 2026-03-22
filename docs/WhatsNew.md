@@ -17,6 +17,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/23  
+[Gφ｜laggizm系譜ノート: From SS-00 to laggizm — 理論の成熟系列](https://camp-us.net/Gφ_From_SS-00_to_laggizm.html)  
 ###### 2026/03/22  
 [Gφ｜Laggizm宣言｜Inter-Phase文明｜The Age of Laggizm](https://camp-us.net/Age-of-Laggizm.html)  
 [Gφ-MTH-00｜lagと射影としての理論｜Lag Projection（Overview）](https://camp-us.net/articles/Gφ-MTH-00_Lag-Projection_Overview.html)  
