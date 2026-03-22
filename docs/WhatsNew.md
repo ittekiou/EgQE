@@ -24,6 +24,12 @@ From Noise to Notation. From Dialogue to Discovery.
 [Gφ-MTH-02｜不完全性とlag── Gödel Projection](https://camp-us.net/articles/Gφ-MTH-02_Gödel-Projection.html)  
 [Gφ-MTH-03｜無限とlag── Cantor Projection](https://camp-us.net/articles/Gφ-MTH-03_Cantor-Projection.html)  
 [Gφ-MTH-04｜分布とlag── Riemann Projection](https://camp-us.net/articles/Gφ-MTH-04_Riemann-Projection.html)  
+[Gφ-MTH-05｜レート優位性原理｜Rate Primacy](https://camp-us.net/articles/Gφ-MTH-05_Rate-Primacy.html)  
+[Gφ-MTH-06｜最適レート問題｜Optimal Rate Problem](https://camp-us.net/articles/Gφ-MTH-06_Optimal-Rate-Problem.html)  
+[Gφ-MTH-07｜lag不可消去性｜Lag Persistence](https://camp-us.net/articles/Gφ-MTH-07_Lag-Persistence.html)  
+[Gφ-MTH-08｜供給と蓄積の非対称性｜ΔR–ΔZ Asymmetry](https://camp-us.net/articles/Gφ-MTH-08_R-Z-Asymmetry.html)  
+[Gφ-MTH-09｜不可逆性原理｜Irreversibility](https://camp-us.net/articles/Gφ-MTH-09_Irreversibility.html)  
+[Gφ-MTH-10｜完結は虚構である｜Completion as Fiction](https://camp-us.net/articles/Gφ-MTH-10_Completion-as-Fiction.html)  
 ###### 2026/03/21  
 [Gφ-SN-PT｜構文の周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)  
 [Gφ-PHY-03b｜lagが速さを決める：時間なき速度論 ── 更新レートとしての光速｜Velocity without Time ── lag-based Definition of Speed and Light](https://camp-us.net/articles/Gφ-PHY-03b_Velocity-without-Time_lag-based-Definition-of-Speed-and-Light.html)  

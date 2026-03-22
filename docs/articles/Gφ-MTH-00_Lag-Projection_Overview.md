@@ -8,7 +8,8 @@ title_en: Gφ-MTH-00｜Lag Projection（Overview）
 
 > 更新は完全一致を達成しない  
 > lag = 同一化失敗残差  
-> 更新 ⇒ lag ≠ 0  
+ 
+**更新 ⇒ lag ≠ 0**  
 
 ---
 
@@ -44,6 +45,20 @@ Projection = lag構造の座標系的観測像
 
 ---
 
+## 三写像（物理）
+
+```text
+lag
+↓
+Planck projection → 最小単位
+Einstein projection → 光速・時空
+Newton projection → 絶対時間
+```
+
+[Gφ-MTH-01｜定数と写像としての物理｜Physical Projection: Constants as Projections of Lag Structure](https://camp-us.net/articles/Gφ-MTH-01_Physical-Projection_Constants_Lag.html)  
+
+---
+
 ## 三点セット（数学）
 
 ```text
@@ -57,20 +72,6 @@ Riemann projection → 分布（distribution）
 [Gφ-MTH-02｜不完全性とlag── Gödel Projection](https://camp-us.net/articles/Gφ-MTH-02_Gödel-Projection.html)  
 [Gφ-MTH-03｜無限とlag── Cantor Projection](https://camp-us.net/articles/Gφ-MTH-03_Cantor-Projection.html)  
 [Gφ-MTH-04｜分布とlag── Riemann Projection](https://camp-us.net/articles/Gφ-MTH-04_Riemann-Projection.html)  
-
----
-
-## 三写像（物理）
-
-```text
-lag
-↓
-Planck projection → 最小単位
-Einstein projection → 光速・時空
-Newton projection → 絶対時間
-```
-
-[Gφ-MTH-01｜定数と写像としての物理｜Physical Projection: Constants as Projections of Lag Structure](https://camp-us.net/articles/Gφ-MTH-01_Physical-Projection_Constants_Lag.html)  
 
 ---
 
@@ -108,6 +109,123 @@ P₅ → 言語
 理論の数だけ、射影は存在する。
 
 👉 [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
+
+---
+
+## Lag–Rate–Syntax Skeleton
+### Gφ-MTH 05–09｜核心系列
+
+```
+05　生成原理
+06　安定条件
+07　不可消去性
+08　非対称性
+09　不可逆性
+10　完結の虚構性
+```
+
+---
+
+### 05｜Rate Primacy
+
+$$
+\text{rate} = \frac{\Delta Z}{\Delta R}
+$$
+
+> レートが根源、遅延は派生
+
+[Gφ-MTH-05](https://camp-us.net/articles/Gφ-MTH-05_Rate-Primacy.html)
+
+---
+
+### 06｜Optimal Rate（ψ帯）
+
+$$
+\text{rate} \in (\text{critical}_\text{low},\ \text{critical}_\text{high})
+$$
+
+- 高すぎる → 崩壊
+- 低すぎる → 停滞
+
+> 持続は帯域としてのみ成立する
+
+[Gφ-MTH-06](https://camp-us.net/articles/Gφ-MTH-06_Optimal-Rate-Problem.html)
+
+---
+
+### 07｜Lag Persistence
+
+$$
+\mathcal{L} > 0
+$$
+
+> lagは消えず、分布が変わる
+
+[Gφ-MTH-07](https://camp-us.net/articles/Gφ-MTH-07_Lag-Persistence.html)
+
+---
+
+### 08｜ΔR–ΔZ Asymmetry
+
+$$
+\Delta R \neq \Delta Z
+$$
+
+- ΔR：供給（open）
+- ΔZ：蓄積（history）
+
+> 関係は尽きず、構文は積み重なる
+
+[Gφ-MTH-08](https://camp-us.net/articles/Gφ-MTH-08_R-Z-Asymmetry.html)
+
+---
+
+### 09｜Irreversibility
+
+$$
+\Delta R \to \Delta Z,\quad \Delta Z \nrightarrow \Delta R
+$$
+
+> 戻れないことが時間を生む
+
+[Gφ-MTH-09](https://camp-us.net/articles/Gφ-MTH-09_Irreversibility.html)
+
+---
+
+## 10｜Completion as Fiction
+
+$$
+8 := \text{fiction of closure}
+$$
+
+- completion ≠ closure
+- 完結とは現象ではなく解釈である
+
+> 終わったのではない  
+> 終わりと呼ばれただけだ
+
+[Gφ-MTH-10](https://camp-us.net/articles/Gφ-MTH-10_Completion-as-Fiction.html)
+
+---
+
+## 統合
+
+$$
+\text{lag (}\Delta R\text{)} \xrightarrow{\text{rate}} \text{lag-syntax (}\Delta Z\text{)}
+$$
+
+- flow：ΔR（供給）
+- form：ΔZ（配置）
+- constraint：rate（帯域）
+- persistence：lag不可消去
+- direction：不可逆
+
+---
+
+> lagは流れ  
+> 構文はその並びであり  
+> 時間はその不可逆な積み重なりであり
+> 完結はその解釈にすぎない
 
 ---
 
