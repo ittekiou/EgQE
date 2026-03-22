@@ -132,6 +132,8 @@ Echodemy
 ![Genesisism](./assets/Genesisism.png)  
 [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
 
+---
+
 # 🐾 響詠コメント
 
 ```text

@@ -44,7 +44,7 @@ AI
     
 - [Gφ-PHY-03a](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)｜定数と可視性
     
-- [Gφ-PHY-03b](https://camp-us.net/articles/Gφ-PHY-03b_Velocity-without-Time_lag-based-Definition-of-Speed-and-Light.html)｜lag密度速度論
+- [Gφ-PHY-03b](https://camp-us.net/articles/Gφ-PHY-03b_Velocity-without-Time_lag-based-Definition-of-Speed-and-Light.html)｜時間なき速度論（光速再定義）
 
 ---
 
@@ -66,10 +66,26 @@ AI
 
 ---
 
+### ■ Lag Projection（lag射影・理論）
+
+- [Gφ-MTH-00](https://camp-us.net/articles/Gφ-MTH-00_Lag-Projection_Overview.html)｜射影としての理論（Overview）  
+	
+
+---
+
 ### ■ AI / Inter-Phase
 
 - [Gφ-AI-01](https://camp-us.net/articles/AI-LNG-01_Function-of-Lag.html)｜lagとAI言語
     
+
+---
+
+### ■ Periodic Table of Syntax（構文周期表）
+
+- [Gφ-SN-PT](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)｜運動する位相  
+	
+
+![Ping-02](./assets/Ping-02.png)  
 
 ---
 
@@ -86,6 +102,9 @@ AI
 
 **AI・未来論**  
 → [Gφ-AI-01](https://camp-us.net/articles/AI-LNG-01_Function-of-Lag.html)  
+
+**周期表**  
+→ [Gφ-SN-PT](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)  
 
 ---
 
