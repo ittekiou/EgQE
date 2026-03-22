@@ -78,6 +78,7 @@ AI
     
 - [Gφ-MTH-04](https://camp-us.net/articles/Gφ-MTH-04_Riemann-Projection.html)｜lagの分布観測 / Riemann
     
+以下、[Gφ-MTH-00](https://camp-us.net/articles/Gφ-MTH-00_Lag-Projection_Overview.html)｜Overview  
 
 ---
 
