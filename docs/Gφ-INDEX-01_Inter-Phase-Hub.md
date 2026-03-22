@@ -40,7 +40,7 @@ AI
 	
 - [Gφ-PHY-02](https://camp-us.net/articles/Gφ-PHY-02_floc_as_Primary-Vocabulary.html)｜floc
     
-- [Gφ-PHY-03](https://camp-us.net/articles/Gφ-PHY-03_From-floc-to-lag.html)｜lag構造
+- [Gφ-PHY-03](https://camp-us.net/articles/Gφ-PHY-03_From-floc-to-lag.html)｜(floc→) lag構造
     
 - [Gφ-PHY-03a](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)｜定数と可視性
     
