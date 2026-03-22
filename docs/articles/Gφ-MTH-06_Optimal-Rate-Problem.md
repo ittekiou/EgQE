@@ -145,6 +145,12 @@ _Draft 0.1 — Non-closure formulation_
 ![Genesisism](../assets/Genesisism.png)  
 [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
 
+---
+
+> 速く進むより
+> わずかな違和に 立ち止まり
+> ズレのほうへ 戻っていく
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
