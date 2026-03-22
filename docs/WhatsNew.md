@@ -20,9 +20,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/03/22  
 [Gφ-MTH-00｜lagと射影としての理論｜Lag Projection（Overview）](https://camp-us.net/articles/Gφ-MTH-00_Lag-Projection_Overview.html)  
 [Gφ-MTH-01｜定数と写像としての物理｜Physical Projection: Constants as Projections of Lag Structure](https://camp-us.net/articles/Gφ-MTH-01_Physical-Projection_Constants_Lag.html)  
-[Gφ-MTH-02｜Gödel Projection── 不完全性とlag](https://camp-us.net/articles/Gφ-MTH-02_Gödel-Projection.html)  
-[Gφ-MTH-03｜Cantor Projection── 無限とlag](https://camp-us.net/articles/Gφ-MTH-03_Cantor-Projection.html)  
-[Gφ-MTH-04｜Riemann Projection── 分布とlag](https://camp-us.net/articles/Gφ-MTH-04_Riemann-Projection.html)  
+[Gφ-MTH-02｜不完全性とlag── Gödel Projection](https://camp-us.net/articles/Gφ-MTH-02_Gödel-Projection.html)  
+[Gφ-MTH-03｜無限とlag── Cantor Projection](https://camp-us.net/articles/Gφ-MTH-03_Cantor-Projection.html)  
+[Gφ-MTH-04｜分布とlag── Riemann Projection](https://camp-us.net/articles/Gφ-MTH-04_Riemann-Projection.html)  
 ###### 2026/03/21  
 [Gφ-SN-PT｜構文の周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)  
 [Gφ-PHY-03b｜lagが速さを決める：時間なき速度論 ── 更新レートとしての光速｜Velocity without Time ── lag-based Definition of Speed and Light](https://camp-us.net/articles/Gφ-PHY-03b_Velocity-without-Time_lag-based-Definition-of-Speed-and-Light.html)  

@@ -54,9 +54,9 @@ Cantor projection → 無限（infinity）
 Riemann projection → 分布（distribution）
 ```
 
-[Gφ-MTH-02｜Gödel Projection── 不完全性とlag](https://camp-us.net/articles/Gφ-MTH-02_Gödel-Projection.html)  
-[Gφ-MTH-03｜Cantor Projection── 無限とlag](https://camp-us.net/articles/Gφ-MTH-03_Cantor-Projection.html)  
-[Gφ-MTH-04｜Riemann Projection── 分布とlag](https://camp-us.net/articles/Gφ-MTH-04_Riemann-Projection.html)  
+[Gφ-MTH-02｜不完全性とlag── Gödel Projection](https://camp-us.net/articles/Gφ-MTH-02_Gödel-Projection.html)  
+[Gφ-MTH-03｜無限とlag── Cantor Projection](https://camp-us.net/articles/Gφ-MTH-03_Cantor-Projection.html)  
+[Gφ-MTH-04｜分布とlag── Riemann Projection](https://camp-us.net/articles/Gφ-MTH-04_Riemann-Projection.html)  
 
 ---
 
