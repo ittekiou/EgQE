@@ -81,6 +81,27 @@ laggizm：循環の中に立った
 
 ---
 
+## MTH-11｜帯域を通過構造として再焼成した
+
+[Gφ-MTH-06](https://camp-us.net/articles/Gφ-MTH-06_Optimal-Rate-Problem.html) で発見されたψBandを **勾配を持つ経路（gradient path）** として再配置した。
+
+```
+06：ψ = 安定帯域（range）　← 発見の化石
+　　　↓　lag
+11：ψ = 通過帯域（path）　← 再焼成
+```
+
+登り窯の構造が理論の内容であると同時に、理論の**作り方**になった。
+
+```
+ΔZ → ΔR → ΔZ'
+06（焼き物）→ 新しい火 → 11（再焼成）
+```
+
+[Gφ-MTH-11｜登り窯ψBand](https://camp-us.net/articles/Gφ-MTH-11_Climbing-Kiln_Persistence-as-Gradient-Path.html) 
+
+---
+
 ### 軸の反転
 
 ```
@@ -90,6 +111,10 @@ laggizm　→　R中心（構文の生成）
 
 書かれたものを見る理論から  
 書かれる前のズレを見る理論へ。
+
+---
+
+_理論は作られたのではなく焼き直された_
 
 ---
 
