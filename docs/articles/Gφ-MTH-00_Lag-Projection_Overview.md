@@ -290,6 +290,10 @@ _Draft 0.1 — Projection framework_
 
 _完成させないことがいちばん正確である_
 
+> 消えぬものから 世界は始まり
+> 残るものだけが 時となり
+> 終わりは 読まれ続ける
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
