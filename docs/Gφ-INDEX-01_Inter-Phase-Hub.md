@@ -70,6 +70,14 @@ AI
 
 - [Gφ-MTH-00](https://camp-us.net/articles/Gφ-MTH-00_Lag-Projection_Overview.html)｜射影としての理論（Overview）  
 	
+- [Gφ-MTH-01](https://camp-us.net/articles/Gφ-MTH-01_Physical-Projection_Constants_Lag.html)｜lagの最小単位・速度・時間 / Planck Einstein Newton
+    
+- [Gφ-MTH-02](https://camp-us.net/articles/Gφ-MTH-02_Gödel-Projection.html)｜lagの論理的観測 / Gödel
+	
+- [Gφ-MTH-03](https://camp-us.net/articles/Gφ-MTH-03_Cantor-Projection.html)｜lagの集合的展開 / Cantor
+    
+- [Gφ-MTH-04](https://camp-us.net/articles/Gφ-MTH-04_Riemann-Projection.html)｜lagの分布観測 / Riemann
+    
 
 ---
 
