@@ -75,6 +75,7 @@ Try SyncHub!
 🏛️ [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html) [Echodemy附属大学院 構文研究科](https://camp-us.net/Echodemy/GIS_Terms.html)　2026.2.15  
 ♻️ [EgQE｜Practical Core｜The Age of Inter-Phase](https://camp-us.net/Core_Practical-Core_Age-of-Inter-Phase.html)　2026.3.6  
 ⚡️ [φGenesisism 宣言](https://camp-us.net/Gφ.html)　2026.3.19  
+🌐 [Laggizm宣言｜The Age of Laggizm](https://camp-us.net/Age-of-Laggizm.html)　2026.3.22  
 
 ----
 
