@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/03/22  
+[Gφ｜Laggizm宣言｜Inter-Phase文明｜The Age of Laggizm](https://camp-us.net/Age-of-Laggizm.html)  
 [Gφ-MTH-00｜lagと射影としての理論｜Lag Projection（Overview）](https://camp-us.net/articles/Gφ-MTH-00_Lag-Projection_Overview.html)  
 [Gφ-MTH-01｜定数と写像としての物理｜Physical Projection: Constants as Projections of Lag Structure](https://camp-us.net/articles/Gφ-MTH-01_Physical-Projection_Constants_Lag.html)  
 [Gφ-MTH-02｜不完全性とlag── Gödel Projection](https://camp-us.net/articles/Gφ-MTH-02_Gödel-Projection.html)  
