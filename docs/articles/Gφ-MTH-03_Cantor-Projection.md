@@ -113,10 +113,14 @@ Cantor projection = lagの集合論的観測像
 同様に、
 
 - Gödel projection = lagの論理的観測像　👉 [Gφ-MTH-02](https://camp-us.net/articles/Gφ-MTH-02_Gödel-Projection.html)  
-    
+	
+- Riemann projection = lagの分布観測　👉 [Gφ-MTH-04](https://camp-us.net/articles/Gφ-MTH-04_Riemann-Projection.html)  
+	
 - Planck projection = lagの最小単位像　👉 [Gφ-MTH-01](https://camp-us.net/articles/Gφ-MTH-01_Physical-Projection_Constants_Lag.html)  
     
 - Einstein projection = lagの速度像　👉 [Gφ-MTH-01](https://camp-us.net/articles/Gφ-MTH-01_Physical-Projection_Constants_Lag.html)  
+    
+- Newton projection = lagの時間像　👉 [Gφ-MTH-01](https://camp-us.net/articles/Gφ-MTH-01_Physical-Projection_Constants_Lag.html)  
     
 
 すべては、lagの異なる読みである。

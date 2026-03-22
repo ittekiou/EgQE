@@ -27,6 +27,18 @@ projection（射影）
 constants / scales（定数・スケール）
 ```
 
+## lag 基本式
+
+👉 [Gφ-PHY-03b](https://camp-us.net/articles/Gφ-PHY-03b_Velocity-without-Time_lag-based-Definition-of-Speed-and-Light.html)  
+
+$$
+c = \Delta x / \ell_{\min}
+$$
+
+$$
+v = \Delta x / \Sigma \ell
+$$
+
 ---
 
 ## 三写像（物理）
@@ -47,12 +59,11 @@ Newton projection
 
 lag構造をプランク単位系に投影した観測像。
 
-$$  
-\ell_{\min}=\frac{\Delta x}{c},\quad  
-\Delta x=l_P \Rightarrow \ell_{\min}\approx t_P  
-$$
+$$ \ell_{\min} = \frac{\Delta x}{c} $$
 
-最小長・最小時間として現れる。
+$$ \Delta x = l_P \text{ のとき、} \ell_{\min} \approx t_P \text{ として観測される} $$
+
+最小長・最小時間は、lagの最小単位が投影された結果にすぎない。
 
 ---
 
@@ -60,13 +71,13 @@ $$
 
 lag構造を光速度不変の時空座標系に投影した観測像。
 
-$$  
-c=\frac{\Delta x}{\ell_{\min}}  
-$$
+$$ c = \frac{\Delta x}{\ell_{\min}} $$
 
-光速は、最小lagにおける最大変位として現れる。
+Einstein射影—— lagが消え、時間に置き換わる：
 
-[Gφ-PHY-03b｜lagが速さを決める：時間なき速度論 ── 更新レートとしての光速｜Velocity without Time ── lag-based Definition of Speed and Light](https://camp-us.net/articles/Gφ-PHY-03b_Velocity-without-Time_lag-based-Definition-of-Speed-and-Light.html)  
+$$ c = \frac{\Delta x}{\Delta t} = \text{constant} $$
+
+👉 [Gφ-PHY-03b｜lag-based Definition of Speed and Light](https://camp-us.net/articles/Gφ-PHY-03b_Velocity-without-Time_lag-based-Definition-of-Speed-and-Light.html)  
 
 ---
 
@@ -74,14 +85,11 @@ $$
 
 lag構造を絶対時間の力学座標系に投影した観測像。
 
-$$
-v = \frac{\Delta x}  {\Sigma \ell}
-$$
-$$  
-v=\frac{dx}{dt}  
-$$
+$$ v = \frac{\Delta x}{\Sigma\ell} $$
 
-lagは時間に外部化され、見えにくくなる。
+Newton射影—— lagは時間に外部化され、見えなくなる：
+
+$$ v = \frac{dx}{dt} $$
 
 ---
 
@@ -124,10 +132,58 @@ _Draft 0.1 — Projection formulation_
 
 ---
 
-> 定数とは  
-> ズレの見え方である
+# 補論｜lagへの四つの態度
 
-[Gφ-PHY-03a｜定数と可視性について｜On Constants and Visibility](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)  
+---
+
+物理学者たちは、それぞれ異なる仕方でlagに向き合った。
+
+```
+Newton　　：lagを見なかった
+Einstein　：lagを時間に変換した
+Planck　　：lagの最小値に触れた
+Gφ　　　 ：lagを原像として置いた
+```
+
+---
+
+Newtonにとって時間は絶対である。  
+lagは視野の外に置かれ、見えなくなった。
+
+Einsteinにとって光速は定数である。  
+lagは時間に吸収され、消えた。
+
+Planckにとって作用は量子化される。  
+lagの最小値が、単位として現れた。
+
+---
+
+三者とも、lagを**結果として観測した**。
+
+Gφはlagを**原因として置く**。
+
+---
+
+```
+観測像　←　Newton / Einstein / Planck
+原像　　←　Gφ
+```
+
+---
+
+これは物理学の否定ではない。
+
+座標系の選択である。
+
+---
+
+> lagを原像に置いたとき、三つの射影は同一構造の異なる読みとして並ぶ。
+
+---
+
+_定数とは ズレの見え方である_
+
+👉 [Gφ-PHY-03a｜定数と可視性について｜On Constants and Visibility](https://camp-us.net/articles/Gφ-PHY-03a_On_Constants-and-Visibility.html)  
 
 ---
 
