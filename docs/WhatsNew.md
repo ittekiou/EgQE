@@ -25,6 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [EgQE｜Lag Generation Theory ── HEG-13 Core: From Otherness to Fiction of Ground](https://camp-us.net/articles/Core_HEG-13_Lag-Generation-Theory_Otherness-to-Ground.html)  
 [LC-01｜The Age of Laggizm ── 支えを取り戻す文明へ](https://camp-us.net/articles/LC-01_Age-of-Laggizm_Civilization-with-Support.html)  
 [HEG-14｜シンメトリーな生命 ── 前後の誕生と時間・同一性・対称性](https://camp-us.net/articles/HEG-14_Life-as-Symmetry.html)  
+[HEG-14｜向きの現象学 ── 身体と時間の生成｜Phenomenology of Orientation — The Generation of Body and Time](https://camp-us.net/articles/HEG-14_Generation-of-Body-and-Time_Phenomenology-of-Orientation.html)  
 ###### 2026/03/22  
 [Gφ｜Laggizm宣言｜Inter-Phase文明｜The Age of Laggizm](https://camp-us.net/Age-of-Laggizm.html)  
 [Gφ-MTH-00｜lagと射影としての理論｜Lag Projection（Overview）](https://camp-us.net/articles/Gφ-MTH-00_Lag-Projection_Overview.html)  
