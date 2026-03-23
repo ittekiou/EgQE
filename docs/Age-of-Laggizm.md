@@ -70,6 +70,9 @@ lagは結びとなり、かたちが現れ、
 
 ![laglaggizm](./assets/laglaggizm.png)  
 
+> lagは細部に宿る  
+> 細部は局所に露見する
+
 ---
 
 # 🧠 **Gφ｜The Age of Laggizm（多言語学術版）**
