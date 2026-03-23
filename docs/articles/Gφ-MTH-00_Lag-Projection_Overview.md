@@ -225,6 +225,23 @@ $$
 
 ---
 
+## 12｜Persistence without Conservation
+
+$$
+\mathcal{L} > 0 \neq \text{conservation}
+$$
+
+- 消えないことは保たれることではない
+- 保存則は座標系依存の構文（ΔZ）
+- lagの持続条件は下限条件のみ
+
+> 保存されているのではない  
+> 消えないだけである
+
+[Gφ-MTH-12](https://camp-us.net/articles/Gφ-MTH-12_Persistence-without-Conservation.html)
+
+---
+
 ## 統合
 
 $$
