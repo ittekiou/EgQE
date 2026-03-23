@@ -65,7 +65,7 @@ $$ \Delta Z = f(\Delta R,\ \text{rate}) $$
 ## 5. Structural Interpretation
 
 ΔRは非閉包的に供給され続ける。  
-（lagの発生源としてのfloc構造——[Gφ-PHY-03](https://camp-us.net/articles/G%CF%86-PHY-03_From-floc-to-lag.html) 参照）
+（lagの発生源としてのfloc構造──[Gφ-PHY-03](https://camp-us.net/articles/G%CF%86-PHY-03_From-floc-to-lag.html) 参照）
 
 ΔZはその変換結果として蓄積される。
 

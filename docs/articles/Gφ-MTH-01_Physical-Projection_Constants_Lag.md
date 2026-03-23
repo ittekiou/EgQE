@@ -73,7 +73,7 @@ lag構造を光速度不変の時空座標系に投影した観測像。
 
 $$ c = \frac{\Delta x}{\ell_{\min}} $$
 
-Einstein射影—— lagが消え、時間に置き換わる：
+Einstein射影── lagが消え、時間に置き換わる：
 
 $$ c = \frac{\Delta x}{\Delta t} = \text{constant} $$
 
@@ -87,7 +87,7 @@ lag構造を絶対時間の力学座標系に投影した観測像。
 
 $$ v = \frac{\Delta x}{\Sigma\ell} $$
 
-Newton射影—— lagは時間に外部化され、見えなくなる：
+Newton射影── lagは時間に外部化され、見えなくなる：
 
 $$ v = \frac{dx}{dt} $$
 

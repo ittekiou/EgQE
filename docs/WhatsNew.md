@@ -20,6 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/03/23  
 [Gφ｜laggizm系譜ノート: From SS-00 to laggizm — 理論の成熟系列](https://camp-us.net/Gφ_From_SS-00_to_laggizm.html)  
 [Gφ-MTH-11｜登り窯ψBand── 勾配帯域としての持続構造｜Climbing Kiln ψBand — Persistence as Gradient Path](https://camp-us.net/articles/Gφ-MTH-11_Climbing-Kiln_Persistence-as-Gradient-Path.html)  
+[Gφ-MTH-12｜保存なき持続｜Persistence without Conservation](https://camp-us.net/articles/Gφ-MTH-12_Persistence-without-Conservation.html)  
 [HEG-13｜他者から地面へ ── lagの凝縮としての構文生成｜From Otherness to Ground — Condensation of Lag into Syntax](https://camp-us.net/articles/HEG-13_From-Otherness-to-Ground.html)  
 [EgQE｜Lag Generation Theory ── HEG-13 Core: From Otherness to Fiction of Ground](https://camp-us.net/articles/Core_HEG-13_Lag-Generation-Theory_Otherness-to-Ground.html)  
 [LC-01｜The Age of Laggizm ── 支えを取り戻す文明へ](https://camp-us.net/articles/LC-01_Age-of-Laggizm_Civilization-with-Support.html)  
