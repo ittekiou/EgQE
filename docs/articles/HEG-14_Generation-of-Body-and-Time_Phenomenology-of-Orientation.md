@@ -29,7 +29,7 @@ title_en: HEG-14｜Phenomenology of Orientation — The Generation of Body and T
 
 ## 1. 現象学の二系譜と残された問い
 
-**フッサール：時間の現象学**
+#### **フッサール：時間の現象学**
 
 内的時間意識── 保持・現在・予持の三重構造。
 
@@ -42,7 +42,7 @@ title_en: HEG-14｜Phenomenology of Orientation — The Generation of Body and T
 
 ---
 
-**ポンティ：身体の現象学**
+#### **ポンティ：身体の現象学**
 
 身体は世界への接点である。  
 知覚は身体を通じて起きる。
@@ -61,7 +61,7 @@ title_en: HEG-14｜Phenomenology of Orientation — The Generation of Body and T
 
 ---
 
-**二系譜の共通の限界：**
+#### **二系譜の共通の限界：**
 
 ```
 フッサール：前後を前提にした 
