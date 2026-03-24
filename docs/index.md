@@ -82,7 +82,9 @@ Try SyncHub!
 # EgQE Core
 
 🕰️ [Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて](https://camp-us.net/Non-Closure-Updating-Ontology.html)  
+
 [更新存在論から支えの理論へ｜HEG-08–12 Core Map](https://camp-us.net/articles/Core_HEG-8-12_Map_Satellite-Turn_Updating-Ontology.html)  
+
 [Lag Generation Theory ── HEG-13 Core: From Otherness to Fiction of Ground](https://camp-us.net/articles/Core_HEG-13_Lag-Generation-Theory_Otherness-to-Ground.html)  
 
 [TPD-Core｜Toroponic–Polygonic Dynamics: Rotational Genesis](https://camp-us.net/articles/Core_TPD_Toroponic-Polygonic-Dynamics_Rotational-Genesis.html)  
@@ -95,6 +97,7 @@ Try SyncHub!
 [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
 
 [宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)  
+
 [Principia Cosmogonica (v0.1)｜宇宙生成原論](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)  
 
 [Gφ-SN-PT｜構文周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)  

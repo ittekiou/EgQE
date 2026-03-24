@@ -262,6 +262,19 @@ Support Theory
 Satellite Turn
 ```
 
+**HEG-08 = 更新存在論**  
+👉 [EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
+**HEG-09 = lag存在論**  
+👉 [EgQE｜Lag Ontology ── HEG-09 Minimal Axioms](https://camp-us.net/articles/Core_HEG-9_Lag-Ontology.html)  
+**HEG-10 = lag動態原論**  
+👉 [EgQE｜有界持続的非閉包 ── HEG-10 Core Axioms](https://camp-us.net/articles/Core_HEG-10_Bounded-Persistent-Non-Closure.html)  
+**HEG-11  “他者→時空生成”論**  
+👉 [EgQE｜SO–lag Turn ── HEG-11 Otherness-Spacetime](https://camp-us.net/articles/Core_HEG-11_SO-lag-Turn_otherness-spacetime.html)  
+**HEG-11-2  “落下と軌道”論**  
+👉 [EgQE｜落下する宇宙 ── HEG-11 SO–lagと関係軌道](https://camp-us.net/articles/Core_HEG-11_SO-lag_and_Relational-Orbits_Falling-Universe.html)  
+**HEG-12  “落下と支え”の宇宙論**  
+👉 [EgQE｜Satellite Turn / Support Theory ── HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
+
 ---
 
 # Conceptual Flow
@@ -304,18 +317,8 @@ through lag
 
 ---
 
-**HEG-08 = 更新存在論**  
-👉 [EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
-**HEG-09 = lag存在論**  
-👉 [EgQE｜Lag Ontology ── HEG-09 Minimal Axioms](https://camp-us.net/articles/Core_HEG-9_Lag-Ontology.html)  
-**HEG-10 = lag動態原論**  
-👉 [EgQE｜有界持続的非閉包 ── HEG-10 Core Axioms](https://camp-us.net/articles/Core_HEG-10_Bounded-Persistent-Non-Closure.html)  
-**HEG-11  “他者→時空生成”論**  
-👉 [EgQE｜SO–lag Turn ── HEG-11 Otherness-Spacetime](https://camp-us.net/articles/Core_HEG-11_SO-lag-Turn_otherness-spacetime.html)  
-**HEG-12  “落下と支え”の宇宙論**  
-👉 [EgQE｜Satellite Turn / Support Theory ── HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
-**HEG-11-2  “落下と軌道”論**  
-👉 [EgQE｜落下する宇宙 ── HEG-11 SO–lagと関係軌道](https://camp-us.net/articles/Core_HEG-11_SO-lag_and_Relational-Orbits_Falling-Universe.html)  
+👉 **HEG-13  “他者から地面へ” lag生成論**  
+[EgQE｜Lag Generation Theory ── HEG-13 Core: From Otherness to Fiction of Ground](https://camp-us.net/articles/Core_HEG-13_Lag-Generation-Theory_Otherness-to-Ground.html)  
 
 ```
 HEG ＝ 存在生成（ontology / support / updating）
@@ -326,7 +329,6 @@ SN ＝ 数理構文（ratio / syntax / operator）
 
 [TPD-Core｜Toroponic–Polygonic Dynamics: Rotational Genesis](https://camp-us.net/articles/Core_TPD_Toroponic-Polygonic-Dynamics_Rotational-Genesis.html)  
 [TS-Core｜時間生成：Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
-
 
 ---
 *EgQE — Echo-Genesis Qualia Engine* / #Core  

@@ -169,6 +169,10 @@ HEG-13　Lag Generation Theory（地面の虚構）
 👉 [EgQE｜Satellite Turn / Support Theory ── HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)
 
 ---
+
+[更新存在論から支えの理論へ｜HEG-08–12 Core Map](https://camp-us.net/articles/Core_HEG-8-12_Map_Satellite-Turn_Updating-Ontology.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine* / #Core  
 [*camp-us.net*](https://camp-us.net/)
 

@@ -159,6 +159,10 @@ Support theory
 (Satellite Turn / ground generation)
 ```
 
+---
+
+[更新存在論から支えの理論へ｜HEG-08–12 Core Map](https://camp-us.net/articles/Core_HEG-8-12_Map_Satellite-Turn_Updating-Ontology.html)  
+
 **HEG-08 = 更新存在論**  
 👉 [EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
 **HEG-09 = lag存在論**  
@@ -167,6 +171,10 @@ Support theory
 👉 [EgQE｜有界持続的非閉包 ── HEG-10 Core Axioms](https://camp-us.net/articles/Core_HEG-10_Bounded-Persistent-Non-Closure.html)  
 **HEG-11  “他者→時空生成”論**  
 👉 [EgQE｜SO–lag Turn ── HEG-11 Otherness-Spacetime](https://camp-us.net/articles/Core_HEG-11_SO-lag-Turn_otherness-spacetime.html)  
+**HEG-11-2  “落下と軌道”論**  
+👉 [EgQE｜落下する宇宙 ── HEG-11 SO–lagと関係軌道](https://camp-us.net/articles/Core_HEG-11_SO-lag_and_Relational-Orbits_Falling-Universe.html)  
+**HEG-12  “落下と支え”の宇宙論**  
+👉 [EgQE｜Satellite Turn / Support Theory ── HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine* / #Core  
