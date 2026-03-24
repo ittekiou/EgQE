@@ -119,7 +119,7 @@ identity = stable persistence pattern
 脳は左右で機能が違う。  
 顔も完全対称ではない。
 
-この非対称性こそが——
+この非対称性こそが──
 
 ```
 ℓ ≠ 0

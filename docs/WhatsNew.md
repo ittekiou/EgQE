@@ -17,6 +17,12 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/24  
+[EgQE｜Z₀存在論 ── HEG-03 Core: Existence as Threshold Crossing](https://camp-us.net/articles/Core_HEG-3_Existence-as-Threshold-Crossing.html)  
+[EgQE｜拍動する宇宙 ── HEG-04 Core: Pulse, Residual, and Interference](https://camp-us.net/articles/Core_HEG-4_Pulse-Residual-Interference.html)  
+[EgQE｜ZURE偶然論 ── HEG-05 Core 偶然・必然・因果の生成構文](https://camp-us.net/articles/Core_HEG-5_ZURE-Theory-of-Contingency.html)  
+[EgQE｜生成の二層原理 ── HEG-06 Core R₀/Z₀変換](https://camp-us.net/articles/Core_HEG-6_Dual-Layer-irreversible-conversion.html)  
+[EgQE｜閉じない宇宙 ── HEG-07 Core 計算可能性の境界](https://camp-us.net/articles/Core_HEG-7_Non-Closure_floc-universe.html)  
 ###### 2026/03/23  
 [Gφ｜laggizm系譜ノート: From SS-00 to laggizm — 理論の成熟系列](https://camp-us.net/Gφ_From_SS-00_to_laggizm.html)  
 [Gφ-MTH-11｜登り窯ψBand── 勾配帯域としての持続構造｜Climbing Kiln ψBand — Persistence as Gradient Path](https://camp-us.net/articles/Gφ-MTH-11_Climbing-Kiln_Persistence-as-Gradient-Path.html)  
