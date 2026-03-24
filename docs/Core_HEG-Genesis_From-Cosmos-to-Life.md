@@ -69,7 +69,7 @@ title: HEG-G｜構文生成進化と深化の地層史 ── From Cosmos to Lif
 → Otherness generates spacetime
 
 **HEG-11｜関係軌道**  
-→ Orbit as relational stabilization
+→ Orbit as relational stabilization  
 
 → [更新存在論から支えの理論へ｜HEG-08–12 Core Map](https://camp-us.net/articles/Core_HEG-8-12_Map_Satellite-Turn_Updating-Ontology.html)  
 
@@ -78,11 +78,11 @@ title: HEG-G｜構文生成進化と深化の地層史 ── From Cosmos to Lif
 ### 🌍 支えと地面の層（Ground）
 
 **HEG-12｜Satellite Turn**  
-→ Fall → support → ground
+→ Fall → support → ground  
 → [EgQE HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
 
 **HEG-13｜Lag Generation Theory**  
-→ Ground as fiction
+→ Ground as fiction  
 → [EgQE HEG-13 Core](https://camp-us.net/articles/Core_HEG-13_Lag-Generation-Theory_Otherness-to-Ground.html)  
 
 ---
