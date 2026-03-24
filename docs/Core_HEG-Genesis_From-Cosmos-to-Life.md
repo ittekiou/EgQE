@@ -36,7 +36,7 @@ title: HEG-G｜構文生成進化と深化の地層史 ── From Cosmos to Lif
 → Existence as threshold  
 → [EgQE HEG-03 Core](https://camp-us.net/articles/Core_HEG-3_Existence-as-Threshold-Crossing.html)  
 
-**HEG-04｜拍動宇宙**  
+**HEG-04｜拍動する宇宙**  
 → Being as pulse  
 → [EgQE HEG-04 Core](https://camp-us.net/articles/Core_HEG-4_Pulse-Residual-Interference.html)  
 
