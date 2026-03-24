@@ -81,10 +81,11 @@ Try SyncHub!
 
 # EgQE Core
 
+⏳ [HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
+
 🕰️ [Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて](https://camp-us.net/Non-Closure-Updating-Ontology.html)  
 
 [更新存在論から支えの理論へ｜HEG-08–12 Core Map](https://camp-us.net/articles/Core_HEG-8-12_Map_Satellite-Turn_Updating-Ontology.html)  
-
 [Lag Generation Theory ── HEG-13 Core: From Otherness to Fiction of Ground](https://camp-us.net/articles/Core_HEG-13_Lag-Generation-Theory_Otherness-to-Ground.html)  
 
 [TPD-Core｜Toroponic–Polygonic Dynamics: Rotational Genesis](https://camp-us.net/articles/Core_TPD_Toroponic-Polygonic-Dynamics_Rotational-Genesis.html)  
@@ -96,9 +97,8 @@ Try SyncHub!
 [HEG Core Knot｜他者・空間・時間から黄金環へ ──幾何から構文へ至る宇宙論](https://camp-us.net/articles/Core_HEG-Knot_Otherness-to-Golden-Knot.html)  
 [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
 
-[宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)  
-
 [Principia Cosmogonica (v0.1)｜宇宙生成原論](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)  
+[宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)  
 
 [Gφ-SN-PT｜構文周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)  
 
@@ -154,6 +154,7 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+🗿 [EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)　リリース　2026.3.24  
 🌐 [Gφ｜Laggizm宣言｜Inter-Phase文明｜The Age of Laggizm](https://camp-us.net/Age-of-Laggizm.html)　リリース　2026.3.22  
 💠 [Gφ-SN-PT｜構文の周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)　リリース　2026.3.21  
 ℹ️ [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)　リリース　2026.3.20  

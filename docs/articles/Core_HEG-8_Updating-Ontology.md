@@ -53,6 +53,10 @@ _La structure naît d'une amorce._
 👉 [EgQE｜Satellite Turn / Support Theory ── HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
 
 ---
+
+[EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine* / #Core  
 [_camp-us.net_](https://camp-us.net/)  
 

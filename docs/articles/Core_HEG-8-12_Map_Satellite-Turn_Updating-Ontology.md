@@ -331,6 +331,10 @@ SN ＝ 数理構文（ratio / syntax / operator）
 [TS-Core｜時間生成：Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 
 ---
+
+[EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine* / #Core  
 [_camp-us.net_](https://camp-us.net/)  
 

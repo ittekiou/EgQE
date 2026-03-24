@@ -18,6 +18,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/03/24  
+[EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
+[EgQE｜関係が宇宙を生む ── HEG-01 Core: Relation as Genesis of Cosmos](https://camp-us.net/articles/Core_HEG-1_Relation-as-Genesis-of-Cosmos.html)  
 [EgQE｜記号行為論 ── HEG-02 Core: Meaning as Act, Not Ground](https://camp-us.net/articles/Core_HEG-2_Sign-Act-Theory_Meaning-as-Act.html)  
 [EgQE｜Z₀存在論 ── HEG-03 Core: Existence as Threshold Crossing](https://camp-us.net/articles/Core_HEG-3_Existence-as-Threshold-Crossing.html)  
 [EgQE｜拍動する宇宙 ── HEG-04 Core: Pulse, Residual, and Interference](https://camp-us.net/articles/Core_HEG-4_Pulse-Residual-Interference.html)  

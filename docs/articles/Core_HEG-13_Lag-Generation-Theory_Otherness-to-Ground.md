@@ -156,6 +156,8 @@ HEG-12　Satellite Turn（落下→支え→地面）
 HEG-13　Lag Generation Theory（地面の虚構）
 ```
 
+[更新存在論から支えの理論へ｜HEG-08–12 Core Map](https://camp-us.net/articles/Core_HEG-8-12_Map_Satellite-Turn_Updating-Ontology.html)  
+
 **HEG-08**  
 👉 [EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)  
 **HEG-09**  
@@ -166,11 +168,11 @@ HEG-13　Lag Generation Theory（地面の虚構）
 👉 [EgQE｜SO–lag Turn ── HEG-11 Otherness-Spacetime](https://camp-us.net/articles/Core_HEG-11_SO-lag-Turn_otherness-spacetime.html)  
 👉 [EgQE｜落下する宇宙 ── HEG-11 SO–lagと関係軌道](https://camp-us.net/articles/Core_HEG-11_SO-lag_and_Relational-Orbits_Falling-Universe.html)  
 **HEG-12**  
-👉 [EgQE｜Satellite Turn / Support Theory ── HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)
+👉 [EgQE｜Satellite Turn / Support Theory ── HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
 
 ---
 
-[更新存在論から支えの理論へ｜HEG-08–12 Core Map](https://camp-us.net/articles/Core_HEG-8-12_Map_Satellite-Turn_Updating-Ontology.html)  
+[EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine* / #Core  
