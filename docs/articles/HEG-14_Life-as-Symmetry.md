@@ -2,6 +2,7 @@
 layout: math
 title: HEG-14｜シンメトリーな生命 ── 前後の誕生と時間・同一性・対称性
 ---
+_HEG-14_ **──** **生命と身体の現象学**  
 # シンメトリーな生命
 ## ── 前後の誕生と時間・同一性・対称性
 
@@ -153,6 +154,10 @@ _Draft 0.1_
 _HEG-14への序章として_
 
 _向きを持ったとき世界は時間になった_
+
+---
+
+[HEG-14｜向きの現象学 ── 身体と時間の生成](https://camp-us.net/articles/HEG-14_Generation-of-Body-and-Time_Phenomenology-of-Orientation.html)  
 
 ---
 

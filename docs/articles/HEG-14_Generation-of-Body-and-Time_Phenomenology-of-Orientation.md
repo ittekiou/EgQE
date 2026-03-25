@@ -3,7 +3,8 @@ layout: math
 title: HEG-14｜向きの現象学 ── 身体と時間の生成
 title_en: HEG-14｜Phenomenology of Orientation — The Generation of Body and Time
 ---
- _HEG-14_ _Draft 0.1_  
+ _HEG-14_ **──** **生命と身体の現象学**  
+ _Draft 0.1_  
 # 向きの現象学
 ## ── 身体と時間の生成
 ## Phenomenology of Orientation — The Generation of Body and Time
@@ -290,6 +291,7 @@ _向きが生まれたとき
 ---
 
 [HEG-14｜シンメトリーな生命 ── 前後の誕生と時間・同一性・対称性](https://camp-us.net/articles/HEG-14_Life-as-Symmetry.html)  
+[HEG-14｜生成の現象学 序説](https://camp-us.net/articles/HEG-14_Phenomenology-of-Generative-Asymmetry.html)  
 
 ---
 
