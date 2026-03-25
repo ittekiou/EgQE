@@ -1,10 +1,10 @@
 ---
-title: HEG-14｜生成の現象学序説（共通序説）
+title: HEG-14｜生成の現象学 序説（共通序説）
 title_en: HEG-14｜Toward a Phenomenology of Generative Asymmetry
 layout: math
 ---
 ### **HEG-14–15｜共通序説**
-# **生成の現象学序説**
+# **生成の現象学 序説**
 ### _Toward a Phenomenology of Generative Asymmetry_
 
 _向きが生命を生み_  

@@ -147,7 +147,7 @@ HEG-16：
 
 > **向き（emergence） → 偏り（amplification） → 拘り（viscosity）**
 
-[HEG-14｜生成の現象学序説（共通序説）](https://camp-us.net/articles/HEG-14_Phenomenology-of-Generative-Asymmetry.html)  
+[HEG-14｜生成の現象学 序説（共通序説）](https://camp-us.net/articles/HEG-14_Phenomenology-of-Generative-Asymmetry.html)  
 [HEG-15｜偏りの現象学── 制度と社会の現象学（Core Definition）](https://camp-us.net/articles/HEG-15_Core-Definition_Phenomenology-of-Bias.html)  
 
 ---

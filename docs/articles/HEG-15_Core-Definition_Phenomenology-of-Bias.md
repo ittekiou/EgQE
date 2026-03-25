@@ -93,7 +93,7 @@ HEG-15：
 偏り（増幅されたズレの分布）
 ```
 
-[HEG-14｜生成の現象学序説（共通序説）](https://camp-us.net/articles/HEG-14_Phenomenology-of-Generative-Asymmetry.html)  
+[HEG-14｜生成の現象学 序説（共通序説）](https://camp-us.net/articles/HEG-14_Phenomenology-of-Generative-Asymmetry.html)  
 
 ---
 
