@@ -15,7 +15,7 @@ _HEG-15_ **──** **制度と社会の現象学**
 
 ## **Abstract**
 
-Social structure is not given as an external system of institutions or norms.  
+Social structure should not be treated as a pre-given external system of institutions or norms.    
 It emerges through the iterative interaction of **syntactically stabilized characters** that mediate between a fluid milieu and stabilized traces of structure.
 
 This paper reconceptualizes “character” not as personality, but as a **semiotic interface (Sign Act)** operating as an **Inter-Phase**—an asymmetric junction between relation-dominant and trace-dominant regimes.
@@ -88,7 +88,7 @@ At this junction:
 - traces are reactivated into relational differentiation (ΔR)
     
 
-Crucially, this is not a reversible transformation.  
+Crucially, this is not a reversible transformation in the sense of a symmetric mapping between ΔR and ΔZ.  
 It is an **asymmetric passage that produces deviation (ZURE)**.
 
 ---
@@ -216,6 +216,7 @@ This framework replaces the assumption of structural primacy with a model of **c
 The concepts of ΔR (relational differentiation), ΔZ (trace stabilization), support, ground, and Sign Act are developed within the HEG (Heterogeneous Emergence and Genesis) framework.   For foundational definitions, see:   
 [HEG-Genesis── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
 [Gφ-INDEX-01｜Inter-Phase Hub](https://camp-us.net/G%CF%86-INDEX-01_Inter-Phase-Hub.html)  
+[SS-06｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)  
 The present paper applies these concepts to social theory independently.
 
 ---
@@ -426,6 +427,7 @@ ground = fiction
 基礎的定義については以下を参照：  
 [HEG-Genesis── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
 [Gφ-INDEX-01｜Inter-Phase Hub](https://camp-us.net/G%CF%86-INDEX-01_Inter-Phase-Hub.html)  
+[SS-06｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)  
 本稿はこれらの概念を社会理論に独立して適用する。
 
 ---

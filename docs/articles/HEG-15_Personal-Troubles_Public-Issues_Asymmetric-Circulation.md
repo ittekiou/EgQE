@@ -14,7 +14,7 @@ _HEG-15_ **──** **制度と社会の現象学**
 
 This paper revisits the classical distinction between _personal troubles_ and _public issues_ by reformulating it within a syntactic framework of relational differentiation (ΔR) and trace stabilization (ΔZ).
 
-Rather than treating troubles and issues as different scales of the same problem, this study argues that they represent **distinct modes of asymmetry** within a non-reversible circulation between relational flow and stabilized trace.
+Rather than treating troubles and issues as different scales of the same problem, this study argues that they are **distinct modes of asymmetry** within the circulation between relational flow and stabilized trace— a circulation that is, crucially, non-reversible.
 
 Troubles are defined as **ΔZ-dominant accumulations lacking grounding**, while issues are defined as **ΔR-dominant expansions lacking institutional support**.  
 Their interaction constitutes an **asymmetric circulation**, whose repeated stabilization produces institutional order.
@@ -40,6 +40,8 @@ This paper proposes a different view:
 ---
 
 ## **2. Minimal Schema**
+
+The two are linked not by simple aggregation, but by translation through semiotic operations (Sign Acts) that are themselves asymmetric.  
 
 The relation can be formalized as:
 
@@ -190,7 +192,8 @@ they are continuously transformed within a non-closed generative process.
 
 ---
 
-[HEG-15｜社会構造生成論 ── 構文的キャラクターと非対称循環｜Social Genesis — Syntactic Character and Asymmetric Circulation](https://camp-us.net/articles/HEG-15_Social-Genesis.html)  
+[HEG-15｜Social Genesis — Syntactic Character and Asymmetric Circulation](https://camp-us.net/articles/HEG-15_Social-Genesis.html)  
+[SS-06｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

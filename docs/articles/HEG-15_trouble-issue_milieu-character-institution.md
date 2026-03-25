@@ -185,6 +185,9 @@ _動きがそう見えているだけだ_
 - 非対称循環  
 - 制度生成  
 
+### **構文は呼吸する ──両価性の生成原理**
+[SS-06｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)  
+
 ---
 
 # HEGとの接続
