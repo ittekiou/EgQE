@@ -174,13 +174,18 @@ _動きがそう見えているだけだ_
 
 ### 構文的キャラクター論
 [HEG-15｜社会構造生成論 ── 構文的キャラクターと非対称循環｜Social Genesis — Syntactic Character and Asymmetric Circulation](https://camp-us.net/articles/HEG-15_Social-Genesis.html)  
+
 > **社会理論の幹**
+
 - character = Inter-Phase  
 - 社会 = 相互作用の反復  
 - structure = 痕跡  
+
 ### trouble / issue論
 [HEG-15｜Personal Troubles and Public Issues as Asymmetric Circulation — A Syntactic Reinterpretation](https://camp-us.net/articles/HEG-15_Personal-Troubles_Public-Issues_Asymmetric-Circulation.html)  
+
 > **生成エンジン**
+
 - ΔZ / ΔR  
 - 非対称循環  
 - 制度生成  
@@ -215,7 +220,7 @@ HEG-14
 > ↓  
 > 客観的時間
 
-👉 HEG-15  
+HEG-15  
 > trouble ⇄ issue  
 > ↓  
 > 非対称整合  
@@ -290,31 +295,31 @@ structure
 ## ① 組織論
 - 会社
 - 官僚制
-- チーム
+- チーム  
 👉 **character配置 × issue循環**
 
 ## ② メディア論
 - 言説
 - バズ
-- 炎上
+- 炎上  
 👉 **issueの拡散構文**
 
 ## ③ 政治理論
 - 政策
 - 世論
-- 権力
+- 権力  
 👉 **issue→institution化プロセス**
 
 ## ④ AI社会論
 - AIキャラクター
 - 生成循環
-- lag再配置
+- lag再配置  
 👉 **非人間characterの登場**
 
 ## ⑤ 個人論
 - 主体
 - 意識
-- 自己
+- 自己  
 👉 **characterの内部構文**
 
 ---
