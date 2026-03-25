@@ -332,6 +332,10 @@ _完成させないことがいちばん正確である_
 > 残るものだけが 時となり
 > 終わりは 読まれ続ける
 
+---
+
+[EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  

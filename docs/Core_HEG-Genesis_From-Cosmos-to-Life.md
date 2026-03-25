@@ -124,6 +124,32 @@ Ground（fiction）
 Life
 ```
 
+
+---
+
+## 次なる展開へ：「生成の現象学」シリーズ
+
+_HEG-14_  
+**向きの現象学**  
+**── 生命と身体の現象学**  
+**Phenomenology of Orientation — The Generation of Life and Body**
+
+_HEG-15_  
+**偏りの現象学**  
+**── 制度と社会の現象学**  
+**Phenomenology of Bias — Asymmetric Genesis of Institution and Society**
+
+_HEG-16_  
+**拘りの現象学**  
+**── 価値と規範の現象学**  
+**Phenomenology of Êthos — Viscous Persistence of Value and Norms**
+
+```text
+HEG-14：向き（orientation）＝生成の方向　（生命によるズレ）
+HEG-15：偏り（bias）＝生成の分布（沈殿）　（制度による増幅）
+HEG-16：拘り（êthos）＝生成の粘性（持続の質）　（価値による持続）
+```
+
 ---
 
 ## 結語

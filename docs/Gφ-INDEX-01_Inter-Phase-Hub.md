@@ -177,6 +177,10 @@ From lag to language.
 ![φGenesisism](./assets/φ-Genesisism.png)  
 [φGenesisism 宣言](https://camp-us.net/Gφ.html)  
 
+---
+
+[EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  

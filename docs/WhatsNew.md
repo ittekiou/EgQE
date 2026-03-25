@@ -17,6 +17,10 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/25  
+[HEG-14｜生成の現象学序説｜Toward a Phenomenology of Generative Asymmetry（共通序説）](https://camp-us.net/articles/HEG-14_Phenomenology-of-Generative-Asymmetry.html)  
+[HEG-15｜偏りの現象学── 制度と社会の現象学｜Phenomenology of Bias — Asymmetric Genesis of Institution and Society（Core Definition）](https://camp-us.net/articles/HEG-15_Core-Definition_Phenomenology-of-Bias.html)  
+[HEG-16｜拘りの現象学── 価値と規範の現象学｜Phenomenology of Êthos — Viscous Persistence of Value and Norms（Core Skeleton）](https://camp-us.net/articles/HEG-16_Core-Skeleton_Phenomenology-of-Êthos.html)  
 ###### 2026/03/24  
 [EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
 [EgQE｜関係が宇宙を生む ── HEG-01 Core: Relation as Genesis of Cosmos](https://camp-us.net/articles/Core_HEG-1_Relation-as-Genesis-of-Cosmos.html)  
