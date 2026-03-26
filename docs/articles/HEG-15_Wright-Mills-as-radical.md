@@ -173,4 +173,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Mar 25, 2026 · Web Mar 25, 2026 |</p>
+<p align="center">| Drafted Mar 25, 2026 · Web Mar 26, 2026 |</p>
