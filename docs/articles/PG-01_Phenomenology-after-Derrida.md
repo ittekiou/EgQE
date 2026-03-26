@@ -6,12 +6,12 @@ subtitle: LE PROBLÈME DE LA GENÈSE OU LE MOUVEMENT DE LA GÉNÉRATION
 ---
 # **生成する時間と露出するepokhé**
 ## **── デリダ以後の現象学**
-### **LE PROBLÈME DE LA GENÈSE**
-### **OU LE MOUVEMENT DE LA GÉNÉRATION**
 ## **Time as Generation and Epoché as Exposure**
 ### **— Phenomenology after Derrida**
+### **LE PROBLÈME DE LA GENÈSE**
+### **OU LE MOUVEMENT DE LA GÉNÉRATION**
 
-[PG-01｜Le temps comme génération et l’épochè comme exposition — Phénoménologie après Derrida: LE PROBLÈME DE LA GENÈSE OU LE MOUVEMENT DE LA GÉNÉRATION](https://camp-us.net/articles/PG-01_Phénoménologie-après-Derrida.html)  
+[PG-01｜Le temps comme génération et l’épochè comme exposition — Phénoménologie après Derrida](https://camp-us.net/articles/PG-01_Phénoménologie-après-Derrida.html)  
 
 ---
 
