@@ -195,8 +195,8 @@ Le temps ne s’écoule pas.
 
 ---
 
-[PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
-[PG-01｜生成する時間と露出するepokhé ── デリダ以後の現象学｜Time as Generation and Epoché as Exposure — Phenomenology after Derrida](https://camp-us.net/articles/PG-01_Phenomenology-after-Derrida.html)  
+[PG｜Phenomenology of Genesis](https://camp-us.net/PG.html)  
+[PG-01｜Time as Generation and Epoché as Exposure — Phenomenology after Derrida](https://camp-us.net/articles/PG-01_Phenomenology-after-Derrida.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
