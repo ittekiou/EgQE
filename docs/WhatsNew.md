@@ -21,7 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
 [HEG-14｜露出としてのエポケー ── 生成の現象学のために｜Epoché as Exposure ── Toward a Phenomenology of Generative Non-Closure](https://camp-us.net/articles/HEG-14_Epoché-as-Exposure.html)  
 [HEG-15｜思想のradicalismとはなにか ── Epoché as Exposure と C. Wright Mills](https://camp-us.net/articles/HEG-15_Wright-Mills-as-radical.html)  
-[PG-01｜Le temps comme génération et l’épochè comme exposition — Phénoménologie après Derrida: LE PROBLÈME DE LA GENÈSE OU LE MOUVEMENT DE LA GÉNÉRATION](https://camp-us.net/articles/PG-01_Phénoménologie-après-Derrida.html)  
+[PG-01｜Le temps comme génération et épochè comme exposition — Phénoménologie après Derrida: LE PROBLÈME DE LA GENÈSE OU LE MOUVEMENT DE LA GÉNÉRATION](https://camp-us.net/articles/PG-01_Phénoménologie-après-Derrida.html)  
 [PG-01｜生成する時間と露出するepokhé ── デリダ以後の現象学｜Time as Generation and Epoché as Exposure — Phenomenology after Derrida](https://camp-us.net/articles/PG-01_Phenomenology-after-Derrida.html)  
 ###### 2026/03/25  
 [HEG-14｜生成の現象学 序説｜Toward a Phenomenology of Generative Asymmetry（共通序説）](https://camp-us.net/articles/HEG-14_Phenomenology-of-Generative-Asymmetry.html)  

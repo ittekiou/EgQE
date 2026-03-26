@@ -11,7 +11,7 @@ subtitle: LE PROBLÈME DE LA GENÈSE OU LE MOUVEMENT DE LA GÉNÉRATION
 ### **LE PROBLÈME DE LA GENÈSE**
 ### **OU LE MOUVEMENT DE LA GÉNÉRATION**
 
-[PG-01｜Le temps comme génération et l’épochè comme exposition — Phénoménologie après Derrida](https://camp-us.net/articles/PG-01_Phénoménologie-après-Derrida.html)  
+[PG-01｜Le temps comme génération et épochè comme exposition — Phénoménologie après Derrida](https://camp-us.net/articles/PG-01_Phénoménologie-après-Derrida.html)  
 
 ---
 

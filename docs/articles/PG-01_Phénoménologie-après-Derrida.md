@@ -1,9 +1,9 @@
 ---
 layout: math
-title: PG-01｜Le temps comme génération et l’épochè comme exposition — Phénoménologie après Derrida
+title: PG-01｜Le temps comme génération et épochè comme exposition — Phénoménologie après Derrida
 subtitle: LE PROBLÈME DE LA GENÈSE OU LE MOUVEMENT DE LA GÉNÉRATION
 ---
-# **Le temps comme génération et l’épochè comme exposition**
+# **Le temps comme génération et épochè comme exposition**
 ## **— Phénoménologie après Derrida**
 
 ### **LE PROBLÈME DE LA GENÈSE**
@@ -74,9 +74,9 @@ Le temps n’est pas le résultat de la genèse.
 
 ---
 
-## **4. L’épochè comme exposition**
+## **4. Épochè comme exposition**
 
-L’épochè n’est pas une suspension.
+Épochè n’est pas une suspension.
 
 Elle consiste à retirer les présupposés  
 afin de laisser apparaître la structure générative.
