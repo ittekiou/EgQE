@@ -2,6 +2,7 @@
 title: HEG-15｜社会構造生成論としての構文的キャラクター論（v0.1）
 title_en: HEG-15｜Syntactic Character Theory of Social Structure Genesis
 ---
+_HEG-15_ **──** **制度と社会の現象学**  
 # 社会構造生成論としての構文的キャラクター論 v0.1
 ## Syntactic Character Theory of Social Structure Genesis
 

@@ -3,6 +3,7 @@ layout: math
 title: HEG-15｜思想のradicalismとはなにか ── Epoché as Exposure と C. Wright Mills
 title_en:
 ---
+_HEG-15_ **──** **制度と社会の現象学**  
 # **思想のradicalismとはなにか**
 ## **── Epoché as Exposure と C. Wright Mills**
 

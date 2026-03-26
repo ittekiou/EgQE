@@ -3,6 +3,7 @@ layout: math
 title: HEG-14｜露出としてのエポケー ── 生成の現象学のために
 title_en: HEG-14｜Epoché as Exposure ── Toward a Phenomenology of Generative Non-Closure
 ---
+_HEG-14_ **──** **生命と身体の現象学**  
 # **Epoché as Exposure**
 ## **── Toward a Phenomenology of Generative Non-Closure**
 # 露出としてのエポケー
