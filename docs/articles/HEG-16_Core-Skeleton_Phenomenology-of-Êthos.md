@@ -183,7 +183,7 @@ HEG-16：
 
 ---
 
-[EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
+[PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

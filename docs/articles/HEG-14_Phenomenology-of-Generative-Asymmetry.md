@@ -184,6 +184,8 @@ _HEG-16_
 **── 価値と規範の現象学**  
 **Phenomenology of Êthos — Viscous Persistence of Value and Norms**
 
+[PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
+
 ---
 
 _すべては_  
