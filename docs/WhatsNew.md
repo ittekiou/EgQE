@@ -20,7 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/03/26  
 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
 [HEG-14｜露出としてのエポケー ── 生成の現象学のために｜Epoché as Exposure ── Toward a Phenomenology of Generative Non-Closure](https://camp-us.net/articles/HEG-14_Epoché-as-Exposure.html)  
-
+[HEG-15｜思想のradicalismとはなにか ── Epoché as Exposure と C. Wright Mills](https://camp-us.net/articles/HEG-15_Wright-Mills-as-radical.html)  
 ###### 2026/03/25  
 [HEG-14｜生成の現象学 序説｜Toward a Phenomenology of Generative Asymmetry（共通序説）](https://camp-us.net/articles/HEG-14_Phenomenology-of-Generative-Asymmetry.html)  
 [HEG-15｜偏りの現象学── 制度と社会の現象学｜Phenomenology of Bias — Asymmetric Genesis of Institution and Society（Core Definition）](https://camp-us.net/articles/HEG-15_Core-Definition_Phenomenology-of-Bias.html)  
