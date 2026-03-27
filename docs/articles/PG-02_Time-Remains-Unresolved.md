@@ -280,6 +280,8 @@ Under this re-description:
 
 This correspondence does not reduce Derrida’s framework, but repositions it within a generative account.
 
+Derrida’s move does not escape the presupposition of time, but refines it into its most subtle form.
+
 ---
 
 _Time is not presupposed._  
