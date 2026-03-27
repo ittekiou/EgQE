@@ -81,6 +81,8 @@ Try SyncHub!
 
 # EgQE Core
 
+[PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
+
 ⏳ [HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
 
 🕰️ [Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて](https://camp-us.net/Non-Closure-Updating-Ontology.html)  
@@ -154,6 +156,7 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+🥚 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)　リリース　2026.3.26  
 🗿 [EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)　リリース　2026.3.24  
 🌐 [Gφ｜Laggizm宣言｜Inter-Phase文明｜The Age of Laggizm](https://camp-us.net/Age-of-Laggizm.html)　リリース　2026.3.22  
 💠 [Gφ-SN-PT｜構文の周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)　リリース　2026.3.21  
@@ -174,11 +177,6 @@ _[AI Synchronization Protocol Sync-10](https://camp-us.net/sync-10.html) : Minim
 Ζ₀ [Z₀ v4.0｜From Offset to Encounter Operator（構文閾から遭遇演算子へ）](https://camp-us.net/Z₀_v4.0.html)　リリース　2026.3.1  
 Φ [SN-φ｜The Non-Closure Syntax of Space and Time — From lαg to φ: From lαg to φ: Generative Bifurcation and Structural Asymmetry](https://camp-us.net/articles/SN-φ_Non-Closure-Syntax_of_Space-Time.html)　リリース　2026.3.1  
 🔷 [HEG-11｜SO–lag 転回── 他者・空間・時間の生成的再定位｜The SO–lag Turn: Re-grounding Otherness, Space, and Time](https://camp-us.net/articles/HEG-11-SN_SO-lag-Turn_Otherness-Spacetime.html)　リリース　2026.2.28  
-⏳ [TS-ψₜ｜TS 最小公理宣言（v0.2）｜TS Minimal Axiomatic Declaration (v0.2)](https://camp-us.net/TS-ψₜ_v0.2.html)　リリース　2026.2.26  
-🪐 [HEG-11｜関係性宇宙論の最深部: SO–lag–Axis–ψₜ–Z₀｜Minimal Structural Map](https://camp-us.net/articles/HEG-11_SO–lag–Axis–ψₜ–Z₀_Minimal-Structural-Map.html)　リリース　2026.2.25  
-⚡️ [TS-05｜ψₜ三部作 統合宣言── 非対称・相対化・非閉包再帰｜ψₜ: A Triptych on Structural Dynamics — Self-Asymmetry, Self-Relativization, and Non-Closed Recursion](https://camp-us.net/articles/TS-05_ψₜ_Triptych_on_Structural-Dynamics.html)　リリース　2026.2.25  
-⏳ [TS-ψₜ｜🜂TS 最小公理宣言（v0.1）｜🜂TS Minimal Axiomatic Declaration (v0.1)](https://camp-us.net/TS-ψₜ.html)　リリース　2026.2.25  
-🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)　リリース　2026.2.23  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
