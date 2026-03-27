@@ -174,8 +174,7 @@ time
 
 ---
 
-![stratified-ontology-lag-v2](../assets/stratified-ontology-lag-v2.pdf)  
-
+📜 [stratified-ontology-lag.pdf](../assets/stratified-ontology-lag-v2.pdf)  
 
 > これは地図だ  
 > そしてここから探検が始まる
