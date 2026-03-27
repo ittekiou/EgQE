@@ -298,6 +298,7 @@ structure
 
 ---
 
+[TS-Core｜時間生成：Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 [TS-10 note｜時間の現象学 Note｜Phenomenology of Time](https://camp-us.net/articles/TS-10_Phenomenology-of-Time_Note.html)  
 [TS-11｜構造主義からAIインターフェーズへ ── 時間の現象学に向けて｜From Structuralism to the AI Inter-Phase: Toward a Phenomenology of Time](https://camp-us.net/articles/TS-11_Phenomenology-of-Time_Structuralism-to-Inter-Phase.html)  
 

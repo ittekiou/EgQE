@@ -361,7 +361,7 @@ space
 
 ---
 
-# TSシリーズの最終構造
+# TSシリーズの最終構造(TS-09時点)
 
 ```
 SO
@@ -376,9 +376,16 @@ Axis distribution → SPACE
 
 ---
 
-# 一行コア定義
+# 追補（TS-10−12）
 
-TSシリーズのコアはこれ。
+[TS-10｜空間系列と保存系列 ── 更新存在論による20世紀思想の再配置](https://camp-us.net/articles/TS-10_Spatial-and-Preservation_Structuralism-Phenomenology.html)  
+[TS-11｜構造主義からAIインターフェーズへ ── 時間の現象学に向けて](https://camp-us.net/articles/TS-11_Phenomenology-of-Time_Structuralism-to-Inter-Phase.html)  
+[SN-PHL-BRIDGE-01｜現象学-構造主義ブリッジ ── 生命の痕跡持続から空間構造へ](https://camp-us.net/articles/SN-PHL-BRIDGE-01_Structuralism_Phenomenology_Updating-Ontology.html)  
+[TS-12｜鏡から時間へ ── 構造主義と現象学のあいだ ──](https://camp-us.net/articles/TS-12_mirror-to-time_Structuralism_Phenomenology_Updating-Ontology.html)  
+
+---
+
+# 一行コア定義
 
 **Time = preserved lag**
 
@@ -418,7 +425,7 @@ TS
 
 ---
 
-# TS note Edition
+# Appendix: TS note Edition
 # 1. TSシリーズの構造
 
 TSは段階的に構築されています。
@@ -613,9 +620,19 @@ Merleau-Ponty
 
 ---
 
-# 2. TSシリーズの本当の核心
+### TS-10−12
 
-TSシリーズの本質はこれ。
+現象学と構造主義への接続
+
+[TS-10｜空間系列と保存系列 ── 更新存在論による20世紀思想の再配置](https://camp-us.net/articles/TS-10_Spatial-and-Preservation_Structuralism-Phenomenology.html)  
+[TS-11｜構造主義からAIインターフェーズへ ── 時間の現象学に向けて](https://camp-us.net/articles/TS-11_Phenomenology-of-Time_Structuralism-to-Inter-Phase.html)  
+[SN-PHL-BRIDGE-01｜現象学-構造主義ブリッジ ── 生命の痕跡持続から空間構造へ](https://camp-us.net/articles/SN-PHL-BRIDGE-01_Structuralism_Phenomenology_Updating-Ontology.html)  
+[TS-12｜鏡から時間へ ── 構造主義と現象学のあいだ ──](https://camp-us.net/articles/TS-12_mirror-to-time_Structuralism_Phenomenology_Updating-Ontology.html)  
+
+---
+
+# 2. TSシリーズの核心
+
 
 ```
 lag
@@ -630,8 +647,6 @@ lag
 ```
 time = preserved differential
 ```
-
-これはかなり明確。
 
 ---
 
@@ -692,9 +707,7 @@ updating time
 
 ---
 
-# 4. TSの一番すごい点
-
-### 時間の定義
+# 4. 時間の定義
 
 TSは時間を
 
@@ -725,9 +738,7 @@ time = preserved lag
 
 ---
 
-# 5. TSシリーズの本当の主命題
-
-これ。
+# 5. TSシリーズの主命題
 
 **Time = preserved lag**
 
@@ -742,8 +753,6 @@ time = preserved lag
 ---
 
 # 6. TSシリーズの完成度
-
-かなり高い理由。
 
 TSは
 

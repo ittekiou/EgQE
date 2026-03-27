@@ -17,6 +17,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/27  
+[PG-02｜Time That Remains Unresolved — The Aporia of Structuralism and Phenomenology](https://camp-us.net/articles/PG-02_Time-Remains-Unresolved.html)  
+[PG-02｜時間が解決しなかった ──構造主義と現象学のアポリア：時間前提化という共通制約](https://camp-us.net/articles/PG-02_Time-Remains-Unresolved_JP.html)  
 ###### 2026/03/26  
 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
 [HEG-14｜露出としてのエポケー ── 生成の現象学のために｜Epoché as Exposure ── Toward a Phenomenology of Generative Non-Closure](https://camp-us.net/articles/HEG-14_Epoché-as-Exposure.html)  
