@@ -3,7 +3,8 @@ layout: math
 title: HEG-13｜時間の地層（ψ） — 持続の構文論としての時間
 title_en: "HEG-13｜The Temporal Strata (ψ) — Stratified Ontology of Lag: Toward a Theory of Persistence"
 ---
-### **HEG-13｜Toward a Theory of Persistence
+### **HEG-13｜Toward a Theory of Persistence**
+#### **存在の地層と古層Ⅳ**
 
 # **時間の地層（ψ）**
 ## — 持続の構文論としての時間
