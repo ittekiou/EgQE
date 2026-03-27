@@ -286,6 +286,10 @@ This correspondence does not reduce Derrida’s framework, but repositions it wi
 [TS-Core｜Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 
 ---
+
+[PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 
