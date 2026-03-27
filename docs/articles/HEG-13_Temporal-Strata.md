@@ -17,6 +17,9 @@ title_en: "HEG-13｜The Temporal Strata (ψ) — Stratified Ontology of Lag: Tow
 # **The Temporal Strata (ψ)**
 ## — Stratified Ontology of Lag
 
+> Time is not given.  
+> It is generated as persistence.
+
 ---
 
 ## **Abstract**
