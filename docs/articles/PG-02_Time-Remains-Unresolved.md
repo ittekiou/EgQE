@@ -182,7 +182,7 @@ time (phenomenal emergence)
 
 > The arrows (↓) in this sequence do not indicate temporal succession.  
 > They express a relation of structural dependence.  
-> In other words, the sequence is not ordered in time, but articulates the generative priority of lag.  
+> In other words, the sequence is not ordered in time, but articulates the generative priority of lag. Priority here does not indicate sequence, but condition.  
 > (For a systematic formulation, see [TS-Core](https://camp-us.net/articles/Core_TS_Time-Syntax.html).)
 
 Crucially:
