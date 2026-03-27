@@ -282,6 +282,11 @@ This correspondence does not reduce Derrida’s framework, but repositions it wi
 
 ---
 
+_Time is not presupposed._  
+_It is the persistence of irreversible difference._
+
+---
+
 [PG-02｜時間が解決しなかった ──構造主義と現象学のアポリア：時間前提化という共通制約](https://camp-us.net/articles/PG-02_Time-Remains-Unresolved_JP.html)  
 [TS-Core｜Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 
