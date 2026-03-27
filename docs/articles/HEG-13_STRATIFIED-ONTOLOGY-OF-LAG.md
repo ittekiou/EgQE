@@ -174,7 +174,7 @@ time
 
 ---
 
-📜 [stratified-ontology-lag.pdf](https://camp-us.net/assets/stratified-ontology-lag-v2.pdf)  
+📜 [DEEP LAYER AND STRATA.pdf](https://camp-us.net/assets/stratified-ontology-lag-v2.pdf)  
 
 > これは地図だ  
 > そしてここから探検が始まる
