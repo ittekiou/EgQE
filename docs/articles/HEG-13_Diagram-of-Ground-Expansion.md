@@ -134,6 +134,7 @@ Deep Layer (generative conditions)
 ---
 
 [HEG-13｜存在の地層と古層 — 存在地層学 序説｜STRATIFIED ONTOLOGY OF LAG — DEEP LAYER AND STRATA](https://camp-us.net/articles/HEG-13_STRATIFIED-ONTOLOGY-OF-LAG.html)  
+[HEG-13｜時間の地層（ψ） — 持続の構文論としての時間｜The Temporal Strata (ψ) — Stratified Ontology of Lag: Toward a Theory of Persistence](https://camp-us.net/articles/HEG-13_Temporal-Strata.html)  
 
 ---
 

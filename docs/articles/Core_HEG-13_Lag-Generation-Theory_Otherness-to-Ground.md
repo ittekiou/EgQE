@@ -147,6 +147,7 @@ lagは消えない。
 
 #### 存在地層学
 [HEG-13｜存在の地層と古層 — 存在地層学 序説](https://camp-us.net/articles/HEG-13_STRATIFIED-ONTOLOGY-OF-LAG.html)  
+[HEG-13｜時間の地層（ψ） — 持続の構文論としての時間](https://camp-us.net/articles/HEG-13_Temporal-Strata.html)  
 
 **鳥瞰図**  
 [HEG-13｜存在地層学（図解ノート）](https://camp-us.net/articles/HEG-13_Diagram-of-Ground-Expansion.html)  

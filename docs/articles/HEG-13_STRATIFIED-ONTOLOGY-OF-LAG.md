@@ -638,6 +638,8 @@ support / orientation → space
 
 👉 **構造・現象・運動**
 
+Ⅳ：持続 👉 [HEG-13｜時間の地層（ψ） — 持続の構文論としての時間｜The Temporal Strata (ψ) — Stratified Ontology of Lag: Toward a Theory of Persistence](https://camp-us.net/articles/HEG-13_Temporal-Strata.html)  
+
 ---
 
 > 古層が生成し、地層が現れる  
@@ -867,6 +869,20 @@ lag
 
 > 生成は現れ、現れは戻る  
 > その往復が存在である
+
+---
+
+- Ⅰ：古層（生成）
+    
+- Ⅱ：地層（現れ）
+    
+- Ⅲ：往復（ダイナミクス）
+	
+- Ⅳ：時間（持続）
+
+👉 **構造・現象・運動・持続**
+
+[HEG-13｜時間の地層（ψ） — 持続の構文論としての時間｜The Temporal Strata (ψ) — Stratified Ontology of Lag: Toward a Theory of Persistence](https://camp-us.net/articles/HEG-13_Temporal-Strata.html)  
 
 ---
 
