@@ -144,6 +144,8 @@ distribution → SPACE
 
 [TS-06｜構文不可逆性と時間生成── ψₜ–Z₀ 更新モデル（構文的定式）](https://camp-us.net/articles/TS-06_ψₜ_Temporal-Irreversibility.html)  
 
+[EgQE｜SN-ψ Core｜Preservation, Time, and the H7–θₐ Band](https://camp-us.net/articles/Core_SN-%CF%88_Preservation_Time_H7-%CE%B8%E2%82%90-Band.html)  
+
 ---
 
 # Series Position
