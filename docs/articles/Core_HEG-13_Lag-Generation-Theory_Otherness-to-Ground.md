@@ -44,6 +44,8 @@ otherness（他者）
 　ground = fiction of closure
 ```
 
+[HEG-13｜存在の地層と古層 — 存在地層学（図解ノート）](https://camp-us.net/articles/HEG-13_Diagram-of-Ground-Expansion.html)  
+
 ---
 
 ## 二系列
@@ -142,6 +144,12 @@ lagは消えない。
 
 **入口**  
 [HEG-13｜From Otherness to Ground](https://camp-us.net/articles/HEG-13_From-Otherness-to-Ground.html)
+
+#### 存在地層学
+[HEG-13｜存在の地層と古層 — 存在地層学 序説](https://camp-us.net/articles/HEG-13_STRATIFIED-ONTOLOGY-OF-LAG.html)  
+
+**鳥瞰図**  
+[HEG-13｜存在地層学（図解ノート）](https://camp-us.net/articles/HEG-13_Diagram-of-Ground-Expansion.html)  
 
 ---
 
