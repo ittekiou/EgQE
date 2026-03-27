@@ -412,9 +412,9 @@ They are recursive exposures of a deeper generative field.
 
 ---
 
-# **存在の地層と古層Ⅱ
+# **存在の地層と古層Ⅱ**
 ## — 地層（Strata）の再定義  
-### Stratified Ontology of Lag II — The Strata**
+### Stratified Ontology of Lag II — The Strata
 
 ---
 
@@ -645,9 +645,9 @@ support / orientation → space
 
 ---
 
-# **存在の地層と古層Ⅲ
+# **存在の地層と古層Ⅲ**
 ## — 往復・露頭・痕跡  
-### Stratified Ontology of Lag III — Reciprocity, Outcrop, and Trace (ΔZ)**
+### Stratified Ontology of Lag III — Reciprocity, Outcrop, and Trace (ΔZ)
 
 ---
 
