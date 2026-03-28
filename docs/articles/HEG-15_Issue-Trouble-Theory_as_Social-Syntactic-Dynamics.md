@@ -6,8 +6,8 @@ subtitle: HEG-15｜La théorie issue–trouble comme dynamique syntaxique du soc
 ---
 _HEG-15_ **──** **制度と社会の現象学**  
 # **社会構文動態論としてのIssue–Trouble theory**
-# **Issue–Trouble Theory as Social Syntactic Dynamics**
-# **La théorie issue–trouble comme dynamique syntaxique du social**
+## **Issue–Trouble Theory as Social Syntactic Dynamics**
+## **La théorie issue–trouble comme dynamique syntaxique du social**
 
 ---
 
