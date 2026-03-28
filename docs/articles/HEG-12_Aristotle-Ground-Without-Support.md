@@ -472,6 +472,10 @@ fall → (support) → subject → object → project
 _The Cartesian cogito was an unsupported ground._
 
 ---
+
+[EgQE｜HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

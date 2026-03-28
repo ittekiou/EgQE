@@ -123,6 +123,8 @@ And
 
 [HEG-12｜近代思想における支えの背景化 ── ガリレオからデカルト・ニュートンへ｜The Backgrounding of Support in Modern Thought — From Galileo to Descartes and Newton —](https://camp-us.net/articles/HEG-12_Backgrounding-of-Support.html)  
 
+[HEG-12-SS｜supportの両価性 ── 生成と不可視化の同時性](https://camp-us.net/articles/HEG-12-SS_support-Ambivalence.html)  
+
 **HEG Core Diagram**
 
 ```

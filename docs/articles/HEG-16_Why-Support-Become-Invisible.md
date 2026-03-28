@@ -476,6 +476,7 @@ supportの不可視化
 ---
 
 [HEG-16｜社会学的想像力から構文的露出へ ── milieu・trouble・support・issue ── 記述される構造から支える構文へ](https://camp-us.net/articles/HEG-16_From_Sociological-Imagination_to_Syntactical-Exposure.html)  
+[HEG-12-SS｜supportの両価性 ── 生成と不可視化の同時性](https://camp-us.net/articles/HEG-12-SS_support-Ambivalence.html)  
 
 ---
 

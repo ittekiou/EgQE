@@ -121,6 +121,10 @@ And we live by
 [HEG-12｜地上の条件 ── 非閉包の不安定と支えという安定｜Conditions of the Ground — Instability of Non-Closure and Stability of Support](https://camp-us.net/articles/HEG-12_Conditions-of-the-Ground.html)  
 
 ---
+
+[EgQE｜HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

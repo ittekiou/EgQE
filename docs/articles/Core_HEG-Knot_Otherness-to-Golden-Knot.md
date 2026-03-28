@@ -92,10 +92,10 @@ Cosmological Syntax
 │  lag → lαg  
 │  
 │  [HEG-11](https://camp-us.net/articles/Core_HEG-11_SO-lag-Turn_otherness-spacetime.html)  
-│  Support Theory  
+│  SO–lag  Theory   
 │  
 │  [HEG-12](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
-│  Artificial Satellite / Ground  
+│   Support Theory 
 │  
 │  HEG-13  
 │  Geometry → Syntax  
@@ -116,10 +116,10 @@ Multi-Origin Theory
 lag → lαg  
 ↓  
 [HEG-11](https://camp-us.net/articles/Core_HEG-11_SO-lag-Turn_otherness-spacetime.html)  
-Support Theory  
+SO–lag  Theory  
 ↓  
 [HEG-12](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
-Satellite / Ground  
+Support  Theory  
 ↓  
 HEG-13  
 Cosmological Description  
@@ -221,8 +221,8 @@ Syntax
                          
       HEG-9 Multi-Origin
       HEG-10 lag → lαg
-      HEG-11 Support Theory
-      HEG-12 Satellite / Ground
+      HEG-11 SO–lag  Theory
+      HEG-12 Support Theory
       HEG-13 Geometry → Syntax
 ```
 

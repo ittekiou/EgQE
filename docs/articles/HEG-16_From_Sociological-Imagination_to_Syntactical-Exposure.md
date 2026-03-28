@@ -518,6 +518,8 @@ Not to interpret structure, but to expose support.
 
 [HEG-16「supportはなぜ見えなくなるのか？」](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) では、「ΔR–ΔZ循環の非対称がもたらすsupportの不可視化」を再定式化し、trouble / issue の変換機構における構造的空白を動的に埋めた。
 
+[HEG-12-SS｜supportの両価性 ── 生成と不可視化の同時性](https://camp-us.net/articles/HEG-12-SS_support-Ambivalence.html)  
+
 ---
 
 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  

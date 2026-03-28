@@ -295,6 +295,10 @@ The universe then appears not as a static ontology, but as the evolving **syntax
 > The missing support became the lost "Support".
 
 ---
+
+[EgQE｜HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

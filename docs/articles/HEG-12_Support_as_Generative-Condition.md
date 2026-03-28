@@ -291,6 +291,10 @@ And
 [HEG-12｜サテライト転回とはなにか｜The Satellite Turn ― Inter-Phase時代の存在と宇宙 ―](https://camp-us.net/articles/HEG-12_Satellite-Turn_Inter-Phase-Age.html)  
 
 ---
+
+[EgQE｜HEG-12 Core](https://camp-us.net/articles/Core_HEG-12_Satellite-Turn_Support-Theory.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

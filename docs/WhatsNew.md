@@ -20,6 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/03/29  
 [HEG-16｜supportはなぜ見えなくなるのか？ ── ΔR–ΔZ非対称循環としての社会｜Why Does Support Become Invisible? — Society as Asymmetric Circulation between ΔR and ΔZ](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html)  
 [HEG-16｜社会学的想像力から構文的露出へ ── milieu・trouble・support・issue ── 記述される構造から支える構文へ｜From Sociological Imagination to Syntactical Exposure — milieu, trouble, support, issue — From Interpreted Structure to Exposed Support](https://camp-us.net/articles/HEG-16_From_Sociological-Imagination_to_Syntactical-Exposure.html)  
+[HEG-12-SS｜supportの両価性 ── 生成と不可視化の同時性](https://camp-us.net/articles/HEG-12-SS_support-Ambivalence.html)  
 ###### 2026/03/28  
 [Gφ-LNG-02｜多角形構文と思想史 ── 言語位相の遷移としての生成｜Polygonal Syntax and the History of Thought — Genesis as a Transition of Linguistic Phases](https://camp-us.net/articles/Gφ-LNG-02_Polygonal-Transition-of-Linguistic-Syntax.html)  
 [Gφ-LNG-03｜一周した非閉包 ── 言語構文の多角形的回帰｜Polygonal Loop — Syntax after a Full Rotation](https://camp-us.net/articles/Gφ-LNG-03_Polygonal-Loop_Syntax-after-Rotation.html)  
