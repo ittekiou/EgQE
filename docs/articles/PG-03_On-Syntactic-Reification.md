@@ -439,6 +439,10 @@ _社会は動き出す_
 
 ---
 
+[HEG-16「supportはなぜ見えなくなるのか？」](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) では、 構文的物象化を「ΔR–ΔZ循環の非対称がもたらすsupportの不可視化」として再定式化し、trouble / issueの変換機構の空白を動的に埋める。
+
+---
+
 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
 
 ---

@@ -191,6 +191,10 @@ _Mills discovered a relational movement, but did not formalize the syntax that s
 
 ---
 
+[HEG-16 "Why Does Support Become Invisible?"](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) syntactically clarifies "why trouble⇄issue becomes distorted" from the relationship between "asymmetric circulation between ΔR and ΔZ" and "structure = invisible support."
+
+---
+
 # **未完のミルズ**
 ## **── 文化装置とセミオティクス**
 
@@ -481,6 +485,10 @@ issue⇄trouble論は、この閉包を回避する稀な構文である。
 
 _閉じないとき_  
 _関係は続く_
+
+---
+
+[HEG-16「supportはなぜ見えなくなるのか？」](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) では、「ΔR–ΔZ 循環の非対称」と「構造＝invisible support」の関係から「なぜ trouble⇄issue が歪むのか」を構文的に明らかにする。
 
 ---
 

@@ -139,6 +139,12 @@ La société est mouvement.
 
 ---
 
+[HEG-16「supportはなぜ見えなくなるのか？」](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) では、「構造＝invisible support」と「ΔR–ΔZ の非対称循環」から「なぜ trouble⇄issue が歪むのか」を構文的に明らかにする。  
+
+[HEG-16 "Why Does Support Become Invisible?"](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) syntactically clarifies "why trouble⇄issue becomes distorted" from the relationship between "asymmetric circulation between ΔR and ΔZ" and "structure = invisible support."
+
+---
+
 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
 
 ---

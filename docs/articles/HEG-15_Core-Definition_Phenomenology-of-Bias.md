@@ -116,7 +116,11 @@ HEG-15：
 
 ---
 
-[HEG-16｜拘りの現象学── 価値と規範の現象学（Core Skeleton）](https://camp-us.net/articles/HEG-16_Core-Skeleton_Phenomenology-of-Êthos.html)  
+[HEG-16「supportはなぜ見えなくなるのか？」](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) では、「ΔR–ΔZ 循環の非対称」と「構造＝invisible support」の関係から「なぜ trouble⇄issue が歪むのか」を構文的に明らかにする。
+
+---
+
+[PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
