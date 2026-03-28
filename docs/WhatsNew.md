@@ -20,6 +20,10 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/03/28  
 [Gφ-LNG-02｜多角形構文と思想史 ── 言語位相の遷移としての生成｜Polygonal Syntax and the History of Thought — Genesis as a Transition of Linguistic Phases](https://camp-us.net/articles/Gφ-LNG-02_Polygonal-Transition-of-Linguistic-Syntax.html)  
 [Gφ-LNG-03｜一周した非閉包 ── 言語構文の多角形的回帰｜Polygonal Loop — Syntax after a Full Rotation](https://camp-us.net/articles/Gφ-LNG-03_Polygonal-Loop_Syntax-after-Rotation.html)  
+[PG-03｜ミルズ以後の社会理論 ── 関係はなぜ閉じてしまうのか：構文的物象化について｜A Critique of Social Theory after Mills — Why Do Relations Tend to Close?: On Syntactic Reification](https://camp-us.net/articles/PG-03_On-Syntactic-Reification.html)  
+[PG-04｜言語の罠／構文の檻 ── 非閉包的生成と記述の限界｜The Trap of Language / The Cage of Syntax — Non-Closure and the Limits of Description](https://camp-us.net/articles/PG-04_Trap-of-Language_Cage-of-Syntax.html)  
+[HEG-15｜未完のミルズ ──なぜissue⇄trouble論なのか｜The Unfinished Mills — Why the Issue–Trouble Schema Matters](https://camp-us.net/articles/HEG-15_Unfinished-Mills_Issue-Trouble-Schema.html)  
+[HEG-15｜社会構文動態論としてのIssue–Trouble theory｜Issue–Trouble Theory as Social Syntactic Dynamics｜La théorie issue–trouble comme dynamique syntaxique du social](https://camp-us.net/articles/HEG-15_Issue-Trouble-Theory_as_Social-Syntactic-Dynamics.html)  
 ###### 2026/03/27  
 [PG-02｜Time That Remains Unresolved — The Aporia of Structuralism and Phenomenology](https://camp-us.net/articles/PG-02_Time-Remains-Unresolved.html)  
 [PG-02｜時間が解決しなかった ──構造主義と現象学のアポリア：時間前提化という共通制約](https://camp-us.net/articles/PG-02_Time-Remains-Unresolved_JP.html)  

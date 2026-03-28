@@ -3,6 +3,7 @@ layout: math
 title: PG-02｜時間が解決しなかった ──構造主義と現象学のアポリア：時間前提化という共通制約
 title_en: PG-02｜Time That Remains Unresolved — The Aporia of Structuralism and Phenomenology
 ---
+**_Toward a Phenomenology of Generative Asymmetry_**
 # **時間が解決しなかった** ──構造主義と現象学のアポリア
 ## ──時間前提化という共通制約
 

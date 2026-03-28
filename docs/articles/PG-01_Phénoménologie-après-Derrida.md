@@ -3,6 +3,7 @@ layout: math
 title: PG-01｜Le temps comme génération et épochè comme exposition — Phénoménologie après Derrida
 subtitle: LE PROBLÈME DE LA GENÈSE OU LE MOUVEMENT DE LA GÉNÉRATION
 ---
+**_Toward a Phenomenology of Generative Asymmetry_**
 # **Le temps comme génération et épochè comme exposition**
 ## **— Phénoménologie après Derrida**
 

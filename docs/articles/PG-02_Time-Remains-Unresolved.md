@@ -2,6 +2,7 @@
 layout: math
 title: PG-02｜Time That Remains Unresolved — The Aporia of Structuralism and Phenomenology
 ---
+**_Toward a Phenomenology of Generative Asymmetry_**
 # Time That Remains Unresolved
 ## — The Aporia of Structuralism and Phenomenology
 
