@@ -317,8 +317,8 @@ trouble ⇄ making support visible ⇄ issue
 ```
 Mills型                  　　　　　　HEG型
 trouble ── imagination ── issue    trouble ── exposure ── issue
-	    ↑ 主観能力         　　　　　   　     ↑ 操作
-	    ↓ 抽象・イデオロギー化  　　　　　　     ↓ 具体的・再接続可能
+	    ↑ 主観能力                           ↑ 操作
+	    ↓ 抽象・イデオロギー化                 ↓ 具体的・再接続可能
 ```
 
 ---
