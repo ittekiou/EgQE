@@ -3,6 +3,7 @@ layout: math
 title: HEG-16｜社会学的想像力から構文的露出へ ── milieu・trouble・support・issue ── 記述される構造から支える構文へ
 title_en: HEG-16｜From Sociological Imagination to Syntactical Exposure — milieu, trouble, support, issue — From Interpreted Structure to Exposed Support
 ---
+_HEG-16_ **──** **価値と規範の現象学**  
 # **社会学的想像力から構文的露出へ**
 ## ── milieu・trouble・support・issue
 ### ── 記述される構造から支える構文へ
