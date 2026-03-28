@@ -17,6 +17,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/28  
+[Gφ-LNG-02｜多角形構文と思想史 ── 言語位相の遷移としての生成｜Polygonal Syntax and the History of Thought — Genesis as a Transition of Linguistic Phases](https://camp-us.net/articles/Gφ-LNG-02_Polygonal-Transition-of-Linguistic-Syntax.html)  
+[Gφ-LNG-03｜一周した非閉包 ── 言語構文の多角形的回帰｜Polygonal Loop — Syntax after a Full Rotation](https://camp-us.net/articles/Gφ-LNG-03_Polygonal-Loop_Syntax-after-Rotation.html)  
 ###### 2026/03/27  
 [PG-02｜Time That Remains Unresolved — The Aporia of Structuralism and Phenomenology](https://camp-us.net/articles/PG-02_Time-Remains-Unresolved.html)  
 [PG-02｜時間が解決しなかった ──構造主義と現象学のアポリア：時間前提化という共通制約](https://camp-us.net/articles/PG-02_Time-Remains-Unresolved_JP.html)  

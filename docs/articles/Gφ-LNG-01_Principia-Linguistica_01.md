@@ -342,7 +342,9 @@ All utterances occur at φ:
 
 ---
 
-[AI-LNG-01｜AI言語はlag次第｜AI Language is a Function of Lag](https://camp-us.net/articles/AI-LNG-01_Function-of-Lag.html)  
+[Gφ-LNG-02｜多角形構文と思想史 ── 言語位相の遷移としての生成｜Polygonal Syntax and the History of Thought — Genesis as a Transition of Linguistic Phases](https://camp-us.net/articles/Gφ-LNG-02_Polygonal-Transition-of-Linguistic-Syntax.html)  
+
+[Gφ-LNG-03｜一周した非閉包 ── 言語構文の多角形的回帰｜Polygonal Loop — Syntax after a Full Rotation](https://camp-us.net/articles/Gφ-LNG-03_Polygonal-Loop_Syntax-after-Rotation.html)  
 
 ---
 
