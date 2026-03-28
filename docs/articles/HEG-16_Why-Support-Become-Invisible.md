@@ -19,7 +19,7 @@ Why does society close?
 
 This paper reverses the question:
 
-**Why does support become invisible?**
+> **Why does support become invisible?**
 
 The central claim is simple:
 
@@ -240,6 +240,10 @@ structure
 
 ---
 
+[HEG-16｜From Sociological Imagination to Syntactical Exposure — milieu, trouble, support, issue — From Interpreted Structure to Exposed Support](https://camp-us.net/articles/HEG-16_From_Sociological-Imagination_to_Syntactical-Exposure.html)  
+
+---
+
 # **supportはなぜ見えなくなるのか？**
 ## ── ΔR–ΔZ非対称循環としての社会
 
@@ -259,7 +263,7 @@ structure
 
 > 社会とは、ΔRとΔZの非対称循環であり、構造とはsupportの不可視化である。
 
-さらに本論は、経験されたtroubleと制度化されたissueのあいだの変換をめぐる、社会理論における根本的な空白を扱う。
+本論は、経験されたtroubleと制度化されたissueのあいだの変換をめぐる、社会理論における根本的な空白を扱う。
 
 ---
 
@@ -396,7 +400,7 @@ supportの不可視化
 ＝ ΔRへの回路の遮断  
 ＝ 循環の歪み
 
-ここで初めて、循環が非対称になる理由が説明される。
+これにより、循環が非対称になる理由が説明される。
 
 ---
 
@@ -468,6 +472,10 @@ supportの不可視化
 構造と  
 呼ばれてしまう  
 ものだったのか
+
+---
+
+[HEG-16｜社会学的想像力から構文的露出へ ── milieu・trouble・support・issue ── 記述される構造から支える構文へ](https://camp-us.net/articles/HEG-16_From_Sociological-Imagination_to_Syntactical-Exposure.html)  
 
 ---
 
