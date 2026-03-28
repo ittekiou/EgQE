@@ -55,8 +55,8 @@ trouble ⇄ making support visible ⇄ issue
 ```
 Mills型                  　　　　　　HEG型
 trouble ── imagination ── issue    trouble ── exposure ── issue
-		    ↑ cognitive capacity 　　　   　    ↑ operationality
-		    ↓ abstract・ideology  　　   　     ↓ concrete・reconnection
+	    ↑ cognitive capacity 　　　   　    ↑ operationality
+	    ↓ abstract・ideology  　　   　     ↓ concrete・reconnection
 ```
 
 ---
@@ -319,8 +319,8 @@ trouble ⇄ making support visible ⇄ issue
 ```
 Mills型                  　　　　　　HEG型
 trouble ── imagination ── issue    trouble ── exposure ── issue
-		    ↑ 主観能力         　　　　　   　     ↑ 操作
-		    ↓ 抽象・イデオロギー化  　　　　　　     ↓ 具体的・再接続可能
+	    ↑ 主観能力         　　　　　   　     ↑ 操作
+	    ↓ 抽象・イデオロギー化  　　　　　　     ↓ 具体的・再接続可能
 ```
 
 ---
@@ -523,6 +523,10 @@ Not to interpret structure, but to expose support.
 ---
 
 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
+
+---
+
+_Support is not interpreted; it is exposed._
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
