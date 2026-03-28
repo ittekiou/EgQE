@@ -4,7 +4,7 @@ title: PG-03｜ミルズ以後の社会理論 ── 関係はなぜ閉じてし
 title_en: "PG-03｜A Critique of Social Theory after Mills — Why Do Relations Tend to Close?: On Syntactic Reification"
 ---
 **_Toward a Phenomenology of Generative Asymmetry_**
-# **ミルズ以後の社会理論── 関係はなぜ閉じてしまうのか**
+## **ミルズ以後の社会理論── 関係はなぜ閉じてしまうのか**
 ### 補論｜構文的物象化について
 # **A Critique of Social Theory after Mills**
 ## **— Why Do Relations Tend to Close?**

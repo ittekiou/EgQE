@@ -4,6 +4,8 @@ title: HEG-15｜未完のミルズ ──なぜissue⇄trouble論なのか
 title_en: HEG-15｜The Unfinished Mills — Why the Issue–Trouble Schema Matters
 ---
 _HEG-15_ **──** **制度と社会の現象学**  
+## **未完のミルズ ── 文化装置とセミオティクス**
+## **なぜissue⇄trouble論なのか**
 # **The Unfinished Mills**
 ## **— Why the Issue–Trouble Schema Matters**
 
