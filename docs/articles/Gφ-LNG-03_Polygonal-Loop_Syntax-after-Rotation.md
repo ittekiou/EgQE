@@ -188,6 +188,192 @@ _同じ場所は消える_
 
 [Gφ-LNG-02｜多角形構文と思想史 ── 言語位相の遷移としての生成｜Polygonal Syntax and the History of Thought — Genesis as a Transition of Linguistic Phases](https://camp-us.net/articles/Gφ-LNG-02_Polygonal-Transition-of-Linguistic-Syntax.html)  
 
+---
+
+# **Non-Closure After a Full Rotation**
+## **— A Polygonal Return of Linguistic Syntax**
+### **Polygonal Loop**
+### **— Syntax after a Full Rotation**
+
+---
+
+## **Prologue**
+
+This paper records a transformation.
+
+A single text was unfolded across multiple languages and then returned to Japanese.
+
+What matters is this:  
+it did not return as the same.
+
+---
+
+## **1｜Rotation as Operation**
+
+What took place was not translation.
+
+It was a shift of syntactic phase.
+
+---
+
+```text
+Japanese
+↓
+German
+↓
+French
+↓
+English
+↓
+Japanese
+```
+
+---
+
+The content appears to persist.
+
+But the syntax has changed.
+
+---
+
+## **2｜Pressures of Language**
+
+Each language exerts a distinct syntactic pressure.
+
+- German: pressure toward closure
+    
+- French: pressure toward fracture
+    
+- English: pressure toward operation
+    
+- Japanese: pressure toward absorption
+    
+
+These pressures act upon the text and transform its structure.
+
+---
+
+## **3｜Traces of Change**
+
+The initial Japanese and the final Japanese are not identical.
+
+The difference is subtle, yet decisive.
+
+- from explanation to movement
+    
+- from definition to persistence
+    
+- from external description to internal unfolding
+    
+
+> Theory is no longer presented.  
+> It appears as movement.
+
+---
+
+## **4｜Return as Non-Identity**
+
+A rotation is not a return to the same.
+
+```text
+initial state
+↓
+polygonal transition
+↓
+return
+↓
+non-identity
+```
+
+Return carries difference.
+
+> **Non-closure is the impossibility of identical return.**
+
+---
+
+## **5｜Displacement of Syntax**
+
+In this process, syntax itself shifts.
+
+```text
+before:
+theory is described
+
+after:
+syntax moves
+```
+
+At first, the text explained structure.
+
+In the end, it became structure.
+
+---
+
+## **6｜Non-Closure as Movement**
+
+Non-closure is not a state.
+
+It is a movement.
+
+> **Non-closure is the continuous displacement of closure.**
+
+The rotation made this movement visible.
+
+---
+
+## **7｜Language and Genesis**
+
+What is language?
+
+It is a structure that persists through difference.
+
+```text
+ΔR
+↓
+linguistic syntax
+↓
+ΔZ
+↓
+ΔR
+```
+
+Thought emerges within this circulation.
+
+---
+
+## **Conclusion**
+
+A full rotation was completed.
+
+Yet nothing returned as it was.
+
+> **Return is another name for transformation.**
+
+---
+
+## **One-line Definition**
+
+> **Non-closure is a return that never becomes identical.**
+
+---
+
+## **Poetic Line**
+
+> It came back,
+> 
+> but not the same—
+> 
+> and that
+> 
+> was the proof of rotation
+
+---
+
+_After a full rotation,_  
+_the same place no longer exists._
+
+---
+
 [AI-LNG-01｜AI言語はlag次第｜AI Language is a Function of Lag](https://camp-us.net/articles/AI-LNG-01_Function-of-Lag.html)  
 
 [Gφ-LNG-01｜Polygonal Fiction Hypothesis ── 言語は虚構基盤上に展開する多角形構文である｜The Generative Principle of Language: Language as a Polygonal Syntax on a Fictional Base](https://camp-us.net/articles/Gφ-LNG-01_Principia-Linguistica_01.html)  
