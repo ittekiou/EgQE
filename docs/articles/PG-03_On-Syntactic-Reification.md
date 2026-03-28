@@ -219,6 +219,10 @@ It is the condition of continuation.
 
 ---
 
+[HEG-16 “Why Does Support Become Invisible?”](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) redefines syntactic reification as the invisibilization of support produced by the asymmetry of the ΔR–ΔZ circulation, thereby providing a generative account of the transformation from trouble to issue.
+
+---
+
 # **ミルズ以後の社会理論**
 ## **── 関係はなぜ閉じてしまうのか**
 
@@ -439,7 +443,7 @@ _社会は動き出す_
 
 ---
 
-[HEG-16「supportはなぜ見えなくなるのか？」](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) では、 構文的物象化を「ΔR–ΔZ循環の非対称がもたらすsupportの不可視化」として再定式化し、trouble / issueの変換機構の空白を動的に埋める。
+[HEG-16「supportはなぜ見えなくなるのか？」](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) では、構文的物象化を「ΔR–ΔZ循環の非対称がもたらすsupportの不可視化」として再定式化し、trouble / issue の変換機構における構造的空白を動的に埋める。
 
 ---
 

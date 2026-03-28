@@ -152,6 +152,10 @@ _it becomes a cage._
 
 ---
 
+[HEG-16 “Why Does Support Become Invisible?”](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) reformulates syntactic reification as the invisibilization of support arising from the asymmetry of the ΔR–ΔZ circulation, thereby dynamically filling the structural gap in the transformation mechanism between trouble and issue.
+
+---
+
 # **言語の罠／構文の檻**
 ## **── 非閉包的生成と記述の限界**
 
@@ -297,7 +301,7 @@ _それは檻になる_
 
 ---
 
-[HEG-16「supportはなぜ見えなくなるのか？」](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) では、 構文的物象化を「ΔR–ΔZ循環の非対称がもたらすsupportの不可視化」として再定式化し、trouble / issueの変換機構の空白を動的に埋める。
+[HEG-16「supportはなぜ見えなくなるのか？」](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) では、構文的物象化を「ΔR–ΔZ循環の非対称がもたらすsupportの不可視化」として再定式化し、trouble / issue の変換機構における構造的空白を動的に埋める。
 
 ---
 

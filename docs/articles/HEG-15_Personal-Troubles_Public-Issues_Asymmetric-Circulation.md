@@ -195,7 +195,7 @@ they are continuously transformed within a non-closed generative process.
 [HEG-15｜Social Genesis — Syntactic Character and Asymmetric Circulation](https://camp-us.net/articles/HEG-15_Social-Genesis.html)  
 [SS-06｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)  
 
-[HEG-16 "Why Does Support Become Invisible?"](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) syntactically clarifies "why trouble⇄issue becomes distorted" from the relationship between "asymmetric circulation between ΔR and ΔZ" and "structure = invisible support."
+[HEG-16 "Why Does Support Become Invisible?"](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) syntactically demonstrates that the distortion of the trouble–issue relation arises from the asymmetry of the ΔR–ΔZ circulation and from structure as invisible support.
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

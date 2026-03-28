@@ -190,7 +190,7 @@ _動きがそう見えているだけだ_
 - 非対称循環  
 - 制度生成  
 
-[HEG-16「supportはなぜ見えなくなるのか？」](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) では、「ΔR–ΔZ 循環の非対称」と「構造＝invisible support」の関係から「なぜ trouble⇄issue が歪むのか」を構文的に明らかにする。
+[HEG-16「supportはなぜ見えなくなるのか？」](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html) では、「構造＝invisible support」と「ΔR–ΔZ の非対称循環」によって、「なぜ trouble⇄issue が歪むのか」を構文的に明らかにする。  
 
 ### **構文は呼吸する ──両価性の生成原理**
 [SS-06｜Syntax Breathing — The Generative Principle of Ambivalence](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)  
