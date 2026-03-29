@@ -26,6 +26,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [SSS-H｜支えの構造｜ホモ版 ── 生成と不可視化のあわい](https://camp-us.net/articles/SSS-H_Support-Syntax-Structure.html)  
 [SSS-CLS｜支えの構造｜Canis lupus sapiens version ── 関係としての支え](https://camp-us.net/articles/SSS-CLS_Support-Syntax-Structure.html)  
 [Gφ-MEM-01｜Minimal Membrane–Form Theory: Form as Lag–Support–Interface｜形としての膜 ── lag–support–interface](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html)  
+[Gφ-MEM-02｜Matter as Connection, Life as Persistence ── Life as the Internalization of Lag｜接続する物質、持続する生命 ── lagの内在化としての生命](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html)  
+[Gφ-MEM-03｜Recursion as Syntactic Reconfiguration ── Recursion as Reconfiguration in SO-lag Syntax｜再帰性とはなにか ── SO lag構文による再配置としての再帰](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html)  
 ###### 2026/03/28  
 [Gφ-LNG-02｜多角形構文と思想史 ── 言語位相の遷移としての生成｜Polygonal Syntax and the History of Thought — Genesis as a Transition of Linguistic Phases](https://camp-us.net/articles/Gφ-LNG-02_Polygonal-Transition-of-Linguistic-Syntax.html)  
 [Gφ-LNG-03｜一周した非閉包 ── 言語構文の多角形的回帰｜Polygonal Loop — Syntax after a Full Rotation](https://camp-us.net/articles/Gφ-LNG-03_Polygonal-Loop_Syntax-after-Rotation.html)  

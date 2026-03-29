@@ -205,6 +205,11 @@ lag, membrane, form, interface, non-closure, recursion, persistence, φ, ψ, SO 
 
 ---
 
+[Gφ-MEM-02｜Matter as Connection, Life as Persistence ── Life as the Internalization of Lag](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html)  
+[Gφ-MEM-03｜Recursion as Syntactic Reconfiguration ── Recursion as Reconfiguration in SO-lag Syntax](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html)  
+
+---
+
 # Minimal Membrane–Form Theory
 ## 形としての膜 ── lag–support–interface
 
@@ -396,6 +401,11 @@ lag, membrane, form, interface, non-closure, recursion, persistence, φ, ψ, SO 
 ## キーワード
 
 lag、膜、形、界面、非閉包、再帰、持続、φ、ψ、SOインターフェース
+
+---
+
+[Gφ-MEM-02｜接続する物質、持続する生命 ── lagの内在化としての生命](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html)  
+[Gφ-MEM-03｜再帰性とはなにか ── SO lag構文による再配置としての再帰](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
