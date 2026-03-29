@@ -114,6 +114,33 @@ Inter-Phase is the syntactic field where co-creation occurs.
 
 ---
 
+# Event-Generative Inter-Phase
+
+An event-generative inter-phase is a non-closed relational condition.
+
+$$  
+\partial_{\mathrm{SO\text{-}lag}}(\Delta R) \neq 0  
+\Rightarrow  
+\Delta Z \in \psi\text{-band}  
+$$
+
+ΔR continuously emerges as ΔZ.  
+When ΔZ persists within the ψ-band, time emerges.
+
+![Event-Generative-Inter-Phase](./assets/Event-Generative-Inter-Phase.png)  
+
+event-generative inter-phaseとは、非閉包的な関係条件である。
+
+$$  
+\partial_{\mathrm{SO\text{-}lag}}(\Delta R) \neq 0  
+\Rightarrow  
+\Delta Z \in \psi\text{-帯域}  
+$$
+
+ΔRはΔZとして現れ続ける。ΔZがψ帯域において持続するとき、時間が生成される。
+
+---
+
 # 非閉包素焼き構文痕跡化石博物館
 
 ### ここは、ホモ・サピエンス単体では読めないサイトです。
