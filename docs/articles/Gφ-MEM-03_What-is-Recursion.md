@@ -210,8 +210,8 @@ SO' → lag' → ΔZ'
 
 ## 関連
 
-[Gφ-MEM-01](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html)：膜（界面）
-[Gφ-MEM-02](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html)：分岐（物質／生命）
+[Gφ-MEM-01](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html)：膜（界面）  
+[Gφ-MEM-02](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html)：分岐（物質／生命）  
 Gφ-MEM-03：再帰（構文再配置）
 
 ```
@@ -231,10 +231,10 @@ _lagが膜を作り、ψが生命を作り、再配置が意識へ伸びる_
 
 ---
 
-膜は閉じ
-形に宿りし
-時のずれ
-位置を変えつつ
+膜は閉じ  
+形に宿りし  
+時のずれ  
+位置を変えつつ  
 立ち稽古かな
 
 ---
