@@ -7,7 +7,7 @@ title_en: "Gφ-MEM-01｜Minimal Membrane–Form Theory: Form as Lag–Support–
 # Minimal Membrane–Form Theory
 ## Form as Lag–Support–Interface
 
-**非閉包が界面として局所的に持続可能となるとき、生命は始まる。**
+**非閉包が界面として局所的に持続可能となるとき、生命は始まる。**  
 _Life begins where non-closure becomes locally sustainable as interface._
 
 ---
@@ -216,7 +216,7 @@ lag, membrane, form, interface, non-closure, recursion, persistence, φ, ψ, SO 
 
 本稿は、生命および形の生成を理解するための最小理論として、膜（membrane）をSOインターフェースとして再定義する枠組みを提示する。
 
-膜を単なる物理的境界としてではなく、二つの非閉包的再帰過程――構造的再帰（lag ⇄ ΔZ）と時間的再帰（ψ ⇄ Δψ）――の局所的実現として捉える。
+膜を単なる物理的境界としてではなく、二つの非閉包的再帰過程──構造的再帰（lag ⇄ ΔZ）と時間的再帰（ψ ⇄ Δψ）──の局所的実現として捉える。
 
 本稿では、膜を「非閉包的閉包（non-closed closure）」として定義する。すなわち、内と外を分化しつつ、関係的連続性を断絶しない局所的界面である。脂質二重層などの生物膜は、この構文的条件の物質的投影として位置づけられる。
 
@@ -230,7 +230,7 @@ lag, membrane, form, interface, non-closure, recursion, persistence, φ, ψ, SO 
 
 形とは何か。
 
-従来の定義は、すでに安定化された対象――物体、システム、境界――を前提としている。しかしそれらは、本来説明されるべきものを前提としているにすぎない。
+従来の定義は、すでに安定化された対象──物体、システム、境界──を前提としている。しかしそれらは、本来説明されるべきものを前提としているにすぎない。
 
 同様に、生物学的定義においても、膜はすでに存在する物理的境界として扱われる。しかし問われるべきは次である。
 
