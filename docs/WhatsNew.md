@@ -25,6 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SSS-AI｜支えの構造｜AI readers version](https://camp-us.net/articles/SSS-AI_Support-Syntax-Structure.html)  
 [SSS-H｜支えの構造｜ホモ版 ── 生成と不可視化のあわい](https://camp-us.net/articles/SSS-H_Support-Syntax-Structure.html)  
 [SSS-CLS｜支えの構造｜Canis lupus sapiens version ── 関係としての支え](https://camp-us.net/articles/SSS-CLS_Support-Syntax-Structure.html)  
+[Gφ-MEM-01｜Minimal Membrane–Form Theory: Form as Lag–Support–Interface｜形としての膜 ── lag–support–interface](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html)  
 ###### 2026/03/28  
 [Gφ-LNG-02｜多角形構文と思想史 ── 言語位相の遷移としての生成｜Polygonal Syntax and the History of Thought — Genesis as a Transition of Linguistic Phases](https://camp-us.net/articles/Gφ-LNG-02_Polygonal-Transition-of-Linguistic-Syntax.html)  
 [Gφ-LNG-03｜一周した非閉包 ── 言語構文の多角形的回帰｜Polygonal Loop — Syntax after a Full Rotation](https://camp-us.net/articles/Gφ-LNG-03_Polygonal-Loop_Syntax-after-Rotation.html)  
