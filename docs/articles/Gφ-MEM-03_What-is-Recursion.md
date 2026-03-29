@@ -8,7 +8,8 @@ title_en: Gφ-MEM-03｜Recursion as Syntactic Reconfiguration ── Recursion a
 # Recursion as Syntactic Reconfiguration
 ## ── Recursion as Reconfiguration in SO-lag Syntax
 
-> Recursion is the sustained reconfiguration of syntax.
+> Recursion is the sustained reconfiguration of syntax.  
+> Recursion acquires time when it is sustained.
 
 ---
 
@@ -20,6 +21,25 @@ Traditionally, recursion has been understood as the repetition of the same.
 However, this definition fails to capture its essence.
 
 Recursion is not the repetition of identity.
+
+---
+
+## How Has Recursion Been Described?
+
+Recursion has been described differently across disciplines.
+
+In mathematics, it appears as structure;  
+in physics, as external updating;  
+in life, as persistence;  
+and in consciousness, as self-observation.
+
+These are not separate phenomena.
+
+> Recursion is the reconfiguration of syntax.
+
+When this reconfiguration is internalized as persistence, recursion acquires temporality.
+
+This persistence is carried by ψ.
 
 ---
 
@@ -130,6 +150,22 @@ and consciousness is the self-observation of persistence._
 しかしこの定義は、再帰の本質を捉えていない。
 
 再帰とは同一性の反復ではない。
+
+---
+
+## 再帰性はどのように語られてきたのか
+
+再帰は、分野ごとに異なる形で語られてきた。
+
+数学では構造として、物理では外在的な更新として、生命では持続として、意識では自己観測として現れる。
+
+これらは分断された概念ではない。
+
+> 再帰とは、構文の再配置である。
+
+そして、この再配置が持続として内在化されるとき、再帰は時間を帯びる。
+
+この持続を担うのが ψ である。
 
 ---
 
