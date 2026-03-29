@@ -19,6 +19,10 @@ title: SLR-00｜SO–lag 転回から φ への再帰（草稿集）
 
 ---
 
+[SLR Core｜The Universe Opened by Otherness](https://camp-us.net/articles/Core_SLR_Universe-Opened_by_Otherness.html)
+
+---
+
 # 他者がひらく宇宙
 #### 時空に存在する他者モデルから他者が生み出す空間時間モデルへ
 

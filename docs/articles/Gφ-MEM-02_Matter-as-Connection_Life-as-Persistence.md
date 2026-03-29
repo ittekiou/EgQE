@@ -51,7 +51,14 @@ matter = externalized lag
 life   = internalized lag
 ```
 
-[Gφ-MEM-03｜Recursion as Syntactic Reconfiguration](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html)  
+- [Gφ-MEM-01](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html): Membrane (interface)
+    
+- [Gφ-MEM-02](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html): Differentiation (matter / life)
+    
+- [Gφ-MEM-03](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html): Recursion (syntactic reconfiguration)
+    
+
+Gφ-MEM is a progression from interface to differentiation to reconfiguration.
 
 ---
 

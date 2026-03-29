@@ -272,6 +272,10 @@ The universe is not given.
 It opens through mediated differential.
 
 ---
+
+[SLR Core｜The Universe Opened by Otherness](https://camp-us.net/articles/Core_SLR_Universe-Opened_by_Otherness.html)
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 

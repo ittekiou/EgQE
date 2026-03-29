@@ -127,8 +127,10 @@ it is the re-establishment of structure through reconfiguration.**
     
 - [Gφ-MEM-02](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html): Differentiation (matter / life)
     
-- Gφ-MEM-03: Recursion (syntactic reconfiguration)
+- [Gφ-MEM-03](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html): Recursion (syntactic reconfiguration)
     
+
+Gφ-MEM is a progression from interface to differentiation to reconfiguration.
 
 ---
 
@@ -250,7 +252,7 @@ SO' → lag' → ΔZ'
 
 [Gφ-MEM-01](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html)：膜（界面）  
 [Gφ-MEM-02](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html)：分岐（物質／生命）  
-Gφ-MEM-03：再帰（構文再配置）
+[Gφ-MEM-03](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html)：再帰（構文再配置）
 
 ```
 膜 = 条件

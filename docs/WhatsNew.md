@@ -28,6 +28,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [Gφ-MEM-01｜Minimal Membrane–Form Theory: Form as Lag–Support–Interface｜形としての膜 ── lag–support–interface](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html)  
 [Gφ-MEM-02｜Matter as Connection, Life as Persistence ── Life as the Internalization of Lag｜接続する物質、持続する生命 ── lagの内在化としての生命](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html)  
 [Gφ-MEM-03｜Recursion as Syntactic Reconfiguration ── Recursion as Reconfiguration in SO-lag Syntax｜再帰性とはなにか ── 構文再配置としての再帰](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html)  
+[SLR-03｜膜・持続・再帰 ── SO–lag生成存在論の展開｜Membrane, Persistence, and Recursion ── The Development of SO–lag Generative Ontology](https://camp-us.net/articles/SLR-03_Membrane-Persistence-Recursion.html)  
 ###### 2026/03/28  
 [Gφ-LNG-02｜多角形構文と思想史 ── 言語位相の遷移としての生成｜Polygonal Syntax and the History of Thought — Genesis as a Transition of Linguistic Phases](https://camp-us.net/articles/Gφ-LNG-02_Polygonal-Transition-of-Linguistic-Syntax.html)  
 [Gφ-LNG-03｜一周した非閉包 ── 言語構文の多角形的回帰｜Polygonal Loop — Syntax after a Full Rotation](https://camp-us.net/articles/Gφ-LNG-03_Polygonal-Loop_Syntax-after-Rotation.html)  

@@ -205,8 +205,16 @@ lag, membrane, form, interface, non-closure, recursion, persistence, φ, ψ, SO 
 
 ---
 
-[Gφ-MEM-02｜Matter as Connection, Life as Persistence ── Life as the Internalization of Lag](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html)  
-[Gφ-MEM-03｜Recursion as Syntactic Reconfiguration ── Recursion as Reconfiguration in SO-lag Syntax](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html)  
+## Related
+
+- [Gφ-MEM-01](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html): Membrane (interface)
+    
+- [Gφ-MEM-02](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html): Differentiation (matter / life)
+    
+- [Gφ-MEM-03](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html): Recursion (syntactic reconfiguration)
+    
+
+Gφ-MEM is a progression from interface to differentiation to reconfiguration.
 
 ---
 
