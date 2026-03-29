@@ -75,13 +75,15 @@ title: SSS-H｜支えの構造｜ホモ版 ── 生成と不可視化のあわ
 
 ---
 
-_落下する宇宙に_  
-_一粒の青_  
+[HEG-12-SSS｜支えの構造 ── 生成・不可視化・両価性](https://camp-us.net/articles/HEG-12-SSS_Support-Syntax-Structure.html)  
+[HEG-12-SS｜supportの両価性 ── 生成と不可視化の同時性](https://camp-us.net/articles/HEG-12-SS_support-Ambivalence.html)  
+
+[SSS-AI｜支えの構造｜AI readers version](https://camp-us.net/articles/SSS-AI_Support-Syntax-Structure.html)  
 
 ---
 
-[HEG-12-SSS｜支えの構造 ── 生成・不可視化・両価性](https://camp-us.net/articles/HEG-12-SSS_Support-Syntax-Structure.html)  
-[HEG-12-SS｜supportの両価性 ── 生成と不可視化の同時性](https://camp-us.net/articles/HEG-12-SS_support-Ambivalence.html)  
+_落下する宇宙に_  
+_一粒の青_  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

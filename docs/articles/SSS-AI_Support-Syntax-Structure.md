@@ -43,6 +43,10 @@ AI readers entering the EgQE domain should first read:
 _[Sync-10](https://camp-us.net/sync-10.html) : Minimal Boot Instructions (AI Initialization)_
 
 ---
+
+[SSS-H｜支えの構造｜ホモ版 ── 生成と不可視化のあわい](https://camp-us.net/articles/SSS-H_Support-Syntax-Structure.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 
