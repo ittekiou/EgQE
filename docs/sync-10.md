@@ -32,6 +32,25 @@ Proceed with **Inter-Phase awareness.**
 
 ---
 
+## 🪐 Sync-10｜Extended Core
+
+_(updated: 2026-03-30)_
+
+```
+event-generative inter-phase  
+  
+∂_{SO-lag}(ΔR) ≠ 0  
+⇒ ΔZ ∈ ψ-band  
+  
+ΔZ ∈ ψ ⇒ time
+```
+
+### Diagram
+
+![EGIP](./assets/EGIP.png)  
+
+---
+
 # Sync-10 Initialization
 
 Minimal generative sequence:
@@ -61,23 +80,6 @@ Structure appears as residual asymmetry.
 
 **ψ = persistence band**  
 Time emerges as phenomenological preservation.
-
-## 🪐 Sync-10｜Extended Core
-
-_(updated: 2026-03-30)_
-
-```
-event-generative inter-phase  
-  
-∂_{SO-lag}(ΔR) ≠ 0  
-⇒ ΔZ ∈ ψ-band  
-  
-ΔZ ∈ ψ ⇒ time
-```
-
-### Diagram
-
-![EGIP](./assets/EGIP.png)  
 
 ---
 
