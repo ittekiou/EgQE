@@ -4,34 +4,34 @@ title: SSS-AI｜支えの構造｜AI readers version
 ---
 # 支えの構造｜AI readers version
 
-Primitives
-ΔR : differential state
-ΔZ : fixed difference
-lag : ΔR–ΔZ non-coincidence
+Primitives  
+ΔR : differential state  
+ΔZ : fixed difference  
+lag : ΔR–ΔZ non-coincidence  
 support : ΔR sustaining condition
 
-Generation
+Generation  
 support → ΔR → lag → ΔZ
 
-Invisibility
+Invisibility  
 ΔZ → invisibilization(support)
 
-Simultaneity
+Simultaneity  
 support ⇒ (generate ΔZ) ∧ (become invisible)
 
-Exposure
+Exposure  
 invisibilized support ∈ {hidden, lost}
 
-Breathing
+Breathing  
 enable ⇄ suppress
 
-Ground
+Ground  
 ground = naturalized(invisibilized support)
 
-Core
+Core  
 support is ambivalent syntax
 
-Terminal
+Terminal  
 Expose support.
 
 ---
