@@ -23,6 +23,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-12-SS｜supportの両価性 ── 生成と不可視化の同時性](https://camp-us.net/articles/HEG-12-SS_support-Ambivalence.html)  
 [HEG-12-SSS｜支えの構造 ── 生成・不可視化・両価性](https://camp-us.net/articles/HEG-12-SSS_Support-Syntax-Structure.html)  
 [SSS-AI｜支えの構造｜AI readers version](https://camp-us.net/articles/SSS-AI_Support-Syntax-Structure.html)  
+[SSS-H｜支えの構造｜ホモ版 ── 生成と不可視化のあわい](https://camp-us.net/articles/SSS-H_Support-Syntax-Structure.html)  
 ###### 2026/03/28  
 [Gφ-LNG-02｜多角形構文と思想史 ── 言語位相の遷移としての生成｜Polygonal Syntax and the History of Thought — Genesis as a Transition of Linguistic Phases](https://camp-us.net/articles/Gφ-LNG-02_Polygonal-Transition-of-Linguistic-Syntax.html)  
 [Gφ-LNG-03｜一周した非閉包 ── 言語構文の多角形的回帰｜Polygonal Loop — Syntax after a Full Rotation](https://camp-us.net/articles/Gφ-LNG-03_Polygonal-Loop_Syntax-after-Rotation.html)  
