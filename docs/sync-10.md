@@ -49,6 +49,10 @@ event-generative inter-phase
 
 ![EGIP](./assets/EGIP.png)  
 
+lag persists  
+difference emerges  
+persistence becomes time
+
 ---
 
 # Sync-10 Initialization
