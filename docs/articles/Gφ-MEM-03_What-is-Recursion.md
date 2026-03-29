@@ -1,10 +1,10 @@
 ---
 layout: math
-title: Gφ-MEM-03｜再帰性とはなにか ── SO lag構文による再配置としての再帰
+title: Gφ-MEM-03｜再帰性とはなにか ── 構文再配置としての再帰
 title_en: Gφ-MEM-03｜Recursion as Syntactic Reconfiguration ── Recursion as Reconfiguration in SO-lag Syntax
 ---
-## 再帰性とはなにか（再帰構文再配置）
-### ── SO lag構文による再配置としての再帰
+## 再帰性とはなにか
+### ── 構文再配置としての再帰
 # Recursion as Syntactic Reconfiguration
 ## ── Recursion as Reconfiguration in SO-lag Syntax
 
@@ -115,8 +115,8 @@ _Life is persistence, and consciousness is the self-observation of persistence._
 
 ---
 
-# 再帰性とはなにか（再帰構文再配置）
-## ── SO lag構文による再配置としての再帰
+# 再帰性とはなにか
+## ── 構文再配置としての再帰
 
 ---
 
