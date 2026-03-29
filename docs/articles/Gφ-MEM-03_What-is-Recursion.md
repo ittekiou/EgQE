@@ -214,9 +214,20 @@ SO' → lag' → ΔZ'
 [Gφ-MEM-02](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html)：分岐（物質／生命）
 Gφ-MEM-03：再帰（構文再配置）
 
+```
+膜 = 条件
+↓
+生命 = ψ内在
+↓
+再帰 = ψ持続
+↓
+意識 = ψ自己観測
+```
+
 ---
 
-_生命は持続であり、意識は持続の自己観測である。_
+_生命は持続であり、意識は持続の自己観測である_  
+_lagが膜を作り、ψが生命を作り、再配置が意識へ伸びる_
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
