@@ -368,7 +368,7 @@ H7
 到達点を一行で書くと
 
 ```
-SO → lag → otherness → expansion → preservation
+SO → lag → otherness → expansion → preservation → reconfiguration → recursion
 ```
 
 SN記号版
@@ -380,7 +380,7 @@ SO → lag → H7 → θₐ → ψ
 宇宙論版
 
 ```
-relation → differential → space → time
+relation → differential → space → time → recursion
 ```
 
 となる。
@@ -390,8 +390,10 @@ relation → differential → space → time
 # 10｜**理論の骨格は明確**
 
 ```
-space = expansion
-time  = preservation
+expansion（θₐ）→ space
+preservation（ψ）→ time
+↓
+reconfiguration → recursion
 ```
 
 これはシンプルかつ強い命題である。
