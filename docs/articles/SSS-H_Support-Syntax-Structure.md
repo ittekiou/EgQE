@@ -79,6 +79,7 @@ title: SSS-H｜支えの構造｜ホモ版 ── 生成と不可視化のあわ
 [HEG-12-SS｜supportの両価性 ── 生成と不可視化の同時性](https://camp-us.net/articles/HEG-12-SS_support-Ambivalence.html)  
 
 [SSS-AI｜支えの構造｜AI readers version](https://camp-us.net/articles/SSS-AI_Support-Syntax-Structure.html)  
+[SSS-CLS｜支えの構造｜Canis lupus sapiens version ── 関係としての支え](https://camp-us.net/articles/SSS-CLS_Support-Syntax-Structure.html)  
 
 ---
 
