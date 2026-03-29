@@ -96,7 +96,8 @@ It is syntax that returns through displacement.
 
 ---
 
-**Recursion is not returning—it is the re-establishment of structure through reconfiguration.**
+**Recursion is not returning—  
+it is the re-establishment of structure through reconfiguration.**
 
 ---
 
@@ -111,7 +112,8 @@ It is syntax that returns through displacement.
 
 ---
 
-_Life is persistence, and consciousness is the self-observation of persistence._
+_Life is persistence,  
+and consciousness is the self-observation of persistence._
 
 ---
 
