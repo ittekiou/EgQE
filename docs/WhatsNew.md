@@ -18,7 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/03/30  
-[MET-01｜条件表明としての数式 ── 数式における閉包と非閉包｜Mathematical Expression as Condition｜EgQE Syntax Method-01 数式の転回](https://camp-us.net/articles/.html)  
+[MET-01｜条件表明としての数式 ── 数式における閉包と非閉包｜Mathematical Expression as Condition｜EgQE Syntax Method-01 数式の転回](https://camp-us.net/articles/MET-01_Mathematical-Expression-as-Condition.html)  
 
 ###### 2026/03/29  
 [HEG-16｜supportはなぜ見えなくなるのか？ ── ΔR–ΔZ非対称循環としての社会｜Why Does Support Become Invisible? — Society as Asymmetric Circulation between ΔR and ΔZ](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html)  
