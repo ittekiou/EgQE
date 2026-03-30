@@ -134,7 +134,7 @@ This compression constitutes coarse-graining—
 the formation of a stable section through the compression of difference.
 
 When coarse-graining forms a fictional ground,  
-difference becomes non-apparent.
+difference becomes non-apparent within the formed ground.
 
 Within the process of coarse-graining,  
 lag emerges as residual.
@@ -164,7 +164,7 @@ Both arise from the syntax of lag.
 
 ## **8. Condition of Visibility**
 
-Visibility is the emergence of differential (lag) within the process of compression.
+Visibility is the emergence of differential (lag) within compression.
 
 ```
 Visible: residual
