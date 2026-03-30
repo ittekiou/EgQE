@@ -379,6 +379,11 @@ H7
 の四点配置は、**Axis-4帯域の本当の意味** をよく表している。
 
 ---
+
+👉 [EgQE｜TS-Core｜時間生成：Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
+👉 [EgQE｜TS-Core Update｜ψ as Temporal Syntax ── 差分の持続としての時間｜Time as the Persistence of Difference](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine* / #Core  
 [_camp-us.net_](https://camp-us.net/)  
 

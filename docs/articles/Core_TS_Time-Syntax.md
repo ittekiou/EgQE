@@ -117,6 +117,8 @@ lagが 保存ではなく **分布** するとき空間が生成する。
 ![Irreversibility-Map-Otherness](../assets/Irreversibility-Map-Otherness.png)  
 [EgQE｜SN-ψ Core｜Preservation, Time, and the H7–θₐ Band](https://camp-us.net/articles/Core_SN-%CF%88_Preservation_Time_H7-%CE%B8%E2%82%90-Band.html)  
 
+---
+
 # TSシリーズ構造図
 
 ```
@@ -144,6 +146,10 @@ distribution → SPACE
 ⚡️ [TS-05｜ψₜ三部作 統合宣言── 非対称・相対化・非閉包再帰｜ψₜ: A Triptych on Structural Dynamics — Self-Asymmetry, Self-Relativization, and Non-Closed Recursion](https://camp-us.net/articles/TS-05_ψₜ_Triptych_on_Structural-Dynamics.html)  
 
 [TS-06｜構文不可逆性と時間生成── ψₜ–Z₀ 更新モデル（構文的定式）](https://camp-us.net/articles/TS-06_ψₜ_Temporal-Irreversibility.html)  
+
+[EgQE｜SN-ψ Core｜Preservation, Time, and the H7–θₐ Band](https://camp-us.net/articles/Core_SN-%CF%88_Preservation_Time_H7-%CE%B8%E2%82%90-Band.html)  
+
+👉 [EgQE｜TS-Core Update｜ψ as Temporal Syntax ── 差分の持続としての時間｜Time as the Persistence of Difference](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)  
 
 ---
 

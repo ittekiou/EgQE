@@ -124,9 +124,20 @@ the world begins to move.
 
 ---
 
+#### Footnote:  
+
+The definition of mathematical expression as condition extends and reformulates the discussion of “open mathematical syntax” developed in the SN-M series.  
+In particular, [SN-M-03](https://camp-us.net/articles/SN-M-03_Open-Mathematical-Syntax_Beyond_Closure.html) demonstrated that mathematical expressions function as a syntax that freezes difference (ΔR) and carries it as ΔZ. This clarified the role of mathematics as a mechanism of closure.  
+The present paper advances this view by redefining mathematical expression not merely as description or freezing, but as the articulation of conditions under which non-closed processes can occur.  
+Accordingly, within EgQE, mathematical expression is understood both as a device that fixes difference and as a device that indicates the conditions under which difference can persist.
+
+---
+
 ### 🪐 EgQE Syntax Method-01｜数式の転回
 # 条件表明としての数式
 ### ── 数式における閉包と非閉包
+
+SN-Mシリーズにおける閉包的数式観を継承しつつ、それを非閉包的条件表明へと拡張する。
 
 ---
 
@@ -236,12 +247,20 @@ time = persistence(lag)
 
 ---
 
+#### 脚注：  
+
+「数式＝条件表明」という定義は、SN-Mシリーズで展開された「開かれた数学構文」の議論を継承・更新するものである。  
+とくに [SN-M-03](https://camp-us.net/articles/SN-M-03_Open-Mathematical-Syntax_Beyond_Closure.html) では、数式が差分（ΔR）を凍結し、ΔZとして運搬する構文であることが示された。これは、数式が閉包（closure）として機能する側面を明らかにしたものである。  
+本論では、数式を単なる記述や凍結としてではなく、非閉包的な過程が成立する条件を表明する構文として再定義する。  
+したがって EgQE における数式は、「差分を固定する装置」であると同時に、「差分が持続しうる条件を指示する装置」として理解される。
+
+---
+
 _等しいと言ったとき_  
 _差異は消え_
 
 _条件を置いたとき_  
 _世界は動き出す_
-
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

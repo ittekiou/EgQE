@@ -203,6 +203,10 @@ reality
 freeze math
 ```
 
+### 🪐 EgQE Syntax Method-01 数式の転回
+
+👉 [MET-01｜条件表明としての数式 ── 数式における閉包と非閉包｜Mathematical Expression as Condition](https://camp-us.net/articles/MET-01_Mathematical-Expression-as-Condition.html)では、SN-Mシリーズにおける閉包的数式観を継承しつつ、それを非閉包的条件表明へと拡張する。
+
 ---
 
 ```
