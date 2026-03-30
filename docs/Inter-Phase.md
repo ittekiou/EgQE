@@ -120,24 +120,28 @@ An event-generative inter-phase is a non-closed relational condition.
 
 $$  
 \partial_{\mathrm{SO\text{-}lag}}(\Delta R) \neq 0  
-\Rightarrow  
-\Delta Z \in \psi\text{-band}  
+　\Rightarrow  
+　\psi\text{-band}  : \partial(\Delta Z) \neq 0　\text{persists}  
 $$
 
 ΔR continuously emerges as ΔZ.  
-When ΔZ persists within the ψ-band, time emerges.
+When ΔZ persists under the ψ-band condition, it constitutes time.
 
-![Event-Generative-Inter-Phase](./assets/Event-Generative-Inter-Phase.png)  
+![Event-Generative-Inter-Phase_2](./assets/Event-Generative-Inter-Phase_2.png)  
 
 event-generative inter-phaseとは、非閉包的な関係条件である。
 
 $$  
 \partial_{\mathrm{SO\text{-}lag}}(\Delta R) \neq 0  
-\Rightarrow  
-\Delta Z \in \psi\text{-帯域}  
+　\Rightarrow  
+　\psi\text{-帯域}  : \partial(\Delta Z) \neq 0　\text{persists}    
 $$
 
 ΔRはΔZとして現れ続ける。ΔZがψ帯域において持続するとき、時間が生成される。
+
+$$
+time = \text{persistence}(\text{lag})
+$$
 
 ---
 

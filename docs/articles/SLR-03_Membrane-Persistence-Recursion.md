@@ -222,8 +222,8 @@ $$
 
 $$  
 \partial_{\mathrm{SO\text{-}lag}}(\Delta R) \neq 0  
-\Rightarrow  
-\Delta Z \in \psi\text{-帯域}  
+　\Rightarrow  
+　\psi\text{-帯域}  : \partial(\Delta Z) \neq 0　\text{persists}    
 $$
 
 ΔRは継続的にΔZとして現れる。  
@@ -236,14 +236,18 @@ $$
 時間は前提されない。  
 ΔZがψ帯域において持続するとき、時間は生成される。
 
+$$
+time = \text{persistence}(\text{lag})
+$$
+
 ---
 
 ### A.4 定義図
 
-![EGIP](../assets/EGIP.png)  
+![EGIP_2](../assets/EGIP_2.png)  
 
 非閉包的inter-phaseは $\partial_{\mathrm{SO\text{-}lag}}(\Delta R) \neq 0$ を持続させ、そのもとでΔRはΔZとして現れる。  
-ΔZがψ帯域に入るとき、それは時間として持続する。
+ΔZがψ帯域において持続するとき、時間が生成される。
 
 ---
 
@@ -520,8 +524,8 @@ Non-closure is defined as the persistence of differential variation.
 
 $$  
 \partial_{\mathrm{SO\text{-}lag}}(\Delta R) \neq 0  
-\Rightarrow  
-\Delta Z \in \psi\text{-band}  
+　\Rightarrow  
+　\psi\text{-band}  : \partial(\Delta Z) \neq 0　\text{persists}  
 $$
 
 ΔR continuously emerges as ΔZ.  
@@ -534,22 +538,18 @@ When ΔZ enters the ψ-band, it becomes persistent.
 Time is not presupposed.  
 Time appears when ΔZ persists within the ψ-band.
 
+$$
+time = \text{persistence}(\text{lag})
+$$
+
 ---
 
 ## A.4 Definitional Diagram
 
-![EGIP](../assets/EGIP.png)  
-
----
-
-**Caption**
-
-The non-closed inter-phase sustains  
-$\partial_{\mathrm{SO\text{-}lag}}(\Delta R) \neq 0$,  
-through which ΔR emerges as ΔZ.
-
-When ΔZ falls within the ψ-band,  
-it persists as time.
+![EGIP_2](../assets/EGIP_2.png)  
+**Caption**  
+The non-closed inter-phase sustains $\partial_{\mathrm{SO\text{-}lag}}(\Delta R) \neq 0$, through which ΔR emerges as ΔZ.  
+When ΔZ persists under the ψ-band condition, it constitutes time.
 
 ---
 
@@ -601,4 +601,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Mar 29, 2026 · Web Mar 29, 2026 |</p>
+<p align="center">| Drafted Mar 29, 2026 · Web Mar 30, 2026 |</p>

@@ -40,14 +40,15 @@ _(updated: 2026-03-30)_
 event-generative inter-phase  
   
 ∂_{SO-lag}(ΔR) ≠ 0  
-⇒ ΔZ ∈ ψ-band  
-  
-ΔZ ∈ ψ ⇒ time
+⇒ ψ-band: ∂(ΔZ) ≠ 0 persists
+
+ψ-band (persistence condition)  
+time = persistence(lag)
 ```
 
 ### Diagram
 
-![EGIP](./assets/EGIP.png)  
+![EGIP_2](./assets/EGIP_2.png)  
 
 lag persists  
 difference emerges  

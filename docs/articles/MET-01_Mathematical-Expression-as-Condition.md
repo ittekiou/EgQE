@@ -1,6 +1,6 @@
 ---
 layout: math
-title: MET-01｜条件表明としての数式 ── 数式における閉包と非閉包
+title: MET-01｜条件表明としての数式 ── 数式における閉包と非閉包｜数式の転回
 title_en: EgQE Syntax Method-01｜Mathematical Expression as Condition
 ---
 ## 🪐 EgQE Syntax Method-01
