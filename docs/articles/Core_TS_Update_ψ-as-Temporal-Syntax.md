@@ -167,8 +167,8 @@ This differential is a manifestation of a more primary SO-lag, the non-closed re
 
 Lag is the difference that arises between generation (ΔR) and inscription (ΔZ).
 
-> lag =  
-> SO-lag (ground) + RZ-lag (projection)
+> SO-lag (ground)   
+> RZ-lag (projection)
 
 ---
 
