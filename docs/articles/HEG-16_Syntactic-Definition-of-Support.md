@@ -54,7 +54,7 @@ RZ alone is insufficient.
 Only when bound does support become defined.
 ```
 
-Without SO, difference has no locus.  
+Without SO, difference has no locus of relation.  
 Without RZ, difference is not syntactically constituted.
 
 ---
