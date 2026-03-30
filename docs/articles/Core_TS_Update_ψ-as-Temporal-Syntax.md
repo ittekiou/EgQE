@@ -42,7 +42,7 @@ lag := ΔR → ΔZ における差分
 
 lagは、生成と記述のあいだに生じる差分である。
 
-> SO-lag = 非閉包の関係差分（基底）
+> SO-lag = 非閉包の関係差分（基底）  
 > RZ-lag = 射影として現れた差分（記述）
 
 ---
@@ -167,7 +167,8 @@ This differential is a manifestation of a more primary SO-lag, the non-closed re
 
 Lag is the difference that arises between generation (ΔR) and inscription (ΔZ).
 
-> lag = SO-lag (ground) + RZ-lag (projection)
+> lag =  
+> SO-lag (ground) + RZ-lag (projection)
 
 ---
 
