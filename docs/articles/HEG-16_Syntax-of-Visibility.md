@@ -221,6 +221,7 @@ _only what appears is seen_
 ## Related
 
 [HEG-16｜Why Does Support Become Invisible? — Society as Asymmetric Circulation between ΔR and ΔZ](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html)  
+[HEG-16｜bind(SO, RZ) — A Syntactic Definition of Support](https://camp-us.net/articles/HEG-16_Syntactic-Definition-of-Support.html)  
 
 - [Gφ-MEM-01](https://camp-us.net/articles/G%CF%86-MEM_Form_as_Lag-Support-Interface.html): Membrane (interface)
     
@@ -429,6 +430,7 @@ _現れたものだけが見える_
 ## 関連
 
 [HEG-16｜supportはなぜ見えなくなるのか？ ── ΔR–ΔZ非対称循環としての社会](https://camp-us.net/articles/HEG-16_Why-Support-Become-Invisible.html)  
+[HEG-16｜bind(SO, RZ) ── supportの構文的定義](https://camp-us.net/articles/HEG-16_Syntactic-Definition-of-Support.html)  
 [HEG-12-SS｜supportの両価性 ── 生成と不可視化の同時性](https://camp-us.net/articles/HEG-12-SS_support-Ambivalence.html)  
 [HEG-12-SSS｜支えの構造 ── 生成・不可視化・両価性](https://camp-us.net/articles/HEG-12-SSS_Support-Syntax-Structure.html)
 
