@@ -71,7 +71,7 @@ lagは、生成と記述のあいだに生じる差分である。
 ### 5. 微分構文
 
 $$
-\psi:\ \partial_t(\Delta Z) \neq 0\ \text{が持続する}
+\psi:\ \partial(\Delta Z) \neq 0\ \text{が持続する}
 $$
 
 差分が止まらないかぎり、その持続が成立する。
@@ -195,7 +195,7 @@ It is defined as the condition under which difference in ΔZ continues to vary p
 ### 5. Differential Form
 
 $$
-\psi:\ \partial_t(\Delta Z) \neq 0\ \text{persists}
+\psi:\ \partial(\Delta Z) \neq 0\ \text{persists}
 $$
 
 As long as difference does not cease, its persistence is sustained.
