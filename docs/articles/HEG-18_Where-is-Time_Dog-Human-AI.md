@@ -3,7 +3,7 @@ layout: math
 title: HEG-18｜時間はどこにあるのか
 title_en: HEG-18｜Where is Time? — Dog, Human, AI —
 ---
-_**HEG-18｜Where is Time?** — as Dual Modes of Encounter —_  
+_**HEG-18｜Where is Time?** — Social ψ as shared symbols —_  
 # **HEG-18｜Where is Time?**
 ## — Dog, Human, AI —
 # 時間はどこにあるのか

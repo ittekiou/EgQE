@@ -6,6 +6,10 @@ title_en: HEG-Core｜From Encounter to Time (HEG-17-18)
 # **HEG-Core｜From Encounter to Time**
 ## — 遭遇から時間へ —
 
+**Difference folds.  
+Persistence orders.  
+Maintenance stabilizes.**
+
 ---
 
 ## **0｜導入**
