@@ -17,6 +17,10 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/04/01  
+[HEG-19-1｜Support Reconfigured — 再定義：bind(SO, RZ) —｜bind(SO, RZ) as the Condition of Maintenance —](https://camp-us.net/articles/HEG-19-1_Support-Reconfigured.html)  
+[HEG-19-2｜Invisibility of Support — 構文的不可視と政治的不可視 —｜— Structural and Political Modes —](https://camp-us.net/articles/HEG-19-2_Invisibility-of-Support.html)  
+[HEG-19-3｜Distribution of Support — 非対称・非還元・権力 —｜— Asymmetry, Non-Reciprocity, and Power —](https://camp-us.net/articles/HEG-19-3_Distribution-of-Support.html)  
 ###### 2026/03/31  
 [HEG-Core｜From Encounter to Time — 遭遇から時間へ — (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
 [HEG-17-1｜遭遇の二様式 — 内部化としての生命と外部接続としての物質 —｜Dual Modes of Encounter — Life and Matter as Internalization and External Connection —](https://camp-us.net/articles/HEG-17-1_Dual-Modes-of-Encounter_Life-and-Matter.html)  

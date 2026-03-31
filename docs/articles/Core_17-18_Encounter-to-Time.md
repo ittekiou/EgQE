@@ -204,7 +204,9 @@ _**支えそのものは見えなくなる**_
 [TS-Core Update v2｜ψの拡張 — 持続と待機 —｜ψ as Temporal Syntax (Extended) — Persistence and Latency —](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)  
 
 - HEG-19 → 「支えへの接続」
-    
+[19-1｜Support Reconfigured — 再定義：bind(SO, RZ) as the Condition of Maintenance —](https://camp-us.net/articles/HEG-19-1_Support-Reconfigured.html)  
+[19-2｜Invisibility of Support — 構文的不可視と政治的不可視 —](https://camp-us.net/articles/HEG-19-2_Invisibility-of-Support.html)  
+[19-3｜Distribution of Support — 非対称・非還元・権力 —](https://camp-us.net/articles/HEG-19-3_Distribution-of-Support.html)  
 
 ## Related
 
