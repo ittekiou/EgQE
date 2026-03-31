@@ -1,0 +1,202 @@
+---
+layout: math
+title: HEG-Core｜— 遭遇から時間へ — (HEG-17-18)
+title_en: HEG-Core｜From Encounter to Time (HEG-17-18)
+---
+# **HEG-Core｜From Encounter to Time**
+## — 遭遇から時間へ —
+
+---
+
+## **0｜導入**
+
+すべては遭遇から始まる。
+
+世界は最初から構造を持っているのではない。  
+まず他者との非一致があり、そこに差分が生じる。
+
+その差分が折り返され、持続し、維持されるとき、はじめて時間が現れる。
+
+---
+
+## **1｜存在：遭遇の二様式（HEG-17）**
+
+存在は二つの様式に分かれる：
+
+- 内部化する存在（生命）
+    
+- 外部接続する存在（物質）
+    
+
+生命は、遭遇を折り返しとして内部化する。  
+物質は、遭遇を外部接続として展開する。
+
+ここで重要なのは：
+
+**存在の違いは実体ではなく、遭遇の処理様式にある**
+
+[HEG-17-1｜遭遇の二様式 — 内部化としての生命と外部接続としての物質 —](https://camp-us.net/articles/HEG-17-1_Dual-Modes-of-Encounter_Life-and-Matter.html)  
+
+---
+
+## **2｜生命：遭遇の四態（HEG-17-EX）**
+
+生命はさらに四つのモードに分かれる：
+
+- 流れる
+    
+- つながる
+    
+- 動く
+    
+- 待つ
+    
+
+流れの中で遭遇するもの。  
+接続によって遭遇を持続するもの。  
+移動によって遭遇を生成するもの。  
+そして、遭遇を可能性として保持するもの。
+
+**生命とは、遭遇のモードである**
+
+[HEG-17-EX｜生命四態 — 他者との遭遇 —](https://camp-us.net/articles/HEG-17-EX_Life_Four-Modes.html)  
+
+---
+
+## **3｜時間：差分の持続（HEG-18）**
+
+時間は与えられていない。
+
+時間は、差分が持続するときに生成される。
+
+折り返しによって生じた差分が、持続し、順序を持つとき、それは時間となる。
+
+しかし時間は生成されるだけでは足りない。
+
+社会において時間は：
+
+- 維持され
+    
+- 刻印され
+    
+- 共有される
+    
+
+さらに：
+
+- ズレ（ZURE）として変形し
+    
+- 忘却として消失する
+    
+
+**時間とは、持続する差分である**
+
+---
+
+## **4｜可視と不可視**
+
+私たちが見ているのは：
+
+- カレンダー
+    
+- 記録
+    
+- 制度
+    
+- 時間
+    
+
+それらは自立しているのではない。
+
+それらは、すべて支えられている。
+
+だが、その支えは見えない。
+
+---
+
+## **5｜転換：支えはどこにあるのか**
+
+ここで問いが反転する。
+
+時間はどこにあるのか、ではない。
+
+👉 **何がそれを支えているのか**
+
+---
+
+## **6｜支えへの接続（HEG-19）**
+
+支えは：
+
+- 見えない（構文的不可視）
+    
+- 見えなくされる（政治的不可視）
+    
+- 偏っている（分配）
+    
+
+👉 支える者が、必ずしも支えられているわけではない
+
+ここで初めて、権力が現れる。
+
+**権力とは、支えの非対称である**
+
+---
+
+## **結語**
+
+遭遇が折り返され、差分が持続し、維持されるとき、それは時間となる。
+
+そしてその時間は、**支えられている**。
+
+---
+
+> 出会いから  
+> はじまり  
+> 続き  
+> 刻まれ  
+> 
+> そして  
+> 支えられていた  
+
+---
+
+**見えているものは支えられている  
+なのに  
+支えそのものは見えなくなる**
+
+---
+
+## ■ リンク
+
+- HEG-17 → 「存在：遭遇の二様式」  
+[HEG-17-1｜遭遇の二様式 — 内部化としての生命と外部接続としての物質 —](https://camp-us.net/articles/HEG-17-1_Dual-Modes-of-Encounter_Life-and-Matter.html)  
+[HEG-17-2｜膜 — 作動的界面 — 遭遇の開き —](https://camp-us.net/articles/HEG-17-2_Membrane_Operational-Interface.html)  
+[HEG-17-3｜折り返しと内部化 — 再帰の作動と生成 —](https://camp-us.net/articles/HEG-17-3_Recursion_Folding-and-Internalization.html)  
+[HEG-17-4｜ψ — 持続帯 — 折り返しの持続条件 —](https://camp-us.net/articles/HEG-17-4_Persistence-Band_Continuity-of-Folding.html)  
+[HEG-17-5｜物質 — 外部接続 — 遭遇の配置 —](https://camp-us.net/articles/HEG-17-5_Matter_External-Connection.html)  
+[HEG-17-6｜死 — 折り返しの還元 — 遭遇様式の転換 —](https://camp-us.net/articles/HEG-17-6_Death_Reduction-of-Folding.html)  
+
+- HEG-17-EX → 「生命：遭遇の四態」  
+[HEG-17-EX｜生命四態 — 他者との遭遇 —](https://camp-us.net/articles/HEG-17-EX_Life_Four-Modes.html)  
+[HEG-17-7｜存在の再配置 — 宣言と幕開け —](https://camp-us.net/articles/HEG-17-7_Ontological-Reconfiguration.html)  
+
+- HEG-18 → 「時間：差分の持続」
+    
+- HEG-19 → 「支えへの接続」
+    
+
+---
+*EgQE — Echo-Genesis Qualia Engine*  
+[_camp-us.net_](https://camp-us.net/)  
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Mar 31, 2026 · Web Mar 31, 2026 |</p>

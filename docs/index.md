@@ -84,20 +84,22 @@ Try SyncHub!
 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
 
 ⏳ [HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
+[HEG-Core｜From Encounter to Time — 遭遇から時間へ — (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
 
 🕰️ [Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて](https://camp-us.net/Non-Closure-Updating-Ontology.html)  
-
 [更新存在論から支えの理論へ｜HEG-08–12 Core Map](https://camp-us.net/articles/Core_HEG-8-12_Map_Satellite-Turn_Updating-Ontology.html)  
 [Lag Generation Theory ── HEG-13 Core: From Otherness to Fiction of Ground](https://camp-us.net/articles/Core_HEG-13_Lag-Generation-Theory_Otherness-to-Ground.html)  
 
 [TPD-Core｜Toroponic–Polygonic Dynamics: Rotational Genesis](https://camp-us.net/articles/Core_TPD_Toroponic-Polygonic-Dynamics_Rotational-Genesis.html)  
-[TS-Core｜時間生成：Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 [SN-φ Core｜The Bifurcation of Generation — From lαg to φ](https://camp-us.net/articles/Core_SN-φ_Bifurcation-of-Generation_lαg-to-φ.html)  
-[SN-ψ Core｜Preservation, Time, and the H7–θₐ Band](https://camp-us.net/articles/Core_SN-ψ_Preservation_Time_H7-θₐ-Band.html)  
 [SLR Core｜The Universe Opened by Otherness](https://camp-us.net/articles/Core_SLR_Universe-Opened_by_Otherness.html)  
 [Core-SO-RZ｜空間前提の存在論の反転](https://camp-us.net/articles/Core_SO-RZ_SN-ψ_SLR.html)  
 [HEG Core Knot｜他者・空間・時間から黄金環へ ──幾何から構文へ至る宇宙論](https://camp-us.net/articles/Core_HEG-Knot_Otherness-to-Golden-Knot.html)  
 [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
+
+[TS-Core｜時間生成：Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
+[SN-ψ Core｜Preservation, Time, and the H7–θₐ Band](https://camp-us.net/articles/Core_SN-ψ_Preservation_Time_H7-θₐ-Band.html)  
+[TS-Core Update｜ψ as Temporal Syntax ── 差分の持続としての時間](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)  
 
 [Principia Cosmogonica (v0.1)｜宇宙生成原論](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)  
 [宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)  

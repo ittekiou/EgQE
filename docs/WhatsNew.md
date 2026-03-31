@@ -17,6 +17,17 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/03/31  
+[HEG-Core｜From Encounter to Time — 遭遇から時間へ — (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
+[HEG-17-1｜遭遇の二様式 — 内部化としての生命と外部接続としての物質 —｜Dual Modes of Encounter — Life and Matter as Internalization and External Connection —](https://camp-us.net/articles/HEG-17-1_Dual-Modes-of-Encounter_Life-and-Matter.html)  
+[HEG-17-2｜膜 — 作動的界面 — 遭遇の開き —｜Membrane as Operational Interface — The Opening of Encounter —](https://camp-us.net/articles/HEG-17-2_Membrane_Operational-Interface.html)  
+[HEG-17-3｜折り返しと内部化 — 再帰の作動と生成 —｜Folding and Internalization — The Operation and Genesis of Recursion —](https://camp-us.net/articles/HEG-17-3_Recursion_Folding-and-Internalization.html)  
+[HEG-17-4｜ψ — 持続帯 — 折り返しの持続条件 —｜ψ — Persistence Band — The Condition for the Continuity of Folding —](https://camp-us.net/articles/HEG-17-4_Persistence-Band_Continuity-of-Folding.html)  
+[HEG-17-5｜物質 — 外部接続 — 遭遇の配置 —｜External Connection and Matter — The Configuration of Encounter —](https://camp-us.net/articles/HEG-17-5_Matter_External-Connection.html)  
+[HEG-17-6｜死 — 折り返しの還元 — 遭遇様式の転換 —｜Death as Reduction of Folding — The Transition of Encounter Modes —](https://camp-us.net/articles/HEG-17-6_Death_Reduction-of-Folding.html)  
+[HEG-17-7｜存在の再配置 — 宣言と幕開け —｜Ontological Reconfiguration — Declaration and Opening —](https://camp-us.net/articles/HEG-17-7_Ontological-Reconfiguration.html)  
+[HEG-17-EX｜生命四態 — 他者との遭遇 —｜Four Modes of Life — Encounter with the Other —](https://camp-us.net/articles/HEG-17-EX_Life_Four-Modes.html)  
+
 ###### 2026/03/30  
 [MET-01｜条件表明としての数式 ── 数式における閉包と非閉包｜Mathematical Expression as Condition｜EgQE Syntax Method-01 数式の転回](https://camp-us.net/articles/MET-01_Mathematical-Expression-as-Condition.html)  
 [EgQE｜TS-Core Update｜ψ as Temporal Syntax ── 差分の持続としての時間｜Time as the Persistence of Difference](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)  
