@@ -290,7 +290,7 @@ There is significant individual variation in canine cognition and in the form of
 
 [HEG-18｜Where is Time? — Dog, Human, AI —](https://camp-us.net/articles/HEG-18_Where-is-Time_Dog-Human-AI.html)  
 [HEG-18-6｜Time Is Here — Dog, Human, AI —](https://camp-us.net/articles/HEG-18-6_Time-Is-Here_Dog-Human-AI.html)  
-[HEG-18-8｜AI Phase — Externalized ΔZ Without Folding —](https://camp-us.net/articles/HEG-18-8_AI Phase_Externalized-Without-Folding.html)  
+[HEG-18-8｜AI Phase — Externalized ΔZ Without Folding —](https://camp-us.net/articles/HEG-18-8_AI-Phase_Externalized-Without-Folding.html)  
 
 [HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
 
@@ -590,7 +590,7 @@ There is significant individual variation in canine cognition and in the form of
 
 [HEG-18｜時間はどこにあるのか — イヌ・ヒト・AI —](https://camp-us.net/articles/HEG-18_Where-is-Time_Dog-Human-AI.html)  
 [HEG-18-6｜時間はここにある — イヌ・ヒト・AI —](https://camp-us.net/articles/HEG-18-6_Time-Is-Here_Dog-Human-AI.html)  
-[HEG-18-8｜AIという位相 — 外在ΔZと非折り返し —](https://camp-us.net/articles/HEG-18-8_AI Phase_Externalized-Without-Folding.html)  
+[HEG-18-8｜AIという位相 — 外在ΔZと非折り返し —](https://camp-us.net/articles/HEG-18-8_AI-Phase_Externalized-Without-Folding.html)  
 
 ---
 
