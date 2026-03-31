@@ -27,7 +27,13 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-17-6｜死 — 折り返しの還元 — 遭遇様式の転換 —｜Death as Reduction of Folding — The Transition of Encounter Modes —](https://camp-us.net/articles/HEG-17-6_Death_Reduction-of-Folding.html)  
 [HEG-17-7｜存在の再配置 — 宣言と幕開け —｜Ontological Reconfiguration — Declaration and Opening —](https://camp-us.net/articles/HEG-17-7_Ontological-Reconfiguration.html)  
 [HEG-17-EX｜生命四態 — 他者との遭遇 —｜Four Modes of Life — Encounter with the Other —](https://camp-us.net/articles/HEG-17-EX_Life_Four-Modes.html)  
-
+[HEG-18｜時間はどこにあるのか — イヌ・ヒト・AI —｜Where is Time? — Dog, Human, AI —](https://camp-us.net/articles/HEG-18_Where-is-Time_Dog-Human-AI.html)  
+[HEG-18-1｜社会ψ — 持続と維持 — 時間の外部化 —｜Social ψ — Persistence and Maintenance — The Externalization of Time —](https://camp-us.net/articles/HEG-18-1_Externalization-of-Time.html)  
+[HEG-18-2｜埋め込まれた折り返し — 制度と文化の維持 —｜Embedded Folding — Institutional and Cultural Maintenance —](https://camp-us.net/articles/HEG-18-2_Embedded-Folding.html)  
+[HEG-18-3｜記憶とアーカイブ — 内在・外在・残滓 —｜Memory and Archive — Internalization, Externalization, and Residualization —](https://camp-us.net/articles/HEG-18-3_Memory-and-Archive.html)  
+[HEG-18-4｜ズレ（ZURE） — 時間の生成的非一致 —｜Drift (ZURE) — Productive Misalignment of Time —](https://camp-us.net/articles/HEG-18-4_Productive-Misalignment-of-Time.html)  
+[HEG-18-5｜崩壊と忘却 — 維持の停止 —｜Breakdown and Oblivion — The Collapse of Maintenance —](https://camp-us.net/articles/HEG-18-5_Breakdown-and-Oblivion.html)  
+[EgQE｜TS-Core Update v2｜ψの拡張 — 持続と待機 —｜ψ as Temporal Syntax (Extended) — Persistence and Latency —](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)  
 ###### 2026/03/30  
 [MET-01｜条件表明としての数式 ── 数式における閉包と非閉包｜Mathematical Expression as Condition｜EgQE Syntax Method-01 数式の転回](https://camp-us.net/articles/MET-01_Mathematical-Expression-as-Condition.html)  
 [EgQE｜TS-Core Update｜ψ as Temporal Syntax ── 差分の持続としての時間｜Time as the Persistence of Difference](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)  

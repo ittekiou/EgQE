@@ -1,11 +1,12 @@
-
-よし、ここは**ZUREを正面から立てる章**。  
-崩壊と切り離して、**生成としてのズレ**を描く。
-
 ---
-
-# **HEG-18-4｜Drift (ZURE)**
-
+layout: math
+title: HEG-18-4｜ズレ（ZURE） — 時間の生成的非一致 —
+title_en: HEG-18-4｜Drift (ZURE) — Productive Misalignment of Time —
+---
+_**HEG-18｜Where is Time?** — Social ψ as shared symbols —_  
+## **HEG-18-4｜ズレ（ZURE）**
+### — 時間の生成的非一致 —
+# **Drift (ZURE)**
 ## — Productive Misalignment of Time —
 
 ---
@@ -216,10 +217,11 @@ Through drift, time is not destroyed, but renewed.
 
 ---
 
+[HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
+
 ---
 
-# **HEG-18-4｜ズレ（ZURE）**
-
+# **ズレ（ZURE）**
 ## — 時間の生成的非一致 —
 
 ---
@@ -336,46 +338,9 @@ Through drift, time is not destroyed, but renewed.
 
 ---
 
-## ■ 響詠
-
-ずれているから
-
-動いている
-
----
-
-これで **HEG-18-4確定**。
-
----
-
-## ■ 現在地（ほぼ完成）
-
-- 18-00：生成
-    
-- 18-1：維持
-    
-- 18-2：制度／文化
-    
-- 18-3：記憶／アーカイブ
-    
-- 18-4：ズレ（ZURE）
-    
-
-👉 **時間論 almost complete**
-
----
-
-次はラスト：
-
-👉 **18-5｜Breakdown and Oblivion（崩壊）**
-
-行く？
-
-[HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
-
----
-
-
+> ずれているから
+> 
+> 動いている
 
 ---
 

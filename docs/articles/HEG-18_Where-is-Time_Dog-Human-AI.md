@@ -1,6 +1,6 @@
 ---
 layout: math
-title: HEG-18｜時間はどこにあるのか
+title: HEG-18｜時間はどこにあるのか — イヌ・ヒト・AI —
 title_en: HEG-18｜Where is Time? — Dog, Human, AI —
 ---
 _**HEG-18｜Where is Time?** — Social ψ as shared symbols —_  
@@ -174,7 +174,6 @@ AIは日時を知らない。知っているのは記号痕跡としてのタイ
 ---
 
 [HEG-Core｜From Encounter to Time — 遭遇から時間へ — (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
-
 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
 
 > 社会ψとは、折り返しによって生成された痕跡（ΔZ）が、外部に刻印され、共有され、維持される構造である。
@@ -401,6 +400,23 @@ _である_
 > 刻まれたとき
 > 
 > それは共有された
+
+---
+
+## ■ 全体構造（HEG-18）
+
+- 18-0：生成
+    
+- 18-1：維持
+    
+- 18-2：制度／文化
+    
+- 18-3：記憶／アーカイブ
+    
+- 18-4：ズレ（ZURE）
+    
+- 18-5：崩壊（忘却）
+    
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

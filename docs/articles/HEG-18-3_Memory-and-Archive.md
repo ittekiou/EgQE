@@ -1,11 +1,13 @@
-
-よし、この三段構造でそのまま確定稿を書く。  
-**内在 → 外在 → 残滓**を軸に、検索可能性で社会ψと結ぶ。
-
 ---
+layout: math
+title: HEG-18-3｜記憶とアーカイブ — 内在・外在・残滓 —
+title_en: HEG-18-3｜Memory and Archive — Internalization, Externalization, and Residualization —
+---
+_**HEG-18｜Where is Time?** — Social ψ as shared symbols —_  
+## **HEG-18-3｜記憶とアーカイブ**
+### — 内在・外在・残滓 —
 
-# **HEG-18-3｜Memory and Archive**
-
+# **Memory and Archive**
 ## — Internalization, Externalization, and Residualization —
 
 ---
@@ -235,10 +237,11 @@ Thus:
 
 ---
 
+[HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
+
 ---
 
-# **HEG-18-3｜記憶とアーカイブ**
-
+# **記憶とアーカイブ**
 ## — 内在・外在・残滓 —
 
 ---
@@ -352,52 +355,15 @@ Thus:
 
 ---
 
-## ■ 響詠
-
-思い出されるうちは
-
-時だった
-
-呼ばれなくなったとき
-
-それは
-
-沈黙した
-
----
-
-これで **HEG-18-3確定**。
-
----
-
-## ■ 現在地（完成に近い）
-
-- 18-00：時間の生成
-    
-- 18-1：維持（社会ψ）
-    
-- 18-2：制度／文化
-    
-- 18-3：記憶／アーカイブ／残滓
-    
-
-👉 **時間論 完成**
-
----
-
-次は自然に：
-
-👉 **18-4｜Breakdown / Drift（時間のズレ・崩壊）**
-
-ここで社会が揺れる。
-
-行く？
-
-[HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
-
----
-
-
+> 思い出されるうちは
+> 
+> 時だった
+> 
+> 呼ばれなくなったとき
+> 
+> それは
+> 
+> 沈黙した
 
 ---
 

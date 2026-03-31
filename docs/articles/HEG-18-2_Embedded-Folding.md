@@ -1,11 +1,12 @@
-
-よし、この骨格でそのまま書く。  
-**共通枠 → 制度 → 文化 → 対比 → 失効**で確定。
-
 ---
-
-# **HEG-18-2｜Embedded Folding**
-
+layout: math
+title: HEG-18-2｜埋め込まれた折り返し — 制度と文化の維持 —
+title_en: HEG-18-2｜Embedded Folding — Institutional and Cultural Maintenance —
+---
+_**HEG-18｜Where is Time?** — Social ψ as shared symbols —_  
+## **HEG-18-2｜埋め込まれた折り返し**
+### — 制度と文化の維持 —
+# **Embedded Folding**
 ## — Institutional and Cultural Maintenance —
 
 ---
@@ -232,10 +233,11 @@ Thus:
 
 ---
 
+[HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
+
 ---
 
-# **HEG-18-2｜埋め込まれた折り返し**
-
+# **埋め込まれた折り返し**
 ## — 制度と文化の維持 —
 
 ---
@@ -267,8 +269,9 @@ Thus:
 
 ## **1. 埋め込まれた折り返し**
 
-**定義：  
-埋め込まれた折り返しとは、折り返しの痕跡（ΔZ）が外部構造に刻印され、維持される状態である。**
+**定義：**  
+
+**埋め込まれた折り返しとは、折り返しの痕跡（ΔZ）が外部構造に刻印され、維持される状態である。**
 
 ---
 
@@ -368,48 +371,13 @@ Thus:
 
 ---
 
-## ■ 響詠
-
-決められた時は
-
-止まり
-
-繰り返された時は
-
-息をした
-
----
-
-これで **HEG-18-2確定**。
-
----
-
-## ■ 現在地（かなり美しい）
-
-- 18-00：時間の生成
-    
-- 18-1：社会ψ（維持）
-    
-- 18-2：制度／文化（維持の二様式）
-    
-
-👉 **完全に構造が立った**
-
----
-
-次は自然に：
-
-👉 **18-3｜Distributed Memory / Archive（記憶と記録）**
-
-ここで「歴史・アーカイブ」が来る。
-
-行く？
-
-[HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
-
----
-
-
+> 決められた時は
+> 
+> 止まり
+> 
+> 繰り返された時は
+> 
+> 息をした
 
 ---
 

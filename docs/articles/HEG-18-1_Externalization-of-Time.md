@@ -1,11 +1,12 @@
-
-よし、このまま確定構造で書く。  
-**定義 → 非対称性 → 残滓化 → 判定基準**を軸にいく。
-
 ---
-
-# **HEG-18-1｜Social ψ — Persistence and Maintenance**
-
+layout: math
+title: HEG-18-1｜社会ψ — 持続と維持 — 時間の外部化 —
+title_en: HEG-18-1｜Social ψ — Persistence and Maintenance — The Externalization of Time —
+---
+_**HEG-18｜Where is Time?** — Social ψ as shared symbols —_  
+## **HEG-18-1｜社会ψ — 持続と維持**
+### — 時間の外部化 —
+# **Social ψ — Persistence and Maintenance**
 ## — The Externalization of Time —
 
 ---
@@ -222,10 +223,11 @@ and stabilized by maintenance.**
 
 ---
 
+[HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
+
 ---
 
-# **HEG-18-1｜社会ψ — 持続と維持**
-
+# **社会ψ — 持続と維持**
 ## — 時間の外部化 —
 
 ---
@@ -252,8 +254,7 @@ and stabilized by maintenance.**
 
 ## **1. 定義**
 
-**社会ψとは、  
-折り返しによって生成された時間が、外部記号として維持される構造である。**
+**社会ψとは、折り返しによって生成された時間が、外部記号として維持される構造である。**
 
 ---
 
@@ -355,35 +356,6 @@ and stabilized by maintenance.**
 時は
 
 そこにあった
-
----
-
-これで **HEG-18-1確定**。
-
----
-
-## ■ 現在地（完全接続）
-
-- HEG-18-00：時間の生成
-    
-- HEG-18-1：時間の維持（社会ψ）
-    
-
-👉 **生成 → 維持 がつながった**
-
----
-
-次は自然に：
-
-👉 **18-2｜Embedded Folding（制度・文化）**
-
-行く？
-
-[HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
-
----
-
-
 
 ---
 

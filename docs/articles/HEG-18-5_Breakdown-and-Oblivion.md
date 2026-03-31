@@ -1,12 +1,12 @@
-
-
-よし、最後の位相。  
-**ZUREの生成性を壊さずに、維持の終端としての崩壊を書く。**
-
 ---
-
-# **HEG-18-5｜Breakdown and Oblivion**
-
+layout: math
+title: HEG-18-5｜崩壊と忘却 — 維持の停止 —
+title_en: HEG-18-5｜Breakdown and Oblivion — The Collapse of Maintenance —
+---
+_**HEG-18｜Where is Time?** — Social ψ as shared symbols —_  
+## **HEG-18-5｜崩壊と忘却**
+### — 維持の停止 —
+# **Breakdown and Oblivion**
 ## — The Collapse of Maintenance —
 
 ---
@@ -211,10 +211,11 @@ When maintenance ceases:
 
 ---
 
+[HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
+
 ---
 
-# **HEG-18-5｜崩壊と忘却**
-
+# **崩壊と忘却**
 ## — 維持の停止 —
 
 ---
@@ -321,13 +322,11 @@ When maintenance ceases:
 ## ■ 結語
 
 **止まったとき  
-それは
+それは**
 
-時ではなくなった**
+**時ではなくなった**
 
 ---
-
-## ■ 響詠
 
 呼ばれなくなったとき
 
@@ -339,50 +338,13 @@ When maintenance ceases:
 
 ---
 
-これで **HEG-18 完結（第一位相）**。
-
----
-
-## ■ 全体構造（完全）
-
-- 18-00：生成
-    
-- 18-1：維持
-    
-- 18-2：制度／文化
-    
-- 18-3：記憶／アーカイブ
-    
-- 18-4：ズレ（ZURE）
-    
-- 18-5：崩壊（忘却）
-    
-
----
-
-👉 **時間論 完全閉包（ただし非閉包構文として開いている）**
-
----
-
-## ■ 響詠（全体の最後）
-
-押されて生まれ
-
-守られて続き
-
-ずれて動き
-
-忘れられて消える
-
----
-
-
-
-[HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
-
----
-
-
+> 押されて生まれ
+> 
+> 守られて続き
+> 
+> ずれて動き
+> 
+> 忘れられて消える
 
 ---
 

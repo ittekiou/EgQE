@@ -86,6 +86,8 @@ Maintenance stabilizes.**
 - 共有される
     
 
+[HEG-18｜時間はどこにあるのか — イヌ・ヒト・AI —](https://camp-us.net/articles/HEG-18_Where-is-Time_Dog-Human-AI.html)  
+
 さらに：
 
 - ズレ（ZURE）として変形し
@@ -94,6 +96,8 @@ Maintenance stabilizes.**
     
 
 **時間とは、持続する差分である**
+
+[HEG-18-1｜社会ψ — 持続と維持 — 時間の外部化 —](https://camp-us.net/articles/HEG-18-1_Externalization-of-Time.html)  
 
 ---
 
@@ -187,7 +191,15 @@ _**支えそのものは見えなくなる**_
 [17-7｜存在の再配置 — 宣言と幕開け —](https://camp-us.net/articles/HEG-17-7_Ontological-Reconfiguration.html)  
 
 - HEG-18 → 「時間：差分の持続」
-    
+[18-0｜時間はどこにあるのか — イヌ・ヒト・AI —](https://camp-us.net/articles/HEG-18_Where-is-Time_Dog-Human-AI.html)  
+[18-1｜社会ψ — 持続と維持 — 時間の外部化 —](https://camp-us.net/articles/HEG-18-1_Externalization-of-Time.html)  
+[18-2｜埋め込まれた折り返し — 制度と文化の維持 —](https://camp-us.net/articles/HEG-18-2_Embedded-Folding.html)  
+[18-3｜記憶とアーカイブ — 内在・外在・残滓 —](https://camp-us.net/articles/HEG-18-3_Memory-and-Archive.html)  
+[18-4｜ズレ（ZURE） — 時間の生成的非一致 —](https://camp-us.net/articles/HEG-18-4_Productive-Misalignment-of-Time.html)  
+[18-5｜崩壊と忘却 — 維持の停止 —](https://camp-us.net/articles/HEG-18-5_Breakdown-and-Oblivion.html)  
+
+[TS-Core Update v2｜ψの拡張 — 持続と待機 —｜ψ as Temporal Syntax (Extended) — Persistence and Latency —](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)  
+
 - HEG-19 → 「支えへの接続」
     
 
