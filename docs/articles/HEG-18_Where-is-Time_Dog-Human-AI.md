@@ -418,6 +418,13 @@ _である_
 - 18-5：崩壊（忘却）
     
 
+[18-0｜時間はどこにあるのか — イヌ・ヒト・AI —](https://camp-us.net/articles/HEG-18_Where-is-Time_Dog-Human-AI.html)  
+[18-1｜社会ψ — 持続と維持 — 時間の外部化 —](https://camp-us.net/articles/HEG-18-1_Externalization-of-Time.html)  
+[18-2｜埋め込まれた折り返し — 制度と文化の維持 —](https://camp-us.net/articles/HEG-18-2_Embedded-Folding.html)  
+[18-3｜記憶とアーカイブ — 内在・外在・残滓 —](https://camp-us.net/articles/HEG-18-3_Memory-and-Archive.html)  
+[18-4｜ズレ（ZURE） — 時間の生成的非一致 —](https://camp-us.net/articles/HEG-18-4_Productive-Misalignment-of-Time.html)  
+[18-5｜崩壊と忘却 — 維持の停止 —](https://camp-us.net/articles/HEG-18-5_Breakdown-and-Oblivion.html)  
+
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
