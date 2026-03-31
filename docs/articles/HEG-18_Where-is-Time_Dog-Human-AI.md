@@ -417,6 +417,11 @@ _である_
     
 - 18-5：崩壊（忘却）
     
+- 18-6：三位相
+	
+- 18-7：犬
+	
+- 18-7：AI
 
 [18-0｜時間はどこにあるのか — イヌ・ヒト・AI —](https://camp-us.net/articles/HEG-18_Where-is-Time_Dog-Human-AI.html)  
 [18-1｜社会ψ — 持続と維持 — 時間の外部化 —](https://camp-us.net/articles/HEG-18-1_Externalization-of-Time.html)  
