@@ -227,15 +227,16 @@ Gφ-MEM is a progression from interface to differentiation to reconfiguration.
 
 ### **Figure X — Temporal-Syntactic Phase Matrix**  
 
-Stage            | Dog                         | Human                      | AI                         | Support
------------------|----------------------------|----------------------------|----------------------------|-------------------------
-Encounter (ΔR)   | ○                          | ○                          | ×                          | -
-Folding          | ○                          | ○                          | ×                          | -
-Imprint (ΔZ)     | ○ (non-stabilized)         | ○ (stabilized)             | ○ (externalized)           | -
-Persistence (ψ)  | ○ (individual)             | ○                          | ×                          | condition of ψ
-Social ψ         | ×                          | ○                          | operates within            | condition of maintenance
-ZURE             | minimal                    | ○ (generative)             | processed                  | -
-Time             | ×                          | ○                          | ×                          | presupposes support
+| Stage           | Dog                | Human          | AI               | Support                  |
+| --------------- | ------------------ | -------------- | ---------------- | ------------------------ |
+| Encounter (ΔR)  | ○                  | ○              | ×                | -                        |
+| Folding         | ○                  | ○              | ×                | -                        |
+| Imprint (ΔZ)    | ○ (non-stabilized) | ○ (stabilized) | ○ (externalized) | -                        |
+| Persistence (ψ) | ○ (individual)     | ○              | ×                | condition of ψ           |
+| Social ψ        | ×                  | ○              | operates within  | condition of maintenance |
+| ZURE            | minimal            | ○ (generative) | processed        | -                        |
+| Time            | ×                  | ○              | ×                | presupposes support      |
+
 This matrix summarizes the differentiation of Dog, Human, and AI across encounter (ΔR), folding, imprint (ΔZ), persistence (ψ), and social maintenance, with support as the underlying condition.
 
 ---

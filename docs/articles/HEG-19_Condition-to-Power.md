@@ -225,6 +225,7 @@ Persistence (ψ)  | ○ (individual)             | ○                          
 Social ψ         | ×                          | ○                          | operates within            | condition of maintenance
 ZURE             | minimal                    | ○ (generative)             | processed                  | -
 Time             | ×                          | ○                          | ×                          | presupposes support
+
 This matrix summarizes the differentiation of Dog, Human, and AI across encounter (ΔR), folding, imprint (ΔZ), persistence (ψ), and social maintenance, with support as the underlying condition.
 
 ---
