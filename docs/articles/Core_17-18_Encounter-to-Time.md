@@ -197,6 +197,7 @@ _**支えそのものは見えなくなる**_
 [18-3｜記憶とアーカイブ — 内在・外在・残滓 —](https://camp-us.net/articles/HEG-18-3_Memory-and-Archive.html)  
 [18-4｜ズレ（ZURE） — 時間の生成的非一致 —](https://camp-us.net/articles/HEG-18-4_Productive-Misalignment-of-Time.html)  
 [18-5｜崩壊と忘却 — 維持の停止 —](https://camp-us.net/articles/HEG-18-5_Breakdown-and-Oblivion.html)  
+[18-6｜時間はここにある — イヌ・ヒト・AI —](https://camp-us.net/articles/HEG-18-6_Time-Is-Here_Dog-Human-AI.html)  
 
 [TS-Core Update v2｜ψの拡張 — 持続と待機 —｜ψ as Temporal Syntax (Extended) — Persistence and Latency —](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)  
 
