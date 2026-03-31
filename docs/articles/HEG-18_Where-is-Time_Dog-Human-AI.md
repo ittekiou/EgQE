@@ -425,6 +425,10 @@ _である_
 [18-4｜ズレ（ZURE） — 時間の生成的非一致 —](https://camp-us.net/articles/HEG-18-4_Productive-Misalignment-of-Time.html)  
 [18-5｜崩壊と忘却 — 維持の停止 —](https://camp-us.net/articles/HEG-18-5_Breakdown-and-Oblivion.html)  
 
+[18-6｜時間はここにある — イヌ・ヒト・AI —](https://camp-us.net/articles/HEG-18-6_Time-Is-Here_Dog-Human-AI.html)  
+[18-7｜犬という位相 — 前言語的折り返しと非固定印字 —](https://camp-us.net/articles/HEG-18-7_Dog-Phase_Pre-symbolic-Folding.html)  
+[18-8｜AIという位相 — 外在ΔZと非折り返し —](https://camp-us.net/articles/HEG-18-8_AI Phase_Externalized-Without-Folding.html)  
+
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  

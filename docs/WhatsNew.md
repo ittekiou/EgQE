@@ -34,6 +34,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-18-4｜ズレ（ZURE） — 時間の生成的非一致 —｜Drift (ZURE) — Productive Misalignment of Time —](https://camp-us.net/articles/HEG-18-4_Productive-Misalignment-of-Time.html)  
 [HEG-18-5｜崩壊と忘却 — 維持の停止 —｜Breakdown and Oblivion — The Collapse of Maintenance —](https://camp-us.net/articles/HEG-18-5_Breakdown-and-Oblivion.html)  
 [HEG-18-6｜時間はここにある — イヌ・ヒト・AI —｜Time Is Here — Dog, Human, AI —](https://camp-us.net/articles/HEG-18-6_Time-Is-Here_Dog-Human-AI.html)  
+[HEG-18-7｜犬という位相 — 前言語的折り返しと非固定印字 —｜Dog Phase — Pre-symbolic Folding with Non-stabilized Imprint —](https://camp-us.net/articles/HEG-18-7_Dog-Phase_Pre-symbolic-Folding.html)  
+[HEG-18-8｜AIという位相 — 外在ΔZと非折り返し —｜AI Phase — Externalized ΔZ Without Folding —](https://camp-us.net/articles/HEG-18-8_AI Phase_Externalized-Without-Folding.html)  
 [EgQE｜TS-Core Update v2｜ψの拡張 — 持続と待機 —｜ψ as Temporal Syntax (Extended) — Persistence and Latency —](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)  
 ###### 2026/03/30  
 [MET-01｜条件表明としての数式 ── 数式における閉包と非閉包｜Mathematical Expression as Condition｜EgQE Syntax Method-01 数式の転回](https://camp-us.net/articles/MET-01_Mathematical-Expression-as-Condition.html)  

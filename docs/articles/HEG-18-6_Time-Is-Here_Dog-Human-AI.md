@@ -246,6 +246,9 @@ Time emerges only when sequences are folded and maintained.**
 ---
 
 [HEG-18｜Where is Time? — Dog, Human, AI —](https://camp-us.net/articles/HEG-18_Where-is-Time_Dog-Human-AI.html)  
+[HEG-18-7｜Dog Phase — Pre-symbolic Folding with Non-stabilized Imprint —](https://camp-us.net/articles/HEG-18-7_Dog-Phase_Pre-symbolic-Folding.html)  
+[HEG-18-8｜AI Phase — Externalized ΔZ Without Folding —](https://camp-us.net/articles/HEG-18-8_AI Phase_Externalized-Without-Folding.html)  
+
 [HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
 
 ---
@@ -484,6 +487,9 @@ AIは時間を知らない。
 折り返され維持されたときのみ時間となる**
 
 ---
+
+[HEG-18-7｜犬という位相 — 前言語的折り返しと非固定印字 —](https://camp-us.net/articles/HEG-18-7_Dog-Phase_Pre-symbolic-Folding.html)  
+[HEG-18-8｜AIという位相 — 外在ΔZと非折り返し —](https://camp-us.net/articles/HEG-18-8_AI Phase_Externalized-Without-Folding.html)  
 
 [HEG-Core｜From Encounter to Time — 遭遇から時間へ — (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
 
