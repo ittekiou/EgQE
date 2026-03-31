@@ -170,21 +170,36 @@ title_en: HEG-Core｜From Encounter to Time (HEG-17-18)
 ## ■ リンク
 
 - HEG-17 → 「存在：遭遇の二様式」  
-[HEG-17-1｜遭遇の二様式 — 内部化としての生命と外部接続としての物質 —](https://camp-us.net/articles/HEG-17-1_Dual-Modes-of-Encounter_Life-and-Matter.html)  
-[HEG-17-2｜膜 — 作動的界面 — 遭遇の開き —](https://camp-us.net/articles/HEG-17-2_Membrane_Operational-Interface.html)  
-[HEG-17-3｜折り返しと内部化 — 再帰の作動と生成 —](https://camp-us.net/articles/HEG-17-3_Recursion_Folding-and-Internalization.html)  
-[HEG-17-4｜ψ — 持続帯 — 折り返しの持続条件 —](https://camp-us.net/articles/HEG-17-4_Persistence-Band_Continuity-of-Folding.html)  
-[HEG-17-5｜物質 — 外部接続 — 遭遇の配置 —](https://camp-us.net/articles/HEG-17-5_Matter_External-Connection.html)  
-[HEG-17-6｜死 — 折り返しの還元 — 遭遇様式の転換 —](https://camp-us.net/articles/HEG-17-6_Death_Reduction-of-Folding.html)  
+[17-1｜遭遇の二様式 — 内部化としての生命と外部接続としての物質 —](https://camp-us.net/articles/HEG-17-1_Dual-Modes-of-Encounter_Life-and-Matter.html)  
+[17-2｜膜 — 作動的界面 — 遭遇の開き —](https://camp-us.net/articles/HEG-17-2_Membrane_Operational-Interface.html)  
+[17-3｜折り返しと内部化 — 再帰の作動と生成 —](https://camp-us.net/articles/HEG-17-3_Recursion_Folding-and-Internalization.html)  
+[17-4｜ψ — 持続帯 — 折り返しの持続条件 —](https://camp-us.net/articles/HEG-17-4_Persistence-Band_Continuity-of-Folding.html)  
+[17-5｜物質 — 外部接続 — 遭遇の配置 —](https://camp-us.net/articles/HEG-17-5_Matter_External-Connection.html)  
+[17-6｜死 — 折り返しの還元 — 遭遇様式の転換 —](https://camp-us.net/articles/HEG-17-6_Death_Reduction-of-Folding.html)  
 
 - HEG-17-EX → 「生命：遭遇の四態」  
-[HEG-17-EX｜生命四態 — 他者との遭遇 —](https://camp-us.net/articles/HEG-17-EX_Life_Four-Modes.html)  
-[HEG-17-7｜存在の再配置 — 宣言と幕開け —](https://camp-us.net/articles/HEG-17-7_Ontological-Reconfiguration.html)  
+[17-EX｜生命四態 — 他者との遭遇 —](https://camp-us.net/articles/HEG-17-EX_Life_Four-Modes.html)  
+[17-7｜存在の再配置 — 宣言と幕開け —](https://camp-us.net/articles/HEG-17-7_Ontological-Reconfiguration.html)  
 
 - HEG-18 → 「時間：差分の持続」
     
 - HEG-19 → 「支えへの接続」
     
+
+## Related
+
+- [Gφ-MEM-01](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html): Membrane (interface)  膜（界面）  
+    
+- [Gφ-MEM-02](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html): Differentiation (matter / life)  分岐（物質／生命）
+    
+- [Gφ-MEM-03](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html): Recursion (syntactic reconfiguration)  再帰（構文再配置）
+    
+- [SLR-03｜膜・持続・再帰 ── SO–lag生成存在論の展開](https://camp-us.net/articles/SLR-03_Membrane-Persistence-Recursion.html)  
+	
+
+Gφ-MEM is a progression from interface to differentiation to reconfiguration.
+
+👉 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
