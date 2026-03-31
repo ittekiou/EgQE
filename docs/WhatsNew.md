@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/04/01  
+[HEG-19｜Support — 支えとは何か —｜— From Condition to Power —](https://camp-us.net/articles/HEG-19_Condition-to-Power.html)  
 [HEG-19-1｜Support Reconfigured — 再定義：bind(SO, RZ) —｜bind(SO, RZ) as the Condition of Maintenance —](https://camp-us.net/articles/HEG-19-1_Support-Reconfigured.html)  
 [HEG-19-2｜Invisibility of Support — 構文的不可視と政治的不可視 —｜— Structural and Political Modes —](https://camp-us.net/articles/HEG-19-2_Invisibility-of-Support.html)  
 [HEG-19-3｜Distribution of Support — 非対称・非還元・権力 —｜— Asymmetry, Non-Reciprocity, and Power —](https://camp-us.net/articles/HEG-19-3_Distribution-of-Support.html)  

@@ -261,7 +261,9 @@ HEG-19-2｜Invisibility（認識論）
 HEG-19-3｜Distribution（政治論）
 ```
 
+[HEG-19｜Support — From Condition to Power —](https://camp-us.net/articles/HEG-19_Condition-to-Power.html)  
 [HEG-Core｜From Encounter to Time (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
+
 
 ---
 
@@ -438,6 +440,7 @@ B does not support A
 ---
 
 [HEG-Core｜From Encounter to Time — 遭遇から時間へ — (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
+[HEG-19｜Support — 支えとは何か —｜— From Condition to Power —](https://camp-us.net/articles/HEG-19_Condition-to-Power.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
