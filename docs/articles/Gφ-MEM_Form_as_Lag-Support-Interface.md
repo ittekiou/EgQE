@@ -3,7 +3,8 @@ title: Gφ-MEM-01｜形としての膜 ── lag–support–interface
 layout: math
 title_en: "Gφ-MEM-01｜Minimal Membrane–Form Theory: Form as Lag–Support–Interface"
 ---
-## 形としての膜 ── lag–support–interface
+_Gφ-MEM｜from interface to reconfiguration_  
+## MEM-01｜形としての膜 ── lag–support–interface
 # Minimal Membrane–Form Theory
 ## Form as Lag–Support–Interface
 

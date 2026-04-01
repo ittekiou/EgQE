@@ -3,7 +3,8 @@ layout: math
 title: Gφ-MEM-03｜再帰性とはなにか ── 構文再配置としての再帰
 title_en: Gφ-MEM-03｜Recursion as Syntactic Reconfiguration ── Recursion as Reconfiguration in SO-lag Syntax
 ---
-## 再帰性とはなにか
+_Gφ-MEM｜from interface to reconfiguration_  
+## MEM-03｜再帰性とはなにか
 ### ── 構文再配置としての再帰
 # Recursion as Syntactic Reconfiguration
 ## ── Recursion as Reconfiguration in SO-lag Syntax

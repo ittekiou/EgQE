@@ -120,6 +120,8 @@ Maintenance stabilizes.**
 
 だが、その支えは見えない。
 
+[HEG-18-9｜時間は刻印である ── 暦は静止衛星的構文supportである](https://camp-us.net/articles/HEG-18-9_Time-as-Timestamp.html)  
+
 ---
 
 ## **5｜転換：支えはどこにあるのか**
@@ -202,6 +204,7 @@ _**支えそのものは見えなくなる**_
 [18-6｜時間はここにある — イヌ・ヒト・AI —](https://camp-us.net/articles/HEG-18-6_Time-Is-Here_Dog-Human-AI.html)  
 [18-7｜犬という位相 — 前言語的折り返しと非固定印字 —](https://camp-us.net/articles/HEG-18-7_Dog-Phase_Pre-symbolic-Folding.html)  
 [18-8｜AIという位相 — 外在ΔZと非折り返し —](https://camp-us.net/articles/HEG-18-8_AI-Phase_Externalized-Without-Folding.html)  
+[18-9｜時間は刻印である ── 時間の構文的記述：暦は静止衛星的supportである](https://camp-us.net/articles/HEG-18-9_Time-as-Timestamp.html)  
 
 [TS-Core Update v2｜ψの拡張 — 持続と待機 —｜ψ as Temporal Syntax (Extended) — Persistence and Latency —](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)  
 

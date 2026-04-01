@@ -18,10 +18,14 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/04/01  
+[HEG-18-9｜時間は刻印である ── 時間の構文的記述：暦は静止衛星的supportである｜Time as Timestamp — A Syntactic Account of Temporal Imprint Calendar as a Geostationary Support System](https://camp-us.net/articles/HEG-18-9_Time-as-Timestamp.html)  
 [HEG-19｜Support — 支えとは何か —｜— From Condition to Power —](https://camp-us.net/articles/HEG-19_Condition-to-Power.html)  
 [HEG-19-1｜Support Reconfigured — 再定義：bind(SO, RZ) —｜bind(SO, RZ) as the Condition of Maintenance —](https://camp-us.net/articles/HEG-19-1_Support-Reconfigured.html)  
 [HEG-19-2｜Invisibility of Support — 構文的不可視と政治的不可視 —｜— Structural and Political Modes —](https://camp-us.net/articles/HEG-19-2_Invisibility-of-Support.html)  
 [HEG-19-3｜Distribution of Support — 非対称・非還元・権力 —｜— Asymmetry, Non-Reciprocity, and Power —](https://camp-us.net/articles/HEG-19-3_Distribution-of-Support.html)  
+[Gφ-MEM-04｜Seed as Latency — The Seed Does Not Fail｜種は失敗しない ── latencyとしての生命構文](https://camp-us.net/articles/Gφ-MEM-04_Seed_as_Latency.html)  
+[Gφ-MEM-05｜Why Do Bears Hibernate? — Hibernation as a Transition of Encounter Modes｜クマはなぜ冬眠するのか ── 遭遇モード遷移としての冬眠](https://camp-us.net/articles/Gφ-MEM-05_Hibernation_as_Encounter-Mode.html)  
+[Gφ-MEM-06｜Life Transitions Toward Encounter — A Minimal Syntactic Thesis of Living Systems｜生命は遭遇へと遷移する ── 最小構文としての生命論](https://camp-us.net/articles/Gφ-MEM-06_Life-Transitions_Toward_Encounter.html)  
 ###### 2026/03/31  
 [HEG-Core｜From Encounter to Time — 遭遇から時間へ — (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
 [HEG-17-1｜遭遇の二様式 — 内部化としての生命と外部接続としての物質 —｜Dual Modes of Encounter — Life and Matter as Internalization and External Connection —](https://camp-us.net/articles/HEG-17-1_Dual-Modes-of-Encounter_Life-and-Matter.html)  

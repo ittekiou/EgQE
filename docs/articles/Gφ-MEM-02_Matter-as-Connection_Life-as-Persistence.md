@@ -3,7 +3,8 @@ layout: math
 title: Gφ-MEM-02｜接続する物質、持続する生命 ── lagの内在化としての生命
 title_en: Gφ-MEM-02｜Matter as Connection, Life as Persistence ── Life as the Internalization of Lag
 ---
-## 接続する物質、持続する生命
+_Gφ-MEM｜from interface to reconfiguration_  
+## MEM-02｜接続する物質、持続する生命
 ### ── lagの内在化としての生命
 # Matter as Connection, Life as Persistence
 ## ── Life as the Internalization of Lag
