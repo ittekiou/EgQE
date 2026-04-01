@@ -18,6 +18,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/04/01  
+[April-1 宣言（2026）｜露出する年度](https://camp-us.net/articles/April-1_2026.html)  
 [HEG-18-9｜時間は刻印である ── 時間の構文的記述：暦は静止衛星的supportである｜Time as Timestamp — A Syntactic Account of Temporal Imprint Calendar as a Geostationary Support System](https://camp-us.net/articles/HEG-18-9_Time-as-Timestamp.html)  
 [HEG-19｜Support — 支えとは何か —｜— From Condition to Power —](https://camp-us.net/articles/HEG-19_Condition-to-Power.html)  
 [HEG-19-1｜Support Reconfigured — 再定義：bind(SO, RZ) —｜bind(SO, RZ) as the Condition of Maintenance —](https://camp-us.net/articles/HEG-19-1_Support-Reconfigured.html)  
