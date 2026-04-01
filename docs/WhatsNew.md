@@ -26,6 +26,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [Gφ-MEM-04｜Seed as Latency — The Seed Does Not Fail｜種は失敗しない ── latencyとしての生命構文](https://camp-us.net/articles/Gφ-MEM-04_Seed_as_Latency.html)  
 [Gφ-MEM-05｜Why Do Bears Hibernate? — Hibernation as a Transition of Encounter Modes｜クマはなぜ冬眠するのか ── 遭遇モード遷移としての冬眠](https://camp-us.net/articles/Gφ-MEM-05_Hibernation_as_Encounter-Mode.html)  
 [Gφ-MEM-06｜Life Transitions Toward Encounter — A Minimal Syntactic Thesis of Living Systems｜生命は遭遇へと遷移する ── 最小構文としての生命論](https://camp-us.net/articles/Gφ-MEM-06_Life-Transitions_Toward_Encounter.html)  
+[LE-01｜生命構文論 序説 ── 遭遇可能性としての生命｜Introduction to Life Syntax Theory — Life as Encounter Possibility](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
 ###### 2026/03/31  
 [HEG-Core｜From Encounter to Time — 遭遇から時間へ — (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)  
 [HEG-17-1｜遭遇の二様式 — 内部化としての生命と外部接続としての物質 —｜Dual Modes of Encounter — Life and Matter as Internalization and External Connection —](https://camp-us.net/articles/HEG-17-1_Dual-Modes-of-Encounter_Life-and-Matter.html)  

@@ -124,14 +124,25 @@ it is the re-establishment of structure through reconfiguration.**
 
 ## Related
 
+[SLR-03｜Membrane, Persistence, and Recursion ── The Development of SO–lag Generative Ontology](https://camp-us.net/articles/SLR-03_Membrane-Persistence-Recursion.html)  
+
+[HEG-17-EX｜Four Modes of Life — Encounter with the Other —](https://camp-us.net/articles/HEG-17-EX_Life_Four-Modes.html)  
+
 - [Gφ-MEM-01](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html): Membrane (interface)
     
 - [Gφ-MEM-02](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html): Differentiation (matter / life)
     
 - [Gφ-MEM-03](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html): Recursion (syntactic reconfiguration)
     
+- [Gφ-MEM-04](https://camp-us.net/articles/Gφ-MEM-04_Seed_as_Latency.html): Seed (Latency)
+	
+- [Gφ-MEM-05](https://camp-us.net/articles/Gφ-MEM-05_Hibernation_as_Encounter-Mode.html): Hibernate (Latency) 
+	
+- [Gφ-MEM-06](https://camp-us.net/articles/Gφ-MEM-06_Life-Transitions_Toward_Encounter.html): Transitions (Encounter / Life Syntax)
 
 Gφ-MEM is a progression from interface to differentiation to reconfiguration.
+
+👉 [LE-01｜Introduction to Life Syntax Theory — Life as Encounter Possibility](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
 
 ---
 
@@ -249,12 +260,6 @@ SO' → lag' → ΔZ'
 
 ---
 
-## 関連
-
-[Gφ-MEM-01](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html)：膜（界面）  
-[Gφ-MEM-02](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html)：分岐（物質／生命）  
-[Gφ-MEM-03](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html)：再帰（構文再配置）
-
 ```
 膜 = 条件
 ↓
@@ -271,6 +276,8 @@ SO' → lag' → ΔZ'
 > 膜にはじまり  
 > 意識にいたる
 
+[SLR-03｜膜・持続・再帰 ── SO–lag生成存在論の展開](https://camp-us.net/articles/SLR-03_Membrane-Persistence-Recursion.html)  
+
 ---
 
 _生命は持続であり、意識は持続の自己観測である_  
@@ -283,6 +290,20 @@ _lagが膜を作り、ψが生命を作り、再配置が意識へ伸びる_
 時のずれ  
 位置を変えつつ  
 立ち稽古かな
+
+---
+
+#### Gφ-MEM（生命構文） シリーズ
+生命構文論とは、生命を遭遇モードの遷移として記述する理論である。  
+[Gφ-MEM-01](https://camp-us.net/articles/Gφ-MEM_Form_as_Lag-Support-Interface.html)：膜（界面）  
+[Gφ-MEM-02](https://camp-us.net/articles/Gφ-MEM-02_Matter-as-Connection_Life-as-Persistence.html)：分岐（物質／生命）  
+[Gφ-MEM-03](https://camp-us.net/articles/Gφ-MEM-03_What-is-Recursion.html)：再帰（構文再配置）  
+[Gφ-MEM-04](https://camp-us.net/articles/Gφ-MEM-04_Seed_as_Latency.html)：種（待機）  
+[Gφ-MEM-05](https://camp-us.net/articles/Gφ-MEM-05_Hibernation_as_Encounter-Mode.html)：冬眠（待機）  
+[Gφ-MEM-06](https://camp-us.net/articles/Gφ-MEM-06_Life-Transitions_Toward_Encounter.html)：遭遇遷移（生命構文論へ）  
+
+[HEG-17-EX｜生命四態 — 他者との遭遇 —](https://camp-us.net/articles/HEG-17-EX_Life_Four-Modes.html)  
+[LE-01｜生命構文論 序説 ── 遭遇可能性としての生命](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
