@@ -65,6 +65,8 @@ Rec（folding）
 time
 ```
 
+![generative_architecture](./assets/generative_architecture.png)  
+
 ---
 
 v5.0における拡張定義：

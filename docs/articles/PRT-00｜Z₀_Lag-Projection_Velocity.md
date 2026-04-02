@@ -40,6 +40,8 @@ _Projection, Recursion and Time._
 > **時間は前提ではない。  
 > 時間は生成される。**
 
+![Genesis-of-Time](../assets/Genesis-of-Time.png)  
+
 ---
 
 ## **Ⅰ｜関係差から出発する**
@@ -196,6 +198,8 @@ $$
     
 
 > **時間あり**
+
+![principia_master_diagram](../assets/principia_master_diagram.png)  
 
 ---
 
