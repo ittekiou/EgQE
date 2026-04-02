@@ -603,6 +603,10 @@ does form arise.
 賭場の提灯
 
 ---
+
+_淡い光はあわいに現わる_  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 
