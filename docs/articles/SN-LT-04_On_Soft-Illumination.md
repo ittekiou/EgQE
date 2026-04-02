@@ -13,6 +13,8 @@ title_en: "SN-LT-04｜On Soft Illumination: Lantern Light Beyond Particle, Wave,
 _Light is not an entity but an appearance emerging in the in-between (a-wai),  
 where relations are not yet fully constituted._
 
+> _淡い光はあわいに現わる_  
+
 ---
 
 ## **0｜Introduction — The Problem of Soft Light**
