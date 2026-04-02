@@ -370,6 +370,8 @@ does time begin.
 
 [LE-01｜Introduction to Life Syntax Theory — Life as Encounter Possibility](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
 
+[SN-LT-04｜On Soft Illumination: Lantern Light Beyond Particle, Wave, Probability, and Field — The Syntactic Nature of Weak Recursion](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)  
+
 ---
 
 # **Darkness–Light–Lag–Time — Integrative Note**
@@ -737,6 +739,8 @@ $$
 [LRT-03｜光とは何か — 現れとしての光 — Beyond Particle, Wave, and Field](https://camp-us.net/articles/LRT-03_What-Is-Light.html)  
 
 [LE-01｜生命構文論 序説 ── 遭遇可能性としての生命](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
+
+[SN-LT-04｜ぼんやり灯る光について：粒・波・確率・場を超えて](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

@@ -99,6 +99,7 @@ Illumination—happening.
 [SN-LT-01｜光は遭遇の現れである](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)  
 [SN-LT-02｜光は反復する遭遇の連鎖である](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)  
 [SN-LT-03｜光はハプニングである](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)  
+[SN-LT-04｜ぼんやり灯る光について：粒・波・確率・場を超えて](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)  
 [SN-META-01｜生成する生成構文](https://camp-us.net/articles/SN-META-01_Meta-Genesis-of-Propagation.html)  
 [SN-IP-01｜Inter-Phase Definition](https://camp-us.net/articles/SN-IP-01_Inter-Phase-Definition.html)  
 

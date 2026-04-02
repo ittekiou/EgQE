@@ -17,6 +17,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/04/03  
+[SN-LT-04｜ぼんやり灯る光について：粒・波・確率・場を超えて — 弱い再帰としてのあかり｜On Soft Illumination: Lantern Light Beyond Particle, Wave, Probability, and Field — The Syntactic Nature of Weak Recursion](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)  
 ###### 2026/04/02  
 [Z₀ v5.0｜From Encounter to Life-Time Generator（遭遇から生命‐時間生成構文へ）](https://camp-us.net/Z₀_v5.0.html)  
 [PRT-00｜Z₀・Lag Projection・Velocity による時間生成原論｜Principia Cosmogonica — Integrative Introduction](https://camp-us.net/articles/PRT-00｜Z₀_Lag-Projection_Velocity.html)  
