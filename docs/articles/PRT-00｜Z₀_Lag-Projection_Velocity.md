@@ -238,6 +238,8 @@ Z₀ v5.0
 
 [LRT-00｜Darkness–Light–Lag–Time — Integrative Note: From floc to Time via Encounter, Projection, and Recursion](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html)  
 
+[LE-01｜生命構文論 序説 ── 遭遇可能性としての生命｜Introduction to Life Syntax Theory — Life as Encounter Possibility](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
+
 ---
 
 まだ時なき  

@@ -368,6 +368,8 @@ does time begin.
 [LRT-02｜Why Light Does Not Stay — Non-Localization and Weak Recursion: On the Spread of Light and the Soft Glow of Lanterns Beyond Wave and Particle Models](https://camp-us.net/articles/LRT-02_Why-Light-Does-Not-Stay.html)  
 [LRT-03｜What Is Light — Light as Appearance: Beyond Particle, Wave, Probability, and Field](https://camp-us.net/articles/LRT-03_What-Is-Light.html)  
 
+[LE-01｜Introduction to Life Syntax Theory — Life as Encounter Possibility](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
+
 ---
 
 # **Darkness–Light–Lag–Time — Integrative Note**
@@ -733,6 +735,8 @@ $$
 [LRT-01｜PhotonからZ₀へ — 非再帰的遭遇としての光： 光から生命‐時間生成構文への架橋](https://camp-us.net/articles/LRT-01_Photon_to_Z₀.html)  
 [LRT-02｜光はなぜひろがるのか — 非局在性と弱い再帰について：波や粒を超えて、光と提灯のふるまいを再定義する](https://camp-us.net/articles/LRT-02_Why-Light-Does-Not-Stay.html)  
 [LRT-03｜光とは何か — 現れとしての光 — Beyond Particle, Wave, and Field](https://camp-us.net/articles/LRT-03_What-Is-Light.html)  
+
+[LE-01｜生命構文論 序説 ── 遭遇可能性としての生命](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
