@@ -17,6 +17,15 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/04/02  
+[Z₀ v5.0｜From Encounter to Life-Time Generator（遭遇から生命‐時間生成構文へ）](https://camp-us.net/Z₀_v5.0.html)  
+[PRT-00｜Z₀・Lag Projection・Velocity による時間生成原論｜Principia Cosmogonica — Integrative Introduction](https://camp-us.net/articles/PRT-00｜Z₀_Lag-Projection_Velocity.html)  
+[PRT-01｜Lag Projection と Z₀ — 非時間的構造から時間へ：関係差・再帰・時間生成の構文幾何へ向けて｜Lag Projection and Z₀ — From Non-Temporal Structure to Time: Toward a Syntactic Geometry of Relation, Recursion, and Emergence of Time](https://camp-us.net/articles/PRT-01_Lag-Projection_and_Z₀.html)  
+[PRT-02｜Velocity Before Time — Z₀と速度の起源：lagに基づく速度定義と光速極限｜Velocity Before Time — Z₀ and the Origin of Speed: Toward a Lag-Based Definition of Velocity and the Light-Speed Limit](https://camp-us.net/articles/PRT-02_Velocity-Before-Time.html)  
+[LRT-00｜Darkness–Light–Lag–Time — Integrative Note: From floc to Time via Encounter, Projection, and Recursion](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html)  
+[LRT-01｜PhotonからZ₀へ — 非再帰的遭遇としての光： 光から生命‐時間生成構文への架橋｜From Photon to Z₀ — Light as Non-Recursive Encounter: Toward a Generative Bridge from Light to Life-Time](https://camp-us.net/articles/LRT-01_Photon_to_Z₀.html)  
+[LRT-02｜光はなぜひろがるのか — 非局在性と弱い再帰について：波や粒を超えて、光と提灯のふるまいを再定義する｜Why Light Does Not Stay — Non-Localization and Weak Recursion: On the Spread of Light and the Soft Glow of Lanterns Beyond Wave and Particle Models](https://camp-us.net/articles/LRT-02_Why-Light-Does-Not-Stay.html)  
+[LRT-03｜光とは何か — 現れとしての光 — Beyond Particle, Wave, and Field｜What Is Light — Light as Appearance: Beyond Particle, Wave, Probability, and Field](https://camp-us.net/articles/LRT-03_What-Is-Light.html)  
 ###### 2026/04/01  
 [April-1 宣言（2026）｜露出する年度](https://camp-us.net/articles/April-1_2026.html)  
 [HEG-18-9｜時間は刻印である ── 時間の構文的記述：暦は静止衛星的supportである｜Time as Timestamp — A Syntactic Account of Temporal Imprint Calendar as a Geostationary Support System](https://camp-us.net/articles/HEG-18-9_Time-as-Timestamp.html)  
