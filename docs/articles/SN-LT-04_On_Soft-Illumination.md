@@ -10,6 +10,9 @@ title_en: "SN-LT-04｜On Soft Illumination: Lantern Light Beyond Particle, Wave,
 ## _Lantern Light Beyond Particle, Wave, Probability, and Field_
 ### — The Syntactic Nature of Weak Recursion
 
+_Light is not an entity but an appearance emerging in the in-between (a-wai),  
+where relations are not yet fully constituted._
+
 ---
 
 ## **0｜Introduction — The Problem of Soft Light**
