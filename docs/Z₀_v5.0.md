@@ -395,7 +395,7 @@ CNOが時間を生成するとすれば：
 
 ---
 
-👉 [Z₀ v5.1｜Encounter as Phase Transition to Life-Time Generation（遭遇から生命‐時間生成相へ）](https://camp-us.net/Z₀_v5.1.html)  
+👉 [Z₀ v5.1｜Encounter as Phase Emergence to Life-Time Generation（遭遇から生命‐時間生成相へ）](https://camp-us.net/Z₀_v5.1.html)  
 
 ---
 

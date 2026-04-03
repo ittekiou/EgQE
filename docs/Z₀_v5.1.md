@@ -1,8 +1,8 @@
 ---
 layout: math
-title: Z₀ v5.1｜Encounter as Phase Transition to Life-Time Generation（遭遇から生命‐時間生成相へ）
+title: Z₀ v5.1｜Encounter as Phase Emergence to Life-Time Generation（遭遇から生命‐時間生成相へ）
 ---
-# **$Z₀$ v5.1｜Encounter as Phase Transition to Life-Time Generation**
+# **$Z₀$ v5.1｜Encounter as Phase Emergence to Life-Time Generation**
 
 ## **（遭遇から生命‐時間生成相へ）**
 
