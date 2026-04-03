@@ -385,7 +385,7 @@ lag（差）
 　↓
 痕跡（trace）
 　↓
-時間（ΔZ配列）
+時間（ΔZの持続配列）
 　↓
 生命（recursive persistence）
 　↓
