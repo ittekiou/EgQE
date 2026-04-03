@@ -304,6 +304,7 @@ recursive, or trace-like properties._
 | 7➕  | turns-into | disrupts    | tropos ➕ |
 | 7➖  | separates  | turns-apart | tropos ➖ |
 | 8   | completes  | imagines    | fiction  |
+
 👉 [Gφ-SN-PT｜Periodic Table of Syntax](https://camp-us.net/G%CF%86-SN-PT_Periodic-Table-of-Syntax.html)
 
 ---
