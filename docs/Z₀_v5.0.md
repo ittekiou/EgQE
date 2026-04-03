@@ -275,6 +275,11 @@ Z₀は：
 
 ---
 
+![generative_architecture_v2](./assets/generative_architecture_v2.png)  
+[Principia Cosmogonica (v0.2)｜宇宙生成原論 — 遭遇から生命と時間へ](https://camp-us.net/articles/Principia-Cosmogonica_v0.2.html)  
+
+---
+
 ## **Ⅹ｜物質的対応について**
 
 _Note: The following correspondences should not be understood as  

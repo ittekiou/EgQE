@@ -53,8 +53,9 @@ Try SyncHub!
 
 # Principia Naturae
 
-![Civilization-Edition](./assets/Civilization-Edition.png)  
+![PRINCIPIA-NATURAE](./assets/PRINCIPIA-NATURAE.png)  
 [Principia Cosmogonica v0.1](https://camp-us.net/articles/Principia-Cosmogonica_v0.1.html)  
+[Principia Cosmogonica (v0.2)｜宇宙生成原論 — 遭遇から生命と時間へ](https://camp-us.net/articles/Principia-Cosmogonica_v0.2.html)  
 [Cosmogonica Materia v0.2｜Solid, Ground, and Life in a Falling Universe](https://camp-us.net/articles/Cosmogonica-Materia_v0.2_Solid-Ground-and-Life.html)  
 [Principia Vita: Toward a Natural Philosophy of Life｜v0.1](https://camp-us.net/articles/Principia-Vita_v0.1.html)  
 
