@@ -395,6 +395,10 @@ CNOが時間を生成するとすれば：
 
 ---
 
+👉 [Z₀ v5.1｜Encounter as Phase Transition to Life-Time Generation（遭遇から生命‐時間生成相へ）](https://camp-us.net/Z₀_v5.1.html)  
+
+---
+
 [LE-01｜生命構文論 序説 ── 遭遇可能性としての生命｜Introduction to Life Syntax Theory — Life as Encounter Possibility](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
 [PRT-00｜Z₀・Lag Projection・Velocity による時間生成原論｜Principia Cosmogonica — Integrative Introduction](https://camp-us.net/articles/PRT-00｜Z₀_Lag-Projection_Velocity.html)  
 [LRT-00｜Darkness–Light–Lag–Time — Integrative Note: From floc to Time via Encounter, Projection, and Recursion](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html)  
