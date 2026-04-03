@@ -110,16 +110,16 @@ It is a necessity arising from approximation (non-coincidence).
 
 ### 2. Periodic Table of Syntax
 
-|Phase|➕|➖|Definition|
-|---|---|---|---|
-|φ|emerges|indeterminates|paradox|
-|5|resonates|infects|contagion|
-|6|solidifies|fractures|Kryos|
-|7➕|turns-into|disrupts|tropos ➕|
-|7➖|separates|turns-apart|tropos ➖|
-|ψ|persists|dissipates|persistence|
-|8|completes|imagines|fiction|
-|α|overflows|collapses|densest|
+| Phase | ➕          | ➖              | Definition  |
+| ----- | ---------- | -------------- | ----------- |
+| φ     | emerges    | indeterminates | paradox     |
+| 5     | resonates  | infects        | contagion   |
+| 6     | solidifies | fractures      | Kryos       |
+| 7➕    | turns-into | disrupts       | tropos ➕    |
+| 7➖    | separates  | turns-apart    | tropos ➖    |
+| ψ     | persists   | dissipates     | persistence |
+| 8     | completes  | imagines       | fiction     |
+| α     | overflows  | collapses      | densest     |
 
 # PiNG-02
 

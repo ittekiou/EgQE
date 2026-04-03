@@ -291,6 +291,18 @@ recursive, or trace-like properties._
 
 ---
 
+## Refer to : Periodic Table of Syntax
+
+| 位相  | ➕ enable   | ➖ suppress  | 定義       |
+| --- | ---------- | ----------- | -------- |
+| 6   | solidifies | fractures   | Kryos    |
+| 7➕  | turns-into | disrupts    | tropos ➕ |
+| 7➖  | separates  | turns-apart | tropos ➖ |
+| 8   | completes  | imagines    | fiction  |
+👉 [Gφ-SN-PT｜Periodic Table of Syntax](https://camp-us.net/G%CF%86-SN-PT_Periodic-Table-of-Syntax.html)
+
+---
+
 > **CNOは構文の写像ではなく、構文的性質の物質的現れである。**
 
 | 元素   | 構文的性質                             | 特徴             |
@@ -308,11 +320,11 @@ recursive, or trace-like properties._
 さらに：
 
 $$  
-P(15) = N(7) + O(8) = \text{liquid encounter}  
+P(15) = (8) + (7) = \text{liquid encounter}  
 $$
 
 $$  
-S(16) = O(8) + O(8) = \text{solid connection}  
+S(16) = (8) + (8) = \text{solid connection}  
 $$
 
 > These relations are schematic, not chemical identities.  
