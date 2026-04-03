@@ -6,7 +6,7 @@ title_en: "SN-LT-04｜On Soft Illumination: Lantern Light Beyond Particle, Wave,
 ## **SN-LT-04｜ぼんやり灯る光について**
 ## _粒・波・確率・場を超えて_
 ### — 弱い再帰としてのあかり
-# **SN-LT-04｜On Soft Illumination**
+# **On Soft Illumination**
 ## _Lantern Light Beyond Particle, Wave, Probability, and Field_
 ### — The Syntactic Nature of Weak Recursion
 
@@ -601,11 +601,11 @@ does form arise.
 
 ---
 
-並の粒では
-灯りはぼんやり
-ともりゃせぬ
-ぼんやり笑う
-賭場の提灯
+並の粒では  
+灯りはぼんやり  
+ともりゃせぬ  
+ぼんやり笑う  
+賭場の提灯  
 
 ---
 
