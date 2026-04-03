@@ -1,7 +1,7 @@
 ---
 layout: math
-title: 構文周期表に基づくCNO仮説の再定位 — 対応から非閉包へ
-title_en: "Research Note — From Mapping to Asymmetry:  Principia Cosmogonica (v0.2)"
+title: RN-01｜構文周期表に基づくCNO仮説の再定位 — 対応から非閉包へ
+title_en: "RN-01｜Research Note — From Mapping to Asymmetry:  Principia Cosmogonica (v0.2)"
 ---
 _Principia Cosmogonica (v0.2)_  
 # **Research Note — From Mapping to Asymmetry**

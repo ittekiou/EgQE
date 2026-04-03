@@ -20,7 +20,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/04/03  
 [Z₀ v5.1｜Encounter as Phase Emergence to Life-Time Generation（遭遇から生命‐時間生成相へ）](https://camp-us.net/Z₀_v5.1.html)  
 [Principia Cosmogonica (v0.2)｜宇宙生成原論 — 遭遇から生命と時間へ](https://camp-us.net/articles/Principia-Cosmogonica_v0.2.html)  
-[構文周期表に基づくCNO仮説の再定位 — 対応から非閉包へ｜Research Note — From Mapping to Asymmetry:  Principia Cosmogonica (v0.2)](https://camp-us.net/articles/RN-01_on_Principia-Cosmogonica _v0.2.html)  
+[RN-01｜構文周期表に基づくCNO仮説の再定位 — 対応から非閉包へ｜Research Note — From Mapping to Asymmetry:  Principia Cosmogonica (v0.2)](https://camp-us.net/articles/RN-01_on_Principia-Cosmogonica _v0.2.html)  
+[SN-LIF-04｜元素構文論 — 生命の生成順序：8が6を取り込み、7で命になった｜Element Syntax Theory — The Generative Order of Life: 8 Takes in 6, and 7 Brings It to Life](https://camp-us.net/articles/SN-LIF-04_Generative-Order-of-Life_8-6-and-7_Brings-It-to-Life.html)  
 [SN-LT-04｜ぼんやり灯る光について：粒・波・確率・場を超えて — 弱い再帰としてのあかり｜On Soft Illumination: Lantern Light Beyond Particle, Wave, Probability, and Field — The Syntactic Nature of Weak Recursion](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)  
 ###### 2026/04/02  
 [Z₀ v5.0｜From Encounter to Life-Time Generator（遭遇から生命‐時間生成構文へ）](https://camp-us.net/Z₀_v5.0.html)  
