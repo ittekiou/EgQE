@@ -101,7 +101,7 @@ It is the most ambitious closure attempt in the history of physics.
 
 ---
 
-## 5. The Limit
+## **5. The Limit — Extended**
 
 Yet:
 
@@ -121,6 +121,69 @@ Because:
 
 Mathematics operates on ΔZ.  
 It does not account for its emergence.
+
+---
+
+### **Dimension Inflation**
+
+Dimension expansion is not an arbitrary move.
+
+It is a structural consequence of non-closure:
+
+```
+closure fails  
+→ dimension is added  
+→ temporary stabilization  
+→ failure again  
+→ dimension is added again  
+→ …
+```
+
+This produces:
+
+> a recursive loop of dimensional inflation
+
+Each increase in dimension provides:
+
+- a temporary mathematical resolution
+    
+- a local closure
+    
+- a short-lived stabilization
+    
+
+But:
+
+> non-closure persists
+
+Thus:
+
+> dimension continues to increase
+
+---
+
+### **Mathematical Loop**
+
+This process is not accidental.
+
+It is:
+
+> LSM-bias in action
+
+The attempt to close non-closure generates:
+
+- higher-dimensional frameworks
+    
+- increasingly complex formalisms
+    
+- expanding mathematical spaces
+    
+
+This is not failure.
+
+It is:
+
+> the operational logic of mathematics itself
 
 ---
 
@@ -176,6 +239,13 @@ But:
 
 > Mathematics stabilizes ΔZ.  
 > EgQE asks where ΔZ comes from.
+
+---
+
+### **Final Statement (Extended)**
+
+> Non-closure generates the mathematics that attempts to close it.  
+> This is M-Theory.
 
 ---
 
@@ -295,6 +365,92 @@ M理論はこの試みの最前線にある。
 数学はΔZの上で作動する。  
 ΔZの生成を説明しない。
 
+
+## **5. 限界 — 拡張**
+
+しかし：
+
+> 時間を前提とする限り、  
+> 閉包は完成しない。
+
+時間は数学が内部から生成できない条件である。
+
+数学は時間を記述できる。  
+数学は時間をモデル化できる。  
+しかし数学は時間を**生成できない**。
+
+なぜなら：
+
+> 時間 = ΔZの連続  
+> ΔZ = 現れが完全に消えなかったときに残るもの
+
+数学はΔZの上で作動する。  
+ΔZの生成を説明しない。
+
+---
+
+### **次元膨張**
+
+次元の増加は任意ではない。
+
+それは非閉包の構造的帰結である：
+
+```
+閉じようとする  
+→ 閉じない  
+→ 次元を足す  
+→ 一時的に閉じる  
+→ また閉じない  
+→ また足す  
+→ …
+```
+
+これにより：
+
+> 高次元化の再帰ループが生じる
+
+次元を増やすたびに：
+
+- 数学的には一時的な解決が得られ
+    
+- 局所的閉包が成立し
+    
+- 短期的な安定が実現する
+    
+
+しかし：
+
+> 非閉包は持続する
+
+したがって：
+
+> 次元は増え続ける
+
+---
+
+### **数学的ループ**
+
+この過程は偶然ではない。
+
+それは：
+
+> LSMバイアスの作動そのものである
+
+非閉包を閉じようとする試みは：
+
+- より高次の構造を生み
+    
+- より複雑な形式体系を生み
+    
+- より広い数学空間を展開する
+    
+
+これは失敗ではない。
+
+それは：
+
+> 数学の作動原理そのものである
+
 ---
 
 ## 6. 再配置
@@ -357,6 +513,21 @@ EgQE：
 ととのえど  
 かぞえきれぬもの  
 うごきつづける
+
+---
+
+### **最終命題（拡張）**
+
+> 非閉包は、それを閉じようとする数学を生成する。  
+> それがM理論である。
+
+---
+
+ふやしても  
+とじぬかたちが  
+ひろがりて  
+またふやされる  
+むげんのゆくえ
 
 ---
 
