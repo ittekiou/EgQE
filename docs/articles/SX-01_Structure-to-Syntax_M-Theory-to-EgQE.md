@@ -148,14 +148,14 @@ EgQEにおいて：
 
 それらは翻訳層によって接続される：
 
-- Brane → Membrane (interface)  
+- ブレーン → 界面／膜
+    
+- 高次元幾何 → 関係場
+    
+- 対称性の破れ → lag／pivot / folding  
 	
-- High dimension → Relational field  
-	
-- Symmetry breaking → lag / pivot / folding  
-	
-- Geometry → Syntax  
-	
+- 幾何 → 構文
+    
 
 ---
 
