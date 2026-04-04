@@ -180,7 +180,7 @@ N(7)：5番目
 
 [Principia Cosmogonica (v0.2)](https://camp-us.net/articles/Principia-Cosmogonica_v0.2.html)  
 [Gφ-SN-PT｜構文の周期表](https://camp-us.net/G%CF%86-SN-PT_Periodic-Table-of-Syntax.html)  
-[RN-01｜CNO仮説の再定位](https://camp-us.net/articles/RN-01_on_Principia-Cosmogonica _v0.2.html))
+[RN-01｜CNO仮説の再定位](https://camp-us.net/articles/RN-01_on_Principia-Cosmogonica _v0.2.html)
 
 ---
 ### SN-LIF シリーズ

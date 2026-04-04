@@ -19,6 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/04/04  
 [SN-LIF-05｜非対称性と時間生成 — 差の折れとしての向き —](https://camp-us.net/articles/SN-LIF-05_Asymmetry-and-Time_Folding-into-Orientation.html)  
+[SX-01｜From Structure to Syntax — A Recontextualization Between M-Theory and EgQE](https://camp-us.net/articles/SX-01_Structure-to-Syntax_M-Theory-to-EgQE.html)  
 ###### 2026/04/03  
 [Z₀ v5.1｜Encounter as Phase Emergence to Life-Time Generation（遭遇から生命‐時間生成相へ）](https://camp-us.net/Z₀_v5.1.html)  
 [Principia Cosmogonica (v0.2)｜宇宙生成原論 — 遭遇から生命と時間へ](https://camp-us.net/articles/Principia-Cosmogonica_v0.2.html)  
