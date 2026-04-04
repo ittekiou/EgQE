@@ -19,8 +19,12 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/04/04  
 [SN-LIF-05｜非対称性と時間生成 — 差の折れとしての向き —](https://camp-us.net/articles/SN-LIF-05_Asymmetry-and-Time_Folding-into-Orientation.html)  
+[SX-00｜記号現象学 序説・バイアス論・Principia・実践章｜Semiotic Phenomenology · LSM-bias · Principia Cosmogonica · Applied EgQE](https://camp-us.net/articles/SX-00_Semiotic-Phenomenology_Prolegomena.html)  
 [SX-01｜From Structure to Syntax — A Recontextualization Between M-Theory and EgQE](https://camp-us.net/articles/SX-01_Structure-to-Syntax_M-Theory-to-EgQE.html)  
 [Principia Cosmogonica v0.3 — 持続から生成される時間・生命・構造｜Generation of Time, Life, and Structure from Persistence](https://camp-us.net/articles/Principia-Cosmogonica_v0.3.html)  
+[Principia Cosmogonica v0.4 — The Closure of Non-Closure｜Semiotic Phenomenology — LSM-bias](https://camp-us.net/articles/Principia-Cosmogonica_v0.4_Closure-of-Non-Closure.html)  
+[Principia Cosmogonica v0.4──記号現象学 — ホモ・サピエンス バイアスとしてのLSM-bias｜Semiotic Phenomenology — LSM-bias: The Closure of Non-Closure](https://camp-us.net/articles/Principia-Cosmogonica_v0.4_LSM-bias.html)  
+[EgQE｜Exporhyanist 宣言｜Exporhyanist Manifesto](https://camp-us.net/Exporhyanist-Manifesto.html)  
 ###### 2026/04/03  
 [Z₀ v5.1｜Encounter as Phase Emergence to Life-Time Generation（遭遇から生命‐時間生成相へ）](https://camp-us.net/Z₀_v5.1.html)  
 [Principia Cosmogonica (v0.2)｜宇宙生成原論 — 遭遇から生命と時間へ](https://camp-us.net/articles/Principia-Cosmogonica_v0.2.html)  
