@@ -100,6 +100,101 @@ Structure does not generate time.
 Persistence generates the appearance of structure.
 
 ---
+
+# **構造から構文へ — 再配置としてのM理論とEgQE**
+
+---
+
+### 0. 前提
+
+本稿は、M理論とEgQEを競合理論として比較するものではない。
+
+本稿はEgQEの立場からの再配置的読解であり、M理論の厳密な技術的記述を目的とするものではない。
+
+---
+
+### 1. 命題
+
+M理論は構造を記述する。  
+EgQEは生成を記述する。
+
+---
+
+### 2. 再配置
+
+M理論において：
+
+- 空間は幾何である
+    
+- 時間は前提される
+    
+- 対称性が原理である
+    
+
+EgQEにおいて：
+
+- 空間は関係場として生成される
+    
+- 時間はΔZの持続として生成される
+    
+- lagが原理である
+    
+
+---
+
+### 3. 翻訳層
+
+両者は同一平面にない。
+
+それらは翻訳層によって接続される：
+
+- Brane → Membrane (interface)  
+	
+- High dimension → Relational field  
+	
+- Symmetry breaking → lag / pivot / folding  
+	
+- Geometry → Syntax  
+	
+
+---
+
+### 4. 決定的差異
+
+M理論：
+
+> 時間は前提される
+
+EgQE：
+
+> 時間は生成される
+
+---
+
+### 5. 定義 — Note
+
+膜とは、
+
+> SO–lagがψによって持続された界面である
+
+---
+
+### 6. 帰結
+
+時間は次元ではない。
+
+それは、
+
+> 持続する非一致の構文的効果である
+
+---
+
+### 結語
+
+構造は時間を生まない。  
+持続が構造の現れを生む。
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 
