@@ -187,6 +187,80 @@ It is:
 
 ---
 
+## **5bis. Re-grounding — Dimensional Reset**
+
+Dimension inflation alone does not describe the full movement.
+
+At high complexity, systems become **unobservable**.
+
+When observation fails, a transition occurs:
+
+> re-grounding (re-entry)
+
+```
+high-dimensional loop (mathematical resolution)
+→ increasing complexity
+→ loss of observability
+→ re-grounding
+→ temporary low-dimensionalization
+→ renewed expansion
+```
+
+This is not an external interruption.
+
+It is:
+
+> a structural necessity of observation
+
+---
+
+### **Luhmannian Re-entry (Interpretation)**
+
+Re-entry occurs when a system observes itself.
+
+To observe, it must:
+
+- reduce complexity
+    
+- re-establish distinction
+    
+- regain local closure
+    
+
+Thus:
+
+> observation requires dimensional reduction
+
+---
+
+### **Historical Pattern (Physics)**
+
+```
+Newtonian mechanics (low-dimensional, stable)
+→ Relativity (higher-dimensional formalization)
+→ Quantum theory (re-grounding, new basis)
+→ String theory (higher-dimensional expansion)
+→ M-Theory (11D)
+→ next re-grounding?
+```
+
+---
+
+### **Syntactic Interpretation**
+
+Dimension expansion and re-grounding form a pair:
+
+- expansion → closure attempt
+    
+- re-grounding → restoration of observability
+    
+
+Together:
+
+> they constitute a recursive loop
+
+---
+
 ## 6. Recontextualization
 
 The relation between mathematics and EgQE is not competition.
@@ -246,6 +320,16 @@ But:
 
 > Non-closure generates the mathematics that attempts to close it.  
 > This is M-Theory.
+
+---
+
+### **Proposition (Extended)**
+
+> When dimensional expansion loses observability,  
+> re-grounding becomes necessary.
+
+> Non-closure produces not only expansion,  
+> but also reduction.
 
 ---
 
@@ -432,6 +516,82 @@ M理論はこの試みの最前線にある。
 
 ---
 
+## **5bis. 再接地 — 次元リセット**
+
+次元の増加だけでは、この運動は記述できない。
+
+複雑性が高まると：
+
+> 観測不能になる
+
+観測が破綻すると、次の転位が起こる：
+
+> 再接地（Re-grounding）
+
+```
+高次元ループ（数学的解決）
+→ 複雑性の増大
+→ 観測不能
+→ 再接地
+→ 一時的低次元化
+→ 再び高次元化
+```
+
+これは外部的な中断ではない。
+
+それは：
+
+> 観測の構造的必然である
+
+---
+
+### **ルーマン的再参入（解釈）**
+
+再参入は、システムが自己を観察するときに起こる。
+
+観察のためには：
+
+- 複雑性を下げ
+    
+- 区別を再設定し
+    
+- 局所閉包を回復する
+    
+
+したがって：
+
+> 観察は次元の低減を要求する
+
+---
+
+### **物理学史のパターン**
+
+```
+ニュートン力学（低次元・安定）
+→ 相対性理論（高次元化）
+→ 量子理論（再接地・別基盤）
+→ 弦理論（高次元化）
+→ M理論（11次元）
+→ 次の再接地？
+```
+
+---
+
+### **構文的解釈**
+
+次元拡張と再接地は対になっている：
+
+- 拡張 → 閉包の試み
+    
+- 再接地 → 観測の回復
+    
+
+両者は：
+
+> 再帰ループを構成する
+
+---
+
 ## 6. 再配置
 
 数学とEgQEの関係は競合ではない。
@@ -507,6 +667,28 @@ EgQE：
 ひろがりて  
 またふやされる  
 むげんのゆくえ
+
+---
+
+### **命題（拡張）**
+
+> 次元拡張が観測不能に至るとき、  
+> 再接地は必然となる。
+
+> 非閉包は拡張だけでなく、  
+> 低減も生成する。
+
+---
+
+**“拡張だけでは世界は見えない。見えるためには低減する。”**
+
+---
+
+たかくして  
+みえなくなれば  
+おりてみる  
+おりてまたのぼる  
+それがくりかえし
 
 ---
 
