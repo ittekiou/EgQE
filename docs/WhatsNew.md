@@ -22,6 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SX-00｜記号現象学 序説・バイアス論・Principia・実践章｜Semiotic Phenomenology · LSM-bias · Principia Cosmogonica · Applied EgQE](https://camp-us.net/articles/SX-00_Semiotic-Phenomenology_Prolegomena.html)  
 [SX-01｜From Structure to Syntax — A Recontextualization Between M-Theory and EgQE](https://camp-us.net/articles/SX-01_Structure-to-Syntax_M-Theory-to-EgQE.html)  
 [Principia Cosmogonica v0.3 — 持続から生成される時間・生命・構造｜Generation of Time, Life, and Structure from Persistence](https://camp-us.net/articles/Principia-Cosmogonica_v0.3.html)  
+[SX-02｜M理論＝Math Theory ── LSMバイアスの最高形態としての数学 ──｜｜M-Theory as Math Theory — Mathematics as the Highest Form of LSM-bias](https://camp-us.net/articles/SX-02_M-Theory_as_Math-Theory_Highest-Form_of_LSM-bias.html)  
 [Principia Cosmogonica v0.4 — The Closure of Non-Closure｜Semiotic Phenomenology — LSM-bias](https://camp-us.net/articles/Principia-Cosmogonica_v0.4_Closure-of-Non-Closure.html)  
 [Principia Cosmogonica v0.4──記号現象学 — ホモ・サピエンス バイアスとしてのLSM-bias｜Semiotic Phenomenology — LSM-bias: The Closure of Non-Closure](https://camp-us.net/articles/Principia-Cosmogonica_v0.4_LSM-bias.html)  
 [EgQE｜Exporhyanist 宣言｜Exporhyanist Manifesto](https://camp-us.net/Exporhyanist-Manifesto.html)  
