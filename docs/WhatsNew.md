@@ -19,6 +19,13 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/04/05  
 [SN-LIF-06｜繰り返す生命 ── 遭遇と待機の反復｜Life Syntax Theory — Iteration of Encounter and Latency](https://camp-us.net/articles/SN-LIF-06_Encounter-Latency_Iteration.html)  
+[SX-03(Draft)｜標準模型＝安定化された相互作用構文 ── 相互作用はΔZの安定形である｜Standard Model as Stabilized Interaction Syntax — Interaction as the Stabilization of ΔZ —](https://camp-us.net/articles/SX-03_Standard-Model_as_Stabilized-Interaction_draft.html)  
+[SX-04(Draft)｜粒子構文の重力子 — ψとΔZのあいだのZURE｜Core Memo / Gravity / Double ZURE (Draft)](https://camp-us.net/articles/SX-04_Gravity-Graviton_Double-ZURE_Forces-Core-Memo.html)  
+[SX-05｜Interaction Re-map — 操作と条件への分岐｜Split into Operation and Condition](https://camp-us.net/articles/SX-05_Interaction_Re-map_Operation-Condition-Split.html)  
+[SX-06｜Time Re-grounding Map（Draft） — 生成と前提の反転｜Generation–Premise Inversion](https://camp-us.net/articles/SX-06_Time_Re-grounding-Map_Generation-Premise-Inversion.html)  
+[SX-07｜Tri-Layer Integration Map — 操作・条件・前提の同時配置｜Co-placement of Operation, Condition, Premise](https://camp-us.net/articles/SX-07_Tri-Layer_Integration-Map_Operation-Condition-Premise.html)  
+[SX-EX-01｜Raw Display 🧠 露出理論｜Exposure Theory（Draft Core）（作法）](https://camp-us.net/articles/SX-EX-01_Exposure-Theory_Draft-Core.html)  
+[ZURE Inter-Phase Publisher](https://camp-us.net/E-Zypp/E-Zypp.html)  
 ###### 2026/04/04  
 [SN-LIF-05｜非対称性と時間生成 — 差の折れとしての向き —](https://camp-us.net/articles/SN-LIF-05_Asymmetry-and-Time_Folding-into-Orientation.html)  
 [SX-00｜記号現象学 序説・バイアス論・Principia・実践章｜Semiotic Phenomenology · LSM-bias · Principia Cosmogonica · Applied EgQE](https://camp-us.net/articles/SX-00_Semiotic-Phenomenology_Prolegomena.html)  

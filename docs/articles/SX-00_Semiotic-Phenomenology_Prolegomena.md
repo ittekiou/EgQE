@@ -399,6 +399,20 @@ _Maturation is transformation through recursion._
 > しかし残るものは変わり続ける。
 
 ---
+
+## SX Series
+
+- [SX-00](https://camp-us.net/articles/SX-00_Semiotic-Phenomenology_Prolegomena.html)：記号現象学 序説  
+- [SX-01](https://camp-us.net/articles/SX-01_Structure-to-Syntax_M-Theory-to-EgQE.html)：M-Theory（構造→構文）  
+- [SX-02](https://camp-us.net/articles/SX-02_M-Theory_as_Math-Theory_Highest-Form_of_LSM-bias.html)：Math Theory（数学bias）
+- [SX-03](https://camp-us.net/articles/SX-03_Standard-Model_as_Stabilized-Interaction_draft.html)：相互作用（ΔZ配置）  
+- [SX-04](https://camp-us.net/articles/SX-04_Gravity-Graviton_Double-ZURE_Forces-Core-Memo.html)：重力（ψ）とZURE  
+- [SX-05](https://camp-us.net/articles/SX-05_Interaction_Re-map_Operation-Condition-Split.html)：分岐（ΔZ vs ψ）  
+- [SX-06](https://camp-us.net/articles/SX-06_Time_Re-grounding-Map_Generation-Premise-Inversion.html)：反転（生成 ↔ 前提）  
+- [SX-07](https://camp-us.net/articles/SX-07_Tri-Layer_Integration-Map_Operation-Condition-Premise.html)：配置（三層）  
+- [SX-EX-01](https://camp-us.net/articles/SX-EX-01_Exposure-Theory_Draft-Core.html)：露出理論（作法）  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 
