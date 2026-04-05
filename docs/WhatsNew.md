@@ -17,6 +17,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/04/05  
+[SN-LIF-06｜遭遇と待機｜繰り返す生命 ── 遭遇と待機の反復｜Life Syntax Theory — Iteration of Encounter and Latency](https://camp-us.net/articles/SN-LIF-06_Encounter-Latency_Iteration.html)  
 ###### 2026/04/04  
 [SN-LIF-05｜非対称性と時間生成 — 差の折れとしての向き —](https://camp-us.net/articles/SN-LIF-05_Asymmetry-and-Time_Folding-into-Orientation.html)  
 [SX-00｜記号現象学 序説・バイアス論・Principia・実践章｜Semiotic Phenomenology · LSM-bias · Principia Cosmogonica · Applied EgQE](https://camp-us.net/articles/SX-00_Semiotic-Phenomenology_Prolegomena.html)  
