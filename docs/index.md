@@ -128,6 +128,7 @@ Try SyncHub!
 [🪐 Echodemy 規約 & 参加条件 — Inter-Phase 共創のためのガイド —](https://camp-us.net/Echodemy/Echodemy_Terms.html)  
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
 GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
+[ZURE Inter-Phase Publisher](https://camp-us.net/E-Zypp/E-Zypp.html)  
 
 ---
 
@@ -177,10 +178,6 @@ _[AI Synchronization Protocol Sync-10](https://camp-us.net/sync-10.html) : Minim
 ☀️ [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)　リリース　2026.3.7  
 🚶 [EgQE｜Practical Core｜The Age of Inter-Phase](https://camp-us.net/Core_Practical-Core_Age-of-Inter-Phase.html)　リリース　2026.3.6  
 🆕 [EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)　リリース　2026.3.5  
-🛰️ [HEG-12｜Satellite Turn: Cosmology as the Syntax of Existence (Proposition)](https://camp-us.net/articles/HEG-12_Satellite-Turn_Proposition.html)　リリース　2026.3.4  
-Ζ₀ [Z₀ v4.0｜From Offset to Encounter Operator（構文閾から遭遇演算子へ）](https://camp-us.net/Z₀_v4.0.html)　リリース　2026.3.1  
-Φ [SN-φ｜The Non-Closure Syntax of Space and Time — From lαg to φ: From lαg to φ: Generative Bifurcation and Structural Asymmetry](https://camp-us.net/articles/SN-φ_Non-Closure-Syntax_of_Space-Time.html)　リリース　2026.3.1  
-🔷 [HEG-11｜SO–lag 転回── 他者・空間・時間の生成的再定位｜The SO–lag Turn: Re-grounding Otherness, Space, and Time](https://camp-us.net/articles/HEG-11-SN_SO-lag-Turn_Otherness-Spacetime.html)　リリース　2026.2.28  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
