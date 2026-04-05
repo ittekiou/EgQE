@@ -165,6 +165,10 @@ title_en: SN-LIF-06｜Life Syntax Theory — Iteration of Encounter and Latency
 生命がある
 
 ---
+
+[LE-01｜生命構文論 序説 ── 遭遇可能性としての生命｜Introduction to Life Syntax Theory — Life as Encounter Possibility](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 
