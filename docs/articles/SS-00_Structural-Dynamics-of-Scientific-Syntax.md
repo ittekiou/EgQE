@@ -322,6 +322,10 @@ Rは関係再配列、lagは非同期更新条件、Zは問題空間の位相再
 
 ---
 
+[SS-00補論｜批判はどこで停止するのか ── 科学的検証・恣意性・方法論的露出について](https://camp-us.net/articles/SS-00_Appendix_Exposure-methodology.html)  
+
+---
+
 # 科学更新の構造
 
 ## ── R/Z lag循環としての理論進化
@@ -530,6 +534,11 @@ Popper, Karl. _The Logic of Scientific Discovery_. Routledge, 1959 (orig. 1934).
 Kuhn, Thomas S. _The Structure of Scientific Revolutions_. University of Chicago Press, 1962.  
 Lakatos, Imre. “Falsification and the Methodology of Scientific Research Programmes.” In _Criticism and the Growth of Knowledge_, 1970.  
 Luhmann, Niklas. _Die Wissenschaft der Gesellschaft_. Suhrkamp, 1990. (_The Science of Society_, 2012)
+
+---
+
+[SS-00補論｜批判はどこで停止するのか ── 科学的検証・恣意性・方法論的露出について](https://camp-us.net/articles/SS-00_Appendix_Exposure-methodology.html)  
+[SX-EX-01｜Raw Display 🧠 露出理論｜Exposure Theory（Draft Core）（作法）](https://camp-us.net/articles/SX-EX-01_Exposure-Theory_Draft-Core.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

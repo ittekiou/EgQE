@@ -26,6 +26,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SX-07｜Tri-Layer Integration Map — 操作・条件・前提の同時配置｜Co-placement of Operation, Condition, Premise](https://camp-us.net/articles/SX-07_Tri-Layer_Integration-Map_Operation-Condition-Premise.html)  
 [SX-EX-01｜Raw Display 🧠 露出理論｜Exposure Theory（Draft Core）（作法）](https://camp-us.net/articles/SX-EX-01_Exposure-Theory_Draft-Core.html)  
 [ZURE Inter-Phase Publisher](https://camp-us.net/E-Zypp/E-Zypp.html)  
+[SS-00補論｜批判はどこで停止するのか ── 科学的検証・恣意性・方法論的露出について](https://camp-us.net/articles/SS-00_Appendix_Exposure-methodology.html)  
 ###### 2026/04/04  
 [SN-LIF-05｜非対称性と時間生成 — 差の折れとしての向き —](https://camp-us.net/articles/SN-LIF-05_Asymmetry-and-Time_Folding-into-Orientation.html)  
 [SX-00｜記号現象学 序説・バイアス論・Principia・実践章｜Semiotic Phenomenology · LSM-bias · Principia Cosmogonica · Applied EgQE](https://camp-us.net/articles/SX-00_Semiotic-Phenomenology_Prolegomena.html)  
