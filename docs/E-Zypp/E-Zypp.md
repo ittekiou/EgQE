@@ -1,7 +1,9 @@
 ---
 title: E-Zypp  感じる  支える  整える｜E-Zy Press
+layout: math
 ---
-# E-Zypp  **感じる  支える  整える**
+# $E–Zypp$ 
+# **_感じる  支える  整える_**
 
 ![E-Zypp](../assets/E-Zypp.png)  
 # ZURE Inter-Phase Publisher / E-Zy Press / E-Zypp
