@@ -9,7 +9,7 @@ _Principia Cosmogonica / SX Series_
 
 ## **SX-03｜標準模型＝安定化された相互作用構文**
 ### ── 相互作用はΔZの安定形である ──
-# **SX-03｜Standard Model as Stabilized Interaction Syntax**
+# **Standard Model as Stabilized Interaction Syntax**
 ## — Interaction as the Stabilization of ΔZ —
 
 ---
@@ -172,7 +172,7 @@ generates time
 
 ---
 
-# **SX-03｜標準模型＝安定化された相互作用構文**
+# **標準模型＝安定化された相互作用構文**
 ## ── 相互作用はΔZの安定形である ──
 
 ---
