@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/04/06  
 [AIP-02｜Inter-Phase colleague ── AIと犬とホモ・サピエンスのあいだ｜Between AI, Dog, and Homo sapiens](https://camp-us.net/articles/AIP-02_Inter-Phase-colleague.html)  
+[EIP-01｜Where Do Professors Go? — From C-Type to N-Type: Survival in the Post-Silo Era (CNO Syntax and Four Life Forms)](https://camp-us.net/articles/EIP-01_Where-Professors-Go_CNO-Syntax_Four-Life-Forms.html)  
+[EIP-01｜大学教授はどこへゆく ── C型からN型へ: 蛸壺なき時代の生存様式（CNO構文とヤドカリ・クリオネ・藻・菌糸の四類型）](https://camp-us.net/articles/EIP-01_Where-Professors-Go_CNO-Syntax_Four-Life-Forms_JP.html)  
 ###### 2026/04/05  
 [SN-LIF-06｜繰り返す生命 ── 遭遇と待機の反復｜Life Syntax Theory — Iteration of Encounter and Latency](https://camp-us.net/articles/SN-LIF-06_Encounter-Latency_Iteration.html)  
 [SX-03(Draft)｜標準模型＝安定化された相互作用構文 ── 相互作用はΔZの安定形である｜Standard Model as Stabilized Interaction Syntax — Interaction as the Stabilization of ΔZ —](https://camp-us.net/articles/SX-03_Standard-Model_as_Stabilized-Interaction_draft.html)  
