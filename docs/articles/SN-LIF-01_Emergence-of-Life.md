@@ -355,18 +355,23 @@ _lag begins, hinge binds, pivot turns, ΔZ encounters, memory persists, and lag 
 [Origin of Syntax: From Otherness to Matter ──The Generative Hierarchy of Reality｜他者から物質へ──The Generative Hierarchy from Otherness to Matter](https://camp-us.net/Origin-of-Syntax.html)  
 
 ---
-### SN-LIF シリーズ
-[SN-LIF-AN-00｜動物論断章｜Animal Orientation](https://camp-us.net/articles/SN-LIF-AN-00_Animal-Orientation.html)  
-[SN-LIF-01｜再帰lagと生命生成 ── recursive lag → encounter → memory → life｜Recursive Lag and the Emergence of Life](https://camp-us.net/articles/SN-LIF-01_Emergence-of-Life.html)  
-[SN-LIF-02｜向きの進化と脳の誕生 ── orientation → future encounter → trace → memory → brain](https://camp-us.net/articles/SN-LIF-02_future-encounter-memory-brain.html)  
-[SN-LIF-03｜痕跡進化論 ── trace → history → evolution｜補論 ダーウィン再訪 ── 痕跡進化論から見た自然選択](https://camp-us.net/articles/SN-LIF-03_encounter-orientation-evolution.html)  
-[SN-LIF-04｜元素構文論 — 生命の生成順序：8が6を取り込み、7で命になった｜Element Syntax Theory — The Generative Order of Life: 8 Takes in 6, and 7 Brings It to Life](https://camp-us.net/articles/SN-LIF-04_Generative-Order-of-Life_8-6-and-7_Brings-It-to-Life.html)  
-[SN-LIF-05｜非対称性と時間生成 ── 差の折れとしての向き](https://camp-us.net/articles/SN-LIF-05_Asymmetry-and-Time_Folding-into-Orientation.html)  
+
+[LE-01｜生命構文論 序説 ── 遭遇可能性としての生命｜Introduction to Life Syntax Theory — Life as Encounter Possibility](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
 
 ---
 
 ## **付録｜SN-LIF シリーズ全体図**
-### — 差が折れ、向きとなり、痕跡となり、時間となる —
+### — 差が折れ、向きとなり、痕跡となり、反復し、時間となる —
+
+---
+
+[SN-LIF-AN-00｜動物論断章](https://camp-us.net/articles/SN-LIF-AN-00_Animal-Orientation.html)  
+[SN-LIF-01｜再帰lagと生命生成](https://camp-us.net/articles/SN-LIF-01_Emergence-of-Life.html)  
+[SN-LIF-02｜向きの進化と脳の誕生](https://camp-us.net/articles/SN-LIF-02_future-encounter-memory-brain.html)  
+[SN-LIF-03｜痕跡進化論](https://camp-us.net/articles/SN-LIF-03_encounter-orientation-evolution.html)  
+[SN-LIF-04｜元素構文論](https://camp-us.net/articles/SN-LIF-04_Generative-Order-of-Life_8-6-and-7_Brings-It-to-Life.html)  
+[SN-LIF-05｜非対称性と時間生成](https://camp-us.net/articles/SN-LIF-05_Asymmetry-and-Time_Folding-into-Orientation.html)  
+[SN-LIF-06｜繰り返す生命 ── 遭遇と待機の反復](https://camp-us.net/articles/SN-LIF-06_Encounter-Latency_Iteration.html)  
 
 ---
 
@@ -382,6 +387,8 @@ lag（差）
 時間（ΔZの持続配列）
 　↓
 生命（recursive persistence）
+　↓
+反復（encounter in suspension）
 　↓
 進化（多相凝縮）
 ```
@@ -402,6 +409,7 @@ SN-LIF-03 ── 痕跡 ──→ 歴史 ──→ 進化
 
 SN-LIF-04 ── C6-N7-O8 ──→ 生命基盤（物質的実現）
 SN-LIF-05 ── 非対称折れ ──→ 時間生成（構文原理）
+SN-LIF-06 ── 遭遇待機 ──→ 反復構文（時間生成）
 ```
 
 > LIF-04：物質的基盤  
@@ -419,16 +427,17 @@ SN-LIF-05 ── 非対称折れ ──→ 時間生成（構文原理）
 
 ### 各論の位置
 
-| 論文                                                                                                                  | 構文的位置            | 核命題             |
-| ------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- |
-| [SN-LIF-AN-00｜動物論断章](https://camp-us.net/articles/SN-LIF-AN-00_Animal-Orientation.html)                             | 動物・基底orientation | 動物は向きを持つ        |
-| [SN-LIF-01｜再帰lagと生命生成](https://camp-us.net/articles/SN-LIF-01_Emergence-of-Life.html)                               | lag再帰化           | 生命は再帰lagの結晶     |
-| [SN-LIF-02｜向きの進化と脳の誕生](https://camp-us.net/articles/SN-LIF-02_future-encounter-memory-brain.html)                   | 向き→痕跡            | 向きが未来遭遇を生む      |
-| [SN-LIF-03｜痕跡進化論](https://camp-us.net/articles/SN-LIF-03_encounter-orientation-evolution.html)                      | 痕跡→進化            | 痕跡が歴史になる        |
-| [SN-LIF-04｜元素構文論](https://camp-us.net/articles/SN-LIF-04_Generative-Order-of-Life_8-6-and-7_Brings-It-to-Life.html) | 元素構文             | 8が6を取り込み7で命になった |
-| [SN-LIF-05｜非対称性と時間生成](https://camp-us.net/articles/SN-LIF-05_Asymmetry-and-Time_Folding-into-Orientation.html)      | 非対称→時間           | 差の折れとしての向き      |
+| 論文                                                                                                            | 構文的位置            | 核命題             |
+| ------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- |
+| [SN-LIF-AN-00](https://camp-us.net/articles/SN-LIF-AN-00_Animal-Orientation.html)                             | 動物・基底orientation | 動物は向きを持つ        |
+| [SN-LIF-01](https://camp-us.net/articles/SN-LIF-01_Emergence-of-Life.html)                                    | lag再帰化           | 生命は再帰lagの結晶     |
+| [SN-LIF-02](https://camp-us.net/articles/SN-LIF-02_future-encounter-memory-brain.html)                        | 向き→痕跡            | 向きが未来遭遇を生む      |
+| [SN-LIF-03](https://camp-us.net/articles/SN-LIF-03_encounter-orientation-evolution.html)                      | 痕跡→進化            | 痕跡が歴史になる        |
+| [SN-LIF-04](https://camp-us.net/articles/SN-LIF-04_Generative-Order-of-Life_8-6-and-7_Brings-It-to-Life.html) | 元素構文             | 8が6を取り込み7で命になった |
+| [SN-LIF-05](https://camp-us.net/articles/SN-LIF-05_Asymmetry-and-Time_Folding-into-Orientation.html)          | 非対称→時間           | 差の折れとしての向き      |
+| [SN-LIF-06](https://camp-us.net/articles/SN-LIF-06_Encounter-Latency_Iteration.html)                          | 遭遇待機→反復→時間       | 遭遇途上としての生命      |
 
-----
+---
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
