@@ -1,9 +1,9 @@
 ---
 layout: math
-title: SN-LIF-06｜遭遇と待機｜繰り返す生命 ── 遭遇と待機の反復
+title: SN-LIF-06｜繰り返す生命 ── 遭遇と待機の反復
 title_en: SN-LIF-06｜Life Syntax Theory — Iteration of Encounter and Latency
 ---
-### SN-LIF-06｜遭遇と待機
+### SN-LIF-06｜生命と時間
 # 繰り返す生命
 # ── 遭遇と待機の反復
 ### _Life Syntax Theory — Iteration of Encounter and Latency_
@@ -44,7 +44,7 @@ title_en: SN-LIF-06｜Life Syntax Theory — Iteration of Encounter and Latency
 更新（refresh）
 ```
 
-👉 **生命は、遭遇を通じて生成される。**
+👉 **生命は、遭遇を通じて更新される。**
 
 ---
 
