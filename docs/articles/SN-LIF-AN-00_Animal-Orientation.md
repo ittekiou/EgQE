@@ -1373,7 +1373,7 @@ natural selection
 [SN-LIF-02｜向きの進化と脳の誕生 ── orientation → future encounter → trace → memory → brain](https://camp-us.net/articles/SN-LIF-02_future-encounter-memory-brain.html)  
 [SN-LIF-03｜痕跡進化論 ── trace → history → evolution｜補論 ダーウィン再訪 ── 痕跡進化論から見た自然選択](https://camp-us.net/articles/SN-LIF-03_encounter-orientation-evolution.html)  
 [SN-LIF-04｜元素構文論 — 生命の生成順序：8が6を取り込み、7で命になった｜Element Syntax Theory — The Generative Order of Life: 8 Takes in 6, and 7 Brings It to Life](https://camp-us.net/articles/SN-LIF-04_Generative-Order-of-Life_8-6-and-7_Brings-It-to-Life.html)  
-[SN-LIF-05｜非対称性と時間生成 — 差の折れとしての向き —](https://camp-us.net/articles/SN-LIF-05_Asymmetry-and-Time_Folding-into-Orientation.html)  
+[SN-LIF-05｜非対称性と時間生成 ── 差の折れとしての向き](https://camp-us.net/articles/SN-LIF-05_Asymmetry-and-Time_Folding-into-Orientation.html)  
 
 ---
 
