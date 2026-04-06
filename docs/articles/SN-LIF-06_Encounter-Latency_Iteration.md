@@ -58,7 +58,7 @@ title_en: SN-LIF-06｜Life Syntax Theory — Iteration of Encounter and Latency
 待機（latency）
 ```
 
-👉 **待機とは、遭遇の保留である。**
+👉 **待機とは、遭遇の停止ではなく途上である。**
 
 ---
 
