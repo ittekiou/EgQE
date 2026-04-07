@@ -21,6 +21,9 @@ From Noise to Notation. From Dialogue to Discovery.
 [SX-08｜Particle Spectrum in ΔR–ΔZ Space — Tri-Layer Syntax Map｜ΔR–ΔZ空間における粒子スペクトラム — 三層構文マップ](https://camp-us.net/articles/SX-08_Particle-Spectrum_Tri-Layer-Syntax-Map.html)  
 [SX-09｜Exposure — When Flow Becomes Light — What Actually Happens in Observation｜露出 — 流れはいつ光になるのか — 観測とは何が起きているのか](https://camp-us.net/articles/SX-09_Exposure_When-Flow-Becomes-Light.html)  
 [SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
+[LRT-04｜Modes of Appearance — From Fluctuation to Event｜現れの諸相 — 揺らぎから出現へ](https://camp-us.net/articles/.html)  
+[SN-LT-05｜Light as Appearance｜光はいつ現れるのか — 揺らぎから出現へ](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)  
+[SX-10｜Light as Appearance — Minimal Lag｜光は移動しない — 最小lagとしてのc](https://camp-us.net/articles/SX-10_Light-as-Appearance_Minimal-Lag-c.html)  
 ###### 2026/04/06  
 [AIP-02｜Inter-Phase colleague ── AIと犬とホモ・サピエンスのあいだ｜Between AI, Dog, and Homo sapiens](https://camp-us.net/articles/AIP-02_Inter-Phase-colleague.html)  
 [EIP-01｜Where Do Professors Go? — From C-Type to N-Type: Survival in the Post-Silo Era (CNO Syntax and Four Life Forms)](https://camp-us.net/articles/EIP-01_Where-Professors-Go_CNO-Syntax_Four-Life-Forms.html)  

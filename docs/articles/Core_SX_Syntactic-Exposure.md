@@ -43,6 +43,10 @@ _— it is the moment flow becomes form_
     
 - [SX-09｜Exposure — When Flow Becomes Light](https://camp-us.net/articles/SX-09_Exposure_When-Flow-Becomes-Light.html)  
 — What actually happens in observation  
+	
+- [SX-10｜Light as Appearance — Minimal Lag](https://camp-us.net/articles/SX-10_Light-as-Appearance_Minimal-Lag-c.html)  
+— Light does not travel — it cannot persist. It appears. As c.  
+	
 
 
 - [SX-EX-01｜Raw Display — Exposure Theory (Draft Core)](https://camp-us.net/articles/SX-EX-01_Exposure-Theory_Draft-Core.html)  

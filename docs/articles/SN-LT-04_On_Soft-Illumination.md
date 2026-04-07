@@ -310,8 +310,10 @@ does form arise.
     
 - [SN-LT-03](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)：Happening
     
-- 👉 **SN-LT-04：Softness**
-    
+- [SN-LT-04](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)：Softness
+	
+- [SN-LT-05](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)：Appearance  
+	
 
 [LRT-00｜Darkness–Light–Lag–Time — Integrative Note: From floc to Time via Encounter, Projection, and Recursion](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html)  
 
@@ -588,14 +590,15 @@ does form arise.
 
 ---
 
-- [SN-LT-01](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)：光＝遭遇
+- [SN-LT-01](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)：光＝遭遇  
     
-- [SN-LT-02](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)：伝播
+- [SN-LT-02](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)：伝播  
     
-- [SN-LT-03](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)：happening
+- [SN-LT-03](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)：happening  
     
-- 👉 **SN-LT-04：質（softness）**
-    
+- [SN-LT-04](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)：質（softness）  
+	
+- [SN-LT-05](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)：現れ（Appearance）  
 
 [LRT-00｜Darkness–Light–Lag–Time — Integrative Note: From floc to Time via Encounter, Projection, and Recursion](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html)  
 

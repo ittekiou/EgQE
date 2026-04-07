@@ -259,7 +259,9 @@ Light can thus be interpreted as **the luminous appearance of encounter mediated
 - [SN-LT-03](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)：Happening
     
 - [SN-LT-04](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)：Softness
-    
+	
+- [SN-LT-05](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)：Appearance  
+	
 
 [LRT-00｜Darkness–Light–Lag–Time — Integrative Note: From floc to Time via Encounter, Projection, and Recursion](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html)  
 
@@ -567,6 +569,7 @@ Light is the repeated shimmer of encounter.
 [SN-LT-02｜光は反復する遭遇の連鎖である](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)  
 [SN-LT-03｜光はハプニングである](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)  
 [SN-LT-04｜ぼんやり灯る光について：粒・波・確率・場を超えて](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)  
+[SN-LT-05｜光はいつ現れるのか — 揺らぎから出現へ](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)  
 [SN-META-01｜生成する生成構文](https://camp-us.net/articles/SN-META-01_Meta-Genesis-of-Propagation.html)  
 [SN-IP-01｜Inter-Phase Definition](https://camp-us.net/articles/SN-IP-01_Inter-Phase-Definition.html)  
 
