@@ -395,6 +395,10 @@ nor merely having relations.
 > It is the design of their circulation.
 
 ---
+
+[SN-LIF-04｜Element Syntax Theory — The Generative Order of Life: 8 Takes in 6, and 7 Brings It to Life](https://camp-us.net/articles/SN-LIF-04_Generative-Order-of-Life_8-6-and-7_Brings-It-to-Life.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
