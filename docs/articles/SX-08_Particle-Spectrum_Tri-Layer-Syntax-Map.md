@@ -65,7 +65,7 @@ title_en: SX-08｜Particle Spectrum in ΔR–ΔZ Space — Tri-Layer Syntax Map
 
 ```text
 ΔR ───────────────→ ΔZ
-flow                     structure
+flow                    structure
 ```
 
 ---
@@ -153,7 +153,7 @@ Gravity = support (condition)
 
 ```text
 ΔR ───────────────→ ΔZ
-流れ　　　　　　　　構造
+流れ　　　　　　　　　　　　構造
 ```
 
 ---
