@@ -374,6 +374,10 @@ does time begin.
 
 ---
 
+[SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
+
+---
+
 # **Darkness–Light–Lag–Time — Integrative Note**
 ## _From floc to Time via Encounter, Projection, and Recursion_
 
@@ -741,6 +745,10 @@ $$
 [LE-01｜生命構文論 序説 ── 遭遇可能性としての生命](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)  
 
 [SN-LT-04｜ぼんやり灯る光について：粒・波・確率・場を超えて](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)  
+
+---
+
+[SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

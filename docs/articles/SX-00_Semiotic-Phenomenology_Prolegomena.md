@@ -8,6 +8,8 @@ title_en: SX-00｜Semiotic Phenomenology · LSM-bias · Principia Cosmogonica ·
 ## _Semiotic Phenomenology — Prolegomena:_  
 ### _The Structure of Appearance under the Condition of Homo sapiens_
 
+[SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
+
 ---
 
 ## 0. 前提

@@ -195,6 +195,8 @@ X → Y → Z
 
 ## SX Series
 
+[SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
+
 - [SX-00](https://camp-us.net/articles/SX-00_Semiotic-Phenomenology_Prolegomena.html)：記号現象学 序説  
 - [SX-01](https://camp-us.net/articles/SX-01_Structure-to-Syntax_M-Theory-to-EgQE.html)：M-Theory（構造→構文）  
 - [SX-02](https://camp-us.net/articles/SX-02_M-Theory_as_Math-Theory_Highest-Form_of_LSM-bias.html)：Math Theory（数学bias）

@@ -280,6 +280,10 @@ and time begins.
 
 ---
 
+[SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
+
+---
+
 # **PhotonからZ₀へ — 非再帰的遭遇としての光**
 ## _光から生命‐時間生成構文への架橋_
 
@@ -561,6 +565,10 @@ $$
 [LRT-01｜PhotonからZ₀へ — 非再帰的遭遇としての光： 光から生命‐時間生成構文への架橋](https://camp-us.net/articles/LRT-01_Photon_to_Z₀.html)  
 [LRT-02｜光はなぜひろがるのか — 非局在性と弱い再帰について：波や粒を超えて、光と提灯のふるまいを再定義する](https://camp-us.net/articles/LRT-02_Why-Light-Does-Not-Stay.html)  
 [LRT-03｜光とは何か — 現れとしての光 — Beyond Particle, Wave, and Field](https://camp-us.net/articles/LRT-03_What-Is-Light.html)  
+
+---
+
+[SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
