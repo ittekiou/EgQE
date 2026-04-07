@@ -42,7 +42,7 @@ title_en: SX-08｜Particle Spectrum in ΔR–ΔZ Space — Tri-Layer Syntax Map
   <text x="400" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#000">gluon (closure)</text>
 
   <!-- external flow: neutrino -->
-  <line x1="400" y1="522" x2="400" y2="594" stroke="#000" stroke-width="1.5"/>
+  <line x1="405" y1="522" x2="400" y2="594" stroke="#000" stroke-width="1.5"/>
   <polygon points="400,608 392,593 408,593" fill="#000"/>
   <text x="400" y="630" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#000">(external flow)</text>
   <text x="400" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#000">neutrino (ΔR)</text>
@@ -130,7 +130,7 @@ Gravity = support (condition)
   <text x="400" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#000">gluon (closure)</text>
 
   <!-- external flow: neutrino -->
-  <line x1="400" y1="522" x2="400" y2="594" stroke="#000" stroke-width="1.5"/>
+  <line x1="405" y1="522" x2="400" y2="594" stroke="#000" stroke-width="1.5"/>
   <polygon points="400,608 392,593 408,593" fill="#000"/>
   <text x="400" y="630" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#000">(external flow)</text>
   <text x="400" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#000">neutrino (ΔR)</text>

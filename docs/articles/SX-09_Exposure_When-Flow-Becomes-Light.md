@@ -15,7 +15,7 @@ title_en: SX-09｜Exposure — When Flow Becomes Light — What Actually Happens
 > This diagram is static  
 > but the world is not
 
-![Tri-Layer-Syntax-Map](../assets/Tri-Layer-Syntax-Map.png)  
+![Tri-Layer-Syntax-Map_R](../assets/Tri-Layer-Syntax-Map_R.png)  
 
 ---
 
@@ -108,7 +108,7 @@ nothing is observed.
 > この図は静止している  
 > だが、世界は静止していない
 
-![Tri-Layer-Syntax-Map](../assets/Tri-Layer-Syntax-Map.png)  
+![Tri-Layer-Syntax-Map_R](../assets/Tri-Layer-Syntax-Map_R.png)  
 
 ---
 
