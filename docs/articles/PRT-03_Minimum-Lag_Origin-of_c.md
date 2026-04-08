@@ -84,11 +84,16 @@ $$
 
 ## ■ 5｜再定義
 
-光は進まない。
+光は進まない。  
+（進行としてではなく、極限として現れるという意味で）
 
 それは、最小lagにおいて現れる。
 
 > 光速とは最大速度ではなく、最小lagの投影である
+
+---
+
+$κ$ は、差異が速度として立ち上がる際の構文的媒介量である（定義は後続）。
 
 ---
 
@@ -135,6 +140,8 @@ It emerges as a limit.
 ---
 
 ![Minimum-Lag_Defines-c](../assets/Minimum-Lag_Defines-c.png)  
+
+$κ$ denotes the **syntactic mediator** by which difference becomes velocity (defined later).
 
 ---
 
