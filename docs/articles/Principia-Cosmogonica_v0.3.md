@@ -1,10 +1,10 @@
 ---
 layout: math
-title: Principia Cosmogonica v0.3 — 持続から生成される時間・生命・構造
+title: Principia Cosmogonica v0.3 ── 持続から生成される時間・生命・構造
 title_en: Principia Cosmogonica v0.3 — Generation of Time, Life, and Structure from Persistence
 ---
 # **Principia Cosmogonica** v0.3
-## — 持続から生成される時間・生命・構造
+## ── 持続から生成される時間・生命・構造
 # **Generation of Time, Life, and Structure from Persistence**
 
 ---
@@ -627,7 +627,7 @@ Persistence generates the appearance of structure.
 ---
 
 # Part I：Time
-# **構造から構文へ — M理論とEgQEの再配置**
+# **構造から構文へ ── M理論とEgQEの再配置**
 
 _本稿はEgQEの立場からの再配置的読解であり、M理論の厳密な技術的記述を目的とするものではない。_
 

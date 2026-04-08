@@ -805,7 +805,7 @@ CNO＝過去・現在・未来の編成
 
 ---
 
-[SN-LIF-04｜元素構文論 — 生命の生成順序：8が6を取り込み、7で命になった](https://camp-us.net/articles/SN-LIF-04_Generative-Order-of-Life_8-6-and-7_Brings-It-to-Life.html)  
+[SN-LIF-04｜元素構文論 ── 生命の生成順序：8が6を取り込み、7で命になった](https://camp-us.net/articles/SN-LIF-04_Generative-Order-of-Life_8-6-and-7_Brings-It-to-Life.html)  
 
 ---
 

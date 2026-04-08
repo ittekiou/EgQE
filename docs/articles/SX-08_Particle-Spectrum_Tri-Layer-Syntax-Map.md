@@ -1,10 +1,10 @@
 ---
 layout: math
-title: SX-08｜ΔR–ΔZ空間における粒子スペクトラム — 三層構文マップ
+title: SX-08｜ΔR–ΔZ空間における粒子スペクトラム ── 三層構文マップ
 title_en: SX-08｜Particle Spectrum in ΔR–ΔZ Space — Tri-Layer Syntax Map
 ---
 ## ■ **SX-08｜ΔR–ΔZ空間における粒子スペクトラム**
-### **— 三層構文マップ**
+### **── 三層構文マップ**
 # **Particle Spectrum in ΔR–ΔZ Space**
 ## **— Tri-Layer Syntax Map**
 
@@ -94,7 +94,7 @@ Gravity = support (condition)
 ---
 
 # **ΔR–ΔZ空間における粒子スペクトラム**
-## **— 三層構文マップ**
+## **── 三層構文マップ**
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: SX-05｜Interaction Re-map — 操作と条件への分岐
+title: SX-05｜Interaction Re-map ── 操作と条件への分岐
 title_en: SX-05｜Interaction Re-map — Split into Operation and Condition —
 ---
 ## SX-05｜Interaction Re-map
-# — 操作と条件への分岐 / Split into Operation and Condition —
+# ── 操作と条件への分岐 / Split into Operation and Condition
 
 ---
 

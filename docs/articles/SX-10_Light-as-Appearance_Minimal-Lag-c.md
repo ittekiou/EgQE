@@ -1,9 +1,9 @@
 ---
 layout: math
-title: SX-10｜光は移動しない — 最小lagとしてのc
+title: SX-10｜光は移動しない ── 最小lagとしてのc
 title_en: SX-10｜Light as Appearance — Minimal Lag
 ---
-## ■ **SX-10｜光は移動しない — 最小lagとしての c**
+## ■ **SX-10｜光は移動しない ── 最小lagとしての c**
 # Light as Appearance — Minimal Lag
 
 ---
@@ -36,11 +36,11 @@ lag ≠ 0
 
 ---
 
-# 光は移動しない — 最小lagとしての c
+# 光は移動しない ── 最小lagとしての c
 
 ---
 
-光は移動しない — それはとどまれない。  
+光は移動しない ── それはとどまれない。  
 そして現れる。  
 cとして。
 
@@ -66,7 +66,7 @@ lag ≠ 0
 
 ---
 
-[SN-LT-05｜光はいつ現れるのか — 揺らぎから出現へ](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)  
+[SN-LT-05｜光はいつ現れるのか ── 揺らぎから出現へ](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)  
 
 ---
 

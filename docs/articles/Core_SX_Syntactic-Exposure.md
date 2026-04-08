@@ -47,7 +47,9 @@ _— it is the moment flow becomes form_
 - [SX-10｜Light as Appearance — Minimal Lag](https://camp-us.net/articles/SX-10_Light-as-Appearance_Minimal-Lag-c.html)  
 — Light does not travel — it cannot persist. It appears. As c.  
 	
-
+- [SX-11｜Membrane — The Condition of Appearance](https://camp-us.net/articles/SX-11_Membrane_Condition-of-Appearance.html)  
+— Light is not visible. What is seen is the membrane.
+	
 
 - [SX-EX-01｜Raw Display — Exposure Theory (Draft Core)](https://camp-us.net/articles/SX-EX-01_Exposure-Theory_Draft-Core.html)  
 — The act of exposure as theoretical practice
@@ -72,4 +74,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Apr 7, 2026 · Web Apr 7, 2026 |</p>
+<p align="center">| Web Apr 7-, 2026 |</p>

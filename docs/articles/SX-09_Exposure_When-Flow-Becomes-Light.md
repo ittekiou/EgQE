@@ -1,10 +1,10 @@
 ---
 layout: math
-title: SX-09｜露出 — 流れはいつ光になるのか — 観測とは何が起きているのか
+title: SX-09｜露出 ── 流れはいつ光になるのか：観測とは何が起きているのか
 title_en: SX-09｜Exposure — When Flow Becomes Light — What Actually Happens in Observation
 ---
-## ■ SX-09｜露出 — 流れはいつ光になるのか
-### — 観測とは何が起きているのか
+## ■ SX-09｜露出 ── 流れはいつ光になるのか
+### ── 観測とは何が起きているのか
 # Exposure — When Flow Becomes Light
 ## — What Actually Happens in Observation
 
@@ -98,8 +98,8 @@ nothing is observed.
 
 ---
 
-# 露出 — 流れはいつ光になるのか
-## — 観測とは何が起きているのか
+# 露出 ── 流れはいつ光になるのか
+## ── 観測とは何が起きているのか
 
 ---
 

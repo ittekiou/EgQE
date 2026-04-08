@@ -1,9 +1,9 @@
 ---
-title: SX-07｜Tri-Layer Integration Map — 操作・条件・前提の同時配置
+title: SX-07｜Tri-Layer Integration Map ── 操作・条件・前提の同時配置
 title_en: SX-07｜Tri-Layer Integration Map — Co-placement of Operation, Condition, Premise —
 ---
 ## SX-07｜Tri-Layer Integration Map
-# — 操作・条件・前提の同時配置 / Co-placement of Operation, Condition, Premise —
+# ── 操作・条件・前提の同時配置 / Co-placement of Operation, Condition, Premise
 
 ---
 

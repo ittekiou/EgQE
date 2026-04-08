@@ -1,9 +1,9 @@
 ---
 layout: math
-title: LRT-04｜現れの諸相 — 揺らぎから出現へ
+title: LRT-04｜現れの諸相 ── 揺らぎから出現へ
 title_en: LRT-04｜Modes of Appearance — From Fluctuation to Event
 ---
-## ■ **LRT-04｜現れの諸相 — 揺らぎから出現へ**
+## ■ **LRT-04｜現れの諸相 ── 揺らぎから出現へ**
 # Modes of Appearance — From Fluctuation to Event
 
 ---
@@ -96,7 +96,7 @@ This sequence is what we call time.
 
 ---
 
-# 現れの諸相 — 揺らぎから出現へ
+# 現れの諸相 ── 揺らぎから出現へ
 
 ---
 
@@ -179,16 +179,16 @@ lagが極小のとき、現れは一定の形式をとる。
 
 ---
 
-[SN-LT-05｜光はいつ現れるのか — 揺らぎから出現へ](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)  
+[SN-LT-05｜光はいつ現れるのか ── 揺らぎから出現へ](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)  
 
 ---
 
 [LRT-00｜Darkness–Light–Lag–Time — Integrative Note: From floc to Time via Encounter, Projection, and Recursion](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html)  
 
-[LRT-01｜PhotonからZ₀へ — 非再帰的遭遇としての光： 光から生命‐時間生成構文への架橋](https://camp-us.net/articles/LRT-01_Photon_to_Z₀.html)  
-[LRT-02｜光はなぜひろがるのか — 非局在性と弱い再帰について：波や粒を超えて、光と提灯のふるまいを再定義する](https://camp-us.net/articles/LRT-02_Why-Light-Does-Not-Stay.html)  
-[LRT-03｜光とは何か — 現れとしての光 — Beyond Particle, Wave, and Field](https://camp-us.net/articles/LRT-03_What-Is-Light.html)  
-[LRT-04｜現れの諸相 — 揺らぎから出現へ](https://camp-us.net/articles/LRT-04_Modes-of-Appearance.html)  
+[LRT-01｜PhotonからZ₀へ ── 非再帰的遭遇としての光： 光から生命‐時間生成構文への架橋](https://camp-us.net/articles/LRT-01_Photon_to_Z₀.html)  
+[LRT-02｜光はなぜひろがるのか ── 非局在性と弱い再帰について：波や粒を超えて、光と提灯のふるまいを再定義する](https://camp-us.net/articles/LRT-02_Why-Light-Does-Not-Stay.html)  
+[LRT-03｜光とは何か ── 現れとしての光：Beyond Particle, Wave, and Field](https://camp-us.net/articles/LRT-03_What-Is-Light.html)  
+[LRT-04｜現れの諸相 ── 揺らぎから出現へ](https://camp-us.net/articles/LRT-04_Modes-of-Appearance.html)  
 
 ---
 

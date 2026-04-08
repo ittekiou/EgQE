@@ -1,9 +1,9 @@
 ---
-title: SX-06｜Time Re-grounding Map（Draft） — 生成と前提の反転
+title: SX-06｜Time Re-grounding Map（Draft） ── 生成と前提の反転
 title_en: SX-06｜Time Re-grounding Map（Draft）— Generation–Premise Inversion —
 ---
 ## SX-06｜Time Re-grounding Map（Draft）
-# — 生成と前提の反転 / Generation–Premise Inversion —
+# ── 生成と前提の反転 / Generation–Premise Inversion —
 
 ---
 

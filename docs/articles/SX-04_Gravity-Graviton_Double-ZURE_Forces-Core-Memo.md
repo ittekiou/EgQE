@@ -1,9 +1,9 @@
 ---
-title: SX-04(Draft)｜粒子構文の重力子 — ψとΔZのあいだのZURE
+title: SX-04(Draft)｜粒子構文の重力子 ── ψとΔZのあいだのZURE
 title_en: Core Memo｜SX-04 / Gravity / Double ZURE (Draft)
 ---
 ## Core Memo｜SX-04 / Gravity / Double ZURE (Draft)
-# SX-04｜粒子構文の重力子 — ψとΔZのあいだのZURE
+# SX-04｜粒子構文の重力子 ── ψとΔZのあいだのZURE
 
 ---
 
