@@ -51,6 +51,8 @@ _— it is the moment flow becomes form_
 — Light is not visible. What is seen is the membrane.
 	
 
+---
+
 - [SX-EX-01｜Raw Display — Exposure Theory (Draft Core)](https://camp-us.net/articles/SX-EX-01_Exposure-Theory_Draft-Core.html)  
 — The act of exposure as theoretical practice
     
@@ -103,8 +105,8 @@ _Light, Recursion and Time_
 _光は膜で終わらない_  
 _影が光を呼び起こす_
 
-[SN-LT-10｜影と陰──背景としての光｜Shadow and Shade — Light as Background](https://camp-us.net/articles/SN-LT-10_Light-as-Background_Shadow-and-Shade.html)  
-[SN-LT-11｜木洩れ日──背景としての陰｜Dappled Sunlight — Shadow as Background](https://camp-us.net/articles/SN-LT-11_Shadow-as-Background_Dappled-Sunlight.html)  
+[SN-LT-10](https://camp-us.net/articles/SN-LT-10_Light-as-Background_Shadow-and-Shade.html)：影と陰（Light as Background）  
+[SN-LT-11](https://camp-us.net/articles/SN-LT-11_Shadow-as-Background_Dappled-Sunlight.html)：木洩れ日（Shadow as Background）  
 
 [SN-DK-01｜暗闇は関係静寂の現れである](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)  
 

@@ -284,6 +284,11 @@ Darkness    Encounter
                  ΔZ
 ```
 
+---
+
+[SN-LT-10](https://camp-us.net/articles/SN-LT-10_Light-as-Background_Shadow-and-Shade.html)：影と陰（Light as Background）  
+[SN-LT-11](https://camp-us.net/articles/SN-LT-11_Shadow-as-Background_Dappled-Sunlight.html)：木洩れ日（Shadow as Background）  
+
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
