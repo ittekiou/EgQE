@@ -23,6 +23,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-LT-08｜太陽 ── 飽和｜Sun — Saturation](https://camp-us.net/articles/SN-LT-08_Sun_Saturation.html)  
 [SN-LT-09｜カミオカンデ ── 現れの瞬間｜Kamiokande — The Moment of Appearance](https://camp-us.net/articles/SN-LT-09_Kamiokande_Moment-of-Appearance.html)  
 [SX-11｜膜 ── 現れの条件｜Membrane — The Condition of Appearance](https://camp-us.net/articles/SX-11_Membrane_Condition-of-Appearance.html)  
+[SN-LT-10｜影と陰──背景としての光｜Shadow and Shade — Light as Background](https://camp-us.net/articles/SN-LT-10_Light-as-Background_Shadow-and-Shade.html)  
+[SN-LT-11｜木洩れ日──背景としての陰｜Dappled Sunlight — Shadow as Background](https://camp-us.net/articles/SN-LT-11_Shadow-as-Background_Dappled-Sunlight.html)  
 ###### 2026/04/07  
 [SX-08｜Particle Spectrum in ΔR–ΔZ Space — Tri-Layer Syntax Map｜ΔR–ΔZ空間における粒子スペクトラム — 三層構文マップ](https://camp-us.net/articles/SX-08_Particle-Spectrum_Tri-Layer-Syntax-Map.html)  
 [SX-09｜Exposure — When Flow Becomes Light — What Actually Happens in Observation｜露出 — 流れはいつ光になるのか — 観測とは何が起きているのか](https://camp-us.net/articles/SX-09_Exposure_When-Flow-Becomes-Light.html)  

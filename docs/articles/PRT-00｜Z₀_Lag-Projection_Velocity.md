@@ -7,6 +7,8 @@ _Projection, Recursion and Time._
 ## **Principia Cosmogonica — Integrative Introduction**
 # **Z₀・Lag Projection・Velocity による時間生成原論**
 
+[SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
+
 ---
 
 ## **0｜導入 — 時間は前提ではない**

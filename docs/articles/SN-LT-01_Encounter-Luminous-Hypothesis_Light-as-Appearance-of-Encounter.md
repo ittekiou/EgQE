@@ -563,13 +563,36 @@ Light is the repeated shimmer of encounter.
 [_camp-us.net_](https://camp-us.net/)  
 
 ---
-### 暗闇と光の**分岐**シリーズ
+
+## SN-LTシリーズ（光の生成論）
+
 [SN-DK-01｜暗闇は関係静寂の現れである](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)  
-[SN-LT-01｜光は遭遇の現れである](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)  
-[SN-LT-02｜光は反復する遭遇の連鎖である](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)  
-[SN-LT-03｜光はハプニングである](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)  
-[SN-LT-04｜ぼんやり灯る光について：粒・波・確率・場を超えて](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)  
-[SN-LT-05｜光はいつ現れるのか — 揺らぎから出現へ](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)  
+
+- [SN-LT-01](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)：光＝遭遇  
+    
+- [SN-LT-02](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)：伝播  
+    
+- [SN-LT-03](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)：happening  
+    
+- [SN-LT-04](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)：質（softness）  
+	
+- [SN-LT-05](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)：現れ（Appearance）  
+
+[SN-LT-06](https://camp-us.net/articles/SN-LT-06_Candle_Fluctuation.html)：蝋燭 → 揺らぎ（Fluctuation）  
+[SN-LT-07](https://camp-us.net/articles/SN-LT-07_Flashlight_Alignment.html)：懐中電灯 → 方向（Alignment）  
+[SN-LT-08](https://camp-us.net/articles/SN-LT-08_Sun_Saturation.html)：太陽 → 不可視（Saturation）  
+[SN-LT-09](https://camp-us.net/articles/SN-LT-09_Kamiokande_Moment-of-Appearance.html)：カミオカンデ → 事件（Moment of Appearance）  
+
+---
+
+_光は膜で終わらない_  
+_影が光を呼び起こす_
+
+[SN-LT-10｜影と陰──背景としての光｜Shadow and Shade — Light as Background](https://camp-us.net/articles/SN-LT-10_Light-as-Background_Shadow-and-Shade.html)  
+[SN-LT-11｜木洩れ日──背景としての陰｜Dappled Sunlight — Shadow as Background](https://camp-us.net/articles/SN-LT-11_Shadow-as-Background_Dappled-Sunlight.html)  
+
+---
+
 [SN-META-01｜生成する生成構文](https://camp-us.net/articles/SN-META-01_Meta-Genesis-of-Propagation.html)  
 [SN-IP-01｜Inter-Phase Definition](https://camp-us.net/articles/SN-IP-01_Inter-Phase-Definition.html)  
 

@@ -154,6 +154,10 @@ cとして。
 
 ---
 
+## SN-LTシリーズ（光の生成論）
+
+[SN-DK-01｜暗闇は関係静寂の現れである](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)  
+
 - [SN-LT-01](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)：光＝遭遇  
     
 - [SN-LT-02](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)：伝播  
@@ -164,7 +168,18 @@ cとして。
 	
 - [SN-LT-05](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)：現れ（Appearance）  
 
-[LRT-00｜Darkness–Light–Lag–Time — Integrative Note: From floc to Time via Encounter, Projection, and Recursion](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html)  
+[SN-LT-06](https://camp-us.net/articles/SN-LT-06_Candle_Fluctuation.html)：蝋燭 → 揺らぎ（Fluctuation）  
+[SN-LT-07](https://camp-us.net/articles/SN-LT-07_Flashlight_Alignment.html)：懐中電灯 → 方向（Alignment）  
+[SN-LT-08](https://camp-us.net/articles/SN-LT-08_Sun_Saturation.html)：太陽 → 不可視（Saturation）  
+[SN-LT-09](https://camp-us.net/articles/SN-LT-09_Kamiokande_Moment-of-Appearance.html)：カミオカンデ → 事件（Moment of Appearance）  
+
+---
+
+_光は膜で終わらない_  
+_影が光を呼び起こす_
+
+[SN-LT-10｜影と陰──背景としての光｜Shadow and Shade — Light as Background](https://camp-us.net/articles/SN-LT-10_Light-as-Background_Shadow-and-Shade.html)  
+[SN-LT-11｜木洩れ日──背景としての陰｜Dappled Sunlight — Shadow as Background](https://camp-us.net/articles/SN-LT-11_Shadow-as-Background_Dappled-Sunlight.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

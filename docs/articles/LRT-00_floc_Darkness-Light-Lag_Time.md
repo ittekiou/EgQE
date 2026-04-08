@@ -7,6 +7,8 @@ _Light, Recursion and Time_
 # **Darkness–Light–Lag–Time — Integrative Note**
 ## _From floc to Time via Encounter, Projection, and Recursion_
 
+[SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
+
 ---
 
 ## **0｜Purpose**
