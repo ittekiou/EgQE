@@ -3,6 +3,7 @@ layout: math
 title: LRT-04｜現れの諸相 ── 揺らぎから出現へ
 title_en: LRT-04｜Modes of Appearance — From Fluctuation to Event
 ---
+_Light, Recursion and Time_  
 ## ■ **LRT-04｜現れの諸相 ── 揺らぎから出現へ**
 # Modes of Appearance — From Fluctuation to Event
 

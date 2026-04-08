@@ -25,6 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SX-11｜膜 ── 現れの条件｜Membrane — The Condition of Appearance](https://camp-us.net/articles/SX-11_Membrane_Condition-of-Appearance.html)  
 [SN-LT-10｜影と陰──背景としての光｜Shadow and Shade — Light as Background](https://camp-us.net/articles/SN-LT-10_Light-as-Background_Shadow-and-Shade.html)  
 [SN-LT-11｜木洩れ日──背景としての陰｜Dappled Sunlight — Shadow as Background](https://camp-us.net/articles/SN-LT-11_Shadow-as-Background_Dappled-Sunlight.html)  
+[PRT-03｜最小lagと光速の起源 ── 速度はどこから生まれるのか｜Minimum Lag and the Origin of c](https://camp-us.net/articles/PRT-03_Minimum-Lag_Origin-of_c.html)  
 ###### 2026/04/07  
 [SX-08｜Particle Spectrum in ΔR–ΔZ Space — Tri-Layer Syntax Map｜ΔR–ΔZ空間における粒子スペクトラム — 三層構文マップ](https://camp-us.net/articles/SX-08_Particle-Spectrum_Tri-Layer-Syntax-Map.html)  
 [SX-09｜Exposure — When Flow Becomes Light — What Actually Happens in Observation｜露出 — 流れはいつ光になるのか — 観測とは何が起きているのか](https://camp-us.net/articles/SX-09_Exposure_When-Flow-Becomes-Light.html)  
@@ -63,7 +64,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-LT-04｜ぼんやり灯る光について：粒・波・確率・場を超えて — 弱い再帰としてのあかり｜On Soft Illumination: Lantern Light Beyond Particle, Wave, Probability, and Field — The Syntactic Nature of Weak Recursion](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)  
 ###### 2026/04/02  
 [Z₀ v5.0｜From Encounter to Life-Time Generator（遭遇から生命‐時間生成構文へ）](https://camp-us.net/Z₀_v5.0.html)  
-[PRT-00｜Z₀・Lag Projection・Velocity による時間生成原論｜Principia Cosmogonica — Integrative Introduction](https://camp-us.net/articles/PRT-00｜Z₀_Lag-Projection_Velocity.html)  
+[PRT-00｜Z₀・Lag Projection・Velocity による時間生成原論｜Principia Cosmogonica — Integrative Introduction](https://camp-us.net/articles/PRT-00_Z₀_Lag-Projection_Velocity.html)  
 [PRT-01｜Lag Projection と Z₀ — 非時間的構造から時間へ：関係差・再帰・時間生成の構文幾何へ向けて｜Lag Projection and Z₀ — From Non-Temporal Structure to Time: Toward a Syntactic Geometry of Relation, Recursion, and Emergence of Time](https://camp-us.net/articles/PRT-01_Lag-Projection_and_Z₀.html)  
 [PRT-02｜Velocity Before Time — Z₀と速度の起源：lagに基づく速度定義と光速極限｜Velocity Before Time — Z₀ and the Origin of Speed: Toward a Lag-Based Definition of Velocity and the Light-Speed Limit](https://camp-us.net/articles/PRT-02_Velocity-Before-Time.html)  
 [LRT-00｜Darkness–Light–Lag–Time — Integrative Note: From floc to Time via Encounter, Projection, and Recursion](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html)  

@@ -57,9 +57,27 @@ _— it is the moment flow becomes form_
 
 ---
 
-## Related Series
+# Related Series
 
-→ [LRT](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html) → [PRT](https://camp-us.net/articles/PRT-00%EF%BD%9CZ%E2%82%80_Lag-Projection_Velocity.html)
+### 時間と速度の起源シリーズ
+_Projection, Recursion and Time._  
+
+- **[PRT-00｜Z₀・Lag Projection・Velocity](https://camp-us.net/articles/PRT-00_Z₀_Lag-Projection_Velocity.html)｜時間生成原論**
+    
+- **[PRT-01｜Lag Projection](https://camp-us.net/articles/PRT-01_Lag-Projection_and_Z₀.html)｜非時間的構造の成立**
+    
+- **[PRT-02｜Velocity Before Time](https://camp-us.net/articles/PRT-02_Velocity-Before-Time.html)｜速度の起源**
+	
+- **[PRT-03｜Minimum Lag and the Origin of c](https://camp-us.net/articles/PRT-03_Minimum-Lag_Origin-of_c.html)｜光速の起源**  
+
+### 光と時間の起源シリーズ
+_Light, Recursion and Time_  
+
+[LRT-00｜Darkness–Light–Lag–Time — Integrative Note](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html)  
+[LRT-01｜From Photon to Z₀ — Light as Non-Recursive Encounter](https://camp-us.net/articles/LRT-01_Photon_to_Z₀.html)  
+[LRT-02｜Why Light Does Not Stay — Non-Localization and Weak Recursion](https://camp-us.net/articles/LRT-02_Why-Light-Does-Not-Stay.html)  
+[LRT-03｜What Is Light — Light as Appearance](https://camp-us.net/articles/LRT-03_What-Is-Light.html)  
+[LRT-04｜Modes of Appearance — From Fluctuation to Event](https://camp-us.net/articles/LRT-04_Modes-of-Appearance.html)  
 
 ---
 
