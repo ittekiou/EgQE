@@ -110,6 +110,16 @@ _影が光を呼び起こす_
 
 [SN-DK-01｜暗闇は関係静寂の現れである](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)  
 
+```
+膜     影
+|      |
+操作  差異
+↓      ↓
+見せる 語る
+  \    /
+   光 (現れ)
+```
+
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
