@@ -389,7 +389,7 @@ does time begin.
 
 - **[SN-DK-01](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)** (Darkness)
     
-- **[SN-LT-01](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)–[02](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)–[03](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)** (Light as Encounter / Propagation / Happening)
+- **[SN-LT-01](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)–[02](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)–[03](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)–[04](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)–[05](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)** (Light as Encounter / Propagation / Happening / softness / Appearance)
     
 - **[Gφ-PHY-03](https://camp-us.net/articles/Gφ-PHY-03_From-floc-to-lag.html)** (floc → lag)
     

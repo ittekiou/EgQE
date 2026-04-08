@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/04/08  
 [SN-LT-06｜蝋燭 ── 揺らぎ｜Candle — Fluctuation](https://camp-us.net/articles/SN-LT-06_Candle_Fluctuation.html)  
+[SN-LT-07｜懐中電灯 ── 方向｜Flashlight — Alignment](https://camp-us.net/articles/SN-LT-07_Flashlight_Alignment.html)  
+[SN-LT-08｜太陽 ── 飽和｜Sun — Saturation](https://camp-us.net/articles/SN-LT-08_Sun_Saturation.html)  
 [SN-LT-09｜カミオカンデ ── 現れの瞬間｜Kamiokande — The Moment of Appearance](https://camp-us.net/articles/SN-LT-09_Kamiokande_Moment-of-Appearance.html)  
 [SX-11｜膜 ── 現れの条件｜Membrane — The Condition of Appearance](https://camp-us.net/articles/SX-11_Membrane_Condition-of-Appearance.html)  
 ###### 2026/04/07  

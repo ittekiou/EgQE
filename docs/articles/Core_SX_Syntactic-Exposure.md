@@ -62,6 +62,25 @@ _— it is the moment flow becomes form_
 → [LRT](https://camp-us.net/articles/LRT-00_floc_Darkness-Light-Lag_Time.html) → [PRT](https://camp-us.net/articles/PRT-00%EF%BD%9CZ%E2%82%80_Lag-Projection_Velocity.html)
 
 ---
+
+## SN-LTシリーズ（光の生成論）
+
+- [SN-LT-01](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)：光＝遭遇  
+    
+- [SN-LT-02](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)：伝播  
+    
+- [SN-LT-03](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)：happening  
+    
+- [SN-LT-04](https://camp-us.net/articles/SN-LT-04_On_Soft-Illumination.html)：質（softness）  
+	
+- [SN-LT-05](https://camp-us.net/articles/SN-LT-05_Light-Appears.html)：現れ（Appearance）  
+
+[SN-LT-06](https://camp-us.net/articles/SN-LT-06_Candle_Fluctuation.html)：蝋燭 → 揺らぎ（Fluctuation）  
+[SN-LT-07](https://camp-us.net/articles/SN-LT-07_Flashlight_Alignment.html)：懐中電灯 → 方向（Alignment）  
+[SN-LT-08](https://camp-us.net/articles/SN-LT-08_Sun_Saturation.html)：太陽 → 不可視（Saturation）  
+[SN-LT-09](https://camp-us.net/articles/SN-LT-09_Kamiokande_Moment-of-Appearance.html)：カミオカンデ → 事件（Moment of Appearance）  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
