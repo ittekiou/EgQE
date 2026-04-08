@@ -144,11 +144,6 @@ Shadow speaks it.
 
 ---
 
-_膜は光を見せる_  
-_影は光を語る_
-
----
-
 [SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
 
 _光は膜で終わらない_  
@@ -158,6 +153,11 @@ _影が光を呼び起こす_
 [SN-LT-11｜木洩れ日──背景としての陰｜Dappled Sunlight — Shadow as Background](https://camp-us.net/articles/SN-LT-11_Shadow-as-Background_Dappled-Sunlight.html)  
 
 [SN-DK-01｜暗闇は関係静寂の現れである](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)  
+
+---
+
+_膜は光を見せる_  
+_影は光を語る_
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
