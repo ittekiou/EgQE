@@ -639,7 +639,7 @@ Merleau-Ponty
 
 ## TS-13
 
-時間の再構築：lag→rate→時間生成で根本から再定義
+時間論の再構築：lag→rate→時間生成で根本から再定義
 
 [TS-13｜時間とは何か ── lag前提による再構築｜What is Time? — Reconstruction from Lag Ontology —](https://camp-us.net/articles/TS-13_What-is-Time_Reconstruction.html)  
 

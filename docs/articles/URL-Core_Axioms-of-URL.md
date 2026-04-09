@@ -50,6 +50,10 @@ the world emerges.
 - [URL-02｜Speed and Velocity](https://camp-us.net/articles/URL-02_Time_Speed-Velocity-Motion.html)  
     ── 時速と速度：時間は速度を生まない / Time Does Not Generate Motion
     
+- [URL-03｜Lag Spectrum](https://camp-us.net/articles/URL-03_Lag-Spectrum_density-and-embodiment.html)  
+	── lagの密度と身体性 / Density and Embodiment of Lag
+	
+
 
 ---
 
