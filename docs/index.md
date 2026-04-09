@@ -103,8 +103,6 @@ Try SyncHub!
 
 [TS-Core｜時間生成：Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 [SN-ψ Core｜Preservation, Time, and the H7–θₐ Band](https://camp-us.net/articles/Core_SN-ψ_Preservation_Time_H7-θₐ-Band.html)  
-[TS-Core Update｜ψ as Temporal Syntax ── 差分の持続としての時間](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)  
-[TS-Core Update v2｜ψの拡張 — 持続と待機 —｜Persistence and Latency](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)  
 
 [Principia Cosmogonica (v0.1)｜宇宙生成原論](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)  
 [宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)  

@@ -5,6 +5,11 @@ layout: math
 # TS Core（Public Edition）
 ## Time Syntax Series — Core Statement
 
+[TS-Core Update｜ψ as Temporal Syntax ── 差分の持続としての時間](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)  
+[TS-Core Update v2｜ψの拡張 — 持続と待機 —｜Persistence and Latency](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)  
+
+---
+
 ## 1｜問題設定
 
 物理学では、時間は通常 **基本パラメータ**として扱われる。
