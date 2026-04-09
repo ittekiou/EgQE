@@ -9,7 +9,7 @@ title_en: TS-Core Update v2｜ψ as Temporal Syntax (Extended) — Persistence a
 # **ψ as Temporal Syntax (Extended)**
 ## — Persistence and Latency —
 
-[TS Core](https://camp-us.net/articles/Core_TS_Time-Syntax.html)
+👉 [TS Core](https://camp-us.net/articles/Core_TS_Time-Syntax.html)
 
 ---
 
@@ -345,6 +345,7 @@ v1: [TS-Core Update｜ψ as Temporal Syntax ── Time as the Persistence of Di
 
 ---
 
+👉 [TS-Core｜Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 👉 [TS-Core Update v1](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)（生成）  
 👉 TS-Core Update v2（構文完成）
 

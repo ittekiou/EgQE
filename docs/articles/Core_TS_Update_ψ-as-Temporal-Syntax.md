@@ -7,8 +7,7 @@ title_en: TS-Core Update｜ψ as Temporal Syntax ── Time as the Persistence 
 ## ψ as Temporal Syntax
 ### ── 差分の持続としての時間
 
-[TS Core](https://camp-us.net/articles/Core_TS_Time-Syntax.html)
-
+👉 [TS Core](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 👉 [TS-Core Update v2｜ψの拡張 — 持続と待機 —](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)  
 
 ---
