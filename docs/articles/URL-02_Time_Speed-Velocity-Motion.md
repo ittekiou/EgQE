@@ -98,7 +98,7 @@ observation   S_Z / S'_Z  ← 時速（ΔZ）
 
 時間はそれに届かない。
 
-![time-speed-lag](../assets/time-speed-lag.png)  
+![time-speed-rate](../assets/time-speed-rate.png)  
 
 ---
 

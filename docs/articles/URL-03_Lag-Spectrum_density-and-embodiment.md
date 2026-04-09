@@ -65,6 +65,8 @@ lagそのものとして生きる。
 
 🐕
 
+![Lag-Spectrum-body](../assets/Lag-Spectrum-body.png)  
+
 ---
 
 速さとは何か。
@@ -94,8 +96,6 @@ $$
 縦軸は rate（比の展開）、横軸はlag density / embodiment ──  
 
 lagの密度と、それが身体にどれだけ近いか。
-
-![Lag-Spectrum](../assets/Lag-Spectrum.png)  
 
 ---
 
@@ -136,6 +136,8 @@ lagの密度と、それが身体にどれだけ近いか。
 光から徒歩まで──  
 
 これは速度のスペクトラムではない。lagとの関係のスペクトラムである。
+
+![Lag-Spectrum-body](../assets/Lag-Spectrum-body.png)  
 
 ---
 
@@ -232,8 +234,6 @@ $$
 
 The vertical axis is rate (unfolding of ratio). The horizontal axis is lag density / embodiment — how dense the lag is, and how close it brings us to the body.
 
-![Lag-Spectrum](../assets/Lag-Spectrum.png)  
-
 ---
 
 Light sits at the top of the curve. Lag near zero, rate at maximum. Light is not fast — it appears at minimal lag. It does not persist. It is only visible through shadow.
@@ -255,6 +255,8 @@ The horizontal axis is called lag density / embodiment because as lag increases,
 > as lag increases the world becomes body
 
 From light to walking — this is not a spectrum of speed. It is a spectrum of relation to lag.
+
+![Lag-Spectrum-body](../assets/Lag-Spectrum-body.png)  
 
 ---
 
