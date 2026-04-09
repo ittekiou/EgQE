@@ -302,7 +302,7 @@ lagがあるから、二つに見える。
 
 ---
 
-[URL-01｜Rate Reconfiguration ── 速度・時間・力・重さの再配置](https://camp-us.net/articles/URL-01_Rate-Reconfiguration_Speed-Time-Force-Weight.html)  
+[URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 ---
 # Lag Ontology (Extended)
@@ -467,7 +467,7 @@ the world emerges.
 
 ---
 
-[URL-01｜Repositioning Speed, Time, Force, and Weight](https://camp-us.net/articles/URL-01_Rate-Reconfiguration_Speed-Time-Force-Weight.html)  
+[URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

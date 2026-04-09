@@ -128,10 +128,9 @@ Force  = bias of rate
 The world does not flow.  
 It distributes as update rates.
 
-
 ---
 
-[URL-00｜Lag Ontology (Extended) ── 更新レートとしての世界｜A World of Update Rates](https://camp-us.net/articles/URL-00_Lag-Ontology-Extended_Update-Rates.html)  
+[URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
