@@ -43,7 +43,7 @@ v = d / t
 
 この循環から外に出ることはできない。
 
-![time-speed](../assets/time-speed.png)  
+![time-speed-lag](../assets/time-speed-lag.png)  
 
 ---
 
