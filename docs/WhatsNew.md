@@ -22,6 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [URL-00｜Lag Ontology (Extended) ── 更新レートとしての世界｜A World of Update Rates](https://camp-us.net/articles/URL-00_Lag-Ontology-Extended_Update-Rates.html)  
 [URL-01｜Rate Reconfiguration ── 速度・時間・力・重さの再配置｜Repositioning Speed, Time, Force, and Weight](https://camp-us.net/articles/URL-01_Rate-Reconfiguration_Speed-Time-Force-Weight.html)  
 [URL-02｜時速と速度 ── 時間は速度を生まない｜Speed and Velocity — Time Does Not Generate Motion —](https://camp-us.net/articles/URL-02_Time_Speed-Velocity-Motion.html)  
+[TS-13｜時間とは何か ── lag前提による再構築｜What is Time? — Reconstruction from Lag Ontology —](https://camp-us.net/articles/TS-13_What-is-Time_Reconstruction.html)  
 ###### 2026/04/08  
 [SN-LT-06｜蝋燭 ── 揺らぎ｜Candle — Fluctuation](https://camp-us.net/articles/SN-LT-06_Candle_Fluctuation.html)  
 [SN-LT-07｜懐中電灯 ── 方向｜Flashlight — Alignment](https://camp-us.net/articles/SN-LT-07_Flashlight_Alignment.html)  

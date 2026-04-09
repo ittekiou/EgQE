@@ -6,11 +6,11 @@ title_en: URL-00｜Lag Ontology (Extended) — A World of Update Rates —
 # Lag Ontology (Extended)
 ## ── 更新レートとしての世界
 
-> 謎の $k$  
+> 謎の $κ$  
 > 一晩寝かせ  
 > 朝散歩  
 > $S/S'$ 更新  
-> $k$ 失せし
+> $κ$ 失せし
 
 [PRT-03｜最小lagと光速の起源 ── 速度はどこから生まれるのか](https://camp-us.net/articles/PRT-03_Minimum-Lag_Origin-of_c.html)  
 
@@ -308,7 +308,7 @@ lagがあるから、二つに見える。
 # Lag Ontology (Extended)
 ## — A World of Update Rates —
 
-> Unknown $k$ —  
+> Unknown $κ$ —  
 > left overnight,  
 > ratio remained.
 

@@ -9,6 +9,8 @@ title_en: TS-Core Update v2｜ψ as Temporal Syntax (Extended) — Persistence a
 # **ψ as Temporal Syntax (Extended)**
 ## — Persistence and Latency —
 
+[TS Core](https://camp-us.net/articles/Core_TS_Time-Syntax.html)
+
 ---
 
 ## **Abstract**

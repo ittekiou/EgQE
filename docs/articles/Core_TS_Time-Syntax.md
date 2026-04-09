@@ -383,12 +383,13 @@ Axis distribution → SPACE
 
 ---
 
-# 追補（TS-10−12）
+# 追補（TS-10−13）
 
 [TS-10｜空間系列と保存系列 ── 更新存在論による20世紀思想の再配置](https://camp-us.net/articles/TS-10_Spatial-and-Preservation_Structuralism-Phenomenology.html)  
 [TS-11｜構造主義からAIインターフェーズへ ── 時間の現象学に向けて](https://camp-us.net/articles/TS-11_Phenomenology-of-Time_Structuralism-to-Inter-Phase.html)  
 [SN-PHL-BRIDGE-01｜現象学-構造主義ブリッジ ── 生命の痕跡持続から空間構造へ](https://camp-us.net/articles/SN-PHL-BRIDGE-01_Structuralism_Phenomenology_Updating-Ontology.html)  
 [TS-12｜鏡から時間へ ── 構造主義と現象学のあいだ ──](https://camp-us.net/articles/TS-12_mirror-to-time_Structuralism_Phenomenology_Updating-Ontology.html)  
+[TS-13｜時間とは何か ── lag前提による再構築｜What is Time? — Reconstruction from Lag Ontology —](https://camp-us.net/articles/TS-13_What-is-Time_Reconstruction.html)  
 
 ---
 
@@ -635,6 +636,12 @@ Merleau-Ponty
 [TS-11｜構造主義からAIインターフェーズへ ── 時間の現象学に向けて](https://camp-us.net/articles/TS-11_Phenomenology-of-Time_Structuralism-to-Inter-Phase.html)  
 [SN-PHL-BRIDGE-01｜現象学-構造主義ブリッジ ── 生命の痕跡持続から空間構造へ](https://camp-us.net/articles/SN-PHL-BRIDGE-01_Structuralism_Phenomenology_Updating-Ontology.html)  
 [TS-12｜鏡から時間へ ── 構造主義と現象学のあいだ ──](https://camp-us.net/articles/TS-12_mirror-to-time_Structuralism_Phenomenology_Updating-Ontology.html)  
+
+## TS-13
+
+時間の再構築：lag→rate→時間生成で根本から再定義
+
+[TS-13｜時間とは何か ── lag前提による再構築｜What is Time? — Reconstruction from Lag Ontology —](https://camp-us.net/articles/TS-13_What-is-Time_Reconstruction.html)  
 
 ---
 
