@@ -300,6 +300,10 @@ lagがあるから、二つに見える。
 だから、世界は立ち上がる。
 
 ---
+
+[URL-01｜Rate Reconfiguration ── 速度・時間・力・重さの再配置](https://camp-us.net/articles/URL-01_Rate-Reconfiguration_Speed-Time-Force-Weight.html)  
+
+---
 # Lag Ontology (Extended)
 ## — A World of Update Rates —
 
@@ -460,6 +464,10 @@ Updates do not coincide.
 
 Therefore,  
 the world emerges.
+
+---
+
+[URL-01｜Repositioning Speed, Time, Force, and Weight](https://camp-us.net/articles/URL-01_Rate-Reconfiguration_Speed-Time-Force-Weight.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

@@ -128,6 +128,10 @@ It distributes as update rates.
 
 
 ---
+
+[URL-00｜Lag Ontology (Extended) ── 更新レートとしての世界｜A World of Update Rates](https://camp-us.net/articles/URL-00_Lag-Ontology-Extended_Update-Rates.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
