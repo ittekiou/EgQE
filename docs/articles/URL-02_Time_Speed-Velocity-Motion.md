@@ -224,7 +224,10 @@ observation   S_Z / S'_Z  ← speed (ΔZ)
 ---
 
 Velocity is flow.  
-Speed is description.
+Speed is description.  
+
+Here, velocity refers to ΔR (flow),  
+and speed refers to ΔZ (measured description).
 
 ---
 
