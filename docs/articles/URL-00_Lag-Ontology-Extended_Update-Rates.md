@@ -352,6 +352,7 @@ Lag is not a delay.
 $$
 lag = S / S'
 $$
+
 $$
 v   = 1 / lag = S' / S
 $$
@@ -368,11 +369,9 @@ $$
 
 Three rates:
 
-
-real rate　　　　　:  $S_R / S'_R$
-ZURE rate　　　　:  $S_Z / S'_R$
-observation rate　 :  $S_Z / S'_Z$
-
+real rate　　　　　:  $S_R / S'_R$  
+ZURE rate　　　　:  $S_Z / S'_R$  
+observation rate　 :  $S_Z / S'_Z$  
 
 This distinction indicates projection differences between flow (ΔR) and syntax (ΔZ).  
 Details are left to another text.

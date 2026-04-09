@@ -29,9 +29,11 @@ It is a mismatch of update rates.
 $$
 rate = ΔZ / ΔR
 $$
+
 $$
 lag  = S / S'
 $$
+
 $$
 v    = 1 / lag = S' / S
 $$
