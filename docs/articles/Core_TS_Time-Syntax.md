@@ -154,8 +154,6 @@ distribution → SPACE
 
 [EgQE｜SN-ψ Core｜Preservation, Time, and the H7–θₐ Band](https://camp-us.net/articles/Core_SN-%CF%88_Preservation_Time_H7-%CE%B8%E2%82%90-Band.html)  
 
-👉 [EgQE｜TS-Core Update｜ψ as Temporal Syntax ── 差分の持続としての時間｜Time as the Persistence of Difference](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)  
-
 ---
 
 # Series Position
@@ -642,11 +640,15 @@ Merleau-Ponty
 [SN-PHL-BRIDGE-01｜現象学-構造主義ブリッジ ── 生命の痕跡持続から空間構造へ](https://camp-us.net/articles/SN-PHL-BRIDGE-01_Structuralism_Phenomenology_Updating-Ontology.html)  
 [TS-12｜鏡から時間へ ── 構造主義と現象学のあいだ ──](https://camp-us.net/articles/TS-12_mirror-to-time_Structuralism_Phenomenology_Updating-Ontology.html)  
 
-## TS-13
+## TS-13以降
 
 時間論の再構築：lag→rate→時間生成で根本から再定義
 
 [TS-13｜時間とは何か ── lag前提による再構築｜What is Time? — Reconstruction from Lag Ontology —](https://camp-us.net/articles/TS-13_What-is-Time_Reconstruction.html)  
+
+時間前提と零点幻想：lagは零点を否定し、時間を生成する
+
+[TS-14｜零は存在しない ── 変化としての時間｜Zero Does Not Exist — Time as Change —](https://camp-us.net/articles/TS-14_Zero-Does-Not-Exist.html)  
 
 ---
 

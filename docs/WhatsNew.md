@@ -17,6 +17,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/04/10  
+[TS-14｜零は存在しない ── 変化としての時間｜Zero Does Not Exist — Time as Change —](https://camp-us.net/articles/TS-14_Zero-Does-Not-Exist.html)  
 ###### 2026/04/09  
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 [URL-00｜Lag Ontology (Extended) ── 更新レートとしての世界｜A World of Update Rates](https://camp-us.net/articles/URL-00_Lag-Ontology-Extended_Update-Rates.html)  

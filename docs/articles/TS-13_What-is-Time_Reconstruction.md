@@ -311,9 +311,9 @@ Ratio unfolds,
 does not coincide,  
 the world emerges.
 
-
 ---
 
+[TS-Core｜Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 ---

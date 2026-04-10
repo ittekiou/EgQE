@@ -68,6 +68,13 @@ URL is not a series.
 It is the underlying layer of syntactic ontology.
 
 ---
+
+## EgQE Core（minimal）
+
+[TS-Core｜Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
+
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
