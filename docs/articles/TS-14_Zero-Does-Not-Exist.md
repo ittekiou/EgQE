@@ -164,6 +164,74 @@ the world emerges.
 
 ---
 
+# Appendix
+
+# The last dinosaur
+## ── S / S'
+
+最後の恐竜は前に走った
+
+The last dinosaur ran forward
+
+最後の恐竜が息絶えたとき
+時間も消えた
+
+When it died
+its time disappeared
+
+ただ出来事の順序だけが残った
+
+Only the order of events remained
+
+それを時間と呼びたい者は呼べばよい。
+だがそこに向きはない。
+
+Call it time if you wish.
+But there is no direction.
+
+宇宙には上下も左右も前後もないのだから。
+
+The universe has no up, down,
+front, or back.
+
+時間はlagから生まれ、
+名づけられたときに向きをもつ。
+
+Time emerges from lag,
+and gains direction when named.
+
+向きなき出来事を
+どのように時間と名づけることができるだろうか。
+
+How can directionless events
+be named as time?
+
+あらゆる変化が時間であるなら、
+零は存在しない。
+
+If all change is time,
+zero does not exist.
+
+---
+
+## S / S'
+
+> 最後の恐竜は
+> 前に走った
+> 
+> 時間ではない
+> lagの向きへ
+
+> The last dinosaur
+> ran forward
+> 
+> not into time
+> but along lag
+
+🦖
+
+---
+
 [TS-Core｜Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
