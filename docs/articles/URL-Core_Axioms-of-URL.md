@@ -65,7 +65,11 @@ the world emerges.
 	── 確率とは：残留lagの投影 / Probability as the Projection of Residual Lag  
 	
 - [URL-06｜What is Life?](https://camp-us.net/articles/URL-06_What-is-Life_Recursive-Internalization.html)  
-	── 生命とは何か：他者の内部化と再帰 / Recursive Internalization of the Other
+	── 生命とは何か：他者の内部化と再帰 / Recursive Internalization of the Other  
+- [URL-07｜What is Mass?](https://camp-us.net/articles/URL-07_What-is-Mass_Externalized-Lag.html)  
+	── 質量とは何か：外部化されたlagとしての接続 / Externalized Lag as Connection  
+	
+
 
 ---
 
