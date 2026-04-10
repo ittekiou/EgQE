@@ -3,6 +3,7 @@ layout: math
 title: URL-01｜Rate Reconfiguration ── 速度・時間・力・重さの再配置
 title_en: URL-01｜Rate Reconfiguration ── Repositioning Speed, Time, Force, and Weight
 ---
+### URL-01
 # Rate Reconfiguration
 ## ── 速度・時間・力・重さの再配置 / Repositioning Speed, Time, Force, and Weight
 

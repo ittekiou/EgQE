@@ -3,6 +3,7 @@ layout: math
 title: URL-00｜Lag Ontology (Extended) ── 更新レートとしての世界
 title_en: URL-00｜Lag Ontology (Extended) — A World of Update Rates —
 ---
+### URL-00
 # Lag Ontology (Extended)
 ## ── 更新レートとしての世界
 

@@ -3,6 +3,7 @@ layout: math
 title: URL-03｜Lag Spectrum ── lagの密度と身体性
 title_en: URL-03｜Lag Spectrum — Density and Embodiment of Lag —
 ---
+### URL-03｜Density and Embodiment
 # Lag Spectrum
 ## ── lagの密度と身体性
 

@@ -3,7 +3,8 @@ layout: math
 title: URL-02｜時速と速度 ── 時間は速度を生まない
 title_en: URL-02｜Speed and Velocity — Time Does Not Generate Motion —
 ---
-## URL-02｜時速と速度
+### URL-02｜Speed and Velocity
+# 時速と速度
 ### ── 時間は速度を生まない
 
 ---
