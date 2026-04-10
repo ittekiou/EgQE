@@ -130,6 +130,10 @@ It distributes as update rates.
 
 ---
 
+👉 [URL-01-v0.2｜Rate Reconfiguration ── 速度・時間・力・重さの再定義｜Rate Reconfiguration — A Generative Reconstruction of Speed, Time, Weight, and Force —](https://camp-us.net/articles/URL-01-v0.2_Rate Reconfiguration_Speed-Time-Force-Weight.html)  
+
+---
+
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 ---
