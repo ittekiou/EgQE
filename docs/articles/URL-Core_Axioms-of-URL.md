@@ -5,6 +5,8 @@ title: URL-Core ── Axioms of URL
 # URL-Core
 ## ── Axioms of URL ──
 
+> Lag is not eliminated. It is displaced.
+
 ---
 
 ### 0｜Axioms

@@ -59,6 +59,10 @@ _— it is the moment flow becomes form_
 
 ---
 
+_Theoretical frameworks often stabilize themselves by concealing lag._
+
+---
+
 # Related Series
 
 ### 時間と速度の起源シリーズ
