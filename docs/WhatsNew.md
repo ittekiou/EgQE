@@ -20,6 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/04/11  
 [URL-06｜生命とは何か ── 他者の内部化と再帰｜What is Life? — Recursive Internalization of the Other —](https://camp-us.net/articles/URL-06_What-is-Life_Recursive-Internalization.html)  
 [URL-07｜質量とは何か ── 外部化されたlagとしての接続｜What is Mass? — Externalized Lag as Connection —](https://camp-us.net/articles/URL-07_What-is-Mass_Externalized-Lag.html)  
+[URL-08｜エネルギーとは何か ── 伝達されるlag｜What is Energy? — Lag in Transmission —](https://camp-us.net/articles/URL-08_What is Energy_Lag-in-Transmission.html)  
 ###### 2026/04/10  
 [TS-14｜零は存在しない ── 変化としての時間｜Zero Does Not Exist — Time as Change —](https://camp-us.net/articles/TS-14_Zero-Does-Not-Exist.html)  
 [TS-15｜宇宙はrateでlate展開する ── 世界は多重に揃わない｜The Universe Unfolds in Rate, Yet Late — A World of Multi-Layered Non-Coincidence —](https://camp-us.net/articles/TS-15_Rate-Yet-Late_Multi-Layered-Non-Coincidence.html)  

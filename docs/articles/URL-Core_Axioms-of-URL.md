@@ -66,10 +66,13 @@ the world emerges.
 	
 - [URL-06｜What is Life?](https://camp-us.net/articles/URL-06_What-is-Life_Recursive-Internalization.html)  
 	── 生命とは何か：他者の内部化と再帰 / Recursive Internalization of the Other  
+	
 - [URL-07｜What is Mass?](https://camp-us.net/articles/URL-07_What-is-Mass_Externalized-Lag.html)  
 	── 質量とは何か：外部化されたlagとしての接続 / Externalized Lag as Connection  
 	
-
+- [URL-08｜What is Energy?](https://camp-us.net/articles/URL-08_What is Energy_Lag-in-Transmission.html)  
+	── エネルギーとは何か：伝達されるlag / Lag in Transmission
+	
 
 ---
 
