@@ -67,7 +67,19 @@ Prediction does not coincide.
 
 It fails to coincide, therefore the market moves.
 
-Prediction generates lag.
+Prediction intervenes in rate and regenerates lag.
+
+```
+Prediction (anticipating ΔZ)
+↓
+Intervention in rate (multi-body disturbance)
+↓
+Lag re-generated (amplified non-coincidence)
+↓
+Market fluctuation
+↓
+New ΔZ (price)
+```
 
 ---
 
@@ -177,9 +189,17 @@ Market展開（変動）
 
 予測はrateに介入し、新たなlagを生成する。
 
-Figure｜Lag Distribution in Market  
-![SOC-01_LagMarket](../assets/SOC-01_LagMarket.png)  
-Price is a trace (ΔZ) of distributed lag.
+```
+予測（ΔZの先取り）
+↓
+rateへの介入
+↓
+lag再生成（非一致増幅）
+↓
+Market変動
+↓
+ΔZ（新たな価格）
+```
 
 ---
 
