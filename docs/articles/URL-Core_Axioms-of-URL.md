@@ -64,6 +64,8 @@ the world emerges.
 - [URL-05｜Probability and Residual Lag](https://camp-us.net/articles/URL-05_Probability_Residual-Lag-Projection.html)  
 	── 確率とは：残留lagの投影 / Probability as the Projection of Residual Lag  
 	
+- [URL-06｜What is Life?](https://camp-us.net/articles/URL-06_What-is-Life_Recursive-Internalization.html)  
+	── 生命とは何か：他者の内部化と再帰 / Recursive Internalization of the Other
 
 ---
 
