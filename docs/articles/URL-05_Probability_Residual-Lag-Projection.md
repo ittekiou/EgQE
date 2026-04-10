@@ -6,7 +6,7 @@ title_en: URL-05｜Probability and Residual Lag — Probability as the Projectio
 ### **URL-05｜Probability**
 # **確率とは何か**
 ## ── 残留lagの投影 ──
-# **URL-05｜Probability and Residual Lag**
+# **Probability and Residual Lag**
 ## — Probability as the Projection of Residual Lag —
 
 > Probability is not randomness.  
