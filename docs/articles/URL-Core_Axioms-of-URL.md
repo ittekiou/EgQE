@@ -70,7 +70,7 @@ the world emerges.
 - [URL-07｜What is Mass?](https://camp-us.net/articles/URL-07_What-is-Mass_Externalized-Lag.html)  
 	── 質量とは何か：外部化されたlagとしての接続 / Externalized Lag as Connection  
 	
-- [URL-08｜What is Energy?](https://camp-us.net/articles/URL-08_What is Energy_Lag-in-Transmission.html)  
+- [URL-08｜What is Energy?](https://camp-us.net/articles/URL-08_What-is-Energy_Lag-in-Transmission.html)  
 	── エネルギーとは何か：伝達されるlag / Lag in Transmission
 	
 
