@@ -42,21 +42,22 @@ the world emerges.
 ### 2｜Series Index
 
 - [URL-00｜Lag Ontology (Extended)](https://camp-us.net/articles/URL-00_Lag-Ontology-Extended_Update-Rates.html)  
-    ── 更新レートとしての世界 / A World of Update Rates
+    ── 更新レートとしての世界 / A World of Update Rates  
     
 - [URL-01｜Rate Reconfiguration](https://camp-us.net/articles/URL-01_Rate-Reconfiguration_Speed-Time-Force-Weight.html)  
-    ── 速度・時間・力・重さの再配置 / Repositioning Speed, Time, Force, and Weight
+    ── 速度・時間・力・重さの再配置 / Repositioning Speed, Time, Force, and Weight  
     
 - [URL-01-v0.2｜Rate Reconfiguration ](https://camp-us.net/articles/URL-01-v0.2_Rate Reconfiguration_Speed-Time-Force-Weight.html)  
 	── 速度・時間・力・重さの再定義｜Generative Reconstruction of Speed, Time, Weight, and Force   
 	
 - [URL-02｜Speed and Velocity](https://camp-us.net/articles/URL-02_Time_Speed-Velocity-Motion.html)  
-    ── 時速と速度：時間は速度を生まない / Time Does Not Generate Motion
+    ── 時速と速度：時間は速度を生まない / Time Does Not Generate Motion  
     
 - [URL-03｜Lag Spectrum](https://camp-us.net/articles/URL-03_Lag-Spectrum_density-and-embodiment.html)  
-	── lagの密度と身体性 / Density and Embodiment of Lag
+	── lagの密度と身体性 / Density and Embodiment of Lag  
 	
-
+- [URL-04｜Cosmos and Market](https://camp-us.net/articles/URL-04_Cosmos-and-Market_Unfolding_Recursive_Lag.html)  
+	── 宇宙と市場 ：展開するlagと再帰するlag / Unfolding Lag and Recursive Lag  
 
 ---
 

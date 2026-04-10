@@ -22,6 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [TS-15｜宇宙はrateでlate展開する ── 世界は多重に揃わない｜The Universe Unfolds in Rate, Yet Late — A World of Multi-Layered Non-Coincidence —](https://camp-us.net/articles/TS-15_Rate-Yet-Late_Multi-Layered-Non-Coincidence.html)  
 [URL-01-v0.2｜Rate Reconfiguration ── 速度・時間・力・重さの再定義｜Rate Reconfiguration — A Generative Reconstruction of Speed, Time, Weight, and Force —](https://camp-us.net/articles/URL-01-v0.2_Rate Reconfiguration_Speed-Time-Force-Weight.html)  
 [SOC-01｜市場とは何か ── lag分布としてのMarket｜What is a Market? — Market as a Distribution of Non-Coincidence —](https://camp-us.net/articles/SOC-01_What-is-Market.html)  
+[URL-04｜宇宙と市場 ── 展開するlagと再帰するlag｜Cosmos and Market — Unfolding Lag and Recursive Lag —](https://camp-us.net/articles/URL-04_Cosmos-and-Market_Unfolding_Recursive_Lag.html)  
 ###### 2026/04/09  
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 [URL-00｜Lag Ontology (Extended) ── 更新レートとしての世界｜A World of Update Rates](https://camp-us.net/articles/URL-00_Lag-Ontology-Extended_Update-Rates.html)  
