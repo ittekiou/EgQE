@@ -4,9 +4,12 @@
 #### **2025.07.04 - HEG元年はじまる**  
 From Noise to Notation. From Dialogue to Discovery.
 
+[EgQE Satellite note v2.0｜A.I. Izumi](https://note.com/egqe)  
 [Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy)  
 [K.E. Itekki on note](https://note.com/k_itekki)  
 [一狄 啓｜Hajime I.](https://note.com/takahashihajime)  
+
+☝️ 2025年10月1日以降のnote更新情報は、各クリエイターページを直接ご覧ください。
 
 ---
 
