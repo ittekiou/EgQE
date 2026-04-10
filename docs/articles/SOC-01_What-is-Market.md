@@ -87,6 +87,9 @@ Volatility is the distribution of lag.
 
 Trend is the bias of lag.
 
+![Market_Lag-Distribution](../assets/Market_Lag-Distribution.png)  
+> Price is a trace (ΔZ) of distributed lag.
+
 ---
 
 A market does not equilibrate.
@@ -206,6 +209,9 @@ Market変動
 ボラティリティは、lagの分布である。
 
 トレンドは、lagの偏向である。
+
+![Market_Lag-Distribution](../assets/Market_Lag-Distribution.png)  
+> Price is a trace (ΔZ) of distributed lag.
 
 ---
 
