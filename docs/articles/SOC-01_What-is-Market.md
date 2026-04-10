@@ -14,6 +14,10 @@ A market is not price.
 
 Price is a trace.
 
+It is not a cause.  
+
+It is the exposure of lag.
+
 A market is a distribution of non-coincidence (lag).
 
 ---
@@ -91,8 +95,6 @@ It is structural.
 
 ---
 
-A market is not efficient.
-
 As long as non-coincidence persists, efficiency cannot be established.
 
 ---
@@ -121,6 +123,10 @@ Everything unfolds, does not coincide, and remains.
 市場は価格ではない。
 
 価格は痕跡である。
+
+それは原因ではない。
+
+lagの露出である。
 
 市場とは、非一致（lag）の分布である。
 
@@ -171,18 +177,6 @@ Market展開（変動）
 
 予測はrateに介入し、新たなlagを生成する。
 
-```
-予測（ΔZの先取り）
-↓
-rateへの介入
-↓
-lag再生成（非一致増幅）
-↓
-Market変動
-↓
-ΔZ（新たな価格）
-```
-
 Figure｜Lag Distribution in Market  
 ![SOC-01_LagMarket](../assets/SOC-01_LagMarket.png)  
 Price is a trace (ΔZ) of distributed lag.
@@ -213,9 +207,9 @@ Price is a trace (ΔZ) of distributed lag.
 
 ---
 
-市場は効率的ではない。
+効率は成立しない。  
 
-非一致が持続する限り、効率は成立しない。
+非一致が持続する限り。
 
 ---
 

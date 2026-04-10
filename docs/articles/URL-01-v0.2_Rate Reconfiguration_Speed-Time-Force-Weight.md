@@ -23,7 +23,7 @@ rate（展開） = ΔR
 lag（非一致）  
 ↓  
 speed（速度） ≈ 1 / lag（極限投影）
-
+	※ lag → 0 に漸近する極限でのみ成立
 time（持続） = lagの持続  
 weight（重さ） = lagの持続の遅延  
 force（力） = lagの持続の偏向
@@ -31,6 +31,8 @@ force（力） = lagの持続の偏向
 ↓  
 ΔZ（痕跡）
 ```
+
+ΔZは原因ではない。lagの露出である。
 
 ---
 
@@ -103,6 +105,8 @@ force = biased persistence of lag
 ↓  
 ΔZ (trace)
 ```
+
+ΔZ is not a cause. It is the exposure of lag.
 
 ---
 
