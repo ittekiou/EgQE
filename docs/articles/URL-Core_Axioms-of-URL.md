@@ -58,6 +58,10 @@ the world emerges.
 	
 - [URL-04｜Cosmos and Market](https://camp-us.net/articles/URL-04_Cosmos-and-Market_Unfolding_Recursive_Lag.html)  
 	── 宇宙と市場 ：展開するlagと再帰するlag / Unfolding Lag and Recursive Lag  
+	
+- [URL-05｜Probability and Residual Lag](https://camp-us.net/articles/URL-05_Probability_Residual-Lag-Projection.html)  
+	── 確率とは：残留lagの投影 / Probability as the Projection of Residual Lag  
+	
 
 ---
 
