@@ -650,6 +650,10 @@ Merleau-Ponty
 
 [TS-14｜零は存在しない ── 変化としての時間｜Zero Does Not Exist — Time as Change —](https://camp-us.net/articles/TS-14_Zero-Does-Not-Exist.html)  
 
+宇宙はrateでlate展開する：揃わないまま 世界は続く
+
+[TS-15｜宇宙はrateでlate展開する ── 世界は多重に揃わない｜The Universe Unfolds in Rate, Yet Late — A World of Multi-Layered Non-Coincidence —](https://camp-us.net/articles/TS-15_Rate-Yet-Late_Multi-Layered-Non-Coincidence.html)  
+
 ---
 
 # 2. TSシリーズの核心

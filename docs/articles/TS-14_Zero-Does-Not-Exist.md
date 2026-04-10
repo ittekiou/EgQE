@@ -3,7 +3,7 @@ title: TS-14｜零は存在しない ── 変化としての時間
 title_en: TS-14｜Zero Does Not Exist — Time as Change —
 layout: math
 ---
-# TS-14｜零は存在しない
+# 零は存在しない
 ## ── 変化としての時間
 
 ---
@@ -81,7 +81,7 @@ lagは零点を否定し、時間を生成する。
 
 ---
 
-# TS-14｜Zero Does Not Exist
+# Zero Does Not Exist
 ## — Time as Change —
 
 ---
