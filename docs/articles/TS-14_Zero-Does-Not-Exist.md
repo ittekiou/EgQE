@@ -194,12 +194,6 @@ But there is no direction.
 The universe has no up, down,
 front, or back.
 
-時間はlagから生まれ、
-名づけられたときに向きをもつ。
-
-Time emerges from lag,
-and gains direction when named.
-
 向きなき出来事を
 どのように時間と名づけることができるだろうか。
 
@@ -229,6 +223,11 @@ zero does not exist.
 > but along lag
 
 🦖
+
+---
+
+_変化がある限り_  
+_零はない_
 
 ---
 
