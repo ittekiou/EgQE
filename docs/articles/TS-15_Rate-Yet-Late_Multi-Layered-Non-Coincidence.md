@@ -154,6 +154,31 @@ lag（非一致）
 
 ---
 
+> ヒトが時間と呼ぶものは
+> 地球のrateの痕跡である
+> 
+> 年は公転のΔZ
+> 日は自転のΔZ
+> 
+> 時間は流れていない
+> 記述されている
+> 
+> lagは数値ではない
+> ΔRがΔZとして露出する
+> 
+> rateは変動条件である
+> 
+> 気体も
+> 液体も
+> 固体も
+> 
+> 安定ではない
+> 一時的閉包である
+> 
+> rate ≠ 0
+
+---
+
 ## Appendix A｜Generative Structure
 
 ```
@@ -187,6 +212,31 @@ When this ordering is read as persistence, it is called time.
 
 Time is not given.  
 It emerges from sustained non-coincidence.
+
+---
+
+> What humans call time
+> is the trace of Earth's rate
+> 
+> A year is orbital ΔZ
+> A day is rotational ΔZ
+> 
+> Time does not flow
+> it is described
+> 
+> Lag is not a number
+> it is the exposure of ΔR as ΔZ
+> 
+> Rate is a condition of transition
+> 
+> Gas,
+> liquid,
+> solid—
+> 
+> none are stable
+> only temporary closures
+> 
+> rate ≠ 0
 
 ---
 
