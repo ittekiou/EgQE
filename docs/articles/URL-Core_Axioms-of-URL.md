@@ -76,6 +76,9 @@ the world emerges.
 - [URL-09｜What is Background?](https://camp-us.net/articles/URL-09_What-is-Background_Support-as-Rate.html)  
 	── 背景とは何か：rateとしてのsupportと地/図の可逆構文 / Support as Rate  
 	
+- [URL-10｜What is Orbit?](https://camp-us.net/articles/URL-10_What-is-Orbit_Distributed-Rate_Persistent-Lag.html)  
+	── 軌道とは何か：分散するrate、持続するlag / Distributed Rate, Persistent Lag  
+	
 
 ---
 
