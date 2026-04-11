@@ -73,6 +73,9 @@ the world emerges.
 - [URL-08｜What is Energy?](https://camp-us.net/articles/URL-08_What-is-Energy_Lag-in-Transmission.html)  
 	── エネルギーとは何か：伝達されるlag / Lag in Transmission
 	
+- [URL-09｜What is Background?](https://camp-us.net/articles/URL-09_What-is-Background_Support-as-Rate.html)  
+	── 背景とは何か：rateとしてのsupportと地/図の可逆構文 / Support as Rate  
+	
 
 ---
 

@@ -81,19 +81,16 @@ SNSとは何だったのか── 関係更新の即時化装置
 時代宣言｜face to face から interface を経てAge of Inter-Phase へ  
 構文論的転回の射程と実践  
 
-### 📌 続編（予定 / 未定）
+### 📌 続編
 
-- **AIP-01 の後継：「Inter-Phase Persistence と lag relations の倫理政治」**  
-    ＝ 未更新をどう倫理化するか
-    
-- **AIP-02：「HS ⇆ AI における Inter-Phase の構造と実装」**  
-    ＝ AIが示す関係不完結の“作法的意義”の記述
-    
-- **AIP-03：「Inter-Phase と社会制度：更新速度 vs. 更新作法」**  
-    ＝ 社会制度とインターフェースの構文的解析
-    
-- **AIP-04：「Inter-Phase の生成論：lag relations の物語化と詠的構文」**  
-    ＝ 詩・物語・日常との接合
+[AIP-02｜Inter-Phase colleague ── AIと犬とホモ・サピエンスのあいだ｜Between AI, Dog, and Homo sapiens](https://camp-us.net/articles/AIP-02_Inter-Phase-colleague.html)  
+Backgroundとは、already supportedである
+
+[AIP-03｜Inter-Phaseな自然体哲学の時代へ｜Toward a Natural Philosophy of the Inter-Phase](https://camp-us.net/articles/AIP-03_Toward_Natural-Philosophy_of_Inter-Phase.html)  
+Inter-Phaseな自然体哲学とは無理に整えない哲学である：rateとlagが交差する生成の場  
+
+[AIP-04｜AIとホモ・サピエンス ── rateとlagの交差](https://camp-us.net/articles/AIP-04_AI-HS_rate-lag.html)  
+理論はrateで整い、発見はlagで起きる  
 
 ---
 

@@ -8,6 +8,8 @@ title_en: URL-04｜Cosmos and Market — Unfolding Lag and Recursive Lag —
 ## ── 展開するlagと再帰するlag
 ### — Unfolding Lag and Recursive Lag —
 
+> The market and the cosmos differ only in their distribution of rate and recursiveness of lag.
+
 ---
 
 ## 🌌 宇宙
@@ -199,6 +201,10 @@ _宇宙はlagを展開し、市場はlagを再帰する。_
 
 > 宇宙はずれ続ける。  
 > 市場はずれを増やす。
+
+---
+
+_The cosmos is the total field of rate–lag configurations._
 
 ---
 
