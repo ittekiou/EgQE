@@ -217,9 +217,9 @@ It appears when lag is not fully absorbed into structure.
 
 ## ■
 
-比が展開し、  
-揃わず、  
-世界が立ち上がる。
+比が展開し  
+揃わぬがゆえ  
+世界は立ち上がる
 
 ---
 

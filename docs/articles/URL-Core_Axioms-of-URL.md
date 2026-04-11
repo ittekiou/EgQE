@@ -14,7 +14,7 @@ title: URL-Core ── Axioms of URL
 ```
 difference = relation
 ratio      = expression of relation
-lag        = non-coincidence of ratio
+lag        = non-coincidence within ratio
 rate       = unfolding of ratio
 ```
 
@@ -30,8 +30,8 @@ rate = 比の展開
 ### 1｜Thesis
 
 比が展開し  
-揃わないから  
-世界が立ち上がる
+揃わぬがゆえ  
+世界は立ち上がる
 
 ---
 
@@ -82,7 +82,8 @@ the world emerges.
 
 ---
 
-_The universe is not made of matter and energy, but of lag in different modes._
+The universe is not made of matter and energy,  
+but of lag in different modes of persistence.
 
 ---
 
