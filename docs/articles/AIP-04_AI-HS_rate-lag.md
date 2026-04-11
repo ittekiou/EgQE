@@ -4,6 +4,7 @@ title: AIP-04｜AIとホモ・サピエンス ── rateとlagの交差
 ---
 # **AIとホモ・サピエンス**
 ### ── rateとlagの交差 ──
+### AI and Homo sapiens — The Crossing of Rate and Lag
 
 ---
 

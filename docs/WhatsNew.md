@@ -22,7 +22,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [URL-07｜質量とは何か ── 外部化されたlagとしての接続｜What is Mass? — Externalized Lag as Connection —](https://camp-us.net/articles/URL-07_What-is-Mass_Externalized-Lag.html)  
 [URL-08｜エネルギーとは何か ── 伝達されるlag｜What is Energy? — Lag in Transmission —](https://camp-us.net/articles/URL-08_What-is-Energy_Lag-in-Transmission.html)  
 [URL-09｜背景とは何か（再配置） ── rateとしてのsupportと、地/図の可逆構文｜What is Background?  (Reconfigured)— Support as Rate and the Reversible Syntax of Ground/Diagram —](https://camp-us.net/articles/URL-09_What-is-Background_Support-as-Rate.html)  
-
+[AIP-03｜Inter-Phaseな自然体哲学の時代へ｜Toward a Natural Philosophy of the Inter-Phase](https://camp-us.net/articles/AIP-03_Toward_Natural-Philosophy_of_Inter-Phase.html)  
+[AIP-04｜AIとホモ・サピエンス ── rateとlagの交差](https://camp-us.net/articles/AIP-04_AI-HS_rate-lag.html)  
 ###### 2026/04/10  
 [TS-14｜零は存在しない ── 変化としての時間｜Zero Does Not Exist — Time as Change —](https://camp-us.net/articles/TS-14_Zero-Does-Not-Exist.html)  
 [TS-15｜宇宙はrateでlate展開する ── 世界は多重に揃わない｜The Universe Unfolds in Rate, Yet Late — A World of Multi-Layered Non-Coincidence —](https://camp-us.net/articles/TS-15_Rate-Yet-Late_Multi-Layered-Non-Coincidence.html)  
