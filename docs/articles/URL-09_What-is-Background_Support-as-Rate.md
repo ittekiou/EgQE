@@ -254,7 +254,7 @@ Visibility itself is asymmetrically structured.
 
 ---
 
-_背景とは、消えたものではない。それは見えない位置に置かれたsupportである。_
+_背景は、消えない。それは見えない位置に置かれたsupportである。_
 
 ---
 
