@@ -76,6 +76,10 @@ the world emerges.
 
 ---
 
+_The universe is not made of matter and energy, but of lag in different modes._
+
+---
+
 ### 3｜Note
 
 URLはシリーズではない。  

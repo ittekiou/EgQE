@@ -233,6 +233,11 @@ _Theoretical frameworks are structured in ways that conceal lag._
 
 ---
 
+_Lag folds, flows, and fixes—_  
+_and the world emerges._
+
+---
+
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 ---

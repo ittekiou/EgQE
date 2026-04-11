@@ -230,6 +230,11 @@ When it folds inward, life emerges.
 
 ---
 
+_Lag folds, flows, and fixes—_  
+_and the world emerges._
+
+---
+
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 ---
