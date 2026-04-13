@@ -15,9 +15,7 @@ title_en: "MU-03｜Golden Seven Rondo Theory: Closure, Envelopment, and the Mini
 
 This paper formalizes the structural relation between the 12-tone pitch-class lattice and the 7-tone heptatonic subset using group-theoretic language.  
 Let $G = \mathbb{Z}_{12}$ denote the cyclic group of pitch classes under addition modulo 12,  
-
 and let $S \subset G$ with $\|S\|=7$ represent a heptatonic scale.  
-
 Under the fifth-map transformation $T(x)=x+7 \pmod{12}$,  
 we prove that while $G$ forms a closed cyclic structure ($T^{12}=\mathrm{id}$),  
 the subset $S$ exhibits non-absorptive rotational persistence due to $\gcd(7,12)=1$.  
