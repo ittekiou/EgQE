@@ -387,7 +387,7 @@ support (invisible) → orientation → bias → êthos → market → [price]
  [向き] ─→ [偏り] ─→ [拘り] ─→ [市場(lag)]  
 	　↑　　　　　　　　　　　　　↓   
 [支え(不可視support)]  
-		決定←─── 生成断面 ────┘
+	決定←─── 生成断面 ────┘
 ```
 
 ### Ⅲ｜位相反転の帰結
