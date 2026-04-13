@@ -137,10 +137,10 @@ Generative Model:
 support (invisible) → orientation → bias → êthos → market → [price]
 ```
 
-👉 価値生成の現象学へ
+👉 価値生成の現象学へ  
 [HEG-20-04｜向き・偏り・拘りと支えの露出 ── 価値生成の現象学へ｜Orientation, Bias, Êthos, and the Exposure of Support ── Towards Phenomenology of Value Generation](https://camp-us.net/articles/HEG-20-04_Towards_Phenomenology-of-Value-Generation.html)  
 
-👉 非決定の生成政治学へ
+👉 非決定の生成政治学へ  
 [HEG-20-03｜決定モデルから生成モデルへ ── 非決定はどのように生成されるのか｜From Decision to Generation ── How Is Nondecision Generated?](https://camp-us.net/articles/HEG-20-03_Nondecision_Decision-to-Generation.html)  
 
 ---
