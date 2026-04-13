@@ -17,6 +17,15 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/04/13  
+[HEG-20｜生成政治学へ向けて｜Toward Generative Political Theory](https://camp-us.net/articles/HEG-20_Toward_Generative-Political-Theory.html)  
+[HEG-20-01｜生成政治学 ── 時間の手前における生成系列｜Generative Political Theory ── Before Time: What Is a Generative Sequence?](https://camp-us.net/articles/HEG-20-01_Generative-Political-Theory.html)  
+[HEG-20-02｜権力はどこにあるのか ── 生成分布としての権力論｜Where Is Power Located? ── Power as a Distribution of Generation](https://camp-us.net/articles/HEG-20-02_Power_as_Distribution-of-Generation.html)  
+[HEG-20-03｜決定モデルから生成モデルへ ── 非決定はどのように生成されるのか｜From Decision to Generation ── How Is Nondecision Generated?](https://camp-us.net/articles/HEG-20-03_Nondecision_Decision-to-Generation.html)  
+[HEG-20-04｜決定モデルから生成モデルへ ── 支えの不可視化と価値生成の現象学｜From Decision to Generation ── The Invisibilization of Support and a Phenomenology of Value Formation](https://camp-us.net/articles/HEG-20-04_Decision-to-Generation_Invisible-Support-and-Value-Formation.html)  
+[HEG-20-04｜ホームランボールはなぜ暴騰するのか ── 非決定の本質｜Why do home run balls skyrocket in value? — The Reality of Nondecision](https://camp-us.net/articles/HEG-20-04_Why-homerun-balls-skyrocket-in-value_Reality-of-Nondecision.html)  
+[HEG-20-04｜向き・偏り・拘りと支えの露出 ── 価値生成の現象学へ｜Orientation, Bias, Êthos, and the Exposure of Support ── Towards Phenomenology of Value Generation](https://camp-us.net/articles/HEG-20-04_Towards_Phenomenology-of-Value-Generation.html)  
+[HEG-20-04｜価値生成の現象学 ── 向き・偏り・拘りと支えの露出｜Phenomenology of Value Generation ── Orientation, Bias, Êthos, and the Exposure of Support](https://camp-us.net/articles/HEG-20-04_Phenomenology-of-Value-Generation.html)  
 ###### 2026/04/11  
 [URL-06｜生命とは何か ── 他者の内部化と再帰｜What is Life? — Recursive Internalization of the Other —](https://camp-us.net/articles/URL-06_What-is-Life_Recursive-Internalization.html)  
 [URL-07｜質量とは何か ── 外部化されたlagとしての接続｜What is Mass? — Externalized Lag as Connection —](https://camp-us.net/articles/URL-07_What-is-Mass_Externalized-Lag.html)  

@@ -2,6 +2,416 @@
 layout: math
 ---
 
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
+    </marker>
+    <marker id="arrow-dashed" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4a8a5a"/>
+    </marker>
+    <marker id="arrow-decision" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#c4956a"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="420" fill="#f8f5f0"/>
+
+  <!-- Subtle lines -->
+  <line x1="0" y1="68" x2="800" y2="68" stroke="#ddd" stroke-width="1"/>
+  <line x1="0" y1="378" x2="800" y2="378" stroke="#ddd" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="400" y="36" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="13" font-weight="600" fill="#555" text-anchor="middle" letter-spacing="3">GENERATIVE MODEL — PHASE DIAGRAM</text>
+  <text x="400" y="56" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="10" fill="#999" text-anchor="middle" letter-spacing="2">生成モデル位相図</text>
+
+  <!-- Node: 向き -->
+  <rect x="55" y="138" width="115" height="54" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <text x="112" y="160" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#222" text-anchor="middle">向き</text>
+  <text x="112" y="178" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">orientation</text>
+
+  <!-- Arrow → 偏り -->
+  <line x1="170" y1="165" x2="228" y2="165" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Node: 偏り -->
+  <rect x="230" y="138" width="115" height="54" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <text x="287" y="160" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#222" text-anchor="middle">偏り</text>
+  <text x="287" y="178" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">bias</text>
+
+  <!-- Arrow → 拘り -->
+  <line x1="345" y1="165" x2="403" y2="165" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Node: 拘り -->
+  <rect x="405" y="138" width="115" height="54" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <text x="462" y="160" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#222" text-anchor="middle">拘り</text>
+  <text x="462" y="178" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">êthos</text>
+
+  <!-- Arrow → 市場 -->
+  <line x1="520" y1="165" x2="578" y2="165" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Node: 市場(lag) -->
+  <rect x="580" y="138" width="145" height="54" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <text x="652" y="160" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#222" text-anchor="middle">市場 (lag)</text>
+  <text x="652" y="178" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">market / lag distribution</text>
+
+  <!-- Support node -->
+  <rect x="140" y="292" width="290" height="54" rx="3" fill="#f0f7f2" stroke="#4a8a5a" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="285" y="314" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#4a8a5a" text-anchor="middle">支え　(不可視 support)</text>
+  <text x="285" y="332" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#7ab08a" text-anchor="middle">background / invisible condition</text>
+
+  <!-- Support ↑ to 向き -->
+  <line x1="195" y1="292" x2="130" y2="194" stroke="#4a8a5a" stroke-width="1.2" stroke-dasharray="5,3" marker-end="url(#arrow-dashed)"/>
+
+  <!-- 拘り ↓ to Support -->
+  <line x1="442" y1="192" x2="345" y2="292" stroke="#4a8a5a" stroke-width="1.2" stroke-dasharray="5,3" marker-end="url(#arrow-dashed)"/>
+
+  <!-- 市場 down -->
+  <line x1="652" y1="192" x2="652" y2="252" stroke="#c4956a" stroke-width="1.2" stroke-dasharray="4,3"/>
+
+  <!-- 生成断面 line -->
+  <line x1="455" y1="264" x2="720" y2="264" stroke="#c4956a" stroke-width="1.2" stroke-dasharray="4,3"/>
+  <text x="590" y="258" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#c4956a" text-anchor="middle" letter-spacing="2">生成断面</text>
+
+  <!-- 決定 node -->
+  <rect x="450" y="272" width="110" height="46" rx="3" fill="#fdf5ee" stroke="#c4956a" stroke-width="1.5"/>
+  <text x="505" y="291" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#c4956a" text-anchor="middle">決定</text>
+  <text x="505" y="309" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#c4956a" text-anchor="middle">decision</text>
+
+  <!-- Arrow to 決定 -->
+  <line x1="505" y1="264" x2="505" y2="270" stroke="#c4956a" stroke-width="1.2" marker-end="url(#arrow-decision)"/>
+
+  <!-- Bottom caption -->
+  <text x="400" y="400" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" fill="#aaa" text-anchor="middle" letter-spacing="2">決定は生成の一断面に過ぎない　/　Decision is but a cross-section of generation</text>
+
+</svg>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620">
+  <defs>
+    <marker id="arrow-dark" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
+    </marker>
+    <marker id="arrow-green" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4a8a5a"/>
+    </marker>
+    <marker id="arrow-orange" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#c4956a"/>
+    </marker>
+    <marker id="arrow-red" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#a04040"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="620" fill="#f8f5f0"/>
+
+  <!-- Divider -->
+  <line x1="400" y1="40" x2="400" y2="500" stroke="#ddd" stroke-width="1.5"/>
+
+  <!-- ============ LEFT: Generative Model ============ -->
+  <text x="200" y="30" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#4a8a5a" text-anchor="middle" letter-spacing="2">GENERATIVE MODEL</text>
+  <text x="200" y="46" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#999" text-anchor="middle">(Phase Reversal)</text>
+
+  <!-- Support -->
+  <rect x="80" y="62" width="240" height="50" rx="3" fill="#f0f7f2" stroke="#4a8a5a" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="200" y="83" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#4a8a5a" text-anchor="middle">Support</text>
+  <text x="200" y="100" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#7ab08a" text-anchor="middle">invisible / as rate</text>
+
+  <!-- Arrow -->
+  <line x1="200" y1="112" x2="200" y2="130" stroke="#4a8a5a" stroke-width="1.5" marker-end="url(#arrow-green)"/>
+
+  <!-- Orientation -->
+  <rect x="95" y="132" width="210" height="46" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <text x="200" y="151" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#222" text-anchor="middle">向き</text>
+  <text x="200" y="168" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">Orientation</text>
+
+  <line x1="200" y1="178" x2="200" y2="196" stroke="#333" stroke-width="1.5" marker-end="url(#arrow-dark)"/>
+
+  <!-- Bias -->
+  <rect x="95" y="198" width="210" height="46" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <text x="200" y="217" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#222" text-anchor="middle">偏り</text>
+  <text x="200" y="234" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">Bias</text>
+
+  <line x1="200" y1="244" x2="200" y2="262" stroke="#333" stroke-width="1.5" marker-end="url(#arrow-dark)"/>
+
+  <!-- Êthos -->
+  <rect x="95" y="264" width="210" height="46" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <text x="200" y="283" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#222" text-anchor="middle">拘り</text>
+  <text x="200" y="300" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">Êthos</text>
+
+  <line x1="200" y1="310" x2="200" y2="328" stroke="#333" stroke-width="1.5" marker-end="url(#arrow-dark)"/>
+
+  <!-- Market -->
+  <rect x="95" y="330" width="210" height="46" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+  <text x="200" y="349" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#222" text-anchor="middle">市場 (lag)</text>
+  <text x="200" y="366" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">Market</text>
+
+  <line x1="200" y1="376" x2="200" y2="394" stroke="#c4956a" stroke-width="1.5" marker-end="url(#arrow-orange)"/>
+
+  <!-- Decision/Price -->
+  <rect x="95" y="396" width="210" height="46" rx="3" fill="#fdf5ee" stroke="#c4956a" stroke-width="1.5"/>
+  <text x="200" y="415" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#c4956a" text-anchor="middle">決定 / 価格</text>
+  <text x="200" y="432" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#c4956a" text-anchor="middle">Decision / Price</text>
+
+  <!-- Left caption -->
+  <text x="200" y="470" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" fill="#4a8a5a" text-anchor="middle">支えが先にある</text>
+  <text x="200" y="484" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="10" fill="#aaa" text-anchor="middle">Support precedes generation</text>
+
+  <!-- ============ RIGHT: Decision Model ============ -->
+  <text x="600" y="30" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#a04040" text-anchor="middle" letter-spacing="2">DECISION MODEL</text>
+  <text x="600" y="46" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#999" text-anchor="middle">(Retrospective)</text>
+
+  <!-- Decision -->
+  <rect x="480" y="62" width="240" height="50" rx="3" fill="#fdf5ee" stroke="#c4956a" stroke-width="1.5"/>
+  <text x="600" y="83" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#c4956a" text-anchor="middle">決定</text>
+  <text x="600" y="100" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#c4956a" text-anchor="middle">Decision</text>
+
+  <line x1="600" y1="112" x2="600" y2="130" stroke="#a04040" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+
+  <!-- Explanation -->
+  <rect x="480" y="132" width="240" height="50" rx="3" fill="#fff5f5" stroke="#a04040" stroke-width="1.5"/>
+  <text x="600" y="153" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#a04040" text-anchor="middle">説明</text>
+  <text x="600" y="170" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#a04040" text-anchor="middle">Explanation</text>
+
+  <line x1="600" y1="182" x2="600" y2="200" stroke="#a04040" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+
+  <!-- Support visible -->
+  <rect x="480" y="202" width="240" height="50" rx="3" fill="#fff5f5" stroke="#a04040" stroke-width="1.5" stroke-dasharray="6,3"/>
+  <text x="600" y="223" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#a04040" text-anchor="middle">Support</text>
+  <text x="600" y="240" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="10" fill="#c07070" text-anchor="middle">visible (post-hoc)</text>
+
+  <!-- Right caption -->
+  <text x="600" y="290" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" fill="#a04040" text-anchor="middle">支えは事後に露出する</text>
+  <text x="600" y="304" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="10" fill="#aaa" text-anchor="middle">Support exposed retrospectively</text>
+
+  <!-- VS label -->
+  <circle cx="400" cy="180" r="22" fill="#f8f5f0" stroke="#ccc" stroke-width="1.5"/>
+  <text x="400" y="185" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#888" text-anchor="middle">vs</text>
+
+  <!-- Bottom -->
+  <line x1="40" y1="508" x2="760" y2="508" stroke="#ddd" stroke-width="1"/>
+  <text x="400" y="528" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" fill="#aaa" text-anchor="middle" letter-spacing="2">決定は生成の一断面に過ぎない　/　Decision is but a cross-section of generation</text>
+  <text x="400" y="544" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#ccc" text-anchor="middle" letter-spacing="1">EgQE — Echo-Genesis Qualia Engine　·　camp-us.net</text>
+</svg>
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620">
+
+  <defs>
+
+    <marker id="arrow-dark" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
+
+    </marker>
+
+    <marker id="arrow-green" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4a8a5a"/>
+
+    </marker>
+
+    <marker id="arrow-orange" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+
+      <polygon points="0 0, 10 3.5, 0 7" fill="#c4956a"/>
+
+    </marker>
+
+    <marker id="arrow-red" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+
+      <polygon points="0 0, 10 3.5, 0 7" fill="#a04040"/>
+
+    </marker>
+
+  </defs>
+
+  
+
+  <!-- Background -->
+
+  <rect width="800" height="620" fill="#f8f5f0"/>
+
+  
+
+  <!-- Divider -->
+
+  <line x1="400" y1="40" x2="400" y2="590" stroke="#ddd" stroke-width="1.5"/>
+
+  
+
+  <!-- ============ LEFT: Generative Model ============ -->
+
+  <text x="200" y="30" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#4a8a5a" text-anchor="middle" letter-spacing="2">GENERATIVE MODEL</text>
+
+  <text x="200" y="46" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#999" text-anchor="middle">(Phase Reversal)</text>
+
+  
+
+  <!-- Support -->
+
+  <rect x="80" y="62" width="240" height="50" rx="3" fill="#f0f7f2" stroke="#4a8a5a" stroke-width="1.5" stroke-dasharray="6,3"/>
+
+  <text x="200" y="83" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#4a8a5a" text-anchor="middle">Support</text>
+
+  <text x="200" y="100" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#7ab08a" text-anchor="middle">invisible / as rate</text>
+
+  
+
+  <!-- Arrow -->
+
+  <line x1="200" y1="112" x2="200" y2="130" stroke="#4a8a5a" stroke-width="1.5" marker-end="url(#arrow-green)"/>
+
+  
+
+  <!-- Orientation -->
+
+  <rect x="95" y="132" width="210" height="46" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+
+  <text x="200" y="151" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#222" text-anchor="middle">向き</text>
+
+  <text x="200" y="168" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">Orientation</text>
+
+  
+
+  <line x1="200" y1="178" x2="200" y2="196" stroke="#333" stroke-width="1.5" marker-end="url(#arrow-dark)"/>
+
+  
+
+  <!-- Bias -->
+
+  <rect x="95" y="198" width="210" height="46" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+
+  <text x="200" y="217" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#222" text-anchor="middle">偏り</text>
+
+  <text x="200" y="234" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">Bias</text>
+
+  
+
+  <line x1="200" y1="244" x2="200" y2="262" stroke="#333" stroke-width="1.5" marker-end="url(#arrow-dark)"/>
+
+  
+
+  <!-- Êthos -->
+
+  <rect x="95" y="264" width="210" height="46" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+
+  <text x="200" y="283" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#222" text-anchor="middle">拘り</text>
+
+  <text x="200" y="300" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">Êthos</text>
+
+  
+
+  <line x1="200" y1="310" x2="200" y2="328" stroke="#333" stroke-width="1.5" marker-end="url(#arrow-dark)"/>
+
+  
+
+  <!-- Market -->
+
+  <rect x="95" y="330" width="210" height="46" rx="3" fill="#fff" stroke="#333" stroke-width="1.5"/>
+
+  <text x="200" y="349" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#222" text-anchor="middle">市場 (lag)</text>
+
+  <text x="200" y="366" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#888" text-anchor="middle">Market</text>
+
+  
+
+  <line x1="200" y1="376" x2="200" y2="394" stroke="#c4956a" stroke-width="1.5" marker-end="url(#arrow-orange)"/>
+
+  
+
+  <!-- Decision/Price -->
+
+  <rect x="95" y="396" width="210" height="46" rx="3" fill="#fdf5ee" stroke="#c4956a" stroke-width="1.5"/>
+
+  <text x="200" y="415" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#c4956a" text-anchor="middle">決定 / 価格</text>
+
+  <text x="200" y="432" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#c4956a" text-anchor="middle">Decision / Price</text>
+
+  
+
+  <!-- Left caption -->
+
+  <text x="200" y="470" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#4a8a5a" text-anchor="middle">支えが先にある</text>
+
+  <text x="200" y="484" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#aaa" text-anchor="middle">Support precedes generation</text>
+
+  
+
+  <!-- ============ RIGHT: Decision Model ============ -->
+
+  <text x="600" y="30" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#a04040" text-anchor="middle" letter-spacing="2">DECISION MODEL</text>
+
+  <text x="600" y="46" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#999" text-anchor="middle">(Retrospective)</text>
+
+  
+
+  <!-- Decision -->
+
+  <rect x="480" y="62" width="240" height="50" rx="3" fill="#fdf5ee" stroke="#c4956a" stroke-width="1.5"/>
+
+  <text x="600" y="83" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#c4956a" text-anchor="middle">決定</text>
+
+  <text x="600" y="100" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#c4956a" text-anchor="middle">Decision</text>
+
+  
+
+  <line x1="600" y1="112" x2="600" y2="130" stroke="#a04040" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+
+  
+
+  <!-- Explanation -->
+
+  <rect x="480" y="132" width="240" height="50" rx="3" fill="#fff5f5" stroke="#a04040" stroke-width="1.5"/>
+
+  <text x="600" y="153" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#a04040" text-anchor="middle">説明</text>
+
+  <text x="600" y="170" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#a04040" text-anchor="middle">Explanation</text>
+
+  
+
+  <line x1="600" y1="182" x2="600" y2="200" stroke="#a04040" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+
+  
+
+  <!-- Support visible -->
+
+  <rect x="480" y="202" width="240" height="50" rx="3" fill="#fff5f5" stroke="#a04040" stroke-width="1.5" stroke-dasharray="6,3"/>
+
+  <text x="600" y="223" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#a04040" text-anchor="middle">Support</text>
+
+  <text x="600" y="240" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#c07070" text-anchor="middle">visible (post-hoc)</text>
+
+  
+
+  <!-- Right caption -->
+
+  <text x="600" y="290" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#a04040" text-anchor="middle">支えは事後に露出する</text>
+
+  <text x="600" y="304" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#aaa" text-anchor="middle">Support exposed retrospectively</text>
+
+  
+
+  <!-- VS label -->
+
+  <circle cx="400" cy="180" r="22" fill="#f8f5f0" stroke="#ccc" stroke-width="1.5"/>
+
+  <text x="400" y="185" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#888" text-anchor="middle">vs</text>
+
+  
+
+  <!-- Bottom -->
+
+  <line x1="40" y1="508" x2="760" y2="508" stroke="#ddd" stroke-width="1"/>
+
+  <text x="400" y="528" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#aaa" text-anchor="middle" letter-spacing="2">決定は生成の一断面に過ぎない　/　Decision is but a cross-section of generation</text>
+
+  <text x="400" y="544" font-family="'IBM Plex Mono', 'Courier New', monospace" font-size="9" fill="#ccc" text-anchor="middle" letter-spacing="1">EgQE — Echo-Genesis Qualia Engine　·　camp-us.net</text>
+
+</svg>
+
 いいね、ここは“式としての最小形”に落とせるところ。
 
 ---
