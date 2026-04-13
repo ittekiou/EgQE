@@ -1,10 +1,152 @@
 ---
 layout: math
 title: MU-02｜閉包と包放のロンド
-title_en: MU-02｜The Rondo of Closure and Unfolding (A Mathematical Sketch)
+title_en: MU-02｜Closure–Unfolding Rondo (A Minimal Algebraic Model)
 ---
-### A Mathematical Sketch
-# The Rondo of Closure and Unfolding
+# **Closure–Unfolding Rondo**
+## _A Minimal Algebraic Model_
+
+---
+
+## I. Basic Setting
+
+### 1. Closed System (12-Lattice)
+
+Let the 12-tone equal temperament be:
+
+$$  
+\mathbb{Z}_{12}  
+$$
+
+This forms a cyclic group:
+
+$$  
+\mathbb{Z}/12\mathbb{Z}  
+$$
+
+A fully closed circulation.
+
+---
+
+### 2. Unfolding System (7-Selection)
+
+The diatonic set is:
+
+$$  
+S \subset \mathbb{Z}_{12}, \quad |S| = 7  
+$$
+
+This subset is:
+
+- not equidistant
+    
+- not a divisor of 12
+    
+- not a generating set of the full cyclic group
+    
+
+Thus:
+
+> a non-absorptive substructure
+
+---
+
+## II. Formalization of the Rondo Structure
+
+Let time evolution be an action:
+
+$$  
+T : \mathbb{Z}_{12} \to \mathbb{Z}_{12}  
+$$
+
+(e.g., the circle-of-fifths mapping)
+
+Closure:
+
+$$  
+T^{12} \approx \mathrm{id}  
+$$
+
+Unfolding:
+
+$$  
+T^k(S) \neq S \quad \text{for small } k  
+$$
+
+but returns after a longer cycle.
+
+---
+
+## III. Rondo Condition
+
+A rondo is:
+
+$$  
+S \xrightarrow{T} S_1 \xrightarrow{T} S_2 \xrightarrow{T} \dots \xrightarrow{T^m} S  
+$$
+
+with:
+
+$$  
+S_i \neq S \quad (0 < i < m)  
+$$
+
+Thus:
+
+- it returns
+    
+- but is not identical
+    
+- cyclic, yet non-simultaneous
+    
+
+This is lαg.
+
+---
+
+## IV. Singularity of Seven
+
+Why 7?
+
+$$  
+\gcd(7,12) = 1  
+$$
+
+They are coprime.
+
+Thus:
+
+- it is not absorbed into the 12-fold symmetry
+    
+- yet traverses the entire structure under iteration
+    
+
+7 is:
+
+> the minimal non-absorptive resonance size
+
+---
+
+## V. Definition
+
+**The Rondo of Closure and Unfolding is:**
+
+a structure in which a non-absorptive subset $S$  
+within a cyclic group $\mathbb{Z}_{12}$  
+returns to itself under group action,  
+without identity during the cycle.
+
+---
+
+## VI. One-line Summary
+
+12 is a circle.  
+7 is a hinge.  
+The rondo is a spiral within the circle.
+
+---
+
+# Closure–Unfolding Rondo
 # 閉包と包放のロンド
 
 ---
