@@ -82,9 +82,11 @@ Try SyncHub!
 
 # EgQE Core
 
+![lag-bias-generative-phase](./assets/lag-bias-generative-phase.png)  
+
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
-[PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)  
+[PG｜生成の現象学 ── Phenomenology of Genesis (HEG-14-16)](https://camp-us.net/PG.html)  
 [SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
 
 ⏳ [HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)  
