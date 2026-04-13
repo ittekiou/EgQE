@@ -148,6 +148,10 @@ The rondo is a spiral within the circle.
 
 ---
 
+[MU-01｜Golden Heptatonic Spiral Octave Theory](https://camp-us.net/articles/MU-01_Golden-Heptatonic-Spiral-Octave-Theory.html)  
+
+---
+
 # Closure–Unfolding Rondo
 # 閉包と包放のロンド
 
@@ -291,6 +295,10 @@ $$
 12は円。  
 7はヒンジ。  
 ロンドは円内螺旋。
+
+---
+
+[MU-01｜七音黄金螺旋循環オクターブ論](https://camp-us.net/articles/MU-01_Golden-Heptatonic-Spiral-Octave-Theory.html)  
 
 ---
 

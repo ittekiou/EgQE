@@ -284,6 +284,10 @@ This is the Golden Seven.
 
 ---
 
+[MU-01｜Golden Heptatonic Spiral Octave Theory](https://camp-us.net/articles/MU-01_Golden-Heptatonic-Spiral-Octave-Theory.html)  
+
+---
+
 # Golden Seven Rondo Theory
 ## 閉包・包放・最小ヒンジとしての七
 ### ― 比と回転のあいだに持続が生まれる構造理論 ―
@@ -457,6 +461,10 @@ $$
 **Golden Seven Rondo Theory**
 
 である。
+
+---
+
+[MU-01｜七音黄金螺旋循環オクターブ論](https://camp-us.net/articles/MU-01_Golden-Heptatonic-Spiral-Octave-Theory.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
