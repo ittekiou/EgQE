@@ -201,7 +201,7 @@ This produces:
 
 # Definition 2 (Minimal Envelopment Hinge)
 
-A subset $S \subset G$ with $|S|=7$ is called a **minimal non-absorptive hinge** if:
+A subset $S \subset G$ with $\|S\|=7$ is called a **minimal non-absorptive hinge** if:
 
 $$  
 \gcd(|S|, |G|) = 1.  
@@ -369,7 +369,7 @@ $$
 
 - $G=\mathbb{Z}_{12}$：**閉包循環**
     
-- $S\subset G, |S|=7$：**包放回転（非対称部分構造）**
+- $S\subset G, \|S\|=7$：**包放回転（非対称部分構造）**
     
 - $T(x)=x+7$：**閉包循環エンジン**（ピッチクラスでは12で閉じる）
     
