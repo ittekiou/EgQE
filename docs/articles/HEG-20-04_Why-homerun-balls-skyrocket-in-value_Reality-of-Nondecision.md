@@ -385,7 +385,7 @@ support (invisible) → orientation → bias → êthos → market → [price]
 **位相図：**  
 ```
  [向き] ─→ [偏り] ─→ [拘り] ─→ [市場(lag)]  
-	　↑　　　　　　　　　　　　↓   
+	　↑　　　　　　　　　　　↓   
 [支え(不可視support)]  
 	決定←─── 生成断面 ────┘
 ```
