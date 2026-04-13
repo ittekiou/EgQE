@@ -12,6 +12,8 @@ _**HEG-20｜Generative Political Theory** — Before Time —_
 > Trace = Value / Nondecision / Decision
 > Power = Distribution of Bias Persistence
 
+![Lag-Bias-Generation](../assets/Lag-Bias-Generation.png)  
+
 ---
 
 ## Abstract
