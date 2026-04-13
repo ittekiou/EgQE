@@ -26,6 +26,10 @@ From Noise to Notation. From Dialogue to Discovery.
 [HEG-20-04｜ホームランボールはなぜ暴騰するのか ── 非決定の本質｜Why do home run balls skyrocket in value? — The Reality of Nondecision](https://camp-us.net/articles/HEG-20-04_Why-homerun-balls-skyrocket-in-value_Reality-of-Nondecision.html)  
 [HEG-20-04｜向き・偏り・拘りと支えの露出 ── 価値生成の現象学へ｜Orientation, Bias, Êthos, and the Exposure of Support ── Towards Phenomenology of Value Generation](https://camp-us.net/articles/HEG-20-04_Towards_Phenomenology-of-Value-Generation.html)  
 [HEG-20-04｜価値生成の現象学 ── 向き・偏り・拘りと支えの露出｜Phenomenology of Value Generation ── Orientation, Bias, Êthos, and the Exposure of Support](https://camp-us.net/articles/HEG-20-04_Phenomenology-of-Value-Generation.html)  
+###### 2026/04/12  
+[MU-01｜七音黄金螺旋循環オクターブ論｜Golden Heptatonic Spiral Octave Theory](https://camp-us.net/articles/MU-01_Golden-Heptatonic-Spiral-Octave-Theory.html)  
+[MU-02｜閉包と包放のロンド｜The Rondo of Closure and Unfolding (A Mathematical Sketch)](https://camp-us.net/articles/MU-02_Rondo_Closure-Unfolding.html)  
+[MU-03｜Golden Seven Rondo Theory: 閉包・包放・最小ヒンジとしての七 ― 比と回転のあいだに持続が生まれる構造理論 ―｜Closure, Envelopment, and the Minimal Hinge in ℤ₁₂ ― A Structural Account of Heptatonic Persistence Between Ratio and Rotation](https://camp-us.net/articles/MU-03_Golden-Seven-Rondo-Theory.html)  
 ###### 2026/04/11  
 [URL-06｜生命とは何か ── 他者の内部化と再帰｜What is Life? — Recursive Internalization of the Other —](https://camp-us.net/articles/URL-06_What-is-Life_Recursive-Internalization.html)  
 [URL-07｜質量とは何か ── 外部化されたlagとしての接続｜What is Mass? — Externalized Lag as Connection —](https://camp-us.net/articles/URL-07_What-is-Mass_Externalized-Lag.html)  
