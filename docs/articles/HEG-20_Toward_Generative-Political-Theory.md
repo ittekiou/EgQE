@@ -242,8 +242,7 @@ When orientation distributes, bias stabilizes, êthos persists, and support beco
 
 生成政治学とは何か。
 
-それは、政治を決定の結果としてではなく、  
-生成分布として記述する理論である。
+それは、政治を決定の結果としてではなく、生成分布として記述する理論である。
 
 決定は現れる。  
 非決定も現れる。  
