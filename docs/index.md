@@ -82,7 +82,7 @@ Try SyncHub!
 
 # EgQE Core
 
-![lag-bias-generative-phase](./assets/lag-bias-generative-phase.png)  
+![Lag-Bias-Generation](./assets/Lag-Bias-Generation.png)  
 
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
