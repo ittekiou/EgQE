@@ -13,7 +13,7 @@ title_en: "MU-03｜Golden Seven Rondo Theory: Closure, Envelopment, and the Mini
 
 ## Abstract
 
-This paper formalizes the structural relation between the 12-tone pitch-class lattice and the 7-tone heptatonic subset using group-theoretic language. Let $G = \mathbb{Z}_{12}$ denote the cyclic group of pitch classes under addition modulo 12, and let $S \subset G$ with $|S|=7$ represent a heptatonic scale. Under the fifth-map transformation $T(x)=x+7 \pmod{12}$, we prove that while $G$ forms a closed cyclic structure ($T^{12}=\mathrm{id}$), the subset $S$ exhibits non-absorptive rotational persistence due to $\gcd(7,12)=1$. This produces what we define as a **Rondo Structure**: circular closure at the global level and spiral persistence at the subset level. We show that 7 is the minimal cardinality greater than 1 that resists absorption into proper sublattices of $\mathbb{Z}_{12}$. The theory provides a structural reinterpretation of heptatonic musical organization as minimal envelopment-rotation within a closed lattice.
+This paper formalizes the structural relation between the 12-tone pitch-class lattice and the 7-tone heptatonic subset using group-theoretic language. Let $G = \mathbb{Z}_{12}$ denote the cyclic group of pitch classes under addition modulo 12, and let $S \subset G$ with $\|S\|=7$ represent a heptatonic scale. Under the fifth-map transformation $T(x)=x+7 \pmod{12}$, we prove that while $G$ forms a closed cyclic structure ($T^{12}=\mathrm{id}$), the subset $S$ exhibits non-absorptive rotational persistence due to $\gcd(7,12)=1$. This produces what we define as a **Rondo Structure**: circular closure at the global level and spiral persistence at the subset level. We show that 7 is the minimal cardinality greater than 1 that resists absorption into proper sublattices of $\mathbb{Z}_{12}$. The theory provides a structural reinterpretation of heptatonic musical organization as minimal envelopment-rotation within a closed lattice.
 
 ---
 
@@ -107,7 +107,7 @@ We prove:
 **Theorem (Heptatonic Minimality).**  
 In $G=\mathbb{Z}_{12}$, a subset of cardinality 7 is the smallest subset size greater than 1 such that:
 
-1. $\gcd(|S|,12)=1$,
+1. $\gcd(\|S\|,12)=1$,
     
 2. $S$ cannot be absorbed into any proper cyclic substructure of (G),
     
