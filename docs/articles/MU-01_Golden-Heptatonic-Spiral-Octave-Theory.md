@@ -128,6 +128,12 @@ $$
 音楽は不屈の回転の芸術である。
 
 ---
+
+### MUシリーズ
+[MU-02｜閉包と包放のロンド (A Minimal Algebraic Model)](https://camp-us.net/articles/MU-02_Rondo_Closure-Unfolding.html)  
+[MU-03｜Golden Seven Rondo Theory: 閉包・包放・最小ヒンジとしての七 ― 比と回転のあいだに持続が生まれる構造理論 ―](https://camp-us.net/articles/MU-03_Golden-Seven-Rondo-Theory.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
