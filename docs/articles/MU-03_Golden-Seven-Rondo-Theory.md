@@ -9,6 +9,8 @@ title_en: "MU-03｜Golden Seven Rondo Theory: Closure, Envelopment, and the Mini
 # Closure, Envelopment, and the Minimal Hinge in ℤ₁₂
 ## A Structural Account of Heptatonic Persistence Between Ratio and Rotation
 
+_The group-theoretic formalization in this paper serves as supplementary description; the core proposition rests on conceptual observation._
+
 ---
 
 ## Abstract
@@ -285,6 +287,8 @@ This is the Golden Seven.
 # Golden Seven Rondo Theory
 ## 閉包・包放・最小ヒンジとしての七
 ### ― 比と回転のあいだに持続が生まれる構造理論 ―
+
+※本稿の群論的定式化は補強的記述であり、核心命題は概念的観察に基づく。
 
 ---
 

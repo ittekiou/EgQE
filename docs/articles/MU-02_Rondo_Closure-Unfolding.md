@@ -6,6 +6,8 @@ title_en: MU-02｜Closure–Unfolding Rondo (A Minimal Algebraic Model)
 # **Closure–Unfolding Rondo**
 ## _A Minimal Algebraic Model_
 
+_The group-theoretic formalization in this paper serves as supplementary description; the core proposition rests on conceptual observation._
+
 ---
 
 ## I. Basic Setting
@@ -148,6 +150,8 @@ The rondo is a spiral within the circle.
 
 # Closure–Unfolding Rondo
 # 閉包と包放のロンド
+
+※本稿の群論的定式化は補強的記述であり、核心命題は概念的観察に基づく。
 
 ---
 
