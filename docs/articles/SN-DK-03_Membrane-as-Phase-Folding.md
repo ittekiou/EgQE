@@ -137,7 +137,7 @@ DK-03：膜（折り返し）
 
 [SN-DK-01](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)：構造（静寂）
 [SN-DK-02](https://camp-us.net/articles/SN-DK-02_Darkness-as-Phase-Difference.html)：位相差（揺らぎ）
-SN-DK-03：膜（折り返し）
+SN-DK-03：膜＝折り返し（現れ）
 
 [PRT-03｜Minimum Lag and the Origin of c](https://camp-us.net/articles/PRT-03_Minimum-Lag_Origin-of_c.html)  
 [SX-08｜Particle Spectrum in ΔR–ΔZ Space — Tri-Layer Syntax Map](https://camp-us.net/articles/SX-08_Particle_Spectrum_DeltaR_DeltaZ.html)  
