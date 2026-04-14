@@ -127,11 +127,11 @@ _比は、残る。_
 
 ---
 
-[URL-Core](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)：公理
-[URL-00](https://camp-us.net/articles/URL-00_Lag-Ontology-Extended_Update-Rates.html)：転位（lag）
-[URL-01](https://camp-us.net/articles/URL-01_Rate-Reconfiguration_Speed-Time-Force-Weight.html)：再配置（物理量）
+[URL-Core](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)：公理  
+[URL-00](https://camp-us.net/articles/URL-00_Lag-Ontology-Extended_Update-Rates.html)：転位（lag）  
+[URL-01](https://camp-us.net/articles/URL-01_Rate-Reconfiguration_Speed-Time-Force-Weight.html)：再配置（物理量）  
 [URL-01-v0.2](https://camp-us.net/articles/URL-01-v0.2_Rate Reconfiguration_Speed-Time-Force-Weight.html)：再定義（物理量）  
-URL-EX-01：内部構造（今回）
+URL-EX-01：内部構造（今回）  
 
 ---
 
