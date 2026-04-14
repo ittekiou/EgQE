@@ -20,6 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/04/14  
 [SN-DK-02｜暗闇は光の不在ではなく位相差である｜Darkness as Phase Difference](https://camp-us.net/articles/SN-DK-02_Darkness-as-Phase-Difference.html)  
 [SN-DK-03｜膜が位相差を折り返す｜Membrane as Phase Folding](https://camp-us.net/articles/SN-DK-03_Membrane-as-Phase-Folding.html)  
+[URL-EX-01｜三層更新レートと生成順の再定義｜Multi-Layered Rate Mismatch](https://camp-us.net/articles/URL-EX-01_Multi-Layered-Rate-Mismatch.html)  
 ###### 2026/04/13  
 [HEG-20｜生成政治学へ向けて｜Toward Generative Political Theory](https://camp-us.net/articles/HEG-20_Toward_Generative-Political-Theory.html)  
 [HEG-20-01｜生成政治学 ── 時間の手前における生成系列｜Generative Political Theory ── Before Time: What Is a Generative Sequence?](https://camp-us.net/articles/HEG-20-01_Generative-Political-Theory.html)  
