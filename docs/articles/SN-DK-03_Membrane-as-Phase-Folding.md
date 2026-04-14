@@ -103,7 +103,7 @@ title_en: SN-DK-03｜Membrane as Phase Folding
 
 # Proposition
 
-膜とは、位相差の折り返しである。
+膜とは、位相差（レート不一致）の折り返しである。
 
 ---
 
@@ -126,23 +126,29 @@ _膜は変換ではない。一瞬の持続である。_
 👉 [SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
 
 ```
-DK-02：位相差（揺らぎ）
+ΔR（分布）
 ↓
-DK-03：膜（折り返し）
+rate mismatch（lag）
+↓
+phase difference（DK-02）
+↓
+membrane folding（DK-03）
 ↓
 持続（瞬間）
 ↓
 ΔZ（現れ）
 ```
 
-[SN-DK-01](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)：構造（静寂）
-[SN-DK-02](https://camp-us.net/articles/SN-DK-02_Darkness-as-Phase-Difference.html)：位相差（揺らぎ）
-SN-DK-03：膜＝折り返し（現れ）
+[SN-DK-01](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)：構造（静寂）  
+[SN-DK-02](https://camp-us.net/articles/SN-DK-02_Darkness-as-Phase-Difference.html)：位相差（揺らぎ）  
+SN-DK-03：膜＝折り返し（現れ）  
 
 [PRT-03｜Minimum Lag and the Origin of c](https://camp-us.net/articles/PRT-03_Minimum-Lag_Origin-of_c.html)  
 [SX-08｜Particle Spectrum in ΔR–ΔZ Space — Tri-Layer Syntax Map](https://camp-us.net/articles/SX-08_Particle_Spectrum_DeltaR_DeltaZ.html)  
 [SX-11｜Membrane — The Condition of Appearance](https://camp-us.net/articles/SX-11_Membrane_Condition-of-Appearance.html)  
 [SN-LT-09｜Kamiokande — The Moment of Appearance](https://camp-us.net/articles/SN-LT-09_Kamiokande_Moment-of-Appearance.html)  
+
+[URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 ---
 

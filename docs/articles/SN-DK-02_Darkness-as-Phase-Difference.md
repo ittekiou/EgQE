@@ -130,12 +130,14 @@ _光を定義し続けていたら、暗闇が更新された。_
 暗闇：phase（位相）
 ```
 
-[SN-LT-03](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)：光 = happening（出来事）
-[SN-LT-06](https://camp-us.net/articles/SN-LT-06_Candle_Fluctuation.html)：光 = fluctuation（揺らぎ）
-SN-DK-02：暗闇 = phase（位相差）
+[SN-LT-03](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)：光 = happening（出来事）  
+[SN-LT-06](https://camp-us.net/articles/SN-LT-06_Candle_Fluctuation.html)：光 = fluctuation（揺らぎ）  
+SN-DK-02：暗闇 = phase（位相差）  
 
-[SN-DK-01](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)：構造（静寂）Encounterなし
-SN-DK-02：現象（揺らぎ）
+[SN-DK-01](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)：構造（静寂）Encounterなし  
+SN-DK-02：現象（揺らぎ）  
+
+[URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 ---
 

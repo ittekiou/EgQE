@@ -213,6 +213,24 @@ It appears.
 
 ---
 
+```
+ΔR（ニュートリノ通過）
+↓
+膜（水タンク）
+↓
+位相折り返し
+↓
+ΔZ（チェレンコフリング）
+```
+
+```
+S_R ≠ S'_R（粒子のズレ）
+↓
+膜で同期ズレが折り返し
+↓
+S_Zに投影（リング）
+```
+
 [SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
 
 _光は膜で終わらない_  
