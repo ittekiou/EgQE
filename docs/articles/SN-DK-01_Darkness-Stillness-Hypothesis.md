@@ -286,22 +286,17 @@ Darkness    Encounter
 
 ---
 
+[SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
+
 [SN-LT-10](https://camp-us.net/articles/SN-LT-10_Light-as-Background_Shadow-and-Shade.html)：影と陰（Light as Background）  
 [SN-LT-11](https://camp-us.net/articles/SN-LT-11_Shadow-as-Background_Dappled-Sunlight.html)：木洩れ日（Shadow as Background）  
+
+[SN-DK-02](https://camp-us.net/articles/SN-DK-02_Darkness-as-Phase-Difference.html)：暗闇＝位相差（Darkness as Phase Difference）  
 
 ----
 **The Age of Inter-Phase**  
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
-
----
-### 暗闇と光の**分岐**シリーズ
-[SN-DK-01｜暗闇は関係静寂の現れである](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)  
-[SN-LT-01｜光は遭遇の現れである](https://camp-us.net/articles/SN-LT-01_Encounter-Luminous-Hypothesis_Light-as-Appearance-of-Encounter.html)  
-[SN-LT-02｜光は反復する遭遇の連鎖である](https://camp-us.net/articles/SN-LT-02_Light-Propagation-Genesis.html)  
-[SN-LT-03｜光はハプニングである](https://camp-us.net/articles/SN-LT-03_Light-as-Happening.html)  
-[SN-META-01｜生成する生成構文](https://camp-us.net/articles/SN-META-01_Meta-Genesis-of-Propagation.html)  
-[SN-IP-01｜Inter-Phase Definition](https://camp-us.net/articles/SN-IP-01_Inter-Phase-Definition.html)  
 
 ---
 © 2025 K.E. Itekki  

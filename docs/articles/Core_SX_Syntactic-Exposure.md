@@ -113,6 +113,7 @@ _影が光を呼び起こす_
 [SN-LT-11](https://camp-us.net/articles/SN-LT-11_Shadow-as-Background_Dappled-Sunlight.html)：木洩れ日（Shadow as Background）  
 
 [SN-DK-01｜暗闇は関係静寂の現れである](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)  
+[SN-DK-02｜暗闇は光の不在ではなく位相差である](https://camp-us.net/articles/SN-DK-02_Darkness-as-Phase-Difference.html)  
 
 ```
 膜     影
