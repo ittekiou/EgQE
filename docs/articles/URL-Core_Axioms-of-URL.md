@@ -82,6 +82,10 @@ the world emerges.
 
 ---
 
+- [URL-EX-01｜三層更新レートと生成順の再定義｜Multi-Layered Rate Mismatch](https://camp-us.net/articles/URL-EX-01_Multi-Layered-Rate-Mismatch.html)  
+
+---
+
 The universe is not made of matter and energy,  
 but of lag in different modes of persistence.
 
