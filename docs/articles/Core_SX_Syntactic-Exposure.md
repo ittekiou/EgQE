@@ -114,6 +114,8 @@ _影が光を呼び起こす_
 
 [SN-DK-01｜暗闇は関係静寂の現れである](https://camp-us.net/articles/SN-DK-01_Darkness-Stillness-Hypothesis.html)  
 [SN-DK-02｜暗闇は光の不在ではなく位相差である](https://camp-us.net/articles/SN-DK-02_Darkness-as-Phase-Difference.html)  
+[SN-DK-03｜膜が位相差を折り返す](https://camp-us.net/articles/SN-DK-03_Membrane-as-Phase-Folding.html)  
+
 
 ```
 膜     影
