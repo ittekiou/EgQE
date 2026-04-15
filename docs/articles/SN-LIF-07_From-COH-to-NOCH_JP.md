@@ -78,9 +78,7 @@ COHは、代謝の系を記述する。だがその記述は、基本的に**閉
 
 言い換えれば、COHは **閉包の生命**を語ることはできても、**折れとしての生命**をまだ語れない。
 
-![coh_noch](../assets/coh_noch.png)  
-
-> **Figure 1.** Syntactic transition from COH to NOCH. The diagram illustrates the shift from a closure-oriented metabolic model toward a non-closure model structured by fold, orientation, and informational emergence. Nitrogen (N) is positioned as the phase of fold, while hydrogen (H) functions as the mediating lag-phase that sustains flow across structural fixation.
+![coh_noch_cap](../assets/coh_noch_cap.png)  
 
 > **図1｜COHからNOCHへの構文的転回。** 本図は、閉包的な代謝モデルから、折れ・向き・情報生成を中心とする非閉包モデルへの移行を示す。Nは折れの位相、Hは流れを持続させる媒介＝lag位相として位置づけられる。
 
@@ -193,6 +191,10 @@ Cは支える。Nは向ける。
 支えだけでは、ただ閉じる。向きだけでは、持続できない。
 
 生命とは、**支えと向きがずれながら共存する系**である。
+
+![support_orientation_split](../assets/support_orientation_split.png)  
+
+> **図2｜支え（C）と向き（N）の分離。** 生命は両者の一致からではなく、その持続的な非一致から生じる。このわずかなズレがlagであり、支えを崩さずに向きを生み出す条件となる。
 
 ---
 

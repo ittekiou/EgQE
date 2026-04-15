@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2200" viewBox="0 0 1600 2200">
+  <rect width="100%" height="100%" fill="white"/>
+  <style>
+    .title { font-family: Helvetica, Arial, sans-serif; font-size: 44px; fill: #000; font-weight: 400; }
+    .subtitle { font-family: Helvetica, Arial, sans-serif; font-size: 26px; fill: #000; font-weight: 400; }
+    .label { font-family: Helvetica, Arial, sans-serif; font-size: 34px; fill: #000; font-weight: 400; }
+    .body { font-family: Helvetica, Arial, sans-serif; font-size: 30px; fill: #000; font-weight: 400; }
+    .caption { font-family: Helvetica, Arial, sans-serif; font-size: 24px; fill: #000; font-weight: 400; }
+    .line { stroke: #000; stroke-width: 2; fill: none; }
+    .thin { stroke: #000; stroke-width: 1.5; fill: none; }
+  </style>
+
+  <text x="800" y="110" text-anchor="middle" class="title">Figure 2 | Support–Orientation Split</text>
+  <text x="800" y="155" text-anchor="middle" class="subtitle">Persistent Non-coincidence in Life</text>
+
+  <circle cx="760" cy="900" r="8" fill="#000"/>
+  <line x1="330" y1="900" x2="1190" y2="900" class="line"/>
+
+  <line x1="760" y1="900" x2="760" y2="1350" class="line"/>
+  <polygon points="760,1380 748,1357 772,1357" fill="#000"/>
+
+  <line x1="790" y1="900" x2="790" y2="450" class="line"/>
+  <polygon points="790,420 778,443 802,443" fill="#000"/>
+
+  <line x1="760" y1="900" x2="790" y2="840" class="thin"/>
+  <line x1="760" y1="900" x2="790" y2="960" class="thin"/>
+
+  <text x="790" y="340" text-anchor="middle" class="label">Orientation (N)</text>
+  <text x="790" y="390" text-anchor="middle" class="body">opening / direction / selection</text>
+
+  <text x="760" y="1480" text-anchor="middle" class="label">Support (C)</text>
+  <text x="760" y="1530" text-anchor="middle" class="body">skeleton / stability / closure</text>
+
+  <text x="1240" y="885" text-anchor="start" class="body">life-system</text>
+  <text x="830" y="890" text-anchor="start" class="body">lag</text>
+
+  <line x1="220" y1="1670" x2="1380" y2="1670" class="thin"/>
+
+  <text x="800" y="1760" text-anchor="middle" class="body">Life emerges not from coincidence,</text>
+  <text x="800" y="1810" text-anchor="middle" class="body">but from the persistent non-coincidence</text>
+  <text x="800" y="1860" text-anchor="middle" class="body">between support and orientation.</text>
+
+  <text x="220" y="1980" class="caption">
+    Figure 2. The separation of support (C) and orientation (N). Life emerges not from their
+  </text>
+  <text x="220" y="2015" class="caption">
+    coincidence, but from their persistent non-coincidence. The slight misalignment represents lag,
+  </text>
+  <text x="220" y="2050" class="caption">
+    through which orientation can arise without collapsing support.
+  </text>
+</svg>

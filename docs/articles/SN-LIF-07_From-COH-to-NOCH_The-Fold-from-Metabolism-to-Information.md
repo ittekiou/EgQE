@@ -230,6 +230,10 @@ Orientation alone cannot persist.
 
 Life emerges through their **non-coincident coupling**.
 
+![support_orientation_split](../assets/support_orientation_split.svg)  
+**Figure 2.** The separation of support (C) and orientation (N).  
+Life emerges not from their coincidence, but from their persistent non-coincidence. The slight misalignment represents lag, through which orientation can arise without collapsing support.
+
 ---
 
 ## **9. Minimal Propositions**
@@ -523,6 +527,10 @@ Nは、**折れの物質的位相**である。
 Cは支え、Nは向ける。
 
 生命はこの両者の**非一致的結合**によって成立する。
+
+![support_orientation_split](../assets/support_orientation_split.svg)  
+**図2｜支え（C）と向き（N）の分離。**  
+生命は両者の一致からではなく、その持続的な非一致から生じる。このわずかなズレがlagであり、支えを崩さずに向きを生み出す条件となる。
 
 ---
 
