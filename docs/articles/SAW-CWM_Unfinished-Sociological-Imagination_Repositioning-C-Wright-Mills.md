@@ -231,7 +231,7 @@ milieu (ΔR ≫ ΔZ)                            trouble ⇄ issue
 	institution (ΔZ ≫ ΔR)               ← invisible support →
 ```
 
-**Figure 1. Social Structure as Generative Circulation**  
+**Figure 1. Social Structure as Generative Asymmetry**  
 この図は、生成場（milieu → character → institution）と循環（trouble ⇄ issue）の二重構造を示す。invisible support が両者を支えつつ不可視であることが、社会の生成条件を露呈する。  
 Generative field (milieu → character → institution) and circulation (trouble ⇄ issue via asymmetric ΔR–ΔZ, exposing invisible support).
 
