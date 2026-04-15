@@ -204,6 +204,20 @@ individual → relation → structure
 
 ---
 
+```
+[ GENERATIVE FIELD ]                         [ CIRCULATION ]
+
+milieu (ΔR ≫ ΔZ)                            trouble ⇄ issue
+        │                                           │
+        │                                           │
+(Sign Act / Inter-Phase / character)   asymmetric ΔR–ΔZ circulation
+        │                                           │
+        │                                           │
+	institution (ΔZ ≫ ΔR)               ← invisible support →
+```
+
+---
+
 C. Wright Mills は、troubleとissueの関係を「sociological imagination」によって媒介した。
 
 しかし、この媒介は生成機構ではなく、教養としての知的作法（craftsmanship）にとどまる。
