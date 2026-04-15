@@ -434,7 +434,8 @@ ground = fiction
 
 ---
 _社会構造生成論としての構文的キャラクター論（Draft v0.2） — Inter-Phase Social Genesis_  
-[HEG-15｜社会構造生成論としての構文的キャラクター論（v0.1）](https://camp-us.net/articles/HEG-15_Syntactic-Character-Theory-of-Social-Structure-Genesis.html)  
+
+👉 [HEG-15｜社会構造生成論としての構文的キャラクター論（v0.1）](https://camp-us.net/articles/HEG-15_Syntactic-Character-Theory-of-Social-Structure-Genesis.html)  
 
 ---
 
