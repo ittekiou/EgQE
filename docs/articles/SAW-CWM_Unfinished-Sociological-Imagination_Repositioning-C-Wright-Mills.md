@@ -41,6 +41,8 @@ a way of thinkingとしての社会学的想像力については多くが語ら
 
 だが、issue-trouble論とmilieu論については、十分に受け継がれ展開されてきたとは言い難い。
 
+---
+
 # issue-trouble論の射程
 
 社会理論は、関係を導入してきた。
