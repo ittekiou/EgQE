@@ -202,6 +202,8 @@ individual → relation → structure
 
 > **radicalismとは、前提を外し、生成の非対称構文を露出させることである。**
 
+これは、構造機能主義の「中立性」を拒否し、権力を均衡ではなく循環として捉えたミルズ自身のラディカリズムと呼応する。
+
 👉 [HEG-15｜思想のradicalismとはなにか ── Epoché as Exposure と C. Wright Mills](https://camp-us.net/articles/HEG-15_Wright-Mills-as-radical.html)
 
 ---
