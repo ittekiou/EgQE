@@ -8,7 +8,9 @@ title_en: SN-LIF-RN-07｜Positioning the COH→NOCH Turn — A Differential Note
 # **Positioning the COH→NOCH Turn**
 ## **— A Differential Note on Metabolism, Information, and Syntax —**
 
-[SN-LIF-07｜COHからNOCHへ ── 代謝から情報への折れ｜From COH to NOCH — The Fold from Metabolism to Information](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_The-Fold-from-Metabolism-to-Information.html)  
+> The study of life has traditionally been organized around metabolism. In origin-of-life research, the metabolism-first hypothesis posits that self-sustaining chemical reaction networks constitute the primordial condition of life, with carbon-based organic structures occupying a central role. Antoni Kępiński, in turn, conceptualized life as a dual process of energy metabolism and information metabolism, incorporating environmental exchange into the conditions of persistence. Contemporary biochemistry further identifies the coupling of carbon and nitrogen metabolism as a fundamental structural feature of living systems, treating nitrogen as a constituent of amino acids and nucleic acids, and hydrogen as a mediator of reduction and energy transfer. The present study, however, does not remain at the level of functional characterization. Instead, it repositions COH as a closure-oriented metabolic syntax and NOCH as a non-closure syntax structured by fold, thereby reinterpreting elemental composition itself as a syntactic configuration of life.
+
+[SN-LIF-07｜From COH to NOCH — The Fold from Metabolism to Information](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_The-Fold-from-Metabolism-to-Information.html)  
 
 ---
 
@@ -309,6 +311,10 @@ but because they mark the terrain from which the present proposal departs.
 # **COH→NOCH転回の位置づけ**
 ## **— 代謝・情報・構文をめぐる差分整理ノート —**
 
+> 生命の理解は、従来、代謝を中心に組み立てられてきた。生命起源研究における代謝中心仮説は、自己持続的な化学反応ネットワークを生命の原初的条件とみなし、炭素とその有機骨格を中心に据える。また Antoni Kępiński は、生命をエネルギー代謝と情報代謝の二重過程として捉え、環境との情報交換を生命維持の条件に含めた。さらに現代の生化学では、炭素代謝と窒素代謝の結合が生命の基本構造として広く認識され、窒素はアミノ酸・核酸の構成要素として、水素は還元およびエネルギー媒介として理解されている。しかし本稿の関心は、これらを機能的要素として列挙することにはない。むしろ COH を閉包的な代謝構文、NOCH を折れを含む非閉包的構文として対置し、元素配列そのものを生命の構文位相として再配置する点に本稿の提案がある。
+
+[SN-LIF-07｜COHからNOCHへ ── 代謝から情報への折れ](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_The-Fold-from-Metabolism-to-Information.html)  
+
 ---
 
 ## **0｜本ノートの目的**
@@ -547,6 +553,10 @@ COHからNOCHへ。
 代謝は折れて  
 向きとなりつつ  
 情報へ
+
+---
+
+[SN-LIF-07｜COHからNOCHへ ー 代謝から情報への折れ ー](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_JP.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
