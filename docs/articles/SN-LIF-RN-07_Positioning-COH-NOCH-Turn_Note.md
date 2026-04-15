@@ -269,14 +269,10 @@ The novelty of this proposal does not lie simply in linking metabolism and infor
 
 Its novelty lies in **repositioning them within a single syntactic structure of fold**.
 
-From COH to NOCH.
+**This note therefore does not extend existing theories of metabolism or information, but shifts the level of description itself—from function to syntax.**
 
-This is not:
-
-- merely a rearrangement of elements,
-    
-- nor simply an extension of existing metabolic theory.
-    
+From COH to NOCH.  
+This is not merely a rearrangement of elements, nor simply an extension of metabolic theory.  
 
 It is a **phase shift in the understanding of life**.
 
@@ -518,7 +514,7 @@ Hは「向きを生まないが、向きを通す」
 
 ---
 
-## **7｜位置づけ（重要）**
+## **7｜位置づけ**
 
 本稿の立場は以下である：
 
