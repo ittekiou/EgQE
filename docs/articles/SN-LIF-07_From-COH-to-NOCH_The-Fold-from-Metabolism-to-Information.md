@@ -137,8 +137,8 @@ It represents the **phase of folding** that interrupts closure
 and introduces directional asymmetry into the system.
 
 ![coh_noch](../assets/coh_noch_syntactic_transition.svg)  
-**Figure 1.** Syntactic transition from COH to NOCH.  
-The diagram illustrates the shift from a closure-oriented metabolic model toward a non-closure model structured by fold, orientation, and informational emergence. Nitrogen (N) is positioned as the phase of fold, while hydrogen (H) functions as the mediating lag-phase that sustains flow across structural fixation.
+**Figure 1. Syntactic transition from COH to NOCH.**  
+This diagram represents the shift from a closure-oriented metabolic model to a non-closure model structured by fold, orientation, and informational emergence. Nitrogen (N) is positioned as the phase of fold, while hydrogen (H) functions as the mediating lag-phase that sustains flow across structural fixation.
 
 ---
 
@@ -231,8 +231,8 @@ Orientation alone cannot persist.
 Life emerges through their **non-coincident coupling**.
 
 ![support_orientation_split](../assets/support_orientation_split.svg)  
-**Figure 2.** The separation of support (C) and orientation (N).  
-Life emerges not from their coincidence, but from their persistent non-coincidence. The slight misalignment represents lag, through which orientation can arise without collapsing support.
+**Figure 2. Separation of support (C) and orientation (N).**  
+Life emerges not from their coincidence, but from their persistent non-coincidence. The slight misalignment marks lag, through which orientation can arise without collapsing support.
 
 ---
 

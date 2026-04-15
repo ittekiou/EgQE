@@ -29,6 +29,10 @@ More specifically, it seeks to clarify three points:
 
 This note is therefore not a defense of empirical replacement, but a clarification of **theoretical placement**.
 
+Life has been discussed across several adjacent lineages of thought. The metabolism-first hypothesis treats life as a self-sustaining chemical network, while Kępiński’s information metabolism emphasizes the exchange of energy and information with the environment. Contemporary biochemistry further recognizes the coupling of carbon and nitrogen metabolism as a fundamental structural feature of living systems.
+
+The present note does not reproduce these frameworks, but positions them as a terrain from which the COH→NOCH turn departs. Its aim is to clarify that NOCH is not an empirical replacement, but a syntactic reconfiguration of life’s basic organization.
+
 ---
 
 ## **1. Adjacent Lineages**
