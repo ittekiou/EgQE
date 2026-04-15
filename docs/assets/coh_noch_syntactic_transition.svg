@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2200" viewBox="0 0 1600 2200">
+  <rect width="100%" height="100%" fill="white"/>
+  <style>
+    .title { font-family: Helvetica, Arial, sans-serif; font-size: 44px; fill: #000; font-weight: 400; }
+    .subtitle { font-family: Helvetica, Arial, sans-serif; font-size: 26px; fill: #000; font-weight: 400; }
+    .label { font-family: Helvetica, Arial, sans-serif; font-size: 34px; fill: #000; font-weight: 400; }
+    .small { font-family: Helvetica, Arial, sans-serif; font-size: 28px; fill: #000; font-weight: 400; }
+    .body { font-family: Helvetica, Arial, sans-serif; font-size: 30px; fill: #000; font-weight: 400; }
+    .caption { font-family: Helvetica, Arial, sans-serif; font-size: 24px; fill: #000; font-weight: 400; }
+    .line { stroke: #000; stroke-width: 2; fill: none; }
+    .thin { stroke: #000; stroke-width: 1.5; fill: none; }
+  </style>
+
+  <!-- Title -->
+  <text x="800" y="110" text-anchor="middle" class="title">Figure 1 | From COH to NOCH</text>
+  <text x="800" y="155" text-anchor="middle" class="subtitle">Syntactic Transition of Life</text>
+
+  <!-- Main vertical axis -->
+  <text x="800" y="320" text-anchor="middle" class="label">COH (closure)</text>
+  <line x1="800" y1="350" x2="800" y2="455" class="line"/>
+  <polygon points="800,485 788,462 812,462" fill="#000"/>
+
+  <text x="800" y="570" text-anchor="middle" class="label">fold (N)</text>
+  <line x1="800" y1="600" x2="800" y2="705" class="line"/>
+  <polygon points="800,735 788,712 812,712" fill="#000"/>
+
+  <text x="800" y="820" text-anchor="middle" class="label">NOCH (non-closure)</text>
+
+  <!-- Transition lines -->
+  <text x="520" y="930" text-anchor="middle" class="body">metabolism</text>
+  <line x1="640" y1="920" x2="960" y2="920" class="thin"/>
+  <polygon points="990,920 967,908 967,932" fill="#000"/>
+  <text x="1135" y="930" text-anchor="middle" class="body">information</text>
+
+  <text x="520" y="990" text-anchor="middle" class="body">structure</text>
+  <line x1="640" y1="980" x2="960" y2="980" class="thin"/>
+  <polygon points="990,980 967,968 967,992" fill="#000"/>
+  <text x="1135" y="990" text-anchor="middle" class="body">orientation</text>
+
+  <!-- Divider -->
+  <line x1="220" y1="1080" x2="1380" y2="1080" class="thin"/>
+
+  <!-- Middle section -->
+  <text x="500" y="1180" text-anchor="middle" class="label">N (7)</text>
+  <line x1="390" y1="1205" x2="610" y2="1205" class="thin"/>
+  <text x="500" y="1275" text-anchor="middle" class="body">fold</text>
+  <text x="500" y="1335" text-anchor="middle" class="body">orientation</text>
+  <text x="500" y="1395" text-anchor="middle" class="body">pivot</text>
+
+  <text x="1100" y="1180" text-anchor="middle" class="label">H (1)</text>
+  <line x1="930" y1="1205" x2="1270" y2="1205" class="thin"/>
+  <text x="1100" y="1275" text-anchor="middle" class="body">mediation</text>
+  <text x="1100" y="1335" text-anchor="middle" class="body">lag</text>
+  <text x="1100" y="1395" text-anchor="middle" class="body">passage of difference</text>
+  <text x="1100" y="1455" text-anchor="middle" class="body">sustaining flow</text>
+
+  <!-- Divider -->
+  <line x1="220" y1="1540" x2="1380" y2="1540" class="thin"/>
+
+  <!-- Bottom comparisons -->
+  <text x="520" y="1650" text-anchor="middle" class="body">metabolism vs information</text>
+  <line x1="770" y1="1640" x2="930" y2="1640" class="thin"/>
+  <polygon points="960,1640 937,1628 937,1652" fill="#000"/>
+  <text x="1130" y="1650" text-anchor="middle" class="body">fold within one syntax</text>
+
+  <text x="520" y="1740" text-anchor="middle" class="body">N: component</text>
+  <line x1="770" y1="1730" x2="930" y2="1730" class="thin"/>
+  <polygon points="960,1730 937,1718 937,1742" fill="#000"/>
+  <text x="1130" y="1740" text-anchor="middle" class="body">fold-phase</text>
+
+  <text x="520" y="1830" text-anchor="middle" class="body">H: energy carrier</text>
+  <line x1="770" y1="1820" x2="930" y2="1820" class="thin"/>
+  <polygon points="960,1820 937,1808 937,1832" fill="#000"/>
+  <text x="1130" y="1830" text-anchor="middle" class="body">lag-mediation</text>
+
+  <!-- Caption -->
+  <text x="220" y="1970" class="caption">
+    Figure 1. Syntactic transition from COH to NOCH. The diagram illustrates the shift from a
+  </text>
+  <text x="220" y="2005" class="caption">
+    closure-oriented metabolic model toward a non-closure model structured by fold, orientation,
+  </text>
+  <text x="220" y="2040" class="caption">
+    and informational emergence. Nitrogen (N) is positioned as the phase of fold, while hydrogen
+  </text>
+  <text x="220" y="2075" class="caption">
+    (H) functions as the mediating lag-phase that sustains flow across structural fixation.
+  </text>
+</svg>
