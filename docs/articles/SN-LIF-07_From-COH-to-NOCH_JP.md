@@ -7,6 +7,8 @@ title: SN-LIF-07｜COHからNOCHへ ー 代謝から情報への折れ ー
 
 > 生命は長く代謝として理解されてきた。代謝中心仮説は自己持続的な化学ネットワークを生命の原初的条件とみなし、Kępiński は生命をエネルギー代謝と情報代謝の二重過程として捉えた。さらに生化学は炭素代謝と窒素代謝の結合を生命の基本構造として明らかにしてきた。しかし本稿は、代謝と情報を別個の機能領域として並べるのではなく、COH を閉じる構文、NOCH を折れを含む開いた構文として対置し、元素配列そのものを生命の構文位相として再配置する。
 
+> Life has long been understood in terms of metabolism. The metabolism-first hypothesis frames life as a self-sustaining chemical network centered on carbon, while Kępiński described life as a dual process of energy and information metabolism. Biochemistry further recognizes the coupling of carbon and nitrogen metabolism as a fundamental structure of living systems. However, rather than treating metabolism and information as separate domains, this paper reconfigures COH as a closure-oriented syntax and NOCH as an open, fold-based syntax, thereby repositioning elemental composition itself as a syntactic phase of life, rather than merely a set of functional components.
+
 [SN-LIF-07｜From COH to NOCH — The Fold from Metabolism to Information](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_The-Fold-from-Metabolism-to-Information.html)  
 [SN-LIF-RN-07｜COH→NOCH転回の位置づけ — 代謝・情報・構文をめぐる差分整理ノート](https://camp-us.net/articles/SN-LIF-RN-07_Positioning-COH-NOCH-Turn_Note.html)  
 
