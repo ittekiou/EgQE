@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-LIF-07｜COHからNOCHへ ー 代謝から情報への折れ ー](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_JP.html)  
 [SN-LIF-07｜COHからNOCHへ ── 代謝から情報への折れ｜From COH to NOCH — The Fold from Metabolism to Information](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_The-Fold-from-Metabolism-to-Information.html)  
 [SN-LIF-RN-07｜COH→NOCH転回の位置づけ — 代謝・情報・構文をめぐる差分整理ノート｜Positioning the COH→NOCH Turn — A Differential Note on Metabolism, Information, and Syntax](https://camp-us.net/articles/SN-LIF-RN-07_Positioning-COH-NOCH-Turn_Note.html)  
+[SAW-CWM｜C. Wright Millsの再定位──未完の社会学的想像力｜Repositioning C. Wright Mills: The Unfinished Sociological Imagination ── From Interpreted Structure to Exposed Support](https://camp-us.net/articles/SAW-CWM_Unfinished-Sociological-Imagination_Repositioning-C-Wright-Mills.html)  
 ###### 2026/04/14  
 [SN-DK-02｜暗闇は光の不在ではなく位相差である｜Darkness as Phase Difference](https://camp-us.net/articles/SN-DK-02_Darkness-as-Phase-Difference.html)  
 [SN-DK-03｜膜が位相差を折り返す｜Membrane as Phase Folding](https://camp-us.net/articles/SN-DK-03_Membrane-as-Phase-Folding.html)  
