@@ -233,7 +233,6 @@ milieu (ΔR ≫ ΔZ)                            trouble ⇄ issue
 
 **Figure 1. Social Structure as Generative Asymmetry**  
 この図は、生成場（milieu → character → institution）と循環（trouble ⇄ issue）の二重構造を示す。invisible support が両者を支えつつ不可視であることが、社会の生成条件を露呈する。  
-Generative field (milieu → character → institution) and circulation (trouble ⇄ issue via asymmetric ΔR–ΔZ, exposing invisible support).
 
 ---
 
@@ -287,6 +286,188 @@ The market exposes it.
 ---
 
 最後に、Millsの言葉をもう一度置く。
+
+> _**The Sociological Imagination** is the most fruitful form of this self-consciousness._  
+> By its use men whose mentalities have swept only _a series of limited orbits_ often come to feel as if **suddenly awakened in a house** with which they had only supposed themselves to be familiar.  
+> Correctly or incorrectly, they often come to feel that they can now provide themselves with **adequate summations, cohesive assessments, comprehensive orientations**.  
+> Older decisions that once appeared sound now seem to them products of a mind _unaccountably dense_.  
+> _**Their capacity for astonishment is made lively again.**_  
+> They acquire **a new way of thinking**, they experience **a transvaluation of values**: in a word, by their reflection and by their sensibility, they realize the cultural meaning of the social science.  
+<p align="right">(S.I. by C.W.M.)</p>
+
+---
+
+# **Repositioning C. Wright Mills**
+## **The Unfinished Sociological Imagination**
+### ── _From Interpreted Structure to Exposed Support_
+
+---
+
+_The Sociological Imagination_ was not intended as C. Wright Mills’s major work.
+
+It was a small book, written for what he called _The Powerless People_—a practical guide to sociological inquiry rather than a systematic theory.
+
+And yet, it has come to exert a greater influence than his “trilogy of power” in shaping subsequent generations.
+
+The reason lies in three elements:
+
+- issue–trouble
+    
+- milieu
+    
+- a way of thinking
+    
+
+The force of the book resides not in their completion, but in their incompletion.
+
+---
+
+These elements were presented, but never fully elaborated.
+
+Even today, few social sciences take the relation between issue and trouble as their primary axis.  
+Milieu, though named, remains underdeveloped.  
+And the “way of thinking” has often been reduced to a method, or worse, a technique.
+
+This is not a failure.
+
+It is precisely this unfinished state that has allowed the work to remain generative.
+
+---
+
+# **The Scope of Issue–Trouble**
+
+Social theory has long attempted to overcome the dualism between individual and society by introducing relational frameworks.
+
+Yet, relations are ultimately stabilized as structures.
+
+> Relations become reified; social theory turns into a science of traces.
+
+There is, however, an exceptional syntax that resists this closure:
+
+> **issue ⇄ trouble**
+
+Trouble is lived experience.  
+Issue is articulated configuration.
+
+They do not resolve into each other.  
+They circulate, asymmetrically.
+
+> **Troubles and issues are asymmetric configurations of ΔR–ΔZ mismatch, whose circulation generates institutional order as stabilized trace.**
+
+Society, therefore, is not structure.  
+It is the persistent distribution of bias.
+
+---
+
+# **The Scope of Milieu**
+
+When we encounter an event, we do not begin with judgment.
+
+The body moves first.  
+The gaze turns, the hand extends, the ear reacts.
+
+There is always a slight mismatch between the event and the body.  
+This gap produces orientation.
+
+Orientation is not meaning.  
+It is a pre-linguistic response, arising from the non-coincidence between ΔR and ΔZ.
+
+And this response never occurs in isolation.
+
+It always emerges within a **milieu**.
+
+Milieu is not an environment.  
+It is a field of ongoing encounters.
+
+```
+milieu = ΔR ≫ ΔZ
+```
+
+Structure, by contrast, is the stabilization of repetition:
+
+```
+structure = ΔZ ≫ ΔR
+```
+
+Between them lies the site of mediation:
+
+```
+milieu ⇄ character ⇄ institution
+```
+
+Social structure is generated through this asymmetric movement.
+
+---
+
+# **Why a Way of Thinking?**
+
+Not a science of traces, but a science of generation.
+
+Not what is described, but the conditions under which it emerges.
+
+---
+
+Mills sought to connect:
+
+- personal troubles
+    
+- public issues
+    
+
+But the question is not the connection itself.
+
+> **It is how this connection is generated.**
+
+He did not begin from the given opposition of individual and society.
+
+> **He exposed a relational movement: trouble ⇄ issue.**
+
+```
+individual → relation → structure
+```
+
+Structure is not given.  
+It appears as the result of circulation.
+
+> **Radicalism consists in suspending presuppositions and exposing asymmetric generative syntax.**
+
+This echoes Mills’s own radicalism, which refused the false neutrality of structural functionalism, exposing power as circulation rather than equilibrium.
+
+---
+
+# **From SI to SE**
+
+Mills mediated this relation through the **sociological imagination**.
+
+But this mediation remains a craft—a cultivated intellectual disposition.
+
+We propose a shift:
+
+> **from sociological imagination to syntactical exposure**  
+> — from thinking to generative conditions
+
+
+```
+[ GENERATIVE FIELD ]                         [ CIRCULATION ]
+
+milieu (ΔR ≫ ΔZ)                            trouble ⇄ issue
+        │                                           │
+        │                                           │
+(Sign Act / Inter-Phase / character)   asymmetric ΔR–ΔZ circulation
+        │                                           │
+        │                                           │
+	institution (ΔZ ≫ ΔR)               ← invisible support →
+```
+
+**Figure 1. Social Structure as Generative Asymmetry**  
+Generative field (milieu → character → institution) and circulation (trouble ⇄ issue via asymmetric ΔR–ΔZ, exposing invisible support).
+
+---
+
+**Structure is interpreted.  
+Support is indicated.**
+
+---
 
 > _**The Sociological Imagination** is the most fruitful form of this self-consciousness._  
 > By its use men whose mentalities have swept only _a series of limited orbits_ often come to feel as if **suddenly awakened in a house** with which they had only supposed themselves to be familiar.  
