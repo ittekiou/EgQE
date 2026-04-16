@@ -79,6 +79,10 @@ the world emerges.
 - [URL-10｜What is Orbit?](https://camp-us.net/articles/URL-10_What-is-Orbit_Distributed-Rate_Persistent-Lag.html)  
 	── 軌道とは何か：分散するrate、持続するlag / Distributed Rate, Persistent Lag  
 	
+- [URL-11｜What Is Life?](https://camp-us.net/articles/URL-11_What-is-Life_Reconstruction-of-Definition.html)  
+	── 生命とは何か：定義の曖昧さと再構築 / Ambiguity of Definition and Its Reconstruction  
+	
+
 
 ---
 
