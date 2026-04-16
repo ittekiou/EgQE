@@ -3,6 +3,190 @@ layout: math
 ---
 
 
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 640 520" role="img" aria-labelledby="title desc">
+  <title id="title">EgQE Figure 1: The Recursive Lag–Persistence Chain</title>
+  <desc id="desc">A formal diagram of EgQE life syntax showing the distinction between Life, Matter, and Death through lag generation, membrane fold, persistence, and recursion.</desc>
+
+  <defs>
+    <style>
+      .bg { fill: #f5f2ec; }
+      .ink { fill: #0e0e0f; stroke: #0e0e0f; }
+      .ash { fill: #9a9690; stroke: #9a9690; }
+      .life { fill: #2a4a3e; stroke: #2a4a3e; }
+      .matter { fill: #5a4a3a; stroke: #5a4a3a; }
+      .fold { fill: #1a2a4a; stroke: #1a2a4a; }
+      .dim { stroke: #d8d4cc; fill: none; }
+
+      .serif { font-family: 'EB Garamond', Georgia, 'Times New Roman', serif; }
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+
+      .label { font-size: 10px; letter-spacing: 2px; }
+      .title { font-size: 22px; font-weight: 500; }
+      .subtitle { font-size: 14px; font-style: italic; }
+      .node { font-size: 16px; }
+      .small { font-size: 8px; }
+      .small2 { font-size: 7.5px; }
+      .mid { font-size: 11px; font-style: italic; }
+      .formulaLabel { font-size: 10px; letter-spacing: 1.2px; }
+      .formulaEq { font-size: 12.5px; }
+      .caption { font-size: 13.5px; font-style: italic; }
+
+      .thin { stroke-width: 1; fill: none; }
+      .normal { stroke-width: 1.2; fill: none; }
+      .strong { stroke-width: 1.4; fill: none; }
+      .stronger { stroke-width: 1.6; fill: none; }
+
+      .dash34 { stroke-dasharray: 3 4; }
+      .dash44 { stroke-dasharray: 4 4; }
+      .dash45 { stroke-dasharray: 4 5; }
+      .dash53 { stroke-dasharray: 5 3; }
+      .dash63 { stroke-dasharray: 6 3; }
+      .dash74 { stroke-dasharray: 7 4; }
+
+      .rule { stroke: #d8d4cc; stroke-width: 1; }
+    </style>
+
+    <marker id="ah-life" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#2a4a3e"/>
+    </marker>
+    <marker id="ah-matter" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#5a4a3a"/>
+    </marker>
+    <marker id="ah-fold" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#1a2a4a"/>
+    </marker>
+    <marker id="ah-gray" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#9a9690"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="640" height="520" fill="#f8f5f0"/>
+
+  <!-- Header -->
+  <text x="24" y="26" class="mono ash label">EGQE LIFE SYNTAX · FIGURE 1</text>
+  <text x="24" y="50" class="serif ink title">The Recursive Lag–Persistence Chain</text>
+  <text x="24" y="70" class="serif ash subtitle">生命構文の動的形式図</text>
+
+  <!-- Zone labels -->
+  <text x="24" y="108" class="mono ash label">LIFE ZONE</text>
+  <line x1="24" y1="114" x2="490" y2="114" class="ash thin dash34"/>
+
+  <text x="24" y="385" class="mono ash label">MATTER ZONE</text>
+  <line x1="24" y1="370" x2="490" y2="370" class="ash thin dash34"/>
+
+  <!-- Z0 -->
+  <circle cx="80" cy="220" r="28" class="ink strong" fill="#fff"/>
+  <text x="80" y="216" class="serif ink node" text-anchor="middle">Z₀</text>
+  <text x="80" y="232" class="mono ash small" text-anchor="middle">encounter</text>
+
+  <!-- Z0 to L -->
+  <line x1="109" y1="220" x2="163" y2="220" class="ink normal" marker-end="url(#ah-gray)"/>
+  <text x="136" y="212" class="serif ash mid" text-anchor="middle">L</text>
+
+  <!-- L node -->
+  <rect x="168" y="192" width="72" height="56" rx="4" class="life strong" fill="#fff"/>
+  <text x="204" y="217" class="serif life" font-size="15" text-anchor="middle">L(x)</text>
+  <text x="204" y="233" class="mono life small2" text-anchor="middle">lag generation</text>
+
+  <!-- L to M -->
+  <line x1="240" y1="220" x2="293" y2="220" class="fold normal dash63" marker-end="url(#ah-fold)"/>
+  <text x="267" y="212" class="serif fold mid" text-anchor="middle">M</text>
+
+  <!-- M node -->
+  <polygon points="320,188 356,220 320,252 284,220" class="fold stronger" fill="#fff"/>
+  <text x="320" y="216" class="serif fold" font-size="14" text-anchor="middle">M</text>
+  <text x="320" y="232" class="mono fold small" text-anchor="middle">fold / intern.</text>
+
+  <!-- M to Psi -->
+  <line x1="356" y1="220" x2="408" y2="220" class="life normal" marker-end="url(#ah-life)"/>
+  <text x="382" y="212" class="serif life mid" text-anchor="middle">Ψ</text>
+
+  <!-- Psi node -->
+  <ellipse cx="444" cy="220" rx="36" ry="28" class="life strong" fill="#fff"/>
+  <text x="444" y="217" class="serif life node" text-anchor="middle">ψₙ</text>
+  <text x="444" y="233" class="mono life small2" text-anchor="middle">persistence</text>
+
+  <!-- Rec loop -->
+  <path d="M444,192 C444,110 204,110 204,192" class="life strong dash74" marker-end="url(#ah-life)" fill="#fff"/>
+  <text x="324" y="95" class="mono life" font-size="9" letter-spacing="1.2px" text-anchor="middle">Rec : Lₙ₊₁ = L(ψₙ)</text>
+  <text x="204" y="183" class="mono ash small" text-anchor="middle">n+1</text>
+  <text x="444" y="183" class="mono ash small" text-anchor="middle">n</text>
+
+  <!-- Death branch -->
+  <line x1="444" y1="248" x2="444" y2="340" class="matter normal dash44" marker-end="url(#ah-matter)"/>
+  <text x="456" y="292" class="serif matter mid">ψₙ → 0</text>
+  <text x="456" y="306" class="mono matter small2">collapse</text>
+
+  <rect x="408" y="342" width="72" height="42" rx="2" class="matter normal dash53" fill="#fff"/>
+  <text x="444" y="360" class="serif matter" font-size="15" text-anchor="middle">ΔZ</text>
+  <text x="444" y="375" class="mono matter small2" text-anchor="middle">fixed trace</text>
+
+  <text x="516" y="365" class="serif matter" font-size="13" font-style="italic">Death</text>
+  <text x="516" y="378" class="mono ash small">syntax reduction</text>
+
+  <!-- Matter branch -->
+  <path d="M204,248 C204,310 120,360 120,360" class="ash thin dash45" marker-end="url(#ah-gray)" fill="#fff"/>
+  <text x="144" y="308" class="mono ash small2" transform="rotate(-30 144 308)">no recursive opening</text>
+
+  <rect x="72" y="342" width="90" height="42" rx="2" class="ash thin dash53" fill="#fff"/>
+  <text x="117" y="360" class="serif matter" font-size="14" text-anchor="middle">ΔZ ∘ L ∘ Z₀</text>
+  <text x="117" y="375" class="mono ash small2" text-anchor="middle">Matter</text>
+
+  <!-- Life label -->
+  <text x="516" y="215" class="serif life" font-size="14" font-style="italic">Life</text>
+  <text x="516" y="231" class="mono ash small">∀n, ψₙ ≠ 0</text>
+
+  <!-- Formula strip -->
+  <line x1="24" y1="430" x2="616" y2="430" class="rule"/>
+
+  <text x="24" y="452" class="mono ash formulaLabel">LIFE</text>
+  <text x="86" y="452" class="mono ink formulaEq">
+    <tspan class="life">Life(x)</tspan>
+    <tspan> := </tspan>
+    <tspan class="life">Rec</tspan>
+    <tspan> ∘ </tspan>
+    <tspan class="life">Ψ</tspan>
+    <tspan> ∘ </tspan>
+    <tspan class="fold">M</tspan>
+    <tspan> ∘ </tspan>
+    <tspan class="life">L</tspan>
+    <tspan> ∘ Z₀ </tspan>
+    <tspan class="ash" font-size="11px">( ∀n, ψₙ ≠ 0 )</tspan>
+  </text>
+
+  <text x="24" y="476" class="mono ash formulaLabel">MATTER</text>
+  <text x="86" y="476" class="mono ink formulaEq">
+    <tspan class="matter">Matter(x)</tspan>
+    <tspan> := ΔZ ∘ </tspan>
+    <tspan class="life">L</tspan>
+    <tspan> ∘ Z₀ </tspan>
+    <tspan class="ash" font-size="11px">( lag not opened to recursion )</tspan>
+  </text>
+
+  <text x="24" y="500" class="mono ash formulaLabel">DEATH</text>
+  <text x="86" y="500" class="mono ink formulaEq">
+    <tspan class="matter">Death(x)</tspan>
+    <tspan> := ΔZ(L(Z₀(x))) </tspan>
+    <tspan class="ash" font-size="11px">after collapse of Ψ-sustained recursion</tspan>
+  </text>
+
+  <text x="24" y="524" class="mono ash formulaLabel">REC</text>
+  <text x="86" y="524" class="mono ink formulaEq">
+    Lₙ₊₁ = L(ψₙ),   ψₙ₊₁ = Ψ(M(Lₙ₊₁))
+  </text>
+
+  <!-- Caption -->
+  <line x1="24" y1="548" x2="24" y2="618" class="rule"/>
+  <text x="40" y="566" class="serif" font-size="13.5" fill="#3a3832">
+    <tspan x="40" dy="0">生命とは、遭遇から生じるlagが、膜において折り返され、持続帯に入り、</tspan>
+    <tspan x="40" dy="18">再帰的に更新され続ける構文である。物質とは、そのlagが再帰に開かれず、</tspan>
+    <tspan x="40" dy="18">痕跡として固定される様式である。死とは、ψ帯の崩壊によって、</tspan>
+    <tspan x="40" dy="18">生命構文が物質様式へ還元されることである。</tspan>
+  </text>
+</svg>
+
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
   <defs>
     <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
