@@ -186,6 +186,10 @@ When ψ collapses, recursion ceases, and time reduces to a fixed trace — the m
 
 ---
 
+👉 [URL-11｜生命とは何か──定義の曖昧さと再構築｜What Is Life? — On the Ambiguity of Definition and Its Reconstruction](https://camp-us.net/articles/URL-11_What-is-Life_Reconstruction-of-Definition.html)  
+
+---
+
 # Appendix A｜Compact Definitions (EN/JP)
 
 ### Definition (Condensed)
