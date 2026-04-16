@@ -3,6 +3,257 @@ layout: math
 ---
 
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 760 700" role="img" aria-labelledby="title desc">
+  <title id="title">EgQE Figure 2: Time as Recursive Trace Accumulation</title>
+  <desc id="desc">Plain SVG for Obsidian. A formal diagram showing time as the sequential accumulation of ΔZ generated through recursive lag-persistence dynamics.</desc>
+
+  <defs>
+    <marker id="ah-life" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#2a4a3e"/>
+    </marker>
+    <marker id="ah-matter" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#5a4a3a"/>
+    </marker>
+    <marker id="ah-fold" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#1a2a4a"/>
+    </marker>
+    <marker id="ah-gray" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#9a9690"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="700" fill="#f5f2ec"/>
+
+  <text x="28" y="28" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="2">EGQE TIME SYNTAX · FIGURE 2</text>
+  <text x="28" y="54" fill="#0e0e0f" font-family="serif" font-size="22">Time as Recursive Trace Accumulation</text>
+  <text x="28" y="76" fill="#9a9690" font-family="serif" font-size="14" font-style="italic">再帰痕跡としての時間生成</text>
+
+  <text x="28" y="118" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="2">RECURSIVE GENERATION</text>
+  <line x1="28" y1="124" x2="722" y2="124" stroke="#9a9690" stroke-width="1" stroke-dasharray="3 4"/>
+
+  <text x="28" y="328" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="2">TRACE SEQUENCE / TIME</text>
+  <line x1="28" y1="334" x2="722" y2="334" stroke="#9a9690" stroke-width="1" stroke-dasharray="3 4"/>
+
+  <circle cx="90" cy="200" r="28" fill="none" stroke="#0e0e0f" stroke-width="1.4"/>
+  <text x="90" y="196" fill="#0e0e0f" font-family="serif" font-size="16" text-anchor="middle">Z₀</text>
+  <text x="90" y="212" fill="#9a9690" font-family="monospace" font-size="8" text-anchor="middle">encounter</text>
+
+  <line x1="118" y1="200" x2="170" y2="200" stroke="#0e0e0f" stroke-width="1.2" fill="none" marker-end="url(#ah-gray)"/>
+  <text x="144" y="191" fill="#9a9690" font-family="serif" font-size="11" font-style="italic" text-anchor="middle">L</text>
+
+  <rect x="176" y="172" width="76" height="56" rx="4" fill="none" stroke="#2a4a3e" stroke-width="1.4"/>
+  <text x="214" y="197" fill="#2a4a3e" font-family="serif" font-size="15" text-anchor="middle">L(x)</text>
+  <text x="214" y="213" fill="#2a4a3e" font-family="monospace" font-size="7.5" text-anchor="middle">lag generation</text>
+
+  <line x1="252" y1="200" x2="304" y2="200" stroke="#1a2a4a" stroke-width="1.2" fill="none" stroke-dasharray="6 3" marker-end="url(#ah-fold)"/>
+  <text x="278" y="191" fill="#1a2a4a" font-family="serif" font-size="11" font-style="italic" text-anchor="middle">M</text>
+
+  <polygon points="332,168 368,200 332,232 296,200" fill="none" stroke="#1a2a4a" stroke-width="1.6"/>
+  <text x="332" y="196" fill="#1a2a4a" font-family="serif" font-size="14" text-anchor="middle">M</text>
+  <text x="332" y="212" fill="#1a2a4a" font-family="monospace" font-size="7" text-anchor="middle">fold</text>
+
+  <line x1="368" y1="200" x2="422" y2="200" stroke="#2a4a3e" stroke-width="1.2" fill="none" marker-end="url(#ah-life)"/>
+  <text x="395" y="191" fill="#2a4a3e" font-family="serif" font-size="11" font-style="italic" text-anchor="middle">Ψ</text>
+
+  <ellipse cx="458" cy="200" rx="36" ry="28" fill="none" stroke="#2a4a3e" stroke-width="1.4"/>
+  <text x="458" y="197" fill="#2a4a3e" font-family="serif" font-size="16" text-anchor="middle">ψₙ</text>
+  <text x="458" y="213" fill="#2a4a3e" font-family="monospace" font-size="7.5" text-anchor="middle">persistence</text>
+
+  <path d="M458,172 C458,100 214,100 214,172" fill="none" stroke="#2a4a3e" stroke-width="1.5" stroke-dasharray="7 4" marker-end="url(#ah-life)"/>
+  <text x="336" y="96" fill="#2a4a3e" font-family="monospace" font-size="12" letter-spacing="1.1" text-anchor="middle">Rec : Lₙ₊₁ = L(ψₙ)</text>
+
+  <line x1="458" y1="228" x2="458" y2="286" stroke="#5a4a3a" stroke-width="1.2" fill="none" stroke-dasharray="4 4" marker-end="url(#ah-matter)"/>
+  <text x="472" y="258" fill="#5a4a3a" font-family="serif" font-size="11" font-style="italic">Rec ⇒ ΔZₙ</text>
+
+  <line x1="94" y1="430" x2="680" y2="430" stroke="#9a9690" stroke-width="1.2" fill="none" marker-end="url(#ah-gray)"/>
+  <text x="690" y="434" fill="#9a9690" font-family="monospace" font-size="9">time</text>
+
+  <rect x="92" y="388" width="86" height="42" rx="2" fill="none" stroke="#5a4a3a" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <text x="135" y="406" fill="#5a4a3a" font-family="serif" font-size="15" text-anchor="middle">ΔZ₀</text>
+  <text x="135" y="421" fill="#5a4a3a" font-family="monospace" font-size="7.5" text-anchor="middle">trace 0</text>
+
+  <rect x="224" y="388" width="86" height="42" rx="2" fill="none" stroke="#5a4a3a" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <text x="267" y="406" fill="#5a4a3a" font-family="serif" font-size="15" text-anchor="middle">ΔZ₁</text>
+  <text x="267" y="421" fill="#5a4a3a" font-family="monospace" font-size="7.5" text-anchor="middle">trace 1</text>
+
+  <rect x="356" y="388" width="86" height="42" rx="2" fill="none" stroke="#5a4a3a" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <text x="399" y="406" fill="#5a4a3a" font-family="serif" font-size="15" text-anchor="middle">ΔZ₂</text>
+  <text x="399" y="421" fill="#5a4a3a" font-family="monospace" font-size="7.5" text-anchor="middle">trace 2</text>
+
+  <rect x="488" y="388" width="86" height="42" rx="2" fill="none" stroke="#5a4a3a" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <text x="531" y="406" fill="#5a4a3a" font-family="serif" font-size="15" text-anchor="middle">ΔZ₃</text>
+  <text x="531" y="421" fill="#5a4a3a" font-family="monospace" font-size="7.5" text-anchor="middle">trace 3</text>
+
+  <text x="631" y="408" fill="#5a4a3a" font-family="serif" font-size="22">…</text>
+
+  <line x1="178" y1="409" x2="224" y2="409" stroke="#5a4a3a" stroke-width="1.2" fill="none" marker-end="url(#ah-matter)"/>
+  <line x1="310" y1="409" x2="356" y2="409" stroke="#5a4a3a" stroke-width="1.2" fill="none" marker-end="url(#ah-matter)"/>
+  <line x1="442" y1="409" x2="488" y2="409" stroke="#5a4a3a" stroke-width="1.2" fill="none" marker-end="url(#ah-matter)"/>
+
+  <path d="M458,286 C458,328 399,350 399,388" fill="none" stroke="#9a9690" stroke-width="1" stroke-dasharray="4 5"/>
+  <path d="M458,286 C458,320 531,348 531,388" fill="none" stroke="#9a9690" stroke-width="1" stroke-dasharray="4 5"/>
+  <path d="M458,286 C458,312 267,340 267,388" fill="none" stroke="#9a9690" stroke-width="1" stroke-dasharray="4 5"/>
+
+  <line x1="640" y1="170" x2="640" y2="286" stroke="#5a4a3a" stroke-width="1.1" fill="none" stroke-dasharray="4 4" marker-end="url(#ah-matter)"/>
+  <text x="654" y="216" fill="#5a4a3a" font-family="serif" font-size="11" font-style="italic">ψ → 0</text>
+  <text x="654" y="230" fill="#5a4a3a" font-family="monospace" font-size="7.5">collapse</text>
+  <rect x="602" y="288" width="76" height="42" rx="2" fill="none" stroke="#5a4a3a" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <text x="640" y="306" fill="#5a4a3a" font-family="serif" font-size="15" text-anchor="middle">ΔZ*</text>
+  <text x="640" y="321" fill="#5a4a3a" font-family="monospace" font-size="7.5" text-anchor="middle">fixed trace</text>
+  <text x="650" y="345" fill="#5a4a3a" font-family="serif" font-size="13" font-style="italic">material mode</text>
+
+  <line x1="28" y1="476" x2="732" y2="476" stroke="#d8d4cc" stroke-width="1"/>
+
+  <text x="28" y="500" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="1.2">TIME</text>
+  <text x="118" y="500" fill="#0e0e0f" font-family="monospace" font-size="12.5">Time := {ΔZₙ}ₙ∈ℕ</text>
+
+  <text x="28" y="526" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="1.2">GENERATION</text>
+  <text x="118" y="526" fill="#0e0e0f" font-family="monospace" font-size="12.5">ΔZₙ = trace of a completed recursive cycle</text>
+
+  <text x="28" y="552" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="1.2">SEQUENCE</text>
+  <text x="118" y="552" fill="#0e0e0f" font-family="monospace" font-size="12.5">ΔZ₀ → ΔZ₁ → ΔZ₂ → ΔZ₃ → …</text>
+
+  <text x="28" y="578" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="1.2">COLLAPSE</text>
+  <text x="118" y="578" fill="#0e0e0f" font-family="monospace" font-size="12.5">ψ collapse ⇒ time reduces to fixed trace</text>
+
+  <line x1="28" y1="602" x2="28" y2="672" stroke="#d8d4cc" stroke-width="2"/>
+  <text x="44" y="620" fill="#3a3832" font-family="serif" font-size="11" font-style="italic">
+    <tspan x="44" dy="0">時間はあらかじめ存在する次元ではない。それは、lagと持続の再帰によって生成されるΔZの系列である。</tspan>
+    <tspan x="44" dy="18">各ΔZₙは一回の再帰の痕跡であり、ΔZ₀ → ΔZ₁ → ΔZ₂ → … の連なりが時間を構成する。</tspan>
+    <tspan x="44" dy="18">ψが崩壊すると再帰は停止し、時間は固定された痕跡へと還元される。</tspan>
+  </text>
+</svg>
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">EgQE Figure 1: The Recursive Lag–Persistence Chain</title>
+  <desc id="desc">Plain SVG version for Obsidian with inline attributes only. A formal diagram of EgQE life syntax showing the distinction between Life, Matter, and Death through lag generation, membrane fold, persistence, and recursion.</desc>
+
+  <defs>
+    <marker id="ah-life" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#2a4a3e"/>
+    </marker>
+    <marker id="ah-matter" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#5a4a3a"/>
+    </marker>
+    <marker id="ah-fold" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#1a2a4a"/>
+    </marker>
+    <marker id="ah-gray" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#9a9690"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="640" height="640" fill="#f5f2ec"/>
+
+  <text x="24" y="26" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="2">EGQE LIFE SYNTAX · FIGURE 1</text>
+  <text x="24" y="50" fill="#0e0e0f" font-family="serif" font-size="22">The Recursive Lag–Persistence Chain</text>
+  <text x="24" y="70" fill="#9a9690" font-family="serif" font-size="14" font-style="italic">生命構文の動的形式図</text>
+
+  <text x="24" y="125" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="2">LIFE ZONE</text>
+  <line x1="24" y1="114" x2="490" y2="114" stroke="#9a9690" stroke-width="1" stroke-dasharray="3 4"/>
+
+  <text x="24" y="395" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="2">MATTER ZONE</text>
+  <line x1="24" y1="370" x2="490" y2="370" stroke="#9a9690" stroke-width="1" stroke-dasharray="3 4"/>
+
+  <circle cx="80" cy="220" r="28" fill="none" stroke="#0e0e0f" stroke-width="1.4"/>
+  <text x="80" y="216" fill="#0e0e0f" font-family="serif" font-size="16" text-anchor="middle">Z₀</text>
+  <text x="80" y="230" fill="#9a9690" font-family="monospace" font-size="8" text-anchor="middle">encounter</text>
+
+  <line x1="109" y1="220" x2="163" y2="220" stroke="#0e0e0f" stroke-width="1.2" fill="none" marker-end="url(#ah-gray)"/>
+  <text x="136" y="212" fill="#9a9690" font-family="serif" font-size="11" font-style="italic" text-anchor="middle">L</text>
+
+  <rect x="168" y="192" width="72" height="56" rx="4" fill="none" stroke="#2a4a3e" stroke-width="1.4"/>
+  <text x="204" y="217" fill="#2a4a3e" font-family="serif" font-size="15" text-anchor="middle">L(x)</text>
+  <text x="204" y="230" fill="#2a4a3e" font-family="monospace" font-size="7.5" text-anchor="middle">lag generation</text>
+
+  <line x1="240" y1="220" x2="290" y2="220" stroke="#1a2a4a" stroke-width="1.2" fill="none" stroke-dasharray="6 3" marker-end="url(#ah-fold)"/>
+  <text x="267" y="212" fill="#1a2a4a" font-family="serif" font-size="11" font-style="italic" text-anchor="middle">M</text>
+
+  <polygon points="320,188 356,220 320,252 284,220" fill="none" stroke="#1a2a4a" stroke-width="1.6"/>
+  <text x="320" y="216" fill="#1a2a4a" font-family="serif" font-size="14" text-anchor="middle">M</text>
+  <text x="320" y="228" fill="#1a2a4a" font-family="monospace" font-size="7" text-anchor="middle">fold / intern.</text>
+
+  <line x1="356" y1="220" x2="408" y2="220" stroke="#2a4a3e" stroke-width="1.2" fill="none" marker-end="url(#ah-life)"/>
+  <text x="382" y="212" fill="#2a4a3e" font-family="serif" font-size="11" font-style="italic" text-anchor="middle">Ψ</text>
+
+  <ellipse cx="444" cy="220" rx="36" ry="28" fill="none" stroke="#2a4a3e" stroke-width="1.4"/>
+  <text x="444" y="217" fill="#2a4a3e" font-family="serif" font-size="16" text-anchor="middle">ψₙ</text>
+  <text x="444" y="230" fill="#2a4a3e" font-family="monospace" font-size="7.5" text-anchor="middle">persistence</text>
+
+  <path d="M444,192 C444,110 204,110 204,192" fill="none" stroke="#2a4a3e" stroke-width="1.5" stroke-dasharray="7 4" marker-end="url(#ah-life)"/>
+  <text x="324" y="105" fill="#2a4a3e" font-family="monospace" font-size="12" letter-spacing="1.2" text-anchor="middle">Rec : Lₙ₊₁ = L(ψₙ)</text>
+  <text x="194" y="180" fill="#9a9690" font-family="monospace" font-size="8" text-anchor="middle">n+1</text>
+  <text x="450" y="185" fill="#9a9690" font-family="monospace" font-size="8" text-anchor="middle">n</text>
+
+  <line x1="444" y1="248" x2="444" y2="340" stroke="#5a4a3a" stroke-width="1.1" fill="none" stroke-dasharray="4 4" marker-end="url(#ah-matter)"/>
+  <text x="456" y="292" fill="#5a4a3a" font-family="serif" font-size="11" font-style="italic">ψₙ → 0</text>
+  <text x="456" y="306" fill="#5a4a3a" font-family="monospace" font-size="7.5">collapse</text>
+
+  <rect x="408" y="342" width="72" height="42" rx="2" fill="none" stroke="#5a4a3a" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <text x="444" y="360" fill="#5a4a3a" font-family="serif" font-size="15" text-anchor="middle">ΔZ</text>
+  <text x="444" y="380" fill="#5a4a3a" font-family="monospace" font-size="7.5" text-anchor="middle">fixed trace</text>
+
+  <text x="516" y="365" fill="#5a4a3a" font-family="serif" font-size="13" font-style="italic">Death</text>
+  <text x="510" y="378" fill="#9a9690" font-family="monospace" font-size="9">syntax reduction</text>
+
+  <path d="M204,248 C204,310 120,345 120,345" fill="none" stroke="#9a9690" stroke-width="1" stroke-dasharray="4 5" marker-end="url(#ah-gray)"/>
+  <text x="125" y="305" fill="#9a9690" font-family="monospace" font-size="7.5" transform="rotate(-30 154 308)">no recursive opening</text>
+
+  <rect x="72" y="342" width="90" height="42" rx="2" fill="none" stroke="#9a9690" stroke-width="1" stroke-dasharray="5 3"/>
+  <text x="117" y="360" fill="#5a4a3a" font-family="serif" font-size="14" text-anchor="middle">ΔZ ∘ L ∘ Z₀</text>
+  <text x="117" y="380" fill="#9a9690" font-family="monospace" font-size="7.5" text-anchor="middle">Matter</text>
+
+  <text x="516" y="215" fill="#2a4a3e" font-family="serif" font-size="14" font-style="italic">Life</text>
+  <text x="510" y="231" fill="#9a9690" font-family="monospace" font-size="9">∀n, ψₙ ≠ 0</text>
+
+  <line x1="24" y1="430" x2="616" y2="430" stroke="#d8d4cc" stroke-width="1"/>
+
+  <text x="24" y="452" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="1.2">LIFE</text>
+  <text x="86" y="452" fill="#0e0e0f" font-family="monospace" font-size="12.5">
+    <tspan fill="#2a4a3e">Life(x)</tspan>
+    <tspan> := </tspan>
+    <tspan fill="#2a4a3e">Rec</tspan>
+    <tspan> ∘ </tspan>
+    <tspan fill="#2a4a3e">Ψ</tspan>
+    <tspan> ∘ </tspan>
+    <tspan fill="#1a2a4a">M</tspan>
+    <tspan> ∘ </tspan>
+    <tspan fill="#2a4a3e">L</tspan>
+    <tspan> ∘ Z₀ </tspan>
+    <tspan fill="#9a9690" font-size="11">( ∀n, ψₙ ≠ 0 )</tspan>
+  </text>
+
+  <text x="24" y="476" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="1.2">MATTER</text>
+  <text x="86" y="476" fill="#0e0e0f" font-family="monospace" font-size="12.5">
+    <tspan fill="#5a4a3a">Matter(x)</tspan>
+    <tspan> := ΔZ ∘ </tspan>
+    <tspan fill="#2a4a3e">L</tspan>
+    <tspan> ∘ Z₀ </tspan>
+    <tspan fill="#9a9690" font-size="11">( lag not opened to recursion )</tspan>
+  </text>
+
+  <text x="24" y="500" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="1.2">DEATH</text>
+  <text x="86" y="500" fill="#0e0e0f" font-family="monospace" font-size="12.5">
+    <tspan fill="#5a4a3a">Death(x)</tspan>
+    <tspan> := ΔZ(L(Z₀(x))) </tspan>
+    <tspan fill="#9a9690" font-size="11">after collapse of Ψ-sustained recursion</tspan>
+  </text>
+
+  <text x="24" y="524" fill="#9a9690" font-family="monospace" font-size="10" letter-spacing="1.2">REC</text>
+  <text x="86" y="524" fill="#0e0e0f" font-family="monospace" font-size="12.5">Lₙ₊₁ = L(ψₙ),   ψₙ₊₁ = Ψ(M(Lₙ₊₁))</text>
+
+  <line x1="24" y1="548" x2="24" y2="618" stroke="#d8d4cc" stroke-width="2"/>
+  <text x="40" y="566" fill="#3a3832" font-family="serif" font-size="10" font-style="italic">
+    <tspan x="40" dy="0">生命とは、遭遇から生じるlagが、膜において折り返され、持続帯に入り、再帰的に更新され続ける構文である。</tspan>
+    <tspan x="40" dy="18">物質とは、そのlagが再帰に開かれず、痕跡として固定される様式である。</tspan>
+    <tspan x="40" dy="18">死とは、ψ帯の崩壊によって、生命構文が物質様式へ還元されることである。</tspan>
+  </text>
+</svg>
+
+
+
 
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 640 520" role="img" aria-labelledby="title desc">
