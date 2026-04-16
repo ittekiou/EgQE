@@ -81,6 +81,7 @@ the world emerges.
 	
 - [URL-11｜What Is Life?](https://camp-us.net/articles/URL-11_What-is-Life_Reconstruction-of-Definition.html)  
 	── 生命とは何か：定義の曖昧さと再構築 / Ambiguity of Definition and Its Reconstruction  
+	── 構文的生命定義を経て、生命概念そのものを再検討する
 	
 
 

@@ -183,6 +183,8 @@ EgQEは生命を状態ではなく構文として捉える。
 
 ---
 
+> _The structure defined above is illustrated in the following diagrams._  
+
 **Figure 1｜The Recursive Lag–Persistence Chain**  
 Life is the syntactic process in which lag arising from encounter is folded by the membrane, enters a persistence band, and is recursively updated.  
 Matter is the mode in which such lag is not opened to recursion but is fixed as a trace.  
