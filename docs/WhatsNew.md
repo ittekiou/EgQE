@@ -17,6 +17,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/04/16  
+[EgQE｜生命構文 — 公式定義｜Life Syntax — Formal Definitions](https://camp-us.net/articles/EgQE_Life-Syntax_Formal-Definitions.html)  
+[SN-LIF-08｜制御された非閉包 ── 酵素・菌・発酵の構文論｜Controlled Non-Closure: A Syntax of Enzyme, Microbe, and Fermentation](https://camp-us.net/articles/SN-LIF-08_Controlled-Non-Closure_Enzyme-Microbe-Fermentation.html)  
 ###### 2026/04/15  
 [SN-LIF-07｜COHからNOCHへ ー 代謝から情報への折れ ー](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_JP.html)  
 [SN-LIF-07｜COHからNOCHへ ── 代謝から情報への折れ｜From COH to NOCH — The Fold from Metabolism to Information](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_The-Fold-from-Metabolism-to-Information.html)  
