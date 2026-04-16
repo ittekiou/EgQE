@@ -3,6 +3,7 @@ layout: math
 title: SN-LIF-08｜制御された非閉包 ── 酵素・菌・発酵の構文論
 title_en: "SN-LIF-08｜Controlled Non-Closure: A Syntax of Enzyme, Microbe, and Fermentation"
 ---
+### SN-LIF-08｜酵素・菌・発酵
 # **制御された非閉包**
 ## — 酵素・菌・発酵の構文論 —
 ### **Controlled Non-Closure: A Syntax of Enzyme, Microbe, and Fermentation**
