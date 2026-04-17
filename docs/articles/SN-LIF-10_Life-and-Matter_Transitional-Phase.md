@@ -47,9 +47,12 @@ $$ L(Z_0(x)) \xrightarrow{M} \text{internal lag} \xrightarrow{\Psi} \psi \xright
 
 $$ L(Z_0(x)) \xrightarrow{\neg M} \Delta Z \quad \text{(Matter)} $$
 
-膜（M）がlagを内部へ折り返すとき、残差はψ帯に入り再帰連鎖が始まる——これが生命様式である。膜が機能しないとき、lagは外部に固定されΔZとなる——これが物質様式である。
+膜（M）がlagを内部へ折り返すとき、残差はψ帯に入り再帰連鎖が始まる——これが生命様式である。  
+膜が機能しないとき、lagは外部に固定されΔZとなる——これが物質様式である。
 
-The divergence lies in where lag goes next. When the membrane M folds lag inward, the residue enters the ψ-band and recursive chaining begins — this is the life modality. When M does not function, lag is fixed externally as ΔZ — this is the matter modality.
+The divergence lies in where lag goes next.  
+When the membrane M folds lag inward, the residue enters the ψ-band and recursive chaining begins — this is the life modality.  
+When M does not function, lag is fixed externally as ΔZ — this is the matter modality.
 
 ---
 
@@ -158,11 +161,14 @@ The phase structure divides into five levels as above. Three special routes are 
 
 このマトリクスから引き出せる命題は三つある。
 
-**命題1｜生命は二値ではない** 生命と物質は対立する二項ではなく、lagの内部化・持続・再帰の組み合わせとして連続的に分布する。Phase 0から4への移行は、構文的条件の漸進的な充足として記述できる。
+**命題1｜生命は二値ではない**  
+生命と物質は対立する二項ではなく、lagの内部化・持続・再帰の組み合わせとして連続的に分布する。Phase 0から4への移行は、構文的条件の漸進的な充足として記述できる。
 
-**命題2｜膜は一種類ではない** 物理膜Mₚと構文膜Mₛの分離により、生物学的生命に限らない「生命様式」の記述が可能になる。AIと社会システムはMₛ経由の高次様式として位置づけられる。
+**命題2｜膜は一種類ではない**  
+物理膜Mₚと構文膜Mₛの分離により、生物学的生命に限らない「生命様式」の記述が可能になる。AIと社会システムはMₛ経由の高次様式として位置づけられる。
 
-**命題3｜再帰は一種類ではない** 内部再帰R₁と外部再帰R₂の分離により、ウイルスの「借用再帰」と社会の「分散再帰」が同一の枠内で記述できる。「再帰する」ことと「自前でψを維持する」ことは別の問いである。
+**命題3｜再帰は一種類ではない**  
+内部再帰R₁と外部再帰R₂の分離により、ウイルスの「借用再帰」と社会の「分散再帰」が同一の枠内で記述できる。「再帰する」ことと「自前でψを維持する」ことは別の問いである。
 
 Three propositions follow from this matrix.  
 (1) Life is not binary but distributes continuously as a combination of lag internalization, persistence, and recursion.  
