@@ -268,6 +268,91 @@ Light does not have colors. It has rate differences. The membrane turns them int
 👉 [URL-EX-01｜三レート構造](https://camp-us.net/articles/URL-EX-01_Multi-Layered-Rate-Mismatch.html)
 
 ---
+
+# **補論｜直線は折れていない──rate差の可視化としての色**
+# **Appendix｜The Line Does Not Break — Color as the Visualization of Rate Difference**
+
+---
+
+### 問い｜Question
+
+なぜ「光の直線が折れて色が分かれる」という説明に違和感があるのか。
+
+Why does the explanation that “a straight ray of light bends and separates into colors” feel unsatisfactory?
+
+---
+
+### 応答｜Response
+
+この違和感は、「折れる」という表現が**ΔZ的記述**であることに由来する。  
+すなわち、それは観測された結果を、単一の線として遡及的に再記述しているにすぎない。
+
+This discomfort arises because the notion of “bending” is a **ΔZ-level description**.  
+It is merely a retrospective representation of an observed result, reconstructed as if it were a single line.
+
+しかし、白色光はもともと複数のものが重なっているわけではない。それは高い一致度（L≒0）で到来する状態である。
+
+複数のrate差が現れるのは、光が膜において処理されるときである。膜がlagの伝播に対して異なる応答を示すことで、rate差が生成され、空間的に展開される。
+
+However, white light is not originally a superposition of multiple components. It is a state of highly coincident arrival (L ≈ 0).
+
+Rate differences emerge only when light is processed by a membrane. Through differential responses to lag propagation, the membrane generates and spatializes these rate differences.
+
+プリズムや水滴が行うのは、光を分割することではなく、膜との相互作用においてrate差を生成し、空間的に展開することである。
+
+What a prism or a droplet does is not to divide light, but to generate rate differences through interaction with the membrane and spatially deploy them.
+
+---
+
+### 命題｜Proposition
+
+> **プリズムは光を分けない。重なっていたrate差を空間に開くだけである。rate差は光の内部にあるのではない。膜において生成される。**
+
+> **A prism does not split light. It merely spatializes the rate differences that were already superposed. Rate differences do not reside within light; they are generated at the membrane.**
+
+---
+
+### 再定義｜Reformulation
+
+「直線が折れて色が分かれる」という直観は、光を単一のΔZとして前提したときに生じる。
+
+The intuition that “a straight line bends and splits into colors” arises when light is presupposed as a single ΔZ.
+
+EgQEにおいては、
+
+> **分かれたのではない。見えるようになったのである。**
+
+In the EgQE framework,
+
+> **Nothing was split. It simply became visible.**
+
+---
+
+### 定式化｜Formulation
+
+$$  
+\text{Color} = \mathcal{D}_{\text{rate}}(M \circ L_{\text{light}})  
+$$
+
+ここで、色は光の属性ではなく、膜によって空間化されたrate差の分布である。
+
+Here, color is not a property of light, but the spatial distribution of rate differences produced by the membrane.
+
+---
+
+### 結語｜Conclusion
+
+直線は折れていない。  
+折れているように見えるのは、重なっていたものが展開された結果である。
+
+> **色とは、直線の破れではなく、rate差の可視化である。**
+
+The line does not break.  
+What appears as bending is the unfolding of what was already superposed.
+
+> **Color is not the breaking of a line, but the visualization of rate difference.**
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
 
