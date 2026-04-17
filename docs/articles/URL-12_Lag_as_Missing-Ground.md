@@ -164,7 +164,7 @@ Thus, the issue is not that lag was unseen.
 
 > **Lag was always present, but it was absorbed into presupposition, and its differential was never rendered visible.**
 
-EgQE releases this presupposition.
+EgQE exposes and releases this presupposition.
 
 Starting from the other, passing through lag, folded by the membrane, sustained as ψ, and recursively generating time and structure—
 
