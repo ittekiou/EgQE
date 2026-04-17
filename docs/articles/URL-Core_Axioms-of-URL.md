@@ -81,7 +81,10 @@ the world emerges.
 	
 - [URL-11｜What Is Life?](https://camp-us.net/articles/URL-11_What-is-Life_Reconstruction-of-Definition.html)  
 	── 生命とは何か：定義の曖昧さと再構築 / Ambiguity of Definition and Its Reconstruction  
-	── 構文的生命定義を経て、生命概念そのものを再検討する
+	── 構文的生命定義を経て、生命概念そのものを再検討
+	
+- [URL-12｜Lag as the Missing Ground](https://camp-us.net/articles/URL-12_Lag_as_Missing-Ground.html)  
+	── なぜ生命論は解けなかったのか：lag不在の四つのアポリア── 他者・時間・再帰・膜
 	
 
 

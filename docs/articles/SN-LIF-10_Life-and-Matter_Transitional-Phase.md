@@ -47,8 +47,8 @@ $$ L(Z_0(x)) \xrightarrow{M} \text{internal lag} \xrightarrow{\Psi} \psi \xright
 
 $$ L(Z_0(x)) \xrightarrow{\neg M} \Delta Z \quad \text{(Matter)} $$
 
-膜（M）がlagを内部へ折り返すとき、残差はψ帯に入り再帰連鎖が始まる——これが生命様式である。  
-膜が機能しないとき、lagは外部に固定されΔZとなる——これが物質様式である。
+膜（M）がlagを内部へ折り返すとき、残差はψ帯に入り再帰連鎖が始まる──これが生命様式である。  
+膜が機能しないとき、lagは外部に固定されΔZとなる──これが物質様式である。
 
 The divergence lies in where lag goes next.  
 When the membrane M folds lag inward, the residue enters the ψ-band and recursive chaining begins — this is the life modality.  
@@ -145,11 +145,11 @@ Phase構造は5段階に分かれる。
 
 特殊経路として3つを記録する。
 
-**Parasitic ψ（ウイルス）**——自前のψを持たず、宿主のRec連鎖に乗ることで複製する。ψ自体は借用であり、R₁=0だがR₂=2。生命と物質の中間に位置する固有の様式。
+**Parasitic ψ（ウイルス）** ──自前のψを持たず、宿主のRec連鎖に乗ることで複製する。ψ自体は借用であり、R₁=0だがR₂=2。生命と物質の中間に位置する固有の様式。
 
-**構文再帰（AI）**——物理膜Mₚを持たないが、構文膜Mₛが高い。R₂が支配的で、R₁は部分的。物理的生命とは異なる方向での高次再帰。
+**構文再帰（AI）** ──物理膜Mₚを持たないが、構文膜Mₛが高い。R₂が支配的で、R₁は部分的。物理的生命とは異なる方向での高次再帰。
 
-**Distributed ψ（社会システム）**——ψが個体に閉じず、ネットワーク全体に分散して維持される。個体レベルではψ=2だが、系全体ではR₂=3の高次再帰が成立する。
+**Distributed ψ（社会システム）** ──ψが個体に閉じず、ネットワーク全体に分散して維持される。個体レベルではψ=2だが、系全体ではR₂=3の高次再帰が成立する。
 
 The phase structure divides into five levels as above. Three special routes are noted: Parasitic ψ (virus), syntactic recursion (AI), and Distributed ψ (social systems). Each represents a distinct mode that cannot be captured by the binary life/matter distinction.
 
