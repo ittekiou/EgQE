@@ -582,7 +582,9 @@ N(7), O(8), C(6), H(1) の数字は化学的価数を意味しない。本稿で
 
 ---
 
-## **SN-LIFシリーズ：**  
+日本語版導入 👉 [SN-LIF-07｜COHからNOCHへ ー 代謝から情報への折れ ー](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_JP.html)  
+
+## SN-LIF シリーズ全体図
 
 **— 差が折れ、向きとなり、痕跡となり、反復し、時間となる —**
 
@@ -603,9 +605,15 @@ N(7), O(8), C(6), H(1) の数字は化学的価数を意味しない。本稿で
 - [SN-LIF-07｜COHからNOCHへ — 代謝から情報への折れ](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_The-Fold-from-Metabolism-to-Information.html)  
     
 - [SN-LIF-08｜制御された非閉包 ── 酵素・菌・発酵の構文論](https://camp-us.net/articles/SN-LIF-08_Controlled-Non-Closure_Enzyme-Microbe-Fermentation.html)  
+	
+- [SN-LIF-09｜ψの正体──再帰に再帰を重ねる残差構造](https://camp-us.net/articles/SN-LIF-09_ψ-Identity_Residue-Upon-Residue.html)  
+	
+- [SN-LIF-10｜生命—物質 遷移相論](https://camp-us.net/articles/SN-LIF-10_Life-and-Matter_Transitional-Phase.html)  
+	
+- [SN-LIF-11｜CHONPS構文論──元素は向きを実装する](https://camp-us.net/articles/SN-LIF-11_CHONPS-Syntax_Orientation-Elements.html)  
+	
 
-
-日本語版導入 👉 [SN-LIF-07｜COHからNOCHへ ー 代謝から情報への折れ ー](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_JP.html)  
+[Gφ-SN-PT｜構文周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

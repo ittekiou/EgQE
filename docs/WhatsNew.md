@@ -20,6 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/04/17  
 [SN-LIF-10｜生命—物質 遷移相論｜A Transitional Phase Theory of Life and Matter](https://camp-us.net/articles/SN-LIF-10_Life-and-Matter_Transitional-Phase.html)  
 [URL-12｜なぜ生命論は解けなかったのか ── lag不在の四つのアポリア｜Lag as the Missing Ground: Why Has the Question of Life Remained Unresolved? — Four Aporias from the Absence of Lag](https://camp-us.net/articles/URL-12_Lag_as_Missing-Ground.html)  
+[SN-LIF-11｜CHONPS構文論──元素は向きを実装する｜CHONPS Syntax: Elements as Implementations of Orientation](https://camp-us.net/articles/SN-LIF-11_CHONPS-Syntax_Orientation-Elements.html)  
 ###### 2026/04/16  
 [EgQE｜生命構文 — 公式定義｜Life Syntax — Formal Definitions](https://camp-us.net/articles/EgQE_Life-Syntax_Formal-Definitions.html)  
 [URL-11｜生命とは何か──定義の曖昧さと再構築｜What Is Life? — On the Ambiguity of Definition and Its Reconstruction](https://camp-us.net/articles/URL-11_What-is-Life_Reconstruction-of-Definition.html)  

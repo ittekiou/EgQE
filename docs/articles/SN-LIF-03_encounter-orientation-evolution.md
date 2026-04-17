@@ -341,6 +341,15 @@ society
 - [SN-LIF-07｜COHからNOCHへ — 代謝から情報への折れ](https://camp-us.net/articles/SN-LIF-07_From-COH-to-NOCH_The-Fold-from-Metabolism-to-Information.html)  
     
 - [SN-LIF-08｜制御された非閉包 ── 酵素・菌・発酵の構文論](https://camp-us.net/articles/SN-LIF-08_Controlled-Non-Closure_Enzyme-Microbe-Fermentation.html)  
+	
+- [SN-LIF-09｜ψの正体──再帰に再帰を重ねる残差構造](https://camp-us.net/articles/SN-LIF-09_ψ-Identity_Residue-Upon-Residue.html)  
+	
+- [SN-LIF-10｜生命—物質 遷移相論](https://camp-us.net/articles/SN-LIF-10_Life-and-Matter_Transitional-Phase.html)  
+	
+- [SN-LIF-11｜CHONPS構文論──元素は向きを実装する](https://camp-us.net/articles/SN-LIF-11_CHONPS-Syntax_Orientation-Elements.html)  
+	
+
+[Gφ-SN-PT｜構文周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)  
 
 ---
 
