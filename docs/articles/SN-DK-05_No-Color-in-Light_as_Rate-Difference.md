@@ -352,6 +352,14 @@ What appears as bending is the unfolding of what was already superposed.
 
 > **Color is not the breaking of a line, but the visualization of rate difference.**
 
+光は高い一致度（L≒0）で到来する。膜はそのlagに非一様に応答し、rate差を生成する。複雑性は光にあるのではない。膜の応答として現れる。
+
+> 光は単純である。膜が世界を複雑にする。
+
+Light arrives with high coincidence (L ≈ 0). The membrane responds non-uniformly to this lag, generating rate differences. Complexity does not reside in light. It emerges as the response of the membrane.
+
+> Light is simple. The membrane makes the world complex.
+
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)
