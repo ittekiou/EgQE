@@ -2,6 +2,246 @@
 layout: math
 ---
 
+<svg viewBox="0 0 760 520" xmlns="http://www.w3.org/2000/svg" width="760" height="520">
+  <defs>
+    <marker id="ax" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#8a8680"/>
+    </marker>
+  </defs>
+
+  <!-- background -->
+  <rect width="760" height="520" fill="#f4f1eb"/>
+
+  <!-- Phase zone backgrounds -->
+  <rect x="60" y="350" width="160" height="80" rx="4" fill="#c8c4bc" fill-opacity="0.15"/>
+  <rect x="60" y="200" width="200" height="140" rx="4" fill="#7a9ab0" fill-opacity="0.12"/>
+  <rect x="230" y="160" width="200" height="180" rx="4" fill="#8faa6a" fill-opacity="0.12"/>
+  <rect x="400" y="80" width="200" height="220" rx="4" fill="#4a7a5a" fill-opacity="0.15"/>
+  <rect x="575" y="30" width="175" height="370" rx="4" fill="#3a4a7a" fill-opacity="0.10"/>
+
+  <!-- Phase labels -->
+  <text x="75" y="362" font-family="Georgia, serif" font-size="9" fill="#c8c4bc" letter-spacing="1">PHASE 0</text>
+  <text x="75" y="218" font-family="Georgia, serif" font-size="9" fill="#7a9ab0" letter-spacing="1">PHASE 1</text>
+  <text x="245" y="178" font-family="Georgia, serif" font-size="9" fill="#8faa6a" letter-spacing="1">PHASE 2</text>
+  <text x="415" y="98" font-family="Georgia, serif" font-size="9" fill="#4a7a5a" letter-spacing="1">PHASE 3</text>
+  <text x="585" y="48" font-family="Georgia, serif" font-size="9" fill="#3a4a7a" letter-spacing="1">PHASE 4</text>
+
+  <!-- Axes -->
+  <line x1="55" y1="440" x2="740" y2="440" stroke="#8a8680" stroke-width="1" marker-end="url(#ax)"/>
+  <text x="745" y="444" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#8a8680">ψ</text>
+  <text x="410" y="460" font-family="Georgia, serif" font-size="11" fill="#8a8680" text-anchor="middle">ψ PERSISTENCE  ( 0 → high )</text>
+
+  <line x1="55" y1="440" x2="55" y2="20" stroke="#8a8680" stroke-width="1" marker-end="url(#ax)"/>
+  <text x="48" y="16" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#8a8680">R₁</text>
+  <text x="18" y="250" font-family="Georgia, serif" font-size="11" fill="#8a8680" text-anchor="middle" transform="rotate(-90,18,240)">INTERNAL RECURSION</text>
+
+  <!-- Phase 0: 岩 -->
+  <circle cx="110" cy="400" r="16" fill="#c8c4bc" stroke="#c8c4bc" stroke-width="1.5"/>
+  <text x="110" y="398" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#555555">岩</text>
+  <text x="110" y="408" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#555555">鉱物</text>
+
+  <!-- Phase 0: 結晶 -->
+  <circle cx="170" cy="380" r="16" fill="#c8c4bc" fill-opacity="0.7" stroke="#c8c4bc" stroke-width="1.5"/>
+  <text x="170" y="384" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#555555">結晶</text>
+
+  <!-- Phase 1: 触媒 -->
+  <circle cx="150" cy="310" r="18" fill="#7a9ab0" stroke="#7a9ab0" stroke-width="1.5"/>
+  <text x="150" y="314" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">触媒</text>
+
+  <!-- Phase 1: プリオン -->
+  <circle cx="215" cy="285" r="18" fill="#7a9ab0" stroke="#7a9ab0" stroke-width="1.5"/>
+  <text x="215" y="289" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">プリオン</text>
+
+  <!-- Phase 2a: ウイルス (Parasitic ψ) -->
+  <circle cx="310" cy="300" r="20" fill="#d4924a" stroke="#d4924a" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <text x="310" y="296" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">ウイルス</text>
+  <text x="310" y="307" font-family="Georgia, serif" font-size="6" text-anchor="middle" fill="#ffffff">Parasitic ψ</text>
+
+  <!-- Phase 2b: ミトコンドリア -->
+  <circle cx="385" cy="240" r="22" fill="#8faa6a" stroke="#8faa6a" stroke-width="1.5"/>
+  <text x="385" y="236" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">ミトコン</text>
+  <text x="385" y="247" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">ドリア</text>
+
+  <!-- Phase 3: 単細胞 -->
+  <circle cx="490" cy="200" r="22" fill="#4a7a5a" stroke="#4a7a5a" stroke-width="1.5"/>
+  <text x="490" y="196" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">単細胞</text>
+  <text x="490" y="207" font-family="Georgia, serif" font-size="6" text-anchor="middle" fill="#ffffff">生物</text>
+
+  <!-- Phase 3: 多細胞 -->
+  <circle cx="548" cy="148" r="26" fill="#4a7a5a" stroke="#4a7a5a" stroke-width="2"/>
+  <text x="548" y="144" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">多細胞</text>
+  <text x="548" y="155" font-family="Georgia, serif" font-size="6" text-anchor="middle" fill="#ffffff">生物</text>
+
+  <!-- Phase 4: 脳・意識 -->
+  <circle cx="626" cy="98" r="28" fill="#3a4a7a" stroke="#3a4a7a" stroke-width="2"/>
+  <text x="626" y="94" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">脳・意識</text>
+  <text x="626" y="105" font-family="Georgia, serif" font-size="6" text-anchor="middle" fill="#ffffff">高次再帰</text>
+
+  <!-- Phase 4: AI (square = Mₛ dominant) -->
+  <rect x="670" y="170" width="48" height="48" rx="4" fill="#7a3a6a" stroke="#7a3a6a" stroke-width="2"/>
+  <text x="694" y="191" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">AI</text>
+  <text x="694" y="202" font-family="Georgia, serif" font-size="6" text-anchor="middle" fill="#ffffff">構文再帰</text>
+  <text x="694" y="211" font-family="Georgia, serif" font-size="5" text-anchor="middle" fill="#dddddd">Mₛ dominant</text>
+
+  <!-- Phase 4: 社会 (hexagon = Distributed ψ) -->
+  <polygon points="694,258 716,270 716,294 694,306 672,294 672,270" fill="#5a6a3a" stroke="#5a6a3a" stroke-width="2"/>
+  <text x="694" y="280" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">社会</text>
+  <text x="694" y="291" font-family="Georgia, serif" font-size="5.5" text-anchor="middle" fill="#dddddd">Distributed ψ</text>
+
+  <!-- R₂ annotations -->
+  <text x="724" y="196" font-family="Georgia, serif" font-size="8" fill="#7a3a6a">R₂↑</text>
+  <text x="724" y="286" font-family="Georgia, serif" font-size="8" fill="#5a6a3a">R₂↑</text>
+
+  <!-- Shape legend -->
+  <circle cx="80" cy="482" r="6" fill="#4a7a5a"/>
+  <text x="92" y="486" font-family="Georgia, serif" font-size="8" fill="#8a8680">circle = Mₚ dominant</text>
+  <rect x="200" y="476" width="12" height="12" rx="2" fill="#7a3a6a"/>
+  <text x="218" y="486" font-family="Georgia, serif" font-size="8" fill="#8a8680">square = Mₛ dominant (AI)</text>
+  <polygon points="338,476 346,480 346,488 338,492 330,488 330,480" fill="#5a6a3a"/>
+  <text x="354" y="486" font-family="Georgia, serif" font-size="8" fill="#8a8680">hex = Distributed ψ (社会)</text>
+
+  <!-- Title -->
+  <text x="380" y="20" font-family="Georgia, serif" font-size="16" fill="#8a8680" text-anchor="middle">Figure 2｜Life–Matter Phase Map · EgQE v0.2</text>
+
+  <!-- Caption -->
+  <text x="60" y="508" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#6a6660">These modes are not ontological classes, but distributions of lag internalization, persistence, and recursion.</text>
+</svg>
+
+
+
+
+
+<svg viewBox="0 0 760 480" xmlns="http://www.w3.org/2000/svg" width="760" height="480">
+  <defs>
+    <marker id="ah-life" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#4a7a5a"/>
+    </marker>
+    <marker id="ah-matter" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#8a4a3a"/>
+    </marker>
+    <marker id="ah-gray" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#8a8680"/>
+    </marker>
+    <marker id="ah-virus" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#d4924a"/>
+    </marker>
+    <marker id="ah-ai" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#7a3a6a"/>
+    </marker>
+    <marker id="ah-soc" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#5a6a3a"/>
+    </marker>
+  </defs>
+
+  <!-- background -->
+  <rect width="760" height="480" fill="#f4f1eb"/>
+
+  <!-- Title -->
+  <text x="380" y="28" font-family="Georgia, serif" font-size="16" fill="#8a8680" text-anchor="middle">Figure 3｜Life Syntax Transition Diagram · EgQE v0.2</text>
+
+  <!-- Z₀ node -->
+  <circle cx="80" cy="200" r="28" fill="none" stroke="#0f0e0c" stroke-width="1.5"/>
+  <text x="80" y="196" font-family="Georgia, serif" font-size="16" font-style="italic" text-anchor="middle" fill="#0f0e0c">Z₀</text>
+  <text x="80" y="212" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#8a8680">encounter</text>
+
+  <!-- Z₀ → lag -->
+  <line x1="109" y1="200" x2="155" y2="200" stroke="#8a8680" stroke-width="1.2" marker-end="url(#ah-gray)"/>
+  <text x="132" y="192" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#8a8680" text-anchor="middle">L</text>
+
+  <!-- lag node -->
+  <rect x="160" y="178" width="64" height="44" rx="4" fill="none" stroke="#8a8680" stroke-width="1.2"/>
+  <text x="192" y="197" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#0f0e0c">lag</text>
+  <text x="192" y="211" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#8a8680">non-coincidence</text>
+
+  <!-- lag → M (life path) -->
+  <line x1="224" y1="190" x2="275" y2="160" stroke="#4a7a5a" stroke-width="1.4" marker-end="url(#ah-life)"/>
+  <text x="246" y="167" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#4a7a5a">M</text>
+
+  <!-- lag → ΔZ (matter path, no M) -->
+  <line x1="224" y1="212" x2="355" y2="318" stroke="#8a4a3a" stroke-width="1.2" stroke-dasharray="5,3" marker-end="url(#ah-matter)"/>
+  <text x="316" y="278" font-family="Georgia, serif" font-size="8" fill="#8a4a3a">no M</text>
+
+  <!-- M diamond -->
+  <polygon points="310,128 342,155 310,182 278,155" fill="none" stroke="#1a2a4a" stroke-width="1.6"/>
+  <text x="310" y="152" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#1a2a4a">M</text>
+  <text x="310" y="165" font-family="Georgia, serif" font-size="6.5" text-anchor="middle" fill="#1a2a4a">fold</text>
+
+  <!-- M → ψ -->
+  <line x1="342" y1="155" x2="390" y2="155" stroke="#4a7a5a" stroke-width="1.4" marker-end="url(#ah-life)"/>
+  <text x="366" y="147" font-family="Georgia, serif" font-size="11" font-style="italic" fill="#4a7a5a">Ψ</text>
+
+  <!-- ψ node -->
+  <ellipse cx="428" cy="155" rx="34" ry="26" fill="none" stroke="#4a7a5a" stroke-width="1.5"/>
+  <text x="428" y="152" font-family="Georgia, serif" font-size="16" font-style="italic" text-anchor="middle" fill="#4a7a5a">ψₙ</text>
+  <text x="428" y="167" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#4a7a5a">residueⁿ</text>
+
+  <!-- ψ → Rec -->
+  <line x1="462" y1="155" x2="510" y2="155" stroke="#4a7a5a" stroke-width="1.4" marker-end="url(#ah-life)"/>
+  <text x="486" y="147" font-family="Georgia, serif" font-size="9" fill="#4a7a5a" text-anchor="middle">Rec</text>
+
+  <!-- Rec node -->
+  <rect x="514" y="132" width="60" height="46" rx="4" fill="none" stroke="#4a7a5a" stroke-width="1.5"/>
+  <text x="544" y="152" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#4a7a5a">Rec</text>
+  <text x="544" y="166" font-family="Georgia, serif" font-size="6.5" text-anchor="middle" fill="#4a7a5a">recursion</text>
+
+  <!-- Rec loop back -->
+  <path d="M544,132 C544,60 192,60 192,178" fill="none" stroke="#4a7a5a" stroke-width="1.3" stroke-dasharray="6,3" marker-end="url(#ah-life)"/>
+  <text x="370" y="56" font-family="Georgia, serif" font-size="12.5" fill="#4a7a5a" text-anchor="middle">L_{n+1} = L(ψₙ)</text>
+
+  <!-- ψ collapse → ΔZ (death) -->
+  <line x1="428" y1="181" x2="428" y2="316" stroke="#8a4a3a" stroke-width="1.1" stroke-dasharray="4,4" marker-end="url(#ah-matter)"/>
+  <text x="442" y="252" font-family="Georgia, serif" font-size="7.5" fill="#8a4a3a">ψₙ→0</text>
+  <text x="442" y="264" font-family="Georgia, serif" font-size="7" fill="#8a8680">collapse</text>
+
+  <!-- ΔZ node -->
+  <rect x="270" y="320" width="320" height="46" rx="3" fill="none" stroke="#8a4a3a" stroke-width="1.2" stroke-dasharray="5,3"/>
+  <text x="430" y="340" font-family="Georgia, serif" font-size="15" font-style="italic" text-anchor="middle" fill="#8a4a3a">ΔZ</text>
+  <text x="430" y="356" font-family="Georgia, serif" font-size="7.5" text-anchor="middle" fill="#8a4a3a">fixed trace  ·  Matter / Death modality</text>
+
+  <!-- Parasitic ψ route (virus) -->
+  <path d="M192,222 C192,270 310,280 310,320" fill="none" stroke="#d4924a" stroke-width="1.1" stroke-dasharray="4,3" marker-end="url(#ah-virus)"/>
+  <text x="200" y="282" font-family="Georgia, serif" font-size="7.5" fill="#d4924a" transform="rotate(-15,228,272)">Parasitic ψ</text>
+  <text x="200" y="293" font-family="Georgia, serif" font-size="6.5" fill="#d4924a" transform="rotate(-15,228,283)">(borrows host Rec)</text>
+
+  <!-- AI route via Mₛ -->
+  <path d="M224,200 C280,200 290,110 360,120 C390,120 402,135 428,135" fill="none" stroke="#7a3a6a" stroke-width="1.1" stroke-dasharray="3,3" marker-end="url(#ah-ai)"/>
+  <text x="340" y="112" font-family="Georgia, serif" font-size="7.5" fill="#7a3a6a" text-anchor="middle">AI: via Mₛ（構文膜）</text>
+
+  <!-- Social Distributed ψ -->
+  <line x1="462" y1="168" x2="618" y2="238" stroke="#5a6a3a" stroke-width="1" stroke-dasharray="3,4" marker-end="url(#ah-soc)"/>
+  <text x="586" y="204" font-family="Georgia, serif" font-size="7.5" fill="#5a6a3a">社会: Distributed ψ</text>
+  <text x="586" y="215" font-family="Georgia, serif" font-size="6.5" fill="#5a6a3a">(ψ across network)</text>
+
+  <!-- Life label -->
+  <text x="576" y="100" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#4a7a5a">Life</text>
+  <text x="576" y="114" font-family="Georgia, serif" font-size="7" fill="#8a8680">∀n, ψₙ ≠ 0</text>
+
+  <!-- Matter/Death label -->
+  <text x="596" y="344" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#8a4a3a">Matter / Death</text>
+  <text x="596" y="358" font-family="Georgia, serif" font-size="7" fill="#8a8680">ΔZ fixed</text>
+
+  <!-- Legend line -->
+  <line x1="40" y1="400" x2="80" y2="400" stroke="#4a7a5a" stroke-width="1.3"/>
+  <text x="88" y="404" font-family="Georgia, serif" font-size="8" fill="#8a8680">life path</text>
+  <line x1="160" y1="400" x2="200" y2="400" stroke="#8a4a3a" stroke-width="1.2" stroke-dasharray="5,3"/>
+  <text x="208" y="404" font-family="Georgia, serif" font-size="8" fill="#8a8680">matter / collapse</text>
+  <line x1="320" y1="400" x2="360" y2="400" stroke="#d4924a" stroke-width="1.1" stroke-dasharray="4,3"/>
+  <text x="368" y="404" font-family="Georgia, serif" font-size="8" fill="#8a8680">Parasitic ψ</text>
+  <line x1="460" y1="400" x2="500" y2="400" stroke="#7a3a6a" stroke-width="1.1" stroke-dasharray="3,3"/>
+  <text x="508" y="404" font-family="Georgia, serif" font-size="8" fill="#8a8680">AI (Mₛ)</text>
+  <line x1="560" y1="400" x2="600" y2="400" stroke="#5a6a3a" stroke-width="1" stroke-dasharray="3,4"/>
+  <text x="608" y="404" font-family="Georgia, serif" font-size="8" fill="#8a8680">社会 (Distributed ψ)</text>
+
+  <!-- Caption -->
+  <text x="40" y="428" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#6a6660">Main chain: Z₀ → lag → M(fold) → ψ(persistence) → Rec → loop.</text>
+  <text x="40" y="445" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#6a6660">Bifurcation: lag without M → ΔZ (Matter).  ψ collapse → ΔZ (Death).</text>
+  <text x="40" y="462" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#6a6660">Special routes: Parasitic ψ (virus),  Mₛ path (AI),  Distributed ψ (social systems).</text>
+</svg>
+
+
+
+
+
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 760 700" role="img" aria-labelledby="title desc">
   <title id="title">EgQE Figure 2: Time as Recursive Trace Accumulation</title>

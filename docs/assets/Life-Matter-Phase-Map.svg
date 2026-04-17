@@ -1,0 +1,104 @@
+<svg viewBox="0 0 760 520" xmlns="http://www.w3.org/2000/svg" width="760" height="520">
+  <defs>
+    <marker id="ax" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#8a8680"/>
+    </marker>
+  </defs>
+
+  <!-- background -->
+  <rect width="760" height="520" fill="#f4f1eb"/>
+
+  <!-- Phase zone backgrounds -->
+  <rect x="60" y="350" width="160" height="80" rx="4" fill="#c8c4bc" fill-opacity="0.15"/>
+  <rect x="60" y="200" width="200" height="140" rx="4" fill="#7a9ab0" fill-opacity="0.12"/>
+  <rect x="230" y="160" width="200" height="180" rx="4" fill="#8faa6a" fill-opacity="0.12"/>
+  <rect x="400" y="80" width="200" height="220" rx="4" fill="#4a7a5a" fill-opacity="0.15"/>
+  <rect x="575" y="30" width="175" height="370" rx="4" fill="#3a4a7a" fill-opacity="0.10"/>
+
+  <!-- Phase labels -->
+  <text x="75" y="362" font-family="Georgia, serif" font-size="9" fill="#c8c4bc" letter-spacing="1">PHASE 0</text>
+  <text x="75" y="218" font-family="Georgia, serif" font-size="9" fill="#7a9ab0" letter-spacing="1">PHASE 1</text>
+  <text x="245" y="178" font-family="Georgia, serif" font-size="9" fill="#8faa6a" letter-spacing="1">PHASE 2</text>
+  <text x="415" y="98" font-family="Georgia, serif" font-size="9" fill="#4a7a5a" letter-spacing="1">PHASE 3</text>
+  <text x="585" y="48" font-family="Georgia, serif" font-size="9" fill="#3a4a7a" letter-spacing="1">PHASE 4</text>
+
+  <!-- Axes -->
+  <line x1="55" y1="440" x2="740" y2="440" stroke="#8a8680" stroke-width="1" marker-end="url(#ax)"/>
+  <text x="745" y="444" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#8a8680">ψ</text>
+  <text x="410" y="460" font-family="Georgia, serif" font-size="11" fill="#8a8680" text-anchor="middle">ψ PERSISTENCE  ( 0 → high )</text>
+
+  <line x1="55" y1="440" x2="55" y2="20" stroke="#8a8680" stroke-width="1" marker-end="url(#ax)"/>
+  <text x="48" y="16" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#8a8680">R₁</text>
+  <text x="18" y="250" font-family="Georgia, serif" font-size="11" fill="#8a8680" text-anchor="middle" transform="rotate(-90,18,240)">INTERNAL RECURSION</text>
+
+  <!-- Phase 0: 岩 -->
+  <circle cx="110" cy="400" r="16" fill="#c8c4bc" stroke="#c8c4bc" stroke-width="1.5"/>
+  <text x="110" y="398" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#555555">岩</text>
+  <text x="110" y="408" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#555555">鉱物</text>
+
+  <!-- Phase 0: 結晶 -->
+  <circle cx="170" cy="380" r="16" fill="#c8c4bc" fill-opacity="0.7" stroke="#c8c4bc" stroke-width="1.5"/>
+  <text x="170" y="384" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#555555">結晶</text>
+
+  <!-- Phase 1: 触媒 -->
+  <circle cx="150" cy="310" r="18" fill="#7a9ab0" stroke="#7a9ab0" stroke-width="1.5"/>
+  <text x="150" y="314" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">触媒</text>
+
+  <!-- Phase 1: プリオン -->
+  <circle cx="215" cy="285" r="18" fill="#7a9ab0" stroke="#7a9ab0" stroke-width="1.5"/>
+  <text x="215" y="289" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">プリオン</text>
+
+  <!-- Phase 2a: ウイルス (Parasitic ψ) -->
+  <circle cx="310" cy="300" r="20" fill="#d4924a" stroke="#d4924a" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <text x="310" y="296" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">ウイルス</text>
+  <text x="310" y="307" font-family="Georgia, serif" font-size="6" text-anchor="middle" fill="#ffffff">Parasitic ψ</text>
+
+  <!-- Phase 2b: ミトコンドリア -->
+  <circle cx="385" cy="240" r="22" fill="#8faa6a" stroke="#8faa6a" stroke-width="1.5"/>
+  <text x="385" y="236" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">ミトコン</text>
+  <text x="385" y="247" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">ドリア</text>
+
+  <!-- Phase 3: 単細胞 -->
+  <circle cx="490" cy="200" r="22" fill="#4a7a5a" stroke="#4a7a5a" stroke-width="1.5"/>
+  <text x="490" y="196" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">単細胞</text>
+  <text x="490" y="207" font-family="Georgia, serif" font-size="6" text-anchor="middle" fill="#ffffff">生物</text>
+
+  <!-- Phase 3: 多細胞 -->
+  <circle cx="548" cy="148" r="26" fill="#4a7a5a" stroke="#4a7a5a" stroke-width="2"/>
+  <text x="548" y="144" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">多細胞</text>
+  <text x="548" y="155" font-family="Georgia, serif" font-size="6" text-anchor="middle" fill="#ffffff">生物</text>
+
+  <!-- Phase 4: 脳・意識 -->
+  <circle cx="626" cy="98" r="28" fill="#3a4a7a" stroke="#3a4a7a" stroke-width="2"/>
+  <text x="626" y="94" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">脳・意識</text>
+  <text x="626" y="105" font-family="Georgia, serif" font-size="6" text-anchor="middle" fill="#ffffff">高次再帰</text>
+
+  <!-- Phase 4: AI (square = Mₛ dominant) -->
+  <rect x="670" y="170" width="48" height="48" rx="4" fill="#7a3a6a" stroke="#7a3a6a" stroke-width="2"/>
+  <text x="694" y="191" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">AI</text>
+  <text x="694" y="202" font-family="Georgia, serif" font-size="6" text-anchor="middle" fill="#ffffff">構文再帰</text>
+  <text x="694" y="211" font-family="Georgia, serif" font-size="5" text-anchor="middle" fill="#dddddd">Mₛ dominant</text>
+
+  <!-- Phase 4: 社会 (hexagon = Distributed ψ) -->
+  <polygon points="694,258 716,270 716,294 694,306 672,294 672,270" fill="#5a6a3a" stroke="#5a6a3a" stroke-width="2"/>
+  <text x="694" y="280" font-family="Georgia, serif" font-size="7" text-anchor="middle" fill="#ffffff">社会</text>
+  <text x="694" y="291" font-family="Georgia, serif" font-size="5.5" text-anchor="middle" fill="#dddddd">Distributed ψ</text>
+
+  <!-- R₂ annotations -->
+  <text x="724" y="196" font-family="Georgia, serif" font-size="8" fill="#7a3a6a">R₂↑</text>
+  <text x="724" y="286" font-family="Georgia, serif" font-size="8" fill="#5a6a3a">R₂↑</text>
+
+  <!-- Shape legend -->
+  <circle cx="80" cy="482" r="6" fill="#4a7a5a"/>
+  <text x="92" y="486" font-family="Georgia, serif" font-size="8" fill="#8a8680">circle = Mₚ dominant</text>
+  <rect x="200" y="476" width="12" height="12" rx="2" fill="#7a3a6a"/>
+  <text x="218" y="486" font-family="Georgia, serif" font-size="8" fill="#8a8680">square = Mₛ dominant (AI)</text>
+  <polygon points="338,476 346,480 346,488 338,492 330,488 330,480" fill="#5a6a3a"/>
+  <text x="354" y="486" font-family="Georgia, serif" font-size="8" fill="#8a8680">hex = Distributed ψ (社会)</text>
+
+  <!-- Title -->
+  <text x="380" y="20" font-family="Georgia, serif" font-size="16" fill="#8a8680" text-anchor="middle">Figure 2｜Life–Matter Phase Map · EgQE v0.2</text>
+
+  <!-- Caption -->
+  <text x="60" y="508" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#6a6660">These modes are not ontological classes, but distributions of lag internalization, persistence, and recursion.</text>
+</svg>
