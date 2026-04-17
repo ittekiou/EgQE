@@ -112,7 +112,7 @@ The separation of M into Mₚ (physical membrane) and Mₛ (syntactic membrane) 
 
 *ψ：借用（ウイルス）/ 分散（社会システム）
 
-> ここでの「様式」は存在論的階級ではなく、lagの内部化・持続・再帰の分布状態である。 These modes are not ontological classes, but distributions of lag internalization, persistence, and recursion.
+> ここでの「様式」は存在論的階級ではなく、lagの内部化・持続・再帰の分布状態である。  These modes are not ontological classes, but distributions of lag internalization, persistence, and recursion.
 
 ---
 
@@ -164,7 +164,10 @@ The phase structure divides into five levels as above. Three special routes are 
 
 **命題3｜再帰は一種類ではない** 内部再帰R₁と外部再帰R₂の分離により、ウイルスの「借用再帰」と社会の「分散再帰」が同一の枠内で記述できる。「再帰する」ことと「自前でψを維持する」ことは別の問いである。
 
-Three propositions follow from this matrix. (1) Life is not binary but distributes continuously as a combination of lag internalization, persistence, and recursion. (2) There is more than one kind of membrane; the Mₚ/Mₛ separation enables description of life-modalities beyond biological life. (3) There is more than one kind of recursion; the R₁/R₂ separation distinguishes borrowed recursion (virus) from distributed recursion (social systems).
+Three propositions follow from this matrix.  
+(1) Life is not binary but distributes continuously as a combination of lag internalization, persistence, and recursion.  
+(2) There is more than one kind of membrane; the Mₚ/Mₛ separation enables description of life-modalities beyond biological life.  
+(3) There is more than one kind of recursion; the R₁/R₂ separation distinguishes borrowed recursion (virus) from distributed recursion (social systems).
 
 ---
 
@@ -209,7 +212,7 @@ This matrix is not a classification. It is a phase diagram showing how modes of 
 	
 - [SN-LIF-09｜ψの正体──再帰に再帰を重ねる残差構造](https://camp-us.net/articles/SN-LIF-09_ψ-Identity_Residue-Upon-Residue.html)  
 	
-- 
+- [SN-LIF-10｜生命—物質 遷移相論](https://camp-us.net/articles/SN-LIF-10_Life-and-Matter_Transitional-Phase.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
