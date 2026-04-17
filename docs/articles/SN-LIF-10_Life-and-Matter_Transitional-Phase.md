@@ -125,6 +125,10 @@ The separation of M into Mₚ (physical membrane) and Mₛ (syntactic membrane) 
 
 ### Phase構造｜Phase Structure
 
+Phaseはψの発現と再帰構造の段階的成立に対応する最小分割である。
+
+The phases represent the minimal divisions corresponding to the stepwise constitution of ψ-emergence and recursive structure.
+
 Phase構造は5段階に分かれる。
 
 | Phase構造      | 記述                    | 対象        |
