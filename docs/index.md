@@ -111,6 +111,11 @@ Try SyncHub!
 
 [Gφ-SN-PT｜構文周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)  
 
+> EgQEは既存の物理・化学を否定するものではない。  
+> それらをlag構文として再配置する試みである。  
+> This framework does not negate existing physics or chemistry.  
+> It repositions them as syntactic expressions of lag.
+
 ---
 
 # Golden Knot｜黄金環 φ
