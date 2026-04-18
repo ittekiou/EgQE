@@ -91,7 +91,7 @@ Shared absence: lag is absorbed into presupposition
 
 意識は閉じているのではない。
 
-**lagが、前提に吸収されることで、閉じて見える。**
+**lagが、内部に折り返され不可視化されることで、閉じて見える。**
 
 他者が来る。遭遇が起きる。そのとき、到来する関係と現在の内部状態の間にズレ（lag）が生じる。このlagが膜において内部へ折り返されるとき──lagは内部化され、ψとして持続し、再帰する。
 
@@ -241,7 +241,7 @@ EgQEはその前提を解除する。
 
 > **意識は閉じているのではない。lagが折り返されることで、閉じて見えるのである。**
 
-lagは欠落していた基盤ではない。閉じて見えることそのものを生み出す条件である。
+**lagは欠落していた基盤ではない。閉じて見えることそのものを生み出す条件である。**
 
 ---
 
@@ -259,7 +259,7 @@ That is consciousness.
 
 > **Consciousness is not closed. It appears closed because lag is folded inward.**
 
-Lag is not only the missing ground. It is what makes closure appear.
+**Lag is not only the missing ground. It is what makes closure appear.**
 
 ---
 
