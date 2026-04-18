@@ -268,12 +268,14 @@ That is consciousness.
 👉 [QE-01｜思想史のアポリア──lag欠落の五系譜](https://camp-us.net/articles/QE-01_Five-Lineages-of-Aporia_Absence-of-Lag.html)  
 
 ---
+
 ## QEシリーズ
 
 ```
-QE-01：Lag is the missing ground.（欠落）
-QE-02：Lag is what makes closure appear.（閉じ）
-QE-03：Lag is what makes boundaries appear.（分岐）
+QE-01：Lag is the missing ground.
+QE-02：Lag is what makes closure appear.
+QE-03：Lag is what makes boundaries appear.
+QE-04：Lag determines the intensity of appearance.
 
 すべての現れは、lagの処理様式の帰結である。
 Everything that appears is a consequence of how lag is handled.
@@ -282,6 +284,7 @@ Everything that appears is a consequence of how lag is handled.
 [QE-01｜思想史のアポリア──lag欠落の五系譜（生命・他者・時間・膜・再帰）｜Five Lineages of Aporia: The Absence of Lag in the History of Thought](https://camp-us.net/articles/QE-01_Five-Lineages-of-Aporia_Absence-of-Lag.html)  
 [QE-02｜意識アポリア──意識はなぜ閉じて見えるのか｜Consciousness Aporia — Why It Appears Closed](https://camp-us.net/articles/QE-02_Consciousness-Aporia_Why-It-Appears-Closed.html)  
 [QE-03｜内外アポリア──なぜ境界があるように見えるのか｜Inside–Outside Aporia — Why Boundaries Appear](https://camp-us.net/articles/QE-03_Why-Boundaries-Appear_Inside-Outside-Aporia.html)  
+[QE-04｜境界強度論──なぜ境界は強さを持つのか｜Boundary Intensity — Why Boundaries Have Degrees](https://camp-us.net/articles/QE-04_Boundary-Intensity.html)  
 
 ---
 
