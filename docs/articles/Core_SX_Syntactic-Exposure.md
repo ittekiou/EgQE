@@ -117,7 +117,7 @@ _影が光を呼び起こす_
 [SN-DK-03｜膜が位相差を折り返す](https://camp-us.net/articles/SN-DK-03_Membrane-as-Phase-Folding.html)  
 [SN-DK-04｜影の構文──膜によるlag分布の再配置](https://camp-us.net/articles/SN-DK-04_Shadow-Syntax_Membrane-Lag.html)  
 [SN-DK-05｜光に色はない──rate差の空間化としての色](https://camp-us.net/articles/SN-DK-05_No-Color-in-Light_as_Rate-Difference.html)  
-
+[SN-DK-06｜明るさは連続ではない──Lag-Structured Appearance Field](https://camp-us.net/articles/SN-DK-06_Brightness-Not-Continuous_Lag-Structured-Appearance-Field.html)  
 
 ```
 膜     影
