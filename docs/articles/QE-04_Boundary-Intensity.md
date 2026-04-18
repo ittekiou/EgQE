@@ -281,7 +281,7 @@ Everything that appears is a consequence of how lag is handled.
 
 ---
 
-It does not remain. It never fully disappears.
+It does not persist. It never fully disappears.
 
 **境界とは、差の強度であり、消えきらないズレである**
 
