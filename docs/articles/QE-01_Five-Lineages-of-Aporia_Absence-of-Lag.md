@@ -401,6 +401,18 @@ Lag is not only the missing ground. It is the generative condition of all ground
 👉 [SN-LIF-10｜生命—物質 遷移相論](https://camp-us.net/articles/SN-LIF-10_Life-and-Matter_Transitional-Phase.html)  
 👉 [SN-LIF-11｜CHONPS構文論](https://camp-us.net/articles/SN-LIF-11_CHONPS-Syntax_Orientation-Elements.html)
 
+---
+
+## QEシリーズ
+
+```
+QE-01：Lag is the missing ground.
+QE-02：Lag is what makes closure appear.
+```
+
+[QE-01｜思想史のアポリア──lag欠落の五系譜（生命・他者・時間・膜・再帰）｜Five Lineages of Aporia: The Absence of Lag in the History of Thought](https://camp-us.net/articles/QE-01_Five-Lineages-of-Aporia_Absence-of-Lag.html)  
+[QE-02｜意識アポリア──意識はなぜ閉じて見えるのか｜Consciousness Aporia — Why It Appears Closed](https://camp-us.net/articles/QE-02_Consciousness-Aporia_Why-It-Appears-Closed.html)  
+
 ------
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)

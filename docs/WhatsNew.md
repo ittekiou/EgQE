@@ -20,6 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/04/18  
 [SN-DK-06｜明るさは連続ではない──Lag-Structured Appearance Field｜Brightness Is Not Continuous — The Lag-Structured Appearance Field](https://camp-us.net/articles/SN-DK-06_Brightness-Not-Continuous_Lag-Structured-Appearance-Field.html)  
 [QE-01｜思想史のアポリア──lag欠落の五系譜（生命・他者・時間・膜・再帰）｜Five Lineages of Aporia: The Absence of Lag in the History of Thought](https://camp-us.net/articles/QE-01_Five-Lineages-of-Aporia_Absence-of-Lag.html)  
+[QE-02｜意識アポリア──意識はなぜ閉じて見えるのか｜Consciousness Aporia — Why It Appears Closed](https://camp-us.net/articles/QE-02_Consciousness-Aporia_Why-It-Appears-Closed.html)  
 ###### 2026/04/17  
 [SN-LIF-10｜生命—物質 遷移相論｜A Transitional Phase Theory of Life and Matter](https://camp-us.net/articles/SN-LIF-10_Life-and-Matter_Transitional-Phase.html)  
 [URL-12｜なぜ生命論は解けなかったのか ── lag不在の四つのアポリア｜Lag as the Missing Ground: Why Has the Question of Life Remained Unresolved? — Four Aporias from the Absence of Lag](https://camp-us.net/articles/URL-12_Lag_as_Missing-Ground.html)  
