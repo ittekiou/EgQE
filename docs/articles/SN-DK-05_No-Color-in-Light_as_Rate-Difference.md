@@ -73,9 +73,12 @@ S_Z / S'_Z = 色・波長として記録されるΔZ構造
 
 $$\boxed{\text{波長} = \text{rate が刻む } \Delta Z \text{ の周期}}$$
 
-短波長（高周波）= rateが高い = ΔZの刻みが細かい 長波長（低周波）= rateが低い = ΔZの刻みが粗い
+短波長（高周波）= rateが高い = ΔZの刻みが細かい  
+長波長（低周波）= rateが低い = ΔZの刻みが粗い
 
-When light propagates, lag is continuously generated. The rate of that generation appears as the observed frequency. Wavelength is the interval of ΔZ carved by rate. Short wavelength = high rate = fine ΔZ intervals. Long wavelength = low rate = coarse ΔZ intervals.
+When light propagates, lag is continuously generated. The rate of that generation appears as the observed frequency. Wavelength is the interval of ΔZ carved by rate.  
+Short wavelength = high rate = fine ΔZ intervals.  
+Long wavelength = low rate = coarse ΔZ intervals.
 
 ---
 
