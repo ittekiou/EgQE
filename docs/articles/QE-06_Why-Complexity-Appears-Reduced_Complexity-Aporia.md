@@ -106,6 +106,8 @@ lag分布の形成
 > It is the restriction of admissible lag bandwidth.  
 > Complexity does not precede the filter. It is what the filter renders visible.
 
+![fig1-complexity-lag-shadow](../assets/fig1-complexity-lag-shadow.svg)  
+
 ---
 
 ## 4. 文化装置との接続

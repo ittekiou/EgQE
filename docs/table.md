@@ -163,6 +163,75 @@ layout: math
 </svg>
 
 
+<svg viewBox="0 0 500 460" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+
+  <defs>
+    <marker id="fa" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#8b3a2a"/>
+    </marker>
+    <marker id="fa-gray" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#3a3a3a"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="250" y="16" font-size="10" fill="#7a7a7a" text-anchor="middle" letter-spacing="2">Fig.1 / COMPLEXITY AS SHADOW OF ADMISSIBLE LAG</text>
+
+  <!-- Node 1: 文化装置 -->
+  <rect x="150" y="28" width="200" height="48" rx="2" fill="#8b3a2a"/>
+  <text x="250" y="50" font-size="12" fill="white" text-anchor="middle">文化装置</text>
+  <text x="250" y="66" font-size="9" fill="#f0ede6" text-anchor="middle">Cultural Apparatus</text>
+
+  <line x1="250" y1="76" x2="250" y2="98" stroke="#8b3a2a" stroke-width="2" marker-end="url(#fa)"/>
+
+  <!-- Node 2: B（フィルタ）- dashed = invisible -->
+  <rect x="150" y="100" width="200" height="48" rx="2" fill="#fff" stroke="#8b3a2a" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="250" y="122" font-size="12" fill="#8b3a2a" text-anchor="middle">境界強度 B（フィルタ）</text>
+  <text x="250" y="138" font-size="9" fill="#c4725f" text-anchor="middle">lag帯域フィルタ設定</text>
+
+  <!-- Invisible label -->
+  <text x="382" y="118" font-size="9" fill="#c4725f">不可視</text>
+  <line x1="352" y1="124" x2="368" y2="124" stroke="#c4725f" stroke-width="1" stroke-dasharray="3,2"/>
+
+  <line x1="250" y1="148" x2="250" y2="170" stroke="#8b3a2a" stroke-width="2" marker-end="url(#fa)"/>
+
+  <!-- Node 3: 許容lag帯域 -->
+  <rect x="150" y="172" width="200" height="48" rx="2" fill="#f5f3ef" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="250" y="194" font-size="12" fill="#3a3a3a" text-anchor="middle">許容lag帯域</text>
+  <text x="250" y="210" font-size="9" fill="#7a7a7a" text-anchor="middle">admissible lag bandwidth</text>
+
+  <line x1="250" y1="220" x2="250" y2="242" stroke="#3a3a3a" stroke-width="1.5" marker-end="url(#fa-gray)"/>
+
+  <!-- Node 4: lag分布 -->
+  <rect x="150" y="244" width="200" height="48" rx="2" fill="#f5f3ef" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="250" y="266" font-size="12" fill="#3a3a3a" text-anchor="middle">lag分布の形成</text>
+  <text x="250" y="282" font-size="9" fill="#7a7a7a" text-anchor="middle">lag distribution</text>
+
+  <line x1="250" y1="292" x2="250" y2="314" stroke="#3a3a3a" stroke-width="1.5" marker-end="url(#fa-gray)"/>
+
+  <!-- Node 5: 複雑性（影） -->
+  <rect x="150" y="316" width="200" height="48" rx="2" fill="#e8e4dc" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="250" y="338" font-size="12" fill="#1a1a1a" text-anchor="middle">複雑性（として観測）</text>
+  <text x="250" y="354" font-size="9" fill="#7a7a7a" text-anchor="middle">observed complexity</text>
+
+  <line x1="250" y1="364" x2="250" y2="386" stroke="#3a3a3a" stroke-width="1.5" marker-end="url(#fa-gray)"/>
+
+  <!-- Node 6: 意味（ΔZ） -->
+  <rect x="150" y="388" width="200" height="40" rx="2" fill="#f5f3ef" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="250" y="413" font-size="12" fill="#3a3a3a" text-anchor="middle">意味の安定化（ΔZ）</text>
+
+  <!-- Side annotation -->
+  <line x1="68" y1="124" x2="145" y2="124" stroke="#c8c0b0" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="34" y="116" font-size="8" fill="#aaa">B作動</text>
+  <text x="34" y="128" font-size="8" fill="#aaa">→不可視</text>
+
+  <!-- Bottom annotation -->
+  <text x="250" y="442" font-size="8" fill="#aaa" text-anchor="middle">Complexity appears as the shadow of admissible lag.</text>
+  <text x="250" y="452" font-size="8" fill="#aaa" text-anchor="middle">Complexity is not reduced — it is constrained into visibility.</text>
+
+</svg>
+
+
 
 
 <svg viewBox="0 0 760 520" xmlns="http://www.w3.org/2000/svg" width="760" height="520">
