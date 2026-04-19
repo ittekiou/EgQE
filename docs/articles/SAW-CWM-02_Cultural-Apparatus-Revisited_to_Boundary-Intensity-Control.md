@@ -277,7 +277,7 @@ SAW-CWM-02 ：Support is ambivalent — it generates while disappearing.
 ## SAW-CWM シリーズ
 
 [SAW-CWM｜C. Wright Millsの再定位──未完の社会学的想像力｜Repositioning C. Wright Mills: The Unfinished Sociological Imagination](https://camp-us.net/articles/SAW-CWM_Unfinished-Sociological-Imagination_Repositioning-C-Wright-Mills.html)  
-[SAW-CWM-02｜文化装置論の再定位──意味生成から境界強度制御へ｜Cultural Apparatus Revisited — From Meaning Production to Boundary Intensity Control](https://camp-us.net/articles/SAW-CWM-02_Cultural-Apparatus-Revisited_Boundary-Intensity-Control.html)
+[SAW-CWM-02｜文化装置論の再定位──意味生成から境界強度制御へ｜Cultural Apparatus Revisited — From Meaning Production to Boundary Intensity Control](https://camp-us.net/articles/SAW-CWM-02_Cultural-Apparatus-Revisited_to_Boundary-Intensity-Control.html)
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
