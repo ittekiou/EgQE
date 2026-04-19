@@ -86,7 +86,7 @@ $$\text{境界強度} = f\left(\frac{\Delta Z}{\psi}\right)$$
 
 > A cultural apparatus is not a meaning-production device.  
 > It is a device that controls the distribution of boundary intensity B,  
-> in which meaning (ΔZ) becomes possible.
+> in which meaning (ΔZ) is constituted
 
 ---
 
