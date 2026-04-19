@@ -1,0 +1,45 @@
+<svg viewBox="0 0 620 190" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+
+  <defs>
+    <marker id="fa" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#8b3a2a"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="310" y="16" font-size="10" fill="#7a7a7a" text-anchor="middle" letter-spacing="2">Fig.2 / IMITATION AS ΔZ INCORPORATION</text>
+
+  <!-- Node 1: 他者ΔZ -->
+  <rect x="16" y="60" width="100" height="56" rx="2" fill="#f5f3ef" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="66" y="85" font-size="11" fill="#3a3a3a" text-anchor="middle">他者ΔZ</text>
+  <text x="66" y="102" font-size="9" fill="#7a7a7a" text-anchor="middle">external</text>
+
+  <line x1="116" y1="88" x2="154" y2="88" stroke="#8b3a2a" stroke-width="1.5" marker-end="url(#fa)"/>
+  <text x="135" y="80" font-size="8" fill="#7a7a7a" text-anchor="middle">知覚</text>
+
+  <!-- Node 2: lag共鳴 -->
+  <rect x="156" y="60" width="110" height="56" rx="2" fill="#fff" stroke="#8b3a2a" stroke-width="1.2"/>
+  <text x="211" y="85" font-size="11" fill="#8b3a2a" text-anchor="middle">lag共鳴</text>
+  <text x="211" y="102" font-size="9" fill="#c4725f" text-anchor="middle">ΔR同期</text>
+
+  <line x1="266" y1="88" x2="304" y2="88" stroke="#8b3a2a" stroke-width="1.5" marker-end="url(#fa)"/>
+  <text x="285" y="80" font-size="8" fill="#7a7a7a" text-anchor="middle">写像</text>
+
+  <!-- Node 3: 内部再帰 -->
+  <rect x="306" y="60" width="110" height="56" rx="2" fill="#fff" stroke="#8b3a2a" stroke-width="1.2"/>
+  <text x="361" y="85" font-size="11" fill="#8b3a2a" text-anchor="middle">内部再帰</text>
+  <text x="361" y="102" font-size="9" fill="#c4725f" text-anchor="middle">再帰構文へ</text>
+
+  <line x1="416" y1="88" x2="454" y2="88" stroke="#8b3a2a" stroke-width="1.5" marker-end="url(#fa)"/>
+  <text x="435" y="80" font-size="8" fill="#7a7a7a" text-anchor="middle">固定</text>
+
+  <!-- Node 4: ΔZ再固定 -->
+  <rect x="456" y="60" width="110" height="56" rx="2" fill="#8b3a2a"/>
+  <text x="511" y="85" font-size="11" fill="white" text-anchor="middle">ΔZ再固定</text>
+  <text x="511" y="102" font-size="9" fill="#f0ede6" text-anchor="middle">internal</text>
+
+  <!-- Return loop -->
+  <path d="M 511 116 Q 511 155 361 155 Q 211 155 66 155 Q 66 130 66 116" stroke="#c8c0b0" stroke-width="1" fill="none" stroke-dasharray="4,3"/>
+  <text x="295" y="172" font-size="8" fill="#aaa" text-anchor="middle">再帰ループ（個体内）</text>
+
+</svg>

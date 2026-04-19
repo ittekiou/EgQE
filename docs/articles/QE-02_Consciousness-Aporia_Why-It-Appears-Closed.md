@@ -290,6 +290,10 @@ Everything that appears is a consequence of how lag is handled.
 
 ── _意識とは何か？をやめた瞬間に、意識が見えた_
 
+---
+
+[URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
+
 ------
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)

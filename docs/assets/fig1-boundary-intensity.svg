@@ -1,0 +1,61 @@
+<svg viewBox="0 0 660 300" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+
+  <!-- Title -->
+  <text x="330" y="18" font-size="10" fill="#7a7a7a" text-anchor="middle" letter-spacing="2">Fig.1 / BOUNDARY INTENSITY STRUCTURE</text>
+
+  <!-- MATTER block -->
+  <rect x="30" y="30" width="270" height="250" rx="2" fill="#f5f3ef" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="165" y="52" font-size="11" fill="#7a7a7a" text-anchor="middle" letter-spacing="2">MATTER</text>
+  <text x="165" y="68" font-size="9" fill="#aaa" text-anchor="middle">ΔZ fixed (external)</text>
+
+  <!-- Matter bars -->
+  <text x="95" y="98" font-size="9" fill="#aaa" text-anchor="middle">持続</text>
+  <rect x="75" y="104" width="40" height="110" rx="1" fill="#e8e4dc"/>
+  <rect x="75" y="164" width="40" height="50" rx="1" fill="#c8c0b0"/>
+
+  <text x="165" y="98" font-size="9" fill="#aaa" text-anchor="middle">安定</text>
+  <rect x="145" y="104" width="40" height="110" rx="1" fill="#e8e4dc"/>
+  <rect x="145" y="154" width="40" height="60" rx="1" fill="#c8c0b0"/>
+
+  <text x="235" y="98" font-size="9" fill="#aaa" text-anchor="middle">再帰</text>
+  <rect x="215" y="104" width="40" height="110" rx="1" fill="#e8e4dc"/>
+  <rect x="215" y="210" width="40" height="4" rx="1" fill="#c8c0b0"/>
+
+  <text x="165" y="240" font-size="11" fill="#7a7a7a" text-anchor="middle">B ≈ 低（再帰なし）</text>
+  <text x="165" y="258" font-size="9" fill="#aaa" text-anchor="middle">ΔZ = const</text>
+
+  <!-- Phase arrow -->
+  <line x1="310" y1="155" x2="350" y2="155" stroke="#3a3a3a" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="330" y="148" font-size="9" fill="#3a3a3a" text-anchor="middle">位相差</text>
+
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#3a3a3a"/>
+    </marker>
+    <marker id="arr-red" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#8b3a2a"/>
+    </marker>
+  </defs>
+
+  <!-- LIFE block -->
+  <rect x="360" y="30" width="270" height="250" rx="2" fill="#fff" stroke="#8b3a2a" stroke-width="1.5"/>
+  <text x="495" y="52" font-size="11" fill="#8b3a2a" text-anchor="middle" letter-spacing="2">LIFE</text>
+  <text x="495" y="68" font-size="9" fill="#c4725f" text-anchor="middle">ΔZ recursive (internal)</text>
+
+  <!-- Life bars -->
+  <text x="425" y="98" font-size="9" fill="#8b3a2a" text-anchor="middle">持続</text>
+  <rect x="405" y="104" width="40" height="110" rx="1" fill="#f5f0eb"/>
+  <rect x="405" y="108" width="40" height="106" rx="1" fill="#c4725f" opacity="0.6"/>
+
+  <text x="495" y="98" font-size="9" fill="#8b3a2a" text-anchor="middle">安定</text>
+  <rect x="475" y="104" width="40" height="110" rx="1" fill="#f5f0eb"/>
+  <rect x="475" y="112" width="40" height="102" rx="1" fill="#c4725f" opacity="0.6"/>
+
+  <text x="565" y="98" font-size="9" fill="#8b3a2a" text-anchor="middle">再帰</text>
+  <rect x="545" y="104" width="40" height="110" rx="1" fill="#f5f0eb"/>
+  <rect x="545" y="108" width="40" height="106" rx="1" fill="#8b3a2a" opacity="0.85"/>
+
+  <text x="495" y="240" font-size="11" fill="#8b3a2a" text-anchor="middle">B ≈ 高（再帰持続）</text>
+  <text x="495" y="258" font-size="9" fill="#c4725f" text-anchor="middle">ΔZ → ΔZ' → ΔZ''</text>
+
+</svg>

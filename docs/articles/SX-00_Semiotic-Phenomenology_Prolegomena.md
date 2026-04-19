@@ -414,6 +414,8 @@ _Maturation is transformation through recursion._
 - [SX-07](https://camp-us.net/articles/SX-07_Tri-Layer_Integration-Map_Operation-Condition-Premise.html)：配置（三層）  
 - [SX-EX-01](https://camp-us.net/articles/SX-EX-01_Exposure-Theory_Draft-Core.html)：露出理論（作法）  
 
+👉 [SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
+
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  

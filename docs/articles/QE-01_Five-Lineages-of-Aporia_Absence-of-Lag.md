@@ -420,6 +420,10 @@ Everything that appears is a consequence of how lag is handled.
 [QE-03｜内外アポリア──なぜ境界があるように見えるのか｜Inside–Outside Aporia — Why Boundaries Appear](https://camp-us.net/articles/QE-03_Why-Boundaries-Appear_Inside-Outside-Aporia.html)  
 [QE-04｜境界強度論──なぜ境界は強さを持つのか｜Boundary Intensity — Why Boundaries Have Degrees](https://camp-us.net/articles/QE-04_Boundary-Intensity.html)  
 
+---
+
+[URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
+
 ------
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)

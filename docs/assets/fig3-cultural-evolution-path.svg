@@ -1,0 +1,51 @@
+<svg viewBox="0 0 500 420" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+
+  <defs>
+    <marker id="fa3" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#8b3a2a"/>
+    </marker>
+    <marker id="fa3c" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#3a3a3a"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="250" y="16" font-size="10" fill="#7a7a7a" text-anchor="middle" letter-spacing="2">Fig.3 / CULTURAL EVOLUTION PATH</text>
+
+  <!-- Node 1: 文化 -->
+  <rect x="125" y="28" width="250" height="56" rx="2" fill="#8b3a2a"/>
+  <text x="250" y="54" font-size="13" fill="white" text-anchor="middle">文化（ΔZ固定様式）</text>
+  <text x="250" y="72" font-size="9" fill="#f0ede6" text-anchor="middle">Cultural ΔZ Pattern</text>
+
+  <line x1="250" y1="84" x2="250" y2="108" stroke="#8b3a2a" stroke-width="2" marker-end="url(#fa3)"/>
+
+  <!-- Node 2: 境界強度B -->
+  <rect x="125" y="110" width="250" height="56" rx="2" fill="#fff" stroke="#8b3a2a" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="250" y="136" font-size="13" fill="#8b3a2a" text-anchor="middle">境界強度 B の再編</text>
+  <text x="250" y="154" font-size="9" fill="#c4725f" text-anchor="middle">lag許容帯域フィルタ</text>
+
+  <!-- Side note: ΔZ先行 -->
+  <line x1="380" y1="138" x2="425" y2="138" stroke="#c4725f" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="430" y="124" font-size="10" fill="#c4725f">ΔZ先行</text>
+  <text x="430" y="156" font-size="10" fill="#c4725f">ΔR後続</text>
+
+  <line x1="250" y1="166" x2="250" y2="190" stroke="#8b3a2a" stroke-width="2" marker-end="url(#fa3)"/>
+
+  <!-- Node 3: ΔR–ΔZズレ分布 -->
+  <rect x="125" y="192" width="250" height="56" rx="2" fill="#f5f3ef" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="250" y="218" font-size="12" fill="#3a3a3a" text-anchor="middle">ΔR–ΔZズレ分布の変形</text>
+  <text x="250" y="236" font-size="9" fill="#7a7a7a" text-anchor="middle">lag distribution reshaping</text>
+
+  <line x1="250" y1="248" x2="250" y2="272" stroke="#3a3a3a" stroke-width="1.5" marker-end="url(#fa3c)"/>
+
+  <!-- Node 4: 適応空間 -->
+  <rect x="125" y="274" width="250" height="56" rx="2" fill="#f5f3ef" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="250" y="300" font-size="12" fill="#3a3a3a" text-anchor="middle">適応空間の歪み</text>
+  <text x="250" y="318" font-size="9" fill="#7a7a7a" text-anchor="middle">adaptive space deformation</text>
+
+  <line x1="250" y1="330" x2="250" y2="354" stroke="#3a3a3a" stroke-width="1.5" marker-end="url(#fa3c)"/>
+
+  <!-- Node 5: 遺伝子変化 -->
+  <rect x="125" y="356" width="250" height="44" rx="2" fill="#e8e4dc" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="250" y="383" font-size="12" fill="#1a1a1a" text-anchor="middle">遺伝子変化</text>
+</svg>

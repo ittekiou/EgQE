@@ -298,6 +298,10 @@ Everything that appears is a consequence of how lag is handled.
 
 _lagが世界を作ってる_
 
+---
+
+[URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
+
 ------
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)

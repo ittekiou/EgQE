@@ -285,6 +285,10 @@ It does not persist. It never fully disappears.
 
 **境界とは、差の強度であり、消えきらないズレである**
 
+---
+
+[URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
+
 ------
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)

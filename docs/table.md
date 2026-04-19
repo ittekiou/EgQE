@@ -2,6 +2,169 @@
 layout: math
 ---
 
+<svg viewBox="0 0 660 300" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+
+  <!-- Title -->
+  <text x="330" y="18" font-size="10" fill="#7a7a7a" text-anchor="middle" letter-spacing="2">Fig.1 / BOUNDARY INTENSITY STRUCTURE</text>
+
+  <!-- MATTER block -->
+  <rect x="30" y="30" width="270" height="250" rx="2" fill="#f5f3ef" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="165" y="52" font-size="11" fill="#7a7a7a" text-anchor="middle" letter-spacing="2">MATTER</text>
+  <text x="165" y="68" font-size="9" fill="#aaa" text-anchor="middle">ΔZ fixed (external)</text>
+
+  <!-- Matter bars -->
+  <text x="95" y="98" font-size="9" fill="#aaa" text-anchor="middle">持続</text>
+  <rect x="75" y="104" width="40" height="110" rx="1" fill="#e8e4dc"/>
+  <rect x="75" y="164" width="40" height="50" rx="1" fill="#c8c0b0"/>
+
+  <text x="165" y="98" font-size="9" fill="#aaa" text-anchor="middle">安定</text>
+  <rect x="145" y="104" width="40" height="110" rx="1" fill="#e8e4dc"/>
+  <rect x="145" y="154" width="40" height="60" rx="1" fill="#c8c0b0"/>
+
+  <text x="235" y="98" font-size="9" fill="#aaa" text-anchor="middle">再帰</text>
+  <rect x="215" y="104" width="40" height="110" rx="1" fill="#e8e4dc"/>
+  <rect x="215" y="210" width="40" height="4" rx="1" fill="#c8c0b0"/>
+
+  <text x="165" y="240" font-size="11" fill="#7a7a7a" text-anchor="middle">B ≈ 低（再帰なし）</text>
+  <text x="165" y="258" font-size="9" fill="#aaa" text-anchor="middle">ΔZ = const</text>
+
+  <!-- Phase arrow -->
+  <line x1="310" y1="155" x2="350" y2="155" stroke="#3a3a3a" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="330" y="148" font-size="9" fill="#3a3a3a" text-anchor="middle">位相差</text>
+
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#3a3a3a"/>
+    </marker>
+    <marker id="arr-red" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#8b3a2a"/>
+    </marker>
+  </defs>
+
+  <!-- LIFE block -->
+  <rect x="360" y="30" width="270" height="250" rx="2" fill="#fff" stroke="#8b3a2a" stroke-width="1.5"/>
+  <text x="495" y="52" font-size="11" fill="#8b3a2a" text-anchor="middle" letter-spacing="2">LIFE</text>
+  <text x="495" y="68" font-size="9" fill="#c4725f" text-anchor="middle">ΔZ recursive (internal)</text>
+
+  <!-- Life bars -->
+  <text x="425" y="98" font-size="9" fill="#8b3a2a" text-anchor="middle">持続</text>
+  <rect x="405" y="104" width="40" height="110" rx="1" fill="#f5f0eb"/>
+  <rect x="405" y="108" width="40" height="106" rx="1" fill="#c4725f" opacity="0.6"/>
+
+  <text x="495" y="98" font-size="9" fill="#8b3a2a" text-anchor="middle">安定</text>
+  <rect x="475" y="104" width="40" height="110" rx="1" fill="#f5f0eb"/>
+  <rect x="475" y="112" width="40" height="102" rx="1" fill="#c4725f" opacity="0.6"/>
+
+  <text x="565" y="98" font-size="9" fill="#8b3a2a" text-anchor="middle">再帰</text>
+  <rect x="545" y="104" width="40" height="110" rx="1" fill="#f5f0eb"/>
+  <rect x="545" y="108" width="40" height="106" rx="1" fill="#8b3a2a" opacity="0.85"/>
+
+  <text x="495" y="240" font-size="11" fill="#8b3a2a" text-anchor="middle">B ≈ 高（再帰持続）</text>
+  <text x="495" y="258" font-size="9" fill="#c4725f" text-anchor="middle">ΔZ → ΔZ' → ΔZ''</text>
+
+</svg>
+
+<svg viewBox="0 0 620 190" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+
+  <defs>
+    <marker id="fa" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#8b3a2a"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="310" y="16" font-size="10" fill="#7a7a7a" text-anchor="middle" letter-spacing="2">Fig.2 / IMITATION AS ΔZ INCORPORATION</text>
+
+  <!-- Node 1: 他者ΔZ -->
+  <rect x="16" y="60" width="100" height="56" rx="2" fill="#f5f3ef" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="66" y="85" font-size="11" fill="#3a3a3a" text-anchor="middle">他者ΔZ</text>
+  <text x="66" y="102" font-size="9" fill="#7a7a7a" text-anchor="middle">external</text>
+
+  <line x1="116" y1="88" x2="154" y2="88" stroke="#8b3a2a" stroke-width="1.5" marker-end="url(#fa)"/>
+  <text x="135" y="80" font-size="8" fill="#7a7a7a" text-anchor="middle">知覚</text>
+
+  <!-- Node 2: lag共鳴 -->
+  <rect x="156" y="60" width="110" height="56" rx="2" fill="#fff" stroke="#8b3a2a" stroke-width="1.2"/>
+  <text x="211" y="85" font-size="11" fill="#8b3a2a" text-anchor="middle">lag共鳴</text>
+  <text x="211" y="102" font-size="9" fill="#c4725f" text-anchor="middle">ΔR同期</text>
+
+  <line x1="266" y1="88" x2="304" y2="88" stroke="#8b3a2a" stroke-width="1.5" marker-end="url(#fa)"/>
+  <text x="285" y="80" font-size="8" fill="#7a7a7a" text-anchor="middle">写像</text>
+
+  <!-- Node 3: 内部再帰 -->
+  <rect x="306" y="60" width="110" height="56" rx="2" fill="#fff" stroke="#8b3a2a" stroke-width="1.2"/>
+  <text x="361" y="85" font-size="11" fill="#8b3a2a" text-anchor="middle">内部再帰</text>
+  <text x="361" y="102" font-size="9" fill="#c4725f" text-anchor="middle">再帰構文へ</text>
+
+  <line x1="416" y1="88" x2="454" y2="88" stroke="#8b3a2a" stroke-width="1.5" marker-end="url(#fa)"/>
+  <text x="435" y="80" font-size="8" fill="#7a7a7a" text-anchor="middle">固定</text>
+
+  <!-- Node 4: ΔZ再固定 -->
+  <rect x="456" y="60" width="110" height="56" rx="2" fill="#8b3a2a"/>
+  <text x="511" y="85" font-size="11" fill="white" text-anchor="middle">ΔZ再固定</text>
+  <text x="511" y="102" font-size="9" fill="#f0ede6" text-anchor="middle">internal</text>
+
+  <!-- Return loop -->
+  <path d="M 511 116 Q 511 155 361 155 Q 211 155 66 155 Q 66 130 66 116" stroke="#c8c0b0" stroke-width="1" fill="none" stroke-dasharray="4,3"/>
+  <text x="295" y="172" font-size="8" fill="#aaa" text-anchor="middle">再帰ループ（個体内）</text>
+
+</svg>
+
+<svg viewBox="0 0 500 420" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+
+  <defs>
+    <marker id="fa3" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#8b3a2a"/>
+    </marker>
+    <marker id="fa3c" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#3a3a3a"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="250" y="16" font-size="10" fill="#7a7a7a" text-anchor="middle" letter-spacing="2">Fig.3 / CULTURAL EVOLUTION PATH</text>
+
+  <!-- Node 1: 文化 -->
+  <rect x="125" y="28" width="250" height="56" rx="2" fill="#8b3a2a"/>
+  <text x="250" y="54" font-size="13" fill="white" text-anchor="middle">文化（ΔZ固定様式）</text>
+  <text x="250" y="72" font-size="9" fill="#f0ede6" text-anchor="middle">Cultural ΔZ Pattern</text>
+
+  <line x1="250" y1="84" x2="250" y2="108" stroke="#8b3a2a" stroke-width="2" marker-end="url(#fa3)"/>
+
+  <!-- Node 2: 境界強度B -->
+  <rect x="125" y="110" width="250" height="56" rx="2" fill="#fff" stroke="#8b3a2a" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="250" y="136" font-size="13" fill="#8b3a2a" text-anchor="middle">境界強度 B の再編</text>
+  <text x="250" y="154" font-size="9" fill="#c4725f" text-anchor="middle">lag許容帯域フィルタ</text>
+
+  <!-- Side note: ΔZ先行 -->
+  <line x1="380" y1="138" x2="425" y2="138" stroke="#c4725f" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="430" y="124" font-size="10" fill="#c4725f">ΔZ先行</text>
+  <text x="430" y="156" font-size="10" fill="#c4725f">ΔR後続</text>
+
+  <line x1="250" y1="166" x2="250" y2="190" stroke="#8b3a2a" stroke-width="2" marker-end="url(#fa3)"/>
+
+  <!-- Node 3: ΔR–ΔZズレ分布 -->
+  <rect x="125" y="192" width="250" height="56" rx="2" fill="#f5f3ef" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="250" y="218" font-size="12" fill="#3a3a3a" text-anchor="middle">ΔR–ΔZズレ分布の変形</text>
+  <text x="250" y="236" font-size="9" fill="#7a7a7a" text-anchor="middle">lag distribution reshaping</text>
+
+  <line x1="250" y1="248" x2="250" y2="272" stroke="#3a3a3a" stroke-width="1.5" marker-end="url(#fa3c)"/>
+
+  <!-- Node 4: 適応空間 -->
+  <rect x="125" y="274" width="250" height="56" rx="2" fill="#f5f3ef" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="250" y="300" font-size="12" fill="#3a3a3a" text-anchor="middle">適応空間の歪み</text>
+  <text x="250" y="318" font-size="9" fill="#7a7a7a" text-anchor="middle">adaptive space deformation</text>
+
+  <line x1="250" y1="330" x2="250" y2="354" stroke="#3a3a3a" stroke-width="1.5" marker-end="url(#fa3c)"/>
+
+  <!-- Node 5: 遺伝子変化 -->
+  <rect x="125" y="356" width="250" height="44" rx="2" fill="#e8e4dc" stroke="#c8c0b0" stroke-width="1"/>
+  <text x="250" y="383" font-size="12" fill="#1a1a1a" text-anchor="middle">遺伝子変化</text>
+</svg>
+
+
+
+
 <svg viewBox="0 0 760 520" xmlns="http://www.w3.org/2000/svg" width="760" height="520">
   <defs>
     <marker id="ax" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
