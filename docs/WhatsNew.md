@@ -20,6 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/04/19  
 [SN-LIF-12｜文化はなぜ進化を駆動するのか── 境界強度とlag再帰の集団的固定｜Why Culture Drives Evolution — Boundary Intensity and the Collective Fixation of Lag Recursion](https://camp-us.net/articles/SN-LIF-12_Why-Culture-Drives-Evolution_Boundary-Intensity-and-Lag-Recursion.html)  
 [QE-05｜文化進化のアポリア──なぜ文化は進化を駆動できるのか｜Culture Evolution Aporia — Why Culture Can Drive Evolution](https://camp-us.net/articles/QE-05_Why-Culture-Can-Drive-Evolution_Culture-Evolution-Aporia.html)  
+[SAW-CWM-02｜文化装置論の再定位──意味生成から境界強度制御へ｜Cultural Apparatus Revisited — From Meaning Production to Boundary Intensity Control](https://camp-us.net/articles/SAW-CWM-02_Cultural-Apparatus-Revisited_to_Boundary-Intensity-Control.html)  
 ###### 2026/04/18  
 [SN-DK-06｜明るさは連続ではない──Lag-Structured Appearance Field｜Brightness Is Not Continuous — The Lag-Structured Appearance Field](https://camp-us.net/articles/SN-DK-06_Brightness-Not-Continuous_Lag-Structured-Appearance-Field.html)  
 [QE-01｜思想史のアポリア──lag欠落の五系譜（生命・他者・時間・膜・再帰）｜Five Lineages of Aporia: The Absence of Lag in the History of Thought](https://camp-us.net/articles/QE-01_Five-Lineages-of-Aporia_Absence-of-Lag.html)  

@@ -4,6 +4,7 @@ title: SAW-CWM｜C. Wright Millsの再定位──未完の社会学的想像力
 title_en: "SAW-CWM｜Repositioning C. Wright Mills: The Unfinished Sociological Imagination ── From Interpreted Structure to Exposed Support"
 ---
 _Syntactic Askew Way (SAW)_  
+### SAW-CWM-01｜社会学的想像力
 # C. Wright Millsの再定位──未完の社会学的想像力
 # Repositioning C. Wright Mills
 ## The Unfinished Sociological Imagination
@@ -299,6 +300,10 @@ The market exposes it.
 
 ---
 
+[SAW-CWM-02｜文化装置論の再定位──意味生成から境界強度制御へ](https://camp-us.net/articles/SAW-CWM-02_Cultural-Apparatus-Revisited_to_Boundary-Intensity-Control.html)  
+
+---
+
 # **Repositioning C. Wright Mills**
 ## **The Unfinished Sociological Imagination**
 ### ── _From Interpreted Structure to Exposed Support_
@@ -478,6 +483,10 @@ Support is indicated.**
 > _**Their capacity for astonishment is made lively again.**_  
 > They acquire **a new way of thinking**, they experience **a transvaluation of values**: in a word, by their reflection and by their sensibility, they realize the cultural meaning of the social science.  
 <p align="right">(S.I. by C.W.M.)</p>
+
+---
+
+[SAW-CWM-02｜Cultural Apparatus Revisited — From Meaning Production to Boundary Intensity Control](https://camp-us.net/articles/SAW-CWM-02_Cultural-Apparatus-Revisited_to_Boundary-Intensity-Control.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
