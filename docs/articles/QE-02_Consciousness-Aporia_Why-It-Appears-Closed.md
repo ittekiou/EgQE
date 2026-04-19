@@ -277,16 +277,18 @@ QE-02：Lag is what makes closure appear.（閉鎖）
 QE-03：Lag is what makes boundaries appear.（分岐）
 QE-04：Lag determines the intensity of appearance.（強度）
 QE-05：Lag intensity, collectively shared, generates the space in which evolution occurs.（集団化）
+QE-06：Lag bandwidth defines the space of observable complexity.（帯域）
 
 すべての現れは、lagの処理様式の帰結である。
 Everything that appears is a consequence of how lag is handled.
 ```
 
-[QE-01｜思想史のアポリア──lag欠落の五系譜（生命・他者・時間・膜・再帰）｜Five Lineages of Aporia: The Absence of Lag in the History of Thought](https://camp-us.net/articles/QE-01_Five-Lineages-of-Aporia_Absence-of-Lag.html)  
-[QE-02｜意識アポリア──意識はなぜ閉じて見えるのか｜Consciousness Aporia — Why It Appears Closed](https://camp-us.net/articles/QE-02_Consciousness-Aporia_Why-It-Appears-Closed.html)  
-[QE-03｜内外アポリア──なぜ境界があるように見えるのか｜Inside–Outside Aporia — Why Boundaries Appear](https://camp-us.net/articles/QE-03_Why-Boundaries-Appear_Inside-Outside-Aporia.html)  
-[QE-04｜境界強度論──なぜ境界は強さを持つのか｜Boundary Intensity — Why Boundaries Have Degrees](https://camp-us.net/articles/QE-04_Boundary-Intensity.html)  
-[QE-05｜文化進化のアポリア──なぜ文化は進化を駆動できるのか｜Culture Evolution Aporia — Why Culture Can Drive Evolution](https://camp-us.net/articles/QE-05_Why-Culture-Can-Drive-Evolution_Culture-Evolution-Aporia.html)  
+[QE-01｜思想史のアポリア──lag欠落の五系譜](https://camp-us.net/articles/QE-01_Five-Lineages-of-Aporia_Absence-of-Lag.html)  
+[QE-02｜意識アポリア──意識はなぜ閉じて見えるのか](https://camp-us.net/articles/QE-02_Consciousness-Aporia_Why-It-Appears-Closed.html)  
+[QE-03｜内外アポリア──なぜ境界があるように見えるのか](https://camp-us.net/articles/QE-03_Why-Boundaries-Appear_Inside-Outside-Aporia.html)  
+[QE-04｜境界強度論──なぜ境界は強さを持つのか](https://camp-us.net/articles/QE-04_Boundary-Intensity.html)  
+[QE-05｜文化進化のアポリア──なぜ文化は進化を駆動できるのか](https://camp-us.net/articles/QE-05_Why-Culture-Can-Drive-Evolution_Culture-Evolution-Aporia.html)  
+[QE-06｜複雑性アポリア──なぜ複雑性は縮減されるのか](https://camp-us.net/articles/QE-06_Why-Complexity-Appears-Reduced_Complexity-Aporia.html)  
 
 ---
 
