@@ -44,7 +44,7 @@ title_en: SN-LIF-12｜Why Culture Drives Evolution — Boundary Intensity and th
 > 生命とは、再帰が内部化された物質である。
 
 > Life is a lag-recursive structure that maintains boundary intensity.  
-> The difference between life and matter is not ontological, but phase-based.
+> The distinction between life and matter is not ontological, but phase-based.
 
 ---
 
@@ -156,7 +156,7 @@ title_en: SN-LIF-12｜Why Culture Drives Evolution — Boundary Intensity and th
 > **境界強度とは、取りうる（許容される）lagの帯域を規定する構文的フィルタである。** **文化は境界強度分布を通じて、適応空間そのものを生成する。**
 
 > Boundary intensity functions as a filter that determines the admissible range of lag.  
-> Culture reshapes adaptive space by restructuring the distribution of boundary intensity.
+> Culture reshapes adaptive space by reorganizing boundary intensity distribution.
 
 ---
 
@@ -178,7 +178,7 @@ title_en: SN-LIF-12｜Why Culture Drives Evolution — Boundary Intensity and th
 境界は消えない。 ただ、持続として編まれ続ける。
 
 > Boundaries do not disappear.  
-> They persist as ongoing configurations.
+> They persist as configurations in motion.
 
 ---
 
