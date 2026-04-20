@@ -191,6 +191,19 @@ $$
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 ---
+
+lagは細部に宿る
+
+数値に踊らされるな
+数字を踊らせよ
+
+構文が先にあり
+数値は後から来る
+
+数式に従うな。  
+構文に立て。
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
