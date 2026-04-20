@@ -86,7 +86,15 @@ the world emerges.
 - [URL-12｜Lag as the Missing Ground](https://camp-us.net/articles/URL-12_Lag_as_Missing-Ground.html)  
 	── なぜ生命論は解けなかったのか：lag不在の四つのアポリア── 他者・時間・再帰・膜
 	
-
+- [URL-13｜Reconfiguration of Distance, Time, and Velocity via Lag Syntax](https://camp-us.net/articles/URL-13_Distance-Time-Velocity_Reconfiguration.html)  
+	── 距離・時間・速度のlag構文による再配置
+	
+- [URL-14｜Reconfiguration of Velocity and Light Speed via Lag Syntax](https://camp-us.net/articles/URL-14_Light-Speed_Velocity_Reconfiguration.html)  
+	── 速度と光速のlag構文による再配置
+	
+- [URL-14-NT｜Mass and Energy in Lag Syntax (Note)](https://camp-us.net/articles/URL-14-NT_Mass-Energy_Note.html)  
+	── 質量とエネルギーのlag構文による再配置（メモ）
+	
 
 ---
 
