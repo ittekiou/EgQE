@@ -45,6 +45,10 @@ Mass is the interface that did not flow.
 
 ---
 
+👉 [URL-EX-02｜循環構文からの解放｜Release from Circular Syntax](https://camp-us.net/articles/URL-EX-02_Release_from_Circular-Syntax.html)  
+
+---
+
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 ---
