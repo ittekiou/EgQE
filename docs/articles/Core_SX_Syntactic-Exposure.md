@@ -38,7 +38,7 @@ _— it is the moment flow becomes form_
 - [SX-07｜Tri-Layer Integration Map — Operation, Condition, Premise](https://camp-us.net/articles/SX-07_Tri-Layer_Integration-Map_Operation-Condition-Premise.html)  
 — Co-placement of all three syntactic layers
     
-- [SX-08｜Particle Spectrum in ΔR–ΔZ Space — Tri-Layer Syntax Map](https://camp-us.net/articles/SX-08_Particle_Spectrum_DeltaR_DeltaZ.html)  
+- [SX-08｜Particle Spectrum in ΔR–ΔZ Space — Tri-Layer Syntax Map](https://camp-us.net/articles/SX-08_Particle-Spectrum_Tri-Layer-Syntax-Map.html)  
 — Particles as positions in syntax, not things
     
 - [SX-09｜Exposure — When Flow Becomes Light](https://camp-us.net/articles/SX-09_Exposure_When-Flow-Becomes-Light.html)  
