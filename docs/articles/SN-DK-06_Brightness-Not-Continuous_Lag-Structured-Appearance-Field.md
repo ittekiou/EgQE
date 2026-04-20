@@ -176,7 +176,7 @@ Frequency is not the cause of light but the rate of ΔZ generation in lag propag
 
 ## 6｜The Complete Form of the Lag-Structured Appearance Field
 
-![Lag-Structured-Appearance-Field_01](Lag-Structured-Appearance-Field_01.png)  
+![Lag-Structured-Appearance-Field_01](../assets/Lag-Structured-Appearance-Field_01.png)  
 
 ```
 上半場（ΔZ）：lag≒0 → 光・明るさ・影
