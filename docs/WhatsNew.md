@@ -21,6 +21,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [URL-14｜速度と光速のlag構文による再配置｜Reconfiguration of Velocity and Light Speed via Lag Syntax](https://camp-us.net/articles/URL-14_Light-Speed_Velocity_Reconfiguration.html)  
 [URL-14-NT｜質量とエネルギーのlag構文（メモ）｜Mass and Energy in Lag Syntax (Note)](https://camp-us.net/articles/URL-14-NT_Mass-Energy_Note.html)  
 [URL-EX-02｜循環構文からの解放｜Release from Circular Syntax](https://camp-us.net/articles/URL-EX-02_Release_from_Circular-Syntax.html)  
+[URL-15｜質量とエネルギーのlag構文による再配置｜Reconfiguration of Mass and Energy via Lag Syntax](https://camp-us.net/articles/URL-15_Mass-Energy_Reconfiguration.html)  
+[URL-16｜重力のlag構文による再配置｜Reconfiguration of Gravity via Lag Syntax](https://camp-us.net/articles/URL-16_Gravity_Reconfiguration.html)  
 ###### 2026/04/19  
 [SN-LIF-12｜文化はなぜ進化を駆動するのか── 境界強度とlag再帰の集団的固定｜Why Culture Drives Evolution — Boundary Intensity and the Collective Fixation of Lag Recursion](https://camp-us.net/articles/SN-LIF-12_Why-Culture-Drives-Evolution_Boundary-Intensity-and-Lag-Recursion.html)  
 [QE-05｜文化進化のアポリア──なぜ文化は進化を駆動できるのか｜Culture Evolution Aporia — Why Culture Can Drive Evolution](https://camp-us.net/articles/QE-05_Why-Culture-Can-Drive-Evolution_Culture-Evolution-Aporia.html)  

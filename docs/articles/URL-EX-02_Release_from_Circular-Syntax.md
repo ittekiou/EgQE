@@ -93,6 +93,8 @@ In this formulation:
 [URL-13｜Reconfiguration of Distance, Time, and Velocity via Lag Syntax](https://camp-us.net/articles/URL-13_Distance-Time-Velocity_Reconfiguration.html)  
 [URL-14｜Reconfiguration of Velocity and Light Speed via Lag Syntax](https://camp-us.net/articles/URL-14_Light-Speed_Velocity_Reconfiguration.html)  
 [URL-14-NT｜Mass and Energy in Lag Syntax (Note)](https://camp-us.net/articles/URL-14-NT_Mass-Energy_Note.html)  
+[URL-15｜Reconfiguration of Mass and Energy via Lag Syntax](https://camp-us.net/articles/URL-15_Mass-Energy_Reconfiguration.html)  
+[URL-16｜Reconfiguration of Gravity via Lag Syntax](https://camp-us.net/articles/URL-16_Gravity_Reconfiguration.html)  
 
 ---
 
@@ -181,6 +183,8 @@ $$
 [URL-13｜距離・時間・速度のlag構文による再配置](https://camp-us.net/articles/URL-13_Distance-Time-Velocity_Reconfiguration.html)  
 [URL-14｜速度と光速のlag構文による再配置](https://camp-us.net/articles/URL-14_Light-Speed_Velocity_Reconfiguration.html)  
 [URL-14-NT｜質量とエネルギーのlag構文（メモ）](https://camp-us.net/articles/URL-14-NT_Mass-Energy_Note.html)  
+[URL-15｜質量とエネルギーのlag構文による再配置](https://camp-us.net/articles/URL-15_Mass-Energy_Reconfiguration.html)  
+[URL-16｜重力のlag構文による再配置](https://camp-us.net/articles/URL-16_Gravity_Reconfiguration.html)  
 
 ---
 

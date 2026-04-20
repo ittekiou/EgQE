@@ -95,6 +95,12 @@ the world emerges.
 - [URL-14-NT｜Mass and Energy in Lag Syntax (Note)](https://camp-us.net/articles/URL-14-NT_Mass-Energy_Note.html)  
 	── 質量とエネルギーのlag構文による再配置（メモ）
 	
+- [URL-15｜Reconfiguration of Mass and Energy via Lag Syntax](https://camp-us.net/articles/URL-15_Mass-Energy_Reconfiguration.html)  
+	── 質量とエネルギーのlag構文による再配置
+	
+- [URL-16｜Reconfiguration of Gravity via Lag Syntax](https://camp-us.net/articles/URL-16_Gravity_Reconfiguration.html)  
+	── 重力のlag構文による再配置
+	
 
 ---
 
