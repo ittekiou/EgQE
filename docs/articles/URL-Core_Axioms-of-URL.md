@@ -126,9 +126,19 @@ It is the underlying layer of syntactic ontology.
 
 ---
 
+「なぜそうなるのか」が書かれていない式は、構文ではない。
+
+---
+
 ## EgQE Core（minimal）
 
+[URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 [TS-Core｜Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
+[SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
+
+---
+
+_式を疑え。起点を探せ。_
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
