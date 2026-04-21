@@ -125,6 +125,16 @@ Light speed emerges as a stability condition of propagation.
 
 ---
 
+## 図｜Unified Diagram
+
+![Unified Lag Syntax Architecture](../assets/Unified-Lag-Syntax-Architecture.png)  
+**図：lag構文による物理の統一構造**  
+**Figure: Unified structure of physics via lag syntax**  
+> Structure does not emerge from time.  
+> Persistence produces the appearance of structure.
+
+---
+
 ## 統一｜Unification
 
 すべての物理量は、lag構文の振る舞いとして現れる：
