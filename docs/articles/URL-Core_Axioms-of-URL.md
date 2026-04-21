@@ -116,6 +116,9 @@ the world emerges.
 - [URL-20｜Reconfiguration of Light Speed via Lag Syntax](https://camp-us.net/articles/URL-20_Light-Speed_Reconfiguration.html)  
 	── 光速のlag構文による再配置
 	
+- [URL-21｜Unified Physics via Lag Syntax](https://camp-us.net/articles/URL-21_Unified-Physics_via_Lag-Syntax.html)  
+	── lag構文による物理の統一
+	
 
 ---
 

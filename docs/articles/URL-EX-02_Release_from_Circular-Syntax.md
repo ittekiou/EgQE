@@ -95,6 +95,12 @@ In this formulation:
 [URL-14-NT｜Mass and Energy in Lag Syntax (Note)](https://camp-us.net/articles/URL-14-NT_Mass-Energy_Note.html)  
 [URL-15｜Reconfiguration of Mass and Energy via Lag Syntax](https://camp-us.net/articles/URL-15_Mass-Energy_Reconfiguration.html)  
 [URL-16｜Reconfiguration of Gravity via Lag Syntax](https://camp-us.net/articles/URL-16_Gravity_Reconfiguration.html)  
+[URL-16-NT｜Gravity and the Syntactic Expression of Spacetime (Note)](https://camp-us.net/articles/URL-16-NT_Gravity_Spacetime_Note.html)  
+[URL-17｜Reconfiguration of Field via Lag Syntax](https://camp-us.net/articles/URL-17_Field_Reconfiguration.html)  
+[URL-18｜Reconfiguration of Electromagnetism via Lag Syntax](https://camp-us.net/articles/URL-18_Electromagnetism_Reconfiguration.html)  
+[URL-19｜Reconfiguration of Maxwell Equations via Lag Syntax](https://camp-us.net/articles/URL-19_Maxwell-Equations_Reconfiguration.html)  
+[URL-20｜Reconfiguration of Light Speed via Lag Syntax](https://camp-us.net/articles/URL-20_Light-Speed_Reconfiguration.html)  
+[URL-21｜Unified Physics via Lag Syntax](https://camp-us.net/articles/URL-21_Unified-Physics_via_Lag-Syntax.html)  
 
 ---
 
@@ -185,6 +191,12 @@ $$
 [URL-14-NT｜質量とエネルギーのlag構文（メモ）](https://camp-us.net/articles/URL-14-NT_Mass-Energy_Note.html)  
 [URL-15｜質量とエネルギーのlag構文による再配置](https://camp-us.net/articles/URL-15_Mass-Energy_Reconfiguration.html)  
 [URL-16｜重力のlag構文による再配置](https://camp-us.net/articles/URL-16_Gravity_Reconfiguration.html)  
+[URL-16-NT｜重力と時空の構文的表現（メモ）](https://camp-us.net/articles/URL-16-NT_Gravity_Spacetime_Note.html)  
+[URL-17｜場のlag構文による再配置](https://camp-us.net/articles/URL-17_Field_Reconfiguration.html)  
+[URL-18｜電磁のlag構文による再配置](https://camp-us.net/articles/URL-18_Electromagnetism_Reconfiguration.html)  
+[URL-19｜Maxwell方程式のlag構文による再配置](https://camp-us.net/articles/URL-19_Maxwell-Equations_Reconfiguration.html)  
+[URL-20｜光速のlag構文による再配置](https://camp-us.net/articles/URL-20_Light-Speed_Reconfiguration.html)  
+[URL-21｜lag構文による物理の統一](https://camp-us.net/articles/URL-21_Unified-Physics_via_Lag-Syntax.html)  
 
 ---
 
