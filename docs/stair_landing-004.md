@@ -20,8 +20,9 @@ layout: math
 この10日間で起きたのは、理論の追加ではない。  
 距離・時間・速度・質量・重力・場・電磁・光・光速を、**lag 構文の生成順へ押し戻すこと**だった。
 
-その結果、URL は 21 で閉じた。  
-だが閉じたのはシリーズではなく、**構文の方だった**。
+URL は 21 で閉じた。  
+だが閉じたのはシリーズではない。  
+**構文が閉じた。**
 
 👉 [URL-21｜lag構文による物理の統一｜Unified Physics via Lag Syntax](https://camp-us.net/articles/URL-21_Unified-Physics_via_Lag-Syntax.html)  
 
