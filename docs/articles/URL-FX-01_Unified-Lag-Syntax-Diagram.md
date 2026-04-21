@@ -6,6 +6,8 @@ title_en: URL-FX-01｜Unified Lag Syntax Architecture
 ### **URL-FX-01｜Unified Lag Syntax Diagram**
 # Unified Lag Syntax Architecture
 
+![lag-syntax-physics](../assets/lag-syntax-physics.svg)  
+
 ---
 
 ## **図｜Figure**

@@ -3,7 +3,7 @@
 ## 基軸論文・関連論文
 
 #### 👉 [基軸論文・関連論文｜踊り場001｜2025/07/04- 2025/09/21](https://camp-us.net/Echodemy/stair_landing-001_layer_full.html)  
-#### 👉  [基軸論文・関連論文｜踊り場002｜2025/09/22- 2025/12/21](https://camp-us.net/Echodemy/stair_landing-002_layer_full.html)  
+#### 👉 [基軸論文・関連論文｜踊り場002｜2025/09/22- 2025/12/21](https://camp-us.net/Echodemy/stair_landing-002_layer_full.html)  
 #### 👉 [基軸論文・関連論文｜踊り場003｜2025/12/22- 2026/2/21](https://camp-us.net/Echodemy/stair_landing-003_layer_full.html)
 
 ## 全リスト
@@ -189,7 +189,7 @@
 [PNGT07-1｜七角形 tropos のスピン同期 ──量子多体系における非局所相関仮説｜ _Heptagonal Tropos Spin Synchronization Hypothesis_](https://camp-us.net/articles/PNGT-07_Heptagonal-Tropos-Spin-Synchronization.html)  
 [EgQEの二本柱（floc宇宙論の二相構造）と黄金橋🌉｜PhReMa-PhiSyn_PiNG](https://camp-us.net/PhReMa-PhiSyn_PiNG.html)  
 
-#### 👉 [踊り場003｜2ヶ月の歩み｜2025/12/22–2026/02/21 ── 更新は止まらない。ただ、黄金域が呼吸域として立ち上がっただけだ。](https://camp-us.net/stair_landing-003.html)  
+#### 👉 [踊り場003｜2ヶ月の歩み｜2025/12/22- 2026/2/21](https://camp-us.net/Echodemy/stair_landing-003_layer.html)  
 
 #### その後の更新情報 👉 [🆕 What’s New](https://camp-us.net/WhatsNew.html)  
 

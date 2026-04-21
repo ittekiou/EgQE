@@ -388,6 +388,7 @@
 ⚙️ [HEG-10｜Axis-Core Prelude｜Axis-4: Structural and Generative Correspondence of Relational Lag — Same Remainder, Different Clock](https://camp-us.net/articles/HEG-10_Axis-4_Axis-Core_Prelude_v1.0.html)  
 🕰️ [Toward a Non-Closure Updating Ontology｜非閉包更新存在論へ向けて](https://camp-us.net/Non-Closure-Updating-Ontology.html)  
 
+#### [踊り場004｜2ヶ月の歩み｜2026/02/22 – 2026/04/21](https://camp-us.net/Echodemy/stair_landing-004_layer.html)  
 #### その後の更新情報 👉 [🆕 What’s New](https://camp-us.net/WhatsNew.html)  
 
 ---

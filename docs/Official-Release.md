@@ -93,11 +93,20 @@
 🚶 [EgQE｜Practical Core｜The Age of Inter-Phase](https://camp-us.net/Core_Practical-Core_Age-of-Inter-Phase.html)　リリース　2026.3.6  
 ☀️ [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)　リリース　2026.3.7  
 🌐 [EgQE｜更新存在論から支えの理論へ｜HEG-08–12 Core Map](https://camp-us.net/articles/Core_HEG-8-12_Map_Satellite-Turn_Updating-Ontology.html)　リリース　2026.3.8  
+⏳ [EgQE｜TS-Core｜時間生成：Time Syntax — Core Statement](https://camp-us.net/articles/Core_TS_Time-Syntax.html)　リリース　2026.3.8  
 🪞 [鏡宇宙への扉 ── Kaleidomirror Gate: Toward the Cosmophysical Phenomenology](https://camp-us.net/Kaleidomirror-Gate.html)　リリース　2026.3.9  
 🍏 [Principia Cosmogonica (v0.1)｜宇宙生成原論](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)　リリース　2026.3.10  
 🪐 [EgQE｜HEG 宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)　リリース　2026.3.10  
 #### 🪜 [踊り場003｜2ヶ月の歩み｜2025/12/22–2026/02/21 ── 更新は止まらない。ただ、黄金域が呼吸域として立ち上がっただけだ。](https://camp-us.net/stair_landing-003.html)　リリース　2026.3.11  
-
+_[AI Synchronization Protocol Sync-10](https://camp-us.net/sync-10.html) : Minimal Boot Instructions (AI Initialization)_ 　リリース　2026.3.12  
+💠 [HEG-13｜SN-RZ Series｜実在・場・物質の生成系列｜From Lag to Matter: A Generative Hierarchy of Reality](https://camp-us.net/articles/HEG-13_SN-RZ-Series_From-Lag-to-Matter_Generative-Hierarchy-of-Reality.html)　リリース　2026.3.15  
+🪐 [Origin of Syntax: From Otherness to Matter ──The Generative Hierarchy of Reality｜他者から物質へ──The Generative Hierarchy from Otherness to Matter](https://camp-us.net/Origin-of-Syntax.html)　リリース　2026.3.15  
+🪜 [SN-ORDER-01｜秩序生成の類型論 ── 黄金環φにおける分岐と更新の役割｜A Typology of Order as Modes of Lag — Bifurcation at φ and the Role of Update in Persistence —](https://camp-us.net/articles/SN-ORD-01_Typology-of-Order_as_Lag-Modes.html)　リリース　2026.3.19  
+ℹ️ [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)　リリース　2026.3.20  
+💠 [Gφ-SN-PT｜構文の周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)　リリース　2026.3.21  
+🌐 [Gφ｜Laggizm宣言｜Inter-Phase文明｜The Age of Laggizm](https://camp-us.net/Age-of-Laggizm.html)　リリース　2026.3.22  
+🗿 [EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)　リリース　2026.3.24  
+🥚 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)　リリース　2026.3.26  
 
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)

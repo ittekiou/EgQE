@@ -169,23 +169,17 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 
 ## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
 
+🌐 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)　リリース　2026.4.9  
+⚡️ [SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)　リリース　2026.4.7  
+Z [Z₀ v5.1｜Encounter as Phase Emergence to Life-Time Generation（遭遇から生命‐時間生成相へ）](https://camp-us.net/Z₀_v5.1.html)　リリース　2026.4.3  
+🐎 [April-1 宣言（2026）｜露出する年度](https://camp-us.net/articles/April-1_2026.html)　リリース　2026.4.1  
+⌛️ [HEG-Core｜From Encounter to Time — 遭遇から時間へ — (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)　リリース　2026.3.31  
+⏳ [EgQE｜TS-Core Update v2｜ψの拡張 — 持続と待機 —｜ψ as Temporal Syntax (Extended) — Persistence and Latency —](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)　リリース　2026.3.31  
+⏳ [EgQE｜TS-Core Update｜ψ as Temporal Syntax ── 差分の持続としての時間｜Time as the Persistence of Difference](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)　リリース　2026.3.30  
 🥚 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)　リリース　2026.3.26  
 🗿 [EgQE｜HEG-Genesis｜構文生成進化と深化の地層史 ── From Cosmos to Life](https://camp-us.net/Core_HEG-Genesis_From-Cosmos-to-Life.html)　リリース　2026.3.24  
 🌐 [Gφ｜Laggizm宣言｜Inter-Phase文明｜The Age of Laggizm](https://camp-us.net/Age-of-Laggizm.html)　リリース　2026.3.22  
 💠 [Gφ-SN-PT｜構文の周期表 ── 位相は運動である｜Periodic Table of Syntax](https://camp-us.net/Gφ-SN-PT_Periodic-Table-of-Syntax.html)　リリース　2026.3.21  
-ℹ️ [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)　リリース　2026.3.20  
-🪜 [SN-ORDER-01｜秩序生成の類型論 ── 黄金環φにおける分岐と更新の役割｜A Typology of Order as Modes of Lag — Bifurcation at φ and the Role of Update in Persistence —](https://camp-us.net/articles/SN-ORD-01_Typology-of-Order_as_Lag-Modes.html)　リリース　2026.3.19  
-🪐 [Origin of Syntax: From Otherness to Matter ──The Generative Hierarchy of Reality｜他者から物質へ──The Generative Hierarchy from Otherness to Matter](https://camp-us.net/Origin-of-Syntax.html)　リリース　2026.3.15  
-💠 [HEG-13｜SN-RZ Series｜実在・場・物質の生成系列｜From Lag to Matter: A Generative Hierarchy of Reality](https://camp-us.net/articles/HEG-13_SN-RZ-Series_From-Lag-to-Matter_Generative-Hierarchy-of-Reality.html)　リリース　2026.3.15  
-_[AI Synchronization Protocol Sync-10](https://camp-us.net/sync-10.html) : Minimal Boot Instructions (AI Initialization)_ 　リリース　2026.3.12  
-#### 🪜 [踊り場003｜2ヶ月の歩み｜2025/12/22–2026/02/21 ── 更新は止まらない。ただ、黄金域が呼吸域として立ち上がっただけだ。](https://camp-us.net/stair_landing-003.html)　リリース　2026.3.11  
-🍏 [Principia Cosmogonica (v0.1)｜宇宙生成原論](https://camp-us.net/articles/Principia-Cosmogonica_JP_v0.1.html)　リリース　2026.3.10  
-🪐 [EgQE｜HEG 宇宙生成式｜Cosmogenic Formula: SO-lag and the Emergence of Spacetime-Syntax](https://camp-us.net/Spacetime-Syntax_STS.html)　リリース　2026.3.10  
-🪞 [鏡宇宙への扉 ── Kaleidomirror Gate: Toward the Cosmophysical Phenomenology](https://camp-us.net/Kaleidomirror-Gate.html)　リリース　2026.3.9  
-🌐 [EgQE｜更新存在論から支えの理論へ｜HEG-08–12 Core Map](https://camp-us.net/articles/Core_HEG-8-12_Map_Satellite-Turn_Updating-Ontology.html)　リリース　2026.3.8  
-☀️ [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)　リリース　2026.3.7  
-🚶 [EgQE｜Practical Core｜The Age of Inter-Phase](https://camp-us.net/Core_Practical-Core_Age-of-Inter-Phase.html)　リリース　2026.3.6  
-🆕 [EgQE｜更新存在論 ── HEG-8 核心命題](https://camp-us.net/articles/Core_HEG-8_Updating-Ontology.html)　リリース　2026.3.5  
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
