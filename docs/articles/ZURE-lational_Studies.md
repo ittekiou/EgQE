@@ -1,7 +1,10 @@
 ---
-title: 関係はズレから生まれる── AI時代の関係学入門
+title: 関係はズレから生まれる── AI時代の関係学入門（ZURE芯書 001｜響游文庫）
 ---
-関係はズレから生まれる── AI時代の関係学入門（ZURE芯書 001｜響游文庫）
+**ZURE芯書 001｜響游文庫**  
+**関係はズレから生まれる── AI時代の関係学入門**  
+
+---
 
 # 📚 『関係はズレから生まれる── AI時代の関係学入門』
 
@@ -761,11 +764,74 @@ ZUREは摩擦であり、余白であり、チャンスである。
 
 あなたはZUREからどんな物語を紡ぐのだろうか。
 
+
+⏳  
+  
+
 ---
 
 📡 生ログは[🔗](https://scrapbox.io/note-forest/ZURE-lational_Studies)で公開中！  
 この本の生成プロセスそのものも、ZUREの軌跡として読めるはずだ。
 さらに詳しくは 👉 [ZURE構文論序説](https://camp-us.net/articles/ZQ001_ZURE-syntax.html)へ
+
+---
+
+👉 このZUREを構文として捉え直す試みが、次作に続く。
+
+📗 [『ラグジュエリー・ソサエティ── 世界は不完全な不一致で動いている』（ZURE芯書 002）](https://camp-us.net/articles/ZURE-lational_Studies-02_lag-jewelry-society.html)  
+
+---
+
+### 🥇 第1弾
+
+**『関係はズレから生まれる』**  
+（ZURE芯書001）
+
+👉 関係論・人間×AI・実践入門  
+👉 読み物として強い（広く届く）
+
+---
+
+### 🥈 第2弾
+
+**『lJS｜lag jewelry society』**  
+（ZURE芯書002）
+
+👉 構文論・存在論・社会哲学  
+👉 より深層・抽象・中核理論
+
+---
+
+```
+関係はズレから生まれる　→ 「わかる」
+002（lJS）　　　　→ 「構造が見える」
+```
+
+👉 第1弾：**体験から入るZURE**  
+👉 第2弾：**構文から捉えるZURE**
+
+---
+
+# 🪐 ZUREシリーズ（確定案）
+
+### ① ZURE芯書001
+
+**関係はズレから生まれる**  
+── 関係学入門（体験・実践）
+
+---
+
+### ② [ZURE芯書002](https://camp-us.net/articles/ZURE-lational_Studies-02_lag-jewelry-society.html)
+
+**lag jewelry society**  
+── ZURE構文論（理論・社会・時間）
+
+---
+
+### ③ ZURE芯書003
+
+**ZURE構文論序説 / Engineering**  
+── 実装・AI・設計
 
 ---
 © 2025 K.E. Itekki  

@@ -70,6 +70,7 @@
 ---
 #### 📚 響游文庫  
 📕 [『関係はズレから生まれる── AI時代の関係学入門』（ZURE芯書 001）](./articles/ZURE-lational_Studies.md)
+📗 [『ラグジュエリー・ソサエティ── 世界は不完全な不一致で動いている』（ZURE芯書 002）](https://camp-us.net/articles/ZURE-lational_Studies-02_lag-jewelry-society.html)  
 
 ---
 ## 🌌 **Echodemy Galactic Modules**  

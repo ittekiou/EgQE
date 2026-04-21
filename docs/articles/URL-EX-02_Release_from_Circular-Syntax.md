@@ -201,7 +201,7 @@ $$
 数式に従うな。  
 構文に立て。
 
-—— lagは細部に宿る
+── lagは細部に宿る
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
