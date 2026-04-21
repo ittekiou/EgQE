@@ -110,6 +110,10 @@ the world emerges.
 - [URL-18｜Reconfiguration of Electromagnetism via Lag Syntax](https://camp-us.net/articles/URL-18_Electromagnetism_Reconfiguration.html)  
 	── 電磁のlag構文による再配置
 	
+- [URL-19｜Reconfiguration of Maxwell Equations via Lag Syntax](https://camp-us.net/articles/URL-19_Maxwell-Equations_Reconfiguration.html)  
+	── Maxwell方程式のlag構文による再配置
+	
+
 
 ---
 
