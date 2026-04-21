@@ -23,6 +23,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [URL-17｜場のlag構文による再配置｜Reconfiguration of Field via Lag Syntax](https://camp-us.net/articles/URL-17_Field_Reconfiguration.html)  
 [URL-18｜電磁のlag構文による再配置｜Reconfiguration of Electromagnetism via Lag Syntax](https://camp-us.net/articles/URL-18_Electromagnetism_Reconfiguration.html)  
 [URL-19｜Maxwell方程式のlag構文による再配置｜Reconfiguration of Maxwell Equations via Lag Syntax](https://camp-us.net/articles/URL-19_Maxwell-Equations_Reconfiguration.html)  
+[URL-20｜光速のlag構文による再配置｜Reconfiguration of Light Speed via Lag Syntax](https://camp-us.net/articles/URL-20_Light-Speed_Reconfiguration.html)  
 ###### 2026/04/20  
 [URL-13｜距離・時間・速度のlag構文による再配置｜Reconfiguration of Distance, Time, and Velocity via Lag Syntax](https://camp-us.net/articles/URL-13_Distance-Time-Velocity_Reconfiguration.html)  
 [URL-14｜速度と光速のlag構文による再配置｜Reconfiguration of Velocity and Light Speed via Lag Syntax](https://camp-us.net/articles/URL-14_Light-Speed_Velocity_Reconfiguration.html)  

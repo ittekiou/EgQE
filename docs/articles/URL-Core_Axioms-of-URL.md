@@ -113,7 +113,9 @@ the world emerges.
 - [URL-19｜Reconfiguration of Maxwell Equations via Lag Syntax](https://camp-us.net/articles/URL-19_Maxwell-Equations_Reconfiguration.html)  
 	── Maxwell方程式のlag構文による再配置
 	
-
+- [URL-20｜Reconfiguration of Light Speed via Lag Syntax](https://camp-us.net/articles/URL-20_Light-Speed_Reconfiguration.html)  
+	── 光速のlag構文による再配置
+	
 
 ---
 
