@@ -101,7 +101,7 @@ the world emerges.
 - [URL-16｜Reconfiguration of Gravity via Lag Syntax](https://camp-us.net/articles/URL-16_Gravity_Reconfiguration.html)  
 	── 重力のlag構文による再配置
 	
-- [URL-16-NT｜Gravity and the Syntactic Expression of Spacetime (Note)](https://camp-us.net/articles/URL-16-NT_Gravity_Spacetime_Note.html) 
+- [URL-16-NT｜Gravity and the Syntactic Expression of Spacetime (Note)](https://camp-us.net/articles/URL-16-NT_Gravity_Spacetime_Note.html)  
 	── 重力と時空の構文的表現（メモ）
 	
 - [URL-17｜Reconfiguration of Field via Lag Syntax](https://camp-us.net/articles/URL-17_Field_Reconfiguration.html)  
