@@ -25,6 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [URL-19｜Maxwell方程式のlag構文による再配置｜Reconfiguration of Maxwell Equations via Lag Syntax](https://camp-us.net/articles/URL-19_Maxwell-Equations_Reconfiguration.html)  
 [URL-20｜光速のlag構文による再配置｜Reconfiguration of Light Speed via Lag Syntax](https://camp-us.net/articles/URL-20_Light-Speed_Reconfiguration.html)  
 [URL-21｜lag構文による物理の統一｜Unified Physics via Lag Syntax](https://camp-us.net/articles/URL-21_Unified-Physics_via_Lag-Syntax.html)  
+[URL-FX-01｜Unified Lag Syntax Diagram｜Unified Lag Syntax Architecture](https://camp-us.net/articles/URL-FX-01_Unified-Lag-Syntax-Diagram.html)  
 ###### 2026/04/20  
 [URL-13｜距離・時間・速度のlag構文による再配置｜Reconfiguration of Distance, Time, and Velocity via Lag Syntax](https://camp-us.net/articles/URL-13_Distance-Time-Velocity_Reconfiguration.html)  
 [URL-14｜速度と光速のlag構文による再配置｜Reconfiguration of Velocity and Light Speed via Lag Syntax](https://camp-us.net/articles/URL-14_Light-Speed_Velocity_Reconfiguration.html)  
