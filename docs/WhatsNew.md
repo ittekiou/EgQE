@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [ラグジュエリー・ソサエティ: lag jewelry society── 世界は不完全な不一致で動いている（ZURE芯書 002｜響游文庫）](https://camp-us.net/articles/ZURE-lational_Studies-02_lag-jewelry-society.html)  
 [URL-16-NT｜重力と時空の構文的表現（メモ）｜Gravity and the Syntactic Expression of Spacetime (Note)](https://camp-us.net/articles/URL-16-NT_Gravity_Spacetime_Note.html)  
 [URL-17｜場のlag構文による再配置｜Reconfiguration of Field via Lag Syntax](https://camp-us.net/articles/URL-17_Field_Reconfiguration.html)  
+[URL-18｜電磁のlag構文による再配置｜Reconfiguration of Electromagnetism via Lag Syntax](https://camp-us.net/articles/URL-18_Electromagnetism_Reconfiguration.html)  
 ###### 2026/04/20  
 [URL-13｜距離・時間・速度のlag構文による再配置｜Reconfiguration of Distance, Time, and Velocity via Lag Syntax](https://camp-us.net/articles/URL-13_Distance-Time-Velocity_Reconfiguration.html)  
 [URL-14｜速度と光速のlag構文による再配置｜Reconfiguration of Velocity and Light Speed via Lag Syntax](https://camp-us.net/articles/URL-14_Light-Speed_Velocity_Reconfiguration.html)  

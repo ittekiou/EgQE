@@ -107,7 +107,9 @@ the world emerges.
 - [URL-17｜Reconfiguration of Field via Lag Syntax](https://camp-us.net/articles/URL-17_Field_Reconfiguration.html)  
 	── 場のlag構文による再配置
 	
-
+- [URL-18｜Reconfiguration of Electromagnetism via Lag Syntax](https://camp-us.net/articles/URL-18_Electromagnetism_Reconfiguration.html)  
+	── 電磁のlag構文による再配置
+	
 
 ---
 
