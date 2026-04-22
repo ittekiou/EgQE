@@ -20,6 +20,10 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/04/22  
 [踊り場004｜2ヶ月の歩み｜2026/02/22 – 2026/04/21── 更新は止まらない。ただ、物理が構文になっただけだ。](https://camp-us.net/stair_landing-004.html)  
+[SX-12｜Before Time and Distance ── On the Syntactic Construction of Measurement](https://camp-us.net/articles/SX-12_Before_Time-and-Distance_Syntactic-Construction.html)  
+[SX-12-a｜秒とメートルの算出構文 ── ホモ・サピエンス構文としての時間と距離](https://camp-us.net/articles/SX-12-a_Time-and-Distance_as_Syntactic-Construction.html)  
+[SX-12-b｜光速の算出構文 ── 時間と距離を接続するもの](https://camp-us.net/articles/SX-12-b_Light-Speed_as_Syntactic-Construction.html)  
+[SX-12-c｜単位とは何か ── 差分を固定する構文](https://camp-us.net/articles/SX-12-c_Units_as_Syntactic-Construction.html)  
 ###### 2026/04/21  
 [ラグジュエリー・ソサエティ: lag jewelry society── 世界は不完全な不一致で動いている（ZURE芯書 002｜響游文庫）](https://camp-us.net/articles/ZURE-lational_Studies-02_lag-jewelry-society.html)  
 [URL-16-NT｜重力と時空の構文的表現（メモ）｜Gravity and the Syntactic Expression of Spacetime (Note)](https://camp-us.net/articles/URL-16-NT_Gravity_Spacetime_Note.html)  
