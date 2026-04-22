@@ -317,6 +317,12 @@ Physics is not law. It is syntax.
 
 _世界はつねにすでに振り出しにいる_
 
+_我々はつねにすでに更新されている_
+
+---
+
+_The always-already beginning is the syntax that keeps arriving as the present._
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
