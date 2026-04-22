@@ -62,6 +62,9 @@ _— it is the moment flow becomes form_
 - [SX-14｜What Is Gravity ── A Phenomenology of Distortion｜重力とは何か ── 歪みの現象学](https://camp-us.net/articles/SX-14_What-Is-Gravity_Phenomenology-of-Distortion.html)  
 — Gravity is not attraction. It is what happens when persistence meets persistence.  
 	
+- [SX-15｜What Is Appearance ── A Phenomenology of Projection｜現れとは何か ── 投影の現象学](https://camp-us.net/articles/SX-15_What-Is-Appearance_Phenomenology-of-Projection.html)  
+— Appearance is not what is seen. It is being inside projection.
+	
 
 ---
 
