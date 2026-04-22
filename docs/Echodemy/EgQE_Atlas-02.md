@@ -381,8 +381,6 @@ _世界はつねにすでに振り出しにいる_
 
 _我々はつねにすでに更新されている_
 
----
-
 _The always-already beginning is the syntax that keeps arriving as the present._
 
 ---
