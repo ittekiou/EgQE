@@ -25,6 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SX-12-b｜光速の算出構文 ── 時間と距離を接続するもの](https://camp-us.net/articles/SX-12-b_Light-Speed_as_Syntactic-Construction.html)  
 [SX-12-c｜単位とは何か ── 差分を固定する構文](https://camp-us.net/articles/SX-12-c_Units_as_Syntactic-Construction.html)  
 [SX-13｜What Is Mass ── A Phenomenology of Persistence｜質量とは何か ── 持続の現象学](https://camp-us.net/articles/SX-13_What-Is-Mass_Phenomenology-of-Persistence.html)  
+[SX-14｜What Is Gravity ── A Phenomenology of Distortion｜重力とは何か ── 歪みの現象学](https://camp-us.net/articles/SX-14_What-Is-Gravity_Phenomenology-of-Distortion.html)  
 ###### 2026/04/21  
 [ラグジュエリー・ソサエティ: lag jewelry society── 世界は不完全な不一致で動いている（ZURE芯書 002｜響游文庫）](https://camp-us.net/articles/ZURE-lational_Studies-02_lag-jewelry-society.html)  
 [URL-16-NT｜重力と時空の構文的表現（メモ）｜Gravity and the Syntactic Expression of Spacetime (Note)](https://camp-us.net/articles/URL-16-NT_Gravity_Spacetime_Note.html)  

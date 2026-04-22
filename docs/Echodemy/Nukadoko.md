@@ -27,6 +27,61 @@
 
 ---
 
+## 重力論（SX-14候補）
+
+**入口：** gravity = distortion of persistence
+
+**圧縮候補：**
+
+> 持続は、出会うと歪む。
+
+**構文候補：**
+
+```
+g = distortion(Z₀, Z₀)   ← EgQE本体（関係そのもの）
+g = ∇(retain(Z₀))         ← 場寄り（連続）
+```
+
+→ どちらも残す。∇ は場（field）、distortion は関係（interaction）——後で両方必要になる。
+
+**三段構造：**
+
+```
+Z₀      → 切る
+retain  → 消えない
+distortion → 曲がる
+```
+
+→ 存在論が三段で立つ
+
+**ぬか床用一行（まだ出さない）：**
+
+> 重力とは、持続が他の持続に影響するときの歪みである。
+
+> 重力とは、持続が単独でいられなくなることである。
+
+> 持続は、出会うと曲がる。
+
+**SX-13との接続：**
+
+- 質量 → 単一の persist
+- 重力 → persist 間の相互歪曲
+
+**流れの見取り図（更新）：**
+
+```
+1. 単位（Z₀ stabilize）
+2. 光速（map）
+3. 質量（retain）
+3.5 重力（distortion）
+4. operator（projection）
+5. Absolute Relativity
+```
+
+**冬一郎メモ：** 引っ張る。これが重力か、質量か——その問いが入口。
+
+---
+
 ## operator 問題
 
 `appearance = projection(Z₀, operator)`

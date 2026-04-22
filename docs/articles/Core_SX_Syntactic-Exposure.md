@@ -57,7 +57,10 @@ _— it is the moment flow becomes form_
 — Units, time, and distance as stabilized difference. Physics is not law. It is syntax.  
 	
 - [SX-13｜What Is Mass ── A Phenomenology of Persistence｜質量とは何か ── 持続の現象学](https://camp-us.net/articles/SX-13_What-Is-Mass_Phenomenology-of-Persistence.html)  
-— Persistence does not explain mass. It _is_ mass.
+— Persistence does not explain mass. It _is_ mass.  
+	
+- [SX-14｜What Is Gravity ── A Phenomenology of Distortion｜重力とは何か ── 歪みの現象学](https://camp-us.net/articles/SX-14_What-Is-Gravity_Phenomenology-of-Distortion.html)  
+— Gravity is not attraction. It is what happens when persistence meets persistence.  
 	
 
 ---
