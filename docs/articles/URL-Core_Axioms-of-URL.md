@@ -129,7 +129,7 @@ the world emerges.
 
 - [URL-FX-01｜Unified Lag Syntax Diagram｜Unified Lag Syntax Architecture](https://camp-us.net/articles/URL-FX-01_Unified-Lag-Syntax-Diagram.html)  
 
-![lag-syntax-physics](../assets/lag-syntax-physics.svg)  
+![lag-syntax-physics-s](../assets/lag-syntax-physics-s.svg)  
 
 ---
 

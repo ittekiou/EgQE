@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+
+  <!-- Background -->
+  <rect width="600" height="800" fill="#f5efe0"/>
+  <!-- Subtle texture overlay -->
+  <rect width="600" height="800" fill="url(#parchment)" opacity="0.4"/>
+  <defs>
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend in="SourceGraphic" mode="multiply"/>
+    </filter>
+  </defs>
+  <rect width="600" height="800" fill="#e8dcc8" filter="url(#noise)" opacity="0.15"/>
+
+  <!-- Top rule -->
+  <line x1="60" y1="100" x2="540" y2="100" stroke="#8b7355" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="300" y="75" font-family="Georgia, serif" font-size="13" fill="#9e8a6e" text-anchor="middle" letter-spacing="4">PHYSICAL SYNTAX RECONFIGURATION</text>
+
+  <!-- Core equation -->
+  <text x="300" y="180" font-family="Georgia, serif" font-size="32" fill="#2c1f0e" text-anchor="middle">l = S/S′</text>
+  <text x="300" y="218" font-family="Georgia, serif" font-size="14" fill="#8b7355" text-anchor="middle" letter-spacing="2">non-coincidence  ·  lag</text>
+
+  <!-- Divider -->
+  <line x1="240" y1="245" x2="360" y2="245" stroke="#c4a882" stroke-width="1"/>
+
+  <!-- Arrow down -->
+  <line x1="300" y1="255" x2="300" y2="278" stroke="#9e8a6e" stroke-width="1"/>
+  <polygon points="300,285 294,272 306,272" fill="#9e8a6e"/>
+
+  <!-- Bifurcation -->
+  <line x1="300" y1="295" x2="160" y2="330" stroke="#9e8a6e" stroke-width="1"/>
+  <line x1="300" y1="295" x2="440" y2="330" stroke="#9e8a6e" stroke-width="1"/>
+
+  <!-- conf -->
+  <text x="130" y="358" font-family="Georgia, serif" font-size="15" fill="#3a2a14" text-anchor="middle">conf ({lᵢ})</text>
+  <text x="130" y="378" font-family="Georgia, serif" font-size="11" fill="#9e8a6e" text-anchor="middle" letter-spacing="1">space</text>
+
+  <!-- rec -->
+  <text x="470" y="358" font-family="Georgia, serif" font-size="15" fill="#3a2a14" text-anchor="middle">rec (l)</text>
+  <text x="470" y="378" font-family="Georgia, serif" font-size="11" fill="#9e8a6e" text-anchor="middle" letter-spacing="1">time</text>
+
+  <!-- Lines converging -->
+  <line x1="160" y1="390" x2="300" y2="420" stroke="#9e8a6e" stroke-width="1"/>
+  <line x1="440" y1="390" x2="300" y2="420" stroke="#9e8a6e" stroke-width="1"/>
+
+  <!-- Cascade of concepts -->
+  <!-- velocity -->
+  <text x="300" y="448" font-family="Georgia, serif" font-size="15" fill="#3a2a14" text-anchor="middle">r = conf / Σrec</text>
+  <text x="300" y="466" font-family="Georgia, serif" font-size="11" fill="#9e8a6e" text-anchor="middle" letter-spacing="1">velocity</text>
+
+  <line x1="300" y1="474" x2="300" y2="492" stroke="#9e8a6e" stroke-width="1"/>
+  <polygon points="300,497 295,485 305,485" fill="#9e8a6e"/>
+
+  <!-- mass -->
+  <text x="300" y="516" font-family="Georgia, serif" font-size="15" fill="#3a2a14" text-anchor="middle">retain (conf ∩ rec)</text>
+  <text x="300" y="534" font-family="Georgia, serif" font-size="11" fill="#9e8a6e" text-anchor="middle" letter-spacing="1">mass</text>
+
+  <line x1="300" y1="542" x2="300" y2="558" stroke="#9e8a6e" stroke-width="1"/>
+  <polygon points="300,563 295,551 305,551" fill="#9e8a6e"/>
+
+  <!-- gravity -->
+  <text x="300" y="582" font-family="Georgia, serif" font-size="15" fill="#3a2a14" text-anchor="middle">∇m</text>
+  <text x="300" y="600" font-family="Georgia, serif" font-size="11" fill="#9e8a6e" text-anchor="middle" letter-spacing="1">gravity</text>
+
+  <line x1="300" y1="608" x2="300" y2="624" stroke="#9e8a6e" stroke-width="1"/>
+  <polygon points="300,629 295,617 305,617" fill="#9e8a6e"/>
+
+  <!-- field / EM / light -->
+  <text x="300" y="648" font-family="Georgia, serif" font-size="15" fill="#3a2a14" text-anchor="middle">var · osc · prop (m)</text>
+  <text x="300" y="666" font-family="Georgia, serif" font-size="11" fill="#9e8a6e" text-anchor="middle" letter-spacing="1">field  ·  EM  ·  light</text>
+
+  <!-- Bottom rule -->
+  <line x1="60" y1="710" x2="540" y2="710" stroke="#c4a882" stroke-width="1"/>
+
+  <!-- Final statement -->
+  <text x="300" y="740" font-family="Georgia, serif" font-size="13" fill="#5c4a2e" text-anchor="middle" letter-spacing="1">Physics is not law.  It is syntax.</text>
+
+  <!-- Bottom credit -->
+  <text x="300" y="770" font-family="Georgia, serif" font-size="10" fill="#a08060" text-anchor="middle" letter-spacing="2">EgQE · camp-us.net</text>
+
+</svg>

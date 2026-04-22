@@ -115,7 +115,7 @@ layout: math
 
   <!-- Final statement -->
   <text x="300" y="832" font-family="Georgia, serif" font-size="12" fill="#a08060" text-anchor="middle" letter-spacing="2">
-    The world is not substance. It is syntax.
+    Physics is not law. It is syntax.
   </text>
 
 </svg>
@@ -201,7 +201,7 @@ layout: math
   <line x1="60" y1="710" x2="540" y2="710" stroke="#c4a882" stroke-width="1"/>
 
   <!-- Final statement -->
-  <text x="300" y="740" font-family="Georgia, serif" font-size="13" fill="#5c4a2e" text-anchor="middle" letter-spacing="1">The world is not substance.  It is syntax.</text>
+  <text x="300" y="740" font-family="Georgia, serif" font-size="13" fill="#5c4a2e" text-anchor="middle" letter-spacing="1">Physics is not law.  It is syntax.</text>
 
   <!-- Bottom credit -->
   <text x="300" y="770" font-family="Georgia, serif" font-size="10" fill="#a08060" text-anchor="middle" letter-spacing="2">EgQE · camp-us.net</text>

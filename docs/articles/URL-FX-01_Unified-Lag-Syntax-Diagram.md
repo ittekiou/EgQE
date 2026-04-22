@@ -6,7 +6,7 @@ title_en: URL-FX-01｜Unified Lag Syntax Architecture
 ### **URL-FX-01｜Unified Lag Syntax Diagram**
 # Unified Lag Syntax Architecture
 
-![lag-syntax-physics](../assets/lag-syntax-physics.svg)  
+![lag-syntax-physics-s](../assets/lag-syntax-physics-s.svg)  
 
 ---
 
@@ -33,8 +33,8 @@ All begins from non-coincidence, and appears as its behavior.
 
 ## **最終句｜Final Line**
 
-世界は物質ではない。構文である。  
-The world is not substance. It is syntax.
+物理は法則ではない。構文である。  
+Physics is not law. It is syntax.
 
 ---
 

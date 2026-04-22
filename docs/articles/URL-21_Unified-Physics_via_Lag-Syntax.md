@@ -127,7 +127,7 @@ Light speed emerges as a stability condition of propagation.
 
 ## 図｜Unified Diagram
 
-![lag-syntax-physics-ex](../assets/lag-syntax-physics-ex.svg)  
+![lag-syntax-physics-l](../assets/lag-syntax-physics-l.svg)  
 **図：lag構文による物理の統一構造**  
 **Figure: Unified structure of physics via lag syntax**  
 > Structure does not emerge from time.  
@@ -183,10 +183,10 @@ All begins from non-coincidence, and appears as its behavior.
 
 ## 最終句｜Final Line
 
-> 世界は物質ではない。  
+> 物理は法則ではない。  
 > 構文である。
 
-> The world is not substance.  
+> Physics is not law.  
 > It is syntax.
 
 ---
