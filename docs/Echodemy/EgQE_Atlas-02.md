@@ -316,9 +316,10 @@ Physics is not law. It is syntax.
 ---
 
 ### 付録｜Atlas 2.0 構文解説ノート
----
 
 > 本付録は、Atlas 2.0 を読み解くための補助線である。
+
+---
 
 # Appendix｜On the Syntactic Mapping of Atlas 2.0
 
@@ -364,13 +365,15 @@ Physics is not law. It is syntax.
               Lag-Relational Syntax Architecture
 ```
 
-**従来の散在断片を「構文地図」に圧縮。物理は法則ではなく構文であることが、図として見えるようになった。**
+**従来の散在断片を「構文地図」に圧縮。**  
+**物理は法則ではなく構文であることが、図として見えるようになった。**
 
 この図は説明されるものではない。見えるようになるものである。
 
 ---
 
-> Atlas は完成ではない。構文は更新され続ける。
+> Atlas は完成ではない。  
+> 構文は更新され続ける。
 
 ---
 
