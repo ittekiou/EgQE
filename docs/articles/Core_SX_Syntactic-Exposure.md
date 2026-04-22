@@ -56,6 +56,9 @@ _— it is the moment flow becomes form_
 [SX-12-c｜単位とは何か ── 差分を固定する構文](https://camp-us.net/articles/SX-12-c_Units_as_Syntactic-Construction.html)  
 — Units, time, and distance as stabilized difference. Physics is not law. It is syntax.  
 	
+- [SX-13｜What Is Mass ── A Phenomenology of Persistence｜質量とは何か ── 持続の現象学](https://camp-us.net/articles/SX-13_What-Is-Mass_Phenomenology-of-Persistence.html)  
+— Persistence does not explain mass. It _is_ mass.
+	
 
 ---
 
