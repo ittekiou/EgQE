@@ -271,6 +271,7 @@ No Closure. Only Iteration.
 [Echodemy 紀要 01（Echodemy Chronicles 創刊号 Part II）](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)  
 #### 🧭 EgQE Atlas 
 [EgQE Atlas｜第一部 総括と展望｜Part I: Synthesis and Prospect](https://camp-us.net/Echodemy/EgQE_Atlas-01.html)  
+[EgQE Atlas 2.0｜構文地図｜Part II:Lag-Relational Syntax Architecture](https://camp-us.net/Echodemy/EgQE_Atlas-02.html)  
 
 ### 🪜 Stair landings
 ###### 🪩 [踊り場001｜2ヶ月半の歩み｜2025/07/04- 2025/09/21｜*Toward Knowledge in the Age of AI — The EgQE Paradigm Shift*](/stair_landing-001.md)  
