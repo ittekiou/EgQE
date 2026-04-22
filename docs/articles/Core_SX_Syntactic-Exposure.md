@@ -48,12 +48,13 @@ _— it is the moment flow becomes form_
 — Light does not travel — it cannot persist. It appears. As c.  
 	
 - [SX-11｜Membrane — The Condition of Appearance](https://camp-us.net/articles/SX-11_Membrane_Condition-of-Appearance.html)  
-— Light is not visible. What is seen is the membrane.
+— Light is not visible. What is seen is the membrane.  
 	
 - [SX-12｜Before Time and Distance ── On the Syntactic Construction of Measurement](https://camp-us.net/articles/SX-12_Before_Time-and-Distance_Syntactic-Construction.html)  
 [SX-12-a｜秒とメートルの算出構文 ── ホモ・サピエンス構文としての時間と距離](https://camp-us.net/articles/SX-12-a_Time-and-Distance_as_Syntactic-Construction.html)  
 [SX-12-b｜光速の算出構文 ── 時間と距離を接続するもの](https://camp-us.net/articles/SX-12-b_Light-Speed_as_Syntactic-Construction.html)  
 [SX-12-c｜単位とは何か ── 差分を固定する構文](https://camp-us.net/articles/SX-12-c_Units_as_Syntactic-Construction.html)  
+— Units, time, and distance as stabilized difference. Physics is not law. It is syntax.  
 	
 
 ---
