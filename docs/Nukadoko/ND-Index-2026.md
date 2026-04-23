@@ -1,7 +1,8 @@
 # **Nukadoko 2026｜ND Index**
 ## ── まだ現れていない構文を置く場所
 
-> 構文はNDとして置かれ、Nukadokoが発酵する。
+> 構文はNDとして置かれる。  
+> Nukadokoは発酵する。
 
 ---
 
@@ -31,6 +32,9 @@ Nukadoko とは、それを置く場所である。
 
 これはフォルダではない  
 生成装置である
+
+**Placed as ND,**  
+**Nukadoko ferments.**
 
 ---
 

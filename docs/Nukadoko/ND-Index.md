@@ -101,7 +101,8 @@ ND は「未完」である。
 
 ---
 
-> 構文はNDとして置かれ、Nukadokoが発酵する。
+> 構文はNDとして置かれる。  
+> Nukadokoは発酵する。
 
 ---
 
@@ -123,10 +124,15 @@ Nukadoko は完成稿の倉庫ではない。
 > NukadokoとはNDである。  
 > NDとは、まだ現れていない構文である。
 
+**Syntax is placed as ND.**  
+**Nukadoko ferments.**
+
 ---
 
 これはフォルダではない  
 生成装置である
+
+**置かれ、発酵する**
 
 ---
 
