@@ -71,6 +71,9 @@ _— it is the moment flow becomes form_
 - [SX-EX-01｜Raw Display — Exposure Theory (Draft Core)](https://camp-us.net/articles/SX-EX-01_Exposure-Theory_Draft-Core.html)  
 — The act of exposure as theoretical practice
     
+- [SX-EX-02｜What is Projection?](https://camp-us.net/articles/SX-EX-02_What-is-Projection_lag-exposure.html)  
+— Interference of Lag as Exposure｜投影 ── Lag露出としての干渉
+	
 
 ---
 
