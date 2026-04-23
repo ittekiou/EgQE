@@ -17,7 +17,7 @@ Nukadoko とは、それを置く場所である。
 
 ---
 
-# **Nukadoko 2026｜ND list**
+# **ND list 2026｜Nukadoko**
 
 ## Apr. 
 [ND-26-0422_mass-seed](https://camp-us.net/Nukadoko/ND-26-0422_mass-seed.html)  
