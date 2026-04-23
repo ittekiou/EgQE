@@ -1,4 +1,4 @@
-# **Nukadoko 2026｜ND Index**
+# **ND Index 2026｜Nukadoko**
 ## ── まだ現れていない構文を置く場所
 
 > 構文はNDとして置かれる。  
