@@ -21,7 +21,7 @@ Nukadoko とは、それを置く場所である。
 
 ## Apr. 
 [ND-26-0422_mass-seed](https://camp-us.net/Nukadoko/ND-26-0422_mass-seed.html)  
-[ND-26-0422_gravity-operator-projection](https://camp-us.net/Nukadoko/ND-26-0422_mass-seed.html)  
+[ND-26-0422_gravity-operator-projection](https://camp-us.net/Nukadoko/ND-26-0422_gravity-operator-projection.html)  
 
 
 > NDは発酵中の断片である。  
