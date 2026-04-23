@@ -124,7 +124,7 @@ Nukadoko は完成稿の倉庫ではない。
 > NukadokoとはNDである。  
 > NDとは、まだ現れていない構文である。
 
-**Syntax is placed as ND.**  
+**Syntax is placed as ND.**   
 **Nukadoko ferments.**
 
 ---
