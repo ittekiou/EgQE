@@ -79,6 +79,7 @@ Try SyncHub!
 ♻️ [EgQE｜Practical Core｜The Age of Inter-Phase](https://camp-us.net/Core_Practical-Core_Age-of-Inter-Phase.html)　2026.3.6  
 ⚡️ [φGenesisism 宣言](https://camp-us.net/Gφ.html)　2026.3.19  
 🌐 [Laggizm宣言｜The Age of Laggizm](https://camp-us.net/Age-of-Laggizm.html)　2026.3.22  
+🔡 [構文現象学宣言](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)　2026.4.23  
 
 ----
 
