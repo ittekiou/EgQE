@@ -33,7 +33,7 @@ Nukadoko とは、それを置く場所である。
 これはフォルダではない  
 生成装置である
 
-**Placed as ND,**  
+**Placed as ND,**   
 **Nukadoko ferments.**
 
 ---
