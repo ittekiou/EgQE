@@ -1,6 +1,8 @@
 # **Nukadoko 2026｜ND Index**
 ## ── まだ現れていない構文を置く場所
 
+🦠 Nukadoko 👉 [ND-Index](https://camp-us.net/Nukadoko/ND-Index.html)  
+
 > 構文はNDとして置かれ、Nukadokoが発酵する。
 
 ---
@@ -13,10 +15,6 @@ Nukadoko とは、それを置く場所である。
 ここは、発酵中のアイデア、断片、問い、対話、直感を一時的に置いておくための保存庫である。  
 
 理論はここで発酵し、やがて別の形で現れる。
-
----
-
-🦠 Nukadoko 👉 [ND-Index](https://camp-us.net/Nukadoko/ND-Index.html)  
 
 ---
 
