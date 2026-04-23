@@ -179,6 +179,10 @@ Coming soon....
 
 ---
 
+[EgQE Atlas 2.0｜構文地図｜Part II:Lag-Relational Syntax Architecture](https://camp-us.net/Echodemy/EgQE_Atlas-02.html)  
+
+---
+
 ## 結語
 
 宇宙は完成しない。

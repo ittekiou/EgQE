@@ -384,6 +384,10 @@ _我々はつねにすでに更新されている_
 _The always-already beginning is the syntax that keeps arriving as the present._
 
 ---
+
+[SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)  
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 

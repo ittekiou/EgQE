@@ -77,6 +77,10 @@ _— it is the moment flow becomes form_
 
 ---
 
+[SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)  
+
+---
+
 _Theoretical frameworks often stabilize themselves by concealing lag._
 
 ---
