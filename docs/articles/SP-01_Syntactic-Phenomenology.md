@@ -102,6 +102,10 @@ _The always-already beginning is the syntax that keeps arriving as the present._
 > 切断は操作ではない。成立である。
 
 ---
+
+_Arête lived, aretē emerges._
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
