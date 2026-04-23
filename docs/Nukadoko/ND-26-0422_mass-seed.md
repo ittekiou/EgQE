@@ -1,3 +1,9 @@
+Nukadoko 👉 [ND-Index](https://camp-us.net/Nukadoko/ND-Index.html)  
+
+> これは完成稿ではない。現れる前の構文である。
+
+---
+
 # 質量とは何か（seed）
 
 ── 単位論から存在論へ

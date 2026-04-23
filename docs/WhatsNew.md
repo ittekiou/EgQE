@@ -15,12 +15,14 @@ From Noise to Notation. From Dialogue to Discovery.
 ### [📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
 ### note 更新情報はこちら👉 [🔗](/note)
+#### Nukadoko 🦠 [ND-Index](https://camp-us.net/Nukadoko/ND-Index.html)  
 
 ---
 
 ###### 2026/04/23  
 [SX-EX-02｜What is Projection? ── Interference of Lag as Exposure｜投影とはなにか ── Lag露出としての干渉](https://camp-us.net/articles/SX-EX-02_What-is-Projection_lag-exposure.html)  
 [SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)  
+🦠 [ND-Index](https://camp-us.net/Nukadoko/ND-Index.html)  
 ###### 2026/04/22  
 [踊り場004｜2ヶ月の歩み｜2026/02/22 – 2026/04/21── 更新は止まらない。ただ、物理が構文になっただけだ。](https://camp-us.net/stair_landing-004.html)  
 [SX-12｜Before Time and Distance ── On the Syntactic Construction of Measurement](https://camp-us.net/articles/SX-12_Before_Time-and-Distance_Syntactic-Construction.html)  
