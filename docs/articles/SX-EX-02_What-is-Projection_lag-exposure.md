@@ -17,7 +17,7 @@ Projection is not representation.
 It is not the act of seeing.  
 It is not the work of a subject.
 
-Projection is the continuation of lag.
+Projection is lag in continuation.
 
 ---
 
