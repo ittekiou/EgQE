@@ -155,7 +155,7 @@ _The always-already beginning is the syntax that keeps arriving as the present._
 ---
 
 _実践は後から始まるのではない_  
-_つねにすでにある_
+_すでにつねにある_
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
