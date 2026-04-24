@@ -23,6 +23,8 @@ Nukadoko とは、それを置く場所である。
 [ND-26-0422_mass-seed](https://camp-us.net/Nukadoko/ND-26-0422_mass-seed.html)  
 [ND-26-0422_gravity-operator-projection](https://camp-us.net/Nukadoko/ND-26-0422_gravity-operator-projection.html)  
 [ND-26-0424_while-as-phase](https://camp-us.net/Nukadoko/ND-26-0424_while-as-phase.html)  
+[ND-26-0424_SO-rate-lag](https://camp-us.net/Nukadoko/ND-26-0424_SO-rate-lag.html)    
+[ND-26-0424_SO-lag-three-values](https://camp-us.net/Nukadoko/ND-26-0424_SO-lag-three-values.html)    
 [ND_filename](https://camp-us.net/Nukadoko/.html)    
 
 > NDは発酵中の断片である。  
