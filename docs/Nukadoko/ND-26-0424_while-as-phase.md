@@ -85,7 +85,22 @@ Syntax seeds as it strolls.
 
 _随時追加_
 
+```
 stroll → seed → sleep → ferment → emerge
+```
 
 蒔いて、混ぜずに、眠る。
 
+ND = <（保持状態）
+
+```
+<（ND）
+↓
+as（内在運動）
+↓
+>（生成）
+↓
+≒（共有）
+```
+
+[ND-26-0424_SO-rate-lag](https://camp-us.net/Nukadoko/ND-26-0424_SO-rate-lag.html)  
