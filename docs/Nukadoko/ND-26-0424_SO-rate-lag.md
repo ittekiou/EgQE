@@ -103,10 +103,10 @@ but the persistence of non-coincidence.
 [ND-26-0424_SO-lag-three-values](https://camp-us.net/Nukadoko/ND-26-0424_SO-lag-three-values.html)    
 
 ② 一行定義を固定する  
-**lagとは、揃わなさである。**  
+👉 **lagとは、揃わなさである。**  
 
 ③ 数式は最後に1つだけ  
-`l_SO = rate_s / rate_o`
+👉 `l_SO = rate_s / rate_o`
 
 ---
 
@@ -122,11 +122,24 @@ but the persistence of non-coincidence.
 
 _随時追加_
 
+---
 
+**ND-Overview（ND-26-0424）**  
+> lagとは揃わなさである。
+> 揃わなさは ≒ / > / < の位相として現れる。
+> ≒ は持続（c）、> は生成、< は待機（ND）。
+> 切断は同一運動（as）の中で起きる。
+> whileは並びであり、NDは保持として待機する。
+
+[ND-26-0424_while-as-phase](https://camp-us.net/Nukadoko/ND-26-0424_while-as-phase.html)  
+[ND-26-0424_SO-lag-three-values](https://camp-us.net/Nukadoko/ND-26-0424_SO-lag-three-values.html)  
+[ND-26-0424_c-equals-approx](https://camp-us.net/Nukadoko/ND-26-0424_c-equals-approx.html)  
+
+---
+
+HS用 -memo-
 
 **≒（持続）** 冬一郎と散歩のリズム。呼吸と歩行。会話が噛み合ってる状態。光速。
-
-[ND-26-0424_c-equals-approx](https://camp-us.net/Nukadoko/ND-26-0424_c-equals-approx.html)  
 
 **>（展開）** 理論が先走って言語が追いつかない。ひらめきと記述のズレ。放射。
 
@@ -149,3 +162,5 @@ _随時追加_
 - ND ＝ `<`（保持）
 
 👉 **状態と機能が一致した**
+
+---
