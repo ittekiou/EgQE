@@ -121,12 +121,12 @@ NDは未実行ではない。
 
 ---
 
-_Arête lived, aretē emerges._
+_理論は生まれたのではない_  
+_気づかれただけである_
 
 ---
 
-_理論は生まれたのではない_  
-_気づかれただけである_
+_Arête lived, aretē emerges._
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
