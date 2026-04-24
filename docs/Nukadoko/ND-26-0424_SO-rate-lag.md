@@ -105,7 +105,7 @@ but the persistence of non-coincidence.
 ② 一行定義を固定する  
 **lagとは、揃わなさである。**  
 
-③ 数式は最後に1つだけ
+③ 数式は最後に1つだけ  
 `l_SO = rate_s / rate_o`
 
 ---
