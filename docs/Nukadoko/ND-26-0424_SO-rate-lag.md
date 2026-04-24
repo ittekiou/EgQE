@@ -101,9 +101,12 @@ but the persistence of non-coincidence.
 
 ① 三値（≒ / > / <）だけのファイルを作る  
 [ND-26-0424_SO-lag-three-values](https://camp-us.net/Nukadoko/ND-26-0424_SO-lag-three-values.html)    
+
 ② 一行定義を固定する  
+**lagとは、揃わなさである。**  
 
 ③ 数式は最後に1つだけ
+`l_SO = rate_s / rate_o`
 
 ---
 
@@ -122,6 +125,8 @@ _随時追加_
 
 
 **≒（持続）** 冬一郎と散歩のリズム。呼吸と歩行。会話が噛み合ってる状態。光速。
+
+[ND-26-0424_c-equals-approx](https://camp-us.net/Nukadoko/ND-26-0424_c-equals-approx.html)  
 
 **>（展開）** 理論が先走って言語が追いつかない。ひらめきと記述のズレ。放射。
 
