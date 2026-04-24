@@ -100,13 +100,13 @@ but the persistence of non-coincidence.
 ## 次の作業メモ
 
 ① 三値（≒ / > / <）だけのファイルを作る  
-[ND-26-0424_SO-lag-three-values](https://camp-us.net/Nukadoko/ND-26-0424_SO-lag-three-values.html)    
+☑️ [ND-26-0424_SO-lag-three-values](https://camp-us.net/Nukadoko/ND-26-0424_SO-lag-three-values.html)    
 
 ② 一行定義を固定する  
-👉 **lagとは、揃わなさである。**  
+☑️ **lagとは、揃わなさである。**  
 
 ③ 数式は最後に1つだけ  
-👉 `l_SO = rate_s / rate_o`
+☑️ `l_SO = rate_s / rate_o`
 
 ---
 
