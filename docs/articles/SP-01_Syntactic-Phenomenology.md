@@ -2,6 +2,7 @@
 layout: math
 title: SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか
 ---
+### SP-01｜構文現象学
 # **構文現象学宣言**
 ## ── Syntactic Phenomenologyとはなにか
 

@@ -22,7 +22,8 @@ Nukadoko とは、それを置く場所である。
 ## Apr. 
 [ND-26-0422_mass-seed](https://camp-us.net/Nukadoko/ND-26-0422_mass-seed.html)  
 [ND-26-0422_gravity-operator-projection](https://camp-us.net/Nukadoko/ND-26-0422_gravity-operator-projection.html)  
-
+[ND-26-0424_while-as-phase](https://camp-us.net/Nukadoko/ND-26-0424_while-as-phase.html)  
+[ND_filename](https://camp-us.net/Nukadoko/.html)    
 
 > NDは発酵中の断片である。  
 > 引用の際は出典を明記すること。  
@@ -52,6 +53,11 @@ Nukadokoは、常に更新される。
 ---
 
 _The always-already beginning is the syntax that keeps arriving as the present._
+
+---
+
+_NDは未完成ではない_  
+_完成を拒む_
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

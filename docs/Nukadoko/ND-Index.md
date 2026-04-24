@@ -5,6 +5,11 @@ title: Nukadoko｜ND Index ── まだ現れていない構文を置く場所
 # **Nukadoko｜ND Index**
 ## ── まだ現れていない構文を置く場所
 
+> 理論は生まれたのではない。  
+> 気づかれただけである。
+
+---
+
 Nukadoko とは ND である。
 
 ND とは、まだ現れていない構文である。  
@@ -146,6 +151,11 @@ Nukadokoは、常に更新される。
 ---
 
 _The always-already beginning is the syntax that keeps arriving as the present._
+
+---
+
+_実践は後から始まるのではない_  
+_つねにすでにある_
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

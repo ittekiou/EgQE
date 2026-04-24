@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/04/24  
+[SP-02｜Pre-emptive Syntax Phenomenology ── strolling-based seeding](https://camp-us.net/articles/SP-02_Pre-emptive_Syntax-Phenomenology.html)  
 ###### 2026/04/23  
 [SX-EX-02｜What is Projection? ── Interference of Lag as Exposure｜投影とはなにか ── Lag露出としての干渉](https://camp-us.net/articles/SX-EX-02_What-is-Projection_lag-exposure.html)  
 [SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)  
