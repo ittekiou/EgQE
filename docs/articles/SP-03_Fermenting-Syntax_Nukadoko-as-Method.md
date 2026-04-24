@@ -67,7 +67,7 @@ NDは未完成ではない。
 ---
 
 👉 [SP-01｜構文現象学宣言](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)  
-👉 [SP-02｜Pre-emptive Syntax Phenomenology](https://camp-us.net/articles/SP-02_Pre-emptive-Syntax-Phenomenology.html)  
+👉 [SP-02｜Pre-emptive Syntax Phenomenology](https://camp-us.net/articles/SP-02_Pre-emptive_Syntax-Phenomenology.html)  
 👉 [Nukadoko｜ND Index](https://camp-us.net/Nukadoko/ND-Index.html)
 
 ---
