@@ -23,6 +23,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-LIF-EX-01｜水と油と生命の起源｜The Origin of Life at the Interface of Water and Oil](https://camp-us.net/articles/SN-LIF-EX01_Life-Origin_Water-Oil-Interface.html)  
 [SN-LIF-EX-02｜なぜ境界は壊れないのか｜Boundary Intensity and the Persistence of Life](https://camp-us.net/articles/SN-LIF-EX02_Boundary-Intensity_Persistence-of-Life.html)  
 [SN-LIF-EX-03｜なぜ内と外が生まれるのか｜Z₀ as Self-Cutting: The Origin of Inside and Outside](https://camp-us.net/articles/SN-LIF-EX03_Inside-Outside_Origin.html)  
+[SN-LIF-EX-04｜原油は何の残骸か｜Oil as the Fossil of Lost Orientation](https://camp-us.net/articles/SN-LIF-EX04_Oil_Fossil-of-Lost-Orientation.html)  
 [QE-EX-01｜境界強度と文化の持続｜From Boundary Intensity to Cultural Persistence](https://camp-us.net/articles/QE-EX-01_Boundary-Intensity_to_Cultural-Persistence.html)  
 ###### 2026/04/24  
 [SP-02｜Pre-emptive Syntax Phenomenology ── strolling-based seeding](https://camp-us.net/articles/SP-02_Pre-emptive_Syntax-Phenomenology.html)  

@@ -250,11 +250,13 @@ Life emerged at their **interface**.
 EX-01：生成（なぜ境界は生まれるのか）　← 本稿
 EX-02：持続（なぜ境界は壊れないのか）
 EX-03：分化（なぜ内外が生まれるのか）
+EX-04：崩壊（生命は何に還るのか）
 ```
 
 [SN-LIF-EX-01｜水と油と生命の起源](https://camp-us.net/articles/SN-LIF-EX01_Life-Origin_Water-Oil-Interface.html)  
 [SN-LIF-EX-02｜なぜ境界は壊れないのか](https://camp-us.net/articles/SN-LIF-EX02_Boundary-Intensity_Persistence-of-Life.html)  
 [SN-LIF-EX-03｜なぜ内と外が生まれるのか](https://camp-us.net/articles/SN-LIF-EX03_Inside-Outside_Origin.html)  
+[SN-LIF-EX-04｜原油は何の残骸か](https://camp-us.net/articles/SN-LIF-EX04_Oil_Fossil-of-Lost-Orientation.html)  
 
 ---
 
