@@ -182,10 +182,12 @@ the clogging within.
 SP-03：発酵（ぬか床）
 SP-04：排泄 ← 本稿
 SP-05：摂取
+SP-06：鹸化　
 ```
 
 [SP-03｜ぬか床論 ── 構文はどこで発酵するか](https://camp-us.net/articles/SP-03_Fermenting-Syntax_Nukadoko-as-Method.html)  
 [SP-05｜摂取論](https://camp-us.net/articles/SP-05_Ingestion_as_Syntactic-Introduction.html)  
+[SP-06｜鹸化論](https://camp-us.net/articles/SP-06_Saponification_as_Rewriting-Condition-of-Relation.html)  
 
 ---
 

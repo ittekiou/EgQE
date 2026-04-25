@@ -205,10 +205,12 @@ without end or closure.
 SP-03：発酵（ぬか床）
 SP-04：排泄
 SP-05：摂取 ← 本稿
+SP-06：鹸化　
 ```
 
 [SP-03｜ぬか床論 ── 構文はどこで発酵するか](https://camp-us.net/articles/SP-03_Fermenting-Syntax_Nukadoko-as-Method.html)  
 [SP-04｜排泄論](https://camp-us.net/articles/SP-04_Excretion_as_Syntactic-Release.html)  
+[SP-06｜鹸化論](https://camp-us.net/articles/SP-06_Saponification_as_Rewriting-Condition-of-Relation.html)  
 
 ---
 

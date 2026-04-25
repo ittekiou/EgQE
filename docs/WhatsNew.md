@@ -28,6 +28,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SX-EX-03｜Constant and Constraint ── From Event to Fixation｜定数と制約の構文論](https://camp-us.net/articles/SX-EX-03_Constant-and-Constraint.html)  
 [SP-04｜排泄論｜Excretion as Syntactic Release — From Accumulation to Discharge](https://camp-us.net/articles/SP-04_Excretion_as_Syntactic-Release.html)  
 [SP-05｜摂取論｜Ingestion (Intake) as Syntactic Introduction of Lag — From Difference to Circulation](https://camp-us.net/articles/SP-05_Ingestion_as_Syntactic-Introduction.html)  
+[SP-06｜鹸化論｜Saponification as Rewriting the Condition of Relation — From Non-Mixing to Connectability](https://camp-us.net/articles/SP-06_Saponification_as_Rewriting-Condition-of-Relation.html)  
 ###### 2026/04/24  
 [SP-02｜Pre-emptive Syntax Phenomenology ── strolling-based seeding](https://camp-us.net/articles/SP-02_Pre-emptive_Syntax-Phenomenology.html)  
 [SP-03｜ぬか床論 ── 構文はどこで発酵するか｜Fermenting Syntax──Nukadoko as Method](https://camp-us.net/articles/SP-03_Fermenting-Syntax_Nukadoko-as-Method.html)  
