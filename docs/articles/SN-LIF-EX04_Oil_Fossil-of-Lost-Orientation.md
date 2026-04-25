@@ -3,7 +3,7 @@ layout: math
 title: SN-LIF-EX-04｜原油は何の残骸か
 title_en: SN-LIF-EX-04｜Oil as the Fossil of Lost Orientation
 ---
-### SN-LIF-EX-04｜化石と生命
+### SN-LIF-EX-04｜生命と化石
 # 原油は何の残骸か
 ## Oil as the Fossil of Lost Orientation
 
