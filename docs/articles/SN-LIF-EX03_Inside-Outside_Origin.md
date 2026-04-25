@@ -127,7 +127,7 @@ After threshold: inside and outside emerge, each presupposing the other.
 内外は、Z₀が発生したときに確定する。  
 すなわち、lagの臨界が自己切断として現れた瞬間に、内外ははじめて“起きる”。
 
-Inside and outside are fixed when Z₀ occurs.
+Inside and outside are fixed when Z₀ occurs.  
 That is, they come into being at the moment when lag reaches criticality and cuts itself.
 
 ---
