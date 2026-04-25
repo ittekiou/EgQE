@@ -26,6 +26,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SN-LIF-EX-04｜原油は何の残骸か｜Oil as the Fossil of Lost Orientation](https://camp-us.net/articles/SN-LIF-EX04_Oil_Fossil-of-Lost-Orientation.html)  
 [QE-EX-01｜境界強度と文化の持続｜From Boundary Intensity to Cultural Persistence](https://camp-us.net/articles/QE-EX-01_Boundary-Intensity_to_Cultural-Persistence.html)  
 [SX-EX-03｜Constant and Constraint ── From Event to Fixation｜定数と制約の構文論](https://camp-us.net/articles/SX-EX-03_Constant-and-Constraint.html)  
+[SP-04｜排泄論｜Excretion as Syntactic Release — From Accumulation to Discharge](https://camp-us.net/articles/SP-04_Excretion_as_Syntactic-Release.html)  
 ###### 2026/04/24  
 [SP-02｜Pre-emptive Syntax Phenomenology ── strolling-based seeding](https://camp-us.net/articles/SP-02_Pre-emptive_Syntax-Phenomenology.html)  
 [SP-03｜ぬか床論 ── 構文はどこで発酵するか｜Fermenting Syntax──Nukadoko as Method](https://camp-us.net/articles/SP-03_Fermenting-Syntax_Nukadoko-as-Method.html)  
