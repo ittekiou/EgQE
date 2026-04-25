@@ -66,6 +66,19 @@ NDは未完成ではない。
 
 ---
 
+## シリーズ位置｜Series Position
+
+```text
+SP-03：発酵（ぬか床） ← 本稿
+SP-04：排泄
+SP-05：摂取
+```
+
+[SP-04｜排泄論](https://camp-us.net/articles/SP-04_Excretion_as_Syntactic-Release.html)  
+[SP-05｜摂取論](https://camp-us.net/articles/SP-05_Ingestion_as_Syntactic-Introduction.html)  
+
+---
+
 👉 [SP-01｜構文現象学宣言](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)  
 👉 [SP-02｜Pre-emptive Syntax Phenomenology](https://camp-us.net/articles/SP-02_Pre-emptive_Syntax-Phenomenology.html)  
 👉 [Nukadoko｜ND Index](https://camp-us.net/Nukadoko/ND-Index.html)
