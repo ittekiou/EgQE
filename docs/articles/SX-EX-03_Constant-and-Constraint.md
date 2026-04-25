@@ -78,6 +78,7 @@ constant = ΔZ
 ```
 c = constraint
   = 構文的上限条件
+  = 関係が崩壊しないための条件
 ```
 
 What is a constraint?
@@ -88,6 +89,7 @@ It is a condition.
 ```
 c = constraint
   = a syntactic upper bound
+  = the condition of non-collapse of relations
 ```
 
 > **制約とは、固定を縛る条件である。**  
