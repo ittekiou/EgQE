@@ -239,6 +239,14 @@ EX-04：崩壊（生命は何に還るのか）　← 本稿
 
 _SN-LIF-EX / EgQE Framework_  
 
+```
+EX-01：水と油のあいだで生命が生まれた
+EX-02：境界はlagが消えきれないから壊れない
+EX-03：lagが臨界を超えると内外が生まれる
+EX-04：生命は死んで向きの化石になる
+QE-EX：その構造は文化にも転写できる
+```
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
