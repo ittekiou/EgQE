@@ -69,12 +69,15 @@ _— it is the moment flow becomes form_
 ---
 
 - [SX-EX-01｜Raw Display — Exposure Theory (Draft Core)](https://camp-us.net/articles/SX-EX-01_Exposure-Theory_Draft-Core.html)  
-— The act of exposure as theoretical practice
+— The act of exposure as theoretical practice  
     
 - [SX-EX-02｜What is Projection?](https://camp-us.net/articles/SX-EX-02_What-is-Projection_lag-exposure.html)  
-— Interference of Lag as Exposure｜投影 ── Lag露出としての干渉
+— Interference of Lag as Exposure｜投影 ── Lag露出としての干渉  
 	
-
+- [SX-EX-03｜Constant and Constraint](https://camp-us.net/articles/SX-EX-03_Constant-and-Constraint.html)  
+ — From Event to Fixation｜定数と制約の構文論 ── 光速は定数ではなく制約である  
+	
+ 
 ---
 
 [SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)  
