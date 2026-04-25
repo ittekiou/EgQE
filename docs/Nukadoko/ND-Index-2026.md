@@ -28,6 +28,7 @@ Nukadoko とは、それを置く場所である。
 [ND-26-0424_c-equals-approx](https://camp-us.net/Nukadoko/ND-26-0424_c-equals-approx.html)  
 [ND-26-0424_life-as-nukadoko](https://camp-us.net/Nukadoko/ND-26-0424_life-as-nukadoko.html)  
 [ND-26-0425_Time_Irrev-Accum_Lag](https://camp-us.net/Nukadoko/ND-26-0425_Time_Irrev-Accum_Lag.html)  
+[ND-26-0425_Syntactic-Intervention](https://camp-us.net/Nukadoko/ND-26-0425_Syntactic-Intervention.html)  
 
 [ND_filename](https://camp-us.net/Nukadoko/.html)  
 
