@@ -170,6 +170,10 @@ forms quietly transform.
 
 ---
 
+_関係は与えられるのではない。生成条件を持つ。_
+
+---
+
 ## シリーズ位置｜Series Position
 
 ```
