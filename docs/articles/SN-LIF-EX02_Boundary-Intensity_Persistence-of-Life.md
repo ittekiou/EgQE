@@ -3,7 +3,7 @@ layout: math
 title: SN-LIF-EX-02｜なぜ境界は壊れないのか
 title_en: SN-LIF-EX-02｜Boundary Intensity and the Persistence of Life
 ---
-### SN-LIF-EX-02
+### SN-LIF-EX-02｜境界と内外
 # なぜ境界は壊れないのか
 # Boundary Intensity and the Persistence of Life
 

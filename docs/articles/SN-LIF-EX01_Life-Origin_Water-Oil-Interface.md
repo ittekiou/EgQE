@@ -3,7 +3,7 @@ layout: math
 title: SN-LIF-EX-01｜水と油と生命の起源
 title_en: SN-LIF-EX-01｜The Origin of Life at the Interface of Water and Oil
 ---
-### SN-LIF-EX-01
+### SN-LIF-EX-01｜境界と内外
 # 水と油と生命の起源
 # The Origin of Life at the Interface of Water and Oil
 

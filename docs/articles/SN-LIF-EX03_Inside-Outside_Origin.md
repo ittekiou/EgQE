@@ -3,7 +3,7 @@ layout: math
 title: SN-LIF-EX-03｜なぜ内と外が生まれるのか
 title_en: "SN-LIF-EX-03｜Z₀ as Self-Cutting: The Origin of Inside and Outside"
 ---
-### SN-LIF-EX-03
+### SN-LIF-EX-03｜境界と内外
 # なぜ内と外が生まれるのか
 # Z₀ as Self-Cutting: The Origin of Inside and Outside
 
