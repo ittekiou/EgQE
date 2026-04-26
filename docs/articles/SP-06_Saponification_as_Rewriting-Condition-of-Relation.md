@@ -8,7 +8,7 @@ title_en: SP-06｜Saponification as Rewriting the Condition of Relation — From
 # Saponification as Rewriting the Condition of Relation
 ## — From Non-Mixing to Connectability —
 
-> **混ざらないものが、関係を持てるようになる条件——それが鹸化である。**
+> **混ざらないものが、関係を持てるようになる条件──それが鹸化である。**
 
 ---
 

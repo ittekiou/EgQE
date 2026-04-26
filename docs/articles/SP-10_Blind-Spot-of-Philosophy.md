@@ -253,6 +253,7 @@ SP-10：生命論と哲学の盲点　← 本稿
 - [SP-07｜構文価値論 序説](https://camp-us.net/articles/SP-07_Syntactic-Value_Fixation-to-Circulation.html)  
 - [SP-08｜学界構文論 序説](https://camp-us.net/articles/SP-08_Academic-Syntax_Fixation-to-Circulation.html)  
 - [SP-09｜現象学の盲点](https://camp-us.net/articles/SP-09_Blind-Spot-of-Phenomenology.html)  
+- [SP-11｜生命・物質・死の再配置](https://camp-us.net/articles/SP-11_Life-Matter-Death_Reconfiguration.html)  
 
 ---
 

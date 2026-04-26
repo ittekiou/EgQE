@@ -120,6 +120,7 @@ _Arête lived, aretē emerges._
 - [SP-08｜学界構文論 序説｜Toward a Theory of Academic Syntax — From Fixation to Circulation under Constraint](https://camp-us.net/articles/SP-08_Academic-Syntax_Fixation-to-Circulation.html)  
 - [SP-09｜現象学の盲点｜Syntactic Phenomenology of Ingestion and Excretion — Fermenting Life](https://camp-us.net/articles/SP-09_Blind-Spot-of-Phenomenology.html)  
 - [SP-10｜生命論と哲学の盲点｜The Blind Spot of Philosophy — Toward a Syntactic Theory of Ingestion and Excretion](https://camp-us.net/articles/SP-10_Blind-Spot-of-Philosophy.html)  
+- [SP-11｜生命・物質・死の再配置｜Reconfiguration of Life, Matter, and Death — A Syntax of Ingestion and Excretion](https://camp-us.net/articles/SP-11_Life-Matter-Death_Reconfiguration.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
