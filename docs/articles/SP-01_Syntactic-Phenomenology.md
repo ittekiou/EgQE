@@ -106,6 +106,19 @@ _The always-already beginning is the syntax that keeps arriving as the present._
 
 _Arête lived, aretē emerges._
 
+----
+
+## SPシリーズ｜SP Series
+
+- [SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)  
+- [SP-02｜Pre-emptive Syntax Phenomenology ── strolling-based seeding](https://camp-us.net/articles/SP-02_Pre-emptive_Syntax-Phenomenology.html)  
+- [SP-03｜ぬか床論 ── 構文はどこで発酵するか｜Fermenting Syntax──Nukadoko as Method](https://camp-us.net/articles/SP-03_Fermenting-Syntax_Nukadoko-as-Method.html)  
+- [SP-04｜排泄論｜Excretion as Syntactic Release — From Accumulation to Discharge](https://camp-us.net/articles/SP-04_Excretion_as_Syntactic-Release.html)  
+- [SP-05｜摂取論｜Ingestion (Intake) as Syntactic Introduction of Lag — From Difference to Circulation](https://camp-us.net/articles/SP-05_Ingestion_as_Syntactic-Introduction.html)  
+- [SP-06｜鹸化論｜Saponification as Rewriting the Condition of Relation — From Non-Mixing to Connectability](https://camp-us.net/articles/SP-06_Saponification_as_Rewriting-Condition-of-Relation.html)  
+- [SP-07｜構文価値論 序説｜Toward a Theory of Syntactic Value — From Fixation to Circulation](https://camp-us.net/articles/SP-07_Syntactic-Value_Fixation-to-Circulation.html)  
+- [SP-08｜学界構文論 序説｜Toward a Theory of Academic Syntax — From Fixation to Circulation under Constraint](https://camp-us.net/articles/SP-08_Academic-Syntax_Fixation-to-Circulation.html)  
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
