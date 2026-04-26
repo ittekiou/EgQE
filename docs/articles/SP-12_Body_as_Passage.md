@@ -138,8 +138,8 @@ It is not a subject.
 
 しかし、そのときすでに回路は崩れはじめている。
 
-> **身体とは、停止へと開かれた回路である。**  
-> **The body is a circuit open to cessation.**
+> **身体とは、停止へと開かれた通過である。**  
+> **The body is passage, open to cessation.**
 
 ---
 
