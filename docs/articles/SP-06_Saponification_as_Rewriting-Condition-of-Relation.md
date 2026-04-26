@@ -175,7 +175,6 @@ _関係は与えられるのではない。生成条件を持つ。_
 ---
 
 # 補論｜元素構文論による鹸化式
-
 ## Appendix｜Saponification in Elemental Syntax (COH Model)
 
 ---
