@@ -250,6 +250,7 @@ SP-11：生命・物質・死の再配置　← 本稿
 - [SP-08｜学界構文論 序説](https://camp-us.net/articles/SP-08_Academic-Syntax_Fixation-to-Circulation.html)  
 - [SP-09｜現象学の盲点](https://camp-us.net/articles/SP-09_Blind-Spot-of-Phenomenology.html)  
 - [SP-10｜生命論と哲学の盲点](https://camp-us.net/articles/SP-10_Blind-Spot-of-Philosophy.html)  
+- [SP-12｜身体とはなにか](https://camp-us.net/articles/SP-12_Body_as_Passage.html)  
 
 ---
 

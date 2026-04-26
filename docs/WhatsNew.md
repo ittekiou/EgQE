@@ -25,6 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SP-09｜現象学の盲点｜Syntactic Phenomenology of Ingestion and Excretion — Fermenting Life](https://camp-us.net/articles/SP-09_Blind-Spot-of-Phenomenology.html)  
 [SP-10｜生命論と哲学の盲点｜The Blind Spot of Philosophy — Toward a Syntactic Theory of Ingestion and Excretion](https://camp-us.net/articles/SP-10_Blind-Spot-of-Philosophy.html)  
 [SP-11｜生命・物質・死の再配置｜Reconfiguration of Life, Matter, and Death — A Syntax of Ingestion and Excretion](https://camp-us.net/articles/SP-11_Life-Matter-Death_Reconfiguration.html)  
+[SP-12｜身体とはなにか｜What Is the Body — Body as Passage: A Syntax of Ingestion and Excretion](https://camp-us.net/articles/SP-12_Body_as_Passage.html)  
 ###### 2026/04/25  
 [SN-LIF-EX-01｜水と油と生命の起源｜The Origin of Life at the Interface of Water and Oil](https://camp-us.net/articles/SN-LIF-EX01_Life-Origin_Water-Oil-Interface.html)  
 [SN-LIF-EX-02｜なぜ境界は壊れないのか｜Boundary Intensity and the Persistence of Life](https://camp-us.net/articles/SN-LIF-EX02_Boundary-Intensity_Persistence-of-Life.html)  
