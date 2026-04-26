@@ -22,6 +22,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/04/26  
 [SP-07｜構文価値論 序説｜Toward a Theory of Syntactic Value — From Fixation to Circulation](https://camp-us.net/articles/SP-07_Syntactic-Value_Fixation-to-Circulation.html)  
 [SP-08｜学界構文論 序説｜Toward a Theory of Academic Syntax — From Fixation to Circulation under Constraint](https://camp-us.net/articles/SP-08_Academic-Syntax_Fixation-to-Circulation.html)  
+[SP-09｜現象学の盲点｜Syntactic Phenomenology of Ingestion and Excretion — Fermenting Life](https://camp-us.net/articles/SP-09_Blind-Spot-of-Phenomenology.html)  
+[SP-10｜生命論と哲学の盲点｜The Blind Spot of Philosophy — Toward a Syntactic Theory of Ingestion and Excretion](https://camp-us.net/articles/SP-10_Blind-Spot-of-Philosophy.html)  
 ###### 2026/04/25  
 [SN-LIF-EX-01｜水と油と生命の起源｜The Origin of Life at the Interface of Water and Oil](https://camp-us.net/articles/SN-LIF-EX01_Life-Origin_Water-Oil-Interface.html)  
 [SN-LIF-EX-02｜なぜ境界は壊れないのか｜Boundary Intensity and the Persistence of Life](https://camp-us.net/articles/SN-LIF-EX02_Boundary-Intensity_Persistence-of-Life.html)  
