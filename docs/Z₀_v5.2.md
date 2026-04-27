@@ -174,6 +174,13 @@ Z₀定義: v1–[v3.0](https://camp-us.net/Z₀-Definition_3.0.html) / [v4.0](h
 
 ---
 
+> **散逸と固着は失敗した再帰。  
+> Z₀は成功が成立する臨界条件。**  
+> **Dissipation and fixation are failed recursions.  
+> Z₀ is the critical condition where recursion succeeds.**
+
+---
+
 ### Z₀ v5.2｜Minimal English Version
 # $Z₀$ as a Critical Boundary
 
