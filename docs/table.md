@@ -66,8 +66,8 @@ layout: math
 
   <!-- Wordmark -->
   <g transform="translate(250,132)">
-    <text x="0" y="0" font-family="Georgia, serif" font-size="56">MUNCH</text>
-    <text x="2" y="56" font-family="Georgia, serif" font-size="34">BST</text>
+    <text x="0" y="0" font-family="Georgia, serif" fill="#2c1f0e" font-size="56">MUNCH</text>
+    <text x="2" y="56" font-family="Georgia, serif" fill="#2c1f0e" font-size="34">BST</text>
 
     <!-- Tagline -->
     <text x="0" y="92" class="txtMono small">UNFINISHED · NON-CLOSED · HYBRID</text>
