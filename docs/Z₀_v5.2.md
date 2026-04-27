@@ -6,6 +6,8 @@ title_en: Z₀ v5.2｜Z₀ as a Critical Boundary (Minimal English Version)
 # $Z₀$ v5.2｜三相構造としてのZ₀
 ## Z₀ as a Critical Boundary Between Dissipation and Fixation
 
+> **散逸と固着は再帰に入らない。Z₀は再帰が成立する。**
+
 ---
 
 ## 0. 更新の要点
@@ -161,6 +163,8 @@ foldingは境界に立つ。
 
 ## バージョン系譜
 
+**Z₀＝成功例ではなく“成立条件”**  
+
 ```
 v1–v3.0：ズレの理論
 v4.0　　：遭遇の理論
@@ -174,10 +178,10 @@ Z₀定義: v1–[v3.0](https://camp-us.net/Z₀-Definition_3.0.html) / [v4.0](h
 
 ---
 
-> **散逸と固着は失敗した再帰。  
+> **散逸と固着は、再帰に入らなかったlagの二様式。  
 > Z₀は成功が成立する臨界条件。**  
-> **Dissipation and fixation are failed recursions.  
-> Z₀ is the critical condition where recursion succeeds.**
+> **Dissipation and fixation are two modes of lag that do not enter recursion.  
+> Z₀ is the critical condition under which recursion emerges.**
 
 ---
 
@@ -262,6 +266,14 @@ Z₀ (irreversible cut / onset of folding)
 ## Ultimate Compression
 
 > **What is universal is not the result, but the condition of transition.**
+
+---
+
+　入らざる  
+　広がり固まり  
+　そのあわい  
+　折れ立つところ  
+　再帰はじまる
 
 ---
 _Z₀ v5.2 / EgQE Framework_  
