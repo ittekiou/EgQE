@@ -169,7 +169,7 @@ v5.1　　：相としての遭遇・持続移行
 v5.2　　：三相構造（散逸／Z₀／固着）← 本稿
 ```
 
-Z₀定義: v1–[v3.0](https://camp-us.net/Z₀-Definition_3.0.html) / [v4.0](https://camp-us.net/Z₀_v4.0.html) / [v5.0](https://camp-us.net/Z₀_v5.0.html) / [Z₀ v5.1](https://camp-us.net/Z₀_v5.1.html)  
+Z₀定義: v1–[v3.0](https://camp-us.net/Z₀-Definition_3.0.html) / [v4.0](https://camp-us.net/Z₀_v4.0.html) / [v5.0](https://camp-us.net/Z₀_v5.0.html) / [v5.1](https://camp-us.net/Z₀_v5.1.html)  
 [SN-LIF-EX-04｜Oil as the Fossil of Lost Orientation](https://camp-us.net/articles/SN-LIF-EX04_Oil_Fossil-of-Lost-Orientation.html)  
 
 ---
