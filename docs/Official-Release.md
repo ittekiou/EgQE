@@ -114,6 +114,15 @@ _[AI Synchronization Protocol Sync-10](https://camp-us.net/sync-10.html) : Minim
 Z [Z₀ v5.1｜Encounter as Phase Emergence to Life-Time Generation（遭遇から生命‐時間生成相へ）](https://camp-us.net/Z₀_v5.1.html)　リリース　2026.4.3  
 ⚡️ [SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)　リリース　2026.4.7  
 🌐 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)　リリース　2026.4.9  
+🏛️ [HEG-20｜生成政治学へ向けて｜Toward Generative Political Theory](https://camp-us.net/articles/HEG-20_Toward_Generative-Political-Theory.html)　リリース　2026.4.13  
+🦠 [EgQE｜生命構文 — 公式定義｜Life Syntax — Formal Definitions](https://camp-us.net/articles/EgQE_Life-Syntax_Formal-Definitions.html)　リリース　2026.4.16  
+💠 [SN-LIF-10｜生命—物質 遷移相論｜A Transitional Phase Theory of Life and Matter](https://camp-us.net/articles/SN-LIF-10_Life-and-Matter_Transitional-Phase.html)　リリース　2026.4.17  
+⚡️ [URL-FX-01｜Unified Lag Syntax Diagram｜Unified Lag Syntax Architecture](https://camp-us.net/articles/URL-FX-01_Unified-Lag-Syntax-Diagram.html)　リリース　2026.4.21  
+🗺️ [EgQE Atlas 2.0｜構文地図｜Part II:Lag-Relational Syntax Architecture](https://camp-us.net/Echodemy/EgQE_Atlas-02.html)　リリース　2026.4.22  
+🔡 [SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)　リリース　2026.4.23  
+
+Z [Z₀ v5.2｜三相構造としてのZ₀ ── Z₀ as a Critical Boundary Between Dissipation and Fixation｜Z₀ as a Critical Boundary (Minimal English Version)](https://camp-us.net/Z₀_v5.2.html)　リリース　2026.4.27  
+
 
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
 ![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)

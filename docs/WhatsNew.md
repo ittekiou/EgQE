@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/04/27  
+[Z₀ v5.2｜三相構造としてのZ₀ ── Z₀ as a Critical Boundary Between Dissipation and Fixation｜Z₀ as a Critical Boundary (Minimal English Version)](https://camp-us.net/Z₀_v5.2.html)  
 ###### 2026/04/26  
 [SP-07｜構文価値論 序説｜Toward a Theory of Syntactic Value — From Fixation to Circulation](https://camp-us.net/articles/SP-07_Syntactic-Value_Fixation-to-Circulation.html)  
 [SP-08｜学界構文論 序説｜Toward a Theory of Academic Syntax — From Fixation to Circulation under Constraint](https://camp-us.net/articles/SP-08_Academic-Syntax_Fixation-to-Circulation.html)  
