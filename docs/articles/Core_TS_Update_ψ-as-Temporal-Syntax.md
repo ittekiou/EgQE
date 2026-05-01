@@ -10,6 +10,8 @@ title_en: TS-Core Update｜ψ as Temporal Syntax ── Time as the Persistence 
 👉 [TS Core](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
 👉 [TS-Core Update v2｜ψの拡張 — 持続と待機 —](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)  
 
+[TS-EX-01｜時間はどこに現れるのか ── 不可逆蓄積としてのlag構文｜Where Does Time Appear? — Time as Irreversible Accumulation of lag](https://camp-us.net/articles/TS-EX-01_Where-Does-Time-Appear.html)  
+
 ---
 
 ### 0. 導入

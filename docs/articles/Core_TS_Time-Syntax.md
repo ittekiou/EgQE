@@ -8,6 +8,8 @@ layout: math
 [TS-Core Update｜ψ as Temporal Syntax ── 差分の持続としての時間](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)  
 [TS-Core Update v2｜ψの拡張 — 持続と待機 —｜Persistence and Latency](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)  
 
+[TS-EX-01｜時間はどこに現れるのか ── 不可逆蓄積としてのlag構文｜Where Does Time Appear? — Time as Irreversible Accumulation of lag](https://camp-us.net/articles/TS-EX-01_Where-Does-Time-Appear.html)  
+
 ---
 
 ## 1｜問題設定
@@ -395,6 +397,9 @@ Axis distribution → SPACE
 [TS-13｜時間とは何か ── lag前提による再構築｜What is Time? — Reconstruction from Lag Ontology —](https://camp-us.net/articles/TS-13_What-is-Time_Reconstruction.html)  
 [TS-14｜零は存在しない ── 変化としての時間｜Zero Does Not Exist — Time as Change —](https://camp-us.net/articles/TS-14_Zero-Does-Not-Exist.html)  
 [TS-15｜宇宙はrateでlate展開する ── 世界は多重に揃わない｜The Universe Unfolds in Rate, Yet Late — A World of Multi-Layered Non-Coincidence —](https://camp-us.net/articles/TS-15_Rate-Yet-Late_Multi-Layered-Non-Coincidence.html)  
+
+[SN-LIF-09｜ψの正体──再帰に再帰を重ねる残差構造｜The Identity of ψ: Residue Upon Residue](https://camp-us.net/articles/SN-LIF-09_ψ-Identity_Residue-Upon-Residue.html)  
+[TS-EX-01｜時間はどこに現れるのか ── 不可逆蓄積としてのlag構文｜Where Does Time Appear? — Time as Irreversible Accumulation of lag](https://camp-us.net/articles/TS-EX-01_Where-Does-Time-Appear.html)  
 
 ---
 

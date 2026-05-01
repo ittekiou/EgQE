@@ -9,7 +9,9 @@ title_en: TS-Core Update v2｜ψ as Temporal Syntax (Extended) — Persistence a
 # **ψ as Temporal Syntax (Extended)**
 ## — Persistence and Latency —
 
-👉 [TS Core](https://camp-us.net/articles/Core_TS_Time-Syntax.html)
+👉 [TS Core](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
+
+[TS-EX-01｜時間はどこに現れるのか ── 不可逆蓄積としてのlag構文｜Where Does Time Appear? — Time as Irreversible Accumulation of lag](https://camp-us.net/articles/TS-EX-01_Where-Does-Time-Appear.html)  
 
 ---
 
