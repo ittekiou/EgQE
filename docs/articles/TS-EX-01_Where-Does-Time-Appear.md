@@ -1,13 +1,13 @@
 ---
 layout: math
 title: TS-EX-01｜時間はどこに現れるのか ── 不可逆蓄積としてのlag構文
-title_en: TS-EX-01｜Where Does Time Appear? — Time as Irreversible Accumulation of lag
+title_en: TS-EX-01｜Where Does Time Appear? — Time as the Irreversible Accumulation of lag
 ---
 ### TS-EX-01｜Time as lag
 # 時間はどこに現れるのか
 ## Where Does Time Appear?
 ### ── 不可逆蓄積としてのlag構文
-### — Time as Irreversible Accumulation of lag —
+### — Time as the Irreversible Accumulation of lag —
 
 ---
 
@@ -236,6 +236,25 @@ time gathers in traces.
 
 ---
 
+# Appendix｜Contrast with Rovelli (Brief)  
+EgQE vs Relational Time
+
+| Aspect | Rovelli | EgQE |
+|---|---|---|
+| Primitives | Relations / Interactions | lag / Z₀ / ΔZ |
+| Status of Time | Emergent (from relations) | Emergent (from lag-structured syntax) |
+| Present | No universal "now" | Locally established at Z₀ |
+| Arrow of Time | Entropy | Irreversibility of Z₀ |
+| Worldview | Network of events | Circuit of cuts and traces |
+
+Rovelli: Time as relational emergence.  
+**EgQE: Time as the accumulation of irreversible cuts through Z₀.**
+
+---
+_TS-EX-01 / EgQE Framework_  
+
+---
+
 ## シリーズ位置｜Series Position
 
 ```
@@ -248,7 +267,7 @@ TS-EX-01：時間の生成　← 本稿
 
 ---
 
-# Appendix｜Rovelliとの対照（簡略）
+## Rovelliとの対照（簡略）
 
 |論点|Rovelli|EgQE|
 |---|---|---|
@@ -257,26 +276,6 @@ TS-EX-01：時間の生成　← 本稿
 |現在|普遍的現在はない|Z₀として局所成立|
 |時間の矢|エントロピー|Z₀の不可逆性|
 |世界像|eventsの網|切断と痕跡の回路|
-
-Rovelli reads time as relational emergence.  
-EgQE reads time as syntactic generation through irreversible cuts.
-
-## Appendix｜Contrast with Rovelli (Brief)  
-EgQE vs Relational Time
-
-| Aspect | Rovelli | EgQE |
-|---|---|---|
-| Primitives | Relations / Interactions | lag / Z₀ / ΔZ |
-| Status of Time | Emergent (from relations) | Emergent (from lag-structured syntax) |
-| Present | No universal "now" | Locally established at Z₀ |
-| Arrow of Time | Entropy | Irreversibility of Z₀ |
-| Worldview | Network of events | Circuit of cuts and traces |
-
-Rovelli: Time as relational emergence.  
-**EgQE: Time as the accumulation of irreversible cuts.**
-
----
-_TS-EX-01 / EgQE Framework_  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

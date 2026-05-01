@@ -20,7 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/05/02  
-[TS-EX-01｜時間はどこに現れるのか ── 不可逆蓄積としてのlag構文｜Where Does Time Appear? — Time as Irreversible Accumulation of lag](https://camp-us.net/articles/TS-EX-01_Where-Does-Time-Appear.html)  
+[TS-EX-01｜時間はどこに現れるのか ── 不可逆蓄積としてのlag構文｜Where Does Time Appear? — Time as the Irreversible Accumulation of lag](https://camp-us.net/articles/TS-EX-01_Where-Does-Time-Appear.html)  
 ###### 2026/04/27  
 [Z₀ v5.2｜三相構造としてのZ₀ ── Z₀ as a Critical Boundary Between Dissipation and Fixation｜Z₀ as a Critical Boundary (Minimal English Version)](https://camp-us.net/Z₀_v5.2.html)  
 ###### 2026/04/26  
