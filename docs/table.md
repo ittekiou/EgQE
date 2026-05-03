@@ -3,6 +3,104 @@ layout: math
 ---
 
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 640" width="720" height="640" font-family="'Hiragino Sans', 'Yu Gothic', 'Meiryo', sans-serif">
+
+  <!-- 背景 -->
+  <rect width="720" height="600" fill="#ffffff"/>
+
+  <!-- タイトル -->
+  <text x="360" y="36" text-anchor="middle" font-size="15" font-weight="bold" fill="#111111">エディティング概念の発生と Atlas 構造との重合</text>
+  <text x="360" y="54" text-anchor="middle" font-size="11" fill="#555555">Emergence of Editing and Its Superposition with Atlas Structure (EgQE Figure)</text>
+
+  <!-- ── レイヤー0: 語りの実践 ── -->
+  <rect x="40" y="80" width="160" height="64" rx="8" ry="8" fill="#e8f5e9" stroke="#4caf50" stroke-width="1.8"/>
+  <text x="120" y="100" text-anchor="middle" font-size="13" font-weight="bold" fill="#2e7d32">語りの実践</text>
+  <text x="120" y="118" text-anchor="middle" font-size="11" fill="#388e3c">Practice of Speaking</text>
+  <text x="120" y="134" text-anchor="middle" font-size="10" fill="#555">(ポッドキャスト)</text>
+
+  <!-- 語り → エディティング 矢印 -->
+  <line x1="200" y1="112" x2="268" y2="130" stroke="#4caf50" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <polygon points="268,130 256,122 260,134" fill="#4caf50"/>
+
+  <!-- ── レイヤー1: エディティング（先行概念） ── -->
+  <ellipse cx="320" cy="148" rx="88" ry="36" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1.8"/>
+  <text x="320" y="140" text-anchor="middle" font-size="14" font-weight="bold" fill="#6a1b9a">エディティング</text>
+  <text x="320" y="170" text-anchor="middle" font-size="10" fill="#7b1fa2">先行概念／発生</text>
+  <text x="320" y="152" text-anchor="middle" font-size="9" fill="#888">Editing — prior concept / emergence</text>
+
+  <!-- 遭遇・重合ラベル -->
+  <text x="430" y="200" text-anchor="middle" font-size="10" fill="#e65100" font-style="italic">遭遇・重合 / encounter &amp; superposition</text>
+
+  <!-- エディティング → stabilize 矢印 -->
+  <line x1="320" y1="184" x2="320" y2="214" stroke="#e65100" stroke-width="1.8"/>
+  <polygon points="320,214 314,202 326,202" fill="#e65100"/>
+
+  <!-- ── 構文連鎖 外枠 ── -->
+  <rect x="100" y="215" width="520" height="300" rx="10" ry="10" fill="#fff8f0" stroke="#e53935" stroke-width="1.8" stroke-dasharray="7,4"/>
+  <text x="360" y="508" text-anchor="middle" font-size="11" font-weight="bold" fill="#e53935">構文連鎖 / Syntactic Chain　(retain → distortion → projection → Z₀')</text>
+
+  <!-- ── stabilize(l) / Z₀ ── -->
+  <rect x="224" y="224" width="192" height="64" rx="8" ry="8" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+  <text x="320" y="249" text-anchor="middle" font-size="14" font-weight="bold" fill="#0d47a1">stabilize(l) → Z₀</text>
+  <text x="320" y="267" text-anchor="middle" font-size="10" fill="#1565c0">切断・安定化 / Cut &amp; Stabilization</text>
+  <text x="320" y="281" text-anchor="middle" font-size="9" fill="#888">Atlas 2.0</text>
+
+  <!-- Z₀ → retain -->
+  <line x1="416" y1="256" x2="480" y2="256" stroke="#333" stroke-width="1.5"/>
+  <polygon points="480,256 468,250 468,262" fill="#333"/>
+  <text x="448" y="248" text-anchor="middle" font-size="9" fill="#555">retain</text>
+
+  <!-- retain ノード -->
+  <circle cx="524" cy="256" r="38" fill="#ffffff" stroke="#333" stroke-width="1.5"/>
+  <text x="524" y="252" text-anchor="middle" font-size="12" fill="#111">retain</text>
+  <text x="524" y="267" text-anchor="middle" font-size="10" fill="#555">持続</text>
+
+  <!-- retain → distortion -->
+  <line x1="524" y1="294" x2="524" y2="358" stroke="#333" stroke-width="1.5"/>
+  <polygon points="524,358 518,346 530,346" fill="#333"/>
+  <text x="538" y="330" text-anchor="start" font-size="9" fill="#555">distort</text>
+
+  <!-- distortion ノード -->
+  <circle cx="524" cy="396" r="38" fill="#ffffff" stroke="#333" stroke-width="1.5"/>
+  <text x="524" y="392" text-anchor="middle" font-size="12" fill="#111">distortion</text>
+  <text x="524" y="407" text-anchor="middle" font-size="10" fill="#555">歪み</text>
+
+  <!-- distortion → projection -->
+  <line x1="487" y1="396" x2="420" y2="396" stroke="#333" stroke-width="1.5"/>
+  <polygon points="420,396 432,390 432,402" fill="#333"/>
+  <text x="454" y="388" text-anchor="middle" font-size="9" fill="#555">project</text>
+
+  <!-- projection ノード -->
+  <circle cx="382" cy="396" r="38" fill="#ffffff" stroke="#333" stroke-width="1.5"/>
+  <text x="382" y="392" text-anchor="middle" font-size="12" fill="#111">projection</text>
+  <text x="382" y="407" text-anchor="middle" font-size="10" fill="#555">現れ</text>
+
+  <!-- projection → Z₀' -->
+  <line x1="344" y1="396" x2="232" y2="396" stroke="#333" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <polygon points="232,396 244,390 244,402" fill="#333"/>
+  <text x="288" y="388" text-anchor="middle" font-size="9" fill="#555">更新 / update</text>
+
+  <!-- Z₀' ノード -->
+  <circle cx="190" cy="396" r="42" fill="#fff9e3" stroke="#f9a825" stroke-width="2"/>
+  <text x="190" y="390" text-anchor="middle" font-size="13" font-weight="bold" fill="#e65100">Z₀'</text>
+  <text x="190" y="406" text-anchor="middle" font-size="11" fill="#e65100">更新</text>
+  <text x="190" y="420" text-anchor="middle" font-size="9" fill="#888">Z₀ ≠ Z₀'</text>
+
+  <!-- Z₀' → (非閉包) -->
+  <path d="M 185 350 Q 160 300 210 270" stroke="#f9a825" stroke-width="1.5" fill="none" stroke-dasharray="4,3"/>
+  <text x="140" y="316" text-anchor="middle" font-size="9" fill="#f9a825" font-style="italic">非閉包</text>
+  <text x="140" y="328" text-anchor="middle" font-size="9" fill="#f9a825" font-style="italic">non-closure</text>
+
+  <!-- キャプション -->
+  <line x1="60" y1="528" x2="660" y2="528" stroke="#cccccc" stroke-width="0.8"/>
+  <text x="360" y="544" text-anchor="middle" font-size="9.5" fill="#444444">エディティング概念は語りの実践から先行して発生した。Atlas 2.0 の stabilize(l) と遭遇・重合することで、lag処理の操作的読解として位置づけられる。</text>
+  <text x="360" y="560" text-anchor="middle" font-size="9" fill="#777777">Editing emerged prior to theory through the practice of speaking,</text>
+  <text x="360" y="575" text-anchor="middle" font-size="9" fill="#777777">and was positioned as an operational reading of lag-processing upon encountering stabilize(l) in Atlas 2.0.</text>
+  <text x="360" y="602" text-anchor="middle" font-size="9" fill="#aaaaaa">EgQE — Echo-Genesis Qualia Engine © K.E. Itekki</text>
+
+</svg>
+
+
 
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">

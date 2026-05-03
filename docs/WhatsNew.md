@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/05/03  
+[LET-00｜エディティングとは何か ── lagと生成の操作論（短論）｜What is Editing — An Operational Theory of Lag and Generation](https://camp-us.net/articles/LET-00_Editing_as_Operational-Theory-of-Lag-and-Generation.html)  
+[LET-01｜エディティング身体論 ── 呼吸・歩行・排泄としての構文｜Editing as Embodied Syntax — Breathing, Walking, and Excretion](https://camp-us.net/articles/LET-01_Editing-as-Embodied-Syntax.html)  
 ###### 2026/05/02  
 [TS-EX-01｜時間はどこに現れるのか ── 不可逆蓄積としてのlag構文｜Where Does Time Appear? — Time as the Irreversible Accumulation of lag](https://camp-us.net/articles/TS-EX-01_Where-Does-Time-Appear.html)  
 ###### 2026/04/27  
