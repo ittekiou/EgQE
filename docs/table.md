@@ -2,6 +2,85 @@
 layout: math
 ---
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 580" width="680" height="580" font-family="'Hiragino Sans', 'Yu Gothic', 'Meiryo', sans-serif">
+
+  <!-- 背景 -->
+  <rect width="680" height="580" fill="#ffffff"/>
+
+  <!-- タイトル -->
+  <text x="340" y="30" text-anchor="middle" font-size="14" font-weight="bold" fill="#111">時間の発生 / The Emergence of Time</text>
+  <text x="340" y="48" text-anchor="middle" font-size="10" fill="#666">LET-TS — lag edit theory (EgQE)</text>
+
+  <!-- ── SO ── -->
+  <rect x="230" y="66" width="220" height="54" rx="6" fill="#f0f0f0" stroke="#888888" stroke-width="1.5"/>
+  <text x="340" y="88" text-anchor="middle" font-size="13" font-weight="bold" fill="#444444">SO</text>
+  <text x="340" y="104" text-anchor="middle" font-size="10" fill="#666666">pre-temporal relational configuration</text>
+  <text x="340" y="116" text-anchor="middle" font-size="9" fill="#999">差の配置（まだ時間ではない）</text>
+
+  <!-- SO → cut 矢印 -->
+  <line x1="340" y1="120" x2="340" y2="152" stroke="#555" stroke-width="1.5"/>
+  <polygon points="340,152 334,140 346,140" fill="#555"/>
+  <text x="356" y="138" font-size="9" fill="#888">edit</text>
+
+  <!-- ── cut / Z₀ ── -->
+  <rect x="210" y="156" width="260" height="58" rx="6" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+  <text x="340" y="178" text-anchor="middle" font-size="13" font-weight="bold" fill="#0d47a1">cut → Z₀</text>
+  <text x="340" y="194" text-anchor="middle" font-size="10" fill="#1565c0">editing / stabilize(l)</text>
+  <text x="340" y="207" text-anchor="middle" font-size="9" fill="#5585aa">切れ目の導入・安定化</text>
+
+  <!-- Z₀ → Z₀' 非閉包 破線 -->
+  <line x1="470" y1="180" x2="570" y2="200" stroke="#f9a825" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <circle cx="580" cy="204" r="22" fill="#fff9e3" stroke="#f9a825" stroke-width="1.5"/>
+  <text x="583" y="200" text-anchor="middle" font-size="12" font-weight="bold" fill="#e65100">Z₀′</text>
+  <text x="580" y="214" text-anchor="middle" font-size="8" fill="#e65100">更新／ズレ</text>
+  <text x="520" y="206" text-anchor="middle" font-size="8" fill="#f9a825" font-style="italic">Z₀ ≠ Z₀′</text>
+  <text x="520" y="217" text-anchor="middle" font-size="8" fill="#f9a825" font-style="italic">non-closure</text>
+
+  <!-- cut → retain 矢印 -->
+  <line x1="340" y1="214" x2="340" y2="250" stroke="#555" stroke-width="1.5"/>
+  <polygon points="340,250 334,240 346,240" fill="#555"/>
+  <text x="356" y="238" font-size="9" fill="#888">retain</text>
+
+  <!-- ── retain ── -->
+  <circle cx="340" cy="285" r="36" fill="#ffffff" stroke="#333333" stroke-width="1.5"/>
+  <text x="340" y="273" text-anchor="middle" font-size="13" fill="#111">retain</text>
+  <text x="340" y="290" text-anchor="middle" font-size="10" fill="#555">持続</text>
+  <text x="340" y="300" text-anchor="middle" font-size="10" fill="#555">carry-over</text>
+
+  <!-- retain → circuit 矢印 -->
+  <line x1="340" y1="320" x2="340" y2="356" stroke="#555" stroke-width="1.5"/>
+  <polygon points="340,356 334,344 346,344" fill="#555"/>
+  <text x="356" y="340" font-size="9" fill="#888">loop</text>
+
+  <!-- ── circuit ── -->
+  <rect x="190" y="360" width="300" height="100" rx="10" fill="#fff5f5" stroke="#e53935" stroke-width="1.8" stroke-dasharray="7,4"/>
+  <text x="340" y="392" text-anchor="middle" font-size="12" font-weight="bold" fill="#e53935">circuit</text>
+  <text x="340" y="408" text-anchor="middle" font-size="10" fill="#c62828">反復可能性 / repeatability</text>
+  <!-- loop 矢印 -->
+  <path d="M 255 430 Q 340 460 425 430" fill="none" stroke="#e53935" stroke-width="1.5"/>
+  <path d="M 425 430 Q 340 400 255 430" fill="none" stroke="#e53935" stroke-width="1.5" stroke-dasharray="3,2"/>
+
+  <!-- circuit → time 矢印 -->
+  <line x1="490" y1="410" x2="555" y2="410" stroke="#ff9800" stroke-width="1.5"/>
+  <polygon points="555,410 543,404 543,416" fill="#ff9800"/>
+
+  <!-- ── time emerges ── -->
+  <text x="568" y="400" text-anchor="middle" font-size="18" fill="#ff9800">✴</text>
+  <text x="570" y="418" text-anchor="middle" font-size="11" font-weight="bold" fill="#e65100">time</text>
+  <text x="568" y="432" text-anchor="middle" font-size="9" fill="#ff9800">emerges</text>
+  <text x="568" y="445" text-anchor="middle" font-size="8" fill="#aaa" font-style="italic">not given</text>
+
+  <!-- キャプション -->
+  <line x1="60" y1="492" x2="620" y2="492" stroke="#dddddd" stroke-width="0.8"/>
+  <text x="340" y="508" text-anchor="middle" font-size="10" fill="#444">時間はあらかじめ与えられていない。lagが保持され、回路として反復可能になるときに現れる。</text>
+  <text x="340" y="524" text-anchor="middle" font-size="9.5" fill="#777">Time does not exist in advance. It emerges when retained lag becomes repeatable as a circuit.</text>
+  <text x="340" y="548" text-anchor="middle" font-size="11" fill="#aaa">SO → edit(Z₀) → retain → circuit → ✴ time emerges　|　Z₀ ≠ Z₀′ (non-closure)</text>
+  <text x="340" y="568" text-anchor="middle" font-size="8" fill="#ccc">EgQE — Echo-Genesis Qualia Engine © K.E. Itekki</text>
+
+</svg>
+
+
+
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 640" width="720" height="640" font-family="'Hiragino Sans', 'Yu Gothic', 'Meiryo', sans-serif">
 
