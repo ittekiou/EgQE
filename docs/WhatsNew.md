@@ -25,6 +25,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [LET-02｜エディティング社会論 ── 制度・権力・集団lag編集回路｜Editing as Social Syntax — Institutions, Power, and Collective Lag-Editing Circuits](https://camp-us.net/articles/LET-02_Editing-as-Social-Syntax.html)  
 [LET-03｜エディティングAI論 ── 生成・模倣・lagの所在｜Editing and AI — Generation, Imitation, and the Location of Lag](https://camp-us.net/articles/LET-03_Editing-and-AI.html)  
 [LET-TS｜エディティング時間論 ── 保持・回路・lagの持続｜Editing and Time — Retention, Circuits, and the Persistence of Lag](https://camp-us.net/articles/LET-TS_Editing-and-Time.html)  
+[LET-EX-00｜通過としてのエディティング ── Passage-Based Editing｜Editing as Passage — A Passage-Based Theory of Editing](https://camp-us.net/articles/LET-EX-00_Editing-as-Passage.html)  
+[LET-EX-01｜エディティング身体論（拡張） ── 通過から編集へ｜Body as Editing — From Passage to Editing](https://camp-us.net/articles/LET-EX-01_Body-as-Editing.html)  
 ###### 2026/05/02  
 [TS-EX-01｜時間はどこに現れるのか ── 不可逆蓄積としてのlag構文｜Where Does Time Appear? — Time as the Irreversible Accumulation of lag](https://camp-us.net/articles/TS-EX-01_Where-Does-Time-Appear.html)  
 ###### 2026/04/27  
