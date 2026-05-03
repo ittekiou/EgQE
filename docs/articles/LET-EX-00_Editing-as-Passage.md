@@ -112,7 +112,7 @@ Editing is the event in which a cut emerges in lag.
 
 But it is not merely a separation.
 
-Editing is the operation that leaves a deviation within passage.
+Editing leaves deviation within passage.
 
 When deviation remains, difference is carried over.  
 What is carried over appears as persistence.
