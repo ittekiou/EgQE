@@ -181,7 +181,8 @@ Everything is continuously being edited.
 
 **lag edit theory = generation through non-coincidence and cutting**
 
-[LET-MAP｜lag-edit theory 見取り図 ── 操作・身体・社会・AI・時間の全体構造｜Lag-Edit Theory Map — Operation, Body, Society, AI, and Time](https://camp-us.net/articles/LET-MAP_Lag-Edit-Theory.html)  
+- 本理論の全体構造 → [LET-MAP](https://camp-us.net/articles/LET-MAP_Lag-Edit-Theory.html)  
+- See the full structure → [LET-MAP](https://camp-us.net/articles/LET-MAP_Lag-Edit-Theory.html)  
 
 ![lag-edit-theory-map](../assets/lag-edit-theory-map.svg)  
 

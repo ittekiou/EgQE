@@ -86,7 +86,7 @@ It operates as a circuit.
 
 通過が先にあり、editがそこにズレを残すとき、回路が生まれ、時間が現れる。
 
-Passage comes first. When edit leaves deviation within it, a circuit emerges, and time appears.
+Passage is prior. When edit leaves deviation within it, a circuit emerges, and time appears.
 
 ---
 
