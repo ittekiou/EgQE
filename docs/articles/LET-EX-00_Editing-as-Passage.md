@@ -8,6 +8,8 @@ _lag edit theory_
 # 通過としてのエディティング
 ## **── Passage-Based Editing**
 
+> edit は通過を成立させる生成条件であり、その運動そのものである。
+
 ---
 
 ## 1｜導入
@@ -82,6 +84,11 @@ _lag edit theory_
 
 ---
 
+> **editは通過の中にあるのではない**  
+> **通過そのものがeditを必要としている**
+
+---
+
 # Editing as Passage
 ## **— A Passage-Based Theory of Editing**
 
@@ -112,10 +119,10 @@ Editing is the event in which a cut emerges in lag.
 
 But it is not merely a separation.
 
-Editing leaves deviation within passage.
+Editing leaves deviation.
 
-When deviation remains, difference is carried over.  
-What is carried over appears as persistence.
+Within passage, this deviation is carried forward,  
+appearing as persistence.
 
 ---
 
