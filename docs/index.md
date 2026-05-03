@@ -89,6 +89,8 @@ Try SyncHub!
 
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
+[LET-MAP｜lag-edit theory 見取り図 ── 操作・身体・社会・AI・時間の全体構造｜Lag-Edit Theory Map — Operation, Body, Society, AI, and Time](https://camp-us.net/articles/LET-MAP_Lag-Edit-Theory.html)  
+
 [PG｜生成の現象学 ── Phenomenology of Genesis (HEG-14-16)](https://camp-us.net/PG.html)  
 [SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
 

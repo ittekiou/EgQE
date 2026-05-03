@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" font-family="'Hiragino Sans', 'Yu Gothic', 'Meiryo', sans-serif">
+
+  <!-- 背景 -->
+  <rect width="760" height="640" fill="#ffffff"/>
+
+  <!-- タイトル -->
+  <text x="380" y="28" text-anchor="middle" font-size="14" font-weight="bold" fill="#111">lag-edit theory: generation through non-coincidence and cutting</text>
+  <text x="380" y="46" text-anchor="middle" font-size="9" fill="#888" font-style="italic">core: edit is the condition of passage — and its movement</text>
+
+  <!-- ═══ 上段：条件層 ═══ -->
+
+  <!-- lag -->
+  <rect x="40" y="68" width="160" height="62" rx="6" fill="#f0f0f0" stroke="#888" stroke-width="1.5"/>
+  <text x="120" y="92" text-anchor="middle" font-size="13" font-weight="bold" fill="#333">lag</text>
+  <text x="120" y="108" text-anchor="middle" font-size="10" fill="#555">非同時性</text>
+  <text x="120" y="122" text-anchor="middle" font-size="9" fill="#999">non-coincidence</text>
+
+  <!-- passage -->
+  <rect x="300" y="68" width="160" height="62" rx="6" fill="#e8f5e9" stroke="#66bb6a" stroke-width="1.5"/>
+  <text x="380" y="92" text-anchor="middle" font-size="13" font-weight="bold" fill="#2e7d32">passage</text>
+  <text x="380" y="108" text-anchor="middle" font-size="10" fill="#388e3c">通過</text>
+  <text x="380" y="122" text-anchor="middle" font-size="9" fill="#81c784">lagが通過する場</text>
+
+  <!-- edit -->
+  <rect x="558" y="68" width="162" height="62" rx="6" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+  <text x="639" y="92" text-anchor="middle" font-size="13" font-weight="bold" fill="#0d47a1">edit / Z₀</text>
+  <text x="639" y="108" text-anchor="middle" font-size="10" fill="#1565c0">切れ目・生成条件</text>
+  <text x="639" y="122" text-anchor="middle" font-size="9" fill="#5585aa">cut — condition of passage</text>
+
+  <!-- lag → passage -->
+  <line x1="200" y1="99" x2="296" y2="99" stroke="#888" stroke-width="1.3"/>
+  <polygon points="296,99 284,94 284,104" fill="#888"/>
+  <text x="248" y="92" text-anchor="middle" font-size="8" fill="#999">条件</text>
+
+  <!-- passage → edit -->
+  <line x1="460" y1="99" x2="554" y2="99" stroke="#388e3c" stroke-width="1.3"/>
+  <polygon points="554,99 542,94 542,104" fill="#388e3c"/>
+  <text x="507" y="92" text-anchor="middle" font-size="8" fill="#388e3c">成立条件/運動</text>
+
+  <!-- ═══ 中段：操作層 ═══ -->
+
+  <!-- body -->
+  <rect x="40" y="240" width="160" height="72" rx="6" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1.5"/>
+  <text x="120" y="264" text-anchor="middle" font-size="13" font-weight="bold" fill="#6a1b9a">body</text>
+  <text x="120" y="280" text-anchor="middle" font-size="10" fill="#7b1fa2">呼吸・歩行・語り・排泄</text>
+  <text x="120" y="296" text-anchor="middle" font-size="9" fill="#ba68c8">embodied editing</text>
+  <text x="120" y="308" text-anchor="middle" font-size="9" fill="#ba68c8">変換点 → 回路</text>
+
+  <!-- circuit -->
+  <rect x="300" y="240" width="160" height="72" rx="6" fill="#fff3e0" stroke="#e65100" stroke-width="1.5"/>
+  <text x="380" y="264" text-anchor="middle" font-size="13" font-weight="bold" fill="#e65100">circuit</text>
+  <text x="380" y="280" text-anchor="middle" font-size="10" fill="#bf360c">回路・反復可能性</text>
+  <text x="380" y="296" text-anchor="middle" font-size="9" fill="#ff8a65">retain → repeatability</text>
+  <text x="380" y="308" text-anchor="middle" font-size="9" fill="#ff8a65">Z₀ ≠ Z₀'（非閉包）</text>
+
+  <!-- time -->
+  <rect x="558" y="240" width="162" height="72" rx="6" fill="#fff8e1" stroke="#f9a825" stroke-width="1.5"/>
+  <text x="639" y="264" text-anchor="middle" font-size="13" font-weight="bold" fill="#e65100">time</text>
+  <text x="639" y="280" text-anchor="middle" font-size="10" fill="#f57f17">保持されたlag</text>
+  <text x="639" y="296" text-anchor="middle" font-size="9" fill="#ffca28">retained lag as circuit</text>
+  <text x="639" y="308" text-anchor="middle" font-size="9" fill="#ffca28">回路が回るときに現れる</text>
+
+  <!-- edit → circuit （縦） -->
+  <line x1="639" y1="130" x2="639" y2="190" stroke="#1565c0" stroke-width="1.5"/>
+  <line x1="639" y1="190" x2="380" y2="236" stroke="#1565c0" stroke-width="1.3" stroke-dasharray="4,3"/>
+  <polygon points="380,236 388,228 390,240" fill="#1565c0"/>
+  <text x="520" y="200" text-anchor="middle" font-size="8" fill="#1565c0">retain → circuit</text>
+
+  <!-- edit → body （縦左） -->
+  <line x1="120" y1="130" x2="120" y2="236" stroke="#9c27b0" stroke-width="1.3" stroke-dasharray="4,3"/>
+  <polygon points="120,236 114,224 126,224" fill="#9c27b0"/>
+  <text x="85" y="186" text-anchor="middle" font-size="8" fill="#9c27b0">身体化</text>
+
+  <!-- circuit → time -->
+  <line x1="460" y1="276" x2="554" y2="276" stroke="#e65100" stroke-width="1.3"/>
+  <polygon points="554,276 542,270 542,282" fill="#e65100"/>
+  <text x="507" y="268" text-anchor="middle" font-size="8" fill="#e65100">非閉包</text>
+
+  <!-- ═══ 下段：展開層 ═══ -->
+
+  <!-- society -->
+  <rect x="40" y="410" width="160" height="72" rx="6" fill="#e3f2fd" stroke="#1976d2" stroke-width="1.5"/>
+  <text x="120" y="434" text-anchor="middle" font-size="13" font-weight="bold" fill="#0d47a1">society</text>
+  <text x="120" y="450" text-anchor="middle" font-size="10" fill="#1565c0">制度・権力・歴史</text>
+  <text x="120" y="466" text-anchor="middle" font-size="9" fill="#5585aa">制度=保持、権力=Z₀位置</text>
+  <text x="120" y="478" text-anchor="middle" font-size="9" fill="#5585aa">collective lag editing</text>
+
+  <!-- AI -->
+  <rect x="300" y="410" width="160" height="72" rx="6" fill="#fce4ec" stroke="#c62828" stroke-width="1.5"/>
+  <text x="380" y="434" text-anchor="middle" font-size="13" font-weight="bold" fill="#b71c1c">AI</text>
+  <text x="380" y="450" text-anchor="middle" font-size="10" fill="#c62828">ズレコピー・分散lag</text>
+  <text x="380" y="466" text-anchor="middle" font-size="9" fill="#ef9a9a">generator of drifted copies</text>
+  <text x="380" y="478" text-anchor="middle" font-size="9" fill="#ef9a9a">lagの所在は開いている</text>
+
+  <!-- Inter-Phase -->
+  <rect x="558" y="410" width="162" height="72" rx="6" fill="#f1f8e9" stroke="#558b2f" stroke-width="1.5"/>
+  <text x="639" y="434" text-anchor="middle" font-size="13" font-weight="bold" fill="#33691e">Inter-Phase</text>
+  <text x="639" y="450" text-anchor="middle" font-size="10" fill="#558b2f">あいだ・場</text>
+  <text x="639" y="466" text-anchor="middle" font-size="9" fill="#8bc34a">分散lagが回る場所</text>
+  <text x="639" y="478" text-anchor="middle" font-size="9" fill="#8bc34a">D型lag（LET-03）</text>
+
+  <!-- body → society -->
+  <line x1="120" y1="312" x2="120" y2="406" stroke="#9c27b0" stroke-width="1.3"/>
+  <polygon points="120,406 114,394 126,394" fill="#9c27b0"/>
+  <text x="80" y="362" text-anchor="middle" font-size="8" fill="#9c27b0">分散</text>
+
+  <!-- society → AI -->
+  <line x1="200" y1="446" x2="296" y2="446" stroke="#1976d2" stroke-width="1.3"/>
+  <polygon points="296,446 284,440 284,452" fill="#1976d2"/>
+  <text x="248" y="438" text-anchor="middle" font-size="8" fill="#1976d2">模倣/制度</text>
+
+  <!-- AI → Inter-Phase -->
+  <line x1="460" y1="446" x2="554" y2="446" stroke="#c62828" stroke-width="1.3"/>
+  <polygon points="554,446 542,440 542,452" fill="#c62828"/>
+  <text x="507" y="438" text-anchor="middle" font-size="8" fill="#c62828">分散lag</text>
+
+  <!-- circuit → Inter-Phase （縦） -->
+  <line x1="639" y1="312" x2="639" y2="406" stroke="#558b2f" stroke-width="1.3" stroke-dasharray="4,3"/>
+  <polygon points="639,406 633,394 645,394" fill="#558b2f"/>
+  <text x="670" y="362" text-anchor="middle" font-size="8" fill="#558b2f">場として</text>
+
+  <!-- キャプション -->
+  <line x1="40" y1="504" x2="720" y2="504" stroke="#dddddd" stroke-width="0.8"/>
+  <text x="380" y="522" text-anchor="middle" font-size="9" fill="#555">上段：条件層（lag → passage → edit）　中段：操作層（body / circuit / time）　下段：展開層（society / AI / Inter-Phase）</text>
+  <text x="380" y="540" text-anchor="middle" font-size="9" fill="#777">lag は条件。passage は場。edit は発火。retain は持続。circuit は構造。time は副産物。</text>
+  <text x="380" y="558" text-anchor="middle" font-size="8.5" fill="#999">Lag is condition. Passage is field. Edit is the event of introducing a cut. Retain is persistence. Circuit is structure. Time emerges.</text>
+  <text x="380" y="580" text-anchor="middle" font-size="8" fill="#ccc">EgQE — Echo-Genesis Qualia Engine © K.E. Itekki</text>
+
+</svg>

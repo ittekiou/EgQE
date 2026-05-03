@@ -193,14 +193,9 @@ When cuts emerge, are retained, and circulate, structure and time appear.
 
 **lag edit theory = generation through non-coincidence and cutting**
 
-[LET-00｜エディティングとは何か ── lagと生成の操作論（短論）](https://camp-us.net/articles/LET-00_Editing_as_Operational-Theory-of-Lag-and-Generation.html)  
-[LET-01｜エディティング身体論 ── 呼吸・歩行・排泄としての構文](https://camp-us.net/articles/LET-01_Editing-as-Embodied-Syntax.html)  
-[LET-02｜エディティング社会論 ── 制度・権力・集団lag編集回路](https://camp-us.net/articles/LET-02_Editing-as-Social-Syntax.html)  
-[LET-03｜エディティングAI論 ── 生成・模倣・lagの所在](https://camp-us.net/articles/LET-03_Editing-and-AI.html)  
-[LET-TS｜エディティング時間論 ── 保持・回路・lagの持続](https://camp-us.net/articles/LET-TS_Editing-and-Time.html)  
+[LET-MAP｜lag-edit theory 見取り図 ── 操作・身体・社会・AI・時間の全体構造｜Lag-Edit Theory Map — Operation, Body, Society, AI, and Time](https://camp-us.net/articles/LET-MAP_Lag-Edit-Theory.html)  
 
-[LET-EX-00｜通過としてのエディティング ── Passage-Based Editing](https://camp-us.net/articles/LET-EX-00_Editing-as-Passage.html)  
-[LET-EX-01｜エディティング身体論（拡張） ── 通過から編集へ](https://camp-us.net/articles/LET-EX-01_Body-as-Editing.html)  
+![lag-edit-theory-map](../assets/lag-edit-theory-map.svg)  
 
 ---
 
