@@ -198,6 +198,10 @@ Everything is continuously being edited.
 [LET-EX-01｜エディティング身体論（拡張） ── 通過から編集へ](https://camp-us.net/articles/LET-EX-01_Body-as-Editing.html)  
 
 ---
+
+**実践が先、理論が後。**
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 

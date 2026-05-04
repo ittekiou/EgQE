@@ -9,6 +9,8 @@ _lag edit theory_
 ## **── 操作・身体・社会・AI・時間の全体構造**  
 ## **Lag-Edit Theory Map — Operation, Body, Society, AI, and Time**
 
+👉 [lag-edit theory｜入口ガイド── どこから読んでも、同じ回路に合流する](https://camp-us.net/articles/LET-Intro_Guide.html)  
+
 ---
 
 ## **0｜導入｜Introduction**
@@ -146,7 +148,16 @@ It is continuously edited through carried-over deviation.
 
 ---
 
+[lag-edit theory｜30秒版](https://camp-us.net/articles/Let-30sec.html)  
+[3分でわかる lag-edit theory](https://camp-us.net/articles/LET-Quick.html)  
+
+---
+
 **lag edit theory = generation through non-coincidence and cutting**
+
+---
+
+_**lag-edit theory は、lag theory の生命的実装である。**_
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

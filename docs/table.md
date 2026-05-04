@@ -2,6 +2,87 @@
 layout: math
 ---
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800" font-family="'Hiragino Sans', 'Yu Gothic', 'Meiryo', sans-serif">
+
+  <!-- 背景 -->
+  <rect width="600" height="800" fill="#0f0f0f"/>
+
+  <!-- 上部ロゴ -->
+  <text x="300" y="54" text-anchor="middle" font-size="11" fill="#555" letter-spacing="3">E g Q E</text>
+  <text x="300" y="72" text-anchor="middle" font-size="9" fill="#444">Echo-Genesis Qualia Engine</text>
+
+  <!-- メインタイトル -->
+  <text x="300" y="120" text-anchor="middle" font-size="22" font-weight="bold" fill="#ffffff" letter-spacing="1">lag-edit theory</text>
+  <text x="300" y="144" text-anchor="middle" font-size="10" fill="#666" letter-spacing="2">generation through non-coincidence and cutting</text>
+
+  <!-- 区切り線 -->
+  <line x1="80" y1="160" x2="520" y2="160" stroke="#333" stroke-width="0.8"/>
+
+  <!-- 30秒テキスト（日本語） -->
+  <text x="300" y="202" text-anchor="middle" font-size="15" fill="#cccccc">世界はズレている</text>
+
+  <text x="300" y="248" text-anchor="middle" font-size="13" fill="#aaaaaa">ズレに切れ目が入ると 差が保持される</text>
+  <text x="300" y="272" text-anchor="middle" font-size="13" fill="#aaaaaa">保持された差が回路として回ると 構造が生まれる</text>
+  <text x="300" y="296" text-anchor="middle" font-size="13" fill="#aaaaaa">回路が続くと 時間が現れる</text>
+
+  <text x="300" y="334" text-anchor="middle" font-size="13" fill="#777" font-style="italic">これだけで足りる。</text>
+
+  <!-- 区切り線 -->
+  <line x1="160" y1="358" x2="440" y2="358" stroke="#333" stroke-width="0.6"/>
+
+  <!-- フロー図（最小版） -->
+  <!-- lag -->
+  <rect x="228" y="374" width="144" height="36" rx="4" fill="none" stroke="#444" stroke-width="1"/>
+  <text x="300" y="397" text-anchor="middle" font-size="12" fill="#888">lag　非同時性</text>
+
+  <!-- 矢印 -->
+  <line x1="300" y1="410" x2="300" y2="428" stroke="#444" stroke-width="1"/>
+  <polygon points="300,428 295,418 305,418" fill="#444"/>
+  <text x="316" y="422" font-size="8" fill="#555">cut / edit</text>
+
+  <!-- Z₀ -->
+  <rect x="228" y="430" width="144" height="36" rx="4" fill="none" stroke="#1565c0" stroke-width="1"/>
+  <text x="300" y="453" text-anchor="middle" font-size="12" fill="#5585aa">edit → Z₀</text>
+
+  <!-- 矢印 -->
+  <line x1="300" y1="466" x2="300" y2="484" stroke="#444" stroke-width="1"/>
+  <polygon points="300,484 295,474 305,474" fill="#444"/>
+  <text x="316" y="478" font-size="8" fill="#555">retain</text>
+
+  <!-- circuit -->
+  <rect x="228" y="486" width="144" height="36" rx="4" fill="none" stroke="#e65100" stroke-width="1"/>
+  <text x="300" y="509" text-anchor="middle" font-size="12" fill="#ff8a65">circuit　回路</text>
+
+  <!-- 矢印 -->
+  <line x1="300" y1="522" x2="300" y2="540" stroke="#444" stroke-width="1"/>
+  <polygon points="300,540 295,530 305,530" fill="#444"/>
+
+  <!-- time -->
+  <text x="300" y="562" text-anchor="middle" font-size="16" fill="#f9a825">✴</text>
+  <text x="300" y="580" text-anchor="middle" font-size="12" fill="#ffca28">time　現れる</text>
+
+  <!-- 区切り線 -->
+  <line x1="80" y1="606" x2="520" y2="606" stroke="#333" stroke-width="0.6"/>
+
+  <!-- 締め一句 -->
+  <text x="300" y="638" text-anchor="middle" font-size="13" fill="#888">ズレが世界を編集し 世界はズレを重ねる</text>
+  <text x="300" y="658" text-anchor="middle" font-size="13" fill="#666">その重なりが 時間になる</text>
+
+  <!-- 英語 -->
+  <text x="300" y="692" text-anchor="middle" font-size="9.5" fill="#555" font-style="italic">Lag edits the world. The world layers deviations.</text>
+  <text x="300" y="706" text-anchor="middle" font-size="9.5" fill="#555" font-style="italic">Their circulation gives rise to time.</text>
+
+  <!-- 区切り線 -->
+  <line x1="80" y1="726" x2="520" y2="726" stroke="#222" stroke-width="0.6"/>
+
+  <!-- フッター -->
+  <text x="300" y="748" text-anchor="middle" font-size="9" fill="#444">camp-us.net / EgQE © K.E. Itekki</text>
+  <text x="300" y="766" text-anchor="middle" font-size="8" fill="#555" letter-spacing="1">lag edit theory = generation through non-coincidence and cutting</text>
+
+</svg>
+
+
+
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" font-family="'Hiragino Sans', 'Yu Gothic', 'Meiryo', sans-serif">
 

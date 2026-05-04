@@ -131,6 +131,12 @@ This difference appears as the presence or absence of time.
 
 ---
 
+[lag-edit theory｜30秒版](https://camp-us.net/articles/Let-30sec.html)  
+[3分でわかる lag-edit theory](https://camp-us.net/articles/LET-Quick.html)  
+[lag-edit theory｜入口ガイド── どこから読んでも、同じ回路に合流する](https://camp-us.net/articles/LET-Intro_Guide.html)  
+
+---
+
 **lag edit theory = generation through non-coincidence and cutting**
 
 - 本理論の全体構造 → [LET-MAP](https://camp-us.net/articles/LET-MAP_Lag-Edit-Theory.html)  

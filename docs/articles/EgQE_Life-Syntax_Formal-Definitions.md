@@ -188,6 +188,8 @@ When ψ collapses, recursion ceases, and time reduces to a fixed trace — the m
 
 👉 [URL-11｜生命とは何か──定義の曖昧さと再構築｜What Is Life? — On the Ambiguity of Definition and Its Reconstruction](https://camp-us.net/articles/URL-11_What-is-Life_Reconstruction-of-Definition.html)  
 
+[SN-LIF-10｜生命—物質 遷移相論｜A Transitional Phase Theory of Life and Matter](https://camp-us.net/articles/SN-LIF-10_Life-and-Matter_Transitional-Phase.html)  
+
 ---
 
 # Appendix A｜Compact Definitions (EN/JP)

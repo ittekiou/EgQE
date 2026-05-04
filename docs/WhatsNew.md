@@ -19,6 +19,16 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/05/04  
+[lag-edit theory｜入口ガイド── どこから読んでも、同じ回路に合流する](https://camp-us.net/articles/LET-Intro_Guide.html)  
+[lag-edit theory｜30秒版](https://camp-us.net/articles/Let-30sec.html)  
+[3分でわかる lag-edit theory](https://camp-us.net/articles/LET-Quick.html)  
+[LET-Intro-01｜なぜ同じにならないのか ── lag-edit theory 入門](https://camp-us.net/articles/LET-Intro-01_lag-edit-theory.html)  
+[LET-Intro-02｜失敗するから続く ── なぜミスがなければ何も生まれないのか](https://camp-us.net/articles/LET-Intro-02_Failure-and-Generation.html)  
+[LET-Intro-03｜ぬか床はなぜ変わるのか ── 発酵と編集の構造](https://camp-us.net/articles/LET-Intro-03_Nukadoko-and-Editing.html)  
+[LET-Intro-04｜社会はなぜ同じにならないのか ── 制度・ズレ・編集の回路](https://camp-us.net/articles/LET-Intro-04_Society-and-Editing.html)  
+[LET-Intro-05｜AIはなぜ毎回少し違うのか ── 生成とズレコピーのしくみ](https://camp-us.net/articles/LET-Intro-05_AI-and-Editing.html)  
+[LET-Intro-TS｜時間はなぜあるのか── 時間は与えられていない](https://camp-us.net/articles/LET-Intro-TS_Why-Does-Time-Exist.html)  
 ###### 2026/05/03  
 [LET-00｜エディティングとは何か ── lagと生成の操作論（短論）｜What is Editing — An Operational Theory of Lag and Generation](https://camp-us.net/articles/LET-00_Editing_as_Operational-Theory-of-Lag-and-Generation.html)  
 [LET-01｜エディティング身体論 ── 呼吸・歩行・排泄としての構文｜Editing as Embodied Syntax — Breathing, Walking, and Excretion](https://camp-us.net/articles/LET-01_Editing-as-Embodied-Syntax.html)  
