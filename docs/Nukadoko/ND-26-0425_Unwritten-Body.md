@@ -3,6 +3,7 @@ Nukadoko 👉 [ND-Index](https://camp-us.net/Nukadoko/ND-Index.html)
 > これは完成稿ではない。現れる前の構文である。
 
 ---
+
 # ぬか床｜現象学は排泄を書かなかった
 
 ## Phenomenology's Blind Spot — The Unwritten Body

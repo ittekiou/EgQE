@@ -30,6 +30,13 @@ Nukadoko とは、それを置く場所である。
 [ND-26-0425_Time_Irrev-Accum_Lag](https://camp-us.net/Nukadoko/ND-26-0425_Time_Irrev-Accum_Lag.html)  
 [ND-26-0425_Syntactic-Intervention](https://camp-us.net/Nukadoko/ND-26-0425_Syntactic-Intervention.html)  
 [ND-26-0425_Unwritten-Body](https://camp-us.net/Nukadoko/ND-26-0425_Unwritten-Body.html)  
+[ND-26-0425_Time-as-Lag](https://camp-us.net/Nukadoko/ND-26-0425_Time-as-Lag.html)  
+[ND-26-0425_Oil-Nukadoko](https://camp-us.net/Nukadoko/ND-26-0425_Oil-Nukadoko.html)  
+[ND-26-0426_Dissipation-and-Fixation](https://camp-us.net/Nukadoko/ND-26-0426_Dissipation-and-Fixation.html)  
+[ND-26-0426_Z₀](https://camp-us.net/Nukadoko/ND-26-0426_Z₀.html)  
+[ND-26-0426_ψ-before-Λ](https://camp-us.net/Nukadoko/ND-26-0426_ψ-before-Λ.html)  
+[ND-26-0427_EgSS](https://camp-us.net/Nukadoko/ND-26-0427_EgSS.html)  
+[ND-26-0503_editing](https://camp-us.net/Nukadoko/ND-26-0503_editing.html)  
 
 [ND_filename](https://camp-us.net/Nukadoko/.html)  
 
