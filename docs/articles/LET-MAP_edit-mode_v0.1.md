@@ -125,6 +125,10 @@ _**どう偏って、どう動いて、どこを通るか。**_
 
 ---
 
+_**No edit, no life.**_
+
+---
+
 👉 [LET-TS｜エディティング時間論](https://camp-us.net/articles/LET-TS_Editing-and-Time.html)  
 
 ![LET-TS-figure](../assets/LET-TS-figure.svg)  
