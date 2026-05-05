@@ -110,6 +110,10 @@ title: LET-Intro-TS｜時間はなぜあるのか── 時間は与えられて
 
 ![lag-edit-theory-map](../assets/lag-edit-theory-map.svg)  
 
+👉 [LET-TS｜エディティング時間論](https://camp-us.net/articles/LET-TS_Editing-and-Time.html)  
+
+![LET-TS-figure](../assets/LET-TS-figure.svg)  
+
 ---
 
 > ズレが保持される。  

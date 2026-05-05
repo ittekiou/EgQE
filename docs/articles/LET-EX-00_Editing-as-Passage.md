@@ -87,7 +87,11 @@ _lag edit theory_
 > **editは通過の中にあるのではない**  
 > **通過そのものがeditを必要としている**
 
-![lag-edit-theory-map](../assets/lag-edit-theory-map.svg)  
+---
+
+👉 [LET-TS｜エディティング時間論](https://camp-us.net/articles/LET-TS_Editing-and-Time.html)  
+
+![LET-TS-figure](../assets/LET-TS-figure.svg)  
 
 ---
 

@@ -118,6 +118,14 @@ _lag edit theory_
 
 ---
 
+👉 [LET-TS｜エディティング時間論](https://camp-us.net/articles/LET-TS_Editing-and-Time.html)  
+
+![LET-TS-figure](../assets/LET-TS-figure.svg)  
+
+👉 [LET-01｜エディティング身体論](https://camp-us.net/articles/LET-01_Editing-as-Embodied-Syntax.html)  
+
+![Atlas_Emergence-of-Editing](../assets/Atlas_Emergence-of-Editing.svg)  
+
 👉 [LET-MAP｜lag-edit theory 見取り図](https://camp-us.net/articles/LET-MAP_Lag-Edit-Theory.html)  
 
 ![lag-edit-theory-map](../assets/lag-edit-theory-map.svg)  

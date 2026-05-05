@@ -198,6 +198,10 @@ When cuts emerge, are retained, and circulate, structure and time appear.
 
 ![lag-edit-theory-map](../assets/lag-edit-theory-map.svg)  
 
+[LET-01｜エディティング身体論](https://camp-us.net/articles/LET-01_Editing-as-Embodied-Syntax.html)  
+
+![Atlas_Emergence-of-Editing](../assets/Atlas_Emergence-of-Editing.svg)  
+
 ---
 
 _注：SP-12（Body as Passage）との接続。変換点（瞬間）→ 回路（持続）のヒンジ。_
