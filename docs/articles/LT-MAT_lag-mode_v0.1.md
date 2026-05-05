@@ -19,16 +19,15 @@ LET-MAP（生命編）の裏面として置く。
 ```
 lag
 ↓
-encounter（遭遇）
-↓
-分岐
-
-A｜散逸（dissipation）
-B｜固着（fixation）
-C｜配置（trajectory / configuration）
-↓
-rate / gradient / condensation
+再帰に入る → Z₀ → 生命（LET）
+再帰に入らない → 非folding（non-folding）
+                    ├ 散逸（dissipation）低密度
+                    ├ 固着（fixation）高密度
+                    └ 配置（configuration）関係持続
 ```
+
+> 非folding = 内部持続へ移行しないlag。  
+> ただし外部配置としては持続しうる。
 
 ---
 
@@ -93,13 +92,15 @@ rate / gradient / condensation
 
 ## Z₀ v5.2との接続
 
-三相構造：
+三相構造（ND-26-0426）：
 
-- 低密度lag → 散逸（dissipation）
-- 高密度lag → 固着（fixation）
-- 臨界B → Z₀成立（生命編への移行点）
+- 低B（境界強度）→ 散逸（dissipation）
+- 高B → 固着（fixation）
+- 臨界B → Z₀成立（foldingが成立する点）
 
-> 物質編と生命編の境界は、臨界Bにある。
+> Z₀は散逸でも固着でもない。  
+> 散逸と固着のあいだで、foldingが成立する臨界点である。  
+> Z₀ = 物質→生命の相転移点。
 
 [Z₀ v5.2｜三相構造としてのZ₀](https://camp-us.net/Z₀_v5.2.html)  
 
@@ -116,8 +117,14 @@ rate / gradient / condensation
 
 ## 一行コア
 
-> 物質はlagを保持しない。  
-> lagは接続され、その結果として消散・固着・配置に分岐する。
+> 散逸と固着は、再帰に入らなかったlagの二つの様式である。  
+> 配置は、そのlagが関係として持続した第三の様式である。  
+> Z₀は、そのあいだで成立する。
+
+---
+
+> 物質とは、再帰に入らなかったlagの振る舞いである。  
+> 生命とは、そのlagが再帰に入ったときの振る舞いである。
 
 ---
 
