@@ -160,6 +160,10 @@ It is continuously edited through carried-over deviation.
 _**lag-edit theory は、lag theory の生命的実装である。**_
 
 ---
+
+👉 [LET-MAP｜エディット・モード表と遷移マップ v0.1 ── lag-edit theory 運用ぬか床](https://camp-us.net/articles/LET-MAP_edit-mode_v0.1.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 
