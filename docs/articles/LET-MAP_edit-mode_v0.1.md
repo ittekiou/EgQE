@@ -6,6 +6,8 @@ _lag edit theory_
 # エディット・モード表と遷移マップ v0.1
 ## **── lag-edit theory 運用ぬか床**
 
+> 生命はeditする。
+
 ---
 
 これは完成稿ではない。  
@@ -116,7 +118,8 @@ _**どう偏って、どう動いて、どこを通るか。**_
 ---
 
 モードは偏り。  
-遷移は再配分。 通過は経路。
+遷移は再配分。  
+通過は経路。
 
 それは、使うたびにズレる。
 
@@ -146,6 +149,18 @@ _**どう偏って、どう動いて、どこを通るか。**_
 ---
 
 _**lag-edit theory は、lag theory の生命的実装である。**_
+
+---
+
+**lag theory = lag-edit theory（生命編）+ LT-MAT（物質編）**
+
+```
+物質：非folding → edit不成立
+生命：folding → edit成立
+時間：editの持続
+```
+
+[LT-MAT｜lag theory 物質編 v0.1 ── 接続・消散・配置としてのlag](https://camp-us.net/articles/LT-MAT_lag-mode_v0.1.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

@@ -6,6 +6,8 @@ _lag theory_
 # LT-MAT｜lag theory 物質編 v0.1
 ## **── 接続・消散・配置としてのlag**
 
+> 物質はeditしない。生命はeditする。
+
 ---
 
 これは完成稿ではない。  
@@ -217,6 +219,14 @@ rateは消費される変化であり、timeは保持された変化である。
 ---
 
 **lag theory = lag-edit theory（生命編）+ LT-MAT（物質編）**
+
+```
+物質：非folding → edit不成立
+生命：folding → edit成立
+時間：editの持続
+```
+
+[LET-MAP｜エディット・モード表と遷移マップ v0.1 ── lag-edit theory 運用ぬか床](https://camp-us.net/articles/LET-MAP_edit-mode_v0.1.html)  
 
 ---
 
