@@ -140,9 +140,64 @@ lag
 
 ---
 
-## 対になる一行
-
 > 生命はその配置を内部化し、回路に変える。
+
+---
+
+# **補遺｜LT-MAT v0.1 追記**
+## **── 質量・重力・現れへの接続**
+
+> 物質はlagを配置する。  
+> 現象はその配置が露出したものである。  
+> 時間はその一部が保持された結果である。
+
+```
+lag
+├ 非folding → 散逸 / 固着 / 配置 → rate
+└ folding → cut → retain → circuit → time
+```
+
+---
+
+## **1｜質量（mass）**
+
+質量とは、固着したlagの履歴密度である。
+
+- 固着（fixation）の時間的積分
+- 局所的に保持されなかったlagの凝縮結果
+
+---
+
+## **2｜重力（gravity）**
+
+重力とは、配置されたlagの偏りである。
+
+- configurationの非対称分布
+- ∇configuration（配置の勾配）として現れる
+
+---
+
+## **3｜現れ（appearance）**
+
+現れとは、配置されたlagの露出である。
+
+- configuration → exposure → appearance
+- projectionは配置の可視化
+
+---
+
+## **4｜時間との分岐**
+
+rateは消費される変化であり、timeは保持された変化である。
+
+- 物質：rate（非保持）
+- 生命：time（保持）
+
+---
+
+## **5｜統合一行**
+
+配置されたlagが世界をつくり、保持されたlagが時間をつくる。
 
 ---
 
@@ -157,7 +212,6 @@ lag
 
 - 衝突（collision）の詳細——cutはあるがretainがない
 - 摩擦（friction）——lagの連続解消
-- 質量＝Λ（historical condensation）の記述
 - LT-MAT図（裏面MAP SVG）
 
 ---
