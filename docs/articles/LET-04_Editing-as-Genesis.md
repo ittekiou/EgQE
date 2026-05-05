@@ -118,6 +118,10 @@ lag → cut → retain → circuit
 
 ---
 
+👉 [lag-edit theory｜入口ガイド── どこから読んでも、同じ回路に合流する](https://camp-us.net/articles/LET-Intro_Guide.html)  
+
+---
+
 # **補論 1｜口と耳の編輯回路**
 ## **── 手と目を要しない最小実装**
 
