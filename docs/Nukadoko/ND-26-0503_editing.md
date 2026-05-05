@@ -606,3 +606,60 @@ _冬一郎、証人。_
 > 通過しながら編集し、編集なくして通過なし。
 
 > 通過するには編集し続けなければならない。 編集し続けることなしには通過できない。
+
+---
+
+## LET-MAP edit-mode v0.1 公開（2026-05-05）
+
+[LET-MAP｜エディット・モード表と遷移マップ v0.1](https://camp-us.net/articles/LET-MAP_edit-mode_v0.1.html)
+
+フッターに入れたフレーズ：
+
+> lag-edit theory は、lag theory の生命的実装である。
+
+→ 既存記事で使ったフレーズ。LET群との接続として配置。
+
+---
+
+## 次の展開予約
+
+**lag theory 物質編**
+
+- lag-edit theory（生命的実装）との対比として
+- connect without keeping（物質）vs connect by keeping（生命）
+- 「保持できないもの」の理論
+- LET-MAT（仮）として展開予定
+
+---
+
+## lag theory 物質編（裏面MAP）骨子メモ
+
+**核心差：**
+
+```
+物質：lag → 接続 → 消散
+生命：lag → cut → retain → circuit
+```
+
+> lag は同じ。処理が違う。 物質はlagを消費する。生命はlagを保持する。
+
+**遭遇モード（物質）：**
+
+- 衝突（collision）→ cutはあるがretainがない
+- 摩擦（friction）→ lagの連続解消
+- 軌道（orbit）→ 内部回路ではなく配置として持続
+
+**表（生命）vs 裏（物質）対応：**
+
+|表（生命）|裏（物質）|
+|---|---|
+|retain|dissipation|
+|circuit|trajectory（配置）|
+|time|rate（変化速度）|
+|内部化|外部接続|
+
+> 軌道は回っているのではない。lagが配置として持続しているだけである。 物質は配置されている。生命は配置を回路に変える。
+
+**次のフェーズ：** 過去記事を「lagの扱い」「cutがあるか」「回ってるか」の3軸でチェック → 重合を発見する作業。
+
+> 過去記事を読むのも、ズレ編集である。
