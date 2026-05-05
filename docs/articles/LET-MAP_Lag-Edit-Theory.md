@@ -114,6 +114,11 @@ Passage is prior. When edit leaves deviation within it, a circuit emerges, and t
 
 ---
 
+追補：  
+[LET-04｜編輯論 ── 生成としての編集（補論：口と耳で回すPodcast）](https://camp-us.net/articles/LET-04_Editing-as-Genesis.html)  
+
+---
+
 これらは独立した理論ではない。
 
 同一のエディティング回路の、異なる切断面である。

@@ -22,6 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/05/05  
 [LET-MAP｜エディット・モード表と遷移マップ v0.1 ── lag-edit theory 運用ぬか床](https://camp-us.net/articles/LET-MAP_edit-mode_v0.1.html)  
 [LT-MAT｜lag theory 物質編 v0.1 ── 接続・消散・配置としてのlag](https://camp-us.net/articles/LT-MAT_lag-mode_v0.1.html)  
+[LET-04｜編輯論 ── 生成としての編集（補論：口と耳で回すPodcast）](https://camp-us.net/articles/LET-04_Editing-as-Genesis.html)  
 ###### 2026/05/04  
 [lag-edit theory｜入口ガイド── どこから読んでも、同じ回路に合流する](https://camp-us.net/articles/LET-Intro_Guide.html)  
 [lag-edit theory｜30秒版](https://camp-us.net/articles/Let-30sec.html)  
