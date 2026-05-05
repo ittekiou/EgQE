@@ -4,6 +4,8 @@ title: lag-edit theory｜30秒版
 ---
 # lag-edit theory｜30秒版
 
+_**No edit, no life.**_
+
 ---
 
 世界はズレている。

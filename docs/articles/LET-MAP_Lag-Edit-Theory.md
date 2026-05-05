@@ -148,6 +148,10 @@ It is continuously edited through carried-over deviation.
 
 ---
 
+_**No edit, no life.**_
+
+---
+
 [lag-edit theory｜30秒版](https://camp-us.net/articles/Let-30sec.html)  
 [3分でわかる lag-edit theory](https://camp-us.net/articles/LET-Quick.html)  
 

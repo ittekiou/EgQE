@@ -72,6 +72,10 @@ Circuits make time appear.
 **lag edit theory = generation through non-coincidence and cutting**
 
 ---
+
+_**No edit, no life.**_
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 

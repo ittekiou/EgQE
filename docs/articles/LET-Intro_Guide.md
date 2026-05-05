@@ -109,6 +109,8 @@ _時間・記憶・存在が気になる人向け_
 > ズレが世界を編集し、世界はズレを重ねる。  
 > ズレが続くと、世界は動き続ける。
 
+_**No edit, no life.**_
+
 ![LET-poster](../assets/LET-poster.svg)  
 
 **→ [lag-edit theory｜30秒版](https://camp-us.net/articles/Let-30sec.html)**  
