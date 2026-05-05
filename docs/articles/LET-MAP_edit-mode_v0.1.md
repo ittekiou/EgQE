@@ -155,12 +155,16 @@ _**lag-edit theory は、lag theory の生命的実装である。**_
 **lag theory = lag-edit theory（生命編）+ LT-MAT（物質編）**
 
 ```
-物質：非folding → edit不成立
-生命：folding → edit成立
-時間：editの持続
+配置（外部）
+→ 編集（内部化）
+→ 持続（回路）
 ```
 
 [LT-MAT｜lag theory 物質編 v0.1 ── 接続・消散・配置としてのlag](https://camp-us.net/articles/LT-MAT_lag-mode_v0.1.html)  
+
+---
+
+_**lag は配置され、編集され、持続する。**_
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

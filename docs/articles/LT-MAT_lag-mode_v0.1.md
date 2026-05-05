@@ -234,6 +234,10 @@ rateは消費される変化であり、timeは保持された変化である。
 [EgQE Atlas 2.0｜構文地図｜Part II:Lag-Relational Syntax Architecture](https://camp-us.net/Echodemy/EgQE_Atlas-02.html)  
 
 ---
+
+_**lag は物質で配置され、生命で編集され、時間として持続する。**_
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 
