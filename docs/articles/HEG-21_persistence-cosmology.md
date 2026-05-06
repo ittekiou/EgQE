@@ -96,6 +96,10 @@ _HEG-21 persistence cosmology_
 **HEG-21、出航。**
 
 [HEG-21｜宇宙物理現象学へ ── 宇宙はいかに編輯され続けているか](https://camp-us.net/articles/HEG-21_Toward_lag-editing-cosmology.html)  
+[HEG-21宣言｜persistence cosmology 宣言 ── 持続する宇宙 ── 宇宙はいかに持続するのか](https://camp-us.net/articles/HEG-21_persistence-cosmology.html)  
+[HEG-21｜宇宙持続史 序説 ── 非保持・配置・保持・編輯](https://camp-us.net/articles/HEG-21_History-of-Persistence-Cosmology.html)  
+[HEG-21｜Persistence Cosmology Notes v0.1 ── 宇宙持続史序説](https://camp-us.net/articles/HEG-21_Persistence-Cosmology_Notes-v0.1.html)  
+[HEG-21｜Persistence Cosmologyとはなにか ── 持続する宇宙像](https://camp-us.net/articles/HEG-21_What-is-Persistence-Cosmology.html)  
 
 ---
 
