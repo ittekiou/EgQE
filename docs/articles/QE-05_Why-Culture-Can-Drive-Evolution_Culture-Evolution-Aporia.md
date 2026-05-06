@@ -232,6 +232,8 @@ Everything that appears is a consequence of how lag is handled.
 [QE-05｜文化進化のアポリア──なぜ文化は進化を駆動できるのか](https://camp-us.net/articles/QE-05_Why-Culture-Can-Drive-Evolution_Culture-Evolution-Aporia.html)  
 [QE-06｜複雑性アポリア──なぜ複雑性は縮減されるのか](https://camp-us.net/articles/QE-06_Why-Complexity-Appears-Reduced_Complexity-Aporia.html)  
 
+[QE-07｜閉包アポリア──宇宙はπ以前でできている：completion impossibility と生成条件](https://camp-us.net/articles/QE-07_Universe-Is-Made-of-Pre-π-Persistence.html)  
+
 ---
 
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  

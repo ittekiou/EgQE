@@ -59,7 +59,7 @@ lag
 
 - lagが関係として持続する
 - だが内部回路ではない
-- 軌道・重力場・電磁場——外部的な配置として残る
+- 軌道・重力場・電磁場──外部的な配置として残る
 - SN-RZ：電磁場＝ΔZ encounter field、重力＝ψ persistence geometry
 
 > 配置は回路ではない。  
@@ -212,8 +212,8 @@ rateは消費される変化であり、timeは保持された変化である。
 
 ## 未着手（次の発酵）
 
-- 衝突（collision）の詳細——cutはあるがretainがない
-- 摩擦（friction）——lagの連続解消
+- 衝突（collision）の詳細──cutはあるがretainがない
+- 摩擦（friction）──lagの連続解消
 - LT-MAT図（裏面MAP SVG）
 
 ---

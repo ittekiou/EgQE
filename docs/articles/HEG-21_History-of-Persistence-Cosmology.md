@@ -122,7 +122,7 @@ _Persistence Cosmology_
 
 > HEG-21｜Persistence Cosmology シリーズは、宇宙を「何でできているか」ではなく、「いかに持続しているか」から読み直す試みである。  
 > 粒子、場、時空、エネルギー、情報を並べる従来の宇宙論に対して、本シリーズは、宇宙を persistence mode の分化として捉える。  
-> 非保持、配置 persistence、保持 persistence、編輯 persistence——その持続様式の違いが、軌道、生命、時間、光、制度、AI を同じ地図の上に置き直す。  
+> 非保持、配置 persistence、保持 persistence、編輯 persistence──その持続様式の違いが、軌道、生命、時間、光、制度、AI を同じ地図の上に置き直す。  
 > _**宇宙は生成されたのではない。宇宙は持続してしまっている。**_  
 > この連作は、第二期HEGの入口として、宇宙持続史の見取り図を提示する。
 
