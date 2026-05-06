@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/05/07  
+[SX-EX-04｜持続の限界露出論 Annihilation ── The Exposure Before Closure](https://camp-us.net/articles/SX-EX-04_Annihilation_Exposure-Before-Closure.html)  
 ###### 2026/05/06  
 [HEG-21｜宇宙物理現象学へ ── 宇宙はいかに編輯され続けているか](https://camp-us.net/articles/HEG-21_Toward_lag-editing-cosmology.html)  
 [HEG-21宣言｜persistence cosmology 宣言 ── 持続する宇宙 ── 宇宙はいかに持続するのか](https://camp-us.net/articles/HEG-21_persistence-cosmology.html)  
