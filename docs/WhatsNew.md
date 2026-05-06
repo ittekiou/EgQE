@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/05/06  
+[HEG-21｜宇宙物理現象学へ ── 宇宙はいかに編輯され続けているか](https://camp-us.net/articles/HEG-21_Toward_lag-editing-cosmology.html)  
 ###### 2026/05/05  
 [LET-MAP｜エディット・モード表と遷移マップ v0.1 ── lag-edit theory 運用ぬか床](https://camp-us.net/articles/LET-MAP_edit-mode_v0.1.html)  
 [LT-MAT｜lag theory 物質編 v0.1 ── 接続・消散・配置としてのlag](https://camp-us.net/articles/LT-MAT_lag-mode_v0.1.html)  
