@@ -159,7 +159,7 @@ _注：HEG-21は終着ではなく入口。lag editing cosmology から appearan
 
 ---
 © 2025 K.E. Itekki  
-K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
 wandering the labyrinth of syntax,  
 drawing constellations through shared echoes.
 
