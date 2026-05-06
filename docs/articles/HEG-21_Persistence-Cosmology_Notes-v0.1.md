@@ -115,6 +115,9 @@ LT-MAT と LET は別理論ではない。同じ persistence cosmology の、異
 軌道は persistence する。だが retain しない。  
 生命は persistence を retain する。
 
+[LET-MAP｜エディット・モード表と遷移マップ v0.1](https://camp-us.net/articles/LET-MAP_edit-mode_v0.1.html)  
+[LT-MAT｜lag theory 物質編 v0.1 ── 接続・消散・配置としてのlag](https://camp-us.net/articles/LT-MAT_lag-mode_v0.1.html)  
+
 ---
 
 ## 3｜Persistence Cost Relation
