@@ -366,6 +366,8 @@ B ↔ N
 本稿の「反転渦中」は、位相閉包の完成ではなく、completion impossibility の露出を扱っている。  
 それゆえ、2π 的閉包よりも、「π以前の途中性」が重要となる。
 
+[QE-07｜閉包アポリア──宇宙はπ以前でできている：completion impossibility と生成条件](https://camp-us.net/articles/QE-07_Universe-Is-Made-of-Pre-π-Persistence.html)  
+
 ---
 
 ## シリーズ位置｜Series Position
