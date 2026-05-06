@@ -77,7 +77,9 @@ _— it is the moment flow becomes form_
 - [SX-EX-03｜Constant and Constraint](https://camp-us.net/articles/SX-EX-03_Constant-and-Constraint.html)  
  — From Event to Fixation｜定数と制約の構文論 ── 光速は定数ではなく制約である  
 	
- 
+- [SX-EX-04｜Annihilation ── The Exposure Before Closure](https://camp-us.net/articles/SX-EX-04_Annihilation_Exposure-Before-Closure.html)  
+— constraint が露出する瞬間｜閉包直前のlag露出
+
 ---
 
 [SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)  
