@@ -95,6 +95,12 @@ _HEG-21 persistence cosmology_
 
 **HEG-21、出航。**
 
+> HEG-21｜Persistence Cosmology は、宇宙がどのように持続しているのかを探る連作です。  
+> 軌道や重力場のような「保持されない持続」から、生命や記憶のような「保持される持続」、さらに言語や制度、AIのような「編輯される持続」までを、ひとつの持続史として整理します。  
+> 光は保持しないが接続するものとして、生命は持続を内部化するものとして、時間は編輯された持続として位置づけられます。  
+> _**No lag, no universe.**_  
+> そんな宇宙像の地図を、少しずつ描いていくシリーズです。
+
 [HEG-21｜宇宙物理現象学へ ── 宇宙はいかに編輯され続けているか](https://camp-us.net/articles/HEG-21_Toward_lag-editing-cosmology.html)  
 [HEG-21宣言｜persistence cosmology 宣言 ── 持続する宇宙 ── 宇宙はいかに持続するのか](https://camp-us.net/articles/HEG-21_persistence-cosmology.html)  
 [HEG-21｜宇宙持続史 序説 ── 非保持・配置・保持・編輯](https://camp-us.net/articles/HEG-21_History-of-Persistence-Cosmology.html)  
