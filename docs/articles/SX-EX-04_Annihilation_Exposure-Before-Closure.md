@@ -11,7 +11,7 @@ title: SX-EX-04｜持続の限界露出論 Annihilation ── The Exposure Befo
 ## 0｜閉包直前の露出
 
 2026年の[Nature論文](https://www.nature.com/articles/s41586-026-10209-z)  
-"Superluminal correlations in ensembles of optical phase singularities" は、奇妙な現象を報告した。
+"Superluminal correlations in ensembles of optical phase singularities" は、奇妙な現象を報告した。（[phys.org/news](https://phys.org/news/2026-03-year-dark-faster.html)）
 
 光波内部に生じる位相特異点（暗点）が、真空光速 c を超えて相関更新を示したのである。
 
