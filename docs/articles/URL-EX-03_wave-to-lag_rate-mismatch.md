@@ -385,6 +385,10 @@ _wave = relation-state stabilization pattern_
 [SX-EX-05｜Wave as Stabilized Exposure ── lag Distribution and Encounter Dynamics](https://camp-us.net/articles/SX-EX-05_Wave-as-Stabilized-Exposure.html)  
 
 ---
+
+[現象以前の自然哲学 ── なぜ夕焼けは「説明されても不思議」が残るのか](https://camp-us.net/articles/Physics-Explains-Sunset_Still-Feel-Strange.html)  
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 

@@ -252,6 +252,10 @@ wave-like pattern
 
 ---
 
+[現象以前の自然哲学 ── なぜ夕焼けは「説明されても不思議」が残るのか](https://camp-us.net/articles/Physics-Explains-Sunset_Still-Feel-Strange.html)  
+
+---
+
 [SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)  
 
 ---

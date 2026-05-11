@@ -178,6 +178,10 @@ _Z₀ v5.3 / EgQE Framework_
 _[URL-EX-03](https://camp-us.net/articles/URL-EX-03_wave-to-lag_rate-mismatch.html) との連動により生成_
 
 ---
+
+[現象以前の自然哲学 ── なぜ夕焼けは「説明されても不思議」が残るのか](https://camp-us.net/articles/Physics-Explains-Sunset_Still-Feel-Strange.html)  
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
