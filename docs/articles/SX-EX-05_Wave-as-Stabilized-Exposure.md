@@ -78,7 +78,7 @@ lag reconfiguration とは：
 
 > 異なる rate 系が接触・交差するとき、relation-state が再配置される操作
 
-起動条件は encounter——異なる rate 系の接触・交差——であり、その面が **Z₀** である。
+起動条件は encounter──異なる rate 系の接触・交差──であり、その面が **Z₀** である。
 
 ---
 
@@ -246,7 +246,7 @@ wave-like pattern
 ## 連動文書
 
 - [URL-EX-03｜波動から lag へ ── rate mismatch による観測再配置](https://camp-us.net/articles/URL-EX-03_wave-to-lag_rate-mismatch.html)  
-    - 補論：「lag = 1/rate」の位相転換——量的記述から relation-state 記述へ
+    - 補論：「lag = 1/rate」の位相転換──量的記述から relation-state 記述へ
 - [Z₀ v5.3｜境界の時間軸 ── Z₀ as a Process: latent / encounter / trace](https://camp-us.net/Z₀_v5.3.html)  
 - [SX-12｜Before Time and Distance ── On the Syntactic Construction of Measurement](https://camp-us.net/articles/SX-12_Before_Time-and-Distance_Syntactic-Construction.html)  
 

@@ -93,7 +93,7 @@ lag reconfiguration とは、
 である。
 
 lag reconfiguration は自律的に起きない。  
-起動条件は **encounter**——異なる rate 系の接触・交差——である。
+起動条件は **encounter**──異なる rate 系の接触・交差──である。
 
 この encounter が起きる面を **Z₀** と呼ぶ。
 
@@ -103,7 +103,7 @@ lag reconfiguration は自律的に起きない。
 
 **Z₀ is the encounter surface on which lag reconfiguration becomes possible.**
 
-Wave-like exposure patterns are generated from lag distributions——relation-state の分布が空間的・時間的に露出したものである。
+Wave-like exposure patterns are generated from lag distributions──relation-state の分布が空間的・時間的に露出したものである。
 
 Z₀ は lag reconfiguration の生成物ではなく、その **作動面** である。
 
@@ -147,7 +147,7 @@ Z₀′（可視化された痕跡）
 
 ### ψ（psi）
 
-ψ とは持続条件——relation-state がまだ更新を完了していない保持状態（updating-in-persistence）——である。
+ψ とは持続条件──relation-state がまだ更新を完了していない保持状態（updating-in-persistence）──である。
 
 ### latent Z₀
 
