@@ -1,10 +1,11 @@
 ---
 layout: math
-title: URL-EX-03｜波動から lag へ ── rate mismatch による観測再配置
+title: URL-EX-03｜波動から lag へ ── rate mismatch による観測再配置（干渉・分光・夕焼け・反射の再配置）
 ---
 # URL-EX-03
 # 波動から lag へ
 ## ── rate mismatch による観測再配置
+### （干渉・分光・夕焼け・反射の再配置）
 
 ---
 
@@ -258,6 +259,43 @@ lag reconfiguration（lag 分離）
 ```
 
 赤い光が「存在する」のではなく、 lag 増大によって赤として露出する。
+
+---
+
+### **6.4 反射**
+
+通常の説明：
+
+```text
+境界面での屈折率差 → 一部反射・一部透過 → 位相変化（場合によってπ反転）
+```
+
+本稿の再配置：
+
+```text
+入射光と境界面の Z₀
+↓
+屈折率差 → rate mismatch
+↓
+encounter at Z₀
+↓
+lag reconfiguration（relation-state の位相再配置）
+↓
+経路分岐 exposure
+↓
+反射光 / 透過光
+```
+
+反射とは、「光が跳ね返る」ことではない。
+
+境界面 encounter において、relation-state が再配置され、異なる exposure path が生成されることである。
+
+したがって、反射と透過は対立ではなく、同一 encounter によって生成された exposure branchingとして理解される。
+
+位相反転（π shift）は、relation-state が境界条件に応じて再配置された痕跡である。
+
+反射は媒質内部での連続的分散ではない。  
+それは **Z₀ 上での境界的 reconfiguration** である。
 
 ---
 

@@ -20,7 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/05/11  
-[URL-EX-03｜波動から lag へ ── rate mismatch による観測再配置](https://camp-us.net/articles/URL-EX-03_wave-to-lag_rate-mismatch.html)  
+[URL-EX-03｜波動から lag へ ── rate mismatch による観測再配置（干渉・分光・夕焼け・反射の再配置）](https://camp-us.net/articles/URL-EX-03_wave-to-lag_rate-mismatch.html)  
 [Z₀ v5.3｜境界の時間軸 ── Z₀ as a Process: latent / encounter / trace](https://camp-us.net/Z₀_v5.3.html)  
 [SX-EX-05｜Wave as Stabilized Exposure ── lag Distribution and Encounter Dynamics](https://camp-us.net/articles/SX-EX-05_Wave-as-Stabilized-Exposure.html)  
 ###### 2026/05/07  
