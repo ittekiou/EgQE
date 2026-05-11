@@ -75,10 +75,14 @@ _— it is the moment flow becomes form_
 — Interference of Lag as Exposure｜投影 ── Lag露出としての干渉  
 	
 - [SX-EX-03｜Constant and Constraint](https://camp-us.net/articles/SX-EX-03_Constant-and-Constraint.html)  
- — From Event to Fixation｜定数と制約の構文論 ── 光速は定数ではなく制約である  
+— From Event to Fixation｜定数と制約の構文論 ── 光速は定数ではなく制約である  
 	
 - [SX-EX-04｜Annihilation ── The Exposure Before Closure](https://camp-us.net/articles/SX-EX-04_Annihilation_Exposure-Before-Closure.html)  
 — constraint が露出する瞬間｜閉包直前のlag露出
+	
+- [SX-EX-05｜Wave as Stabilized Exposure ── lag Distribution and Encounter Dynamics](https://camp-us.net/articles/SX-EX-05_Wave-as-Stabilized-Exposure.html)  
+— 波は object ではない。stabilized exposure pattern である。
+	
 
 ---
 

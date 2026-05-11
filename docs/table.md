@@ -2,6 +2,8 @@
 layout: math
 ---
 
+
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800" font-family="'Hiragino Sans', 'Yu Gothic', 'Meiryo', sans-serif">
 
   <!-- 背景 -->

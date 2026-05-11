@@ -124,6 +124,7 @@ the world emerges.
 
 - [URL-EX-01｜三層更新レートと生成順の再定義｜Multi-Layered Rate Mismatch](https://camp-us.net/articles/URL-EX-01_Multi-Layered-Rate-Mismatch.html)  
 - [URL-EX-02｜循環構文からの解放｜Release from Circular Syntax](https://camp-us.net/articles/URL-EX-02_Release_from_Circular-Syntax.html)  
+- [URL-EX-03｜波動から lag へ ── rate mismatch による観測再配置](https://camp-us.net/articles/URL-EX-03_wave-to-lag_rate-mismatch.html)  
 
 ---
 
