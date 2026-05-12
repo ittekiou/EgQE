@@ -19,6 +19,15 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/05/12  
+[『時間はどこにあるのか』](https://camp-us.net/articles/Where-is-Time.html)  
+[『時間はどこにあるのか』── 全体構造と Appendix 群](https://camp-us.net/articles/Where-is-Time_Map.html)  
+[A-01｜ロヴェッリと比較可能性 ── 「時間は存在しない」の再配置](https://camp-us.net/articles/A-01_Before-Time.html)  
+[A-02｜ゲーデルと latent Z₀ ── 不完全性 = closure impossibility persistence](https://camp-us.net/articles/A-02_closure-impossibility-persistence.html)  
+[A-03｜愛とは何か ── encounter possibility maintenance](https://camp-us.net/articles/A-03_encounter-possibility-maintenance.html)  
+[A-04｜死者の residence ── trace persistence と memory](https://camp-us.net/articles/A-04_trace-persistence-and-memory.html)  
+[A-05｜support論再定義 ── 「支える」とは何か](https://camp-us.net/articles/A-05_support.html)  
+[A-06｜現在とは点か面か ── encounter surface 論](https://camp-us.net/articles/A-06_encounter-surface.html)  
 ###### 2026/05/11  
 [URL-EX-03｜波動から lag へ ── rate mismatch による観測再配置（干渉・分光・夕焼け・反射の再配置）](https://camp-us.net/articles/URL-EX-03_wave-to-lag_rate-mismatch.html)  
 [Z₀ v5.3｜境界の時間軸 ── Z₀ as a Process: latent / encounter / trace](https://camp-us.net/Z₀_v5.3.html)  
