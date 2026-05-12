@@ -28,6 +28,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [A-04｜死者の residence ── trace persistence と memory](https://camp-us.net/articles/A-04_trace-persistence-and-memory.html)  
 [A-05｜support論再定義 ── 「支える」とは何か](https://camp-us.net/articles/A-05_support.html)  
 [A-06｜現在とは点か面か ── encounter surface 論](https://camp-us.net/articles/A-06_encounter-surface.html)  
+[他者論の再配置 ── フッサール、サルトル、レヴィナスを越えて｜『時間はどこにあるのか』に寄せて](https://camp-us.net/articles/Where-is-Time_Otherness.html)  
 ###### 2026/05/11  
 [URL-EX-03｜波動から lag へ ── rate mismatch による観測再配置（干渉・分光・夕焼け・反射の再配置）](https://camp-us.net/articles/URL-EX-03_wave-to-lag_rate-mismatch.html)  
 [Z₀ v5.3｜境界の時間軸 ── Z₀ as a Process: latent / encounter / trace](https://camp-us.net/Z₀_v5.3.html)  
