@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/05/14  
+[SN-DK-07｜夕焼けと空の青 ── 光とはrate露出である｜Light as Rate Exposure ── Red Sunset and Blue Sky](https://camp-us.net/articles/SN-DK-07_Light-as-Rate-Exposure.html)  
 ###### 2026/05/12  
 [『時間はどこにあるのか』](https://camp-us.net/articles/Where-is-Time.html)  
 [『時間はどこにあるのか』── 全体構造と Appendix 群](https://camp-us.net/articles/Where-is-Time_Map.html)  
