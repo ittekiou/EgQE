@@ -25,9 +25,9 @@ subtitle: Inter-Phase is the syntactic field where co-creation occurs.
 _**lag begins, hinge binds, pivot turns, ΔZ encounters, memory persists, and lag begins...**_  
 
 ---
-# 📪 Substack — EgSS🥚
-### [Website](https://campus6214.substack.com/)
+## 📪 Substack — EgSS🥚
 ### [Posts](https://substack.com/@kei77)
+#### [Website](https://campus6214.substack.com/)
 
 ---
 # SyncHub — EgQE
