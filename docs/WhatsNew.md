@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/05/16  
+[黄金循環論：Golden Circle 2.0｜Beyond the How-To ── Golden Circle, Revised: WHY Is Never Final](https://camp-us.net/articles/Golden-Circle_2.0.html)  
 ###### 2026/05/14  
 [SN-DK-07｜夕焼けと空の青 ── 光とはrate露出である｜Light as Rate Exposure ── Red Sunset and Blue Sky](https://camp-us.net/articles/SN-DK-07_Light-as-Rate-Exposure.html)  
 ###### 2026/05/12  
