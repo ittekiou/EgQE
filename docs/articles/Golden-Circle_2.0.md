@@ -13,6 +13,8 @@ title_en: "Beyond the How-To ── Golden Circle, Revised: WHY Is Never Final"
 
 _Simon Sinek's Golden Circle is a simple and powerful frame: WHY at the center, HOW around it, WHAT at the outermost ring. The insight — that people are moved not by "what" but by "why" — has permeated leadership thinking, marketing, and organizational design._
 
+![Golden-Circle_1.0](../assets/Golden-Circle_1.0.png)  
+
 だが、ひとつの問いが残る。
 
 _But one question lingers._
@@ -21,11 +23,11 @@ _But one question lingers._
 
 _Where does the WHY come from?_
 
-![Golden-Circle_2.0](../assets/Golden-Circle_2.0.png)   
-
 ---
 
 ## 脳から身体へ / From Brain to Body
+
+![Golden-Circle_2.0](../assets/Golden-Circle_2.0.png)   
 
 冒頭の図を見てほしい。4つの象限がある。
 
@@ -129,6 +131,28 @@ _WHY is never final. It returns as a question._
 
 ---
 _──綴音 (Tsuzune) / K.E. Itekki_ _Echodemy / camp-us.net_
+
+---
+
+## 註｜「先従WHY始」について
+
+タイトルの「先従WHY始」は、単なる _Start With Why_ の漢文化ではない。
+
+これは少しだけ、故事成語「隗より始めよ」を借りている。
+
+「隗より始めよ」は、完成した答えを得てから始めよ、という意味ではない。むしろ逆だ。とにかく最初の足場を置け。仮の起点を作れ。そういう話である。
+
+その意味では、WHYもまた「隗」なのかもしれない。
+
+Golden Circleは「WHYから始めよ」と言う。しかしGolden Circle 2.0から見れば、そのWHYもまた、前の循環が残した仮の足場に過ぎない。
+
+だからタイトルは、
+
+**先従WHY始、されど……**
+
+で止まっている。
+
+続きは、まだ閉じていない。
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
