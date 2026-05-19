@@ -360,6 +360,7 @@ The world persists in a pre-π condition — perhaps because trace always accumu
 [GE-04｜座標はどこから来るのか ── 複数traceの関係と比較可能性の発生](https://camp-us.net/articles/GE-04_Where-Coordinate-Come-From.html)  
 [GE-05｜orderingはなぜ時間を生むのか ── 反復・痕跡列・不可逆性](https://camp-us.net/articles/GE-05_Why-Ordering-Generate-Time.html)  
 [GE-06｜なぜ時間は閉包へ向かうのか ── ordering・time・closure tendency の相互生成](https://camp-us.net/articles/GE-06_Why-Time-Tend-Toward-Closure.html)  
+[GE-07｜なぜ境界は曲がるのか ── lag分布と曲率の発生](https://camp-us.net/articles/GE-07_Why-Boundaries-Curve_Curvature_Lag-Distribution.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
