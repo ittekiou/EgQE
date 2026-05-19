@@ -87,7 +87,7 @@ _Having passed through the body, having lost WHY in the concrete world, returnin
 
 _Sinek's frame treats WHY as a given — a starting point. The phrase "find your WHY" implies that WHY already exists somewhere, waiting to be excavated._
 
-しかし、この図が示しているのは別のことだ。WHYは出発点ではなく、**循環の産物**かもしれない、ということ。脳が概念化し、身体が経験し、具体が抽象を洗い直す——そのプロセスを経て、WHYはいちど「?」になり、そして再び生成される。
+しかし、この図が示しているのは別のことだ。WHYは出発点ではなく、**循環の産物**かもしれない、ということ。脳が概念化し、身体が経験し、具体が抽象を洗い直す──そのプロセスを経て、WHYはいちど「?」になり、そして再び生成される。
 
 _But this diagram suggests something different. WHY may not be a starting point — it may be a product of the loop. The brain conceptualizes, the body experiences, the concrete washes the abstract clean — and through that process, WHY becomes "?" first, and is then regenerated._
 

@@ -87,7 +87,7 @@ temporal ordering
 time
 ```
 
-ordering が time を生む——これは[GE-05](https://camp-us.net/articles/GE-05_Why-Ordering-Generate-Time.html)の帰結である。
+ordering が time を生む──これは[GE-05](https://camp-us.net/articles/GE-05_Why-Ordering-Generate-Time.html)の帰結である。
 
 ---
 
@@ -137,7 +137,7 @@ closure tendency は単なる「閉じようとする傾き」ではない。
 
 time を持った closure tendency は、**前後のある閉包運動**である。
 
-過去を背負いながら閉じようとする——しかし過去の trace が非対称であるがゆえに、完全には閉じない。
+過去を背負いながら閉じようとする──しかし過去の trace が非対称であるがゆえに、完全には閉じない。
 
 ---
 
@@ -169,7 +169,7 @@ It tends to close while carrying the past — but because past traces are asymme
 
 ## Ⅳ. closure tendencyがorderingを変形する
 
-ここで循環が閉じる——しかし閉じきらない。
+ここで循環が閉じる──しかし閉じきらない。
 
 closure tendency が incomplete closure を生むとき、ΔR' が再発生する。
 
@@ -195,7 +195,7 @@ ordering の更新
 
 ordering は更新される。
 
-しかし更新は均質ではない——新たな trace は非対称に蓄積されるからである（[GE-05](https://camp-us.net/articles/GE-05_Why-Ordering-Generate-Time.html)）。
+しかし更新は均質ではない──新たな trace は非対称に蓄積されるからである（[GE-05](https://camp-us.net/articles/GE-05_Why-Ordering-Generate-Time.html)）。
 
 更新された ordering が、また time を生み、time が closure tendency を変形し、closure tendency が ΔR' を生む。
 
@@ -263,7 +263,7 @@ lag は S と S' の間の非一致である。
 
 しかし lag は 0 にならない。
 
-lag があるかぎり、ΔR' は再発生し、ordering は更新され、時間は流れるのではなく——非対称な蓄積として持続する。
+lag があるかぎり、ΔR' は再発生し、ordering は更新され、時間は流れるのではなく──非対称な蓄積として持続する。
 
 ```
 lag（最小差異）
