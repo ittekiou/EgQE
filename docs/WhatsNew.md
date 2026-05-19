@@ -27,6 +27,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [GE-05｜orderingはなぜ時間を生むのか ── 反復・痕跡列・不可逆性｜Why Does Ordering Generate Time? ── Repetition, Trace Sequence, and Irreversibility](https://camp-us.net/articles/GE-05_Why-Ordering-Generate-Time.html)  
 [GE-06｜なぜ時間は閉包へ向かうのか ── ordering・time・closure tendency の相互生成｜Why Does Time Tend Toward Closure? ── The Co-Generation of Ordering, Time, and Closure Tendency](https://camp-us.net/articles/GE-06_Why-Time-Tend-Toward-Closure.html)  
 [GE-07｜なぜ境界は曲がるのか ── lag分布と曲率の発生｜Why Do Boundaries Curve? ── Lag Distribution and the Emergence of Curvature](https://camp-us.net/articles/GE-07_Why-Boundaries-Curve_Curvature_Lag-Distribution.html)  
+[GE-08｜点・線・面はどこから来るのか ── 曲率と空間構文の固定｜Where Do Points, Lines, and Surfaces Come From? ── Curvature and the Fixation of Spatial Syntax](https://camp-us.net/articles/GE-08_Points-Lines-Surfaces_Where_Come-From.html)  
 ###### 2026/05/18  
 [SN-BA-01｜生命はなぜ前後を持つのか── 摂取と排泄の時間生成｜Why Does Life Have Before and After? — Ingestion, Excretion, and the Generation of Time](https://camp-us.net/articles/SN-BA-01_Why-Life-Have-Before-After_Ingestion-Excretion-Time.html)  
 [SN-BA-02｜地表・熱・生命── encounter とエントロピー｜Earth, Heat, and Life — Where Do Before and After Come From?](https://camp-us.net/articles/SN-BA-02_Earth-Heat-Life_Where-Before-After-Come-From.html)  
