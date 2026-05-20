@@ -19,6 +19,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/05/20  
+[ELS-01｜Encounter Lag構文 ── 矢印は方向化されたlagである｜Encounter Lag Syntax ── Arrow as Directed Lag](https://camp-us.net/articles/ELS-01_Encounter-Lag-Syntax.html)  
+[ELS-02｜Direction構文 ── 時間と空間はどこで分岐するのか｜Direction Syntax ── Where Do Time and Space Diverge?](https://camp-us.net/articles/ELS-02_Direction-Syntax.html)  
+[ELS-03｜なぜdirectionは分岐するのか ── persistenceとfixationの選択構文｜Why Does Direction Diverge? ── The Selection Syntax of Persistence and Fixation](https://camp-us.net/articles/ELS-03_Why-Direction-Diverge.html)  
+[ELS-04｜なぜ選択は安定するのか ── stabilizationと世界の定着｜Why Does Selection Stabilize? ── Stabilization and the Settlement of Worlds](https://camp-us.net/articles/ELS-04_Why-Selection-Stabilize.html)  
 ###### 2026/05/19  
 [GE-01｜π以前の幾何学 ── 関係差と閉包の生成循環｜Pre-π Geometry ── Relational Difference and the Generative Cycle of Closure](https://camp-us.net/articles/GE-01_Pre-π-Geometry_Generative-Cycle-of-Closure.html)  
 [GE-02｜πとは何か ── 閉包傾向と位相通過点｜What Is π? ── Closure Tendency and Phase Transit Points](https://camp-us.net/articles/GE-02_What-Is-π_Closure-Tendency.html)  
