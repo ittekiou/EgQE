@@ -247,6 +247,7 @@ _And freedom is the lag that escapes configuration._
 **syntax civilization**  
 [SC-01｜Encounterの進化 ── Homo sapiensからSmaphopiensへ｜Evolution of Encounters: From Homo sapiens to Smaphopiens](https://camp-us.net/articles/SC-01_Encounter-Evolution.html)  
 [SC-02｜Encounter以前 ── distributed lag topology 序論｜Before Encounter: A Preliminary Topology of Distributed Lag](https://camp-us.net/articles/SC-02_Before-Encounter.html)  
+[SC-03｜時間以前 ── non-coincidence の時間論｜Before Time: Toward a Non-Coincidence Theory of Time](https://camp-us.net/articles/SC-03_Before-Time_Non-Coincidence.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
