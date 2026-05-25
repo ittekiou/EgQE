@@ -19,6 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/05/25  
 [SC-01｜Encounterの進化 ── Homo sapiensからSmaphopiensへ｜Evolution of Encounters: From Homo sapiens to Smaphopiens](https://camp-us.net/articles/SC-01_Encounter-Evolution.html)  
 [SC-02｜Encounter以前 ── distributed lag topology 序論｜Before Encounter: A Preliminary Topology of Distributed Lag](https://camp-us.net/articles/SC-02_Before-Encounter.html)  
 ###### 2026/05/20  
