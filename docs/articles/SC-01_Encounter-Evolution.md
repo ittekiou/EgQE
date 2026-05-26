@@ -214,6 +214,8 @@ _It is the circulation of encounters._
 [SC-02｜Encounter以前 ── distributed lag topology 序論｜Before Encounter: A Preliminary Topology of Distributed Lag](https://camp-us.net/articles/SC-02_Before-Encounter.html)  
 [SC-03｜時間以前 ── non-coincidence の時間論｜Before Time: Toward a Non-Coincidence Theory of Time](https://camp-us.net/articles/SC-03_Before-Time_Non-Coincidence.html)  
 
+👉 [NC-00｜一致不可能性 ── residual ontology 序論｜Non-Coincidence: A Preliminary Residual Ontology](https://camp-us.net/articles/NC-00_Non-Coincidence_Residual-Ontology.html)  
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
