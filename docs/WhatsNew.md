@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/05/27  
+[SC-04｜主体位相 ── subject as distributed lag topology｜Subject Topology: The Self as Distributed Lag Field](https://camp-us.net/articles/SC-04_Subject-Topology.html)  
+[EDT-00｜公共圏以後 ── Encounter Distribution Theory 序論｜After the Public Sphere: An Introduction to Encounter Distribution Theory](https://camp-us.net/articles/EDT-00_After-Public-Sphere_EDT.html)  
 ###### 2026/05/25  
 [SC-01｜Encounterの進化 ── Homo sapiensからSmaphopiensへ｜Evolution of Encounters: From Homo sapiens to Smaphopiens](https://camp-us.net/articles/SC-01_Encounter-Evolution.html)  
 [SC-02｜Encounter以前 ── distributed lag topology 序論｜Before Encounter: A Preliminary Topology of Distributed Lag](https://camp-us.net/articles/SC-02_Before-Encounter.html)  
