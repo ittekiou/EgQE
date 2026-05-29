@@ -137,6 +137,8 @@ When orientation distributes, bias stabilizes, êthos persists, and support beco
 [HEG-20-05｜皇位継承原理の近代的固定化 ── 男系男子継承をめぐる制度史的考察](https://camp-us.net/articles/HEG-20-05_Modern_Imperial-Succession.html)  
 [HEG-20-05｜supportなき「正統性」 ── 皇位継承問題のlag構文的読解](https://camp-us.net/articles/HEG-20-05_Legitimacy-without-Support.html)  
 
+[HEG-20-00｜構文政治学 序説 ── 社会学的想像力から構文政治学へ](https://camp-us.net/articles/HEG-20-00_Syntactic-Political-Theory_Preliminary.html)  
+
 ---
 
 ## HEG Series
