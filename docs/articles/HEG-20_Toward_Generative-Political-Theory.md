@@ -281,6 +281,7 @@ When orientation distributes, bias stabilizes, êthos persists, and support beco
 [HEG-20-05｜皇位継承原理の近代的固定化 ── 男系男子継承をめぐる制度史的考察](https://camp-us.net/articles/HEG-20-05_Modern_Imperial-Succession.html)  
 [HEG-20-05｜supportなき「正統性」 ── 皇位継承問題のlag構文的読解](https://camp-us.net/articles/HEG-20-05_Legitimacy-without-Support.html)  
 
+
 | 生成政治学     | 問い           | 答え          | 生成の位相          | 従来領域  |
 | --------- | ------------ | ----------- | -------------- | ----- |
 | 01 生成系列論  | 起点はどこにあるか    | 位相差の順序      | 生成系列           | 政治構造  |
