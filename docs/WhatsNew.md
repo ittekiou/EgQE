@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/05/29  
+[HEG-20-05｜皇位継承原理の近代的固定化 ── 男系男子継承をめぐる制度史的考察](https://camp-us.net/articles/HEG-20-05_Modern_Imperial-Succession.html)  
+[HEG-20-05｜supportなき「正統性」 ── 皇位継承問題のlag構文的読解](https://camp-us.net/articles/HEG-20-05_Legitimacy-without-Support.html)  
 ###### 2026/05/27  
 [SC-04｜主体位相 ── subject as distributed lag topology｜Subject Topology: The Self as Distributed Lag Field](https://camp-us.net/articles/SC-04_Subject-Topology.html)  
 [EDT-00｜公共圏以後 ── Encounter Distribution Theory 序論｜After the Public Sphere: An Introduction to Encounter Distribution Theory](https://camp-us.net/articles/EDT-00_After-Public-Sphere_EDT.html)  
