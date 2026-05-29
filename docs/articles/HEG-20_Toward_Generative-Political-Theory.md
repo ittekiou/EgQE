@@ -134,6 +134,8 @@ When orientation distributes, bias stabilizes, êthos persists, and support beco
 [HEG-20-04｜From Decision to Generation ── The Invisibilization of Support and a Phenomenology of Value Formation](https://camp-us.net/articles/HEG-20-04_Decision-to-Generation_Invisible-Support-and-Value-Formation.html)  
 [HEG-20-04｜Orientation, Bias, Êthos, and the Exposure of Support ── Towards Phenomenology of Value Generation](https://camp-us.net/articles/HEG-20-04_Towards_Phenomenology-of-Value-Generation.html)  
 [HEG-20-04｜Phenomenology of Value Generation ── Orientation, Bias, Êthos, and the Exposure of Support](https://camp-us.net/articles/HEG-20-04_Phenomenology-of-Value-Generation.html)  
+[HEG-20-05｜皇位継承原理の近代的固定化 ── 男系男子継承をめぐる制度史的考察](https://camp-us.net/articles/HEG-20-05_Modern_Imperial-Succession.html)  
+[HEG-20-05｜supportなき「正統性」 ── 皇位継承問題のlag構文的読解](https://camp-us.net/articles/HEG-20-05_Legitimacy-without-Support.html)  
 
 ---
 
@@ -276,12 +278,16 @@ When orientation distributes, bias stabilizes, êthos persists, and support beco
 [HEG-20-04｜向き・偏り・拘りと支えの露出 ── 価値生成の現象学へ](https://camp-us.net/articles/HEG-20-04_Towards_Phenomenology-of-Value-Generation.html)  
 [HEG-20-04｜価値生成の現象学 ── 向き・偏り・拘りと支えの露出](https://camp-us.net/articles/HEG-20-04_Phenomenology-of-Value-Generation.html)  
 
-| 生成政治学     | 問い           | 答え      | 生成の位相       | 従来領域 |
-| --------- | ------------ | ------- | ----------- | ---- |
-| 01 生成系列論  | 起点はどこにあるか    | 位相差の順序  | 生成系列        | 政治構造 |
-| 02 権力分布論  | 権力はどこにあるか    | 生成分布の偏り | 偏り持続        | 社会権力 |
-| 03 非決定生成論 | 非決定はどう生成されるか | 生成の断面   | 生成断面        | 政治過程 |
-| 04 価値生成論  | 価値はどう生成されるか  | 支えの不可視化 | lag分布 / 背景化 | 政治経済 |
+[HEG-20-05｜皇位継承原理の近代的固定化 ── 男系男子継承をめぐる制度史的考察](https://camp-us.net/articles/HEG-20-05_Modern_Imperial-Succession.html)  
+[HEG-20-05｜supportなき「正統性」 ── 皇位継承問題のlag構文的読解](https://camp-us.net/articles/HEG-20-05_Legitimacy-without-Support.html)  
+
+| 生成政治学     | 問い           | 答え          | 生成の位相          | 従来領域  |
+| --------- | ------------ | ----------- | -------------- | ----- |
+| 01 生成系列論  | 起点はどこにあるか    | 位相差の順序      | 生成系列           | 政治構造  |
+| 02 権力分布論  | 権力はどこにあるか    | 生成分布の偏り     | 偏り持続           | 社会権力  |
+| 03 非決定生成論 | 非決定はどう生成されるか | 生成の断面       | 生成断面           | 政治過程  |
+| 04 価値生成論  | 価値はどう生成されるか  | 支えの不可視化     | lag分布 / 背景化    | 政治経済  |
+| 05 正統性生成論 | 正統性はなぜ持続するのか | 記録化された支持の持続 | support→ΔZ→lag | 国家正統性 |
 
 ---
 
