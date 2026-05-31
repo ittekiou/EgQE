@@ -1,10 +1,12 @@
 ---
 layout: math
 title: SN-DK-08｜行燈論 ── 照明と灯りのあいだ
+title_en: SN-DK-08｜Andon-light ── rate exposure and appearance
 ---
 ### SN-DARK-08
 # 行燈論
 ## ── 照明と灯りのあいだ
+## ── rate exposure and appearance
 
 ---
 
@@ -116,7 +118,7 @@ rate exposure
 
 行燈とは、光と影のあいだに生じるrate差を露出する装置である。
 
-この意味で、行燈は光学装置ではなく、appearance generator として理解できる。
+この意味で、行燈は光学装置ではなく、**appearance generator** として理解できる。
 
 そして月もまた、太陽光のrate差を朧に露出する巨大な行燈なのかもしれない。
 

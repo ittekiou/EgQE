@@ -20,7 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/05/31  
-[SN-DK-08｜行燈論 ── 照明と灯りのあいだ](https://camp-us.net/articles/SN-DK-08_Andon-light_as_rate-exposure-device.html)  
+[SN-DK-08｜行燈論 ── 照明と灯りのあいだ｜Andon-light ── rate exposure and appearance](https://camp-us.net/articles/SN-DK-08_Andon-light_as_rate-exposure-device.html)  
 ###### 2026/05/29  
 [HEG-20-05｜皇位継承原理の近代的固定化 ── 男系男子継承をめぐる制度史的考察](https://camp-us.net/articles/HEG-20-05_Modern_Imperial-Succession.html)  
 [HEG-20-05｜supportなき「正統性」 ── 皇位継承問題のlag構文的読解](https://camp-us.net/articles/HEG-20-05_Legitimacy-without-Support.html)  
