@@ -154,6 +154,7 @@ _影が光を呼び起こす_
 [SN-DK-05｜光に色はない──rate差の空間化としての色](https://camp-us.net/articles/SN-DK-05_No-Color-in-Light_as_Rate-Difference.html)  
 [SN-DK-06｜明るさは連続ではない──Lag-Structured Appearance Field](https://camp-us.net/articles/SN-DK-06_Brightness-Not-Continuous_Lag-Structured-Appearance-Field.html)  
 [SN-DK-07｜夕焼けと空の青 ── Light as Rate Exposure](https://camp-us.net/articles/SN-DK-07_Light-as-Rate-Exposure.html)  
+[SN-DK-08｜行燈論 ── 照明と灯りのあいだ](https://camp-us.net/articles/SN-DK-08_Andon-light_as_rate-exposure-device.html)  
 
 ```
 膜     影
