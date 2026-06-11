@@ -19,6 +19,12 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/06/11  
+[TC-00｜選択の一般理論 序説 ── 選択はひとつ、選択肢は複数](https://camp-us.net/articles/TC-00_Encounter-Edit-Trace.html)  
+[TC-01｜痕跡と選択 ── 選択理論から痕跡の選択理論へ](https://camp-us.net/articles/TC-01_Trace-Selection.html)  
+[TC-02｜痕跡と責任 ── 別様にあり得た可能性について](https://camp-us.net/articles/TC-02_Trace-Responsibility.html)  
+[TC-03｜痕跡と自由 ── 未閉包持続としての自由](https://camp-us.net/articles/TC-03_Trace-Freedom.html)  
+[TC-04｜選択・責任・自由 ── 痕跡と選択の一般理論へ](https://camp-us.net/articles/TC-04_Trace-Responsibility-Freedom.html)  
 ###### 2026/05/31  
 [SN-DK-08｜行燈論 ── 照明と灯りのあいだ｜Andon-light ── rate exposure and appearance](https://camp-us.net/articles/SN-DK-08_Andon-light_as_rate-exposure-device.html)  
 ###### 2026/05/29  
