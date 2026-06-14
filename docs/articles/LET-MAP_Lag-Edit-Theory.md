@@ -101,6 +101,7 @@ Passage is prior. When edit leaves deviation within it, a circuit emerges, and t
 - [LET-TS｜時間（生成）](https://camp-us.net/articles/LET-TS_Editing-and-Time.html)  
 - [LET-EX｜通過（橋）](https://camp-us.net/articles/LET-EX-00_Editing-as-Passage.html)  
 - [LET-EX｜身体（通過）](https://camp-us.net/articles/LET-EX-01_Body-as-Editing.html)  
+- [LET-EX｜出生（生命）](https://camp-us.net/articles/LET-EX-02_Life-as-Passage_Birth-Theory.html)  
 
 ---
 
@@ -111,6 +112,7 @@ Passage is prior. When edit leaves deviation within it, a circuit emerges, and t
 - [LET-TS｜Time (generation)](https://camp-us.net/articles/LET-TS_Editing-and-Time.html)  
 - [LET-EX｜Passage (bridge)](https://camp-us.net/articles/LET-EX-00_Editing-as-Passage.html)  
 - [LET-EX｜Body (Passage)](https://camp-us.net/articles/LET-EX-01_Body-as-Editing.html)  
+- [LET-EX｜Birth (Life)](https://camp-us.net/articles/LET-EX-02_Life-as-Passage_Birth-Theory.html)  
 
 ---
 

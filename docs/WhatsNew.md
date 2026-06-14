@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/06/14  
+[LET-EX-02｜出生論：排泄される生命｜Birth Theory: Life as Passage](https://camp-us.net/articles/LET-EX-02_Life-as-Passage_Birth-Theory.html)  
+[DPH-00｜Dirac Probe Hypothesis（作業仮説）Draft](https://camp-us.net/articles/DPH-00_Dirac-Probe-Hypothesis.html)  
 ###### 2026/06/11  
 [TC-00｜選択の一般理論 序説 ── 選択はひとつ、選択肢は複数](https://camp-us.net/articles/TC-00_Encounter-Edit-Trace.html)  
 [TC-01｜痕跡と選択 ── 選択理論から痕跡の選択理論へ](https://camp-us.net/articles/TC-01_Trace-Selection.html)  

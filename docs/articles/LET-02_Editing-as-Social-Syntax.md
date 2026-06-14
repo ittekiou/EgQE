@@ -217,6 +217,7 @@ Institutions retain deviation, power determines the position of Z₀, and time a
 
 [LET-EX-00｜通過としてのエディティング ── Passage-Based Editing](https://camp-us.net/articles/LET-EX-00_Editing-as-Passage.html)  
 [LET-EX-01｜エディティング身体論（拡張） ── 通過から編集へ](https://camp-us.net/articles/LET-EX-01_Body-as-Editing.html)  
+[LET-EX-02｜出生論：排泄される生命｜Birth Theory: Life as Passage](https://camp-us.net/articles/LET-EX-02_Life-as-Passage_Birth-Theory.html)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
