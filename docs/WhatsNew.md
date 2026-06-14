@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/06/14  
 [LET-EX-02｜出生論：排泄される生命｜Birth Theory: Life as Passage](https://camp-us.net/articles/LET-EX-02_Life-as-Passage_Birth-Theory.html)  
+[CO-EDIT-00｜共同編集としての生命 ── 有性生殖はなぜ革命だったのか](https://camp-us.net/articles/CO-EDIT-00_Life-as-Co-Editing.html)  
 [DPH-00｜Dirac Probe Hypothesis（作業仮説）Draft](https://camp-us.net/articles/DPH-00_Dirac-Probe-Hypothesis.html)  
 ###### 2026/06/11  
 [TC-00｜選択の一般理論 序説 ── 選択はひとつ、選択肢は複数](https://camp-us.net/articles/TC-00_Encounter-Edit-Trace.html)  
