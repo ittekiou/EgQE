@@ -23,8 +23,8 @@ subtitle: Inter-Phase is the syntactic field where co-creation occurs.
 </div>
 
 _**lag begins, hinge binds, pivot turns, ΔZ encounters, memory persists, and lag begins...**_  
-#### 感じて欲しいのは、共感ではなく違和感。
-### ── 思考は違和感から始まる
+### 思考は違和感から始まる
+#### ── 感じて欲しいのは、共感ではなく違和感。
 #### **Empathy comforts. Dissonance awakens.**  
 ##### **── Thought begins with a trace that refuses to settle.**
 
