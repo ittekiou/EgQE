@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+
+[SX-EX-06｜色とは膜による露出である｜Color as Membrane-Generated Exposure](https://camp-us.net/articles/SX-EX-06_Color_Membrane-Generated-Exposure.html)  
 ###### 2026/06/14  
 [LET-EX-02｜出生論：排泄される生命｜Birth Theory: Life as Passage](https://camp-us.net/articles/LET-EX-02_Life-as-Passage_Birth-Theory.html)  
 [CO-EDIT-00｜共同編集としての生命 ── 有性生殖はなぜ革命だったのか](https://camp-us.net/articles/CO-EDIT-00_Life-as-Co-Editing.html)  

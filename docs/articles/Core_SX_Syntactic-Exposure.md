@@ -83,6 +83,9 @@ _— it is the moment flow becomes form_
 - [SX-EX-05｜Wave as Stabilized Exposure ── lag Distribution and Encounter Dynamics](https://camp-us.net/articles/SX-EX-05_Wave-as-Stabilized-Exposure.html)  
 — 波は object ではない。stabilized exposure pattern である。
 	
+- [SX-EX-06｜色とは膜による露出である｜Color as Membrane-Generated Exposure](https://camp-us.net/articles/SX-EX-06_Color_Membrane-Generated-Exposure.html)  
+— 色とはなにか。物体の属性ではなく、**膜によって生成された光のrate状態の露出**かもしれない。
+	
 
 ---
 
