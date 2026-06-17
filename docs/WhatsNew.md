@@ -19,7 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
-
+###### 2026/06/16  
 [SX-EX-06｜色とは膜による露出である｜Color as Membrane-Generated Exposure](https://camp-us.net/articles/SX-EX-06_Color_Membrane-Generated-Exposure.html)  
 ###### 2026/06/14  
 [LET-EX-02｜出生論：排泄される生命｜Birth Theory: Life as Passage](https://camp-us.net/articles/LET-EX-02_Life-as-Passage_Birth-Theory.html)  
