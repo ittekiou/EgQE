@@ -449,6 +449,44 @@ How politics is practiced.
 
 HEG-20は、「政治」を権力や国家から始めず、**世界の生成から始め、最後に共存という実践へ着地させる** 構成をなす。
 
+```text
+non-coincidence
+        ↓
+     encounter
+        ↓
+        bias
+        ↓
+       value
+        ↓
+      support
+        ↓
+   institution
+      ↙      ↘
+liberalism  democracy
+      \      /
+ peaceful coexistence
+        ↓
+      arte
+```
+
+**peaceful coexistence** はゴールではない。
+
+**liberalism** と **democracy** のどちらか一方でも到達できない。
+
+両者は対立概念ではなく、**共存を支える二本柱**である。
+
+---
+
+> **Politics is the Arte of Peaceful Coexistence under Non-Coincidence.**
+
+> **政治とは、一致しない世界における平和的共存のアルテである。**
+
+---
+
+*共存のアルテは編集し続ける。*
+
+*政治学とは、異なるバイアスの平和的共存を編集しつづけるアルテである。*
+
 ---
 
 ## HEG シリーズ
