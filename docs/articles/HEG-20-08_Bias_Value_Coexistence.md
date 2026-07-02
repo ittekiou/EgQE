@@ -121,6 +121,8 @@ _**HEG-20-08｜Politics of Coexistence**_
 
 ---
 
+[HEG-20-09｜異論はなぜ存在するのか ── non-coincidenceから平和的共存へ｜Why Dissent Exists: From Non-Coincidence to Peaceful Coexistence](https://camp-us.net/articles/HEG-20-09_Why_Dissent_Exists.html)  
+
 [HEG-20｜生成政治学へ向けて｜Toward Generative Political Theory](https://camp-us.net/articles/HEG-20_Toward_Generative-Political-Theory.html)
 
 ---

@@ -193,6 +193,8 @@ liberalism  democracy
 
 ---
 
+[HEG-20-08｜価値とは何か ── バイアスの平和的共存へ｜Value as Bias: Toward the Peaceful Coexistence of Biases](https://camp-us.net/articles/HEG-20-08_Bias_Value_Coexistence.html)  
+
 [HEG-20｜生成政治学へ向けて｜Toward Generative Political Theory](https://camp-us.net/articles/HEG-20_Toward_Generative-Political-Theory.html)
 
 ---
