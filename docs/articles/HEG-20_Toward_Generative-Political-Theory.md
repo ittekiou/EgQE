@@ -270,6 +270,32 @@ When orientation distributes, bias stabilizes, êthos persists, and support beco
 ---
 
 # HEG-20
+
+Part I
+Politics of Generation
+↓
+Part II
+Politics of Coexistence
+(Toward an Ars Convivendi)
+
+---
+
+## 第一部　生成政治学（Generative Political Theory）
+
+> **政治はいかに生成されるのか。**
+
+```
+01　生成系列
+　↓
+02　権力生成
+　↓
+03　非決定生成
+　↓
+04　価値生成
+　↓
+05　正統性生成
+```
+
 [HEG-20-01｜生成政治学 ── 時間の手前における生成系列](https://camp-us.net/articles/HEG-20-01_Generative-Political-Theory.html)  
 [HEG-20-02｜権力はどこにあるのか ── 生成分布としての権力論](https://camp-us.net/articles/HEG-20-02_Power_as_Distribution-of-Generation.html)  
 [HEG-20-03｜決定モデルから生成モデルへ ── 非決定はどのように生成されるのか](https://camp-us.net/articles/HEG-20-03_Nondecision_Decision-to-Generation.html)  
@@ -291,6 +317,137 @@ When orientation distributes, bias stabilizes, êthos persists, and support beco
 | 03 非決定生成論 | 非決定はどう生成されるか | 生成の断面       | 生成断面           | 政治過程  |
 | 04 価値生成論  | 価値はどう生成されるか  | 支えの不可視化     | lag分布 / 背景化    | 政治経済  |
 | 05 正統性生成論 | 正統性はなぜ持続するのか | 記録化された支持の持続 | support→ΔZ→lag | 国家正統性 |
+
+---
+
+_Toward an Ars Convivendi_  
+# 第二部　共存政治学（Politics of Coexistence）
+
+> **生成されたものが、どう共存するのか。**
+
+### HEG-20-06
+
+**象徴天皇型憲法平和体制の終焉**  
+── supportの歴史分析
+
+問い
+
+> 平和は何に支えられていたのか。
+
+答え
+
+> 一条による対内平和が九条を支えていた。
+
+---
+
+### HEG-20-07
+
+**一条平和と九条平和**  
+── support平和論
+
+問い
+
+> supportなき平和は持続するのか。
+
+答え
+
+> 平和はsupportの持続である。
+
+---
+
+### HEG-20-08
+
+**価値とは何か**  
+── バイアスの平和的共存
+
+問い
+
+> 価値とは何か。
+
+答え
+
+> biasの持続。
+
+---
+
+### HEG-20-09
+
+**異論はなぜ存在するのか**  
+── non-coincidenceから平和的共存へ
+
+問い
+
+> 異論はなぜ存在するか。
+
+答え
+
+> 世界が一致しないから。
+
+---
+
+[HEG-20-06｜象徴天皇型憲法平和体制の終焉 ── 見えなかった支えは、なぜ見え始めたのか｜Constitutional Peace as Support: The End of the Symbolic-Emperor Constitutional Peace Regime](https://camp-us.net/articles/HEG-20-06_Support_of_Constitutional_Peace.html)  
+[HEG-20-07｜一条平和と九条平和 ── supportなき平和は持続するのか｜Article 1 Peace and Article 9 Peace: Can Peace Persist without Support?](https://camp-us.net/articles/HEG-20-07_Article1_Article9_Peace.html)  
+[HEG-20-08｜価値とは何か ── バイアスの平和的共存へ｜Value as Bias: Toward the Peaceful Coexistence of Biases](https://camp-us.net/articles/HEG-20-08_Bias_Value_Coexistence.html)  
+[HEG-20-09｜異論はなぜ存在するのか ── non-coincidenceから平和的共存へ｜Why Dissent Exists: From Non-Coincidence to Peaceful Coexistence](https://camp-us.net/articles/HEG-20-09_Why_Dissent_Exists.html)  
+
+|共存政治学|問い|答え|共存位相|従来領域|
+|---|---|---|---|---|
+|06 平和生成論|平和は何に支えられるか|象徴によるsupport|対内/対外平和|憲法|
+|07 support平和論|平和は持続するか|supportの持続|制度持続|平和研究|
+|08 共存価値論|価値とは何か|biasの平和的共存|価値配置|倫理・政治哲学|
+|09 共存存在論|異論はなぜ存在するか|non-coincidence|存在→政治|民主主義論|
+
+---
+
+> **政治学は共存のアルテである。**
+
+```
+Ⅰ　生成政治学
+（Generation）
+↓
+Ⅱ　共存政治学
+（Coexistence）
+↓
+Ⅲ　共存のアルテ
+（Ars Convivendi）
+```
+
+```
+HEG-20
+
+Ⅰ　生成
+How politics emerges.
+↓
+Ⅱ　共存
+Why politics is necessary.
+↓
+Ⅲ　アルテ
+How politics is practiced.
+```
+
+---
+
+**生成政治学**は、
+
+> 世界はどう政治になるか。
+
+を説明する。
+
+**共存政治学**は、
+
+> なぜ政治が必要なのか。
+
+を説明する。
+
+**共存のアルテ**は、
+
+> では、どう共に生きるのか。
+
+を考える。
+
+---
+
+HEG-20は、「政治」を権力や国家から始めず、**世界の生成から始め、最後に共存という実践へ着地させる** 構成をなす。
 
 ---
 

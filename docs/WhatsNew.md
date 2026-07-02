@@ -19,6 +19,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/07/02  
+[HEG-20-06｜象徴天皇型憲法平和体制の終焉 ── 見えなかった支えは、なぜ見え始めたのか｜Constitutional Peace as Support: The End of the Symbolic-Emperor Constitutional Peace Regime](https://camp-us.net/articles/HEG-20-06_Support_of_Constitutional_Peace.html)  
+[HEG-20-07｜一条平和と九条平和 ── supportなき平和は持続するのか｜Article 1 Peace and Article 9 Peace: Can Peace Persist without Support?](https://camp-us.net/articles/HEG-20-07_Article1_Article9_Peace.html)  
+[HEG-20-08｜価値とは何か ── バイアスの平和的共存へ｜Value as Bias: Toward the Peaceful Coexistence of Biases](https://camp-us.net/articles/HEG-20-08_Bias_Value_Coexistence.html)  
+[HEG-20-09｜異論はなぜ存在するのか ── non-coincidenceから平和的共存へ｜Why Dissent Exists: From Non-Coincidence to Peaceful Coexistence](https://camp-us.net/articles/HEG-20-09_Why_Dissent_Exists.html)  
 ###### 2026/06/16  
 [SX-EX-06｜色とは膜による露出である｜Color as Membrane-Generated Exposure](https://camp-us.net/articles/SX-EX-06_Color_Membrane-Generated-Exposure.html)  
 ###### 2026/06/14  
