@@ -5,7 +5,7 @@ title_en: "HEG-20-10-5｜From Bloodline to Support: Reconfiguration and the Poli
 ---
 _HEG-20-10-5｜The Politics of Supported Bias_  
 # **血統から支持へ**
-## **── supportの再配置と更新周期の政治学**
+## ── supportの再配置と更新周期の政治学
 
 本稿は、ある朝の散歩メモから生まれた思考実験である。
 
