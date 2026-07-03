@@ -19,6 +19,10 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/07/03  
+[HEG-20-10-1｜男系男子というバイアス ── 制度は何に支えられていたのか｜The Politics of Patrilineal Bias](https://camp-us.net/articles/HEG-20-10-1_Politics-of-Patrilineal-Bias.html)  
+[HEG-20-10-2｜男系男子とは何か ── 生殖バイアス・support・制度｜What Is Male-Line Succession?](https://camp-us.net/articles/HEG-20-10-2_What-Is-Male-Line-Succession.html)  
+[HEG-20-10-3｜精子の系譜はなぜ特権化されたのか ── 生殖バイアスの制度化｜Why Was the Sperm Line Privileged?](https://camp-us.net/articles/HEG-20-10-3_Why-Was-the-Sperm-Line-Privileged.html)  
 ###### 2026/07/02  
 [HEG-20-06｜象徴天皇型憲法平和体制の終焉 ── 見えなかった支えは、なぜ見え始めたのか｜Constitutional Peace as Support: The End of the Symbolic-Emperor Constitutional Peace Regime](https://camp-us.net/articles/HEG-20-06_Support_of_Constitutional_Peace.html)  
 [HEG-20-07｜一条平和と九条平和 ── supportなき平和は持続するのか｜Article 1 Peace and Article 9 Peace: Can Peace Persist without Support?](https://camp-us.net/articles/HEG-20-07_Article1_Article9_Peace.html)  

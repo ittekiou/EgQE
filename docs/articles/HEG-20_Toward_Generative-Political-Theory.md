@@ -269,17 +269,6 @@ When orientation distributes, bias stabilizes, êthos persists, and support beco
 
 ---
 
-# HEG-20
-
-Part I
-Politics of Generation
-↓
-Part II
-Politics of Coexistence
-(Toward an Ars Convivendi)
-
----
-
 ## 第一部　生成政治学（Generative Political Theory）
 
 > **政治はいかに生成されるのか。**
@@ -396,6 +385,67 @@ _Toward an Ars Convivendi_
 |07 support平和論|平和は持続するか|supportの持続|制度持続|平和研究|
 |08 共存価値論|価値とは何か|biasの平和的共存|価値配置|倫理・政治哲学|
 |09 共存存在論|異論はなぜ存在するか|non-coincidence|存在→政治|民主主義論|
+
+---
+
+## ケーススタディ①（The Politics of Patrilineal Bias）
+
+### **HEG-20-10｜男系男子とは何か**
+**── 生殖バイアス・support・制度**
+
+**HEG-20-10は皇室制度を論じるのではない。supported bias という制度一般の構造を、皇位継承制度を事例として考察する。**  
+
+### **10-1**（The Politics of Patrilineal Bias）
+
+**男系男子というバイアス**  
+── 制度は何に支えられていたのか
+
+**露出（Support）**：  
+
+**男系男子は制度ではなく、supported biasである。**
+
+[HEG-20-10-1｜男系男子というバイアス ── 制度は何に支えられていたのか｜The Politics of Patrilineal Bias](https://camp-us.net/articles/HEG-20-10-1_Politics-of-Patrilineal-Bias.html)  
+
+### **10-2**（What Is Male-Line Succession?）
+
+**男系男子とは何か**  
+── 生殖バイアス・support・制度
+
+**定義（Bias）**：  
+
+**男系男子継承とは、精子の系譜に特権的価値を与える生殖バイアスを制度化した継承原理である。**
+
+基本概念。biasとは何か。supportとは何か。制度とは何か。
+
+[HEG-20-10-2｜男系男子とは何か ── 生殖バイアス・support・制度｜What Is Male-Line Succession?](https://camp-us.net/articles/HEG-20-10-2_What-Is-Male-Line-Succession.html)  
+
+---
+
+### **10-3**（Why Was the Sperm Line Privileged?）
+
+**精子の系譜はなぜ特権化されたのか**  
+── 生殖バイアスの制度化
+
+**展開（共同編集）**：  
+
+**共同編集された生命は、なぜ一つの系譜へ制度的に還元されたのか。**
+
+理論編。  
+生殖。共同編集。精子。Y染色体。ミトコンドリア。
+制度化。
+
+[HEG-20-10-3｜精子の系譜はなぜ特権化されたのか ── 生殖バイアスの制度化｜Why Was the Sperm Line Privileged?](https://camp-us.net/articles/HEG-20-10-3_Why-Was-the-Sperm-Line-Privileged.html)  
+
+---
+
+# HEG-20
+
+Part I
+Politics of Generation
+↓
+Part II
+Politics of Coexistence
+(Toward an Ars Convivendi)
 
 ---
 
