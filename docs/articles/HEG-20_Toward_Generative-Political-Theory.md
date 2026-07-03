@@ -436,6 +436,16 @@ _Toward an Ars Convivendi_
 
 [HEG-20-10-3｜精子の系譜はなぜ特権化されたのか ── 生殖バイアスの制度化｜Why Was the Sperm Line Privileged?](https://camp-us.net/articles/HEG-20-10-3_Why-Was-the-Sperm-Line-Privileged.html)  
 
+### **10-4**（Which Support Can Be Rebuilt?）
+
+**どの支えが再建可能か**  
+ ── 女性宮家・旧宮家養子・女系天皇の構造比較
+
+応用編。
+現実の制度改革。
+
+[HEG-20-10-4｜どの支えが再建可能か ── 女性宮家・旧宮家養子・女系天皇の構造比較｜Which Support Can Be Rebuilt? A Structural Comparison of Succession Reform Options](https://camp-us.net/articles/HEG-20-10-4_Which-Support-Can-Be-Rebuilt.html)  
+
 ---
 
 # HEG-20

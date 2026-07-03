@@ -162,6 +162,7 @@ support の変化である。
 [HEG-20-10-1｜男系男子というバイアス ── 制度は何に支えられていたのか｜The Politics of Patrilineal Bias](https://camp-us.net/articles/HEG-20-10-1_Politics-of-Patrilineal-Bias.html)  
 [HEG-20-10-2｜男系男子とは何か ── 生殖バイアス・support・制度｜What Is Male-Line Succession?](https://camp-us.net/articles/HEG-20-10-2_What-Is-Male-Line-Succession.html)  
 [HEG-20-10-3｜精子の系譜はなぜ特権化されたのか ── 生殖バイアスの制度化｜Why Was the Sperm Line Privileged?](https://camp-us.net/articles/HEG-20-10-3_Why-Was-the-Sperm-Line-Privileged.html)  
+[HEG-20-10-4｜どの支えが再建可能か ── 女性宮家・旧宮家養子・女系天皇の構造比較｜Which Support Can Be Rebuilt? A Structural Comparison of Succession Reform Options](https://camp-us.net/articles/HEG-20-10-4_Which-Support-Can-Be-Rebuilt.html)  
 
 **本稿（HEG-20-10）は皇室制度を論じているのではない。supported bias という制度一般の構造を、皇位継承制度を事例として考察している。**
 

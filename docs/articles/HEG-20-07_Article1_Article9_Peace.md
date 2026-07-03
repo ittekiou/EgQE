@@ -211,6 +211,15 @@ _戦後平和とは、**一条と九条を両輪とする体制**だった_
 [HEG-20-05｜皇位継承原理の近代的固定化 ── 男系男子継承をめぐる制度史的考察](https://camp-us.net/articles/HEG-20-05_Modern_Imperial-Succession.html)  
 [HEG-20-05｜supportなき「正統性」 ── 皇位継承問題のlag構文的読解](https://camp-us.net/articles/HEG-20-05_Legitimacy-without-Support.html)  
 
+---
+
+[HEG-20-10-1｜男系男子というバイアス ── 制度は何に支えられていたのか](https://camp-us.net/articles/HEG-20-10-1_Politics-of-Patrilineal-Bias.html)  
+[HEG-20-10-2｜男系男子とは何か ── 生殖バイアス・support・制度](https://camp-us.net/articles/HEG-20-10-2_What-Is-Male-Line-Succession.html)  
+[HEG-20-10-3｜精子の系譜はなぜ特権化されたのか ── 生殖バイアスの制度化](https://camp-us.net/articles/HEG-20-10-3_Why-Was-the-Sperm-Line-Privileged.html)  
+[HEG-20-10-4｜どの支えが再建可能か ── 女性宮家・旧宮家養子・女系天皇の構造比較](https://camp-us.net/articles/HEG-20-10-4_Which-Support-Can-Be-Rebuilt.html)  
+
+---
+
 [HEG-20｜生成政治学へ向けて｜Toward Generative Political Theory](https://camp-us.net/articles/HEG-20_Toward_Generative-Political-Theory.html)
 
 ---
