@@ -419,8 +419,6 @@ _Toward an Ars Convivendi_
 
 [HEG-20-10-2｜男系男子とは何か ── 生殖バイアス・support・制度｜What Is Male-Line Succession?](https://camp-us.net/articles/HEG-20-10-2_What-Is-Male-Line-Succession.html)  
 
----
-
 ### **10-3**（Why Was the Sperm Line Privileged?）
 
 **精子の系譜はなぜ特権化されたのか**  
