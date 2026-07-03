@@ -444,6 +444,16 @@ _Toward an Ars Convivendi_
 
 [HEG-20-10-4｜どの支えが再建可能か ── 女性宮家・旧宮家養子・女系天皇の構造比較｜Which Support Can Be Rebuilt? A Structural Comparison of Succession Reform Options](https://camp-us.net/articles/HEG-20-10-4_Which-Support-Can-Be-Rebuilt.html)  
 
+### **10-5**（From Bloodline to Support）
+
+**血統から支持へ**  
+── supportの再配置と更新周期の政治学
+
+日本型半大統領制という思考実験。  
+象徴天皇公選制と首相公選制の同時導入。
+
+[HEG-20-10-5｜血統から支持へ ── supportの再配置と更新周期の政治学｜From Bloodline to Support: Reconfiguration and the Politics of Refresh Rate](https://camp-us.net/articles/HEG-20-10-5_From-Bloodline-to-Support.html)  
+
 ---
 
 # HEG-20
