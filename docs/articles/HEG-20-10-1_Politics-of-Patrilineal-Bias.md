@@ -114,6 +114,13 @@ support は変わる。
 
 ---
 
+[HEG-20-05｜皇位継承原理の近代的固定化 ── 男系男子継承をめぐる制度史的考察](https://camp-us.net/articles/HEG-20-05_Modern_Imperial-Succession.html)  
+[HEG-20-05｜supportなき「正統性」 ── 皇位継承問題のlag構文的読解](https://camp-us.net/articles/HEG-20-05_Legitimacy-without-Support.html)  
+[HEG-20-06｜象徴天皇型憲法平和体制の終焉 ── 見えなかった支えは、なぜ見え始めたのか](https://camp-us.net/articles/HEG-20-06_Support_of_Constitutional_Peace.html)  
+[HEG-20-07｜一条平和と九条平和 ── supportなき平和は持続するのか](https://camp-us.net/articles/HEG-20-07_Article1_Article9_Peace.html)  
+
+---
+
 [HEG-20｜生成政治学へ向けて｜Toward Generative Political Theory](https://camp-us.net/articles/HEG-20_Toward_Generative-Political-Theory.html)
 
 ---
