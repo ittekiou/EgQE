@@ -164,12 +164,17 @@ symmetry
 [GE-07｜なぜ境界は曲がるのか ── lag分布と曲率の発生](https://camp-us.net/articles/GE-07_Why-Boundaries-Curve_Curvature_Lag-Distribution.html)  
 [GE-08｜点・線・面はどこから来るのか ── 曲率と空間構文の固定](https://camp-us.net/articles/GE-08_Points-Lines-Surfaces_Where_Come-From.html)  
 
-
 ---
 
+_本稿で提示する構文は、新たに導入されたものではない。時間論（[A-01](https://camp-us.net/articles/A-01_Before-Time.html)）、trace persistence（[A-04](https://camp-us.net/articles/A-04_trace-persistence-and-memory.html)）、Encounter論、Support論、HEGシリーズを通して繰り返し現れてきた構文を、一つの自然哲学として再配置する試みである。_
+
 [ELS-02｜Direction構文 ── 時間と空間はどこで分岐するのか｜Direction Syntax ── Where Do Time and Space Diverge?](https://camp-us.net/articles/ELS-02_Direction-Syntax.html)  
+
 [SN-BA-01｜生命はなぜ前後を持つのか── 摂取と排泄の時間生成｜Why Does Life Have Before and After? — Ingestion, Excretion, and the Generation of Time](https://camp-us.net/articles/SN-BA-01_Why-Life-Have-Before-After_Ingestion-Excretion-Time.html)  
 [SN-BA-02｜地表・熱・生命── encounter とエントロピー｜Earth, Heat, and Life — Where Do Before and After Come From?](https://camp-us.net/articles/SN-BA-02_Earth-Heat-Life_Where-Before-After-Come-From.html)  
+
+[A-01｜ロヴェッリと比較可能性 ── 「時間は存在しない」の再配置](https://camp-us.net/articles/A-01_Before-Time.html)  
+[A-04｜死者の residence ── trace persistence と memory](https://camp-us.net/articles/A-04_trace-persistence-and-memory.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
