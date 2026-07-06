@@ -164,6 +164,13 @@ symmetry
 [GE-07｜なぜ境界は曲がるのか ── lag分布と曲率の発生](https://camp-us.net/articles/GE-07_Why-Boundaries-Curve_Curvature_Lag-Distribution.html)  
 [GE-08｜点・線・面はどこから来るのか ── 曲率と空間構文の固定](https://camp-us.net/articles/GE-08_Points-Lines-Surfaces_Where_Come-From.html)  
 
+
+---
+
+[ELS-02｜Direction構文 ── 時間と空間はどこで分岐するのか｜Direction Syntax ── Where Do Time and Space Diverge?](https://camp-us.net/articles/ELS-02_Direction-Syntax.html)  
+[SN-BA-01｜生命はなぜ前後を持つのか── 摂取と排泄の時間生成｜Why Does Life Have Before and After? — Ingestion, Excretion, and the Generation of Time](https://camp-us.net/articles/SN-BA-01_Why-Life-Have-Before-After_Ingestion-Excretion-Time.html)  
+[SN-BA-02｜地表・熱・生命── encounter とエントロピー｜Earth, Heat, and Life — Where Do Before and After Come From?](https://camp-us.net/articles/SN-BA-02_Earth-Heat-Life_Where-Before-After-Come-From.html)  
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
