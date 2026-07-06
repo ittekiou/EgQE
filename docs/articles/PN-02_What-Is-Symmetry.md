@@ -153,6 +153,18 @@ symmetry
 [DPH-01｜Axiom Probe ── 原始概念はどこに置かれるのか](https://camp-us.net/articles/DPH-01_Axiom-Probe.html)
 
 ---
+
+#### Pre-π Series（GE）── Generative Lag Geometry
+[GE-01｜π以前の幾何学 ── 関係差と閉包の生成循環](https://camp-us.net/articles/GE-01_Pre-π-Geometry_Generative-Cycle-of-Closure.html)  
+[GE-02｜πとは何か ── 閉包傾向と位相通過点](https://camp-us.net/articles/GE-02_What-Is-π_Closure-Tendency.html)  
+[GE-03｜なぜ閉じようとするのか ── trace持続と傾きの発生](https://camp-us.net/articles/GE-03_Why-Closure-Tend-to-Occur.html)  
+[GE-04｜座標はどこから来るのか ── 複数traceの関係と比較可能性の発生](https://camp-us.net/articles/GE-04_Where-Coordinate-Come-From.html)  
+[GE-05｜orderingはなぜ時間を生むのか ── 反復・痕跡列・不可逆性](https://camp-us.net/articles/GE-05_Why-Ordering-Generate-Time.html)  
+[GE-06｜なぜ時間は閉包へ向かうのか ── ordering・time・closure tendency の相互生成](https://camp-us.net/articles/GE-06_Why-Time-Tend-Toward-Closure.html)  
+[GE-07｜なぜ境界は曲がるのか ── lag分布と曲率の発生](https://camp-us.net/articles/GE-07_Why-Boundaries-Curve_Curvature_Lag-Distribution.html)  
+[GE-08｜点・線・面はどこから来るのか ── 曲率と空間構文の固定](https://camp-us.net/articles/GE-08_Points-Lines-Surfaces_Where_Come-From.html)  
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
