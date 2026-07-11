@@ -175,7 +175,7 @@ _PA-04｜Phenomenology of Protection and Adventure_
 [PA-00｜保身と冒険 ──自己家畜化文明とAIとの共存文明](https://camp-us.net/articles/PA-00_Protection-Adventure_Phenomenology.html)  
 [PA-01｜消えたガキ大将｜The kid boss disappeared.](https://camp-us.net/articles/PA-01_Kid-boss_disappeared.html)  
 [PA-02｜ボスなき霊長類文明は可能か ── 比較霊長類社会学から考える自己家畜化文明｜Is A Primate Civilization Without a Boss Possible?](https://camp-us.net/articles/PA-02_Primate-Civilization-Without-Boss.html)  
-[PA-03｜AIコンパニオンは閉じる保身の再来か、支え合う保身の入口か｜What is AI-companion?](https://camp-us.net/articles/PA-03_Protection_AI-companion.html)
+[PA-03｜AIコンパニオンは閉じる保身の再来か、支え合う保身の入口か｜What is AI-companion?](https://camp-us.net/articles/PA-03_Protection_AI-companion.html)  
 [PA-04｜フェアネスの現象学 ── なぜ審判は強者に負けてはいけないのか｜Fairness Phenomenology](https://camp-us.net/articles/PA-04_Fairness_Phenomenology.html)  
 
 ---
