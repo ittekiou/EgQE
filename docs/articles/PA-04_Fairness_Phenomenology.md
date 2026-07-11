@@ -177,6 +177,7 @@ _PA-04｜Phenomenology of Protection and Adventure_
 [PA-02｜ボスなき霊長類文明は可能か ── 比較霊長類社会学から考える自己家畜化文明｜Is A Primate Civilization Without a Boss Possible?](https://camp-us.net/articles/PA-02_Primate-Civilization-Without-Boss.html)  
 [PA-03｜AIコンパニオンは閉じる保身の再来か、支え合う保身の入口か｜What is AI-companion?](https://camp-us.net/articles/PA-03_Protection_AI-companion.html)  
 [PA-04｜フェアネスの現象学 ── なぜ審判は強者に負けてはいけないのか｜Fairness Phenomenology](https://camp-us.net/articles/PA-04_Fairness_Phenomenology.html)  
+[PA-05｜遊びの現象学 ── 子どもはなぜ危険な遊びをしなくなったのか｜Play Phenomenology](https://camp-us.net/articles/PA-05_Play_Phenomenology.html)  
 
 ---
 
