@@ -19,7 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
-
+###### 2026/07/11  
+[PT-01｜加速する政治、取り残される身体 ── SNSからAIへ](https://camp-us.net/articles/PT-01_Political-Temporality_SNS-to-AI.html)  
 ###### 2026/07/06  
 [PN-01｜非対称の生成・持続・変容 ── Toward a Theory of Asymmetric Persistence](https://camp-us.net/articles/PN-01_Asymmetric-Persistence.html)  
 [PN-02｜対称性とはなにか？ ── Toward a Theory of Symmetry](https://camp-us.net/articles/PN-02_What-Is-Symmetry.html)  
