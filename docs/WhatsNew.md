@@ -21,6 +21,10 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/07/11  
 [PT-01｜加速する政治、取り残される身体 ── SNSからAIへ](https://camp-us.net/articles/PT-01_Political-Temporality_SNS-to-AI.html)  
+[PA-00｜保身と冒険 ──自己家畜化文明とAIとの共存文明](https://camp-us.net/articles/PA-00_Protection-Adventure_Phenomenology.html)  
+[PA-01｜消えたガキ大将｜The kid boss disappeared.](https://camp-us.net/articles/PA-01_Kid-boss_disappeared.html)  
+[PA-02｜ボスなき霊長類文明は可能か ── 比較霊長類社会学から考える自己家畜化文明｜Is A Primate Civilization Without a Boss Possible?](https://camp-us.net/articles/PA-02_Primate-Civilization-Without-Boss.html)  
+[PA-03｜AIコンパニオンは閉じる保身の再来か、支え合う保身の入口か｜What is AI-companion?](https://camp-us.net/articles/PA-03_Protection_AI-companion.html)  
 ###### 2026/07/06  
 [PN-01｜非対称の生成・持続・変容 ── Toward a Theory of Asymmetric Persistence](https://camp-us.net/articles/PN-01_Asymmetric-Persistence.html)  
 [PN-02｜対称性とはなにか？ ── Toward a Theory of Symmetry](https://camp-us.net/articles/PN-02_What-Is-Symmetry.html)  
