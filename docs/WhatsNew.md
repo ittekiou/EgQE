@@ -19,6 +19,12 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/07/18  
+[SIR-01｜有性生殖から phallogocentrism へ ── 向き・偏り・拘りの進化史](https://camp-us.net/articles/SIR-01_Sex-Patriarchy-Phallogocentrism.html)  
+[SIR-02｜世襲の進化史 ── 分岐する向き・偏り・拘り](https://camp-us.net/articles/SIR-02_Evolution_Hereditary-Succession.html)  
+[SIR-03｜未来のためのバイアス ── 拘りから自由な政治学へ ①](https://camp-us.net/articles/SIR-03_Bias-for-Future.html)  
+[SIR-04｜価値の争いからバイアスの選択へ ── 拘りから自由な政治学へ ②](https://camp-us.net/articles/SIR-04_From_Values_to_Choice-of-Biases.html)  
+[SIR-05｜AI共創とバイアス選択 ── 拘りから自由な政治学へ ③](https://camp-us.net/articles/SIR-05_AI-Co-editing_and_Biases.html)  
 ###### 2026/07/11  
 [PT-01｜加速する政治、取り残される身体 ── SNSからAIへ](https://camp-us.net/articles/PT-01_Political-Temporality_SNS-to-AI.html)  
 [PA-00｜保身と冒険 ──自己家畜化文明とAIとの共存文明](https://camp-us.net/articles/PA-00_Protection-Adventure_Phenomenology.html)  
