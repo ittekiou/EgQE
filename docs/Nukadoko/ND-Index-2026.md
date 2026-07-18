@@ -37,6 +37,11 @@ Nukadoko とは、それを置く場所である。
 ## May 
 [ND-26-0503_editing](https://camp-us.net/Nukadoko/ND-26-0503_editing.html)  
 
+
+## July 
+[ND-260718_lag-layer](https://camp-us.net/Nukadoko/ND-260718_lag-layer.html)  
+[ND-260718b_Tracing-Practice](https://camp-us.net/Nukadoko/ND-260718b_Tracing-Practice.html)  
+
 [ND_filename](https://camp-us.net/Nukadoko/.html)  
 
 > NDは発酵中の断片である。  
