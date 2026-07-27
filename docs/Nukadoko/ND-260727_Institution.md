@@ -8,7 +8,7 @@ Nukadoko 👉 [ND-Index](https://camp-us.net/Nukadoko/ND-Index.html)
 
 ## 発端
 
-PTP-01・PTP-02の査読・修正を通じて、「Institution」という語の理解が変化した。
+[PTP-01](https://camp-us.net/articles/PTP-01_Democracy_Supplementary-Principle-of-Politics.html)・[PTP-02](https://camp-us.net/articles/PTP-02_Tracing-Practice_Fundamental-Mode-of-Updating.html)の査読・修正を通じて、「Institution」という語の理解が変化した。
 
 当初は制度を、議会・大学・法律などの制度的対象として考えていた。
 

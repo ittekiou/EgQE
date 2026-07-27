@@ -336,6 +336,8 @@ Updating Ontologyは、その基盤を記述するための存在論である。
 [PTP-01｜民主主義はなぜ「政治」の補完原理にすぎないのか（Politics as Tracing Practice I）](https://camp-us.net/articles/PTP-01_Democracy_Supplementary-Principle-of-Politics.html)  
 [PTP-02｜なぜTraceは更新を可能にするのか（Politics as Tracing Practice II）](https://camp-us.net/articles/PTP-02_Tracing-Practice_Fundamental-Mode-of-Updating.html)  
 
+👉 [TPN-01｜制度とは何か ── Tracing Practiceから考える](https://camp-us.net/articles/TPN-01_Institution_Tracing-Practice.html)  
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
