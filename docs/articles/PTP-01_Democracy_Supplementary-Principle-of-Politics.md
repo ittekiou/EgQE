@@ -47,17 +47,15 @@ Only after answering that question can democracy be properly located within poli
 
 ## 2. Politics Before Democracy
 
-Politics precedes democracy conceptually.
+Politics precedes democracy not merely historically, but conceptually.
 
-Political communities existed before democratic institutions.
+Democratic institutions presuppose an already existing political practice in which collective judgments are publicly articulated, preserved, and revised through institutional traces.
 
-Parliaments existed before universal suffrage.
+Democracy therefore does not constitute politics itself. Rather, it broadens participation within an already existing practice of political tracing.
 
-Law existed before constitutional democracy.
+Politics is thus more general than democracy.
 
-Therefore democracy cannot constitute the essence of politics.
-
-Instead, democracy supplements an already existing political practice.
+Democracy is one of the institutional principles through which political tracing may be expanded.
 
 ---
 
@@ -162,6 +160,12 @@ Democracy is one of its supplementary principles.
 
 ---
 
+**Footnote**
+
+_The term "supplementary" is used here in its ordinary institutional sense, not in Derrida's technical notion of supplément._
+
+---
+
 ## Politics as Tracing Practice I
 # 民主主義はなぜ「政治」の補完原理にすぎないのか
 
@@ -199,19 +203,17 @@ Democracy is one of its supplementary principles.
 
 # 2　政治は民主主義に先立つ
 
-歴史的にも論理的にも、政治は民主主義より先に存在する。
+政治は民主主義に先立つ。
 
-法は民主主義以前から存在した。
+それは歴史的な意味だけではなく、概念的な意味でもそうである。
 
-国家も民主主義以前から存在した。
+民主主義は、共同的判断が制度的なTraceとして生成され、保存され、修正されうる政治的実践を前提として成立する。
 
-議会も普通選挙以前から存在した。
+したがって、民主主義は政治そのものを構成するのではない。
 
-つまり、民主主義は政治を成立させる条件ではない。
+民主主義は、すでに存在する政治的Tracing Practiceへの参加を拡張する制度原理である。
 
-政治という営みがまず存在する。
-
-民主主義はその一部を補完する制度原理である。
+政治は民主主義より一般的な概念であり、民主主義はその補完原理の一つである。
 
 ---
 
@@ -290,6 +292,12 @@ AIは、政治判断を代替するものではない。
 ---
 
 > 未来の政治共同体は決定を継承するのではない。決定を解釈し、更新し、再生することを可能にするTraceを継承する。
+
+---
+
+**脚注**
+
+※本稿でいう「補完（supplementary）」は制度論的な意味であり、デリダの _supplément_ 概念を指すものではない。
 
 ---
 

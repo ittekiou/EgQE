@@ -117,26 +117,17 @@ Tracing Practice is therefore a general structure of updating rather than a spec
 
 # 5. Human–AI Collaborative Updating
 
-Artificial intelligence changes neither politics nor ontology by replacing human agency.
+AI does not replace human agency.
 
-Its significance lies elsewhere.
+Rather, it transforms the conditions under which traces can be preserved, compared, recombined, and revised.
 
-AI dramatically expands
+This transformation affects domains whose continuity depends upon Tracing Practice.
 
-- trace preservation,
-    
-- trace comparison,
-    
-- trace recombination,
-    
-- trace accessibility.
-    
+It does not imply that every institution or tradition necessarily becomes updateable.
 
-Consequently,
+Traces may make updating possible.
 
-AI becomes a collaborator in Tracing Practice.
-
-Political institutions increasingly become distributed updating systems in which humans and AI jointly participate in the production, preservation, and revision of traces.
+Institutions may nevertheless refuse to update.
 
 ---
 
@@ -286,15 +277,17 @@ Tracing Practiceは、存在一般に共通する更新構造なのである。
 
 # 5　AIとUpdating Ontology
 
-AIは存在を代替しない。
+AIは人間の主体性を代替するものではない。
 
-AIは更新環境を変える。
+むしろ、Traceを保存し、比較し、編集し、更新する条件そのものを変化させる。
 
-AIは、Traceを保存し、検索し、比較し、編集する能力を飛躍的に高める。
+ただし、この変化が及ぶのは、Tracing Practiceによって持続する領域である。
 
-その結果、Tracing Practiceは、人間単独の営みではなく、人間とAIによる共同更新へ移行する。
+Traceは更新可能性を開く。
 
-AI時代とは、Tracing Practiceの共同化が進む時代である。
+しかし、制度や伝統は、それでも更新を拒むことがありうる。
+
+更新可能性と更新そのものは区別されなければならない。
 
 ---
 
