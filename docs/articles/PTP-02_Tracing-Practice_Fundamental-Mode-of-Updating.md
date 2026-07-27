@@ -127,7 +127,7 @@ It does not imply that every institution or tradition necessarily becomes update
 
 Traces may make updating possible.
 
-Institutions may nevertheless refuse to update.
+Institutions may preserve traces while refusing revision.
 
 ---
 
@@ -285,7 +285,7 @@ AIは人間の主体性を代替するものではない。
 
 Traceは更新可能性を開く。
 
-しかし、制度や伝統は、それでも更新を拒むことがありうる。
+しかし、制度や伝統は、Traceを保持しながら、その改訂を拒むことがありうる。
 
 更新可能性と更新そのものは区別されなければならない。
 
