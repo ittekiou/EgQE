@@ -19,6 +19,12 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/07/27  
+[PTP-01｜民主主義はなぜ「政治」の補完原理にすぎないのか（Politics as Tracing Practice I）｜Why Democracy Is Only a Supplementary Principle of Politics](https://camp-us.net/articles/PTP-01_Democracy_Supplementary-Principle-of-Politics.html)  
+[PTP-02｜なぜTraceは更新を可能にするのか（Politics as Tracing Practice II）｜Tracing Practice Theory and Updating Ontology ── Why Tracing Practice Is the Fundamental Mode of Updating](https://camp-us.net/articles/PTP-02_Tracing-Practice_Fundamental-Mode-of-Updating.html)  
+
+###### 2026/07/19  
+[TP-01｜お習字と漢字ドリルとホモ・サピエンス ── Tracing Practiceの起源](https://camp-us.net/articles/TP-01_Origin_of_Tracing-Practice.html)  
 ###### 2026/07/18  
 [SIR-01｜有性生殖から phallogocentrism へ ── 向き・偏り・拘りの進化史](https://camp-us.net/articles/SIR-01_Sex-Patriarchy-Phallogocentrism.html)  
 [SIR-02｜世襲の進化史 ── 分岐する向き・偏り・拘り](https://camp-us.net/articles/SIR-02_Evolution_Hereditary-Succession.html)  
