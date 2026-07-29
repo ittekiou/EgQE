@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/07/29  
+[OR-00｜軌道構文論 序説 ── 軌道はどこから来るのか](https://camp-us.net/articles/OR-00_Orbital-Syntax.html)  
 ###### 2026/07/27  
 [PTP-01｜民主主義はなぜ「政治」の補完原理にすぎないのか（Politics as Tracing Practice I）｜Why Democracy Is Only a Supplementary Principle of Politics](https://camp-us.net/articles/PTP-01_Democracy_Supplementary-Principle-of-Politics.html)  
 [PTP-02｜なぜTraceは更新を可能にするのか（Politics as Tracing Practice II）｜Tracing Practice Theory and Updating Ontology ── Why Tracing Practice Is the Fundamental Mode of Updating](https://camp-us.net/articles/PTP-02_Tracing-Practice_Fundamental-Mode-of-Updating.html)  
