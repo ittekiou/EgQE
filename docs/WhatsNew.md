@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/08/03  
+[TU-HEG-2｜記号行為論3.0──痕跡更新実践と更新存在論｜TUP as Sign Act Theory 3.0 ── Trace Updating Practice and Updating Ontology](https://camp-us.net/articles/TU-HEG-2_Sign-Act-Theory-3.0_TUP.html)  
 ###### 2026/07/29  
 [OR-00｜軌道構文論 序説 ── 軌道はどこから来るのか](https://camp-us.net/articles/OR-00_Orbital-Syntax.html)  
 ###### 2026/07/27  
