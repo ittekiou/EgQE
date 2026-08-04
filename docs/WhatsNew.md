@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/08/04  
+[TU-TUT-01｜痕跡学から生成学へ：TUT再読──Trace Updating Practiceの視点から](https://camp-us.net/articles/TU-TUT-01_TUT-to-TUP.html)  
+[EgQE｜HEG第四期としてのTrace Updating Ontology（TUP）](https://camp-us.net/articles/Core_HEG-TUP_Trace-Updating-Ontology.html)  
 ###### 2026/08/03  
 [TU-HEG-2｜記号行為論3.0──痕跡更新実践と更新存在論｜TUP as Sign Act Theory 3.0 ── Trace Updating Practice and Updating Ontology](https://camp-us.net/articles/TU-HEG-2_Sign-Act-Theory-3.0_TUP.html)  
 ###### 2026/07/29  
