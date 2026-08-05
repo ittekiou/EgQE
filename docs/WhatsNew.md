@@ -19,6 +19,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/08/05  
+[TUP-PM-01｜目的と手段の更新現象学 ── Trace Updating Practiceから考える](https://camp-us.net/articles/TUP-PM-01_Purpose-Means_Updating-Phenomenology.html)  
+[TUP-PM-02｜手段の目的化の現象学 ── 高次目的を見失うと、手段は目的になる](https://camp-us.net/articles/TUP-PM-02_Means-as-Purpose_Updating-Phenomenology.html)  
+[TUP-PM-03｜制度の自己目的化の現象学 ── 制度はなぜ自らを守り始めるのか](https://camp-us.net/articles/TUP-PM-03_Institution-ends_Updating-Phenomenology.html)  
+[TUP-ED-01｜編集の現象学 ── 編集は目的を露出する](https://camp-us.net/articles/TUP-ED-01_Editing-exposure-Purpose_TUP.html)  
 ###### 2026/08/04  
 [TU-TUT-01｜痕跡学から生成学へ：TUT再読──Trace Updating Practiceの視点から](https://camp-us.net/articles/TU-TUT-01_TUT-to-TUP.html)  
 [EgQE｜HEG第四期としてのTrace Updating Ontology（TUP）](https://camp-us.net/articles/Core_HEG-TUP_Trace-Updating-Ontology.html)  
