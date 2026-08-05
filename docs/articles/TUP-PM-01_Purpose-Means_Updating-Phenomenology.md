@@ -115,13 +115,12 @@ Means → Purpose
     - 目的を忘れた制度は、制度そのものが目的化する。
         
 
-> 本シリーズでは目的と手段を論じた。
-> 
-> 目的は、編集によって露出する。
-> 
-> **編集の現象学**については別稿で論じたい。
-  
-[TUP-ED-01｜編集の現象学 ── 編集は目的を露出する](https://camp-us.net/articles/TUP-ED-01_Editing-exposure-Purpose_TUP.html)  
+### 編集の現象学（TUP-ED）
+
+- [TUP-ED-01｜編集の現象学 ── 編集は目的を露出する](https://camp-us.net/articles/TUP-ED-01_Editing-exposure-Purpose_TUP.html)  
+    
+    - 編集は出来事をTrace化し、高次目的を露出する。
+	    
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

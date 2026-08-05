@@ -29,7 +29,7 @@ title: TUP-ED-01｜編集の現象学 ── 編集は目的を露出する
 
 変わるのは出来事ではない。
 
-出来事が **新たなTrace（意味）として接続される高次目的**である。
+**出来事がどの高次目的へ接続されるかである。**
 
 編集とは、その高次目的を露出する行為なのである。
 
@@ -107,16 +107,23 @@ TUPでは、編集とはTraceを加工する技術ではない。
 
 - **[PM-01｜目的と手段の更新現象学](https://camp-us.net/articles/TUP-PM-01_Purpose-Means_Updating-Phenomenology.html)**
     
-    - 昨日の目的は、今日の手段である。
+    - 目的と手段は更新される。
         
 - **[PM-02｜手段の目的化の現象学](https://camp-us.net/articles/TUP-PM-02_Means-as-Purpose_Updating-Phenomenology.html)**
     
-    - 高次目的を見失うと、手段は目的になる。
+    - 更新が止まると手段は目的になる。
         
 - **[PM-03｜制度の自己目的化の現象学](https://camp-us.net/articles/TUP-PM-03_Institution-ends_Updating-Phenomenology.html)**
     
-    - 目的を忘れた制度は、制度そのものが目的化する。
+    - 更新が止まると制度は自己目的化する。
         
+
+### 編集の現象学（TUP-ED）
+
+- [TUP-ED-01｜編集の現象学 ── 編集は目的を露出する](https://camp-us.net/articles/TUP-ED-01_Editing-exposure-Purpose_TUP.html)  
+    
+    - 編集は出来事をTrace化し、高次目的を露出する。
+	    
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
