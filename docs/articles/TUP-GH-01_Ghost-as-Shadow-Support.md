@@ -236,7 +236,7 @@ Ghostは、消え残った過去ではない。
 ---
 
 [Gφ-SN-PT｜構文の周期表 ── 位相は運動である](https://camp-us.net/G%CF%86-SN-PT_Periodic-Table-of-Syntax.html)  
-[HEG-12-SSS｜支えの構造 ── 生成・不可視化・両価性](https://camp-us.net/articles/HEG-12-SSS_Support-Syntax-Structure.html) 
+[HEG-12-SSS｜支えの構造 ── 生成・不可視化・両価性](https://camp-us.net/articles/HEG-12-SSS_Support-Syntax-Structure.html)  
 [TP-01｜お習字と漢字ドリルとホモ・サピエンス ── Tracing Practiceの起源](https://camp-us.net/articles/TP-01_Origin_of_Tracing-Practice.html) 
 [TUP-PM-03｜制度の自己目的化の現象学](https://camp-us.net/articles/TUP-PM-03_Institution-ends_Updating-Phenomenology.html)
 
