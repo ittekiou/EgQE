@@ -19,7 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
-
+###### 2026/08/08  
 [TUP-GH-03｜共同編輯する生命 ── 自己編集の前史](https://camp-us.net/articles/TUP-GH-03_Encounter_Co-editing-Life.html)  
 ###### 2026/08/07  
 [TUP-00｜Trace Updating Practiceとは何か ── 扉のページ](https://camp-us.net/TUP-00_Gate_Trace-Updating-Practice.html)  
