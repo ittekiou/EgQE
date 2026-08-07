@@ -176,6 +176,10 @@ Trinity統一理論（TUT）とTrace Updating Practice（TUP）は、名称が�
 TUPの抽象的な定式化（Trace₀→Signal₀→Updating₀→Trace₁...）は、この作業の後に来た精製物である。
 
 ---
+
+**本ページは、EgQE一年間のTraceをre-TUPする最初の記録となる（かもしれない）。**
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
