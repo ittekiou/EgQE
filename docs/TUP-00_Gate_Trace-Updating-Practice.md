@@ -119,7 +119,7 @@ OR-00の「閉じない螺旋」が、政治・存在論・現象学を経由し
 
 TUPは完成した理論ではない。以下は、現時点で発酵中の問いである。
 
-**Traceの両義性**
+**Traceの両義性**（解決済）
 
 [TPN-01](https://camp-us.net/articles/TPN-01_Institution_Tracing-Practice.html)と[PM-03](https://camp-us.net/articles/TUP-PM-03_Institution-ends_Updating-Phenomenology.html)は、同じ現象の異なる相を記述している。Institutionは、Tracing Practiceが安定化した位相であり、同時に、更新が止まれば自己目的化しうる。Traceは更新可能性を開くと同時に、固着の条件にもなりうる。
 
@@ -154,7 +154,7 @@ HEG-12-SSS (3/29)
 
 Trinity統一理論（TUT）とTrace Updating Practice（TUP）は、名称が近接しすぎている。[TU-TUT-01](https://camp-us.net/articles/TU-TUT-01_TUT-to-TUP.html)は両者を意図的に接続しているが、読者の混同を避ける整理は今後の課題として残している。
 
-**TP／PTP／TUPは同一構文の異なる零点実装である**
+**TP／PTP／TUPは同一構文の異なる零点実装である**（解決済）
 
 「なぞる」実践（Tracing Practice）が「更新する」実践（Trace Updating Practice）へ開かれた経緯は、本ページの系譜で示した通りである。当初、TP系（[TP-01｜お習字と漢字ドリルとホモ・サピエンス](https://camp-us.net/articles/TP-01_Origin_of_Tracing-Practice.html)、Jul 11/21）とPTP系（制度的痕跡生産）は、個人の身体スケールと制度スケールという別の強調点を持つ理論に見えた。
 
@@ -196,6 +196,20 @@ TUPの抽象的な定式化（Trace₀→Signal₀→Updating₀→Trace₁...�
 ---
 
 **本ページは、EgQE一年間のTraceをre-TUPする最初の記録となる（かもしれない）。**
+
+---
+
+# TUP理論の展開
+
+[TUP-GH-01｜構文化の必然としての亡霊 ── Shadow Supportとしての亡霊](https://camp-us.net/articles/TUP-GH-01_Ghost-as-Shadow-Support.html)（Aug 7）  
+
+> デリダの亡霊を、いま、TUPがre-TUPする。  
+> **なぞりきれないことが、そのまま自分の言葉になる。**
+
+[TUP-GH-02｜Traceをre-TUPする ── Encounterから始まるTrace論](https://camp-us.net/articles/TUP-GH-02_Encounter-re-TUP_Trace.html)（Aug 7）  
+
+> デリダは、Traceを**構造の条件**として思考した。
+> TUPは、**Encounterにおいて生じる非一致**をTraceとして位置づける。
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

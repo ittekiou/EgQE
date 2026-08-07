@@ -261,12 +261,14 @@ Ghostは、消え残った過去ではない。
 > **一致構文**：  
 > 本稿でいう一致構文とは、差異やズレを、最初に想定された一致からの逸脱として記述する構文である。主体と自己は一致する、記号と意味は一致する、現前はそれ自体で現前する、原型となぞりは一致しうる──こうした「一致」を原基準として置き、そこからの隔たりを欠如や失敗として語る構文のことを指す。
 
-> **二つのTrace**：
+> **二つのTrace**：  
 > 本稿では、デリダの _trace_ とTUPにおける _Trace_ を区別している。前者は現前や意味の成立を可能にする構造的条件として思考される。後者は、EncounterとUpdating Practiceによって残され、次の更新条件として作用する履歴的な痕跡である。本稿のShadow SupportおよびGhostは、主として後者のTraceを用いて記述している。
+
+👉 [TUP-GH-02｜Traceをre-TUPする ── Encounterから始まるTrace論](https://camp-us.net/articles/TUP-GH-02_Encounter-re-TUP_Trace.html)  
 
 ---
 
-👉 [TUP-00｜Trace Updating Practiceとは何か ── 扉のページ](https://camp-us.net/TUP-00_Gate_Trace-Updating-Practice.html)  
+[TUP-00｜Trace Updating Practiceとは何か ── 扉のページ](https://camp-us.net/TUP-00_Gate_Trace-Updating-Practice.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
