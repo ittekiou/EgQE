@@ -366,6 +366,12 @@ lag
 
 ### 👉 そして、TUP（Tracing Updating Practice）へ
 
+> **生命とは、他者を摂取し、編集し、痕跡として排泄するTracing Updating Practiceである。**
+> 
+> **TUPはTUPを生む。**
+> 
+> **それゆえ、生命は閉じない螺旋を描く。**
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
