@@ -211,6 +211,11 @@ TUPの抽象的な定式化（Trace₀→Signal₀→Updating₀→Trace₁...�
 > デリダは、Traceを**構造の条件**として思考した。
 > TUPは、**Encounterにおいて生じる非一致**をTraceとして位置づける。
 
+[TUP-GH-03｜共同編輯する生命 ── 自己編集の前史](https://camp-us.net/articles/TUP-GH-03_Encounter_Co-editing-Life.html)  
+
+> 自己産出の前史には、共同編集がある。  
+> 生命とは、**他者とのEncounterを内部化**しながら、自己そのものを更新し続ける**共同編集実践**である。
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
