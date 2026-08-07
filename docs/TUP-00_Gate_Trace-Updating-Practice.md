@@ -125,6 +125,8 @@ TUPは完成した理論ではない。以下は、現時点で発酵中の問�
 
 この両義性は、TUP以前に一般構文論としてすでに提示されていた。
 
+[SAW-05｜構文化の両価性──三層構文と六構文様式による分類（v0.1）](https://camp-us.net/articles/SAW-05_Ambivalence-Syntax_v01.html)（Jan 18）は、構文化を「呼吸を可能にすると同時に窒息を生む両価的過程」として整理し、三層構文と六構文様式の分類を配置図として示した。両価性は解消されない前提条件であり、構文的条件として扱われる。  
+[SS-06｜構文は呼吸する ──両価性の生成原理](https://camp-us.net/articles/SS-06_Syntax-Breathing_Generative-Principle-of-Ambivalence.html)（Mar 18）は、[SAW-05](https://camp-us.net/articles/SAW-05_Ambivalence-Syntax_v01.html)を踏まえ、構文は近似整合として生成され、**差異を丸める操作**が両価性をうむことを示した。**構文は両価性として呼吸する。**  
 [Gφ-SN-PT｜構文の周期表 ── 位相は運動である](https://camp-us.net/G%CF%86-SN-PT_Periodic-Table-of-Syntax.html)（Mar 21）は、**あらゆる構文は両価的である**ことを第一命題として掲げる。両価性は副作用ではなく、非一致（近似）に由来する必然である。  
 [HEG-12-SSS｜支えの構造 ── 生成・不可視化・両価性](https://camp-us.net/articles/HEG-12-SSS_Support-Syntax-Structure.html)（Mar 29）は、この命題を「支え」に適用する。支えは生成すると同時に、その生成の中で不可視化される。
 
@@ -149,6 +151,29 @@ Trinity統一理論（TUT）とTrace Updating Practice（TUP）は、名称が�
 したがって、TP／PTP／TUPの違いは、独立した理論間の違いでも、単なる強調点の違いでもない。  
 **同一の一般構文（なぞり→編集→なぞりきれなさの残差として自己・制度が立ち上がる）が、身体という零点で読まれればTPに、制度という零点で読まれればPTPになる。**  
 零点の選び方によって生成される構文である、というOR-00の命題が、ここでもそのまま成り立つ。
+
+---
+
+なお、TUPは、noteにおける作業的理論としてのTPの展開から生まれた。
+
+### TUP命名の正確な瞬間（note）
+
+- **7/21・25**：[TP-01](https://camp-us.net/articles/TP-01_Origin_of_Tracing-Practice.html)（[お習字と漢字ドリル](https://note.com/takahashihajime/n/ne717b3db551d)）── 起源
+- **7/27**：[フッサールとお習字](https://note.com/takahashihajime/n/n182a779f8d74)（時間意識：Retention/Protention）
+- **7/28**：[メルロ=ポンティとお習字](https://note.com/takahashihajime/n/n4b6ed217178b)（身体知）
+- **7/29**：[お習字とTracing Practice](https://note.com/takahashihajime/n/n6b3292e1ab0f)（Updating Ontologyへの接続が始まる）
+- **7/30**：[なぜ、お習字なのか](https://note.com/takahashihajime/n/nf60cbb09ff09)（現象学→身体論→TP→Updating Ontologyの地図が完成。「Tracing Practiceとはlagの現象学である」）
+- **8/1**：[お習字と短歌](https://note.com/takahashihajime/n/nb94ce8c9e718)（TP＝基礎、短歌＝応用というZURE概念との接続）
+- **8/1**：[実践の時間現象学 序説](https://note.com/takahashihajime/n/nc1d7ab3cd0df)（Signal・Trace・Practiceの三契機循環が定式化される）
+- **8/1**：**[意識とは何か── Trace更新実践(TUP)の現象学](https://note.com/takahashihajime/n/na2d75b5906d5)** ← ここで初めて「**TUP**」という名前が登場する
+
+> **Trace Updating Practice (TUP)**  
+> TUP is the recursive practice through which traces are edited, renewed, and projected toward future signals.
+
+[TU-HEG-2](https://camp-us.net/articles/TU-HEG-2_Sign-Act-Theory-3.0_TUP.html)（記号行為論3.0、Drafted Aug 1）と**同じ日**にTUPという名称そのものが立ち上がった。TU-HEG-2はこの日にドラフトが書かれ、理論として再構築・清書の上、8/3にWeb公開。
+
+夢とAIの意識論を並べて「TUPを観察して、それを意識と呼んでいるのかもしれない」とし、フッサール・メルロ=ポンティを通過して、最後に意識論そのものを脱実体化するところまで、一日で駆け抜けた。  
+TUPの抽象的な定式化（Trace₀→Signal₀→Updating₀→Trace₁...）は、この作業の後に来た精製物である。
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
