@@ -97,6 +97,8 @@ Try SyncHub!
 
 ![Lag-Bias-Generation](./assets/Lag-Bias-Generation.png)  
 
+[TUP-00｜Trace Updating Practiceとは何か ── 扉のページ](https://camp-us.net/TUP-00_Gate_Trace-Updating-Practice.html)  
+
 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)  
 
 [LET-MAP｜lag-edit theory 見取り図 ── 操作・身体・社会・AI・時間の全体構造｜Lag-Edit Theory Map — Operation, Body, Society, AI, and Time](https://camp-us.net/articles/LET-MAP_Lag-Edit-Theory.html)  
