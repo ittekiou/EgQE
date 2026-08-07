@@ -119,7 +119,7 @@ TUPはそこへ、三つを付け加える。
 ```text
 Autopoiesis
       ↓ 
-Tracing Updating Practice（TUP）
+Trace Updating Practice（TUP）
 ```
 
 ```
