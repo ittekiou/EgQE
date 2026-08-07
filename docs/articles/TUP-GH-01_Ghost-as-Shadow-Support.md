@@ -5,7 +5,7 @@ title: TUP-GH-01｜構文化の必然としての亡霊 ── Shadow Supportと
 # 構文化の必然としての亡霊
 ## ── Shadow Supportとしての亡霊
 
-> われわれは、**更新**の亡霊かもしれない。
+> われわれは、更新の亡霊かもしれない。
 
 ---
 
@@ -109,9 +109,13 @@ Exposure
 Ghost
 ```
 
-**Ghost = semi-visible Trace.**
+**Ghost = ExposureされたShadow Support.**
 
-亡霊とは、実体でも、消え損ねた残留物でもない。
+Traceそのものは、亡霊ではない。Traceは、不可視化されながらも作用し続ける、ただの持続である。
+
+Shadow Supportもまだ亡霊ではない。それは、半ば不可視化されたまま沈んでいる状態である。
+
+亡霊とは、そのShadow Supportが、ズレによってExposureされた**瞬間の位相**である。
 
 **半ば不可視化されたTraceが、Exposureによって露出するときの、現れ方**である。
 
@@ -177,7 +181,9 @@ Shadow Supportが露出するとき、起きているのはもっと切実なこ
 
 本稿の視点から見るなら、露出したShadow Supportを、次のUpdating Practiceへどう接続するかまでは、デリダの理論の中に十分論じられていないように見える。
 
-露出したShadow Supportを新しい構文へ編み込み直すのではなく、届かない現前への喪として、そこに留まり続けた──それが、hauntologyという名づけの手触りである。
+もっとも、デリダのhauntologyは、単に届かない過去への喪にとどまるものではない。まだ来ていないもの、未来の他者、継承すべき責任や正義への呼びかけをも含む、現前と不在の二分法そのものを攪乱する概念だった。
+
+本稿がここで注目したいのは、その広がりのうちの一つの手触りだけである。露出したShadow Supportを新しい構文へ編み込み直す操作は、デリダの理論の中心には置かれなかった、という一点にすぎない。
 
 Exposureから先、Updating Practiceへの接続。そこが、開かれたまま残っている。
 
@@ -227,6 +233,18 @@ Exposureから先、Updating Practiceへの接続。そこが、開かれたま�
 
 デリダの亡霊を、いま、TUPがre-TUPする。
 
+```
+Derrida
+ ↓
+Exposure
+ ↓
+Ghost
+ ↓
+re-TUP
+```
+
+> **なぞりきれないことが、そのまま自分の言葉になる。**
+
 ---
 
 Ghostは、消え残った過去ではない。
@@ -239,6 +257,12 @@ Ghostは、消え残った過去ではない。
 [HEG-12-SSS｜支えの構造 ── 生成・不可視化・両価性](https://camp-us.net/articles/HEG-12-SSS_Support-Syntax-Structure.html)  
 [TP-01｜お習字と漢字ドリルとホモ・サピエンス ── Tracing Practiceの起源](https://camp-us.net/articles/TP-01_Origin_of_Tracing-Practice.html) 
 [TUP-PM-03｜制度の自己目的化の現象学](https://camp-us.net/articles/TUP-PM-03_Institution-ends_Updating-Phenomenology.html)
+
+---
+
+#### Note
+
+> 本稿でいう**一致構文**とは、差異やズレを、最初に想定された一致からの逸脱として記述する構文である。主体と自己は一致する、記号と意味は一致する、現前はそれ自体で現前する、原型となぞりは一致しうる──こうした「一致」を原基準として置き、そこからの隔たりを欠如や失敗として語る構文のことを指す。
 
 ---
 
