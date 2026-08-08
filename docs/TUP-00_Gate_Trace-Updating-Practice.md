@@ -201,10 +201,12 @@ TUPの抽象的な定式化（Trace₀→Signal₀→Updating₀→Trace₁...�
 
 # TUP理論の展開
 
+**なぞりきれないことが、そのまま自分の言葉になる。**
+
 [TUP-GH-01｜構文化の必然としての亡霊 ── Shadow Supportとしての亡霊](https://camp-us.net/articles/TUP-GH-01_Ghost-as-Shadow-Support.html)（Aug 7）  
 
-> デリダの亡霊を、いま、TUPがre-TUPする。  
-> **なぞりきれないことが、そのまま自分の言葉になる。**
+> 亡霊とは、そのShadow SupportがExposureされた瞬間の位相である。  
+> デリダの亡霊を、いま、TUPがre-TUPする。
 
 [TUP-GH-02｜Traceをre-TUPする ── Encounterから始まるTrace論](https://camp-us.net/articles/TUP-GH-02_Encounter-re-TUP_Trace.html)（Aug 7）  
 
@@ -221,7 +223,7 @@ TUPの抽象的な定式化（Trace₀→Signal₀→Updating₀→Trace₁...�
 > **AIのWorldはいかに生成されるか。**  
 > TUPが問うのは、Worldの有無ではない。Encounterが、どのようなWorldを生成するかである。
 
-[TUP-GH-05｜にゃんこの季節とは何か ── 分かったつもりになる構文](https://camp-us.net/articles/TUP-GH-05_Cats-or-Dog.html)  
+[TUP-GH-05｜にゃんこの季節とは何か ── 分かったつもりになる構文](https://camp-us.net/articles/TUP-GH-05_Cats-or-Dog.html)（Aug 8）  
 
 > **閉じたEncounterを、いかにして再び開き、re-TUPするか。**  
 > Encounterに出会うすべてのものが、ZUREを既存の構文で閉じようとする編集バイアスを持っている。
