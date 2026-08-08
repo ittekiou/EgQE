@@ -1,9 +1,9 @@
 ---
 layout: math
-title: TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTracing Updating Practice
+title: TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTrace Updating Practice
 ---
 # 生命とは何か
-## ── 他者・編集・痕跡から考えるTracing Updating Practice
+## ── 他者・編集・痕跡から考えるTrace Updating Practice
 
 生命とは何か。
 
@@ -15,7 +15,7 @@ title: TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考�
 
 本稿では、生命を次のように定義したい。
 
-> **生命とは、他者を摂取し、編集し、痕跡として排泄するTracing Updating Practiceである。**
+> **生命とは、他者を摂取し、編集し、痕跡として排泄するTrace Updating Practiceである。**
 
 この定義は、生命を「物」としてではなく、「更新実践」する実装として捉える。
 
@@ -57,7 +57,7 @@ Other（Signal）
 
 生命は、その未来のシグナルを受け取り、編集し、痕跡として世界へ残す。
 
-その意味で、生命とは**Tracing Updating Practice（TUP）** そのものである。
+その意味で、生命とは**Trace Updating Practice（TUP）** そのものである。
 
 オートポイエーシスは、「生命は自己を産出する」という重要な洞察をもたらした。
 
@@ -364,9 +364,9 @@ lag
 
 [LET-MAP｜エディット・モード表と遷移マップ v0.1 ── lag-edit theory 運用ぬか床](https://camp-us.net/articles/LET-MAP_edit-mode_v0.1.html)  
 
-### 👉 そして、TUP（Tracing Updating Practice）へ
+### 👉 そして、TUP（Trace Updating Practice）へ
 
-> **生命とは、他者を摂取し、編集し、痕跡として排泄するTracing Updating Practiceである。**
+> **生命とは、他者を摂取し、編集し、痕跡として排泄するTrace Updating Practiceである。**
 > 
 > **TUPはTUPを生む。**
 > 

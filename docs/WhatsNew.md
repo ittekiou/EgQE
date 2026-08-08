@@ -25,7 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [TUP-GH-05｜にゃんこの季節とは何か ── 分かったつもりになる構文](https://camp-us.net/articles/TUP-GH-05_Cats-or-Dog.html)  
 ###### 2026/08/07  
 [TUP-00｜Trace Updating Practiceとは何か ── 扉のページ](https://camp-us.net/TUP-00_Gate_Trace-Updating-Practice.html)  
-[TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTracing Updating Practice](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)  
+[TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTrace Updating Practice](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)  
 [TUP-GH-01｜構文化の必然としての亡霊 ── Shadow Supportとしての亡霊](https://camp-us.net/articles/TUP-GH-01_Ghost-as-Shadow-Support.html)  
 [TUP-GH-02｜Traceをre-TUPする ── Encounterから始まるTrace論](https://camp-us.net/articles/TUP-GH-02_Encounter-re-TUP_Trace.html)  
 ###### 2026/08/05  

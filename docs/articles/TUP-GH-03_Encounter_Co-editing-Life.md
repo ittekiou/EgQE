@@ -5,7 +5,7 @@ title: TUP-GH-03｜共同編輯する生命 ── 自己編集の前史
 # 共同編輯する生命
 ## ── 自己編集の前史
 
-[生命とは、他者を摂取し、編集し、痕跡として排泄するTracing Updating Practiceである](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)。
+[生命とは、他者を摂取し、編集し、痕跡として排泄するTrace Updating Practiceである](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)。
 
 生命は、自らを編集する。
 
@@ -65,7 +65,7 @@ Self-editing
 
 ---
 
-[TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTracing Updating Practice](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)  
+[TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTrace Updating Practice](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)  
 [TUP-GH-02｜Traceをre-TUPする ── Encounterから始まるTrace論](https://camp-us.net/articles/TUP-GH-02_Encounter-re-TUP_Trace.html)
 
 ---

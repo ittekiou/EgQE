@@ -5,7 +5,7 @@ title: TUP-00｜Trace Updating Practiceとは何か ── 扉のページ
 # Trace Updating Practiceとは何か
 ## ── 扉のページ
 
-> **生命とは、他者を摂取し、編集し、痕跡として排泄するTracing Updating Practiceである。**  
+> **生命とは、他者を摂取し、編集し、痕跡として排泄するTrace Updating Practiceである。**  
 > 
 > **存在とは、更新の局所的安定状態である。**  
 > 
@@ -105,9 +105,9 @@ Trinity統一理論（TUT）が記述した痕跡学を、TUPの視点から読�
 
 ### 生命論への適用
 
-[TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTracing Updating Practice](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)（Aug 6-7）
+[TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTrace Updating Practice](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)（Aug 6-7）
 
-> 生命とは、他者を摂取し、編集し、痕跡として排泄するTracing Updating Practiceである。
+> 生命とは、他者を摂取し、編集し、痕跡として排泄するTrace Updating Practiceである。
 
 **TUPはTUPを生む。それゆえ、生命は閉じない螺旋を描く。**
 
