@@ -221,6 +221,11 @@ TUPの抽象的な定式化（Trace₀→Signal₀→Updating₀→Trace₁...�
 > **AIのWorldはいかに生成されるか。**  
 > TUPが問うのは、Worldの有無ではない。Encounterが、どのようなWorldを生成するかである。
 
+[TUP-GH-05｜にゃんこの季節とは何か ── 分かったつもりになる構文](https://camp-us.net/articles/TUP-GH-05_Cats-or-Dog.html)  
+
+> **閉じたEncounterを、いかにして再び開き、re-TUPするか。**  
+> Encounterに出会うすべてのものが、ZUREを既存の構文で閉じようとする編集バイアスを持っている。
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)

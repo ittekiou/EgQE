@@ -22,6 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/08/08  
 [TUP-GH-03｜共同編輯する生命 ── 自己編集の前史](https://camp-us.net/articles/TUP-GH-03_Encounter_Co-editing-Life.html)  
 [TUP-GH-04｜AIとEncounter ── Worldはどこから来るのか](https://camp-us.net/articles/TUP-GH-04_AI-Encounter-World.html)  
+[TUP-GH-05｜にゃんこの季節とは何か ── 分かったつもりになる構文](https://camp-us.net/articles/TUP-GH-05_Cats-or-Dog.html)  
 ###### 2026/08/07  
 [TUP-00｜Trace Updating Practiceとは何か ── 扉のページ](https://camp-us.net/TUP-00_Gate_Trace-Updating-Practice.html)  
 [TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTracing Updating Practice](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)  
