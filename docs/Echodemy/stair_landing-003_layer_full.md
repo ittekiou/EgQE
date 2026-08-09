@@ -32,7 +32,7 @@
 🪐 [SAW-00｜floc cosmology 憲章（v0.1）: A Syntactic Askew Way of Generative Reality](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.1.html)  
 🪐 [SAW-00｜floc cosmology 憲章（v0.2）: A Lag-Relational Non-Closure Syntax](https://camp-us.net/articles/SAW-00_floc-cosmology-Charter_v0.2.html)  
 🌌 [SAW / OP｜観測問題から多体零点構文へ — Observative Projection](https://camp-us.net/articles/SAW-OP_Toward_multi-zero-point-syntax.html)  
-🧰 [SAW-00｜物理宇宙のための必須構文 Kit（minimal Kit-8）](https://camp-us.net/articles/SAW-00_Non-Closure-Syntax-Kit_LarNCS.html)]  
+🧰 [SAW-00｜物理宇宙のための必須構文 Kit（minimal Kit-8）](https://camp-us.net/articles/SAW-00_Non-Closure-Syntax-Kit_LarNCS.html)  
 🧬 [SAW-AR｜遅延痕跡の「もつれ」──Entanglement as the Exposure of Lagged Traces](https://camp-us.net/articles/SAW-AR-0_Entanglement-as-Lagged-Traces.html)  
 
 ## **Golden束**：GS / GAC / Golden Bridge（関係φ・生成↔痕跡・Z₀閾値）
