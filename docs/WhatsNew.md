@@ -19,6 +19,11 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+
+[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（宣言版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating_manifesto.html)  
+[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（理論版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating.html)  
+[TUP-ED-02｜馴育から更新へ（草稿） ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。](https://camp-us.net/articles/TUP-ED-02_Draft_From-Discipline-to-Updating.html)  
+[TUP-ED-03｜デリダから「なぞり」へ ── Trace・différance・ZURE・Update（馴育から更新へ｜補論）](https://camp-us.net/articles/TUP-ED-03_Derrida-to-TUP_différance-ZURE.html)  
 ###### 2026/08/08  
 [TUP-GH-03｜共同編輯する生命 ── 自己編集の前史](https://camp-us.net/articles/TUP-GH-03_Encounter_Co-editing-Life.html)  
 [TUP-GH-04｜AIとEncounter ── Worldはどこから来るのか](https://camp-us.net/articles/TUP-GH-04_AI-Encounter-World.html)  
