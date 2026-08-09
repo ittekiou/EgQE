@@ -144,6 +144,11 @@ OR-00の「閉じない螺旋」が、政治・存在論・現象学を経由し
 > **閉じたEncounterを、いかにして再び開き、re-TUPするか。**  
 > Encounterに出会うすべてのものが、ZUREを既存の構文で閉じようとする編集バイアスを持っている。
 
+[TUP-GH-06｜AI臭とはなにか ── 亡霊はどっちだ：EncounterにおけるGhostの露出](https://camp-us.net/articles/TUP-GH-06_Which-is-Ghost_Encounter-Exposure.html)  
+
+> AI臭とは何か。ホモ・サピエンス臭とは何か。  
+> それらは、AIとHumanがEncounterしたとき、**互いを背景として初めて露出する差異**である。
+
 ## 更新存在の教育論へ
 
 ### TUP-ED-02｜**馴育から更新へ。**  
