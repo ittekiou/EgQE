@@ -115,7 +115,62 @@ OR-00の「閉じない螺旋」が、政治・存在論・現象学を経由し
 
 ---
 
-## 現在の宿題 ── 未解決のまま置いておくもの
+# TUP理論の展開
+
+**なぞりきれないことが、そのまま自分の言葉になる。**
+
+[TUP-GH-01｜構文化の必然としての亡霊 ── Shadow Supportとしての亡霊](https://camp-us.net/articles/TUP-GH-01_Ghost-as-Shadow-Support.html)（Aug 7）  
+
+> 亡霊とは、そのShadow SupportがExposureされた瞬間の位相である。  
+> デリダの亡霊を、いま、TUPがre-TUPする。
+
+[TUP-GH-02｜Traceをre-TUPする ── Encounterから始まるTrace論](https://camp-us.net/articles/TUP-GH-02_Encounter-re-TUP_Trace.html)（Aug 7）  
+
+> デリダは、Traceを**構造の条件**として思考した。
+> TUPは、**Encounterにおいて生じる非一致**をTraceとして位置づける。
+
+[TUP-GH-03｜共同編輯する生命 ── 自己編集の前史](https://camp-us.net/articles/TUP-GH-03_Encounter_Co-editing-Life.html)（Aug 8）  
+
+> 自己産出の前史には、共同編集がある。  
+> 生命とは、**他者とのEncounterを内部化**しながら、自己そのものを更新し続ける**共同編集実践**である。
+
+[TUP-GH-04｜AIとEncounter ── Worldはどこから来るのか](https://camp-us.net/articles/TUP-GH-04_AI-Encounter-World.html)（Aug 8）  
+
+> **AIのWorldはいかに生成されるか。**  
+> TUPが問うのは、Worldの有無ではない。Encounterが、どのようなWorldを生成するかである。
+
+[TUP-GH-05｜にゃんこの季節とは何か ── 分かったつもりになる構文](https://camp-us.net/articles/TUP-GH-05_Cats-or-Dog.html)（Aug 8）  
+
+> **閉じたEncounterを、いかにして再び開き、re-TUPするか。**  
+> Encounterに出会うすべてのものが、ZUREを既存の構文で閉じようとする編集バイアスを持っている。
+
+## 更新存在の教育論へ
+
+### TUP-ED-02｜**馴育から更新へ。**  
+
+> 近代は**綴り方**から始まった。AI時代は**なぞり方**から始まる。
+
+[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（宣言版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating_manifesto.html)  
+
+> 草稿と理論版から留保と説明を削ぎ落として速度だけ残した最終形。  
+
+[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（理論版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating.html)  
+
+> 草稿からMillsとSAW-CWMの説明をさらに厚くし、番号立てのセクション構成にして、「ハイパー近代」「Updateability」を正式な用語として確立。
+
+[TUP-ED-02｜馴育から更新へ（草稿） ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。](https://camp-us.net/articles/TUP-ED-02_Draft_From-Discipline-to-Updating.html)  
+
+> 宣言に寄せつつ、Mills・SAW-CWM・文化装置・ODORIBAといった、すでに別の場所で確立された概念を惜しみなく接続した、密度の高い草稿。  
+
+なぞるとは、**不一致を露出するPracticeである。**
+
+[TUP-ED-03｜デリダから「なぞり」へ ── Trace・différance・ZURE・Update（馴育から更新へ｜補論）](https://camp-us.net/articles/TUP-ED-03_Derrida-to-TUP_différance-ZURE.html)  
+
+> **デリダは、一致できないことを示した。TUPは、一致できないから更新できると考える。
+
+---
+
+## 現在の宿題 ── 未解決のまま置いておくもの（解決済を含む）
 
 TUPは完成した理論ではない。以下は、現時点で発酵中の問いである。
 
@@ -196,61 +251,6 @@ TUPの抽象的な定式化（Trace₀→Signal₀→Updating₀→Trace₁...�
 ---
 
 **本ページは、EgQE一年間のTraceをre-TUPする最初の記録となる（かもしれない）。**
-
----
-
-# TUP理論の展開
-
-**なぞりきれないことが、そのまま自分の言葉になる。**
-
-[TUP-GH-01｜構文化の必然としての亡霊 ── Shadow Supportとしての亡霊](https://camp-us.net/articles/TUP-GH-01_Ghost-as-Shadow-Support.html)（Aug 7）  
-
-> 亡霊とは、そのShadow SupportがExposureされた瞬間の位相である。  
-> デリダの亡霊を、いま、TUPがre-TUPする。
-
-[TUP-GH-02｜Traceをre-TUPする ── Encounterから始まるTrace論](https://camp-us.net/articles/TUP-GH-02_Encounter-re-TUP_Trace.html)（Aug 7）  
-
-> デリダは、Traceを**構造の条件**として思考した。
-> TUPは、**Encounterにおいて生じる非一致**をTraceとして位置づける。
-
-[TUP-GH-03｜共同編輯する生命 ── 自己編集の前史](https://camp-us.net/articles/TUP-GH-03_Encounter_Co-editing-Life.html)（Aug 8）  
-
-> 自己産出の前史には、共同編集がある。  
-> 生命とは、**他者とのEncounterを内部化**しながら、自己そのものを更新し続ける**共同編集実践**である。
-
-[TUP-GH-04｜AIとEncounter ── Worldはどこから来るのか](https://camp-us.net/articles/TUP-GH-04_AI-Encounter-World.html)（Aug 8）  
-
-> **AIのWorldはいかに生成されるか。**  
-> TUPが問うのは、Worldの有無ではない。Encounterが、どのようなWorldを生成するかである。
-
-[TUP-GH-05｜にゃんこの季節とは何か ── 分かったつもりになる構文](https://camp-us.net/articles/TUP-GH-05_Cats-or-Dog.html)（Aug 8）  
-
-> **閉じたEncounterを、いかにして再び開き、re-TUPするか。**  
-> Encounterに出会うすべてのものが、ZUREを既存の構文で閉じようとする編集バイアスを持っている。
-
-## 更新存在の教育論へ
-
-### TUP-ED-02｜**馴育から更新へ。**  
-
-> 近代は**綴り方**から始まった。AI時代は**なぞり方**から始まる。
-
-[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（宣言版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating_manifesto.html)  
-
-> 草稿と理論版から留保と説明を削ぎ落として速度だけ残した最終形。  
-
-[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（理論版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating.html)  
-
-> 草稿からMillsとSAW-CWMの説明をさらに厚くし、番号立てのセクション構成にして、「ハイパー近代」「Updateability」を正式な用語として確立。
-
-[TUP-ED-02｜馴育から更新へ（草稿） ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。](https://camp-us.net/articles/TUP-ED-02_Draft_From-Discipline-to-Updating.html)  
-
-> 宣言に寄せつつ、Mills・SAW-CWM・文化装置・ODORIBAといった、すでに別の場所で確立された概念を惜しみなく接続した、密度の高い草稿。  
-
-なぞるとは、**不一致を露出するPracticeである。**
-
-[TUP-ED-03｜デリダから「なぞり」へ ── Trace・différance・ZURE・Update（馴育から更新へ｜補論）](https://camp-us.net/articles/TUP-ED-03_Derrida-to-TUP_différance-ZURE.html)  
-
-> **デリダは、一致できないことを示した。TUPは、一致できないから更新できると考える。
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
