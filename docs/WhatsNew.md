@@ -19,7 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
-
+###### 2026/08/09  
 [TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（宣言版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating_manifesto.html)  
 [TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（理論版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating.html)  
 [TUP-ED-02｜馴育から更新へ（草稿） ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。](https://camp-us.net/articles/TUP-ED-02_Draft_From-Discipline-to-Updating.html)  

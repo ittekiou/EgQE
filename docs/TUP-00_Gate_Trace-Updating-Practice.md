@@ -228,6 +228,30 @@ TUPの抽象的な定式化（Trace₀→Signal₀→Updating₀→Trace₁...�
 > **閉じたEncounterを、いかにして再び開き、re-TUPするか。**  
 > Encounterに出会うすべてのものが、ZUREを既存の構文で閉じようとする編集バイアスを持っている。
 
+## 更新存在の教育論へ
+
+### TUP-ED-02｜**馴育から更新へ。**  
+
+> 近代は**綴り方**から始まった。AI時代は**なぞり方**から始まる。
+
+[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（宣言版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating_manifesto.html)  
+
+> 草稿と理論版から留保と説明を削ぎ落として速度だけ残した最終形。  
+
+[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（理論版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating.html)  
+
+> 草稿からMillsとSAW-CWMの説明をさらに厚くし、番号立てのセクション構成にして、「ハイパー近代」「Updateability」を正式な用語として確立。
+
+[TUP-ED-02｜馴育から更新へ（草稿） ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。](https://camp-us.net/articles/TUP-ED-02_Draft_From-Discipline-to-Updating.html)  
+
+> 宣言に寄せつつ、Mills・SAW-CWM・文化装置・ODORIBAといった、すでに別の場所で確立された概念を惜しみなく接続した、密度の高い草稿。  
+
+なぞるとは、**不一致を露出するPracticeである。**
+
+[TUP-ED-03｜デリダから「なぞり」へ ── Trace・différance・ZURE・Update（馴育から更新へ｜補論）](https://camp-us.net/articles/TUP-ED-03_Derrida-to-TUP_différance-ZURE.html)  
+
+> **デリダは、一致できないことを示した。TUPは、一致できないから更新できると考える。
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)

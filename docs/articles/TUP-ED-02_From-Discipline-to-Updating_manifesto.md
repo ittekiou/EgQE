@@ -288,8 +288,8 @@ AIを、**一致を完成させる装置**として使うのか。
 [TUP-ED-02｜馴育から更新へ（草稿）](https://camp-us.net/articles/TUP-ED-02_Draft_From-Discipline-to-Updating.html)  
 [TUP-ED-03｜デリダから「なぞり」へ（馴育から更新へ｜補論）](https://camp-us.net/articles/TUP-ED-03_Derrida-to-TUP_différance-ZURE.html)  
 
-- **宣言版(本稿)**：両方から留保と説明を削ぎ落として速度だけ残した最終形。  
-- **理論版**：原型からMillsとSAW-CWMの説明をさらに厚くし、番号立てのセクション構成にして、「ハイパー近代」「Updateability」を正式な用語として確立。  
+- **宣言版(本稿)**：草稿と理論版から留保と説明を削ぎ落として速度だけ残した最終形。  
+- **理論版**：草稿からMillsとSAW-CWMの説明をさらに厚くし、番号立てのセクション構成にして、「ハイパー近代」「Updateability」を正式な用語として確立。  
 - **草稿**：宣言に寄せつつ、Mills・SAW-CWM・文化装置・ODORIBAといった、すでに別の場所で確立された概念を惜しみなく接続した、密度の高い草稿。  
 
 理論版は、草稿の単純な拡張ではなく、**セクションごとに再編集されている**。  
