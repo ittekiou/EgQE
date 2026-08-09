@@ -10,7 +10,7 @@ title: AR-SAW-Axioms ──Absolute Relativity(AR) / Syntactic Askew Way (SAW)
 
 ---
 
->We present _**Syntactic Askew Way (SAW)**_, a minimal axiomatic framework that **reorients physical description** without introducing new entities or forces. By treating _**non-synchronizability**_ as primary, we define _**lag**_ as an inevitable feature of _**relational generation**_. Measurement, gravity, inertia, and quantum uncertainty are shown to arise as different modes of _**lag**_ inscription and recovery. _**SAW**_ is not proposed as a theoretical revolution, but as an _askew syntactic path_ that reveals already-visible structures from a slightly tilted viewpoint. (2016/01/14)
+>We present _**Syntactic Askew Way (SAW)**_, a minimal axiomatic framework that **reorients physical description** without introducing new entities or forces. By treating _**non-synchronizability**_ as primary, we define _**lag**_ as an inevitable feature of _**relational generation**_. Measurement, gravity, inertia, and quantum uncertainty are shown to arise as different modes of _**lag**_ inscription and recovery. _**SAW**_ is not proposed as a theoretical revolution, but as an _askew syntactic path_ that reveals already-visible structures from a slightly tilted viewpoint. (2026/01/14)
 
 > **Absolute Relativity（絶対相対性）** とは、**関係**（relation）が**非可逆・非同期・非結円的に更新**されることで、特権的原点を必要とせずに **相対的遅延**（lag）を生成する 最小条件である。 (2026/01/16)
 
