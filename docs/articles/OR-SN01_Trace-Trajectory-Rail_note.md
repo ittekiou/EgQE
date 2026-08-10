@@ -5,6 +5,9 @@ title: OR-SN01｜軌道はいつレールになるのか（要点メモ） ─�
 # OR-SN01｜軌道はいつレールになるのか
 ## ── 過去のTraceと未来の拘束
 
+👉 [OR-01｜レールは軌道ではない ── 月はダイヤグラムを走らない](https://camp-us.net/articles/OR-01_Rails-are-not-Trajectory.html)  
+
+---
 ### 要点メモ
 
 ### 発端
@@ -205,11 +208,11 @@ OR側ではまず、
 
 **6｜TrajectoryをRailにしないMannerとは何か。**
 
----
-
 > **軌道はいつレールになるのか。**
 
 **いつ・どこで・何によって変換されるのか。**
+
+👉 [OR-01｜レールは軌道ではない ── 月はダイヤグラムを走らない](https://camp-us.net/articles/OR-01_Rails-are-not-Trajectory.html)  
 
 ---
 

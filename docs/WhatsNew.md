@@ -23,6 +23,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SAW2-01｜Practice and Manner ── なぜ「作法」なのか：構文論から作法論へ](https://camp-us.net/articles/SAW2-01_Practice-and-Manner.html)  
 [TUP-GH-06｜AI臭とはなにか ── 亡霊はどっちだ：EncounterにおけるGhostの露出](https://camp-us.net/articles/TUP-GH-06_Which-is-Ghost_Encounter-Exposure.html)  
 [OR-SN01｜軌道はいつレールになるのか（要点メモ） ── 過去のTraceと未来の拘束](https://camp-us.net/articles/OR-SN01_Trace-Trajectory-Rail_note.html)  
+[OR-01｜レールは軌道ではない ── 月はダイヤグラムを走らない](https://camp-us.net/articles/OR-01_Rails-are-not-Trajectory.html)  
 [NZR-00｜なぞる学──生命の作法｜Nazoru Studies: The Manner of Life](https://camp-us.net/articles/NZR-00_Nazoru-Studies_Manner-of-Life.html)  
 [NZR-01｜なぞるかたち──謎類型論 v0.1｜Forms of Nazoru: A Typology of Nazoru v0.1](https://camp-us.net/articles/NZR-01_Forms-of-Nazoru_Typology_v0.1.html)  
 [NZR-02｜なぞる身体──世襲・音楽・お習字｜Bodys of Nazoru: Hereditary succession, music, calligraphy](https://camp-us.net/articles/NZR-02_Bodys-of-Nazoru_Hereditary-succession_music_calligraphy.html)  
