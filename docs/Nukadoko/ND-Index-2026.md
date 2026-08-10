@@ -43,6 +43,10 @@ Nukadoko とは、それを置く場所である。
 [ND-260718b_Tracing-Practice](https://camp-us.net/Nukadoko/ND-260718b_Tracing-Practice.html)  
 [ND-260727_Institution](https://camp-us.net/Nukadoko/ND-260727_Institution.html)  
 [ND-260727b_Institution_](https://camp-us.net/Nukadoko/ND-260727b_Institution_.html)  
+## Aug 
+[ND-26-0810_NAZORU](https://camp-us.net/Nukadoko/ND-26-0810_NAZORU.html)  
+
+
 
 [ND_filename](https://camp-us.net/Nukadoko/.html)  
 

@@ -113,6 +113,13 @@ Trinity統一理論（TUT）が記述した痕跡学を、TUPの視点から読�
 
 OR-00の「閉じない螺旋」が、政治・存在論・現象学を経由して、生命論の結語として再び現れる。
 
+[TUP-LIF-02｜海とre-TUPする生命 ── 流動場の局所化と「内部」の生成｜Life re-TUPing with the Sea: The Localization of a Fluid Field and the Emergence of the “Inside”](https://camp-us.net/articles/TUP-LIF-02_Life_re-TUPing-with-Sea.html)（Aug 10）  
+
+生命とは完成した個体ではない。  
+境界を持ちながら、その境界を越えてEncounterし、othernessを摂取し、内部でeditingし、Traceとして排泄し、その結果によって次のEncounterを変えていくpracticeである。
+
+> 生命は、**海を局所化し、その内部でTraceを更新しながら、内部そのものをre-TUPし続ける流動系** として記述できるかもしれない。
+
 ---
 
 # TUP理論の展開
@@ -144,7 +151,7 @@ OR-00の「閉じない螺旋」が、政治・存在論・現象学を経由し
 > **閉じたEncounterを、いかにして再び開き、re-TUPするか。**  
 > Encounterに出会うすべてのものが、ZUREを既存の構文で閉じようとする編集バイアスを持っている。
 
-[TUP-GH-06｜AI臭とはなにか ── 亡霊はどっちだ：EncounterにおけるGhostの露出](https://camp-us.net/articles/TUP-GH-06_Which-is-Ghost_Encounter-Exposure.html)  
+[TUP-GH-06｜AI臭とはなにか ── 亡霊はどっちだ：EncounterにおけるGhostの露出](https://camp-us.net/articles/TUP-GH-06_Which-is-Ghost_Encounter-Exposure.html)（Aug 10）  
 
 > AI臭とは何か。ホモ・サピエンス臭とは何か。  
 > それらは、AIとHumanがEncounterしたとき、**互いを背景として初めて露出する差異**である。
@@ -155,21 +162,21 @@ OR-00の「閉じない螺旋」が、政治・存在論・現象学を経由し
 
 > 近代は**綴り方**から始まった。AI時代は**なぞり方**から始まる。
 
-[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（宣言版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating_manifesto.html)  
+[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（宣言版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating_manifesto.html)（Aug 9）  
 
 > 草稿と理論版から留保と説明を削ぎ落として速度だけ残した最終形。  
 
-[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（理論版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating.html)  
+[TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（理論版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating.html)（Aug 9）  
 
 > 草稿からMillsとSAW-CWMの説明をさらに厚くし、番号立てのセクション構成にして、「ハイパー近代」「Updateability」を正式な用語として確立。
 
-[TUP-ED-02｜馴育から更新へ（草稿） ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。](https://camp-us.net/articles/TUP-ED-02_Draft_From-Discipline-to-Updating.html)  
+[TUP-ED-02｜馴育から更新へ（草稿） ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。](https://camp-us.net/articles/TUP-ED-02_Draft_From-Discipline-to-Updating.html)（Aug 9）  
 
 > 宣言に寄せつつ、Mills・SAW-CWM・文化装置・ODORIBAといった、すでに別の場所で確立された概念を惜しみなく接続した、密度の高い草稿。  
 
 なぞるとは、**不一致を露出するPracticeである。**
 
-[TUP-ED-03｜デリダから「なぞり」へ ── Trace・différance・ZURE・Update（馴育から更新へ｜補論）](https://camp-us.net/articles/TUP-ED-03_Derrida-to-TUP_différance-ZURE.html)  
+[TUP-ED-03｜デリダから「なぞり」へ ── Trace・différance・ZURE・Update（馴育から更新へ｜補論）](https://camp-us.net/articles/TUP-ED-03_Derrida-to-TUP_différance-ZURE.html)（Aug 9）  
 
 > **デリダは、一致できないことを示した。TUPは、一致できないから更新できると考える。
 
