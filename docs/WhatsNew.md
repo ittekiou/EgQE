@@ -25,6 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [OR-SN01｜軌道はいつレールになるのか（要点メモ） ── 過去のTraceと未来の拘束](https://camp-us.net/articles/OR-SN01_Trace-Trajectory-Rail_note.html)  
 [NZR-00｜なぞる学──生命の作法｜Nazoru Studies: The Manner of Life](https://camp-us.net/articles/NZR-00_Nazoru-Studies_Manner-of-Life.html)  
 [NZR-01｜なぞるかたち──謎類型論 v0.1｜Forms of Nazoru: A Typology of Nazoru v0.1](https://camp-us.net/articles/NZR-01_Forms-of-Nazoru_Typology_v0.1.html)  
+[NZR-02｜なぞる身体──世襲・音楽・お習字｜Bodys of Nazoru: Hereditary succession, music, calligraphy](https://camp-us.net/articles/NZR-02_Bodys-of-Nazoru_Hereditary-succession_music_calligraphy.html)  
 [TUP-LIF-02｜海とre-TUPする生命 ── 流動場の局所化と「内部」の生成｜Life re-TUPing with the Sea: The Localization of a Fluid Field and the Emergence of the “Inside”](https://camp-us.net/articles/TUP-LIF-02_Life_re-TUPing-with-Sea.html)  
 ###### 2026/08/09  
 [TUP-ED-02｜馴育から更新へ ── 近代は綴り方から始まった。AI時代はなぞり方から始まる。（宣言版）](https://camp-us.net/articles/TUP-ED-02_From-Discipline-to-Updating_manifesto.html)  
