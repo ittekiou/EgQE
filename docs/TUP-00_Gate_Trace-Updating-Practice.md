@@ -236,6 +236,16 @@ Trinity統一理論（TUT）とTrace Updating Practice（TUP）は、名称が�
 
 ---
 
+> **re-TUP never ends.**
+> 
+> **Because every ending becomes another Trace.**
+
+> **re-TUPは終わらない。**
+> 
+> **終わりは、次のTraceだから。**
+
+---
+
 なお、TUPは、noteにおける作業的理論としてのTPの展開から生まれた。
 
 ### TUP命名の正確な瞬間（note）
