@@ -5870,6 +5870,38 @@ HはTUPを擁護するための課題設定ではない。
 
 ---
 
+## Meta-note｜Five Principles — provisional
+
+Schrödinger坑道00の発掘過程から、現時点で以下の五原則が副産物として得られている。
+
+1. **Unknown is a result.**
+2. **Discovery is not acquisition; acquisition is not reading.**
+3. **Every judgment carries its own revision condition.**
+4. **Dependence must itself be audited.**
+5. **Correction is data.**
+
+これらは本研究の確立した方法論とはまだみなさない。
+
+### Meta-H｜五原則を覆しうる最小条件
+
+TUP Comparison Layerを実際に運用した結果、
+
+- 判定不能の保存
+- access / readingの区別
+- revision condition
+- dependence audit
+- correction history
+
+のいずれかが、比較実務において機能しない、または別の原則による修正・再編成が必要だと判明した場合、本五原則を更新する。
+
+したがって、
+
+> **Five Principles themselves remain revisable.**
+
+**Status：provisional｜坑道00閉坑時に再監査**
+
+---
+
 [TUP-LIF-03｜Schrödinger以後の生命論 ── われわれは生命の謎にどこまで迫ったのか（Research Protocol v0.2）](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Protocol_v0.2.html)  
 
 [TUP-00｜Trace Updating Practiceとは何か ── 扉のページ](https://camp-us.net/TUP-00_Gate_Trace-Updating-Practice.html)  
