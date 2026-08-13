@@ -13,6 +13,9 @@ title: TUP-LIF-03｜Schrödinger以後の生命論 ── われわれは生命�
 
 👉 [TUP-LIF-03｜Schrödinger以後の生命論 ── われわれは生命の謎にどこまで迫ったのか（Research Protocol v0.2）](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Protocol_v0.2.html)  
 
+**Methodological note:**  
+本研究の発掘過程から生じた監査原則については、後掲「Meta-note｜Five Principles — provisional」を参照（本頁末尾）。これらは研究開始時の前提ではなく、調査過程から生成した暫定原則である。
+
 ---
 
 # 坑道00｜1-A〜1-C 仮埋め v0.1
