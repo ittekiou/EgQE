@@ -4890,7 +4890,6 @@ Nicholsonは、
 
 > **生命にとって問題なのは
 > orderそのものなのか。
->
 > それとも、
 > order / disorder、
 > rigidity / flexibility、
@@ -5024,7 +5023,6 @@ Nicholson 2025 Direct Probeによって、Schrödinger以後の歴史を
 
 > **Schrödinger以後の生命研究は、
 > 1944年の問いへの回答史ではない。
->
 > それは、
 > 問いを分解し、
 > 問いを変形し、
@@ -6038,6 +6036,34 @@ Nicholson & Dupré (2018),
 > 論集全体のprocessual philosophyの
 > programmatic frameworkの中に位置づける。
 
+### 57-5 Addendum｜Continuity itself must be audited
+
+上記Direct Probeに、以下の確認項目を追加する。
+
+5. **2018 → 2025の間におけるNicholson自身の立場の持続・変化・限定**
+
+項目5では、2018年のprocessual philosophyが2025年までそのまま持続したことを前提としない。
+
+以下の可能性を開いたまま確認する。
+
+- continuity
+- modification
+- qualification
+- retreat
+- discontinuity
+- undetermined
+
+したがって、
+
+> Nicholson 2018 → Nicholson 2025
+
+という理論的連続性それ自体を、Direct Probeの前提ではなく**検証対象**として扱う。
+
+必要に応じて、2018–2025年間のNicholson自身の関連研究を確認する。
+
+**Genealogy remains:  
+CANDIDATE / NOT ESTABLISHED**
+
 ---
 
 ### 57-6｜判定保留
@@ -6082,6 +6108,12 @@ Nicholson 2018 Chapter 7 Direct Probe**
 
 **PB-01 ENTRY：
 TEMPORARILY HELD**
+
+----
+
+> **[Nicholson Background Audit v0.1｜独立作業ログ](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Nicholson-Background-Audit_RN.html)  へ分岐**  
+> 57-A以降の直接調査は別ログに移行。終了後、Return Memoのみ本研究ログへ追記する。  
+> **PB-01 ENTRY：TEMPORARILY HELD**
 
 ---
 
