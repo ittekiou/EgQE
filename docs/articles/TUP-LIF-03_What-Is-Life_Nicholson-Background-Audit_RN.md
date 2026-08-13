@@ -694,7 +694,7 @@ Nicholson 2018の議論は、次の系列として要約できる。
 
 ---
 
-## 57-B｜Nicholson 2018 Internal Summary v0.2
+## 57-B｜Nicholson 2018 Internal Summary v0.2 — Chapter 7 Direct Probe
 
 **対象**
 
@@ -834,7 +834,7 @@ Nicholsonは刺激に対するorganismの応答について、
 
 とする。
 
-そのためorganismは、そのindividual historical / developmental trajectoryを抜きに説明できない。Everything_Flows_Towards_a_Processual_Ph.pdfPDF
+そのためorganismは、そのindividual historical / developmental trajectoryを抜きに説明できない。
 
 したがって、事前仮説
 
@@ -972,9 +972,9 @@ organismのorganizationはstatic architectureではなく、environmentとのcon
 
 > **「Nicholsonは流れを語るが、前後・履歴・更新を背景化している」というDirect Probe前仮説は、そのままでは成立しない。**
 
-少なくとも2018 Chapter 7では、**irreversibility、history dependence、non-return、progressive modification、causal continuity**がかなり明示的に前景化されている。 Everything_Flows_Towards_a_Processual_Ph.pdfPDF
+少なくとも2018 Chapter 7では、**irreversibility、history dependence、non-return、progressive modification、causal continuity**がかなり明示的に前景化されている。 
 
-ただし――ここが次の坑口だな。笑
+ただし――
 
 **Nicholsonの「history / modification」と、われわれが言う「Update」は同じなのか？**
 
@@ -986,21 +986,1013 @@ organismのorganizationはstatic architectureではなく、environmentとのcon
 > **Causal continuity と Trace の差はどこにあるのか。**  
 > **Environment と Other の差はどこにあるのか。**
 
-おお。  
-Nicholson、思ってたよりだいぶ手強い。🤣
+Nicholsonがすでに持っている history / non-return / progressive modification / causal continuity は、どこまでUpdateなのか。
 
-そしてもう一個デカい。
+---
 
-**2018年の時点でSchrödinger批判の骨格が、すでにかなり出来ている。**
+さらに、**2018年の時点でSchrödinger批判の骨格が、すでにかなり出来ている。**
 
-だから次の2025精読は「2025で突然Schrödingerを批判し始めたのか」ではなく、
+次の2025精読は「2025で突然Schrödingerを批判し始めたのか」ではなく、
 
 > **2018のSchrödinger像を、2025で何を根拠にどう更新したのか**
 
-を見る仕事になった。
+を読むことになる。
 
-これは面白くなった。
+---
 
+## 57-C｜Nicholson 2025 Internal Summary v0.1 — Chapters 3, 4, 6 Direct Probe
+
+**対象**
+
+Daniel J. Nicholson, _What Is Life? Revisited_ (2025)
+
+- Ch.3 “A Critique of the Order-from-Order Principle”
+- Ch.4 “A Critique of the Order-from-Disorder Principle”
+- Ch.6 “Understanding Schrödinger’s Motives in What Is Life?”
+
+**Status:** FULL TEXT DIRECTLY READ  
+**Layer:** Nicholson-internal reconstruction  
+**2018→2025 continuity judgment:** NOT YET FINALIZED  
+**TUP comparison:** NOT YET PERFORMED
+
+### C-1｜2025年の批判対象は、すでにかなり明確
+
+NicholsonはSchrödingerのorder-from-order principleを、単に「遺伝情報が継承される」という穏当な主張として読まない。
+
+問題は、Schrödingerがbiological orderを**code-scriptに局在化し、それに発生・形態・機能を決定する特権的因果的位置を与えたこと**にある、と読む。
+
+さらにその系譜をTZDだけでなくMullerへ遡らせる。Nicholsonによれば、Mullerはgeneに存在論的・因果的priorityを与える強いgenocentric positionをすでに1920年代に提示しており、Schrödingerはかなりの部分でそれを継承している。
+
+したがって2025 Nicholsonの第一の修正は、
+
+> **aperiodic crystal / code-scriptを孤立したSchrödingerの天才的着想として読まない。**
+
+ということになる。
+
+---
+
+### C-2｜code-script ≠ genetic code
+
+ここはかなり重要。
+
+NicholsonはSchrödingerのcode-scriptを、後のgenetic codeの直接的先駆として読む標準的理解に異議を唱える。
+
+Schrödingerのcodeはcipher、つまり塩基配列→アミノ酸配列の対応規則というより、
+
+> **development全体を規定するrules / instructions**
+
+に近い。
+
+そのためNicholsonは、code-scriptの直接的後継候補を**genetic codeではなくgenetic program**に置く。
+
+そしてそこに三つの問題を見出す。
+
+1. neo-preformationism
+2. developmental computability
+3. genetic animism
+
+つまり、
+
+> genomeが未来のorganismを事前に指定し、  
+> developmentを計算可能にし、  
+> genesがその実行主体になる
+
+という構図である。
+
+---
+
+### C-3｜2025 Nicholsonのorder-from-order再構成
+
+Nicholsonはorder-from-orderそのものを捨てない。
+
+ここ、かなり重要だと思う。
+
+彼の結論は、
+
+> Schrödingerは「親から子へorderが伝達される」ことについては正しかった。
+
+しかし、
+
+> **そのorderのsole basisをDNAに置いたことが誤りだった。**
+
+というもの。
+
+DNAのstability自体もcellular contextから独立した固有属性ではなく、proofreading / correctionを含むcell全体の継続的活動によって達成される。
+
+Nicholsonの強い表現では、
+
+> genesがcellへstabilityを与えるのではなく、**逆である**。
+
+genetic stabilityはcell全体の**continuous accomplishment**である。
+
+さらにhereditary orderはDNAだけでなく、membranes、organelles、basal bodiesなどにも分散して継承される。最終的に、
+
+> order-from-orderはcell全体についてなら成立する。
+
+という着地になる。
+
+これは2018 Chapter 7との連続性候補としてかなり強い。
+
+---
+
+### C-4｜order-from-disorderも生命内部へ戻される
+
+Schrödingerはorder-from-disorderを主としてphysics / chemistryの統計的原理とし、生命の特徴的orderをそこから区別した。
+
+Nicholsonはこれを否定する。
+
+まずevolutionはpopulation levelで明白なorder-from-disorder phenomenonである。個々のeventはunpredictableでも、collective levelではstatistical regularityが生じる。
+
+さらにdevelopmentでも、
+
+> microscopic stochasticity  
+> → macroscopic regularity
+
+が成立しうる。
+
+cell fateは個別にはstochasticでも、embryo全体では安定したspatiotemporal patternが形成される。
+
+したがってNicholsonは、Schrödingerの二分法そのものを組み替える。
+
+> **Life = order-from-order + order-from-disorder**
+
+両方が必要である。
+
+---
+
+### C-5｜Prigogine問題、かなり精密になった
+
+ここは坑道00に直接効く。
+
+NicholsonはTuring → reaction-diffusion → self-organization → Prigogine / dissipative structuresという歴史的系列を明示している。organism自身もfar-from-equilibriumに維持される複雑なdissipative structureとして記述する。
+
+**しかし、それをSchrödinger→Prigogineの直接系譜とはしていない。**
+
+むしろ直後に、Schrödingerをbiological thermodynamicsのfoundational documentとして扱う現代的記述を批判する。
+
+Schrödingerがself-organization / steady state / open system / far-from-equilibriumという語を使っていないことを明記し、後知恵ならdissipative structuresの一部をanticipateしたとは読めるが、それ以上の系譜化には警告を発する。
+
+したがって以前の
+
+> Schrödinger → Prigogine direct genealogy
+
+を **DISPUTED** とした判定は、全文でも維持される。
+
+ただし、
+
+> Schrödingerが生命の熱力学問題を発見し、Prigogineがそれを解決した
+
+という単純な物語を否定することと、
+
+> non-equilibrium thermodynamicsが生命理解に重要でない
+
+ことは全く別。
+
+この二つは切り分ける必要がある。
+
+---
+
+### C-6｜そしてChapter 6。Nicholsonの一番強い主張
+
+Nicholsonは自分の批判が単なる2025年からの後知恵にならないよう、かなり慎重に入口を作っている。
+
+Schrödingerの見方は1944年当時のorthodoxyですらなく、**本人が選択した立場だった**、と主張する。
+
+そして執筆動機について、幼少期のbiologyへの関心やSemon、学際的好奇心などの既存説明を排除はしない。
+
+そのうえでprimary cause候補として、
+
+> **interwar quantum-mechanics controversy**
+
+を置く。
+
+しかもNicholson自身が明記しているが、これは完全な新説ではなく、**Yoxen (1977, 1979) と Sloan (2012)を継承した仮説**である。
+
+これはNicholson依存度監査にかなり重要。
+
+**「Nicholson 2025単独説」ではなかった。**
+
+---
+
+### C-7｜Nicholsonの動機仮説
+
+Nicholsonの再構成はかなり強い。
+
+SchrödingerはCopenhagen interpretation、とくにquantum indeterminacyをbiology / psychologyへ拡張し、free willの物理的基礎にしようとするBohrやJordanらの動きに反発していた。
+
+そこでSchrödingerはbiologyに、
+
+> classical physicsのmechanical / deterministic worldviewを救済できる物質的構造
+
+を探した。
+
+そしてgenetic materialのstabilityを使って、
+
+> lifeそのものはstrictly deterministicである
+
+ことを示そうとした、というのがNicholsonの中心仮説。
+
+つまりaperiodic crystalは単なるbiologyへの物理学的貢献ではなく、
+
+> **物理学内部のdeterminism / indeterminism論争へbiologyを投入した装置**
+
+として再配置される。
+
+これは1-Aをかなり動かしうる。
+
+---
+
+### C-8｜しかもNicholsonはarchive evidenceを三本出している
+
+Nicholsonはこの仮説を単なる思想的一貫性から推測していない。
+
+少なくとも本文では、
+
+- 1932–33 Przibram / Jordan関連資料
+- Donnanとの1930–40年代のcorrespondence
+- Darlingtonとのcorrespondence
+
+という異なるarchive sourcesを提示している。
+
+Przibram資料では、Jordanのquantum indeterminacy→free will論へのSchrödingerの反応とbiologyへの関心が接続される。
+
+Donnan資料では、SchrödingerがBohr的indeterminismをbiologyへ持ち込むことへ明確に反発し、1936年にもquantum indeterminacyからfree willを説明しようとする企てを批判していたことが確認される。
+
+したがってChapter 6は、少なくともNicholson内部ではかなり厚い史料的裏付けを持つ。
+
+---
+
+## 57-C｜暫定所見
+
+ここで2018→2025について、**まだ最終判定はしない**。
+
+ただし候補としてはかなり明瞭になった。
+
+2018では、
+
+> organism = process  
+> stability = continuous accomplishment  
+> order = dynamically maintained organization  
+> genes ≠ sovereign causal agents
+
+だった。
+
+2025ではこれがSchrödingerへ具体的に適用され、
+
+> genetic stability = continuous accomplishment of the whole cell  
+> order = distributed / contextual / self-organizing  
+> genetic code-script = excessively deterministic framing
+
+になっている。
+
+だから現時点では、
+
+**2018 → 2025 CONCEPTUAL CONTINUITY: STRONGLY INDICATED / NOT YET ESTABLISHED**
+
+2025を全文で読んだ結果、Nicholsonを単純に
+
+> 「process philosophyの立場からSchrödingerを批判した人」
+
+とだけ書くのは粗すぎる。
+
+Chapter 6では、自分のprocess ontologyだけで押しているのではなく、**Yoxen / Sloan + archival sourcesを使ってSchrödinger自身のhistorical contextへ戻ろうとしている。** 
+
+---
+
+### 57-D｜Nicholson 2018 → 2025 Continuity Audit
+
+#### D-0｜判定尺度
+
+本監査では、2018年の主張と2025年の主張の関係を以下の5区分で判定する。判定区分は比較実施前に固定し、比較結果に応じて変更しない。
+
+- **CONTINUITY** — 2018の主張が2025でも同じ強さ・同じ射程で維持されている。
+- **MODIFICATION** — 主張の骨格は維持されているが、適用範囲・強調点・語彙が変化している。
+- **QUALIFICATION** — 2018の主張に、2025で明示的な留保・例外・限定条件が追加されている。
+- **RETREAT** — 2018で強く主張された内容が、2025ではより弱い形でのみ維持されている。ただし明示的には否定されていない。
+- **DISCONTINUITY** — 2018の主張が2025では維持されず、別の主張に置き換えられている、または比較対象となる連続性を確認できない。
+
+**「2025では登場しない」だけでDISCONTINUITYにしない**。2025はSchrödinger本だから、2018のorganism論の論点が単に射程外で出てこない可能性がある。
+
+だから、
+
+> **NOT OBSERVED / OUT OF SCOPE**
+
+も**判定不能ラベル**として使えるようにしておく。
+
+これは六番目の「連続性判定」ではなく、そもそも5段階判定を適用できない場合の **Uラベル**。Unknown is a result の自己適用。
+
+そして比較軸は6本+1本で固定。
+
+> ① Ontology  
+> ② Stability  
+> ③ Organization  
+> ④ Stochasticity  
+> ⑤ Genes / DNA  
+> ⑥ Schrödinger Evaluation
+
+**① ontology**  
+organism = process は維持されているか。
+
+**② stability**  
+stability = intrinsic property ではなく continuous accomplishment という構図は維持されているか。
+
+**③ organization**  
+生命のorganizationを、局所要素ではなくwhole / context / distributed organizationとして扱う構図はどう変化したか。
+
+**④ stochasticity**  
+2018のprocessual organizationと、2025のorder-from-disorder / stochasticity / self-organizationがどう接続するか。
+
+**⑤ genes / DNA**  
+process ontologyが2025ではgenocentrism批判としてどう具体化されたか。
+
+**⑥ Schrödinger評価**  
+2018の理論的立場が、2025でSchrödingerの歴史的・思想史的再読へどこまで持ち込まれているか。
+
+最後に、
+
+> **D-7｜Permissible Use of Nicholson 2018 in Reading Nicholson 2025**
+
+を置いて、「2018を2025の背景として使える範囲／使ってはいけない範囲」を明記する。
+
+---
+
+## 57-D｜Nicholson 2018 → 2025 Continuity Audit
+
+### D-1｜Ontology
+
+**判定：CONTINUITY**
+
+2018の基礎命題は明瞭。
+
+> organismはactivityとは別に先に存在するthingではなく、活動し続けることがexistenceの条件である。
+
+Nicholson自身が第一のontological lessonを “Activity is a necessary condition for existence” としている。
+
+2025はprocess ontologyそのものを主題化した本ではない。しかし、cellを固定的構造の集合ではなく、coordinated subcellular processesによってgene stabilityそのものを産出するwholeとして扱っている。DNAは単独では何もしない、という構図も明示的である。
+
+さらに決定的なのは、2025が非平衡系としてorganismを扱う箇所で**Nicholson 2018自身を明示的に参照している**こと。
+
+したがって、
+
+**2018 process ontology → 2025で撤回・弱化された証拠なし。むしろ自己引用を伴って維持。**
+
+**CONTINUITY.**
+
+---
+
+### D-2｜Stability
+
+**判定：CONTINUITY — strong**
+
+ここはもっと強い。
+
+2018：
+
+> persistence is grounded in the continuous self-maintenance of form.
+
+しかもformは固定されるのではなく、developmentに伴って変化しながらactively maintainedされる。
+
+2025：
+
+> genetic stabilityはgenetic material固有の性質ではなく、cell全体によるcontinuous accomplishment。
+
+genesがcellを安定化するのではなく、**cellがgenesを安定化する**。
+
+これは単なる類似ではない。
+
+2018の
+
+**dynamic stability → active maintenance**
+
+が、2025では
+
+**genetic stability → cellular accomplishment**
+
+へ具体化されている。
+
+しかも2025は2018より対象を狭めただけで、原理を弱めていない。
+
+**CONTINUITY — STRONG.**
+
+---
+
+### D-3｜Organization
+
+**判定：CONTINUITY + MODIFICATION**
+
+2018では、Schrödingerのorder-from-orderをすでに明示的に批判している。
+
+Schrödingerはbiological orderをgenomeのcode-scriptへ局在化し、genesにdevelopmentをinitiate / control / directする力を与えすぎた、とする。対してNicholsonはontogenyを多数のcausal factorsが交差するprocessとして捉える。
+
+2018の代替案はかなりはっきりしていて、
+
+> genesはdevelopmentをdirectするのではなく、dynamically stableなself-organizationのpossible pathsをconstraintする。
+
+genomeはself-organization strategiesのdatabaseとして再記述される。
+
+2025ではこの構図を維持しつつ、さらに細胞生物学的に精密化する。
+
+genetic informationはdevelopmentのresourceであり、cellとexternal environmentのcontext内でのみ意味を持つ。
+
+つまり、
+
+**2018：processual / self-organizing organization**  
+↓  
+**2025：distributed, cellular-contextual organization**
+
+骨格は同じだが、Schrödinger批判として証拠と適用範囲が精密化された。
+
+よって、
+
+**CONTINUITY + MODIFICATION.**
+
+---
+
+### D-4｜Stochasticity
+
+**判定：MODIFICATION**
+
+ここは面白い。
+
+2018にもorder-from-disorderは明確にある。むしろ第三lessonの着地は、
+
+> biological orderはstatic order-from-order structureとしてpreformedなのではなく、epigenetic order-from-disorder processを通じてprogressively emergeする。
+
+だった。
+
+しかし2025では、これが大幅に精密化されている。
+
+gene expression自体のstochasticity、cell-fate decisions、microscopic disorderからmacroscopic regularityが生じるdevelopment、Turing patterns、reaction-diffusion、dissipative structuresまで展開される。
+
+さらに2025の最終形は、
+
+> **Life = order-from-order AND order-from-disorder.**
+
+前者はpropagation、後者はconservation、両方が長期的perpetuationに必要だとする。
+
+ここは2018より重要な変化がある。
+
+2018ではSchrödinger的order-from-orderからprocessual order-from-disorderへの**対抗軸**が強い。
+
+2025では、order-from-orderそのものを捨てず、**両者を生命の異なる構成過程として再統合している。**
+
+だから単純CONTINUITYではない。
+
+**MODIFICATION.**
+
+しかもかなり生産的なmodificationだと思う。
+
+---
+
+### D-5｜Genes / DNA
+
+**判定：CONTINUITY + QUALIFICATION**
+
+2018のgenocentrism批判はかなり強い。
+
+genomeはorganism全体をspecifyせず、developmentをinitiate/control/directしない。genesはself-organizationのpathをconstraintする。
+
+2025でもこれは完全に維持される。
+
+ただし、2025は一段慎重。
+
+NicholsonはSchrödingerについて、
+
+- hereditary orderのstreamがあること
+- DNAがaperiodic structureを持つこと
+- genomeがproteinのamino-acid constitutionをspecifyする意味で「code-script of sorts」であること
+
+までは明示的に認める。
+
+つまり、
+
+> **genes are not sovereign**
+
+は維持しながら、
+
+> **genes are nevertheless genuinely informational and causally important**
+
+を2018より明示的に回収している。
+
+したがって、
+
+**CONTINUITY + QUALIFICATION.**
+
+これは重要。
+
+2025 Nicholsonは、単純な「anti-gene」へ行っていない。
+
+---
+
+### D-6｜Schrödinger Evaluation
+
+**判定：MODIFICATION — major**
+
+ここが今回の監査の核心。
+
+2018ですでにSchrödinger批判の骨格は存在する。
+
+しかもかなり強い。
+
+2018 Nicholsonは、_What Is Life?_ がmodern mechanicist conception of organismic orderを生む一因になったとし、aperiodic crystal → code-script → genetic programという系列を提示している。
+
+したがって、
+
+> **2025になってprocess philosophyをSchrödingerへ初めて適用した**
+
+わけではない。
+
+これは明確に否定できる。
+
+しかし2025では、2018の存在論的批判をそのまま繰り返しているだけでもない。
+
+2025は、
+
+- code-script ≠ genetic code
+- code-script → genetic program
+- Muller genealogy
+- order-from-orderの部分的救済
+- order-from-disorderとの再統合
+- Yoxen / Sloan
+- archival evidence
+- quantum-mechanics controversy
+
+を追加して、**歴史的Schrödingerそのものの再構成**へ踏み込んでいる。
+
+したがって、
+
+**2018：process ontologyから見たSchrödinger批判**  
+↓  
+**2025：その批判を科学史・archive・現代biologyによって再検査したrevisionist historiography**
+
+と見るのが一番正確。
+
+**MODIFICATION — MAJOR.**
+
+---
+
+## D-7｜Permissible Use of Nicholson 2018 in Reading Nicholson 2025
+
+ここまでで線を引ける。
+
+### 使用してよい
+
+2018を2025の**theoretical background**として使うこと。
+
+特に、
+
+- process ontology
+- dynamic stability
+- self-maintenance
+- anti-genocentrism
+- self-organization
+- order without design
+
+については、強いcontinuityが確認された。
+
+さらに2025自身が2018を参照しているため、これは単なる外部からの系譜推測ではない。
+
+### 使用してはいけない
+
+2018から2025の**historical claims**を導くこと。
+
+とくに、
+
+- Schrödingerの執筆動機
+- quantum controversy
+- Muller / TZD genealogy
+- historical reception
+- Prigogineとの非直接系譜
+
+は2018 process ontologyから演繹できない。
+
+これらは2025で追加された独立したhistorical investigationとして扱う必要がある。
+
+したがって、
+
+> **Nicholson 2025 is theoretically continuous with Nicholson 2018.**
+
+は言える。
+
+しかし、
+
+> **Nicholson 2025 is merely an application of Nicholson 2018 to Schrödinger.**
+
+とは言えない。
+
+---
+
+## D-8｜Continuity Audit 結果
+
+|軸|判定|
+|---|---|
+|Ontology|**CONTINUITY**|
+|Stability|**CONTINUITY — strong**|
+|Organization|**CONTINUITY + MODIFICATION**|
+|Stochasticity|**MODIFICATION**|
+|Genes / DNA|**CONTINUITY + QUALIFICATION**|
+|Schrödinger Evaluation|**MODIFICATION — major**|
+
+**RETREAT：確認されず**  
+**DISCONTINUITY：確認されず**  
+**U / OUT OF SCOPE：主要6軸では不要**
+
+---
+
+・最初に警戒していた
+
+> 「Nicholson 2025はprocess philosophyという先行コミットメントからSchrödingerを読んだだけでは？」
+
+は、**半分YES、半分NO**。
+
+**YES**：2018から明確なtheoretical continuityがある。  
+**NO**：2025ではその立場自体を、Schrödingerのarchive・科学史・現代biologyへぶつけ直している。
+
+---
+
+## 52｜Pre-comparison Bias Log v0.2
+
+PB-03へ入る**前に**Bias Logへ追加。
+
+### **New Attraction Log｜Order Integration**
+
+Nicholson 2025は生命を  
+**order-from-order AND order-from-disorder**  
+の併存・再統合として記述する。
+
+この複数過程の同時的把握は、TUPのprocessual / updating vocabularyと構造的に共鳴して見える。
+
+**Status: NEW ATTRACTION / NOT EVIDENCE**  
+**Relevant PB: PB-03, PB-06, PB-07**  
+比較結果との一致それ自体をTUP有効性の証拠としては扱わない。
+
+👉 [TUP-LIF-03（研究ログ）](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Note_v0.1.html)  
+
+---
+
+・監査役が提案した **N｜Nicholson継続性照合**。
+
+これは全PBに恒久追加するより、**Nicholson 2025を証拠として使った判定にだけ発動するconditional field**にする。
+
+## 56｜TUP比較層 判定票 v0.2
+### ── Comparison Sheet A–H + conditional N
+
+### **N｜Nicholson continuity check**  
+Nicholson由来の証拠を使用した場合のみ記入する。
+
+1. 2018 theoretical framingとの連続性：あり／なし／不明
+2. 2025独自historical evidenceによる補強：あり／なし
+3. Route：A（Schrödinger → TUP）／B（Schrödinger → Nicholson → TUP）／Mixed／Undetermined
+
+👉 [TUP-LIF-03（研究ログ）](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Note_v0.1.html)  
+
+---
+
+# PB-01 Entry Re-Permission
+
+> **Previous status:** ENTRY PERMITTED → TEMPORARILY HELD  
+> **Current status:** **RE-PERMITTED — CONDITIONAL**
+> 
+> Nicholson 2018 → 2025 Continuity Auditにより、Nicholsonのtheoretical framingと2025独自のhistorical evidenceを分離して扱うための基準が得られた。
+> 
+> HOLDの原因となったRoute A / Route B混同リスクそのものが消滅したわけではない。  
+> **混同を監査可能にする判定装置が整備されたため、比較開始を再許可する。**
+
+---
+
+## 57-E｜Nicholson 2020 Direct Probe — Size, Scale, and the Aperiodic Crystal
+
+**Target**
+
+Daniel J. Nicholson (2020),  
+“On Being the Right Size, Revisited: The Problem with Engineering Metaphors in Molecular Biology”
+
+**Purpose**
+
+Nicholson 2018 → 2025の中間点として、以下を確認する。
+
+1. 2018 process ontologyとの連続性
+2. Schrödingerのaperiodic crystal評価
+3. scale / stochasticity / biological orderの配置
+4. genetic program批判との接続
+5. 2025 revisionist historiographyへの連続性候補
+6. PB-01〜PB-07への使用可能範囲
+
+**Status**
+
+DIRECT PROBE COMPLETED
+
+---
+
+### E-1｜2020年のNicholsonは、2018を撤回していない
+
+冒頭でNicholson自身が、それまでのmachine conception批判を明示的に二つへ整理している。
+
+- **Argument from Teleology**
+- **Argument from Thermodynamics**
+
+前者では、organismの活動は自身のorganizationのmaintenanceへ向けられるのに対し、machineの目的はexternal agentから与えられる。後者では、organismはmatter / energyをenvironmentと交換しながらfar-from-equilibriumのdynamic stabilityを維持するのに対し、machineはstatic stabilityを示す、と整理される。そしてNicholsonはこれらを2013/2014/2018の自分自身の議論として明示的に参照する。
+
+したがって、
+
+> Nicholson 2018 → Nicholson 2020  
+> processual / thermodynamic organism conception
+
+については、
+
+**CONTINUITY**
+
+と判定してよい。
+
+---
+
+### E-2｜ただし2020では第三のmachine批判が追加される
+
+Nicholsonは2020年論文で、新たに
+
+> **Argument from Scale**
+
+を第三の議論として導入する。
+
+細胞やmacromoleculeは極小であるため、われわれやmachineが存在するmacroscopic worldとは異なるphysical conditionsのもとにある。したがってmacroscopic machineをモデルとしてmicroscopic biological entityを理解すること自体にscale mismatchがある、という議論である。
+
+つまり、
+
+> Teleology  
+> Thermodynamics  
+> **Scale**
+
+という三本目の軸が加わった。
+
+判定：
+
+**2018 → 2020: MODIFICATION / EXTENSION**
+
+2018のprocess ontologyを弱めたのではなく、**物理的scale論によって補強している。**
+
+---
+
+### E-3｜Scale論の核心はBrownian worldである
+
+Nicholsonのscale論では、macroscopic worldとmicroscopic worldが異なるphysical regimeとして扱われる。
+
+macroscopic worldではgravity / inertiaが支配的なのに対し、cell / moleculeの世界ではBrownian motionが重要になる。したがって、われわれの日常的machine intuitionをそのまま分子世界へ移植することはできない。
+
+ここで重要なのは、
+
+> stochasticityは単なる「noise」ではない
+
+という点である。
+
+これは後の議論全体を貫く。
+
+---
+
+### E-4｜Genetic Program批判は、scaleとstochasticityによって具体化される
+
+Nicholsonはgenetic program metaphorについて、単に「遺伝子決定論だから誤り」と批判しているわけではない。
+
+gene expressionそのものがmolecular processであり、Brownian motionによるstochastic effectsを受ける。しかもcell内では関連分子のcopy numberが少なく、law of large numbersによってvariationを消すことができない。したがって、embryoをDNAからalgorithmically computeするようなdeterministic program modelには物理的限界がある。
+
+したがって2020では、
+
+> genetic program critique  
+> ↓  
+> scale  
+> ↓  
+> Brownian stochasticity  
+> ↓  
+> deterministic execution failure
+
+という具体的な物理的論拠が与えられている。
+
+**PB-02への関連：HIGH**
+
+ただしこれはSchrödinger自身のcode-script概念への直接批判とはまだ区別する必要がある。
+
+---
+
+### E-5｜Directionはstochasticityの反対ではない
+
+ここ、かなり重要。
+
+molecular motorについてNicholsonは、motor proteinがBrownian motionを力で打ち負かしてdirectionalに進むというmechanical modelではなく、
+
+> **existing Brownian motionを特定方向へbiasする**
+
+Brownian motor modelを紹介する。
+
+さらに、
+
+- mechanical motorはstochastic fluctuations **despite** に動く
+- Brownian motorはstochastic fluctuations **because of** に動く
+
+という対比まで明示される。個々のtrajectoryとtimingはnon-deterministicでありながら、general directionは生じる。
+
+これは今回のDirect ProbeではNicholsonの主張として保存し、TUPとの比較はまだしない。
+
+ただし、
+
+**ATTRACTION WARNING — HIGH**
+
+> stochasticity + bias → direction
+
+は明示的な事前警告対象。
+
+これはかなり危ない。笑
+
+---
+
+### E-6｜Schrödingerのaperiodic crystal論を、Nicholsonは「scale問題」から再構成する
+
+終盤でNicholsonは直接 _What Is Life?_ に戻る。
+
+重要なのは、Nicholsonがaperiodic crystalをいきなり「遺伝情報」の話として読んでいないことである。
+
+彼が再構成する順序は、
+
+> atomのsmallness  
+> → thermal agitation  
+> → stochasticity  
+> → law of large numbers  
+> → order-from-disorder  
+> → geneは小さすぎる  
+> → なのになぜstableなのか  
+> → crystal  
+> → aperiodic crystal  
+> → code-script  
+> → order-from-order
+
+である。
+
+したがって2020 Nicholsonにおいて、
+
+> **aperiodic crystal problem = size / scale problem**
+
+という読みがかなり明瞭に成立している。
+
+これはPB-01に直接関係する。
+
+**PB-01 relevance: MAXIMUM**
+
+---
+
+### E-7｜しかしNicholsonは、Schrödingerの解答に批判的である
+
+Nicholsonの再構成では、Schrödingerはgeneのstabilityをrigid solid-state crystal structureによって説明する。
+
+その結果、geneはmicroscopic worldを支配するthermal agitationから事実上隔離されたものとして扱われ、そのorderがproteinsその他のcell componentsへ安定して伝達されるという構図になる。
+
+Nicholsonはここに、後のmolecular biologyがscaleを忘れる契機を見ている。
+
+つまり、
+
+> Schrödingerはscale problemを発見した。  
+> しかし、その解答によってscale problemを消去する方向を開いた。
+
+という二重評価になっている。
+
+これは2018で確認した
+
+> Schrödinger評価の二重性
+
+をさらに具体化している。
+
+---
+
+### E-8｜2020年には、すでにSchrödingerについて歴史的因果仮説が提出されている
+
+Nicholsonはかなり踏み込んで、
+
+> Schrödingerのgene stability論が、後のmolecular biologyにおけるscale neglectの一因だった
+
+というhistorical hypothesisを提示する。
+
+その例としてMonodを挙げ、初期のstatistical / non-deterministic biological order理解から、後にはmacromoleculeのrigidity / stability / clockwork-like precisionを重視する方向へ移った可能性を論じている。
+
+ただしNicholson自身、
+
+> more historical research is needed
+
+と明示している。
+
+したがって判定は、
+
+**HISTORICAL GENEALOGY: HYPOTHESIS / NOT ESTABLISHED**
+
+ここは重要。
+
+2020 Nicholson自身がまだ慎重である。
+
+---
+
+### E-9｜2025への連続性候補
+
+ここから先は**2020本文からの観察＋既調査2025との比較仮説**であり、2020単独の主張ではない。
+
+2020ですでに、
+
+> Schrödingerを再読する  
+> → そのargument structureを再構成する  
+> → molecular biologyへのhistorical influenceを問う  
+> → historical evidenceがまだ不足していると認める
+
+ところまで来ている。
+
+したがって、
+
+> 2020 → 2025
+
+は単純なprocess ontologyの継続だけではなく、
+
+> **philosophical critique → historical investigation**
+
+への移行過程として読める可能性が高い。
+
+つまり2025のrevisionist historiographyは突然出現したわけではなく、**2020で未完だったhistorical hypothesisをarchive researchによって再検査する方向へ進んだ可能性**がある。
+
+判定：
+
+**GENEALOGY: STRONG CANDIDATE / NOT YET ESTABLISHED**
+
+---
+
+### E-10｜重要な限定：2020のSchrödinger批判を、そのまま2025へ持ち込んではならない
+
+ここは57-Dと同じ監査線を維持する。
+
+2020はSchrödingerのaperiodic crystal論を、
+
+**scale neglect → rigidity → machine conception**
+
+という系譜の重要な契機として批判的に読む。
+
+しかし2025がarchive evidenceその他によってこの評価を修正している可能性がある。
+
+したがって、
+
+> Nicholson 2020 → Nicholson 2025
+
+もまた**検証対象**であり、前提ではない。
+
+特に2020のhistorical hypothesisを2025のhistorical conclusionとして扱ってはならない。
+
+---
+
+## 57-E｜暫定判定
+
+**Nicholson 2018 → 2020**
+
+**CONTINUITY + MODIFICATION**
+
+processual / thermodynamic organism conceptionは持続している。
+
+ただし2020では、
+
+> Teleology
+> 
+> - Thermodynamics
+> - **Scale**
+
+へ拡張され、stochasticityがmachine critiqueの物理的核心として前景化する。
+
+そしてSchrödingerは、
+
+> scale problemを鋭く発見した人物
+
+であると同時に、
+
+> aperiodic crystal / order-from-orderによって、後のmolecular biologyがscaleを背景化する契機を与えた可能性のある人物
+
+として二重に評価される。
+
+一方、その歴史的因果関係についてNicholson自身が追加研究の必要を認めているため、
+
+**Schrödinger → molecular biology machine conception**
+
+の系譜は2020時点では、
+
+**HYPOTHESIS / NOT ESTABLISHED**
+
+とする。
+
+---
+
+> Loison 2015とLoison 2026が同一人物  
+> → **IDENTITY CHECK REQUIRED**
+> 
+> NicholsonとLoisonが近接した研究圏にいる  
+> → **COMMUNITY PROXIMITY: CANDIDATE / NOT ESTABLISHED**
+> 
+> Loison 2026書評が独立評価としてどの程度使えるか  
+> → **UNDETERMINED UNTIL DIRECT PROBE**
+
+> **Evidence Status Rule:**  
+> Nicholson自身がhypothesis / further research requiredとして提示した歴史的因果主張は、後続研究による独立確認なしにESTABLISHEDへ昇格させない。
+
+> **NEW ATTRACTION WARNING:**  
+> stochasticity / bias / direction  
+> **Comparison prohibited until relevant PB entry**
 
 ---
 
