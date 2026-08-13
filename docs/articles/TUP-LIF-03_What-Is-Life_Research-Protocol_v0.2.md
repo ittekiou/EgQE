@@ -228,6 +228,10 @@ TUPとの比較に進む前に、以下をすべて確認する。
 
 ---
 
+👉 [TUP-LIF-03｜Schrödinger以後の生命論 ── われわれは生命の謎にどこまで迫ったのか（研究ログ）](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Note_v0.1.html)  
+
+---
+
 # 4｜TUP比較層
 
 ここで初めてTUPを導入する。
@@ -322,7 +326,7 @@ Schrödinger自身は、生命の何を問題・謎として前景化したか�
 
 ---
 
-[TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTrace Updating Practice](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)
+[TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTrace Updating Practice](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)  
 [TUP-LIF-02｜海とre-TUPする生命 ── 流動場の局所化と「内部」の生成](https://camp-us.net/articles/TUP-LIF-02_Life_re-TUPing-with-Sea.html)  
 
 [TUP-00｜Trace Updating Practiceとは何か ── 扉のページ](https://camp-us.net/TUP-00_Gate_Trace-Updating-Practice.html)  
