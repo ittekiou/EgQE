@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/08/13  
+[TUP-LIF-03｜Schrödinger以後の生命論 ── われわれは生命の謎にどこまで迫ったのか（Research Protocol v0.2）](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Protocol_v0.2.html)  
+[TUP-LIF-03｜Schrödinger以後の生命論 ── われわれは生命の謎にどこまで迫ったのか（研究ログ）](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Note_v0.1.html)  
 ###### 2026/08/10  
 [SAW2-01｜Practice and Manner ── なぜ「作法」なのか：構文論から作法論へ](https://camp-us.net/articles/SAW2-01_Practice-and-Manner.html)  
 [TUP-GH-06｜AI臭とはなにか ── 亡霊はどっちだ：EncounterにおけるGhostの露出](https://camp-us.net/articles/TUP-GH-06_Which-is-Ghost_Encounter-Exposure.html)  
