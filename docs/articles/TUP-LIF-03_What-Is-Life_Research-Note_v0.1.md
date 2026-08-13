@@ -5873,6 +5873,218 @@ HはTUPを擁護するための課題設定ではない。
 
 ---
 
+# 57｜Nicholson Background Audit ── 2018 processual philosophy の発見
+
+**Status：OPEN｜精読前**
+
+Nicholson (2025) の依存度監査後、その理論的背景を確認する過程で、Daniel J. Nicholson が John Dupré とともに編集した以下の文献を確認した。
+
+Daniel J. Nicholson and John Dupré (eds.),
+*Everything Flows: Towards a Processual Philosophy of Biology*,
+Oxford University Press, 2018.
+
+本書は Oxford University Press より、CC BY-NC-ND 4.0 の条件で Open Access 公開されており、全文アクセス可能であることを確認した。
+
+**Access：FULL TEXT OPEN ACCESS CONFIRMED**
+
+---
+
+### 57-1｜今回確認できたこと
+
+本書は、生物学における processual philosophy を主題とする論集である。
+
+Nicholson自身が以下の章を執筆している。
+
+> Chapter 7  
+> “Reconceptualizing the Organism:
+> From Complex Machine to Flowing Stream”
+
+またNicholson & Dupréによる導入章も存在する。
+
+したがって少なくとも、
+
+> **Nicholsonが2025年以前から
+> processual philosophy of biology に明示的に関与していた**
+
+ことは確認できる。
+
+ただし現時点ではChapter 7を精読していない。
+
+したがって、
+
+> **Nicholson 2018のprocessual frameworkが
+> Nicholson 2025のSchrödinger解釈を
+> 具体的にどの程度方向づけているか**
+
+は未判定とする。
+
+---
+
+### 57-2｜Nicholson 2025依存度監査への影響
+
+48節ではNicholson (2025)を、
+
+- 査読付き媒体による最新研究
+- 出版後間もない修正史観
+- COMMUNITY VALIDATION：UNDETERMINED
+
+として扱った。
+
+今回の発見により、以下を追加する。
+
+> **THEORETICAL STANDPOINT：
+> PROCESSUAL PHILOSOPHY-ALIGNED — CONFIRMED**
+
+これは、
+
+> Nicholson (2025) が誤っている
+
+ことを意味しない。
+
+また、
+
+> Nicholson (2025) のSchrödinger批判が
+> 2018年の理論的立場によって決定された
+
+ことも現時点では意味しない。
+
+確認できたのは、
+
+> **Nicholson 2025を評価する際には、Nicholson自身がそれ以前から形成していた
+> processual philosophy of biologyという理論的背景も監査対象に含める必要がある**
+
+という点までである。
+
+---
+
+### 57-3｜Genealogy caution
+
+ここで新たな直接系譜を作らない。
+
+現時点では、
+
+> Nicholson 2018
+> → Nicholson 2025
+
+を確定した理論的系譜とは判定しない。
+
+**Genealogy：
+CANDIDATE / NOT ESTABLISHED**
+
+Nicholson 2018とNicholson 2025の間に概念的連続性が存在するかどうかは、両史料の直接比較によって判定する。
+
+これはSchrödinger → Prigogine直接系譜を一度撤回した本研究の監査履歴を踏まえた措置である。
+
+---
+
+### 57-4｜TUP比較層への影響
+
+本発見はPB-01開始前に処理する必要がある。
+
+理由は、TUP Comparison Layerにおいて比較される概念の一部が、
+
+> Schrödinger 1944
+> → Nicholson 2025による再構成
+> → TUP 2026
+
+という三段階を経ている可能性があるためである。
+
+したがって今後の比較では、可能な限り以下を分離する。
+
+**Route A｜Direct comparison**
+
+> Schrödinger 1944
+> → TUP 2026
+
+**Route B｜Historiographical reconstruction comparison**
+
+> Schrödinger 1944
+> → Nicholson 2025
+> → TUP 2026
+
+Route Bで確認された対応を、SchrödingerとTUPの直接的対応として扱わない。
+
+特にPB-03（order from order）、
+PB-06（organismic order）、
+PB-07（biological order）について注意する。
+
+---
+
+### 57-5｜Direct Probe — 最小調査計画
+
+PB-01開始前に、Nicholson Background Auditとして以下を直接確認する。
+
+**Primary probe**
+
+Nicholson (2018),
+“Reconceptualizing the Organism:
+From Complex Machine to Flowing Stream”
+
+確認項目：
+
+1. organism / machine / process / stability の配置
+2. metabolism / thermodynamics の位置づけ
+3. persistence / order の扱い
+4. 2025年Schrödinger再読との概念的連続性候補
+
+**Secondary probe（必要な場合のみ）**
+
+Nicholson & Dupré (2018),
+“A Manifesto for a Processual Philosophy of Biology”
+
+目的：
+
+> Nicholson単独の議論を、
+> 論集全体のprocessual philosophyの
+> programmatic frameworkの中に位置づける。
+
+---
+
+### 57-6｜判定保留
+
+現時点では以下を判定しない。
+
+- Nicholson 2018と2025は同一の理論的立場である
+- Nicholson 2025のSchrödinger批判はprocess philosophyによって生じた
+- Nicholsonのbiological order再構成は2018年のprocess ontologyの投影である
+- Nicholsonのprocessual philosophyとTUPは構造的に対応する
+
+最後の一点は特に重要である。
+
+Nicholson 2018の語彙には、TUPとの強い親和性を感じさせる可能性がある。
+
+しかしこれは新たな
+
+> **attraction**
+
+として扱い、
+
+TUP Comparison Layer開始前に対応を確定しない。
+
+---
+
+### 57-7｜暫定監査所見
+
+Schrödingerのforegroundを監査するために導入した
+Nicholson (2025)自身にも、歴史的・理論的foregroundが存在する可能性が確認された。
+
+したがって、
+
+> **Historiography itself has a standpoint.**
+
+ただしそのstandpointが、個別の歴史記述をどの程度方向づけたかは、史料ごとに別途判定しなければならない。
+
+**Status：
+Nicholson Background Audit — OPEN**
+
+**Next：
+Nicholson 2018 Chapter 7 Direct Probe**
+
+**PB-01 ENTRY：
+TEMPORARILY HELD**
+
+---
+
 ## Meta-note｜Five Principles — provisional
 
 Schrödinger坑道00の発掘過程から、現時点で以下の五原則が副産物として得られている。
