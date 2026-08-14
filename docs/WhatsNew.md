@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/08/14  
 [SAW2-02｜軽量・強度・自在性 ── 思考の足場を組む三つのManner](https://camp-us.net/articles/SAW2-02_Lightweight-Strong-Versatile_scaffold.html)  
+[SAW2-03｜梯子・板・足場 ── 梯子と板のEncounter Manner](https://camp-us.net/articles/SAW2-03_ladder-board-scaffold_Encounter-Manner.html)  
 ###### 2026/08/13  
 [TUP-LIF-03｜Schrödinger以後の生命論 ── われわれは生命の謎にどこまで迫ったのか（Research Protocol v0.2）](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Protocol_v0.2.html)  
 [TUP-LIF-03｜Schrödinger以後の生命論 ── われわれは生命の謎にどこまで迫ったのか（研究ログ）](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Note_v0.1.html)  
