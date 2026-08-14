@@ -81,10 +81,10 @@ latent Z₀ は自立しない。それを保持する条件が必要である�
 > ψ ≠ latent Z₀  
 > ただし、**ψ が latent Z₀ を保持する**
 
-| |定義|
-|---|---|
-|ψ|持続条件（updating-in-persistence）|
-|latent Z₀|境界条件（possible encounter boundary）|
+|           | 定義                                |
+| --------- | --------------------------------- |
+| ψ         | 持続条件（updating-in-persistence）     |
+| latent Z₀ | 境界条件（possible encounter boundary） |
 
 完全同期・完全閉包に近づくと ψ → 0 となり、latent Z₀ も消える。  
 持続があり、mismatch があり、未閉包があるから、潜在境界が保持される。

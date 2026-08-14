@@ -358,6 +358,12 @@ re-TUP可能性を残すMannerである。
 > TUPがPracticeを与え、SAWがMannerを引き受け、半熟状態がそのMannerを支える。
 
 ---
+
+_Syntactic Askew Way 2.0_  
+[SAW2-01｜Practice and Manner ── なぜ「作法」なのか：構文論から作法論へ](https://camp-us.net/articles/SAW2-01_Practice-and-Manner.html)  
+[SAW2-02｜軽量・強度・自在性 ── 思考の足場を組む三つのManner](https://camp-us.net/articles/SAW2-02_Lightweight-Strong-Versatile_scaffold.html)  
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
