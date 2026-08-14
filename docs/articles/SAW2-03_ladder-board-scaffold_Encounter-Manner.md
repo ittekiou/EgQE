@@ -182,13 +182,14 @@ Encounterする。
 
 次のEncounterのために。
 
-
 ---
 
 _Syntactic Askew Way 2.0_  
 [SAW2-01｜Practice and Manner ── なぜ「作法」なのか：構文論から作法論へ](https://camp-us.net/articles/SAW2-01_Practice-and-Manner.html)  
 [SAW2-02｜軽量・強度・自在性 ── 思考の足場を組む三つのManner](https://camp-us.net/articles/SAW2-02_Lightweight-Strong-Versatile_scaffold.html)  
 [SAW2-03｜梯子・板・足場 ── 梯子と板のEncounter Manner](https://camp-us.net/articles/SAW2-03_ladder-board-scaffold_Encounter-Manner.html)  
+
+_作法とは、つかいようである。_
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

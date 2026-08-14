@@ -156,6 +156,8 @@ _Syntactic Askew Way 2.0_
 [SAW2-02｜軽量・強度・自在性 ── 思考の足場を組む三つのManner](https://camp-us.net/articles/SAW2-02_Lightweight-Strong-Versatile_scaffold.html)  
 [SAW2-03｜梯子・板・足場 ── 梯子と板のEncounter Manner](https://camp-us.net/articles/SAW2-03_ladder-board-scaffold_Encounter-Manner.html)  
 
+_作法とは、つかいようである。_
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
