@@ -90,12 +90,15 @@ Try SyncHub!
 ⚡️ [φGenesisism 宣言](https://camp-us.net/Gφ.html)　2026.3.19  
 🌐 [Laggizm宣言｜The Age of Laggizm](https://camp-us.net/Age-of-Laggizm.html)　2026.3.22  
 🔡 [構文現象学宣言](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)　2026.4.23  
+🥚 [「半熟の哲学」🧠 脳存在宣言](https://camp-us.net/Encounteror_ergo-TUP_ergo-sum.html)　2026.8.20  
 
 ----
 
 # EgQE Core
 
 ![Lag-Bias-Generation](./assets/Lag-Bias-Generation.png)  
+
+[航海録｜軌道が地図へ変わった日｜2026-08-17](https://camp-us.net/Echodemy/Trace-of-Voyages.html)  
 
 [TUP-00｜Trace Updating Practiceとは何か ── 扉のページ](https://camp-us.net/TUP-00_Gate_Trace-Updating-Practice.html)  
 
@@ -154,6 +157,7 @@ Try SyncHub!
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
 GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
 [ZURE Inter-Phase Publisher](https://camp-us.net/E-Zypp/E-Zypp.html)  
+[研究成果 公開・保存・流通 運用ポリシー｜Research Output Publication, Archiving, and Circulation Policy](https://camp-us.net/Echodemy/Policy_Research-Output.html)  
 
 ---
 

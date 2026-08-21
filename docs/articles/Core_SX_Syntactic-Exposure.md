@@ -89,9 +89,11 @@ _— it is the moment flow becomes form_
 
 ---
 
-[SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)  
+[SX-MP-00｜地図は世界ではない｜Map Projection ── Trace・Bias・Projection](https://camp-us.net/articles/SX-MP-00_Map-Projection.html)  
 
 ---
+
+[SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)  
 
 [現象以前の自然哲学 ── なぜ夕焼けは「説明されても不思議」が残るのか](https://camp-us.net/articles/Physics-Explains-Sunset_Still-Feel-Strange.html)  
 

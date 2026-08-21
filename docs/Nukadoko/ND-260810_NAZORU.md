@@ -3,7 +3,7 @@ Nukadoko 👉 [ND-Index](https://camp-us.net/Nukadoko/ND-Index.html)
 > これは完成稿ではない。現れる前の構文である。
 
 ---
-# ND-26-0810｜NAZORU
+# ND-260810｜NAZORU
 
 **発酵開始：2026-08-10**  
 **発端：月と詩 → 音楽と「なぞる」 → なぞる学｜Nazoru Studies**  

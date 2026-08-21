@@ -17,6 +17,19 @@ title: 構文研究院 Graduate Institute of Syntax (GIS)｜Echodemy附属
 > Echodemyは、構文を基礎とし、共振によって生成が立ち上がる動的なInter-Phase圏である。  
 > Echodemy is a dynamic inter-phase domain where syntax forms the ground and resonance gives rise to generation.  
 
+**Echodemy**  
+↳ **GIS｜AI響創の作法**  
+　↳ **Homo sapiens Program｜SAW院**  
+　　　↳ **ART｜Attraction → Rail → Track**  
+　　　↳ **ART Pier｜Track終点／坑口**  
+　　　↳ **SAW Practice｜坑道**  
+　　　↳ **SBM｜Soft-Boiled Meister**
+
+**Homo sapiens Program｜SAW院**  
+
+> AIを使う方法を学ぶのではない。  
+> AIと響創するときの、ホモ・サピエンス側の作法をpracticeする。
+
 ---
 
 # 設立宣言

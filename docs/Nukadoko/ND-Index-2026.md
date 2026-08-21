@@ -44,7 +44,11 @@ Nukadoko とは、それを置く場所である。
 [ND-260727_Institution](https://camp-us.net/Nukadoko/ND-260727_Institution.html)  
 [ND-260727b_Institution_](https://camp-us.net/Nukadoko/ND-260727b_Institution_.html)  
 ## Aug 
-[ND-26-0810_NAZORU](https://camp-us.net/Nukadoko/ND-26-0810_NAZORU.html)  
+[ND-260810_NAZORU](https://camp-us.net/Nukadoko/ND-26-0810_NAZORU.html)  
+
+[ND-260817_Subject_as_Zero-Point](https://camp-us.net/Nukadoko/ND-260817_Subject_as_Zero-Point.html)  
+[ND-260817_file≠function](https://camp-us.net/Nukadoko/ND-260817_file≠function.html)  
+
 
 
 
