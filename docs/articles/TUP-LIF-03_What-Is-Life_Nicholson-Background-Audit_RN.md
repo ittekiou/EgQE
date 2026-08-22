@@ -974,7 +974,7 @@ organismのorganizationはstatic architectureではなく、environmentとのcon
 
 少なくとも2018 Chapter 7では、**irreversibility、history dependence、non-return、progressive modification、causal continuity**がかなり明示的に前景化されている。 
 
-ただし――
+ただし──
 
 **Nicholsonの「history / modification」と、われわれが言う「Update」は同じなのか？**
 

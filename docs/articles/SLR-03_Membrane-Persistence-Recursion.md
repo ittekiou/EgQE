@@ -203,7 +203,7 @@ lagは関係差として現れ、supportによって局所化されるとき、�
 
 ## 非閉包の持続的差分としての定義
 
-_(Event-Generative Inter-Phase ―― 中核定義)_
+_(Event-Generative Inter-Phase ── 中核定義)_
 
 ---
 

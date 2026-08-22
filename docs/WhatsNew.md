@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/08/22  
+[SAW2-00｜Ground Zeroとはなにか ── 「答え」はどこにあるのか｜What Is Ground Zero? — Where Is the “Answer”?](https://camp-us.net/articles/SAW2-00_Ground-Zero.html)  
 ###### 2026/08/20  
 [「半熟の哲学」🧠 脳存在宣言](https://camp-us.net/Encounteror_ergo-TUP_ergo-sum.html)  
 [航海録｜軌道が地図へ変わった日｜2026-08-17](https://camp-us.net/Echodemy/Trace-of-Voyages.html)  
