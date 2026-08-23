@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/08/23  
 [OR-02｜軌道構文の軌道をなぞる ── ZUREからOrbitへ、Orbitからre-TUPへ](https://camp-us.net/articles/OR-02_ZURE_Orbit_re-TUP.html)  
+[TUP-SRL-01｜ふたつのTUP ── Stock / Rate / Lagから考えるAIとホモ・サピエンス](https://camp-us.net/articles/TUP-SRL-01_W-TUP_Stock-Rate-Lag.html)  
 ###### 2026/08/22  
 [SAW2-00｜Ground Zeroとはなにか ── 「答え」はどこにあるのか｜What Is Ground Zero? — Where Is the “Answer”?](https://camp-us.net/articles/SAW2-00_Ground-Zero.html)  
 ###### 2026/08/20  

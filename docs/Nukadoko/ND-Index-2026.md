@@ -48,7 +48,7 @@ Nukadoko とは、それを置く場所である。
 [ND-260814_Decision-Persistence](https://camp-us.net/Nukadoko/ND-260814_Decision-Persistence.html)  
 [ND-260817_Subject_as_Zero-Point](https://camp-us.net/Nukadoko/ND-260817_Subject_as_Zero-Point.html)  
 [ND-260817_file≠function](https://camp-us.net/Nukadoko/ND-260817_file≠function.html)  
-
+[ND-260823_TUP-SRL_Re-Stock](https://camp-us.net/Nukadoko/ND-260823_TUP-SRL_Re-Stock.html)  
 
 
 
