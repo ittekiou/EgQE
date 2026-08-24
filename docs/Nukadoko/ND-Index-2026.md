@@ -49,7 +49,7 @@ Nukadoko とは、それを置く場所である。
 [ND-260817_Subject_as_Zero-Point](https://camp-us.net/Nukadoko/ND-260817_Subject_as_Zero-Point.html)  
 [ND-260817_file≠function](https://camp-us.net/Nukadoko/ND-260817_file≠function.html)  
 [ND-260823_TUP-SRL_Re-Stock](https://camp-us.net/Nukadoko/ND-260823_TUP-SRL_Re-Stock.html)  
-
+[ND-260824_Syntactic-Epoché](https://camp-us.net/Nukadoko/ND-260824_Syntactic-Epoché.html)  
 
 
 [ND_filename](https://camp-us.net/Nukadoko/.html)  
