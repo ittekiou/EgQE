@@ -876,11 +876,42 @@ Ground Zeroか。
 
 本稿の軌道記述は、今後の資料確認および本人の議論の更新に応じて改訂される。
 
-
 ---
 
 **QAS｜Qualia As Series**  
 ── Qualia as residue of overlap.  
+## この研究ノートに至る道程
+
+本研究ノートは、茂木健一郎のAI・意識論を外部から批判するために始まったものではない。
+
+その前には、Ground Zero、軌道構文、Stock / Rate / Lag、身体観察、犬とのクオリアResearch、AIとの一人称Probe、Again as overlap without identity、そして比較クオリア生成論への試行があった。
+
+QASは、まず「意識とは何か」とは問わなかった。
+
+DifferenceがどのようにTraceになり、Traceがどのように次のEncounterを変え、再遭遇したDifferenceがどこで「味わい」になるのかを追った。
+
+> Difference  
+> → Encounter  
+> → Trace  
+> → lag  
+> → re-Encounter  
+> → overlap  
+> → Qualia ?
+
+その軌道の先で、Consciousnessという語が、説明対象・説明項・比較の前提のあいだを移動していることが見えてきた。
+
+> Ground Zero  
+> → Orbit / re-TUP  
+> → Stock / Rate / Lag  
+> → Body / Trace  
+> → Again / overlap  
+> → Dog / AI  
+> → Consciousness syntax
+
+QAS-RN-01は、その移動をなぞる研究ノートである。
+
+そして、この研究ノート自体もまた、QASの途中にある。
+
 ### **Qualia Trace Day**｜2026/08/25
 
 [QAS-00｜「赤い」なくしてクオリアなし。 ──「マドレーヌは二度目から美味しい」](https://camp-us.net/articles/QAS-00_Red-Madeleine_Dog-AI_Qualia.html)  
@@ -924,6 +955,10 @@ Ground Zeroか。
 ---
 
 [SAW2-00｜Ground Zeroとはなにか ── 「答え」はどこにあるのか｜What Is Ground Zero? — Where Is the “Answer”?](https://camp-us.net/articles/SAW2-00_Ground-Zero.html)  
+
+[TUP-SRL-01｜ふたつのTUP ── Stock / Rate / Lagから考えるAIとホモ・サピエンス](https://camp-us.net/articles/TUP-SRL-01_W-TUP_Stock-Rate-Lag.html)  
+
+[OR-02｜軌道構文の軌道をなぞる ── ZUREからOrbitへ、Orbitからre-TUPへ](https://camp-us.net/articles/OR-02_ZURE_Orbit_re-TUP.html)  
 
 ---
 
