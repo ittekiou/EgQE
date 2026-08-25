@@ -50,6 +50,9 @@ Nukadoko とは、それを置く場所である。
 [ND-260817_file≠function](https://camp-us.net/Nukadoko/ND-260817_file≠function.html)  
 [ND-260823_TUP-SRL_Re-Stock](https://camp-us.net/Nukadoko/ND-260823_TUP-SRL_Re-Stock.html)  
 [ND-260824_Syntactic-Epoché](https://camp-us.net/Nukadoko/ND-260824_Syntactic-Epoché.html)  
+[ND-260824_Space-Syntax_SynEpoché](https://camp-us.net/Nukadoko/ND-260824_Space-Syntax_SynEpoché.html)  
+[ND-260825_Qualia](https://camp-us.net/Nukadoko/ND-260825_Qualia.html)  
+
 
 
 [ND_filename](https://camp-us.net/Nukadoko/.html)  

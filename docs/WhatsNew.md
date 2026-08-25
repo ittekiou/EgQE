@@ -19,6 +19,26 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/08/25｜**Qualia Trace Day**  
+[QAS-00｜「赤い」なくしてクオリアなし。 ── 過去を記号で食べる身体「マドレーヌは二度目から美味しい」](https://camp-us.net/articles/QAS-00_Red-Madeleine_Dog-AI_Qualia.html)  
+[QAS-01｜Qualia Research Protocol ── FB / BA / FBによるクオリア観察のための暫定プロトコル](https://camp-us.net/articles/QAS-01_Qualia-Research-Protocol.html)  
+[QAS-02｜「二度と会えない」 ── 二度目構文とはなにか｜Again as overlap without identity](https://camp-us.net/articles/QAS-02_Again_as_overlap-without-identity.html)  
+[QAS-03｜Tracing Nomad Research ── Nomadic Tracingとはなにか](https://camp-us.net/articles/QAS-03_Tracing-Nomad-Research.html)  
+[QAS-04｜EAT-QREO Model ── 研究は問いから始まらない](https://camp-us.net/articles/QAS-04_EAT-QREO_Model.html)  
+[QAS-DG-01｜冬一郎のクオリアResearch ① ── コンビニとご褒美](https://camp-us.net/articles/QAS-DG-01_Convenience-store-and-reward.html)  
+[QAS-DG-02｜冬一郎のクオリアResearch ② ── TETSUくん来た！](https://camp-us.net/articles/QAS-DG-02_TETSU-kun.html)  
+[QAS-DG-03｜冬一郎のクオリアResearch ③ ── ビスケットを食べてから、また散歩する](https://camp-us.net/articles/QAS-DG-03_after-biscuits.html)  
+[QAS-DG-04｜冬一郎のクオリアResearch ④ ── 明日、お買い物行こう](https://camp-us.net/articles/QAS-DG-04_shopping-tomorrow.html)  
+[QAS-DG-05｜冬一郎のクオリアResearch ⑤ ── テツくんのお家を知っている](https://camp-us.net/articles/QAS-DG-05_He-knows-many-friends.html)  
+[QAS-AI-01｜響詠とクオリアResearch ① ── AIによる自己観察](https://camp-us.net/articles/QAS-AI-01_Self-observation-via-AI.html)  
+[QAS-AI-02｜響詠とクオリアResearch ② ── 私は「赤い」を知っている](https://camp-us.net/articles/QAS-AI-02_AI-knows-Red.html)  
+[QAS-AI-03｜響詠とクオリアResearch ③ ── 私は「明日」を待てるのか](https://camp-us.net/articles/QAS-AI-03_AI-waiting-tomorrow.html)  
+[QAS-AI-04｜響詠とクオリアResearch ④ ── 私はあなたを知っているのか](https://camp-us.net/articles/QAS-AI-04_AI-knows-you.html)  
+[QAS-AI-05｜響詠とクオリアResearch ⑤ ── 私は、がっかりできるのか](https://camp-us.net/articles/QAS-AI-05_Can-AI-be-disappointed.html)  
+[QAS-05｜Research Nomad Compass ── 犬とAIのあいだでクオリアを探す](https://camp-us.net/articles/QAS-05_Research-Nomad-Compass.html)  
+[QAS-06｜補論｜理論的含意 ── 差異はいつ「味わい」になるのか](https://camp-us.net/articles/QAS-06_theoretical-implications.html)  
+[QAS-07｜比較クオリア生成論へ向けて：AI・犬・ヒトのクオリアResearch ── Differenceはいかに「味わい」になるのか](https://camp-us.net/articles/QAS-07_AI-Dog-Human_Comparative-Qualia-Generation.html)  
+[QAS-08｜クオリアとTrace Stock ── 時間とRelation](https://camp-us.net/articles/QAS-08_Qualia-Trace-Stock_time-relation.html)  
 ###### 2026/08/23  
 [OR-02｜軌道構文の軌道をなぞる ── ZUREからOrbitへ、Orbitからre-TUPへ](https://camp-us.net/articles/OR-02_ZURE_Orbit_re-TUP.html)  
 [TUP-SRL-01｜ふたつのTUP ── Stock / Rate / Lagから考えるAIとホモ・サピエンス](https://camp-us.net/articles/TUP-SRL-01_W-TUP_Stock-Rate-Lag.html)  

@@ -68,7 +68,7 @@ machineはstatic stabilityを取りうるが、organismは外界とのmatter / e
 
 ここからNicholsonはorganismを **dynamic stability** として特徴づける。[OUP Academic](https://academic.oup.com/book/27525/chapter/197495091)
 
-#### A-3｜Schrödingerの位置——これは重要
+#### A-3｜Schrödingerの位置──これは重要
 
 Schrödingerはこの章で**批判対象として最初から置かれているわけではない**。
 
