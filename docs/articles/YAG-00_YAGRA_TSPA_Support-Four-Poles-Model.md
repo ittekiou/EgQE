@@ -373,7 +373,7 @@ RAILは、directionもfixationも強い。
 
 ただし、DirectionとFixationだけでは粗い。
 
-そこでYAGRAでは、その下に四つの変数を置く。
+そこでYAGRAでは、その下に四つの観察軸を置く。
 
 **T｜Temporal Direction**  
 時間的な向きをどの程度指定するか。
@@ -627,6 +627,8 @@ Adhesionにも、重力、身体的接続、生命的依存、社会制度的拘
 **YAGRA.**
 
 このモデルにも、まだレールはない。
+
+_Don’t rush YAG to dragonfly._
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
