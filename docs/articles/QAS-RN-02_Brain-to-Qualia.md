@@ -255,7 +255,8 @@ RN-02では、**→** の位置を監査した。
 
 $$
 \text{Consciousness} \rightarrow \text{premise} \rightarrow \text{question again}
-$$  
+$$
+
 を扱ったのに対して、[RN-02](https://camp-us.net/articles/QAS-RN-02_Brain-to-Qualia.html)は、  
 
 $$
