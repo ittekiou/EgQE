@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/08/26  
 [QAS-RN-01｜QAS 【研究ノート】｜茂木AI・意識論の軌道 ── ConsciousnessはGround Zeroか](https://camp-us.net/articles/QAS-RN-01_Consciousness_Ground-Zero.html)  
+[QAS-RN-02｜QAS 【研究ノート】｜因果鉄道 Brain発 Qualia行 ── Qualia駅には辿り着かず](https://camp-us.net/articles/QAS-RN-02_Brain-to-Qualia.html)  
 ###### 2026/08/25｜**Qualia Trace Day**  
 [QAS-00｜「赤い」なくしてクオリアなし。 ── 過去を記号で食べる身体「マドレーヌは二度目から美味しい」](https://camp-us.net/articles/QAS-00_Red-Madeleine_Dog-AI_Qualia.html)  
 [QAS-01｜Qualia Research Protocol ── FB / BA / FBによるクオリア観察のための暫定プロトコル](https://camp-us.net/articles/QAS-01_Qualia-Research-Protocol.html)  
