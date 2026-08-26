@@ -520,6 +520,40 @@ And ZURE becomes visible.**
 「1998年のZURE」はこちらの後知恵か、当時すでに意識されていた制度的trade-offか。
 
 ---
+
+### 追記｜Syntaxは残っても、足場は変わる
+
+制度のSyntaxが持続することと、その制度を支えるSupportが持続することは同じではない。
+
+**Syntax Persistence ≠ Support Persistence**
+
+ローマ規程というSyntaxが存続していても、それを実効的に支える国家間協力、執行能力、政治的承認、資金その他のSupport configurationは変化しうる。
+
+逆に言えば、制度変動は必ずしもSyntaxの変更としてだけ現れるわけではない。
+
+**Syntaxは残ったまま、足場だけが変わることがある。**
+
+ICCは、このズレを観察するうえで興味深い事例である。
+
+世界政府という単一のGROUNDも、中央集権的な執行RAILも持たず、複数の国家その他のsupportに依存しながら制度を持続させている。
+
+したがって問うべきなのは、単に、
+
+**「ICCは存続するか」**
+
+だけではない。
+
+**「同じSyntaxが、どのようなSupport configurationの上でpersistしているのか」**
+
+である。
+
+制度のSyntaxを読むだけでは、制度の現在は見えない。
+
+その足元も見なければならない。
+
+> _Support configuration itself may require a separate model._
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
