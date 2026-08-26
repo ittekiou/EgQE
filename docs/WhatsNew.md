@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/08/27  
+[WO-01｜研究ノート｜ICCをささえるものはなにか ── Rome Statute, Syntax Persistence, and Support Transition](https://camp-us.net/articles/WO-01_Rome-Statute_Syntax-Support.html)  
 ###### 2026/08/26  
 [QAS-RN-01｜QAS 【研究ノート】｜茂木AI・意識論の軌道 ── ConsciousnessはGround Zeroか](https://camp-us.net/articles/QAS-RN-01_Consciousness_Ground-Zero.html)  
 [QAS-RN-02｜QAS 【研究ノート】｜因果鉄道 Brain発 Qualia行 ── Qualia駅には辿り着かず](https://camp-us.net/articles/QAS-RN-02_Brain-to-Qualia.html)  
