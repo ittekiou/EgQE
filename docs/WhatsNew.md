@@ -20,6 +20,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/08/27  
+[YAG-00｜YAGRA ── TSPA時空support四極モデル](https://camp-us.net/articles/YAG-00_YAGRA_TSPA_Support-Four-Poles-Model.html)  
 [WO-01｜研究ノート｜ICCをささえるものはなにか ── Rome Statute, Syntax Persistence, and Support Transition](https://camp-us.net/articles/WO-01_Rome-Statute_Syntax-Support.html)  
 ###### 2026/08/26  
 [QAS-RN-01｜QAS 【研究ノート】｜茂木AI・意識論の軌道 ── ConsciousnessはGround Zeroか](https://camp-us.net/articles/QAS-RN-01_Consciousness_Ground-Zero.html)  
