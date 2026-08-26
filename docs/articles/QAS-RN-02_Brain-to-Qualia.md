@@ -252,15 +252,18 @@ RN-02では、**→** の位置を監査した。
 ## QAS-RN
 
 [RN-01](https://camp-us.net/articles/QAS-RN-01_Consciousness_Ground-Zero.html)が、  
+
 $$
 \text{Consciousness} \rightarrow \text{premise} \rightarrow \text{question again}
 $$  
 を扱ったのに対して、[RN-02](https://camp-us.net/articles/QAS-RN-02_Brain-to-Qualia.html)は、  
+
 $$
 \text{Brain} \rightarrow \text{Qualia}
 $$
 
 の矢印を括弧に入れる。しかも、  
+
 $$
 \text{Rail} \neq \text{Orbit}
 $$
