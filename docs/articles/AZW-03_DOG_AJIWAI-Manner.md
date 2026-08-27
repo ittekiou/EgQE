@@ -2,7 +2,6 @@
 layout: math
 title: AZW-03｜犬と暮らすAJIWAIの作法 ── 犬は語らず、Traceを残す
 ---
-
 _**AZ(i)Why──AJIWAI Manner**_
 # 犬と暮らすAJIWAIの作法
 ## ── 犬は語らず、Traceを残す
@@ -830,6 +829,8 @@ _The magic of Again._
 [AZW-09｜膜とAJIWAI ── 生命はどこから味わい始めたのか](https://camp-us.net/articles/AZW-09_membrane_AJIWAI-Manner.html)  
 [AZW-10｜シナプス発火から膜接触へ ── 発火は膜からはじまる](https://camp-us.net/articles/AZW-10_Feeling_firing_AJIWAI-Manner.html)  
 [AZW-11｜膜なくして発火なし ── 生命の幕開け](https://camp-us.net/articles/AZW-11_Life_AJIWAI-Manner.html)  
+
+_摂取しない生命は物質に戻る。そして、自らが世界へ排泄される。_
 
 ---
 
