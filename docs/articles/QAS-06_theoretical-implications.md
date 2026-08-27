@@ -555,8 +555,18 @@ _The magic of Again._
 
 ---
 
-[QAS-RN-01｜QAS 【研究ノート】｜茂木AI・意識論の軌道 ── ConsciousnessはGround Zeroか](https://camp-us.net/articles/QAS-RN-01_Consciousness_Ground-Zero.html)  
-[QAS-RN-02｜QAS 【研究ノート】｜因果鉄道 Brain発 Qualia行 ── Qualia駅には辿り着かず](https://camp-us.net/articles/QAS-RN-02_Brain-to-Qualia.html)  
+## QAS-RN（Research note）
+
+[QAS-RN-01｜茂木AI・意識論の軌道 ── ConsciousnessはGround Zeroか](https://camp-us.net/articles/QAS-RN-01_Consciousness_Ground-Zero.html)  
+[QAS-RN-02｜因果鉄道 Brain発 Qualia行 ── Qualia駅には辿り着かず](https://camp-us.net/articles/QAS-RN-02_Brain-to-Qualia.html)  
+[QAS-RN-03｜シナプス発火と膜接触 ── 発火するのは脳だけか](https://camp-us.net/articles/QAS-RN-03_Brain-to-Membrane.html)  
+
+> RN-01は、駅を見た。  
+> RN-02は、線路を見た。  
+> RN-03で、膜を見た。
+
+**列車は、まだ走っている。**
+
 ### **Qualia Trace Day**｜2026/08/25
 
 [QAS-00｜「赤い」なくしてクオリアなし。 ──「マドレーヌは二度目から美味しい」](https://camp-us.net/articles/QAS-00_Red-Madeleine_Dog-AI_Qualia.html)  

@@ -249,8 +249,6 @@ RN-02では、**→** の位置を監査した。
 
 ---
 
-## QAS-RN
-
 [RN-01](https://camp-us.net/articles/QAS-RN-01_Consciousness_Ground-Zero.html)が、  
 
 $$
@@ -273,10 +271,15 @@ $$
 
 ---
 
+## QAS-RN（Research note）
+
 [QAS-RN-01｜茂木AI・意識論の軌道 ── ConsciousnessはGround Zeroか](https://camp-us.net/articles/QAS-RN-01_Consciousness_Ground-Zero.html)  
+[QAS-RN-02｜因果鉄道 Brain発 Qualia行 ── Qualia駅には辿り着かず](https://camp-us.net/articles/QAS-RN-02_Brain-to-Qualia.html)  
+[QAS-RN-03｜シナプス発火と膜接触 ── 発火するのは脳だけか](https://camp-us.net/articles/QAS-RN-03_Brain-to-Membrane.html)  
 
 > RN-01は、駅を見た。  
-> RN-02は、線路を見た。
+> RN-02は、線路を見た。  
+> RN-03で、膜を見た。
 
 **列車は、まだ走っている。**
 

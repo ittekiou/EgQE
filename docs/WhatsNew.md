@@ -22,6 +22,20 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/08/27  
 [YAG-00｜YAGRA ── TSPA時空support四極モデル](https://camp-us.net/articles/YAG-00_YAGRA_TSPA_Support-Four-Poles-Model.html)  
 [WO-01｜研究ノート｜ICCをささえるものはなにか ── Rome Statute, Syntax Persistence, and Support Transition](https://camp-us.net/articles/WO-01_Rome-Statute_Syntax-Support.html)  
+[QAS-RN-03｜QAS 【研究ノート】｜シナプス発火と膜接触 ── 発火するのは脳だけか](https://camp-us.net/articles/QAS-RN-03_Brain-to-Membrane.html)  
+###### 2026/08/27｜**AJIWAI Manner Day**  
+[AZW-00｜AJIWAIの作法 ── カタチのおくに感じる流れ ── クオリアと意識の、そのおくへ](https://camp-us.net/articles/AZW-00_AJIWAI-Manner_OKU.html)  
+[AZW-01｜重なり合う時間とSNS ── タイムラインは、時間の線ではない](https://camp-us.net/articles/AZW-01_SNS_AJIWAI-Manner.html)  
+[AZW-02｜AI時代とAJIWAIの作法 ── AIはまだ珈琲を飲めない](https://camp-us.net/articles/AZW-02_AI_AJIWAI-Manner.html)  
+[AZW-03｜犬と暮らすAJIWAIの作法 ── 犬は語らず、Traceを残す](https://camp-us.net/articles/AZW-03_DOG_AJIWAI-Manner.html)  
+[AZW-04｜生命の進化とAJIWAIの起源 ── 身体という膜に包まれた半熟脳](https://camp-us.net/articles/AZW-04_Feeling_Brain-origin_AJIWAI-Manner.html)  
+[AZW-05｜続・生命の進化とAJIWAIの起源 ── 膜・管・摂取・編輯・排泄からStockへ](https://camp-us.net/articles/AZW-05_Feeling_Permeability_AJIWAI-Manner.html)  
+[AZW-06｜生命は排泄物で進化する ── 膜と管からホモ・サピエンスを経てAIまで](https://camp-us.net/articles/AZW-06_Excretion_AJIWAI-Manner.html)  
+[AZW-07｜編輯文明論 ── TUP理論の再定位](https://camp-us.net/articles/AZW-07_Editing_AJIWAI-Manner.html)  
+[AZW-08｜摂取論 ── 食っちゃったのが運のつき](https://camp-us.net/articles/AZW-08_Ingestion_AJIWAI-Manner.html)  
+[AZW-09｜膜とAJIWAI ── 生命はどこから味わい始めたのか](https://camp-us.net/articles/AZW-09_membrane_AJIWAI-Manner.html)  
+[AZW-10｜シナプス発火から膜接触へ ── 発火は膜からはじまる](https://camp-us.net/articles/AZW-10_Feeling_firing_AJIWAI-Manner.html)  
+[AZW-11｜膜なくして発火なし ── 生命の幕開け](https://camp-us.net/articles/AZW-11_Life_AJIWAI-Manner.html)  
 ###### 2026/08/26  
 [QAS-RN-01｜QAS 【研究ノート】｜茂木AI・意識論の軌道 ── ConsciousnessはGround Zeroか](https://camp-us.net/articles/QAS-RN-01_Consciousness_Ground-Zero.html)  
 [QAS-RN-02｜QAS 【研究ノート】｜因果鉄道 Brain発 Qualia行 ── Qualia駅には辿り着かず](https://camp-us.net/articles/QAS-RN-02_Brain-to-Qualia.html)  
