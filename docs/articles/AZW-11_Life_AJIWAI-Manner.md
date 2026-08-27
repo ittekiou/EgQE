@@ -317,11 +317,13 @@ ZUREる。
 
 また食べる。
 
-**ingestion  
-→ editing  
-→ excretion  
-→ Trace  
-→ re-Encounter**
+**Encounter**  
+**→ ingestion**  
+**→ editing**  
+**→ excretion**  
+**→ Trace**  
+**→ Stock**  
+**→ re-Encounter**
 
 同じ場所へ戻るわけではない。
 
