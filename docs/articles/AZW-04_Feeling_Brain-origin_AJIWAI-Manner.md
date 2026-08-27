@@ -810,6 +810,22 @@ _The magic of Again._
 
 ---
 
+## **本シリーズは、生命構文論の試みである。**
+
+生命を、
+
+**Encounter → 摂取 → 編輯 → 排泄 → Trace → Stock → re-Encounter**
+
+という構文としてなぞる。
+
+生命は外部とEncounterし、取り込み、ZURE、編輯し、排泄する。  
+排泄された差異はTraceとなり、次のEncounterに効くStockとなる。  
+そして生命は、そのStockを帯びたまま、ふたたび外部とEncounterする。
+
+同じところへ戻るのではない。  
+
+**re-Encounterのたびに、AJIWAIが変わる。**
+
 ## _AZ(i)Why──AJIWAI Manner_  
 
 [AZW-00｜AJIWAIの作法 ── カタチのおくに感じる流れ ── クオリアと意識の、そのおくへ](https://camp-us.net/articles/AZW-00_AJIWAI-Manner_OKU.html)  
