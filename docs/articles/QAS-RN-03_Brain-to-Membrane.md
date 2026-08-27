@@ -763,6 +763,21 @@ membraneがあった。
 
 👉 [YAG-00｜YAGRA ── TSPA時空support四極モデル](https://camp-us.net/articles/YAG-00_YAGRA_TSPA_Support-Four-Poles-Model.html)  
 
+## _AZ(i)Why──AJIWAI Manner_  
+
+[AZW-00｜AJIWAIの作法 ── カタチのおくに感じる流れ ── クオリアと意識の、そのおくへ](https://camp-us.net/articles/AZW-00_AJIWAI-Manner_OKU.html)  
+[AZW-01｜重なり合う時間とSNS ── タイムラインは、時間の線ではない](https://camp-us.net/articles/AZW-01_SNS_AJIWAI-Manner.html)  
+[AZW-02｜AI時代とAJIWAIの作法 ── AIはまだ珈琲を飲めない](https://camp-us.net/articles/AZW-02_AI_AJIWAI-Manner.html)  
+[AZW-03｜犬と暮らすAJIWAIの作法 ── 犬は語らず、Traceを残す](https://camp-us.net/articles/AZW-03_DOG_AJIWAI-Manner.html)  
+[AZW-04｜生命の進化とAJIWAIの起源 ── 身体という膜に包まれた半熟脳](https://camp-us.net/articles/AZW-04_Feeling_Brain-origin_AJIWAI-Manner.html)  
+[AZW-05｜続・生命の進化とAJIWAIの起源 ── 膜・管・摂取・編輯・排泄からStockへ](https://camp-us.net/articles/AZW-05_Feeling_Permeability_AJIWAI-Manner.html)  
+[AZW-06｜生命は排泄物で進化する ── 膜と管からホモ・サピエンスを経てAIまで](https://camp-us.net/articles/AZW-06_Excretion_AJIWAI-Manner.html)  
+[AZW-07｜編輯文明論 ── TUP理論の再定位](https://camp-us.net/articles/AZW-07_Editing_AJIWAI-Manner.html)  
+[AZW-08｜摂取論 ── 食っちゃったのが運のつき](https://camp-us.net/articles/AZW-08_Ingestion_AJIWAI-Manner.html)  
+[AZW-09｜膜とAJIWAI ── 生命はどこから味わい始めたのか](https://camp-us.net/articles/AZW-09_membrane_AJIWAI-Manner.html)  
+[AZW-10｜シナプス発火から膜接触へ ── 発火は膜からはじまる](https://camp-us.net/articles/AZW-10_Feeling_firing_AJIWAI-Manner.html)  
+[AZW-11｜膜なくして発火なし ── 生命の幕開け](https://camp-us.net/articles/AZW-11_Life_AJIWAI-Manner.html)  
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
