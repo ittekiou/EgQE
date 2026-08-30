@@ -136,3 +136,91 @@ $$
 > **答えが一個増えたのではない。問いの次元が一個増えた。**
 
 この「おいぬか」全体を、新理論、新定義、既存概念の統合として扱わない。Trace、effective absence、消え現れ、Again、relation、矢印、HOWの近接が露出した時点の Raw Trace / Probe として保存する。
+
+---
+
+# おいぬか｜HOW TUP / 5W Trace Probe
+
+> **Status:** Raw Trace / 未決Probe
+>
+> 今回の会話で生じた語・式・構文監査を、既存項へ統合せず、確定せず、発生時のTraceとして末尾に保存する。
+
+### Raw Trace
+
+> **HOW TUP!**
+
+> **5Wは痕跡だよね。**
+
+HOW TUP! が5WをTraceする可能性。
+
+5W（WHAT / WHEN / WHERE / WHO / WHY）をHOWと同列の先在的な箱として扱わず、HOW TUPのあとに残るTraceの様態として読むProbe。
+
+$$
+HOW\ TUP!
+\;?_{\mathrm{Trace}}\;
+5W
+$$
+
+$$
+5W
+\;?_{\mathrm{HOW}}\;
+Trace
+$$
+
+> **HOWは消え現れる。5Wは痕跡として残る。**
+
+`it` を置くと、HOW TUPより前にWHATを先置きしてしまうのではないか、という構文監査。
+
+WHOを主体として、WHYをIntentとして先置きすることも避ける。WHOやWHY（Intent）がTraceから事後的に露出／帰属される可能性を、未決のまま保存する。
+
+$$
+Intent_{\mathrm{before}}
+\;?_{\mathrm{HOW\ TUP}}\;
+Trace
+\;?_{\mathrm{Again}}\;
+Intent_{\mathrm{after}}
+$$
+
+> **WHAT Traceを見て、HOW TUPを読む。**
+
+> **HOW TUP! ── Trace 5W.**
+
+### 遭遇・食う・Edit・排泄／Trace Stock
+
+$$
+HOW_n(TUP)
+\;?_{\mathrm{Trace}}\;
+Stock_n
+\;?_{\mathrm{Again}}\;
+HOW_{n+1}(TUP)
+$$
+
+遭遇・食う・Edit・排泄のなかで、StockはWHATだけでなく、HOWのTraceも残す可能性がある。そのHOWのTraceが次のHOW TUPにAgainするかは未決。
+
+### 炎 Collapse Test
+
+外部Traceである石油を炎へ注ぐと、HOW燃えるは変わる。したがって、**「TraceがHOWを変える＝TUP」**とは確定できない。
+
+問われたまま残るのは、自らのHOWがTraceとして残り、そのTraceが次のHOWにAgainするかどうかである。炎にも物理的履歴依存がありうるため、これを生命との境界やTUPの定義として確定しない。
+
+> **Traceとは、消え現れを止めるものではない。次の消え現れ方を変えるものだ。**
+
+以上を、HOW、5W、Trace、Stock、Again、Intentの定式化や因果系列としてではなく、次のre-Encounterのための Raw Trace / 未決Probeとして保存する。
+
+---
+
+**HOW TUP!**  
+**Life HOW!**  
+**IMAKOKO — WHEN / WHERE Trace.**  
+**5W Trace.**
+
+**Again re-TUPs!**
+
+**Shadow is what Again leaves behind.**  
+•	見えないのに見えるから Shadow.
+•	掴めないのが Shadow.
+•	逃げるのが Shadow.
+•	ついていくのが Shadow.  
+**ShadowはStockできない**
+
+矢印（→）は二度目構文（Trace relation）。
