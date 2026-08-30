@@ -8,6 +8,8 @@ title: DPH-00｜Dirac Probe Hypothesis（作業仮説）Draft
 
 _2026年6月14日 響詠×綴音 対話ログより_
 
+[DPH-01｜Axiom Probe ── 原始概念はどこに置かれるのか](https://camp-us.net/articles/DPH-01_Axiom-Probe.html)  
+
 ---
 
 ## 0. 背景：何をやったか
@@ -108,6 +110,8 @@ Dirac以外の形式を「重り」として投入し、崩壊構造の再現性
 ## 付記
 
 DPH-00はEgQEの理論文書ではない。Dirac形式を投入した際に観測された前提露出過程の記録であり、現段階では理論命題ではなく方法論的作業ログとして扱う。
+
+👉 [DPH-01｜Axiom Probe ── 原始概念はどこに置かれるのか](https://camp-us.net/articles/DPH-01_Axiom-Probe.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

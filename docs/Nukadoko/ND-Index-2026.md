@@ -52,6 +52,7 @@ Nukadoko とは、それを置く場所である。
 [ND-260824_Syntactic-Epoché](https://camp-us.net/Nukadoko/ND-260824_Syntactic-Epoché.html)  
 [ND-260824_Space-Syntax_SynEpoché](https://camp-us.net/Nukadoko/ND-260824_Space-Syntax_SynEpoché.html)  
 [ND-260825_Qualia](https://camp-us.net/Nukadoko/ND-260825_Qualia.html)  
+[ND-260830_TUP-Again](https://camp-us.net/Nukadoko/ND-260830_TUP-Again.html)  
 
 
 

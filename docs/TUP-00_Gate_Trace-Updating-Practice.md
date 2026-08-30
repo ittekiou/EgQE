@@ -120,6 +120,16 @@ OR-00の「閉じない螺旋」が、政治・存在論・現象学を経由し
 
 > 生命は、**海を局所化し、その内部でTraceを更新しながら、内部そのものをre-TUPし続ける流動系** として記述できるかもしれない。
 
+[TUP-LIF-03｜Schrödinger以後の生命論 ── われわれは生命の謎にどこまで迫ったのか（Research Protocol v0.2）](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Protocol_v0.2.html)（Aug 13）  
+[TUP-LIF-03｜Schrödinger以後の生命論 ── われわれは生命の謎にどこまで迫ったのか（研究ログ）](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Note_v0.1.html)（Aug 13）  
+
+> 本研究は、次の二つの問いを区別しながら追跡する。  
+> **われわれは生命の謎にどこまで迫ったのか。**  
+> **われわれは、何を「生命の謎」だと考えてきたのか。**  
+> 第一の問いは、生命研究が何を説明できるようになったかを問う。  
+> 第二の問いは、それぞれの時代・理論が、生命現象の何を中心的な問題として前景化してきたかを問う。  
+..._ongoing_
+
 ---
 
 # TUP理論の展開
@@ -156,6 +166,12 @@ OR-00の「閉じない螺旋」が、政治・存在論・現象学を経由し
 > AI臭とは何か。ホモ・サピエンス臭とは何か。  
 > それらは、AIとHumanがEncounterしたとき、**互いを背景として初めて露出する差異**である。
 
+[TUP-SRL-01｜ふたつのTUP ── Stock / Rate / Lagから考えるAIとホモ・サピエンス](https://camp-us.net/articles/TUP-SRL-01_W-TUP_Stock-Rate-Lag.html)（Aug 23）  
+
+> **AIもTUPしているのだろうか。**  
+> もしそうだとすれば、AIのTUPとホモ・サピエンスのTUPは同じなのだろうか。  
+> この問いを、**Stock / Rate / Lag** という三つの観点から考えてみる。
+
 ## 更新存在の教育論へ
 
 ### TUP-ED-02｜**馴育から更新へ。**  
@@ -183,6 +199,12 @@ OR-00の「閉じない螺旋」が、政治・存在論・現象学を経由し
 ---
 
 _足場は大事。でも揺らぐ。_
+
+---
+
+## TUP-Again ── “What” to “How”
+
+[TUP-01｜TUP-Again ──「何が更新するか」から「更新はいかにあるか」へ｜ From “What Updates?” to “How Is Updating?”](https://camp-us.net/articles/TUP-01_TUP-Again_How-Is-Updating.html)（Aug 30）  
 
 ---
 
