@@ -19,6 +19,12 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+
+###### 2026/08/31
+[Homo editus ── 編集する種、編集される種｜A Study of the Editing Element in Human Culture](https://camp-us.net/articles/Homo-Editus_v0.9.html)  
+[CG-01｜プロンプトより現場の足場｜Scaffold before Prompt ── A Support Theory of Human–AI Co-Generation](https://camp-us.net/articles/CG-01_Scaffold-before-Prompt_Co-editus.html)  
+###### 2026/08/30  
+[TUP-01｜TUP-Again ──「何が更新するか」から「更新はいかにあるか」へ｜ From “What Updates?” to “How Is Updating?”](https://camp-us.net/articles/TUP-01_TUP-Again_How-Is-Updating.html)  
 ###### 2026/08/27  
 [YAG-00｜YAGRA ── TSPA時空support四極モデル](https://camp-us.net/articles/YAG-00_YAGRA_TSPA_Support-Four-Poles-Model.html)  
 [WO-01｜研究ノート｜ICCをささえるものはなにか ── Rome Statute, Syntax Persistence, and Support Transition](https://camp-us.net/articles/WO-01_Rome-Statute_Syntax-Support.html)  
