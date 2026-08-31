@@ -7,6 +7,8 @@ title_en: Homo editus ── A Study of the Editing Element in Human Culture
 ## **── 編集する種、編集される種**
 ### _A Study of the Editing Element in Human Culture_
 
+![Homo-editus](../assets/Homo-editus.png)  
+
 # **序説｜Homo editus**
 ## **── 生命現象としてのEditingの本質と意味**
 
@@ -5868,6 +5870,8 @@ $$
 $$
 \boxed{ Matter \xrightarrow[\text{for Ingestion}]{Edit} Food } \qquad \boxed{ Matter \xrightarrow[\text{for Use}]{Edit} Tool }
 $$
+
+![Homoeditus](../assets/Homoeditus.png)  
 
 さて。
 
