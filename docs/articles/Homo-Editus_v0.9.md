@@ -13,6 +13,8 @@ $$
 \begin{array}{c} sapiens\\ faber\\ ludens\\ loquens\\ symbolicus\\ smartphoneiensis\ldots \end{array} \quad \overset{\text{re-read}}{\longrightarrow} \quad \boxed{Homo\ editus}
 $$
 
+---
+
 # **序説｜Homo editus**
 ## **── 生命現象としてのEditingの本質と意味**
 
