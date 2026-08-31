@@ -747,8 +747,6 @@ $$
 \boxed{\textit{sub specie editionis}}
 $$
 
----
-
 # **I｜IP**
 ## **── Digitalized Informatization**
 ### **情報を編集する種、情報に編集される種**
