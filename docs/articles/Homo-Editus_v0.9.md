@@ -745,6 +745,31 @@ Homo editus.
 
 ---
 
+## Homo editus（目次）
+#### 序説｜Homo editus── 生命現象としてのEditingの本質と意味
+#### I｜IP── Digitalized Informatization
+情報を編集する種、情報に編集される種
+#### II｜通信── Telecommunicationization
+身体を運ばずにrelationを運ぶ
+#### III｜交通── Motorized Mobilization
+身体を運び、Localを編集する
+#### IV｜都市── Urbanization
+集まり、留まり、Localを編集する
+#### V｜定住── Domestication
+留まる種、留まることで編集される種
+#### V½｜Matter Encounter── たべる生命、つかう生命
+#### VI｜料理── Feeding Curation
+美味しいをなぞる身体
+#### VII｜火── Firing Choreography
+EditorをEditする
+#### VIII｜道具── Tooling Fabrication
+食えない物質を、つかう身体
+#### VIII½｜排泄する生命── TUPするEditing Life
+#### IX｜AI── ふたつのEditus
+Homo editus meets AI editus ?
+#### 補論｜プロンプトより現場の足場── AI生成を支えるScaffold Practice
+
+---
 
 $$
 \boxed{\textit{sub specie editionis}}
