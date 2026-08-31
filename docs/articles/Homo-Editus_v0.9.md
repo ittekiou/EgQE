@@ -743,9 +743,11 @@ Homo editus.
 
 ---
 
+
 $$
 \boxed{\textit{sub specie editionis}}
 $$
+
 
 # **I｜IP**
 ## **── Digitalized Informatization**
