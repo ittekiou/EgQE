@@ -9,6 +9,10 @@ title_en: Homo editus ── A Study of the Editing Element in Human Culture
 
 ![Homo-editus](../assets/Homo-editus.png)  
 
+$$
+\begin{array}{c} sapiens\\ faber\\ ludens\\ loquens\\ symbolicus\\ smartphoneiensis\ldots \end{array} \quad \overset{\text{re-read}}{\longrightarrow} \quad \boxed{Homo\ editus}
+$$
+
 # **序説｜Homo editus**
 ## **── 生命現象としてのEditingの本質と意味**
 
@@ -736,6 +740,12 @@ Homo editus.
 まずは、
 
 **Homoから始めよう。**
+
+---
+
+$$
+\boxed{\textit{sub specie editionis}}
+$$
 
 ---
 
