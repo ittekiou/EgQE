@@ -514,6 +514,7 @@ Case 02。
 
 [SAW-AM-01｜事例集 01｜PLA-RAILER──AIは横板をRailにする｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-01_PLA-RAILER.html)  
 [SAW-AM-02｜事例集 02｜PLA-RAILER reads PLA-RAILER ── Biasを知ってもRailは走る｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-02_PLA-RAILER_reads_PLA-RAILER.html)  
+[SAW-AM-03｜事例集 03｜動く壁 ── 八本の杭から短編小説ができるまで｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-03_Moving-Wall.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
