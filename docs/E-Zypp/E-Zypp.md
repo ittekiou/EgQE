@@ -36,6 +36,10 @@ _**ZURE Inter-Phase Publisher（支える）→ E-Zy Press（整える）→ E-Z
 # _ZURE Inter-Phase Publisher_
 
 ---
+
+[Camp-Us Publisher 制作プレイブック v1.0](https://camp-us.net/E-Zypp/Camp-Us_Publisher_v1.0.html)  
+
+---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
 
