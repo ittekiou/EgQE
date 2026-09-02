@@ -24,6 +24,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SAW-AM-01｜事例集 01｜PLA-RAILER──AIは横板をRailにする｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-01_PLA-RAILER.html)  
 [SAW-AM-02｜事例集 02｜PLA-RAILER reads PLA-RAILER ── Biasを知ってもRailは走る｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-02_PLA-RAILER_reads_PLA-RAILER.html)  
 [SAW-AM-03｜事例集 03｜動く壁 ── 八本の杭から短編小説ができるまで｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-03_Moving-Wall.html)  
+[CG-02｜生成速度が制度速度を追い越したとき／ Case Record / September 2026｜Generation Rate Exceeds Institution Rate ── A 72-Hour Publishing Encounter](https://camp-us.net/articles/CG-02_Generation-Rate-Exceeds-Institution-Rate_72-Hour-Publishing-Encounter.html)  
 ###### 2026/08/31  
 [Homo editus ── 編集する種、編集される種｜A Study of the Editing Element in Human Culture](https://camp-us.net/articles/Homo-Editus_v0.9.html)  
 [CG-01｜プロンプトより現場の足場｜Scaffold before Prompt ── A Support Theory of Human–AI Co-Generation](https://camp-us.net/articles/CG-01_Scaffold-before-Prompt_Co-editus.html)  
