@@ -19,7 +19,15 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
-###### 2026/09/02  
+###### 2026/09/03  
+[TUP-PL-00｜循環する自由人 ── 拘束と離脱、自律と他律のマトリクス](https://camp-us.net/articles/TUP-PL-00_Free-Person_Freedom-Matrix.html)  
+[TUP-PL-01｜補論Ⅰ｜自由人は同時に僕である ── ルターをマトリクスに入れてみる](https://camp-us.net/articles/TUP-PL-01_Luther_Free-and-Servant.html)  
+[TUP-PL-02｜補論Ⅱ｜自由は二つあるか ── バーリンをマトリクスに入れてみる](https://camp-us.net/articles/TUP-PL-02_Berlin_Two-Concepts-of-Liberty.html)  
+[TUP-PL-03｜補論Ⅲ｜自由は拘束の外にあるか ── フーコーをマトリクスに入れてみる](https://camp-us.net/articles/TUP-PL-03_Foucault_Freedom-and-Power.html)  
+[TUP-PL-04｜補論Ⅳ｜逃走線にRailはあるか ── ドゥルーズ＆ガタリをマトリクスに入れてみる](https://camp-us.net/articles/TUP-PL-04_Deleuze-Guattari_Line-of-Flight.html)  
+[TUP-PL-05｜補論Ⅴ｜自由とは現れなのか ── アレントをマトリクスに入れてみる](https://camp-us.net/articles/TUP-PL-05_Arendt_Freedom-and-Appearance.html)  
+[TUP-PL-06｜補論Ⅵ｜逃走する自由、関わる自由 ── フーコー・ドゥルーズ＆ガタリ・アレントの「あいだ」](https://camp-us.net/articles/TUP-PL-06_Escape-and-Engagement.html)  
+[TUP-PL-07｜EgQE Integrated Short Essay｜自由人のための生命論 ── 逃げながら、関わる](https://camp-us.net/articles/TUP-PL-07_Free-Person_Integrated-Essay.html)  
 [TUP-LIF-04｜生命と自由 ── 生命は逃げながら、関わる](https://camp-us.net/articles/TUP-LIF-04_Life-and-Freedom_Escape-While-Relating.html)  
 ###### 2026/09/02  
 [TUP-SRL-02｜バイアスへの配慮 ── それぞれに抱きしめて、日々TUP](https://camp-us.net/articles/TUP-SRL-02_Care-of-bias.html)  
