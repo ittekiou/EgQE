@@ -20,6 +20,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/09/02  
+[TUP-LIF-04｜生命と自由 ── 生命は逃げながら、関わる](https://camp-us.net/articles/TUP-LIF-04_Life-and-Freedom_Escape-While-Relating.html)  
+###### 2026/09/02  
 [TUP-SRL-02｜バイアスへの配慮 ── それぞれに抱きしめて、日々TUP](https://camp-us.net/articles/TUP-SRL-02_Care-of-bias.html)  
 [SAW-AM-01｜事例集 01｜PLA-RAILER──AIは横板をRailにする｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-01_PLA-RAILER.html)  
 [SAW-AM-02｜事例集 02｜PLA-RAILER reads PLA-RAILER ── Biasを知ってもRailは走る｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-02_PLA-RAILER_reads_PLA-RAILER.html)  
