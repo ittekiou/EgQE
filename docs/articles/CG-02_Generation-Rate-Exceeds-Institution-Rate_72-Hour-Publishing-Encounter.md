@@ -120,6 +120,8 @@ Amazon.co.jpの商品ページに、
 ![Kindle-HomoEditus-page](../assets/Kindle-HomoEditus-page.png)  
 [Kindle日本語版](https://www.amazon.co.jp/dp/B0HHNDSPSZ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2VHEX0BLSNL7J&dib=eyJ2IjoiMSJ9.3GpXHlAf90GlpbIApqvQ3w.nMU4HRdVsDvXZbKzvLbp5eb4QELBn1z0MGs8NvzDPsY&dib_tag=se&keywords=B0HHNDSPSZ&qid=1788440144&sprefix=b0hhndspsz%2Caps%2C324&sr=8-1&linkCode=ll2&tag=hatenadia0516-22&linkId=c6a61c22bfbe6259af17a2c7de7a4990&ref_=as_li_ss_tl)  
 
+_Case Record itself was updated by the Case._
+
 ---
 
 ## 0｜Abstract
