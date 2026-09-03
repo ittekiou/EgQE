@@ -23,6 +23,105 @@ title_en: CG-02｜Generation Rate Exceeds Institution Rate ── A 72-Hour Publ
 
 ---
 
+## Homo editus｜72-Hour Publishing Encounter 生ログ
+
+**2026年8月30日 夜**
+
+ふと、
+
+> **「スマホピエンスは、Homo editusだな。いろんな意味で。」**
+
+と漏れた。
+
+この時点では、本を書く計画はなかった。  
+ましてKDPで出版する予定もなかった。
+
+**8月31日**
+
+夜から翌朝にかけてだったか、Homo editusを掘り始める。
+
+「編集する種」であると同時に「編集される種」。
+
+Homo sapiensを捨てるのではなく、脳に寄ったsapiens像を、直立し、歩き、食べ、火を使い、道具をつくる身体へ戻して読み直す。
+
+> **Homo sapiens = BRAIN**  
+> **Homo editus = BRAIN=BODY**
+
+やがて、
+
+> **「ホイジンガオマージュで Homo editus 書くか。笑」**
+
+となる。
+
+ここからIP、通信、交通、都市、定住、Matter Encounter、料理、火、道具、排泄する生命、AIへと坑道が伸びた。
+
+深夜、v0.9 EgQE公開。
+
+**9月1日**
+
+v1.0へ。  
+EPUB化。  
+表紙・扉絵を整え、日本語Kindle版をKDPへ投入。
+
+さらにPaperback版を組み、試し刷りを発注。
+
+**9月2日**
+
+英語版へre-Encounter。  
+English EditionのKindle／Paperbackまで展開。
+
+この過程そのものから、
+
+**Scaffold before Prompt**  
+**Generation Rate Exceeds Institution Rate**
+
+という別のTraceも露出する。
+
+**9月3日**
+
+日本語Kindle版にASINが付与される。
+
+> **ASIN: B0HHNDSPSZ**
+
+ステータスは「出版準備中」。
+
+そして同日夜、
+
+> **販売中**
+
+Amazon.co.jpの商品ページに、
+
+> **Homo editus: 編集する種、編集される種**  
+> **一狄 啓 / K.E. Itekki**  
+> **¥500**
+
+が現れる。
+
+---
+
+8月30日の夜、ひとつの言葉が漏れた。
+
+約72時間後、その言葉は一冊のBook BODYとなって流通を始めた。
+
+これは、**72時間で本を書いた記録ではない。**
+
+長く蓄積されていたTraceが、ひとつのCutをきっかけに急速にconfigurationを変え、Book BODYとして排泄され、流通へ入った記録である。
+
+計画ではなかった。  
+72時間企画でもなかった。
+
+あとから振り返ると、軌道が残っていた。
+
+> **レールは先にある。  
+> 軌道はあとからやってくる。**
+
+**Homo editus──命名から販売開始まで、約72時間。**
+
+![Kindle-HomoEditus-page](../assets/Kindle-HomoEditus-page.png)  
+[Kindle日本語版](https://www.amazon.co.jp/dp/B0HHNDSPSZ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2VHEX0BLSNL7J&dib=eyJ2IjoiMSJ9.3GpXHlAf90GlpbIApqvQ3w.nMU4HRdVsDvXZbKzvLbp5eb4QELBn1z0MGs8NvzDPsY&dib_tag=se&keywords=B0HHNDSPSZ&qid=1788440144&sprefix=b0hhndspsz%2Caps%2C324&sr=8-1&linkCode=ll2&tag=hatenadia0516-22&linkId=c6a61c22bfbe6259af17a2c7de7a4990&ref_=as_li_ss_tl)  
+
+---
+
 ## 0｜Abstract
 
 2026年8月31日、一つの語が対話のなかに現れた。
