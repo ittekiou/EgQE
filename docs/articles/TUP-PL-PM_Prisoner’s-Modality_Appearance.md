@@ -301,9 +301,23 @@ $$
 
 ---
 
+> What does the prisoner choose?
+
+> **What appears to the prisoner?**  
+> **How does it appear?**
+
+_選択の合理性の手前で、何が前景化し何が後景に退いているのだろうか_  
+**──** _**理不尽な現れ、合理的な選択**_
+
+---
+
 [TUP-PL-00｜循環する自由人 ── 拘束と離脱、自律と他律のマトリクス](https://camp-us.net/articles/TUP-PL-00_Free-Person_Freedom-Matrix.html)  
 [TUP-PL-07｜EgQE Integrated Short Essay｜自由人のための生命論 ── 逃げながら、関わる](https://camp-us.net/articles/TUP-PL-07_Free-Person_Integrated-Essay.html)  
 [TUP-LIF-04｜生命と自由 ── 生命は逃げながら、関わる](https://camp-us.net/articles/TUP-LIF-04_Life-and-Freedom_Escape-While-Relating.html)  
+
+---
+
+_囚人のジレンマは、理不尽な現れにおける、合理的な選択かもしれない。_
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
