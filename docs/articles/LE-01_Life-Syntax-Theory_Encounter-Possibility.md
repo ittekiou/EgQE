@@ -10,6 +10,8 @@ _Life as Encounter｜Life Syntax Theory_
 
 _生命構文論とは、生命を遭遇モードの遷移として記述する理論である。_  
 
+[LE-02｜遭遇する生命構文 ── 自由・自律とその影｜The Syntax of Life in Encounter — Freedom, Autonomy, and Their Shadows](https://camp-us.net/articles/LE-02_Syntax-of-Life-in-Encounter_Freedom-Autonomy-and-Shadows.html)  
+
 ---
 
 ### **0. 導入**
