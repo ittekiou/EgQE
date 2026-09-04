@@ -1,8 +1,9 @@
 ---
 layout: math
-title: TUP-PL-PM｜囚人のモダリティ ── 選択と現れ
-title_en: "TUP-PL-PM｜Prisoner’s Modality: Choice and Appearance"
+title: TUP-PL-PM-01｜囚人のモダリティ ── 選択と現れ
+title_en: "TUP-PL-PM-01｜Prisoner’s Modality: Choice and Appearance"
 ---
+_Dilemma of Game-Theory_ Trilogy  
 # 囚人のモダリティ
 ## ── 選択と現れ
 ### _Prisoner’s Modality: Choice and Appearance_
@@ -318,6 +319,33 @@ _選択の合理性の手前で、何が前景化し何が後景に退いてい�
 ---
 
 _囚人のジレンマは、理不尽な現れにおける、合理的な選択かもしれない。_
+
+---
+
+### **_Dilemma of Game-Theory_ Trilogy**  
+
+$$
+01＝Modality　02＝Prisoner　03＝Game Theory
+$$
+
+**[PM-01｜囚人のモダリティ](https://camp-us.net/articles/TUP-PL-PM-01_Prisoner’s-Modality_Appearance.html)**  
+── 選択と現れ
+
+**[PM-02｜囚人はチェスの駒ではない](https://camp-us.net/articles/TUP-PL-PM-02_The-Prisoner-Is-Not-a-Chess-Piece.html)**  
+── 囚人のジレンマはなぜ繰り返しゲームの中で変容するのか
+
+**[PM-03｜ゲーム理論のジレンマ](https://camp-us.net/articles/TUP-PL-PM-03_The-Dilemma-of-Game-Theory.html)**  
+── なぜ囚人は番号で呼ばれるのか
+
+**PM-01：囚人には、何がどう現れるのか。**  
+**PM-02：なぜ反復すると、同じゲームでなくなるのか。**  
+**PM-03：ゲーム理論は何を前景化し、何を背景化したのか。**  
+
+---
+
+[TUP-PL-PM-01｜囚人のモダリティ ── 選択と現れ｜Prisoner’s Modality: Choice and Appearance](https://camp-us.net/articles/TUP-PL-PM-01_Prisoner’s-Modality_Appearance.html)  
+[TUP-PL-PM-02｜囚人はチェスの駒ではない ── 囚人のジレンマはなぜ繰り返しゲームの中で変容するのか｜The Prisoner Is Not a Chess Piece — Why Does the Prisoner’s Dilemma Change in Repeated Games?](https://camp-us.net/articles/TUP-PL-PM-02_The-Prisoner-Is-Not-a-Chess-Piece.html)  
+[TUP-PL-PM-03｜ゲーム理論のジレンマ ── なぜ囚人は番号で呼ばれるのか｜The Dilemma of Game Theory — Why Is the Prisoner Called by a Number?](https://camp-us.net/articles/TUP-PL-PM-03_The-Dilemma-of-Game-Theory.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

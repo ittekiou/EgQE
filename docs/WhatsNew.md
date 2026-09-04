@@ -19,9 +19,12 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/05  
+[TUP-PL-PM-02｜囚人はチェスの駒ではない ── 囚人のジレンマはなぜ繰り返しゲームの中で変容するのか｜The Prisoner Is Not a Chess Piece — Why Does the Prisoner’s Dilemma Change in Repeated Games?](https://camp-us.net/articles/TUP-PL-PM-02_The-Prisoner-Is-Not-a-Chess-Piece.html)  
+[TUP-PL-PM-03｜ゲーム理論のジレンマ ── なぜ囚人は番号で呼ばれるのか｜The Dilemma of Game Theory — Why Is the Prisoner Called by a Number?](https://camp-us.net/articles/TUP-PL-PM-03_The-Dilemma-of-Game-Theory.html)  
 ###### 2026/09/04  
 [LE-02｜遭遇する生命構文 ── 自由・自律とその影｜The Syntax of Life in Encounter — Freedom, Autonomy, and Their Shadows](https://camp-us.net/articles/LE-02_Syntax-of-Life-in-Encounter_Freedom-Autonomy-and-Shadows.html)  
-[TUP-PL-PM｜囚人のモダリティ ── 選択と現れ｜Prisoner’s Modality: Choice and Appearance](https://camp-us.net/articles/TUP-PL-PM_Prisoner’s-Modality_Appearance.html)  
+[TUP-PL-PM-01｜囚人のモダリティ ── 選択と現れ｜Prisoner’s Modality: Choice and Appearance](https://camp-us.net/articles/TUP-PL-PM-01_Prisoner’s-Modality_Appearance.html)  
 [SAW-AM-04｜事例集 04｜読むAI、動くCut ── Homo editusを読んだAIは、自分をどこに置いたか｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-04_Reading-AI_Moving-Cut.html)  
 ###### 2026/09/03  
 [TUP-PL-00｜循環する自由人 ── 拘束と離脱、自律と他律のマトリクス](https://camp-us.net/articles/TUP-PL-00_Free-Person_Freedom-Matrix.html)  
