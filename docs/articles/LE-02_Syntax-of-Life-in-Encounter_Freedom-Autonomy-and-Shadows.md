@@ -93,7 +93,7 @@ $$
 \begin{array}{ccl} 離脱 &:& FB/BA\\ 遭遇 &:& BA/FB\\ 待機 &:& BA/(FB)\\ 拘束 &:& (FB)(BA) \end{array}
 $$
 
-FB:Front-Back
+FB:Front-Back  
 BA:Before-After
 
 ---
