@@ -468,6 +468,8 @@ $$
 > **生命は、どう生きている？**  
 > **自由は、どう現れる？**
 
+👉 [LE-02｜遭遇する生命構文 ── 自由・自律とその影｜The Syntax of Life in Encounter — Freedom, Autonomy, and Their Shadows](https://camp-us.net/articles/LE-02_Syntax-of-Life-in-Encounter_Freedom-Autonomy-and-Shadows.html)  
+
 ---
 
 _WHOは消えた。HOWの痕跡だけ残った。_
@@ -496,7 +498,6 @@ $$
 [TUP-PL-05｜補論Ⅴ｜自由とは現れなのか ── アレントをマトリクスに入れてみる](https://camp-us.net/articles/TUP-PL-05_Arendt_Freedom-and-Appearance.html)  
 [TUP-PL-06｜補論Ⅵ｜逃走する自由、関わる自由 ── フーコー・ドゥルーズ＆ガタリ・アレントの「あいだ」](https://camp-us.net/articles/TUP-PL-06_Escape-and-Engagement.html)  
 [TUP-PL-07｜EgQE Integrated Short Essay｜自由人のための生命論 ── 逃げながら、関わる](https://camp-us.net/articles/TUP-PL-07_Free-Person_Integrated-Essay.html)  
-[TUP-LIF-04｜生命と自由 ── 生命は逃げながら、関わる](https://camp-us.net/articles/TUP-LIF-04_Life-and-Freedom_Escape-While-Relating.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
