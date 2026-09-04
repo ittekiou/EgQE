@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/04  
+[SAW-AM-04｜事例集 04｜読むAI、動くCut ── Homo editusを読んだAIは、自分をどこに置いたか｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/articles/SAW-AM-04_Reading-AI_Moving-Cut.html)  
 ###### 2026/09/03  
 [TUP-PL-00｜循環する自由人 ── 拘束と離脱、自律と他律のマトリクス](https://camp-us.net/articles/TUP-PL-00_Free-Person_Freedom-Matrix.html)  
 [TUP-PL-01｜補論Ⅰ｜自由人は同時に僕である ── ルターをマトリクスに入れてみる](https://camp-us.net/articles/TUP-PL-01_Luther_Free-and-Servant.html)  
