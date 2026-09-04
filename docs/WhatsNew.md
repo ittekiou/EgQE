@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/09/04  
 [LE-02｜遭遇する生命構文 ── 自由・自律とその影｜The Syntax of Life in Encounter — Freedom, Autonomy, and Their Shadows](https://camp-us.net/articles/LE-02_Syntax-of-Life-in-Encounter_Freedom-Autonomy-and-Shadows.html)  
+[TUP-PL-PM｜囚人のモダリティ ── 選択と現れ｜Prisoner’s Modality: Choice and Appearance](https://camp-us.net/articles/TUP-PL-PM_Prisoner’s-Modality_Appearance.html)  
 [SAW-AM-04｜事例集 04｜読むAI、動くCut ── Homo editusを読んだAIは、自分をどこに置いたか｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-04_Reading-AI_Moving-Cut.html)  
 ###### 2026/09/03  
 [TUP-PL-00｜循環する自由人 ── 拘束と離脱、自律と他律のマトリクス](https://camp-us.net/articles/TUP-PL-00_Free-Person_Freedom-Matrix.html)  

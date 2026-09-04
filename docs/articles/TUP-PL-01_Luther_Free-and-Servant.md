@@ -329,6 +329,7 @@ $$
 [TUP-PL-05｜補論Ⅴ｜自由とは現れなのか ── アレントをマトリクスに入れてみる](https://camp-us.net/articles/TUP-PL-05_Arendt_Freedom-and-Appearance.html)  
 [TUP-PL-06｜補論Ⅵ｜逃走する自由、関わる自由 ── フーコー・ドゥルーズ＆ガタリ・アレントの「あいだ」](https://camp-us.net/articles/TUP-PL-06_Escape-and-Engagement.html)  
 [TUP-PL-07｜EgQE Integrated Short Essay｜自由人のための生命論 ── 逃げながら、関わる](https://camp-us.net/articles/TUP-PL-07_Free-Person_Integrated-Essay.html)  
+[TUP-PL-PM｜囚人のモダリティ ── 選択と現れ｜Prisoner’s Modality: Choice and Appearance](https://camp-us.net/articles/TUP-PL-PM_Prisoner’s-Modality_Appearance.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

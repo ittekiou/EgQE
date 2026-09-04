@@ -244,6 +244,8 @@ $$
 
 ここで、遭遇構文と現象構文を分けた意味が見えてくる。
 
+👉 [TUP-PL-PM｜囚人のモダリティ ── 選択と現れ｜Prisoner’s Modality: Choice and Appearance](https://camp-us.net/articles/TUP-PL-PM_Prisoner’s-Modality_Appearance.html)  
+
 ---
 
 ## 4｜FBとBAだけを見る
