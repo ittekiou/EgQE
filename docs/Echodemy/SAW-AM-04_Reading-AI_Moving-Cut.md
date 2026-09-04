@@ -1300,6 +1300,8 @@ Then, Again appears.
 > 次の遭遇の不確かな予告。  
 > 遭遇 → Again。
 
+_No next, no Again._
+
 ---
 
 [Homo editus ── 編集する種、編集される種｜A Study of the Editing Element in Human Culture](https://camp-us.net/articles/Homo-Editus_v0.9.html)  
