@@ -1,9 +1,9 @@
 ---
 layout: math
-title:
-edition: Homo editus — English Edition v1.0
+title: Homo editus — The Editing Species, the Edited Species
+edition: Homo editus — English Edition v1.00
 ---
-Kindle — English Edition v1.0  
+Kindle — English Edition v1.00  
 # Homo editus
 
 ![Homoeditus](../assets/Homoeditus.png)  
