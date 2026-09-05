@@ -4,7 +4,7 @@ subtitle: "A Study of the Editing Element in Human Culture"
 author: "一狄 啓"
 lang: ja
 ---
-Kindle v1.0
+Kindle v1.0 / Japanese Edition
 # Homo editus
 ## ── 編集する種、編集される種
 
