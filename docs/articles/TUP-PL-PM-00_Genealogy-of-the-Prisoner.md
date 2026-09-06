@@ -1438,6 +1438,10 @@ Supportは、Constraintになりうる。
 
 ---
 
+**約束とは、二度目のEncounterの可能性のことなのかもしれない。**
+
+---
+
 ### **_Dilemma of Game-Theory_ Trilogy**  
 
 $$
