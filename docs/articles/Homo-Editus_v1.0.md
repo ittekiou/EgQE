@@ -43,7 +43,8 @@ VIII½｜排泄する生命 ── TUPするEditing Life
 
 IX｜AI ── ふたつのEditus  
 
-補論｜プロンプトより現場の足場 Scaffold before Prompt ── プロンプトより現場の足場 A Support Theory of Human–AI Co-Generation  
+補論｜プロンプトより現場の足場  
+Scaffold before Prompt ── A Support Theory of Human–AI Co-Generation  
 
 ---
 
