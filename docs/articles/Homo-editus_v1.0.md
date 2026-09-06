@@ -1,7 +1,7 @@
 ---
-title: "Homo editus ── 編集する種、編集される種"
-subtitle: "A Study of the Editing Element in Human Culture"
-author: "一狄 啓"
+title: Homo editus ── 編集する種、編集される種
+subtitle: A Study of the Editing Element in Human Culture
+author: 一狄 啓 / K.E. Itekki
 lang: ja
 ---
 Kindle v1.0 / Japanese Edition
