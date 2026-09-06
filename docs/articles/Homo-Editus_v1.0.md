@@ -15,6 +15,35 @@ Kindle v1.0 / Japanese Edition
 <div style="page-break-before: always;"></div>
 
 ![Homoeditus](../assets/Homoeditus.png)  
+Homo editus ── 編集する種、編集される種  
+
+序説｜Homo editus ── 生命現象としてのEditingの本質と意味  
+
+Coda｜Sub specie editionis  
+
+I｜IP ── Digitalized Informatization  
+
+II｜通信 ── Telecommunicationization  
+
+III｜交通 ── Motorized Mobilization  
+
+IV｜都市 ── Urbanization  
+
+V｜定住 ── Domestication  
+
+V½｜Matter Encounter  
+
+VI｜料理 ── Feeding Curation  
+
+VII｜火 ── Firing Choreography  
+
+VIII｜道具 ── Tooling Fabrication  
+
+VIII½｜排泄する生命 ── TUPするEditing Life  
+
+IX｜AI ── ふたつのEditus  
+
+補論｜プロンプトより現場の足場 Scaffold before Prompt ── プロンプトより現場の足場 A Support Theory of Human–AI Co-Generation  
 
 ---
 
@@ -5547,6 +5576,6 @@ Traceが残る。
 
 © 2025 K.E. Itekki　K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog, wandering the labyrinth of syntax, drawing constellations through shared echoes.
 
-📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)  
 
 Drafted Aug 31, 2026 ・ Web Aug 31, 2026
