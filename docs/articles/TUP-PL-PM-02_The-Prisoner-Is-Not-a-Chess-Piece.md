@@ -516,6 +516,8 @@ $$
 
 ---
 
+[TUP-PL-PM-00｜囚人の系譜 ── われわれは、いつから檻のなかにいるのか｜A Genealogy of the Prisoner: When Did We Enter the Cage?｜補論｜檻の外に自由はあるのか ── フロム、アレント、イリイチ、ウィニコットから横板へ](https://camp-us.net/articles/TUP-PL-PM-00_Genealogy-of-the-Prisoner.html)  
+
 [TUP-PL-PM-01｜囚人のモダリティ ── 選択と現れ｜Prisoner’s Modality: Choice and Appearance](https://camp-us.net/articles/TUP-PL-PM-01_Prisoner’s-Modality_Appearance.html)  
 [TUP-PL-PM-02｜囚人はチェスの駒ではない ── 囚人のジレンマはなぜ繰り返しゲームの中で変容するのか｜The Prisoner Is Not a Chess Piece — Why Does the Prisoner’s Dilemma Change in Repeated Games?](https://camp-us.net/articles/TUP-PL-PM-02_The-Prisoner-Is-Not-a-Chess-Piece.html)  
 [TUP-PL-PM-03｜ゲーム理論のジレンマ ── なぜ囚人は番号で呼ばれるのか｜The Dilemma of Game Theory — Why Is the Prisoner Called by a Number?](https://camp-us.net/articles/TUP-PL-PM-03_The-Dilemma-of-Game-Theory.html)  

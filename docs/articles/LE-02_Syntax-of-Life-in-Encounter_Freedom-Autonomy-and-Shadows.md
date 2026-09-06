@@ -486,6 +486,10 @@ $$
 
 ---
 
+[TUP-PL-PM-00｜囚人の系譜 ── われわれは、いつから檻のなかにいるのか｜A Genealogy of the Prisoner: When Did We Enter the Cage?｜補論｜檻の外に自由はあるのか ── フロム、アレント、イリイチ、ウィニコットから横板へ](https://camp-us.net/articles/TUP-PL-PM-00_Genealogy-of-the-Prisoner.html)  
+
+---
+
 [LE-01｜生命構文論 序説 ── 遭遇可能性としての生命｜Introduction to Life Syntax Theory — Life as Encounter Possibility](https://camp-us.net/articles/LE-01_Life-Syntax-Theory_Encounter-Possibility.html)
 
 [HEG-Core｜From Encounter to Time — 遭遇から時間へ — (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)
