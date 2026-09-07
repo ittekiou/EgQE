@@ -689,7 +689,7 @@ TUPをHOWで完成させない。
     [TU-HEG-2｜記号行為論3.0──TUP](https://camp-us.net/articles/TU-HEG-2_Sign-Act-Theory-3.0_TUP.html?utm_source=chatgpt.com)
     
 4. **TU-TUT-01｜TUTからTUP**  
-    Ⅲの「Traceは生成の始点」「Traceが生成を駆動する」の歴史的Trace。
+    Ⅲの「Traceは生成の始点」「Traceが生成を駆動する」の歴史的Trace。  
     [TU-TUT-01｜TUTからTUP](https://camp-us.net/articles/TU-TUT-01_TUT-to-TUP.html?utm_source=chatgpt.com)
     
 5. **OR-00｜軌道構文論 序説**  
@@ -702,7 +702,7 @@ TUPをHOWで完成させない。
     
 7. **TUP-01｜TUP-Again──How Is Updating?**  
     後半の主杭。「効く」への自己監査、矢印、WHAT→HOWまで一気貫通。  
-    [TUP-01｜TUP-Again──How Is Updating?](https://camp-us.net/articles/TUP-01_TUP-Again_How-Is-Updating.html?utm_source=chatgpt.com)　　
+    [TUP-01｜TUP-Again──How Is Updating?](https://camp-us.net/articles/TUP-01_TUP-Again_How-Is-Updating.html?utm_source=chatgpt.com)  
     [TUPは亡霊になりきらない── TUPである](https://note.com/takahashihajime/n/n843900753a1c)  
     
 8. **「意図せざる結果」とは、劇的ビフォーアフターの因果版である**  
