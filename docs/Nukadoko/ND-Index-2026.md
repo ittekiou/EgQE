@@ -54,6 +54,8 @@ Nukadoko とは、それを置く場所である。
 [ND-260825_Qualia](https://camp-us.net/Nukadoko/ND-260825_Qualia.html)  
 [ND-260830_TUP-Again](https://camp-us.net/Nukadoko/ND-260830_TUP-Again.html)  
 
+## Sep
+[ND-260906_Plank-Support-Theory](https://camp-us.net/Nukadoko/ND-260906_Plank-Support-Theory.html)  
 
 
 [ND_filename](https://camp-us.net/Nukadoko/.html)  
