@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/08  
+[TUP-SAT-00｜記号痕跡は何をしていたのか ── Sign Act TheoryからTUP、HOW構文までのre-Trace](https://camp-us.net/articles/TUP-SAT-00_Sign-Act-to-TUP-HOW_re-Trace.html)  
 ###### 2026/09/06  
 [TUP-PL-PM-00｜囚人の系譜 ── われわれは、いつから檻のなかにいるのか｜A Genealogy of the Prisoner: When Did We Enter the Cage?｜補論｜檻の外に自由はあるのか ── フロム、アレント、イリイチ、ウィニコットから横板へ](https://camp-us.net/articles/TUP-PL-PM-00_Genealogy-of-the-Prisoner.html)  
 ###### 2026/09/05  

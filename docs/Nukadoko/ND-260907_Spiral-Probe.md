@@ -12,7 +12,7 @@ Nukadoko 👉 [ND-Index](https://camp-us.net/Nukadoko/ND-Index.html)
 
 - 自律／他律は属性として置かない。
 - 遭遇・離脱／待機・拘束も固定的な位置にしない。
-- まず観察するのは**向き（Direction）**と**痕跡（Trace）**。
+- まず観察するのは**向き（Direction）** と**痕跡（Trace）**。
 - 一度の向き ≠ Bias。
 - 向きがTraceを残し、re-Encounterで再び向きが現れる。
 - 反復する向きから、あとで**Biasが露出することがある**。
