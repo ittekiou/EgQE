@@ -3906,7 +3906,7 @@ $$
 ---
 
 $$
-\boxed{ \textit{Materia Mutans} \quad ?\longrightarrow\quad Life \quad\longleftarrow?\quad \textit{Homo editus} }
+\boxed{ Materia\ Mutans \quad|\quad Life \quad|\quad Homo\ editus }
 $$
 
 **変わる物質と、編集されるヒトのあいだに、Lifeがいる。**
