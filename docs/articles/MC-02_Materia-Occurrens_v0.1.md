@@ -12,7 +12,7 @@ title_en: MC-02｜Matter Encountering Matter ── Repeat, Surplus, Again? (Mat
 > **Matter changes.  
 > Matter encounters Matter.**
 
-👉 [MC-02｜Materia Occurrens v0.2｜Matter Encountering Matter ── Possible HOWs, Amplification, and Conditional Relations](https://camp-us.net/articles/.html)  
+👉 [MC-02｜Materia Occurrens v0.2｜Matter Encountering Matter ── Possible HOWs, Amplification, and Conditional Relations](https://camp-us.net/articles/MC-02_Materia-Occurrens_v0.2.html)  
 
 ---
 
@@ -792,7 +792,7 @@ $$
 
 次に、もう一度なぞる。
 
-👉 [MC-02｜Materia Occurrens v0.2｜Matter Encountering Matter ── Possible HOWs, Amplification, and Conditional Relations](https://camp-us.net/articles/.html)  
+👉 [MC-02｜Materia Occurrens v0.2｜Matter Encountering Matter ── Possible HOWs, Amplification, and Conditional Relations](https://camp-us.net/articles/MC-02_Materia-Occurrens_v0.2.html)  
 
 ---
 

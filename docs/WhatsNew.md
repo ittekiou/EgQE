@@ -22,7 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/09/10  
 [MC-01｜Materia Mutans (v1.0) ── How Can Change Change the Space of Possible Change?](https://camp-us.net/articles/MC-01_Materia-Mutans_v1.0.html)  
 [MC-02｜Materia Occurrens (v0.1)｜Matter Encountering Matter ── Repeat, Surplus, Again?](https://camp-us.net/articles/MC-02_Materia-Occurrens_v0.1.html)  
-[MC-02｜Materia Occurrens v0.2｜Matter Encountering Matter ── Possible HOWs, Amplification, and Conditional Relations](https://camp-us.net/articles/.html)  
+[MC-02｜Materia Occurrens v0.2｜Matter Encountering Matter ── Possible HOWs, Amplification, and Conditional Relations](https://camp-us.net/articles/MC-02_Materia-Occurrens_v0.2.html)  
 ###### 2026/09/09  
 [MC-01｜Materia Mutans (v0.1) ── How Can Change Change the Space of Possible Change?](https://camp-us.net/articles/MC-01_Materia-Mutans_v0.1.html)  
 [MC-01｜Materia Mutans (v0.9) ── How Can Change Change the Space of Possible Change?](https://camp-us.net/articles/MC-01_Materia-Mutans_v0.9.html)  
