@@ -30,7 +30,7 @@ $$
 
 Fire、Catalyst、COH、N、P、S、NPSという並びは、生命の起源を再構成する順序ではない。元素の追加実験を一つのsystemで連続して行った記録でもない。元稿でMatter Chemistryをなぞった順序であり、そこで問いがどのようにZUREたかを読むためのTraceである。
 
-TUP-SAT-00は、「Traceが効く」「Updatingが主体を現象させる」という記述に、降ろした主体を別の語で置き直す可能性を見ていた。この監査は、MC-01の「MatterがHOWに作用する」「HOWs encounter HOWs」にも及ぶ。HOWを主語に置かなくても、HOWを作用の対象となる独立した何かとして扱えば、実体化は残る。
+[TUP-SAT-00](https://camp-us.net/articles/TUP-SAT-00_Sign-Act-to-TUP-HOW_re-Trace.html)は、「Traceが効く」「Updatingが主体を現象させる」という記述に、降ろした主体を別の語で置き直す可能性を見ていた。この監査は、MC-01の「MatterがHOWに作用する」「HOWs encounter HOWs」にも及ぶ。HOWを主語に置かなくても、HOWを作用の対象となる独立した何かとして扱えば、実体化は残る。
 
 本稿でHOWと呼ぶのは、変化の仕方への問い、および個々の箇所でその問いに応じて記述されるmechanism、pathway、state-dependenceなどである。これらを一つの存在者へまとめない。大文字のHOWは、新しい作用者の名前ではない。
 
@@ -40,7 +40,7 @@ $$
 \boxed{\text{Trace} \neq \text{Rail}}
 $$
 
-「矢印は二度目にやってくる」というTUP-SAT-00の読みを、化学的な因果や時間順序の否定へ一般化する必要はない。問うのは、いま描いた矢印が何を表し、どこまでを読み込んでいるかである。
+「矢印は二度目にやってくる」という[TUP-SAT-00](https://camp-us.net/articles/TUP-SAT-00_Sign-Act-to-TUP-HOW_re-Trace.html)の読みを、化学的な因果や時間順序の否定へ一般化する必要はない。問うのは、いま描いた矢印が何を表し、どこまでを読み込んでいるかである。
 
 ## 2｜Fire — Matter changes.
 
@@ -114,7 +114,7 @@ $$
 
 である。possible HOWsとは、物質の外に並ぶ選択肢ではない。relationとconditionsを指定して、どのような変化が可能と記述されるかを問うための複数形である。
 
-ただし、複数のHOWを挙げた時点で「可能性空間」が成立したと考えてはならない。MC-RN-01の監査線を、ここから保持する。
+ただし、複数のHOWを挙げた時点で「可能性空間」が成立したと考えてはならない。[MC-RN-01](https://camp-us.net/articles/MC-RN-01_Generation-of-Space_Possible-HOWs-to-WHERE.html)の監査線を、ここから保持する。
 
 $$
 \boxed{\text{Many HOWs} \neq \text{Space}}
@@ -159,7 +159,7 @@ PはEnergyそのものではない。結合の切断だけをenergyの放出と�
 
 ここで残る問いは、元稿の **One change can affect another change.** である。ある反応を経たMatterが、別の反応の中間体や条件の一部になる場合、二つの変化を化学的に関係づけて記述できる。ただ前後に並ぶだけでは、couplingを示したことにならない。どのMatter、intermediate、transfer、concentration、environmentを介するのかが必要である。
 
-v0.9は、HOW同士の直接因果を避けるため、`HOW₁ → State′ → HOW₂` と書いた。しかしstateを間に挟んでも、両端のHOWが独立した作用者や作用対象に見える可能性は残る。そこで本稿では、具体的な変化の記述を先に置く。
+[v0.9](https://camp-us.net/articles/MC-01_Materia-Mutans_v0.9.html)は、HOW同士の直接因果を避けるため、`HOW₁ → State′ → HOW₂` と書いた。しかしstateを間に挟んでも、両端のHOWが独立した作用者や作用対象に見える可能性は残る。そこで本稿では、具体的な変化の記述を先に置く。
 
 $$
 S_1 \xrightarrow{h_1} S_2 \xrightarrow{h_2} S_3
@@ -194,11 +194,11 @@ $$
 
 N、P、Sを、Localization、Coupling、Persistenceの三つの機能へ変換して足し合わせることはできない。それぞれのchemistryをなぞったあとに残ったのは、local relationと次の可能性、変化間のchemical relation、変化を通じた持続についての問いである。
 
-元稿の **HOWs encounter HOWs.** は、この三つを同じchemical systemのなかで問い直すための構文だった。v0.9はさらに **HOWs encounter through changing Matter.** とした。しかし「Matterを介して」と補っても、HOW同士が遭遇する存在者であるという読みは、なお残りうる。
+元稿の **HOWs encounter HOWs.** は、この三つを同じchemical systemのなかで問い直すための構文だった。[v0.9](https://camp-us.net/articles/MC-01_Materia-Mutans_v0.9.html)はさらに **HOWs encounter through changing Matter.** とした。しかし「Matterを介して」と補っても、HOW同士が遭遇する存在者であるという読みは、なお残りうる。
 
 本稿ではこの表現を疑問符付きのProbeとして受け継ぐ。物質の変化を追うなかで、異なる変化の仕方がどのように関係づけて記述されるのか。その問いを短く呼ぶための語であり、HOWというentityの遭遇を主張するものではない。
 
-v0.1の `HOW₂(HOW₁)` や `HOW₃(HOW₂(HOW₁))` も、HOWがHOWに作用する演算としては採用しない。入力、出力、作用の仕方を定めていない入れ子表記は、多層化の証明にはならない。それでも、なぜ単なるreaction sequenceだけでは足りないと感じられたのか、という問いは残せる。
+[v0.1](https://camp-us.net/articles/MC-01_Materia-Mutans_v0.1.html)の `HOW₂(HOW₁)` や `HOW₃(HOW₂(HOW₁))` も、HOWがHOWに作用する演算としては採用しない。入力、出力、作用の仕方を定めていない入れ子表記は、多層化の証明にはならない。それでも、なぜ単なるreaction sequenceだけでは足りないと感じられたのか、という問いは残せる。
 
 あるstate changeを記述することと、その前後で次に可能な変化を比較すること。この二つに着目するところに、**Multilayering?** というProbeを置く余地がある。ただし、長いreaction chainやstate-dependenceがあれば、それだけで多層化が成立するとは定めない。
 
@@ -212,7 +212,7 @@ $$
 
 ## 9｜Change can change the space of possible change.
 
-ここまでの問いを整理するため、MC-RN-01の暫定記法を用いる。
+ここまでの問いを整理するため、[MC-RN-01](https://camp-us.net/articles/MC-RN-01_Generation-of-Space_Possible-HOWs-to-WHERE.html)の暫定記法を用いる。
 
 $$
 \mathcal H(S)
@@ -228,7 +228,7 @@ $$
 
 となる場合がある。この不等式は、すべてのstate changeで成立する普遍法則ではない。また、ある経路が速くなることと、可能な経路の集合自体が変わることは区別する必要がある。遅くて観察されないことを、無条件に不可能と置き換えることもできない。
 
-さらに、集合の要素が違うというだけでは、Spaceの構造が変わったことまでは示せない。MC-RN-01が問うのは、possible HOWsのあいだに、connected / disconnected、reachable / unreachableといったrelationをどのように記述できるかである。どの変化を経れば別の変化に参加可能となるか、その接続や到達可能性がstateによってどう異なるかを問うところで、**Space of Possible HOWs?** というProbeが置かれる。
+さらに、集合の要素が違うというだけでは、Spaceの構造が変わったことまでは示せない。[MC-RN-01](https://camp-us.net/articles/MC-RN-01_Generation-of-Space_Possible-HOWs-to-WHERE.html)が問うのは、possible HOWsのあいだに、connected / disconnected、reachable / unreachableといったrelationをどのように記述できるかである。どの変化を経れば別の変化に参加可能となるか、その接続や到達可能性がstateによってどう異なるかを問うところで、**Space of Possible HOWs?** というProbeが置かれる。
 
 したがって、
 
@@ -248,7 +248,7 @@ $$
 
 ## 10｜Possible HOWsからWHEREへ — MC-RN-01との接点
 
-MC-RN-01は、possible HOWsとそのrelationsをなぞるなかで、WHERE、here / there、relational positionが露出する可能性を問う。本稿のWHEREも、最初から完成した容器の座標だけを意味するものではなかった。
+[MC-RN-01](https://camp-us.net/articles/MC-RN-01_Generation-of-Space_Possible-HOWs-to-WHERE.html)は、possible HOWsとそのrelationsをなぞるなかで、WHERE、here / there、relational positionが露出する可能性を問う。本稿のWHEREも、最初から完成した容器の座標だけを意味するものではなかった。
 
 局所的なrelationによって変化の仕方を区別するなら、**WHERE affects HOW.** と圧縮できる。一方、可能な変化や接続の差を通じてpositionを区別し直すなら、**HOW affects WHERE?** という逆向きのProbeが置かれる。しかし、これはHOWがWHEREを生成するAgentになったということではない。どの差によってpositionを区別しているのかを、Matterのrelationsとchangesへ戻って問うことである。
 
@@ -266,7 +266,7 @@ $$
 
 near / farを到達に必要な変化の違いとして読むとしても、それだけで物理距離を得たことにはならない。configuration space、phase space、spacetimeとも、ここでは等号を置かない。実際のchemical reactionが空間的条件のもとで起こることを否定せず、記述のなかでSpace-likeな差がどう露出するかを問う。
 
-MC-RN-01の「空間生成」は、この限定を伴う試論として接続される。また、同稿が並べた **Space = distributed lag** という別のTraceを、本稿の説明原理として輸入しない。
+[MC-RN-01](https://camp-us.net/articles/MC-RN-01_Generation-of-Space_Possible-HOWs-to-WHERE.html)の「空間生成」は、この限定を伴う試論として接続される。また、同稿が並べた **Space = distributed lag** という別のTraceを、本稿の説明原理として輸入しない。
 
 $$
 \text{Distributed Lag}\quad ?\quad
