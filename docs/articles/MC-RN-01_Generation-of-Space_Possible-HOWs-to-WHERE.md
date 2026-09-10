@@ -807,7 +807,7 @@ $$
 
 Matter Chemistryをなぞり、
 
-[  
+$$
 Change  
 \rightarrow  
 HOW  
@@ -819,13 +819,13 @@ Relations
 Relational\ Position  
 \rightarrow  
 WHERE  
-]
+$$
 
 と進んだところで、
 
-[  
+$$
 \boxed{Space?}  
-]
+$$
 
 が露出した。
 
@@ -839,23 +839,25 @@ Matter Chemistryから現れたSpace-likeな構文と交差しうる、既存の
 
 ### Core_TS｜Time Syntax
 
+[https://camp-us.net/articles/Core_TS_Time-Syntax.html](https://camp-us.net/articles/Core_TS_Time-Syntax.html)  
+
 EgQEにおけるTime / Space syntaxの基礎Trace。
 
 その中心には、
 
-[  
+$$
 \boxed{Space = distributed\ lag}  
-]
+$$
 
-[  
+$$
 \boxed{Time = preserved\ lag}  
-]
+$$
 
 という構文がある。
 
 一方、Matter Chemistryから本稿へ至った軌道では、
 
-[  
+$$
 Change  
 \rightarrow  
 Possible\ HOWs  
@@ -865,19 +867,19 @@ Relations
 Relational\ Positions  
 \rightarrow  
 Space?  
-]
+$$
 
 が現れた。
 
 両者はまだ接続しない。
 
-[  
+$$
 \boxed{  
 Distributed\ Lag  
 \quad ?\quad  
 Relational\ distribution\ of\ Possible\ HOWs  
 }  
-]
+$$
 
 同じものなのか。
 
@@ -897,21 +899,21 @@ Groundを固定された基盤としてではなく、lagとのrelationから問
 
 本稿で現れたSpaceも、Matterを収容する固定containerとしては扱わない。
 
-[  
+$$
 \boxed{Space\ is\ not\ necessarily\ a\ container.}  
-]
+$$
 
 ただし、
 
-[  
+$$
 Ground \neq Space  
-]
+$$
 
 であり、
 
-[  
+$$
 Lag \neq Possible\ HOWs  
-]
+$$
 
 である。
 
@@ -937,17 +939,17 @@ possible / impossible
 
 しかし、
 
-[  
+$$
 Orbit \neq Space  
-]
+$$
 
-[  
+$$
 Trajectory \neq Relation  
-]
+$$
 
-[  
+$$
 Reachability \neq Distance  
-]
+$$
 
 である。
 
@@ -963,27 +965,27 @@ Orbitをdistributed rate / persistent lagからなぞった先行Trace。
 
 本稿では、Matterのstate changeによってpossible HOWsとそのrelationsが変化しうることから、
 
-[  
+$$
 \boxed{  
 Change\ can\ change\ the\ space\ of\ possible\ change.  
 }  
-]
+$$
 
 というProbeが現れた。
 
 ここで、
 
-[  
+$$
 Distributed\ Rate  
-]
+$$
 
-[  
+$$
 Persistent\ Lag  
-]
+$$
 
-[  
+$$
 Changing\ Possible\ HOWs  
-]
+$$
 
 がどのようなrelationを持つかは、まだ問わない。
 
@@ -999,29 +1001,29 @@ Inside / OutsideおよびBoundaryの生成を問う先行Trace。
 
 本稿では、
 
-[  
+$$
 here / there  
-]
+$$
 
-[  
+$$
 connected / disconnected  
-]
+$$
 
-[  
+$$
 reachable / unreachable  
-]
+$$
 
 というpositionの差が、possible HOWsとrelationsをなぞるなかで露出した。
 
 この差がInside / OutsideやBoundaryとどのように関係するかは、まだ決めない。
 
-[  
+$$
 \boxed{Difference \neq Boundary}  
-]
+$$
 
-[  
+$$
 \boxed{Relational\ Position \neq Inside/Outside}  
-]
+$$
 
 Boundaryは、後のEncounterに残す。
 
@@ -1037,9 +1039,9 @@ Matter Chemistryから現れたrelational fieldにも、possible / impossibleの
 
 しかし、
 
-[  
+$$
 Reachability \neq Boundary\ Intensity  
-]
+$$
 
 である。
 
@@ -1051,72 +1053,75 @@ Reachability \neq Boundary\ Intensity
 
 本稿で最も重要な監査線は、
 
-[  
+$$
 \boxed{  
 Space\ of\ Possible\ HOWs  
 \neq  
 Physical\ Space  
 }  
-]
+$$
 
 である。
 
 同様に、EgQE内部の既存Traceとのあいだにも、まだ等号を置かない。
 
-[  
+$$
 \boxed{  
 Same\ word  
 \neq  
 Same\ phenomenon  
 }  
-]
+$$
 
 Matter Chemistryからは、
 
-[  
+$$
 WHERE\ affects\ HOW.  
-]
+$$
 
 が現れた。
 
 さらに、
 
-[  
+$$
 HOW\ affects\ WHERE\ ?  
-]
+$$
 
 という逆向きのProbeが現れた。
 
 一方、Time Syntaxからは、
 
-[  
+$$
 Space = distributed\ lag  
-]
+$$
 
 という別のTraceが来ている。
 
 いま行うのは統合ではない。
 
-[  
+$$
 \boxed{  
 Trace_1  
 \quad ?\quad  
 Trace_2  
 }  
-]
+$$
 
 として並べることである。
 
 そして問いを残す。
 
-[  
+$$
 \boxed{  
 What\ makes\ a\ multiplicity\ a\ Space?  
 }  
-]
+$$
 
 次のEncounterまで、接続しない。
 
+---
+
+[MC-01｜Materia Mutans (v1.0) ── How Can Change Change the Space of Possible Change?](https://camp-us.net/articles/MC-01_Materia-Mutans_v1.0.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

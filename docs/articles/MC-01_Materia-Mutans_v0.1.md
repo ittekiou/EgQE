@@ -7,6 +7,7 @@ title_en: MC-01｜Materia Mutans (v0.1) ── How Can Change Change the Space o
 ### ── _On the Modes of the Change of Matter_
 
 [MC-01｜Materia Mutans (v0.9) ── How Can Change Change the Space of Possible Change?](https://camp-us.net/articles/MC-01_Materia-Mutans_v0.9.html)  
+👉 [MC-01｜Materia Mutans (v1.0) ── How Can Change Change the Space of Possible Change?](https://camp-us.net/articles/MC-01_Materia-Mutans_v1.0.html)  
 
 # Materia Mutans v0.1  
 ## ── _How Can Change Change the Space of Possible Change?_
