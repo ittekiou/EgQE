@@ -1,5 +1,5 @@
 ---
-layout:
+layout: math
 title: TUP-LIF-03 RN｜Protocellを境界からなぞる ── Compartmentから “Update of WHAT?” まで
 title_en: TUP-LIF-03 RN｜Tracing Protocells from the Boundary — From Compartment to “Update of WHAT?”
 ---
