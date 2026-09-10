@@ -160,9 +160,9 @@ $$
 
 を区別して記述できる場合がある。
 
-Fire | Fire では二つの火の区別が失われうる。
+Fire \| Fire では二つの火の区別が失われうる。
 
-Fire | Catalyst では、異なっていたことがreactionのHOWに残りうる。
+Fire \| Catalyst では、異なっていたことがreactionのHOWに残りうる。
 
 しかし、まだ一般化しない。
 
