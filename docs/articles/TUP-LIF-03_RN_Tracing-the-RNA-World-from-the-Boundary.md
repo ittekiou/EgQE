@@ -11,8 +11,6 @@ title_en: TUP-LIF-03 RN｜Tracing the RNA World from the Boundary — Replicatio
 **Research Note / Excavation Trace**  
 2026-09-10
 
-[TUP-LIF-03 RN｜Protocellを境界からなぞる｜Tracing Protocells from the Boundary — From Compartment to “Update of WHAT?”](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-Protocells-from-the-Boundary.html)  
-
 [MC-01｜Materia Mutans (v1.0) ── How Can Change Change the Space of Possible Change?](https://camp-us.net/articles/MC-01_Materia-Mutans_v1.0.html)  
 [MC-02｜Materia Occurrens v0.2｜Matter Encountering Matter ── Possible HOWs, Amplification, and Conditional Relations](https://camp-us.net/articles/MC-02_Materia-Occurrens_v0.2.html)  
 
@@ -933,6 +931,20 @@ $$
 その後で、もう一度なぞる。
 
 **なぞって謎る。**
+
+---
+
+$$
+\boxed{ TUP\text{-}LIF\text{-}03 }
+$$
+
+[Research Protocol v0.2](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Protocol_v0.2.html)  
+[Research Log](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Nicholson-Background-Audit_RN.html)  
+↳ **[Nicholson Background Audit v0.1｜Independent Working Log](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Nicholson-Background-Audit_RN.html)**  
+↳ **[Method Note｜Before Classifying the Object, Record the Urge to Classify](https://camp-us.net/articles/TUP-LIF-03_Method-Note_Before-Classifying-the-Object.html)**  
+↳ **[RN｜Tracing Origin-of-Life Theories from the Boundary](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-Origin-of-Life-Theories-from-the-Boundary.html)**  
+↳ **[RN｜Tracing the RNA World from the Boundary](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-the-RNA-World-from-the-Boundary.html)**  
+↳ **[RN｜Tracing Protocells from the Boundary](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-Protocells-from-the-Boundary.html)**  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

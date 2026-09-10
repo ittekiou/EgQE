@@ -1054,6 +1054,19 @@ $$
 $$
 \boxed{ Method\ Trace \neq Method\ Rail }
 $$
+---
+
+$$
+\boxed{ TUP\text{-}LIF\text{-}03 }
+$$
+
+[Research Protocol v0.2](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Protocol_v0.2.html)  
+[Research Log](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Nicholson-Background-Audit_RN.html)  
+↳ **[Nicholson Background Audit v0.1｜Independent Working Log](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Nicholson-Background-Audit_RN.html)**  
+↳ **[Method Note｜Before Classifying the Object, Record the Urge to Classify](https://camp-us.net/articles/TUP-LIF-03_Method-Note_Before-Classifying-the-Object.html)**  
+↳ **[RN｜Tracing Origin-of-Life Theories from the Boundary](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-Origin-of-Life-Theories-from-the-Boundary.html)**  
+↳ **[RN｜Tracing the RNA World from the Boundary](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-the-RNA-World-from-the-Boundary.html)**  
+↳ **[RN｜Tracing Protocells from the Boundary](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-Protocells-from-the-Boundary.html)**  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

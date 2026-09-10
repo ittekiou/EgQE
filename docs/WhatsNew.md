@@ -23,6 +23,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [MC-01｜Materia Mutans (v1.0) ── How Can Change Change the Space of Possible Change?](https://camp-us.net/articles/MC-01_Materia-Mutans_v1.0.html)  
 [MC-02｜Materia Occurrens (v0.1)｜Matter Encountering Matter ── Repeat, Surplus, Again?](https://camp-us.net/articles/MC-02_Materia-Occurrens_v0.1.html)  
 [MC-02｜Materia Occurrens v0.2｜Matter Encountering Matter ── Possible HOWs, Amplification, and Conditional Relations](https://camp-us.net/articles/MC-02_Materia-Occurrens_v0.2.html)  
+[TUP-LIF-03 Method Note｜対象を分類する前に、分類したがるこちらを記録する ── TUP-LIF-03 中間Method Note｜Before Classifying the Object, Record the Urge to Classify — A Methodological Trace from the TUP-LIF-03 Inquiry](https://camp-us.net/articles/TUP-LIF-03_Method-Note_Before-Classifying-the-Object.html)  
+[TUP-LIF-03 RN｜各生命起源説は、どこでMatterをLifeと呼び始めるのか？ ── 生命起源論を「境界」からなぞるための仮説的探索ドラフト｜Tracing Origin-of-Life Theories from the Boundary — How, If at All, Does Matter Come to Be Called Life?](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-Origin-of-Life-Theories-from-the-Boundary.html)  
 [TUP-LIF-03 RN｜RNA Worldを境界からなぞる｜Tracing the RNA World from the Boundary — Replication, Self, Internal Updating, Editing, and Life](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-the-RNA-World-from-the-Boundary.html)  
 [TUP-LIF-03 RN｜Protocellを境界からなぞる｜Tracing Protocells from the Boundary — From Compartment to “Update of WHAT?”](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-Protocells-from-the-Boundary.html)  
 ###### 2026/09/09  

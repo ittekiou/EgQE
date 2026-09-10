@@ -326,6 +326,20 @@ Schrödinger自身は、生命の何を問題・謎として前景化したか�
 
 ---
 
+$$
+\boxed{ TUP\text{-}LIF\text{-}03 }
+$$
+
+[Research Protocol v0.2](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Research-Protocol_v0.2.html)  
+[Research Log](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Nicholson-Background-Audit_RN.html)  
+↳ **[Nicholson Background Audit v0.1｜Independent Working Log](https://camp-us.net/articles/TUP-LIF-03_What-Is-Life_Nicholson-Background-Audit_RN.html)**  
+↳ **[Method Note｜Before Classifying the Object, Record the Urge to Classify](https://camp-us.net/articles/TUP-LIF-03_Method-Note_Before-Classifying-the-Object.html)**  
+↳ **[RN｜Tracing Origin-of-Life Theories from the Boundary](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-Origin-of-Life-Theories-from-the-Boundary.html)**  
+↳ **[RN｜Tracing the RNA World from the Boundary](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-the-RNA-World-from-the-Boundary.html)**  
+↳ **[RN｜Tracing Protocells from the Boundary](https://camp-us.net/articles/TUP-LIF-03_RN_Tracing-Protocells-from-the-Boundary.html)**  
+
+---
+
 [TUP-LIF-01｜生命とは何か ── 他者・編集・痕跡から考えるTrace Updating Practice](https://camp-us.net/articles/TUP-LIF-01_Life-to-TUP.html)  
 [TUP-LIF-02｜海とre-TUPする生命 ── 流動場の局所化と「内部」の生成](https://camp-us.net/articles/TUP-LIF-02_Life_re-TUPing-with-Sea.html)  
 
