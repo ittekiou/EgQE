@@ -16,7 +16,7 @@ date: 2026-09-10
 
 本稿は、生命の特徴を物質へ投影することをいったん留保し、**HOW does Matter change?** という問いから、Fire、Catalyst、COH、N、P、S、NPSを順になぞる。ここでHOWは、物質から独立して作用するAgentでも、物質変化を最終的に説明するGroundでもない。具体的なchemical relations、states、conditionsのもとで、変化がどのように記述されるかを問い直すProbeである。
 
-MC-01 v0.1・v0.9を、TUP-SAT-00の「効く」と矢印への監査に照らしてre-Traceすると、変化そのものと、変化のあとに可能と記述される変化との差を分けて問う必要がある。あるstate changeに伴い、次に可能なreaction pathwaysや、それらの接続・到達可能性が異なりうる。ただし、この差をHOW同士の作用として実体化せず、可能性の複数性をそのままSpaceとも呼ばない。MC-RN-01との接点は、**Change can change the space of possible change.** という限定的なProbeにある。本稿はその成立条件を問う入口を示すものであり、生命、再帰、物理空間の生成を導くものではない。
+MC-01 [v0.1](https://camp-us.net/articles/MC-01_Materia-Mutans_v0.1.html)・[v0.9](https://camp-us.net/articles/MC-01_Materia-Mutans_v0.9.html)を、[TUP-SAT-00](https://camp-us.net/articles/TUP-SAT-00_Sign-Act-to-TUP-HOW_re-Trace.html)の「効く」と矢印への監査に照らしてre-Traceすると、変化そのものと、変化のあとに可能と記述される変化との差を分けて問う必要がある。あるstate changeに伴い、次に可能なreaction pathwaysや、それらの接続・到達可能性が異なりうる。ただし、この差をHOW同士の作用として実体化せず、可能性の複数性をそのままSpaceとも呼ばない。[MC-RN-01](https://camp-us.net/articles/MC-RN-01_Generation-of-Space_Possible-HOWs-to-WHERE.html)との接点は、**Change can change the space of possible change.** という限定的なProbeにある。本稿はその成立条件を問う入口を示すものであり、生命、再帰、物理空間の生成を導くものではない。
 
 **Keywords:** Matter Chemistry; HOW; state-dependence; possible HOWs; relational position; Trace
 
