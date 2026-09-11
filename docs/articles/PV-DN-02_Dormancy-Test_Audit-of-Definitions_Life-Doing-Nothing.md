@@ -726,6 +726,10 @@ _Life Doing Nothing — Dormancy as a Simultaneous Audit of Definitions of Life_
 **Relation:** [PV-DN-01](https://camp-us.net/articles/PV-DN-01_Scaffolding-Life_A-Provisional-TUP-Definition-for-Simultaneous-Audit.html) → PV-DN-02  
 **Next:** Dormant / Dead — Not Yet
 
+**FOR NEXT — Seed was our probe. Spore was already NASA's problem.**  
+`Definition Vocabulary ≠ Operational Vocabulary?`  
+`One Institution ≠ One Life Vocabulary?`
+
 ---
 
 [PV-DN-01｜生命を仮設する ── 三者同時監査のためのTUP暫定定義｜Scaffolding Life — A Provisional TUP Definition for Simultaneous Audit](https://camp-us.net/articles/PV-DN-01_Scaffolding-Life_A-Provisional-TUP-Definition-for-Simultaneous-Audit.html)  
