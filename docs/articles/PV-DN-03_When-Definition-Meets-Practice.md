@@ -611,7 +611,7 @@ $$
 
 ---
 
-[PV-DN-04｜Viability Audit 眠っている生命は、未来によって測られるのか｜Is Dormant Life Measured by Its Future?](https://camp-us.net/articles/.html)  
+[PV-DN-04｜Viability Audit 眠っている生命は、未来によって測られるのか｜Is Dormant Life Measured by Its Future?](https://camp-us.net/articles/PV-DN-04_Viability-Audit_Dormant-Life-Measured-by-Future.html)  
 
 ---
 
