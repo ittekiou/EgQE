@@ -91,7 +91,7 @@ $$
 
 それとも二度目のEncounterから振り返ったときに、初めてそのような軌道として露出したのか。
 
-SAT-00は、この問題を解決しなかった。
+[SAT-00](https://camp-us.net/articles/TUP-SAT-00_Sign-Act-to-TUP-HOW_re-Trace.html)は、この問題を解決しなかった。
 
 むしろTraceから作用・方向・決定性を剥がしながら、
 
@@ -315,7 +315,7 @@ differenceが残る。
 
 後続relationへ影響する場合も、知られている影響を持たない場合もある。
 
-Tracehoodをeffectによって分ければ、SAT-00で監査した`効く`が帰ってくる。
+Tracehoodをeffectによって分ければ、[SAT-00](https://camp-us.net/articles/TUP-SAT-00_Sign-Act-to-TUP-HOW_re-Trace.html)で監査した`効く`が帰ってくる。
 
 ### Fully Erased Difference
 
@@ -687,7 +687,7 @@ $$
 
 とはまだ書かない。
 
-SAT-00で疑った矢印を、ここでも先取りしない。
+[SAT-00](https://camp-us.net/articles/TUP-SAT-00_Sign-Act-to-TUP-HOW_re-Trace.html)で疑った矢印を、ここでも先取りしない。
 
 そして問う。
 
@@ -701,7 +701,7 @@ $$
 
 ここで生命坑道から一つだけ検体を戻す。
 
-PV-DN-04では、休眠sporeについて、
+[PV-DN-04](https://camp-us.net/articles/PV-DN-04_Viability-Audit_Dormant-Life-Measured-by-Future.html)では、休眠sporeについて、
 
 $$
 Dormancy | Viability | Assay | Later\ Growth
