@@ -23,6 +23,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [MC-RN-03｜時間生成論 試論 ── Change, Again, Trace, and Next｜The Generation of Time: A Preliminary Inquiry — Change, Again, Trace, and Next](https://camp-us.net/articles/MC-RN-03_Generation-of-Time_Change-Again-Trace-Next.html)  
 [Principia Vita v0.2｜Toward a Natural Philosophy of Life ── From Axiomata Vitae to Problemata Vitae](https://camp-us.net/articles/Principia-Vita_v0.2.html)  
 [PV-DN-01｜生命を仮設する ── 三者同時監査のためのTUP暫定定義｜Scaffolding Life — A Provisional TUP Definition for Simultaneous Audit](https://camp-us.net/articles/PV-DN-01_Scaffolding-Life_A-Provisional-TUP-Definition-for-Simultaneous-Audit.html)  
+[PV-DN-02｜Dormancy Test 何もしない生命 ── 生命定義の三者同時監査｜Life Doing Nothing — Dormancy as a Simultaneous Audit of Definitions of Life](https://camp-us.net/articles/PV-DN-02_Dormancy-Test_Audit-of-Definitions_Life-Doing-Nothing.html)  
 ###### 2026/09/10  
 [MC-01｜Materia Mutans (v1.0) ── How Can Change Change the Space of Possible Change?](https://camp-us.net/articles/MC-01_Materia-Mutans_v1.0.html)  
 [MC-02｜Materia Occurrens (v0.1)｜Matter Encountering Matter ── Repeat, Surplus, Again?](https://camp-us.net/articles/MC-02_Materia-Occurrens_v0.1.html)  

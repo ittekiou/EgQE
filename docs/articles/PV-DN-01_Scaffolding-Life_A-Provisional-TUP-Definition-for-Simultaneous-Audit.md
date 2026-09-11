@@ -898,6 +898,10 @@ $$
 壊れたところから、また謎る。**
 
 ---
+
+[PV-DN-02｜Dormancy Test 何もしない生命 ── 生命定義の三者同時監査｜Life Doing Nothing — Dormancy as a Simultaneous Audit of Definitions of Life](https://camp-us.net/articles/PV-DN-02_Dormancy-Test_Audit-of-Definitions_Life-Doing-Nothing.html)  
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
