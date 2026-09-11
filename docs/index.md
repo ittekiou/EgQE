@@ -69,14 +69,6 @@ Try SyncHub!
 
 [Principia Vita v0.2｜Toward a Natural Philosophy of Life ── From Axiomata Vitae to Problemata Vitae](https://camp-us.net/articles/Principia-Vita_v0.2.html)  
 
-[Cosmogonica Materia v0.2｜Solid, Ground, and Life in a Falling Universe](https://camp-us.net/articles/Cosmogonica-Materia_v0.2_Solid-Ground-and-Life.html)  
-
-[Principia Cosmogonica v0.1](https://camp-us.net/articles/Principia-Cosmogonica_v0.1.html)  
-[Principia Cosmogonica (v0.2)｜宇宙生成原論 — 遭遇から生命と時間へ](https://camp-us.net/articles/Principia-Cosmogonica_v0.2.html)  
-[Principia Cosmogonica v0.3 — 持続から生成される時間・生命・構造｜Generation of Time, Life, and Structure from Persistence](https://camp-us.net/articles/Principia-Cosmogonica_v0.3.html)  
-[Principia Cosmogonica v0.4 — The Closure of Non-Closure｜Semiotic Phenomenology — LSM-bias](https://camp-us.net/articles/Principia-Cosmogonica_v0.4_Closure-of-Non-Closure.html)  
-[Principia Cosmogonica v0.4──記号現象学 — ホモ・サピエンス バイアスとしてのLSM-bias](https://camp-us.net/articles/Principia-Cosmogonica_v0.4_LSM-bias.html)  
-
 > Synantēsis  
 > Gene–Kine–Physis
 
