@@ -947,7 +947,7 @@ $$
 
 ---
 
-[MC-RN-01｜空間生成論 試論 ── Possible HOWsからWHEREへ｜The Generation of Space ── From Possible HOWs to WHERE](https://camp-us.net/articles/MC-RN-01_Generation-of-Space_Possible-HOWs-to-WHERE.html)  
+[MC-RN-01｜空間生成論 試論 ── Possible HOWsからWHEREへ｜The Generation of Space: A Preliminary Inquiry ── From Possible HOWs to WHERE](https://camp-us.net/articles/MC-RN-01_Generation-of-Space_Possible-HOWs-to-WHERE.html)  
 
 [MC-01｜Materia Mutans (v1.0) ── How Can Change Change the Space of Possible Change?](https://camp-us.net/articles/MC-01_Materia-Mutans_v1.0.html)  
 [MC-02｜Materia Occurrens v0.2｜Matter Encountering Matter ── Possible HOWs, Amplification, and Conditional Relations](https://camp-us.net/articles/MC-02_Materia-Occurrens_v0.2.html)  

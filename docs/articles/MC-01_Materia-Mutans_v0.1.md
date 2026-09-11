@@ -3914,7 +3914,7 @@ $$
 
 ---
 
-[MC-RN-01｜空間生成論 試論 ── Possible HOWsからWHEREへ｜The Generation of Space ── From Possible HOWs to WHERE](https://camp-us.net/articles/MC-RN-01_Generation-of-Space_Possible-HOWs-to-WHERE.html)  
+[MC-RN-01｜空間生成論 試論 ── Possible HOWsからWHEREへ｜The Generation of Space: A Preliminary Inquiry ── From Possible HOWs to WHERE](https://camp-us.net/articles/MC-RN-01_Generation-of-Space_Possible-HOWs-to-WHERE.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

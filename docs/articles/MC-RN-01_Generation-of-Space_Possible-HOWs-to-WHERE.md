@@ -1,11 +1,12 @@
 ---
 layout: math
 title: MC-RN-01｜空間生成論 試論 ── Possible HOWsからWHEREへ
-title_en: MC-RN-01｜The Generation of Space ── From Possible HOWs to WHERE
+title_en: "MC-RN-01｜The Generation of Space: A Preliminary Inquiry ── From Possible HOWs to WHERE"
 ---
 ### **Matter Chemistry RN-01｜The Generation of Space**
 # 空間生成論 試論
 ## ── Possible HOWsからWHEREへ
+## The Generation of Space: A Preliminary Inquiry
 #### ── From Possible HOWs to WHERE
 
 > **Space may not precede change.  
