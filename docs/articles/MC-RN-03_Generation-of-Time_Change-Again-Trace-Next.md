@@ -1180,6 +1180,11 @@ $$
 $$
 \boxed{ \textbf{時間と呼びたくなった場所を記録する。} }
 $$
+---
+
+$$
+\boxed{\textbf{Change. Again? Trace? Next? Time?}}
+$$
 
 ---
 
