@@ -968,11 +968,11 @@ $$
 \boxed{ What\ persists? \quad\longrightarrow\quad What\ can\ still\ be\ lost? }
 $$
 
+**保存の問いから、喪失可能性の問いへのZURE。**
+
 $$
 What\ has\ already\ been\ lost?
 $$
-
-**保存の問いから、喪失可能性の問いへのZURE。**
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
