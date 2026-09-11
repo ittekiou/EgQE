@@ -612,6 +612,7 @@ $$
 ---
 
 [PV-DN-04｜Viability Audit 眠っている生命は、未来によって測られるのか｜Is Dormant Life Measured by Its Future?](https://camp-us.net/articles/PV-DN-04_Viability-Audit_Dormant-Life-Measured-by-Future.html)  
+[PV-DN-05｜Death Test 二粒の種子──死ぬと何が失われるのか｜Two Seeds — What, If Anything, Is Lost in Death?](https://camp-us.net/articles/PV-DN-05_Death-Test_Two-Seeds_Lost-in-Death.html)  
 
 ---
 

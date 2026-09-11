@@ -877,6 +877,7 @@ Traceを先に置くことを、いったんやめた。**
 [PV-DN-02｜Dormancy Test 何もしない生命 ── 生命定義の三者同時監査](https://camp-us.net/articles/PV-DN-02_Dormancy-Test_Audit-of-Definitions_Life-Doing-Nothing.html)  
 [PV-DN-03｜When Definition Meets Practice 生命を定義するNASA、生命を探すNASA、眠る生命を運ばないNASA](https://camp-us.net/articles/PV-DN-03_When-Definition-Meets-Practice.html)  
 [PV-DN-04｜Viability Audit 眠っている生命は、未来によって測られるのか](https://camp-us.net/articles/PV-DN-04_Viability-Audit_Dormant-Life-Measured-by-Future.html)  
+[PV-DN-05｜Death Test 二粒の種子──死ぬと何が失われるのか｜Two Seeds — What, If Anything, Is Lost in Death?](https://camp-us.net/articles/PV-DN-05_Death-Test_Two-Seeds_Lost-in-Death.html)  
 
 ---
 

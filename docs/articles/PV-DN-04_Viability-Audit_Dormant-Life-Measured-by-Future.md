@@ -612,6 +612,10 @@ $$
 
 ---
 
+[PV-DN-05｜Death Test 二粒の種子──死ぬと何が失われるのか｜Two Seeds — What, If Anything, Is Lost in Death?](https://camp-us.net/articles/PV-DN-05_Death-Test_Two-Seeds_Lost-in-Death.html)  
+
+---
+
 [PV-DN-01｜生命を仮設する ── 三者同時監査のためのTUP暫定定義｜Scaffolding Life — A Provisional TUP Definition for Simultaneous Audit](https://camp-us.net/articles/PV-DN-01_Scaffolding-Life_A-Provisional-TUP-Definition-for-Simultaneous-Audit.html)  
 [PV-DN-02｜Dormancy Test 何もしない生命 ── 生命定義の三者同時監査｜Life Doing Nothing — Dormancy as a Simultaneous Audit of Definitions of Life](https://camp-us.net/articles/PV-DN-02_Dormancy-Test_Audit-of-Definitions_Life-Doing-Nothing.html)  
 [PV-DN-03｜When Definition Meets Practice 生命を定義するNASA、生命を探すNASA、眠る生命を運ばないNASA｜Working Definition, Life Detection, and Planetary Protection](https://camp-us.net/articles/PV-DN-03_When-Definition-Meets-Practice.html)  

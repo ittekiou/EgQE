@@ -19,6 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+[PV-DN-05｜Death Test 二粒の種子──死ぬと何が失われるのか｜Two Seeds — What, If Anything, Is Lost in Death?](https://camp-us.net/articles/PV-DN-05_Death-Test_Two-Seeds_Lost-in-Death.html)  
 ###### 2026/09/11  
 [MC-RN-03｜時間生成論 試論 ── Change, Again, Trace, and Next｜The Generation of Time: A Preliminary Inquiry — Change, Again, Trace, and Next](https://camp-us.net/articles/MC-RN-03_Generation-of-Time_Change-Again-Trace-Next.html)  
 [Principia Vita v0.2｜Toward a Natural Philosophy of Life ── From Axiomata Vitae to Problemata Vitae](https://camp-us.net/articles/Principia-Vita_v0.2.html)  

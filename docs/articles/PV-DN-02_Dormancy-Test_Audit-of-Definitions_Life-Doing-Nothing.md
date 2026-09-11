@@ -747,6 +747,8 @@ $\;|\;$ Dormant Forms of Life
 
 **Do not proceed to Death Test yet.**
 
+[PV-DN-05｜Death Test 二粒の種子──死ぬと何が失われるのか｜Two Seeds — What, If Anything, Is Lost in Death?](https://camp-us.net/articles/PV-DN-05_Death-Test_Two-Seeds_Lost-in-Death.html)  
+
 ---
 
 [PV-DN-01｜生命を仮設する ── 三者同時監査のためのTUP暫定定義｜Scaffolding Life — A Provisional TUP Definition for Simultaneous Audit](https://camp-us.net/articles/PV-DN-01_Scaffolding-Life_A-Provisional-TUP-Definition-for-Simultaneous-Audit.html)  
