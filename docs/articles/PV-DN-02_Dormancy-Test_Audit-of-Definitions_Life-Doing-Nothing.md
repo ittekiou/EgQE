@@ -743,7 +743,7 @@ $\;|\;$ Life Detection
 $\;|\;$ Planetary Protection  
 $\;|\;$ Dormant Forms of Life
 
-[PV-DN-03｜When Definition Meets Practice 生命を定義するNASA、生命を探すNASA、眠る生命を運ばないNASA｜— Working Definition, Life Detection, and Planetary Protection](https://camp-us.net/articles/PV-DN-03_When-Definition-Meets-Practice.html)  
+[PV-DN-03｜When Definition Meets Practice 生命を定義するNASA、生命を探すNASA、眠る生命を運ばないNASA｜Working Definition, Life Detection, and Planetary Protection](https://camp-us.net/articles/PV-DN-03_When-Definition-Meets-Practice.html)  
 
 **Do not proceed to Death Test yet.**
 

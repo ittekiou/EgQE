@@ -611,6 +611,10 @@ $$
 
 ---
 
+[PV-DN-04｜Viability Audit 眠っている生命は、未来によって測られるのか｜Is Dormant Life Measured by Its Future?](https://camp-us.net/articles/.html)  
+
+---
+
 [PV-DN-01｜生命を仮設する ── 三者同時監査のためのTUP暫定定義｜Scaffolding Life — A Provisional TUP Definition for Simultaneous Audit](https://camp-us.net/articles/PV-DN-01_Scaffolding-Life_A-Provisional-TUP-Definition-for-Simultaneous-Audit.html)  
 [PV-DN-02｜Dormancy Test 何もしない生命 ── 生命定義の三者同時監査｜Life Doing Nothing — Dormancy as a Simultaneous Audit of Definitions of Life](https://camp-us.net/articles/PV-DN-02_Dormancy-Test_Audit-of-Definitions_Life-Doing-Nothing.html)  
 
