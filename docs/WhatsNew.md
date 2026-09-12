@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/13  
+[TUP-DN Series｜監査ノート統括版 ── Trace on Trial から Fivefold Configuration まで（DN-01〜19）](https://camp-us.net/articles/TUP-DN_Audit_Synthesis.html)  
+[TUP-DN Series｜監査ノート個別版 ── DN-01〜19](https://camp-us.net/articles/TUP-DN_Audit-All.html)  
 ###### 2026/09/12  
 [PV-DN-05｜Death Test 二粒の種子──死ぬと何が失われるのか｜Two Seeds — What, If Anything, Is Lost in Death?](https://camp-us.net/articles/PV-DN-05_Death-Test_Two-Seeds_Lost-in-Death.html)  
 [AP-01｜Amazon Problem ── 6,550円は「あった」のか](https://camp-us.net/articles/TUP-AP-01_Amazon-Problem_1.html)  
