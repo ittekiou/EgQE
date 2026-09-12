@@ -1,7 +1,7 @@
 ---
 layout: math
 title: TUP-DN-07｜History-bearing は、どこにあるのか
-title_en: TUP-DN-07｜Where Is History? ──  System / Relation / Observer
+title_en: TUP-DN-07｜Where Is History? ── System / Relation / Observer
 ---
 # TUP-DN-07｜Where Is History?
 
@@ -706,7 +706,7 @@ Dependency.
 
 ---
 
-
+[TUP-DN-08｜Tracehoodは単数か、複数か｜Plural Tracehood ── When Does Something Work as a Trace?](https://camp-us.net/articles/TUP-DN-08_Plural-Tracehood_When-Does-Something-Work-as-Trace.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
