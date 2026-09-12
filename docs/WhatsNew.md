@@ -35,7 +35,13 @@ From Noise to Notation. From Dialogue to Discovery.
 
 [TUP-DN-11｜TraceはUpdatingに先行するのか｜Is Trace Prior to Updating? ── TUP itself on Trial](https://camp-us.net/articles/TUP-DN-11_Trace-Prior-to-Updating_TUP-on-Trial.html)  
 [TUP-DN-12｜八つの構文は、同じことを言っているのか｜Eight Trace–Update Constructions ── Trace / Tracing / Update / Updating](https://camp-us.net/articles/TUP-DN-12_Eight-TraceUpdate-Constructions_Trace-Tracing-Update-Updating.html)  
-
+[TUP-DN-13｜Update / Updating は何を付け加えるのか｜Updating ≠ Change? ── The U on Trial](https://camp-us.net/articles/TUP-DN-13_Updating_Change_U-on-Trial.html)  
+[TUP-DN-14｜Tracingあり／なし × Updatingあり／なし｜Tracing × Updating ── The Second Cross Test](https://camp-us.net/articles/TUP-DN-14_Tracing-Updating_The-Second-Cross-Test.html)  
+[TUP-DN-15｜ProcessはいつPracticeになるのか｜Practice ≠ Process? ── The P on Trial](https://camp-us.net/articles/TUP-DN-15_Practice_Process_P-on-Trial.html)  
+[TUP-DN-16｜八つの構文へ帰還する｜Return to the Eight ── A Grammar Audit of Trace and Update](https://camp-us.net/articles/TUP-DN-16_Return-to-the-Eight_Grammar-Audit_Trace-Update.html)  
+[TUP-DN-17｜TraceとTracingは、何が違うのか｜Trace ≠ Tracing ── The Missing T](https://camp-us.net/articles/TUP-DN-17_Trace-Tracing_Missing-T.html)  
+[TUP-DN-18｜五項は、どう配置されるのか｜Fivefold Configuration ── Trace / Tracing / Updating / Practice / ZURERU](https://camp-us.net/articles/TUP-DN-18_Fivefold-Configuration_Trace-Tracing-Updating-Practice-ZURERU.html)  
+[TUP-DN-19｜漢字ドリルからTUPへ──発生順による耐久テスト｜From Kanji Drill to TUP ── Dog / AI / Homo sapiens / Matter Stress Test](https://camp-us.net/articles/TUP-DN-19_From-Kanji-Drill-to-TUP_Dog-AI-Homo-sapiens-Matter_Stress-Test.html)  
 ###### 2026/09/11  
 [MC-RN-03｜時間生成論 試論 ── Change, Again, Trace, and Next｜The Generation of Time: A Preliminary Inquiry — Change, Again, Trace, and Next](https://camp-us.net/articles/MC-RN-03_Generation-of-Time_Change-Again-Trace-Next.html)  
 [Principia Vita v0.2｜Toward a Natural Philosophy of Life ── From Axiomata Vitae to Problemata Vitae](https://camp-us.net/articles/Principia-Vita_v0.2.html)  
