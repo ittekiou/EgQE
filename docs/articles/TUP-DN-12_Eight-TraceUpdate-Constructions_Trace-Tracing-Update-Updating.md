@@ -1,5 +1,5 @@
 ---
-layout:
+layout: math
 title: TUP-DN-12｜八つの構文は、同じことを言っているのか
 title_en: TUP-DN-12｜Eight Trace–Update Constructions ── Trace / Tracing / Update / Updating
 ---
