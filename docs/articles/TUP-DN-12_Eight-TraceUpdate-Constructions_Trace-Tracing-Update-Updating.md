@@ -17,15 +17,9 @@ title_en: TUP-DN-12｜Eight Trace–Update Constructions ── Trace / Tracing 
 
 ---
 
-Traceを裁いていたら、
+Traceを裁いていたら、Updatingが怪しくなった。
 
-Updatingが怪しくなった。
-
-さらによく見ると、
-
-われわれは複数の語を、
-
-かなり自由に行き来していた。
+さらによく見ると、われわれは複数の語を、かなり自由に行き来していた。
 
 **trace**
 
@@ -47,13 +41,9 @@ Updatingが怪しくなった。
 
 似ている。
 
-しかし、
+しかし、同じではない。
 
-同じではない。
-
-ここで一度、
-
-八つを分ける。
+ここで一度、八つを分ける。
 
 ---
 
@@ -85,15 +75,9 @@ Updatingが怪しくなった。
 
 足跡。
 
-しかし、
+しかし、Trace on Trialを通して、この読みは何度も疑われた。
 
-Trace on Trialを通して、
-
-この読みは何度も疑われた。
-
-somethingが存在することと、
-
-それがTraceとして働くことは同じではない。
+somethingが存在することと、それがTraceとして働くことは同じではない。
 
 だから、
 
@@ -101,9 +85,7 @@ somethingが存在することと、
 
 とは置けない。
 
-traceは、
-
-entityかもしれない。
+traceは、entityかもしれない。
 
 positionかもしれない。
 
@@ -119,9 +101,7 @@ relationかもしれない。
 
 **tracing**
 
-にすると、
-
-急に動きが出る。
+にすると、急に動きが出る。
 
 何かをなぞる。
 
@@ -129,25 +109,13 @@ relationかもしれない。
 
 何かをTraceとして読む。
 
-あるいは、
+あるいは、somethingをTrace-positionへ置く。
 
-somethingをTrace-positionへ置く。
+ここでは、完成したTraceが先にあるとは限らない。
 
-ここでは、
+Tracingによって、何かがTraceとして立ち上がる可能性もある。
 
-完成したTraceが先にあるとは限らない。
-
-Tracingによって、
-
-何かがTraceとして立ち上がる可能性もある。
-
-しかし逆に、
-
-Tracingと言うためには、
-
-何をTracingしているのか、
-
-というprior somethingを要求したくなる。
+しかし逆に、Tracingと言うためには、何をTracingしているのか、というprior somethingを要求したくなる。
 
 だから、
 
@@ -155,9 +123,7 @@ Tracingと言うためには、
 
 という問題が生じた。
 
-traceとtracingは、
-
-単なる名詞／動名詞の違いではない。
+traceとtracingは、単なる名詞／動名詞の違いではない。
 
 ---
 
@@ -167,9 +133,7 @@ traceとtracingは、
 
 **update**。
 
-名詞として読めば、
-
-更新された内容。
+名詞として読めば、更新された内容。
 
 更新差分。
 
@@ -177,25 +141,15 @@ version change。
 
 ある時点で生じた更新。
 
-動詞として読めば、
+動詞として読めば、何かを更新するoperation。
 
-何かを更新するoperation。
-
-ここには、
-
-対象が想定されやすい。
+ここには、対象が想定されやすい。
 
 **update X**
 
 である。
 
-つまりupdateも、
-
-何かが先に存在し、
-
-それに変更を加える、
-
-という文法を持ちやすい。
+つまりupdateも、何かが先に存在し、それに変更を加える、という文法を持ちやすい。
 
 ---
 
@@ -203,11 +157,7 @@ version change。
 
 **updating**
 
-にすると、
-
-焦点は更新されたものではなく、
-
-更新している／されているprocessへ移る。
+にすると、焦点は更新されたものではなく、更新している／されているprocessへ移る。
 
 configuration₁。
 
@@ -215,21 +165,13 @@ configuration₂。
 
 configuration₃。
 
-それらのdifferenceを、
+それらのdifferenceを、連続するprocessとして読む。
 
-連続するprocessとして読む。
+しかし、前稿で問題になった。
 
-しかし、
+Updatingは、単なるChangeなのか。
 
-前稿で問題になった。
-
-Updatingは、
-
-単なるChangeなのか。
-
-もし違うなら、
-
-何が違うのか。
+もし違うなら、何が違うのか。
 
 history-bearingなのか。
 
@@ -245,19 +187,13 @@ prior configurationがlater configurationにmatterすることなのか。
 
 **trace / tracing**
 
-traceは、
+traceは、何かを一度止めて見る。
 
-何かを一度止めて見る。
-
-tracingは、
-
-止めずに追う。
+tracingは、止めずに追う。
 
 そう言いたくなる。
 
-しかし、
-
-これは単純化しすぎかもしれない。
+しかし、これは単純化しすぎかもしれない。
 
 重要なのは、
 
@@ -287,21 +223,13 @@ tracingが、
 
 **update / updating**
 
-updateは、
+updateは、更新を一つの単位として切り出しやすい。
 
-更新を一つの単位として切り出しやすい。
+updatingは、切り出しそのものが進行中であることを残しやすい。
 
-updatingは、
+updateには、before / afterが見える。
 
-切り出しそのものが進行中であることを残しやすい。
-
-updateには、
-
-before / afterが見える。
-
-updatingには、
-
-before / afterのあいだも問題になる。
+updatingには、before / afterのあいだも問題になる。
 
 ただし、
 
@@ -309,9 +237,7 @@ before / afterのあいだも問題になる。
 
 英語文法だけで存在論を決めてはいけない。
 
-ここでは、
-
-語が誘う構文のdifferenceとして観察する。
+ここでは、語が誘う構文のdifferenceとして観察する。
 
 ---
 
@@ -335,23 +261,15 @@ Tracingそのものが更新される。
 
 Tracingによって生じたupdate。
 
-前者なら、
+前者なら、更新対象はTracingである。
 
-更新対象はTracingである。
-
-後者なら、
-
-Tracingはupdate生成のprocessである。
+後者なら、Tracingはupdate生成のprocessである。
 
 つまり、
 
-tracing updateは、
+tracing updateは、すでに曖昧である。
 
-すでに曖昧である。
-
-しかし、
-
-この曖昧さが面白い。
+しかし、この曖昧さが面白い。
 
 ---
 
@@ -387,9 +305,7 @@ Tracingの仕方を変える。
 
 つまり、
 
-語順を反転しただけで、
-
-対象とprocessの位置が入れ替わる。
+語順を反転しただけで、対象とprocessの位置が入れ替わる。
 
 ---
 
@@ -405,13 +321,9 @@ Tracingの仕方を変える。
 
 である。
 
-Traceが先にあり、
+Traceが先にあり、それ自身が変わり続ける。
 
-それ自身が変わり続ける。
-
-これは、
-
-identity preservation問題を呼び戻す。
+これは、identity preservation問題を呼び戻す。
 
 何が同じTraceなのか。
 
@@ -421,19 +333,13 @@ identity preservation問題を呼び戻す。
 
 である。
 
-configuration changeそのものが、
+configuration changeそのものが、何かをTrace-positionへ置く。
 
-何かをTrace-positionへ置く。
-
-この場合、
-
-TraceはUpdatingより後に見える。
+この場合、TraceはUpdatingより後に見える。
 
 しかし、
 
-前後を固定した瞬間、
-
-また矢印を密輸入する。
+前後を固定した瞬間、また矢印を密輸入する。
 
 ---
 
@@ -453,9 +359,7 @@ Traceが先。
 
 Updatingが後。
 
-だから、
-
-Trace-first grammarを誘う。
+だから、Trace-first grammarを誘う。
 
 しかし別の読みも可能である。
 
@@ -469,9 +373,7 @@ Trace-first grammarを誘う。
 
 Traceは固定対象ではなくなる。
 
-同じ二語なのに、
-
-構文が変わる。
+同じ二語なのに、構文が変わる。
 
 ---
 
@@ -510,9 +412,7 @@ Traceは固定対象ではなくなる。
 
 は、
 
-名詞として置いた瞬間、
-
-切断されたsomethingを作りやすい。
+名詞として置いた瞬間、切断されたsomethingを作りやすい。
 
 一方、
 
@@ -522,13 +422,9 @@ Traceは固定対象ではなくなる。
 
 **updating**
 
-は、
+は、processを前景化する。
 
-processを前景化する。
-
-だから安全、
-
-というわけでもない。
+だから安全、というわけでもない。
 
 processも実体化できる。
 
@@ -536,9 +432,7 @@ processも実体化できる。
 
 「Updatingというprocessが流れている」
 
-と言えば、
-
-別のthingを作っただけになる。
+と言えば、別のthingを作っただけになる。
 
 したがって、
 
@@ -558,25 +452,17 @@ processも実体化できる。
 
 **trace updating**
 
-と書けば、
-
-TraceがUpdatingに先行するように見える。
+と書けば、TraceがUpdatingに先行するように見える。
 
 **updating trace**
 
-と書けば、
-
-UpdatingがTraceに先行するように見える。
+と書けば、UpdatingがTraceに先行するように見える。
 
 しかし、
 
-実際のOccurrenceに、
+実際のOccurrenceに、その順序があるとは限らない。
 
-その順序があるとは限らない。
-
-語順が、
-
-存在論的順序を生成してしまう。
+語順が、存在論的順序を生成してしまう。
 
 これは、
 
@@ -589,7 +475,6 @@ UpdatingがTraceに先行するように見える。
 # 14｜Tracing / Updating
 
 では、
-
 名詞を全部捨てて、
 
 **tracing / updating**
@@ -598,41 +483,25 @@ UpdatingがTraceに先行するように見える。
 
 そうとも限らない。
 
-Tracingは、
+Tracingは、prior somethingを要求するように見える。
 
-prior somethingを要求するように見える。
+Updatingは、prior configurationを要求するように見える。
 
-Updatingは、
-
-prior configurationを要求するように見える。
-
-どちらにも、
-
-beforeが潜んでいる。
+どちらにも、beforeが潜んでいる。
 
 つまり、
 
-process語にしても、
-
-history問題は消えない。
+process語にしても、history問題は消えない。
 
 ---
 
 # 15｜Trace / Update
 
-逆に、
+逆に、trace / updateを比較すると、妙なdifferenceがある。
 
-trace / updateを比較すると、
+Traceは、beforeからlaterへ何かが残ることを連想させる。
 
-妙なdifferenceがある。
-
-Traceは、
-
-beforeからlaterへ何かが残ることを連想させる。
-
-Updateは、
-
-beforeとlaterのdifferenceを連想させる。
+Updateは、beforeとlaterのdifferenceを連想させる。
 
 一方は、
 
@@ -650,9 +519,7 @@ beforeとlaterのdifferenceを連想させる。
 
 **Trace Updating**
 
-という二語は、
-
-最初から緊張している。
+という二語は、最初から緊張している。
 
 **remain / change**
 
@@ -664,25 +531,13 @@ beforeとlaterのdifferenceを連想させる。
 
 ここで反転する。
 
-もしかすると、
+もしかすると、Trace Updatingという語の問題は、矛盾していることではない。
 
-Trace Updatingという語の問題は、
+むしろ、その緊張こそ、最初から仕事をしていたのかもしれない。
 
-矛盾していることではない。
+Traceは、「残る」を要求する。
 
-むしろ、
-
-その緊張こそ、
-
-最初から仕事をしていたのかもしれない。
-
-Traceは、
-
-「残る」を要求する。
-
-Updatingは、
-
-「変わる」を要求する。
+Updatingは、「変わる」を要求する。
 
 すると、
 
@@ -690,31 +545,19 @@ Trace Updatingは、
 
 > **How can something matter later without remaining the same?**
 
-という問題を、
+という問題を、二語の緊張として抱えていたことになる。
 
-二語の緊張として抱えていたことになる。
-
-これは、
-
-ここまでのTrialで出てきた問いそのものである。
+これは、ここまでのTrialで出てきた問いそのものである。
 
 ---
 
 # 17｜But Do Not Rescue It Yet
 
-しかし、
+しかし、だからTUPは正しかった、とはまだ言わない。
 
-だからTUPは正しかった、
+後から意味を読み込んで、古い語を救済しているだけかもしれない。
 
-とはまだ言わない。
-
-後から意味を読み込んで、
-
-古い語を救済しているだけかもしれない。
-
-必要なのは、
-
-Translation Gain Testである。
+必要なのは、Translation Gain Testである。
 
 **Trace**
 
@@ -734,11 +577,7 @@ Translation Gain Testである。
 
 そして四つの複合構文。
 
-それぞれで、
-
-何が区別でき、
-
-何を密輸入するのか。
+それぞれで、何が区別でき、何を密輸入するのか。
 
 まだ比較する必要がある。
 
@@ -746,9 +585,7 @@ Translation Gain Testである。
 
 # 18｜Updating ≠ Change?
 
-そのために、
-
-まずUを裁く。
+そのために、まずUを裁く。
 
 **Updateとは何か。**
 
@@ -764,31 +601,21 @@ reconfigurationか。
 
 そして、
 
-update / updatingのdifferenceは、
+update / updatingのdifferenceは、理論的に必要なのか。
 
-理論的に必要なのか。
-
-ここを明らかにしなければ、
-
-八つの構文は整理できない。
+ここを明らかにしなければ、八つの構文は整理できない。
 
 ---
 
 # 19｜Tracing ≠ Updating?
 
-さらに、
-
-もう一つ大きな問いが見える。
+さらに、もう一つ大きな問いが見える。
 
 **TracingとUpdatingは何が違うのか。**
 
-Tracingには、
+Tracingには、prior somethingを「辿る」含みがある。
 
-prior somethingを「辿る」含みがある。
-
-Updatingには、
-
-configurationを「変える」含みがある。
+Updatingには、configurationを「変える」含みがある。
 
 では、
 
@@ -796,9 +623,7 @@ Tracing without Updatingはあるか。
 
 Updating without Tracingはあるか。
 
-これは、
-
-以前の、
+これは、以前の、
 
 **TraceなしのTracing / TracingなしのTrace**
 
@@ -812,7 +637,7 @@ Updating without Tracingはあるか。
 
 次のマトリクスができる。
 
-||Updatingあり|Updatingなし|
+| |Updatingあり|Updatingなし|
 |---|---|---|
 |Tracingあり|?|?|
 |Tracingなし|?|?|
@@ -823,23 +648,15 @@ AI.
 
 Homo sapiens.
 
-そして必要なら、
+そして必要なら、物質。
 
-物質。
-
-これを通せば、
-
-TracingとUpdatingのdifferenceが、
-
-かなり露出するはずである。
+これを通せば、TracingとUpdatingのdifferenceが、かなり露出するはずである。
 
 ---
 
 # 21｜Eight Constructions
 
-いまの段階では、
-
-八つを統合しない。
+いまの段階では、八つを統合しない。
 
 **trace**
 
@@ -857,9 +674,7 @@ TracingとUpdatingのdifferenceが、
 
 **trace updating**
 
-似ているからこそ、
-
-分けておく。
+似ているからこそ、分けておく。
 
 語尾のdifference。
 
@@ -871,9 +686,7 @@ process化のdifference。
 
 時間順序のdifference。
 
-それぞれが、
-
-別の構文を誘う。
+それぞれが、別の構文を誘う。
 
 ---
 
@@ -887,14 +700,29 @@ UpdateとUpdatingのズレ。
 
 TracingとUpdatingのズレ。
 
-そして、
-
-語順を反転したときのズレ。
+そして、語順を反転したときのズレ。
 
 それを消さない。
 
-まず、
-
-なぞる。
+まず、なぞる。
 
 Trial continues.
+
+---
+
+[TUP-DN-13｜Update / Updating は何を付け加えるのか｜Updating ≠ Change? ── The U on Trial](https://camp-us.net/articles/TUP-DN-13_Updating_Change_U-on-Trial.html)  
+
+---
+_EgQE — Echo-Genesis Qualia Engine_  
+[camp-us.net](https://camp-us.net/)
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 12, 2026 · Web Sep 12, 2026 |</p>

@@ -30,6 +30,11 @@ From Noise to Notation. From Dialogue to Discovery.
 [TUP-DN-06｜「また」と「もう一度」は何が違うのか｜Recurrence / Re-occurrence ── What Makes an Again?](https://camp-us.net/articles/TUP-DN-06_Recurrence_Re-occurrence_What-Makes-an-Again.html)  
 [TUP-DN-07｜History-bearing は、どこにあるのか｜Where Is History? ── System / Relation / Observer](https://camp-us.net/articles/TUP-DN-07_Where-Is-History_System-Relation-Observer.html)  
 [TUP-DN-08｜Tracehoodは単数か、複数か｜Plural Tracehood ── When Does Something Work as a Trace?](https://camp-us.net/articles/TUP-DN-08_Plural-Tracehood_When-Does-Something-Work-as-Trace.html)  
+[TUP-DN-09｜何も同じでないとき、何が同じなのか｜What Remains the Same? ── Trace without Identity](https://camp-us.net/articles/TUP-DN-09_What-Remains-the-Same_Trace-without-Identity.html)  
+[TUP-DN-10｜「効く」の再審｜What Does “Matter” Mean? ── Does Anything Still Matter?](https://camp-us.net/articles/TUP-DN-10_What-Matter-Mean_Anything-Still-Matter.html)  
+
+[TUP-DN-11｜TraceはUpdatingに先行するのか｜Is Trace Prior to Updating? ── TUP itself on Trial](https://camp-us.net/articles/TUP-DN-11_Trace-Prior-to-Updating_TUP-on-Trial.html)  
+[TUP-DN-12｜八つの構文は、同じことを言っているのか｜Eight Trace–Update Constructions ── Trace / Tracing / Update / Updating](https://camp-us.net/articles/TUP-DN-12_Eight-TraceUpdate-Constructions_Trace-Tracing-Update-Updating.html)  
 
 ###### 2026/09/11  
 [MC-RN-03｜時間生成論 試論 ── Change, Again, Trace, and Next｜The Generation of Time: A Preliminary Inquiry — Change, Again, Trace, and Next](https://camp-us.net/articles/MC-RN-03_Generation-of-Time_Change-Again-Trace-Next.html)  
