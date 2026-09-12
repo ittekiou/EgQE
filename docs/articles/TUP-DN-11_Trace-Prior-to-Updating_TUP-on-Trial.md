@@ -36,19 +36,13 @@ Tracehoodは単数か複数か。
 
 「効く」とは何か。
 
-その結果、
+その結果、一つの可能性が見えてきた。
 
-一つの可能性が見えてきた。
-
-問題は、
-
-Traceの定義だけではないのかもしれない。
+問題は、Traceの定義だけではないのかもしれない。
 
 **Trace Updating**
 
-という語順そのものが、
-
-すでに何かを仮定していたのではないか。
+という語順そのものが、すでに何かを仮定していたのではないか。
 
 ---
 
@@ -62,9 +56,7 @@ TUP.
 
 まずTraceがある。
 
-次に、
-
-そのTraceがUpdatingされる。
+次に、そのTraceがUpdatingされる。
 
 つまり、
 
@@ -72,9 +64,7 @@ TUP.
 
 という構文である。
 
-しかし、
-
-われわれは本当に、
+しかし、われわれは本当に、
 
 Updating以前のTraceを確認したのだろうか。
 
@@ -92,15 +82,9 @@ AIのcontext。
 
 人間が読んだ文章。
 
-これらについて、
+これらについて、「Traceがある」と言う。
 
-「Traceがある」
-
-と言う。
-
-そのあと、
-
-読まれる。
+そのあと、読まれる。
 
 思い出される。
 
@@ -114,31 +98,19 @@ ZUREる。
 
 更新される。
 
-だから、
-
-Trace Updating。
+だから、Trace Updating。
 
 しかし、
 
-最初のsomethingを、
+最初のsomethingを、なぜ最初からTraceと呼んだのか。
 
-なぜ最初からTraceと呼んだのか。
+スクリーンショットは、まず画像ではないのか。
 
-スクリーンショットは、
+記憶は、まず現在のconfigurationではないのか。
 
-まず画像ではないのか。
+contextは、まずinput conditionではないのか。
 
-記憶は、
-
-まず現在のconfigurationではないのか。
-
-contextは、
-
-まずinput conditionではないのか。
-
-それらがlater Encounterで、
-
-Trace-positionを取るのではなかったか。
+それらがlater Encounterで、Trace-positionを取るのではなかったか。
 
 ---
 
@@ -159,15 +131,11 @@ Trace-first grammarを持っている。
 3. Trace remains through Updating.
     
 
-この三つを、
-
-文法だけで暗黙に置いてしまう。
+この三つを、文法だけで暗黙に置いてしまう。
 
 しかし、
 
-ここまでのTrialでは、
-
-三つとも疑われた。
+ここまでのTrialでは、三つとも疑われた。
 
 Traceがentityかどうか。
 
@@ -181,9 +149,7 @@ Updatingをまたいでidentityが保存されるのか。
 
 # 4｜Updating without Trace
 
-そこで、
-
-Traceを消す。
+そこで、Traceを消す。
 
 何かが起きる。
 
@@ -221,15 +187,11 @@ Againの現れ方も変わる。
 
 ご褒美を食べる。
 
-翌日、
-
-店へ向かう。
+翌日、店へ向かう。
 
 行動configurationが変わった。
 
-さらに別の日には、
-
-店が閉まっている。
+さらに別の日には、店が閉まっている。
 
 犬は入口まで行く。
 
@@ -237,17 +199,11 @@ Againの現れ方も変わる。
 
 帰る。
 
-次の日、
+次の日、別の経路を取る。
 
-別の経路を取る。
+ここには、連続したconfiguration changesがある。
 
-ここには、
-
-連続したconfiguration changesがある。
-
-これを、
-
-Updatingと呼ぶことはできる。
+これを、Updatingと呼ぶことはできる。
 
 しかし、
 
@@ -265,41 +221,25 @@ contextが変わる。
 
 outputが変わる。
 
-later inputに、
-
-previous outputが含まれる。
+later inputに、previous outputが含まれる。
 
 さらにoutputが変わる。
 
-configurationが、
-
-Encounterごとに更新される。
+configurationが、Encounterごとに更新される。
 
 ここでも、
 
 「Traceが保存され、それが更新された」
 
-と書かなくても、
-
-系列を記述できる。
+と書かなくても、系列を記述できる。
 
 ---
 
 # 7｜Homo sapiens
 
-人間も、
+人間も、昨日の経験を、今日そのまま再生するわけではない。
 
-昨日の経験を、
-
-今日そのまま再生するわけではない。
-
-思い出すたびに、
-
-語るたびに、
-
-読むたびに、
-
-別のconfigurationになる。
+思い出すたびに、語るたびに、読むたびに、別のconfigurationになる。
 
 ならば、
 
@@ -309,25 +249,19 @@ Encounterごとに更新される。
 
 **Encounterごとにconfigurationが更新される**
 
-としたほうが、
-
-実体化が少ない。
+としたほうが、実体化が少ない。
 
 ---
 
 # 8｜Then Where Is Trace?
 
-では、
-
-Traceはどこに入るのか。
+では、Traceはどこに入るのか。
 
 Updatingの前ではない。
 
 Updatingされる対象でもない。
 
-もしかすると、
-
-Updatingのあとでもない。
+もしかすると、Updatingのあとでもない。
 
 Traceは、
 
@@ -337,49 +271,33 @@ Traceは、
 
 つまり、
 
-TraceはUpdatingの材料ではなく、
-
-Updating historyについての語なのかもしれない。
+TraceはUpdatingの材料ではなく、Updating historyについての語なのかもしれない。
 
 ---
 
 # 9｜Trace after Updating?
 
-しかし、
-
-これも注意が必要である。
+しかし、これも注意が必要である。
 
 TraceはUpdatingの後に生まれる。
 
-そう言えば、
-
-今度は、
+そう言えば、今度は、
 
 **Updating → Trace**
 
 という逆向きの矢印を置いてしまう。
 
-必要なのは、
+必要なのは、前後を決めることではないのかもしれない。
 
-前後を決めることではないのかもしれない。
-
-TraceとUpdatingを、
-
-二つの独立した存在者として並べること自体が、
-
-問題なのかもしれない。
+TraceとUpdatingを、二つの独立した存在者として並べること自体が、問題なのかもしれない。
 
 ---
 
 # 10｜Updating as Occurrence
 
-さらに、
+さらに、Updatingそのものも実体化しない。
 
-Updatingそのものも実体化しない。
-
-「Updating」という何かが、
-
-世界の中で起きている。
+「Updating」という何かが、世界の中で起きている。
 
 そう決めない。
 
@@ -391,9 +309,7 @@ configuration₂。
 
 configuration₃。
 
-そして、
-
-それらのdifference。
+そして、それらのdifference。
 
 その系列を、
 
@@ -403,17 +319,13 @@ configuration₃。
 
 つまり、
 
-Updatingも、
-
-まずはdescriptionである。
+Updatingも、まずはdescriptionである。
 
 ---
 
 # 11｜TUPのP
 
-ここで、
-
-最後の語が残る。
+ここで、最後の語が残る。
 
 **Practice.**
 
@@ -429,9 +341,7 @@ Practiceとは何か。
 
 ここでTUP全体が揺れる。
 
-Practiceは、
-
-誰かが意図的に行う行為なのか。
+Practiceは、誰かが意図的に行う行為なのか。
 
 生命の作法なのか。
 
@@ -441,23 +351,17 @@ AIにも使えるのか。
 
 NAZORUとの違いは何か。
 
-TUPを裁くなら、
-
-Pも無傷ではいられない。
+TUPを裁くなら、Pも無傷ではいられない。
 
 ---
 
 # 12｜Practice without Trace
 
-犬は、
-
-店へ向かう。
+犬は、店へ向かう。
 
 環境に応じて行動を変える。
 
-人間は、
-
-読む。
+人間は、読む。
 
 書く。
 
@@ -465,19 +369,9 @@ Pも無傷ではいられない。
 
 語り直す。
 
-AIは、
+AIは、inputを受け、生成し、再入力され、また生成する。
 
-inputを受け、
-
-生成し、
-
-再入力され、
-
-また生成する。
-
-これらをPracticeと呼べるかどうかは、
-
-それぞれ監査が必要である。
+これらをPracticeと呼べるかどうかは、それぞれ監査が必要である。
 
 しかし少なくとも、
 
@@ -509,15 +403,9 @@ UP.
 
 Tは本当に必要なのか。
 
-Updating Practiceだけで、
+Updating Practiceだけで、われわれが記述したかったものを、十分に区別できるのではないか。
 
-われわれが記述したかったものを、
-
-十分に区別できるのではないか。
-
-もしそうなら、
-
-TUPのTは理論的余剰である。
+もしそうなら、TUPのTは理論的余剰である。
 
 ---
 
@@ -535,15 +423,9 @@ TUPのTは理論的余剰である。
 
 星も変化する。
 
-configurationが変わることを、
+configurationが変わることを、すべてUpdatingと呼べば、Updatingは単なるchangeになる。
 
-すべてUpdatingと呼べば、
-
-Updatingは単なるchangeになる。
-
-われわれがTUPで区別したかったのは、
-
-単なるchangeではなかったはずである。
+われわれがTUPで区別したかったのは、単なるchangeではなかったはずである。
 
 ここで、
 
@@ -565,15 +447,9 @@ prior configurationがlater configurationに、
 
 そう区別できるだろうか。
 
-もしできるなら、
+もしできるなら、Updatingそのものの中に、すでにhistory-bearingが含まれる。
 
-Updatingそのものの中に、
-
-すでにhistory-bearingが含まれる。
-
-すると、
-
-Traceを別に置く必要がない可能性がある。
+すると、Traceを別に置く必要がない可能性がある。
 
 つまり、
 
@@ -593,49 +469,33 @@ Traceを消したらUpdatingが薄くなるのではなく、
 
 prior configurationとのhistory dependenceを持つchange。
 
-ただし、
+ただし、これもまだ定義ではない。
 
-これもまだ定義ではない。
-
-history-bearingを何によって判定するのか、
-
-という問題が残る。
+history-bearingを何によって判定するのか、という問題が残る。
 
 しかし、
 
-もしこの候補が成立するなら、
-
-TUPは奇妙なことになる。
+もしこの候補が成立するなら、TUPは奇妙なことになる。
 
 **Trace Updating**
 
-は、
-
-history-bearingを二重に言っている可能性がある。
+は、history-bearingを二重に言っている可能性がある。
 
 ---
 
 # 17｜T as Redundancy?
 
-Traceが、
+Traceが、history-bearingを区別する語。
 
-history-bearingを区別する語。
-
-Updatingも、
-
-history-bearing changeを区別する語。
+Updatingも、history-bearing changeを区別する語。
 
 ならば、
 
 **Trace Updating**
 
-は、
+は、同じ仕事を二度しているのかもしれない。
 
-同じ仕事を二度しているのかもしれない。
-
-あるいは、
-
-TとUは別の仕事をしているのかもしれない。
+あるいは、TとUは別の仕事をしているのかもしれない。
 
 Tがhistory relationを示し、
 
@@ -643,9 +503,7 @@ Uがconfiguration changeを示す。
 
 この区別が本当に必要か。
 
-Translation Gain Testを、
-
-TUP自身に適用しなければならない。
+Translation Gain Testを、TUP自身に適用しなければならない。
 
 ---
 
@@ -661,25 +519,17 @@ TraceをUpdatingする。
 
 UpdatingによってTraceが立ち上がる。
 
-どちらも、
+どちらも、片方を先に置く。
 
-片方を先に置く。
+だから、どちらも危険である。
 
-だから、
-
-どちらも危険である。
-
-必要なのは、
-
-先行するentityと後続するoperationではなく、
+必要なのは、先行するentityと後続するoperationではなく、
 
 **Encounterごとにconfigurationが変わり、そのhistoryがlater Encounterで再記述されうる**
 
 という構文かもしれない。
 
-ここには、
-
-まだ名前がない。
+ここには、まだ名前がない。
 
 ---
 
@@ -687,31 +537,19 @@ UpdatingによってTraceが立ち上がる。
 
 ここでNAZORUが戻る。
 
-NAZORUは、
+NAZORUは、Traceを操作することではなかった。
 
-Traceを操作することではなかった。
+何かを経ながら、同じではないconfigurationを生成するpracticeとして見えてきた。
 
-何かを経ながら、
+もしそうなら、NAZORUはTUPより、Trace-first grammarを持ちにくい。
 
-同じではないconfigurationを生成するpracticeとして見えてきた。
-
-もしそうなら、
-
-NAZORUはTUPより、
-
-Trace-first grammarを持ちにくい。
-
-しかし、
-
-NAZORUにも、
+しかし、NAZORUにも、
 
 「何をなぞるのか」
 
 というprior somethingが必要になる。
 
-だから、
-
-NAZORUも無罪ではない。
+だから、NAZORUも無罪ではない。
 
 次に裁く必要がある。
 
@@ -719,29 +557,19 @@ NAZORUも無罪ではない。
 
 # 20｜ZURERU survives
 
-一方、
+一方、ZURERUは妙に強い。
 
-ZURERUは妙に強い。
+Traceがなくても、ZURERU。
 
-Traceがなくても、
+Tracingがなくても、ZURERU。
 
-ZURERU。
-
-Tracingがなくても、
-
-ZURERU。
-
-NAZORUがなくても、
-
-ZURERU。
+NAZORUがなくても、ZURERU。
 
 Updatingという語を使わなくても、
 
 configuration₁とconfiguration₂が同じではないことは記述できる。
 
-だから、
-
-現時点では、
+だから、現時点では、
 
 **ZURERU requires the least ontology.**
 
@@ -753,9 +581,7 @@ differenceとの区別はまだ必要である。
 
 # 21｜TUP on Trial
 
-現時点で、
-
-TUPをこう分解できる。
+現時点で、TUPをこう分解できる。
 
 **T｜Trace**
 
@@ -779,9 +605,7 @@ agency / life / mannerとのrelationが未監査。
 
 これから被告席。
 
-つまり、
-
-TUPという三文字のうち、
+つまり、TUPという三文字のうち、
 
 **無傷の文字は一つもない。**
 
@@ -791,29 +615,17 @@ TUPという三文字のうち、
 
 # 22｜But TUP May Survive
 
-しかし、
-
-これはTUPが壊れたということではない。
+しかし、これはTUPが壊れたということではない。
 
 むしろ逆かもしれない。
 
-TUPを、
+TUPを、三つの完成した概念の組み合わせとして扱うのをやめる。
 
-三つの完成した概念の組み合わせとして扱うのをやめる。
-
-Traceというthingを、
-
-Updatingというoperationで、
-
-Practiceする。
+Traceというthingを、Updatingというoperationで、Practiceする。
 
 そういう文法を捨てる。
 
-すると、
-
-TUPは、
-
-固定された理論名ではなく、
+すると、TUPは、固定された理論名ではなく、
 
 **問題を開き続ける構文**
 
@@ -823,9 +635,7 @@ TUPは、
 
 # 23｜Next Trial
 
-次に問うべきことは、
-
-かなり明確である。
+次に問うべきことは、かなり明確である。
 
 **Updating ≠ Change?**
 
@@ -839,9 +649,7 @@ history-bearingだけで十分なのか。
 
 何が違うのか。
 
-ここを分けない限り、
-
-TUPのUとPは救えない。
+ここを分けない限り、TUPのUとPは救えない。
 
 ---
 
@@ -853,6 +661,23 @@ TUPのUとPは救えない。
 
 TUP itself is now on trial.
 
-判決は、
+判決は、まだ出さない。
 
-まだ出さない。
+---
+
+[TUP-DN-12｜八つの構文は、同じことを言っているのか｜Eight Trace–Update Constructions ── Trace / Tracing / Update / Updating](https://camp-us.net/articles/TUP-DN-12_Eight-TraceUpdate-Constructions_Trace-Tracing-Update-Updating.html)  
+
+---
+_EgQE — Echo-Genesis Qualia Engine_  
+[camp-us.net](https://camp-us.net/)
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 12, 2026 · Web Sep 12, 2026 |</p>
