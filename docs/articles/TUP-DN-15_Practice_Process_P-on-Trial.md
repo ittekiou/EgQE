@@ -873,7 +873,7 @@ The P remains on trial.
 
 ---
 
-
+[TUP-DN-16｜八つの構文へ帰還する｜Return to the Eight ── A Grammar Audit of Trace and Update](https://camp-us.net/articles/TUP-DN-16_Return-to-the-Eight_Grammar-Audit_Trace-Update.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
