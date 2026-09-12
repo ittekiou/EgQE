@@ -890,6 +890,8 @@ $$
 
 **Next: TUP Vocabulary Audit / Translation Gain Test** — Not Yet  
 
+👉 [TUP-DN-02｜Vocabulary Audit 1 : Trace / Tracing / NAZORU / ZURERU : Four Words Before Definition](https://camp-us.net/articles/TUP-DN-02_Vocabulary-Audit_Trace-Tracing-NAZORU-ZURERU.html)  
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
