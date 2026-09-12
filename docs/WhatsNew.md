@@ -23,6 +23,13 @@ From Noise to Notation. From Dialogue to Discovery.
 [PV-DN-05｜Death Test 二粒の種子──死ぬと何が失われるのか｜Two Seeds — What, If Anything, Is Lost in Death?](https://camp-us.net/articles/PV-DN-05_Death-Test_Two-Seeds_Lost-in-Death.html)  
 [AP-01｜Amazon Problem ── 6,550円は「あった」のか](https://camp-us.net/articles/TUP-AP-01_Amazon-Problem_1.html)  
 [AP-02｜Amazon Problem 2 ── Traceは効く](https://camp-us.net/articles/TUP-AP-02_Amazon-Problem_2.html)  
+[TUP-DN-02｜Vocabulary Audit 1 : Trace / Tracing / NAZORU / ZURERU : Four Words Before Definition](https://camp-us.net/articles/TUP-DN-02_Vocabulary-Audit_Trace-Tracing-NAZORU-ZURERU.html)  
+[TUP-DN-03｜TraceなしのTracing / TracingなしのTrace｜The Trace–Tracing Cross Test ── Dog / AI / Homo sapiens](https://camp-us.net/articles/TUP-DN-03_Trace-Tracing-Cross-Test_Dog-AI-Homo-sapiens.html)  
+[TUP-DN-04｜Traceなしで、どこまで記述できるか｜The Trace-Free Description Test ── How Far Can We Go Without Trace?](https://camp-us.net/articles/TUP-DN-04_Trace-Free-Description-Test_Without-Trace.html)  
+[TUP-DN-05｜What Does Trace Add?｜Translation Gain Test ── Dog / AI / Homo sapiens](https://camp-us.net/articles/TUP-DN-05_Translation-Gain-Test_What-Does-Trace-Add.html)  
+[TUP-DN-06｜「また」と「もう一度」は何が違うのか｜Recurrence / Re-occurrence ── What Makes an Again?](https://camp-us.net/articles/TUP-DN-06_Recurrence_Re-occurrence_What-Makes-an-Again.html)  
+[TUP-DN-07｜History-bearing は、どこにあるのか｜Where Is History? ── System / Relation / Observer](https://camp-us.net/articles/TUP-DN-07_Where-Is-History_System-Relation-Observer.html)  
+[TUP-DN-08｜Tracehoodは単数か、複数か｜Plural Tracehood ── When Does Something Work as a Trace?](https://camp-us.net/articles/TUP-DN-08_Plural-Tracehood_When-Does-Something-Work-as-Trace.html)  
 
 ###### 2026/09/11  
 [MC-RN-03｜時間生成論 試論 ── Change, Again, Trace, and Next｜The Generation of Time: A Preliminary Inquiry — Change, Again, Trace, and Next](https://camp-us.net/articles/MC-RN-03_Generation-of-Time_Change-Again-Trace-Next.html)  

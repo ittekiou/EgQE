@@ -30,33 +30,25 @@ title_en: TUP-DN-08｜Plural Tracehood ── When Does Something Work as a Trac
 
 とした。
 
-では、
+では、Traceはこのどこにあるのか。
 
-Traceはこのどこにあるのか。
-
-一つのsomethingが、
-
-三つすべてでTraceなのか。
+一つのsomethingが、三つすべてでTraceなのか。
 
 一つだけでTraceなのか。
 
-あるいは、
-
-Tracehoodそのものが複数なのか。
+あるいは、Tracehoodそのものが複数なのか。
 
 ---
 
 # 1｜スクリーンショット
 
-Amazonの6,550円を表示したスクリーンショットを考える。
+Amazonの6,550円を表示したスクリーンショットを考える。👉 [AP-01](https://camp-us.net/articles/TUP-AP-01_Amazon-Problem_1.html)
 
 実際にAmazonで6,550円が表示された。
 
 その画面を撮影した。
 
-後日、
-
-価格表示は消えた。
+後日、価格表示は消えた。
 
 スクリーンショットだけがある。
 
@@ -76,17 +68,11 @@ Amazonの6,550円を表示したスクリーンショットを考える。
 
 # 2｜Semiotic Tracehood
 
-スクリーンショットは、
+スクリーンショットは、以前のAmazon画面を指す。
 
-以前のAmazon画面を指す。
+少なくとも、そう読まれる。
 
-少なくとも、
-
-そう読まれる。
-
-ここでは、
-
-スクリーンショットは、
+ここでは、スクリーンショットは、
 
 **Semiotic Trace**
 
@@ -94,7 +80,7 @@ Amazonの6,550円を表示したスクリーンショットを考える。
 
 しかし、
 
-AP-02で偽造画像を導入した。
+[AP-02](https://camp-us.net/articles/TUP-AP-02_Amazon-Problem_2.html)で偽造画像を導入した。
 
 実際には6,550円表示が存在しなかった。
 
@@ -106,11 +92,7 @@ AIで画像だけ生成した。
 
 つまり、
 
-semioticにTraceとして働くことと、
-
-そのreferenceがtrueであることは、
-
-同じではない。
+semioticにTraceとして働くことと、そのreferenceがtrueであることは、同じではない。
 
 **Semiotic Tracehood ≠ Truth.**
 
@@ -119,96 +101,65 @@ semioticにTraceとして働くことと、
 # 3｜Causal Tracehood
 
 次に、
-
 その画像を見た人が、
 
 「Amazonで6,550円だった」
 
 と信じたとする。
 
-その後、
-
-記事を書く。
+その後、記事を書く。
 
 誰かに話す。
 
 Amazonについての判断を変える。
 
-この場合、
+この場合、画像はlater configurationにeffectを持つ。
 
-画像はlater configurationにeffectを持つ。
+本物でも、偽物でも。
 
-本物でも、
-
-偽物でも。
-
-ここでは、
-
-画像は、
+ここでは、画像は、
 
 **Causal Trace**
 
 として働くように見える。
 
-しかし、
-
-注意が必要である。
+しかし、注意が必要である。
 
 画像そのものが作用主体なのではない。
 
-画像とのEncounterを含む条件によって、
-
-later configurationが異なる。
+画像とのEncounterを含む条件によって、later configurationが異なる。
 
 だから、
 
 **Causal Tracehood**
 
-という呼び方自体も、
-
-まだ仮称である。
+という呼び方自体も、まだ仮称である。
 
 ---
 
 # 4｜Phenomenological Tracehood
 
-今度は、
-
-そのスクリーンショットを数か月後に見る。
+今度は、そのスクリーンショットを数か月後に見る。
 
 「ああ、これだ」
 
 と思う。
 
-忘れていた出来事が、
+忘れていた出来事が、Againとして現れる。
 
-Againとして現れる。
+以前とは違う味わいで、過去が立ち上がる。
 
-以前とは違う味わいで、
-
-過去が立ち上がる。
-
-ここでは、
-
-画像は、
+ここでは、画像は、
 
 **Phenomenological Trace**
 
 として働くように見える。
 
-しかし、
+しかし、画像が存在するだけでは足りない。
 
-画像が存在するだけでは足りない。
+誰にもEncounterされなければ、少なくともこの意味でのTracehoodは現れない。
 
-誰にもEncounterされなければ、
-
-少なくともこの意味でのTracehoodは現れない。
-
-ここでは、
-
-Tracehoodは、
-
-somethingの属性というより、
+ここでは、Tracehoodは、somethingの属性というより、
 
 **Encounterで立ち上がるconfiguration**
 
@@ -232,13 +183,9 @@ later configurationのdifferenceに参与する。
 
 later EncounterをAgainとして変える。
 
-これらは、
+これらは、一致することもある。
 
-一致することもある。
-
-しかし、
-
-一致する必要はない。
+しかし、一致する必要はない。
 
 ---
 
@@ -248,27 +195,17 @@ later EncounterをAgainとして変える。
 
 Amazonで6,550円は表示されていなかった。
 
-しかし、
-
-読者は本物だと思う。
+しかし、読者は本物だと思う。
 
 すると、
 
-Semioticには、
-
-過去を指すように働く。
+Semioticには、過去を指すように働く。
 
 しかしreferenceはfalseである。
 
-Causalには、
+Causalには、later judgmentにeffectを持ちうる。
 
-later judgmentにeffectを持ちうる。
-
-Phenomenologicalには、
-
-後日、
-
-「あの6,550円の件」としてAgainを生成しうる。
+Phenomenologicalには、後日、「あの6,550円の件」としてAgainを生成しうる。
 
 つまり、
 
@@ -284,25 +221,17 @@ Phenomenologicalには、
 
 が同時に成立しうる。
 
-ここで、
-
-Tracehoodを一つの真偽値で表すことは難しくなる。
+ここで、Tracehoodを一つの真偽値で表すことは難しくなる。
 
 ---
 
 # 7｜Unread Screenshot
 
-逆に、
-
-本物のスクリーンショット。
+逆に、本物のスクリーンショット。
 
 実際の6,550円表示を撮影した。
 
-しかし、
-
-保存されたまま、
-
-誰にも見られない。
+しかし、保存されたまま、誰にも見られない。
 
 この画像について、
 
@@ -312,13 +241,9 @@ Causal Tracehoodはあるのか。
 
 Phenomenological Tracehoodはあるのか。
 
-「ある」と言えば、
+「ある」と言えば、potentialをTracehoodに含めることになる。
 
-potentialをTracehoodに含めることになる。
-
-「ない」と言えば、
-
-EncounterされるまでTraceではないことになる。
+「ない」と言えば、EncounterされるまでTraceではないことになる。
 
 ここで、
 
@@ -326,9 +251,7 @@ EncounterされるまでTraceではないことになる。
 
 という別の区別まで必要になる。
 
-だが、
-
-まだ増やさない。
+だが、まだ増やさない。
 
 ---
 
@@ -338,25 +261,15 @@ EncounterされるまでTraceではないことになる。
 
 翌日も店へ向かう。
 
-ここに、
+ここに、semiotic referenceは必要だろうか。
 
-semiotic referenceは必要だろうか。
+犬が昨日の店を、「昨日の店を指す記号」として扱っている必要はない。
 
-犬が昨日の店を、
+しかし、prior Encounterとのdependencyはあるかもしれない。
 
-「昨日の店を指す記号」として扱っている必要はない。
+そして、犬にAgainが現れている可能性もある。
 
-しかし、
-
-prior Encounterとのdependencyはあるかもしれない。
-
-そして、
-
-犬にAgainが現れている可能性もある。
-
-ただし、
-
-そのphenomenologyを人間と同じようには確認できない。
+ただし、そのphenomenologyを人間と同じようには確認できない。
 
 つまりDogでは、
 
@@ -366,19 +279,13 @@ prior Encounterとのdependencyはあるかもしれない。
 
 # 9｜AI
 
-AIでは、
-
-prior textをreferenceできる。
+AIでは、prior textをreferenceできる。
 
 contextによってlater outputも変わる。
 
-したがって、
+したがって、Semiotic / Causalに相当する記述は可能である。
 
-Semiotic / Causalに相当する記述は可能である。
-
-しかし、
-
-Phenomenological Tracehoodはどうか。
+しかし、Phenomenological Tracehoodはどうか。
 
 AIに、
 
@@ -386,29 +293,19 @@ AIに、
 
 と言ってよいのか。
 
-ここは、
+ここは、[QAS](https://camp-us.net/articles/QAS-02_Again_as_overlap-without-identity.html)の問いへ接続する。
 
-QASの問いへ接続する。
+しかし、まだ答えない。
 
-しかし、
+重要なのは、AIについても、
 
-まだ答えない。
-
-重要なのは、
-
-AIについても、
-
-三つのTracehoodが自動的には一致しない、
-
-ということである。
+三つのTracehoodが自動的には一致しない、ということである。
 
 ---
 
 # 10｜Homo sapiens
 
-人間では、
-
-三つが重なりやすい。
+人間では、三つが重なりやすい。
 
 写真を見る。
 
@@ -416,29 +313,19 @@ AIについても、
 
 その写真によって判断が変わる。
 
-そして、
+そして、「あのとき」がAgainとして現れる。
 
-「あのとき」がAgainとして現れる。
-
-だから、
-
-われわれは三つを一つのTraceとしてまとめてしまいやすい。
+だから、われわれは三つを一つのTraceとしてまとめてしまいやすい。
 
 しかし、
 
 三つは分離できる。
 
-過去を正しくreferenceしていても、
+過去を正しくreferenceしていても、現在の判断にはeffectがないかもしれない。
 
-現在の判断にはeffectがないかもしれない。
+effectがあっても、本人にはAgainとして現れないかもしれない。
 
-effectがあっても、
-
-本人にはAgainとして現れないかもしれない。
-
-Againとして現れても、
-
-そのreferenceがfalseかもしれない。
+Againとして現れても、そのreferenceがfalseかもしれない。
 
 Homo sapiensこそ、
 
@@ -454,13 +341,9 @@ Homo sapiensこそ、
 
 という語そのものを監査する。
 
-ある画像が、
+ある画像が、Tracehoodという属性を持っている。
 
-Tracehoodという属性を持っている。
-
-そう考えると、
-
-また実体化に近づく。
+そう考えると、また実体化に近づく。
 
 むしろ、
 
@@ -470,13 +353,7 @@ Tracehoodという属性を持っている。
 
 Xが永続的にTraceなのではない。
 
-どのdescriptionで、
-
-どのEncounterにおいて、
-
-何に対して、
-
-Traceとして働くのか。
+どのdescriptionで、どのEncounterにおいて、何に対して、Traceとして働くのか。
 
 ここではTracehoodは、
 
@@ -488,9 +365,7 @@ Traceとして働くのか。
 
 # 12｜Trace of What?
 
-すると、
-
-最初に必要なのは、
+すると、最初に必要なのは、
 
 「これはTraceか？」
 
@@ -500,27 +375,17 @@ Traceとして働くのか。
 
 である。
 
-偽造Amazon画像は、
+偽造Amazon画像は、実在した6,550円表示のTraceではない。
 
-実在した6,550円表示のTraceではない。
+しかし、AI画像生成というOccurrenceのTraceとして扱えるかもしれない。
 
-しかし、
-
-AI画像生成というOccurrenceのTraceとして扱えるかもしれない。
-
-さらに、
-
-それを読んだ人のlater judgmentとのrelationでは、
-
-別のTrace-positionを取るかもしれない。
+さらに、それを読んだ人のlater judgmentとのrelationでは、別のTrace-positionを取るかもしれない。
 
 つまり、
 
 **Tracehood without “of what?” is underdetermined.**
 
-Traceは、
-
-単独では判定できない。
+Traceは、単独では判定できない。
 
 ---
 
@@ -542,15 +407,11 @@ later behaviorとのdependencyを調べるためか。
 
 物語を作るためか。
 
-同じsomethingが、
-
-目的によって異なるTrace-positionを取る。
+同じsomethingが、目的によって異なるTrace-positionを取る。
 
 ただし、
 
-purposeを入れすぎると、
-
-すべてをobserver intentionへ回収する危険がある。
+purposeを入れすぎると、すべてをobserver intentionへ回収する危険がある。
 
 ここも保留する。
 
@@ -586,25 +447,15 @@ Tracehoodそのものが、
 
 # 15｜Tracehood can ZURE
 
-同じスクリーンショットが、
-
-ある時点では証拠として扱われる。
+同じスクリーンショットが、ある時点では証拠として扱われる。
 
 後に偽造だと判明する。
 
-すると、
+すると、semioticな位置づけが変わる。
 
-semioticな位置づけが変わる。
+しかし、「騙された」という経験へのeffectは消えない。
 
-しかし、
-
-「騙された」という経験へのeffectは消えない。
-
-さらに年月が経てば、
-
-その画像は、
-
-「AI偽造が問題になった時代」の資料になるかもしれない。
+さらに年月が経てば、その画像は、「AI偽造が問題になった時代」の資料になるかもしれない。
 
 同じsomething。
 
@@ -630,25 +481,11 @@ semioticな位置づけが変わる。
 
 ここでNAZORUも変わって見える。
 
-NAZORUとは、
+NAZORUとは、既存のTraceをそのまま再生することではない。
 
-既存のTraceをそのまま再生することではない。
+何かを、あるTrace-positionでEncounterし、選び、読み、使い、別のconfigurationへ持ち込むpracticeかもしれない。
 
-何かを、
-
-あるTrace-positionでEncounterし、
-
-選び、
-
-読み、
-
-使い、
-
-別のconfigurationへ持ち込むpracticeかもしれない。
-
-しかし、
-
-この定義もまだ早い。
+しかし、この定義もまだ早い。
 
 ただ一つ、
 
@@ -656,9 +493,7 @@ NAZORUとは、
 
 とは言えそうである。
 
-なぞることは、
-
-保存庫から同じものを取り出すことではない。
+なぞることは、保存庫から同じものを取り出すことではない。
 
 ---
 
@@ -666,33 +501,19 @@ NAZORUとは、
 
 Tracingについても同じである。
 
-Tracingは、
+Tracingは、すでに完成したTraceを追跡することなのか。
 
-すでに完成したTraceを追跡することなのか。
+それとも、somethingをTrace-positionに置くprocessなのか。
 
-それとも、
-
-somethingをTrace-positionに置くprocessなのか。
-
-もし後者なら、
-
-前稿で出た問い、
+もし後者なら、前稿で出た問い、
 
 **Can there be Trace without Tracing?**
 
 がさらに鋭くなる。
 
-Tracingは、
+Tracingは、Traceを発見するだけでなく、Tracehoodの成立に参与している可能性がある。
 
-Traceを発見するだけでなく、
-
-Tracehoodの成立に参与している可能性がある。
-
-しかし、
-
-だからといって、
-
-Traceがすべてobserver constructionだとは限らない。
+しかし、だからといって、Traceがすべてobserver constructionだとは限らない。
 
 ここはまだ開いておく。
 
@@ -700,13 +521,9 @@ Traceがすべてobserver constructionだとは限らない。
 
 # 18｜Plural Tracehood
 
-ここまでの監査から、
+ここまでの監査から、一つの可能性が見える。
 
-一つの可能性が見える。
-
-Tracehoodは、
-
-単数ではない。
+Tracehoodは、単数ではない。
 
 少なくとも、
 
@@ -718,9 +535,7 @@ Tracehoodは、
 
 という異なる記述がある。
 
-しかも、
-
-三つは独立に動きうる。
+しかも、三つは独立に動きうる。
 
 だから、
 
@@ -730,9 +545,7 @@ Tracehoodは、
 
 **under which description does X work as a Trace?**
 
-と問うほうが、
-
-discriminationが増える。
+と問うほうが、discriminationが増える。
 
 ---
 
@@ -740,33 +553,19 @@ discriminationが増える。
 
 ここで最後の反撃を入れる。
 
-Semioticなら、
+Semioticなら、sign / referenceでよい。
 
-sign / referenceでよい。
+Causalなら、effect / dependencyでよい。
 
-Causalなら、
+Phenomenologicalなら、Again / appearanceでよい。
 
-effect / dependencyでよい。
+ならば、なぜTraceという語が必要なのか。
 
-Phenomenologicalなら、
+三つをまとめるためだけなら、Traceは便利な総称にすぎない。
 
-Again / appearanceでよい。
+それでは、Translation Gainとして弱い。
 
-ならば、
-
-なぜTraceという語が必要なのか。
-
-三つをまとめるためだけなら、
-
-Traceは便利な総称にすぎない。
-
-それでは、
-
-Translation Gainとして弱い。
-
-Traceが生き残るには、
-
-三つのどれか一つではなく、
+Traceが生き残るには、三つのどれか一つではなく、
 
 **三つがZUREながら同じhistoryをめぐって交差すること**
 
@@ -782,11 +581,7 @@ Traceが生き残るには、
 
 # 20｜The Next Question
 
-だから次の問いは、
-
-Tracehoodが単数か複数か、
-
-だけではない。
+だから次の問いは、Tracehoodが単数か複数か、だけではない。
 
 もっと厄介である。
 
@@ -798,21 +593,15 @@ CausalにはB。
 
 PhenomenologicalにはC。
 
-それでも、
-
-われわれが全部を、
+それでも、われわれが全部を、
 
 「同じ6,550円のTrace」
 
 と呼びたくなるのはなぜか。
 
-そこに、
+そこに、本当に何か共通するものがあるのか。
 
-本当に何か共通するものがあるのか。
-
-それとも、
-
-われわれが後から、
+それとも、われわれが後から、
 
 同じhistoryとして束ねているだけなのか。
 
@@ -824,9 +613,7 @@ PhenomenologicalにはC。
 > 
 > **Tracing may not merely discover what was already there.**
 
-では、
-
-異なるTrace-positionをまたいで、
+では、異なるTrace-positionをまたいで、
 
 **何が同じなのか。**
 
@@ -835,3 +622,22 @@ PhenomenologicalにはC。
 **何も同じでなくてよいのか。**
 
 Trial continues.
+
+---
+
+[TUP-DN-09｜何も同じでないとき、何が同じなのか｜What Remains the Same? ── Trace without Identity](https://camp-us.net/articles/TUP-DN-09_What-Remains-the-Same_Trace-without-Identity.html)  
+
+---
+_EgQE — Echo-Genesis Qualia Engine_  
+[camp-us.net](https://camp-us.net/)
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 12, 2026 · Web Sep 12, 2026 |</p>
