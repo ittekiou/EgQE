@@ -27,6 +27,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [ET-01-A｜監査？というマナー？｜Audit? as Manner? A Trial Before Even the First Word Settles](https://camp-us.net/articles/ET-01-A_Audit-as-Manner_A-Trial-Before-the-Title-Settles.html)  
 [ET-01-B｜裁判後の身体を裁く ── Editusの作法は、誰の作法なのか｜Judging the Post-Trial Body: Whose Manner Is the Manner of Editus?](https://camp-us.net/articles/ET-01-B_Judging-Post-Trial-Body_Whose-Manner-Is-the-Manner-of-Editus.html)  
 [ET-02｜複線になった列車 ── なぜEDITUSは、一つの作法にまとまらなかったのか｜The Train Became Multiple Tracks: Why EDITUS Did Not Settle into a Single Manner](https://camp-us.net/articles/ET-02_Train-Became-Multiple-Tracks_Why-EDITUS-Did-Not-Settle-into-a-Single-Manner.html)  
+[ET-03｜nextは来ちゃう ── textを書いちゃったあとで｜Next Comes Anyway: After the Text Has Been Written](https://camp-us.net/articles/ET-03_Next-Comes-Anyway_After-Text-Has-Been-Written.html)  
 [SVA-00｜Shadow of Vita Activa ── 活動の哲学は、何を影にしたのか](https://camp-us.net/articles/SVA-00_Shadow_of_Vita-Activa.html)  
 [SVA-01｜活動するとは、休むのをやめることなのか｜Does Activity Begin When Sabbath Ends?](https://camp-us.net/articles/SVA-01_Activity_Begin-When-Sabbath-Ends.html)  
 [SVA-02｜休息は、何かのためにあるのか｜Does Nest Need a Next?](https://camp-us.net/articles/SVA-02_Does-Nest-Need-a-Next.html)  
