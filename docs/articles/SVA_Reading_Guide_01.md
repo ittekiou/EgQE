@@ -4,7 +4,7 @@ title: SVA-RG-01｜読者のための小さな案内｜Further Reading（for SVA
 ---
 # 読者のための小さな案内｜Further Reading
 
-_for SVA-00〜03_
+### _for SVA-00〜03_
 
 ---
 
@@ -58,4 +58,54 @@ acceleration、滞留、時間経験を考えるための一冊。SVA-01のcalen
 
 ---
 
-_EgQE — Echo-Genesis Qualia Engine_
+#### ── _今日も SVA! SVA! SVA〜♪ **SVAらしい** SUNDAY〜♬_
+
+**SVA-00：activity / inactivityという照明そのものを疑う。**
+
+👉 **SVA 三部作、NEST。** 🪺🥚💤 
+
+**01：時間配置を疑う。**  
+`Sabbath has no fixed address.`
+
+**02：目的配置を疑う。**  
+`Does Nest Need a Next?`  
+**`NESTでは、NEXTに主導権がない。`**
+
+**03：対抗配置を疑う。**  
+`Rest ≠ anti-activity.`  
+**`FORを疑ったこと自体をre-Traceして、FOR排除まで疑う。`**
+
+[SVA-00｜Shadow of Vita Activa ── 活動の哲学は、何を影にしたのか](https://camp-us.net/articles/SVA-00_Shadow_of_Vita-Activa.html)  
+[SVA-01｜活動するとは、休むのをやめることなのか｜Does Activity Begin When Sabbath Ends?](https://camp-us.net/articles/SVA-01_Activity_Begin-When-Sabbath-Ends.html)  
+[SVA-02｜休息は、何かのためにあるのか｜Does Nest Need a Next?](https://camp-us.net/articles/SVA-02_Does-Nest-Need-a-Next.html)  
+[SVA-03｜休息をactivityの対抗理念にしない休息論のために｜Toward a Theory of Rest That Is Not Against Activity](https://camp-us.net/articles/SVA-03_Theory-of-Rest_That-Is-Not-Against-Activity.html)  
+
+---
+
+**_光と影を入れ替えれば、また影ができる。_**
+
+> *shadowを救済してforegroundに昇格させる理論ではなく、何をforeground / shadowにしているのかを監査し続ける。*
+
+── **shadowを光の側へ引っ張り出して主役にすればいいわけではない。**
+
+---
+
+_理論が冬一郎を説明するたび、冬一郎が理論をZUREさせる。_
+
+> **FORを追い出さない。**  
+> **AGAINSTも禁止しない。**
+
+---
+_EgQE — Echo-Genesis Qualia Engine_  
+[camp-us.net](https://camp-us.net/)
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 13, 2026 · Web Sep 13, 2026 |</p>

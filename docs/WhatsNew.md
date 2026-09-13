@@ -22,6 +22,11 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/09/13  
 [TUP-DN Series｜監査ノート統括版 ── Trace on Trial から Fivefold Configuration まで（DN-01〜19）](https://camp-us.net/articles/TUP-DN_Audit_Synthesis.html)  
 [TUP-DN Series｜監査ノート個別版 ── DN-01〜19](https://camp-us.net/articles/TUP-DN_Audit-All.html)  
+[SVA-00｜Shadow of Vita Activa ── 活動の哲学は、何を影にしたのか](https://camp-us.net/articles/SVA-00_Shadow_of_Vita-Activa.html)  
+[SVA-01｜活動するとは、休むのをやめることなのか｜Does Activity Begin When Sabbath Ends?](https://camp-us.net/articles/SVA-01_Activity_Begin-When-Sabbath-Ends.html)  
+[SVA-02｜休息は、何かのためにあるのか｜Does Nest Need a Next?](https://camp-us.net/articles/SVA-02_Does-Nest-Need-a-Next.html)  
+[SVA-03｜休息をactivityの対抗理念にしない休息論のために｜Toward a Theory of Rest That Is Not Against Activity](https://camp-us.net/articles/SVA-03_Theory-of-Rest_That-Is-Not-Against-Activity.html)  
+[SVA-RG-01｜読者のための小さな案内｜Further Reading（for SVA-00〜03）](https://camp-us.net/articles/SVA_Reading_Guide_01.html)  
 ###### 2026/09/12  
 [PV-DN-05｜Death Test 二粒の種子──死ぬと何が失われるのか｜Two Seeds — What, If Anything, Is Lost in Death?](https://camp-us.net/articles/PV-DN-05_Death-Test_Two-Seeds_Lost-in-Death.html)  
 [AP-01｜Amazon Problem ── 6,550円は「あった」のか](https://camp-us.net/articles/TUP-AP-01_Amazon-Problem_1.html)  
