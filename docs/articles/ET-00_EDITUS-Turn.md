@@ -772,7 +772,14 @@ Biological VocabularyのCross-Import、
 ---
 
 $$
-\boxed{ Why\ did\ we\ want\ to\ leave\ LIFE? }
+\boxed{ Why\ LIFE? }
+$$
+
+$$
+\boxed{ Why\ leave\ LIFE? }
+$$
+
+$$\boxed{ Why\ was\ leaving\ LIFE\ delightful? }
 $$
 
 ---
