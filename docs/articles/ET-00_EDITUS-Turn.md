@@ -783,6 +783,12 @@ $$\boxed{ Why\ was\ leaving\ LIFE\ delightful? }
 $$
 
 ---
+
+$$
+\boxed{ EDITUSを置くと、 置かなかったときには見えなかった差が見えるかもしれない }
+$$
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
