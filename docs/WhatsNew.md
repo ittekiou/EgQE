@@ -24,6 +24,8 @@ From Noise to Notation. From Dialogue to Discovery.
 [TUP-DN Series｜監査ノート個別版 ── DN-01〜19](https://camp-us.net/articles/TUP-DN_Audit-All.html)  
 [TUP-02｜TUPという足場｜TUP as Scaffold](https://camp-us.net/articles/TUP-02_TUP-as-Scaffold.html)  
 [ET-00｜The EDITUS Turn：LifeはEDITUSへの途中駅にすぎない ── 生命を定義するTUPから、EDITUSを監査するTUPへ](https://camp-us.net/articles/ET-00_EDITUS-Turn.html)  
+[ET-01-A｜監査？というマナー？｜Audit? as Manner? A Trial Before Even the First Word Settles](https://camp-us.net/articles/ET-01_Audit-as-Manner_A-Trial-Before-the-Title-Settles.html)  
+[ET-01-B｜裁判後の身体を裁く ── Editusの作法は、誰の作法なのか｜Judging the Post-Trial Body: Whose Manner Is the Manner of Editus?](https://camp-us.net/articles/ET-01-B_Judging-Post-Trial-Body_Whose-Manner-Is-the-Manner-of-Editus.html)  
 [SVA-00｜Shadow of Vita Activa ── 活動の哲学は、何を影にしたのか](https://camp-us.net/articles/SVA-00_Shadow_of_Vita-Activa.html)  
 [SVA-01｜活動するとは、休むのをやめることなのか｜Does Activity Begin When Sabbath Ends?](https://camp-us.net/articles/SVA-01_Activity_Begin-When-Sabbath-Ends.html)  
 [SVA-02｜休息は、何かのためにあるのか｜Does Nest Need a Next?](https://camp-us.net/articles/SVA-02_Does-Nest-Need-a-Next.html)  
