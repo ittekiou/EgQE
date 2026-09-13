@@ -878,6 +878,14 @@ Editusの作法とは何か。
 ##### Trace問題とUpdatingを緊張させ続けるPractice。── 
 
 ---
+
+[ET-02｜複線になった列車 ── なぜEDITUSは、一つの作法にまとまらなかったのか｜The Train Became Multiple Tracks: Why EDITUS Did Not Settle into a Single Manner](https://camp-us.net/articles/ET-02_Train-Became-Multiple-Tracks_Why-EDITUS-Did-Not-Settle-into-a-Single-Manner.html)  
+
+---
+
+[ET-00｜The EDITUS Turn：LifeはEDITUSへの途中駅にすぎない ── 生命を定義するTUPから、EDITUSを監査するTUPへ](https://camp-us.net/articles/ET-00_EDITUS-Turn.html)  
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
