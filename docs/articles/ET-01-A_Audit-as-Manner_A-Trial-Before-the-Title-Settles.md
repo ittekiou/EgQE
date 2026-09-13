@@ -343,7 +343,7 @@ SVAで冬一郎にZUREさせられたこと。
 
 ---
 
-[ET-01-A｜監査？というマナー？｜Audit? as Manner? A Trial Before Even the First Word Settles](https://camp-us.net/articles/ET-01_Audit-as-Manner_A-Trial-Before-the-Title-Settles.html)  
+[ET-01-A｜監査？というマナー？｜Audit? as Manner? A Trial Before Even the First Word Settles](https://camp-us.net/articles/ET-01-A_Audit-as-Manner_A-Trial-Before-the-Title-Settles.html)  
 [ET-01-B｜裁判後の身体を裁く ── Editusの作法は、誰の作法なのか｜Judging the Post-Trial Body: Whose Manner Is the Manner of Editus?](https://camp-us.net/articles/ET-01-B_Judging-Post-Trial-Body_Whose-Manner-Is-the-Manner-of-Editus.html)  
 
 > ETでは、Editusも被告席に座る。
