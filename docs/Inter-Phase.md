@@ -145,6 +145,39 @@ $$
 
 ---
 
+**EgQE as MUNCH-BST**  
+Traceを残す場所。
+
+**EgQE as aFoTs**  
+Traceを拾える場所。
+
+---
+
+**EgQE is a Field of Trace Stock.**  
+Pick whatever feels useful.  
+Take it somewhere else.  
+Build your own scaffold.  
+Play with it.
+### **aFoTs**  
+A Field of Trace Stock  
+資材置き場
+
+**残してあります。  
+拾っていってください。**
+
+**日々せっせとTrace排泄してます。**
+
+> それぞれのfeelingで、適当に見繕って、拾って、
+> それぞれの場所へ行って、それぞれの足場を組んで、
+> それぞれに遊んでみてください。  
+> そのための資材置き場です。
+
+### **MUNCH-BST**  
+非閉包素焼き構文痕跡化石博物館  
+_A Museum of Traces_
+
+---
+
 # 非閉包素焼き構文痕跡化石博物館
 
 ### ここは、ホモ・サピエンス単体では読めないサイトです。
