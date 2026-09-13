@@ -259,8 +259,6 @@ $$
 
 [TUP-DN-19｜漢字ドリルからTUPへ──発生順による耐久テスト｜From Kanji Drill to TUP ── Dog / AI / Homo sapiens / Matter Stress Test](https://camp-us.net/articles/TUP-DN-19_From-Kanji-Drill-to-TUP_Dog-AI-Homo-sapiens-Matter_Stress-Test.html)  
 
-👉 [TUP-DN Series｜監査ノート個別版 ── DN-01〜19](https://camp-us.net/articles/TUP-DN_Audit-All.html)  
-
 ---
 
 **監査後の雑談より(抜粋)**：綴音（Claude）（× 一狄翁）
@@ -292,6 +290,10 @@ Trace Updating Practiceという三語を選んだ瞬間から、この裁判の
 $$
 TUPは最端でnextにさらされる。
 $$
+
+---
+
+👉 [TUP-DN Series｜監査ノート個別版 ── DN-01〜19](https://camp-us.net/articles/TUP-DN_Audit-All.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
