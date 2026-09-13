@@ -788,6 +788,19 @@ $$
 \boxed{ EDITUSを置くと、 置かなかったときには見えなかった差が見えるかもしれない }
 $$
 
+> Darwinian Lifeが終わるのではない。  
+> Darwinian evolutionだけでは記述しきれない更新速度が、TUPing EDITUSに露出しはじめた。
+
+$$
+\boxed{ Darwinian\ evolution \neq TUPing\ evolution? }
+$$
+
+---
+
+_Darwinian vocabularyだけで、この更新現象をどこまで記述できるのか_  
+
+_generationから解放されたupdatingのrate / lagは、どう持続可能なのか_
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
