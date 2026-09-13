@@ -27,6 +27,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [SVA-02｜休息は、何かのためにあるのか｜Does Nest Need a Next?](https://camp-us.net/articles/SVA-02_Does-Nest-Need-a-Next.html)  
 [SVA-03｜休息をactivityの対抗理念にしない休息論のために｜Toward a Theory of Rest That Is Not Against Activity](https://camp-us.net/articles/SVA-03_Theory-of-Rest_That-Is-Not-Against-Activity.html)  
 [SVA-RG-01｜読者のための小さな案内｜Further Reading（for SVA-00〜03）](https://camp-us.net/articles/SVA_Reading_Guide_01.html)  
+[TUP-02｜TUPという足場｜TUP as Scaffold](https://camp-us.net/articles/TUP-02_TUP-as-Scaffold.html)  
 ###### 2026/09/12  
 [PV-DN-05｜Death Test 二粒の種子──死ぬと何が失われるのか｜Two Seeds — What, If Anything, Is Lost in Death?](https://camp-us.net/articles/PV-DN-05_Death-Test_Two-Seeds_Lost-in-Death.html)  
 [AP-01｜Amazon Problem ── 6,550円は「あった」のか](https://camp-us.net/articles/TUP-AP-01_Amazon-Problem_1.html)  
