@@ -55,6 +55,8 @@ Nukadoko とは、それを置く場所である。
 [ND-260830_TUP-Again](https://camp-us.net/Nukadoko/ND-260830_TUP-Again.html)  
 
 ## Sep
+[ND-260904_Trace-Stock](https://camp-us.net/Nukadoko/ND-260904_Trace-Stock.html)  
+[ND-260904_difference_like-as-is](https://camp-us.net/Nukadoko/ND-260904_difference_like-as-is.html)  
 [ND-260906_Plank-Support-Theory](https://camp-us.net/Nukadoko/ND-260906_Plank-Support-Theory.html)  
 [ND-260907_Spiral-Probe](https://camp-us.net/Nukadoko/ND-260907_Spiral-Probe.html)  
 
