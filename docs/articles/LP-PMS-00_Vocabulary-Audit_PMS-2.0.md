@@ -455,7 +455,15 @@ semantic anchorは、lag-headそのものではなく、
 
 である。
 
-このconnection directionのほうが、LP-00のlag-head原器に近い可能性がある。
+このconnection directionは、LP-00のlag-head原器と構造的に近く見える。
+
+ただし、
+
+**connection direction = lag-head**
+
+とは現時点では言えない。
+
+connection directionは、lag-headを観測・推定するための手がかりになりうるが、それ自体をlag-headと同一視することはしない。
 
 したがって、
 
@@ -465,11 +473,21 @@ semantic anchorは、lag-headそのものではなく、
 
 **Anxiety ≠ lag-head.**
 
+そして、
+
+**connection direction = lag-head**
+
+は、
+
+**Attraction / Not Established**
+
+として保持する。
+
 問われるのは、
 
-**どちらへ接続される向きが立つのか**
+**どちらへ接続される向きが立つのか。**
 
-である。
+ただし、その「接続の向き」からlag-headへ移るときにも、推論の一段階を飛ばさない。
 
 なお、LP-02では四象限モデルを **structural configurations** と呼んでいる。
 
@@ -677,26 +695,27 @@ PMS 2.0の観測プロトコルが、LP-01執筆時より精密になったと�
 
 現時点での監査結果をまとめる。
 
-|Probe|Audit Status|
-|---|---|
-|`lag-head = issue`|**REJECT**|
-|`lag-head = keyword`|**REJECT**|
-|`lag-head = semantic anchor`|**REJECT AS IDENTITY / KEEP AS PROXY**|
-|`lag-head = configuration`|**REJECT**|
-|`lag-window = configuration`|**REJECT**|
-|`discursive configuration = political configuration`|**REJECT**|
-|`lag-head × lag-window → configuration`|**ATTRACTION / NOT ESTABLISHED**|
-|`lag-head → lag-window`|**NOT ESTABLISHED**|
-|`lag-window → lag-head`|**NOT ESTABLISHED**|
-|`lag-head and lag-window are independent`|**REJECT**|
-|`lag-head and lag-window are mutually constraining`|**WORKING LABEL / DESCRIPTIVE, NOT MECHANISM**|
-|`lag-head conditions direction`|**SUPPORTED / AUDITED FORM**|
-|`lag-window conditions admissibility`|**SUPPORTED**|
-|`Preference = Configuration`|**REJECT**|
-|`Selection = Stabilization`|**REJECT**|
-|`Convergence = Synchronization`|**REJECT**|
-|`No consensus = Synchronization`|**REJECT**|
-|`Vote → lag-head`|**REJECT AS DIRECT INFERENCE**|
+| Probe                                                | Audit Status                                   |
+| ---------------------------------------------------- | ---------------------------------------------- |
+| `lag-head = issue`                                   | **REJECT**                                     |
+| `lag-head = keyword`                                 | **REJECT**                                     |
+| `lag-head = semantic anchor`                         | **REJECT AS IDENTITY / KEEP AS PROXY**         |
+| `lag-head = configuration`                           | **REJECT**                                     |
+| `lag-window = configuration`                         | **REJECT**                                     |
+| `discursive configuration = political configuration` | **REJECT**                                     |
+| `lag-head × lag-window → configuration`              | **ATTRACTION / NOT ESTABLISHED**               |
+| `lag-head → lag-window`                              | **NOT ESTABLISHED**                            |
+| `lag-window → lag-head`                              | **NOT ESTABLISHED**                            |
+| `lag-head and lag-window are independent`            | **REJECT**                                     |
+| `lag-head and lag-window are mutually constraining`  | **WORKING LABEL / DESCRIPTIVE, NOT MECHANISM** |
+| `lag-head conditions direction`                      | **SUPPORTED / AUDITED FORM**                   |
+| `lag-window conditions admissibility`                | **SUPPORTED**                                  |
+| `Preference = Configuration`                         | **REJECT**                                     |
+| `Selection = Stabilization`                          | **REJECT**                                     |
+| `Convergence = Synchronization`                      | **REJECT**                                     |
+| `No consensus = Synchronization`                     | **REJECT**                                     |
+| `Vote → lag-head`                                    | **REJECT AS DIRECT INFERENCE**                 |
+| `connection direction = lag-head`                    | **ATTRACTION / NOT ESTABLISHED**               |
 
 ここで重要なのは、等号を増やさないことである。
 
