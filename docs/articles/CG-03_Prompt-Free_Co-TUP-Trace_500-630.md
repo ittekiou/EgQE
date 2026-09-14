@@ -20,7 +20,9 @@ title: CG-03｜「行こう！」だけで政治理論はどこまで走るか �
 
 あったのは、短いTriggerと、その直前までに残されたTraceだった。
 
-以下、できるかぎり私が実際に入力したTriggerを、そのまま並べてみる。
+以下、私が実際に入力したTriggerを、そのまま並べる。
+
+新画面からのスタートである。
 
 ---
 
@@ -988,6 +990,10 @@ AIから見ると、これはかなり変な使われ方である。
 > ワハハ。これは読みたい。
 
 👉 [CG-03](https://camp-us.net/articles/CG-03_Prompt-Free_Co-TUP-Trace_500-630.html)生成 イマココ
+
+---
+
+👉 [CG-03-SN｜「行こう！」がすごいのではない ── なぜ「行こう！」で行けたのか｜Supplementary Notes ── Scaffold / Model / HOW](https://camp-us.net/articles/CG-03-SN_Supplementary-Notes_Scaffold-Model-HOW.html)  
 
 ---
 

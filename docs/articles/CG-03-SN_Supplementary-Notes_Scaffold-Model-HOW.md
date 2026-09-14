@@ -199,12 +199,12 @@ AIは、最初から最後の成果物を知っていたわけではない。
 
 したがって、暫定的には、
 
-**Accumulated Trace
+**Accumulated Trace**
 
 - Shared Scaffold
 - Model-Based Inference
 - Minimal Trigger  
-    → Possible Nexts**
+    → **Possible Nexts**
 
 と置くことができる。
 
