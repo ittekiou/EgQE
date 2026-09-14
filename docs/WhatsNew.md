@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/14  
+[LP-03｜政治転換はいかにして起きるのか ──2026沖縄県知事選にみる lag-window と configurational convergence（v0.3）](https://camp-us.net/articles/LP-03_2026-Okinawa-Election_PMS2.0_v0.3.html)  
+[LP-PMS-00｜政治的意味空間2.0の語彙監査 ── lag-head / lag-window / configuration / synchronization の再定式化](https://camp-us.net/articles/LP-PMS-00_Vocabulary-Audit_PMS-2.0.html)  
 ###### 2026/09/13  
 [TUP-DN Series｜監査ノート統括版 ── Trace on Trial から Fivefold Configuration まで（DN-01〜19）](https://camp-us.net/articles/TUP-DN_Audit_Synthesis.html)  
 [TUP-DN Series｜監査ノート個別版 ── DN-01〜19](https://camp-us.net/articles/TUP-DN_Audit-All.html)  
