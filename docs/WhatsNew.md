@@ -22,6 +22,9 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/09/14  
 [LP-03｜政治転換はいかにして起きるのか ──2026沖縄県知事選にみる lag-window と configurational convergence（v0.3）](https://camp-us.net/articles/LP-03_2026-Okinawa-Election_PMS2.0_v0.3.html)  
 [LP-PMS-00｜政治的意味空間2.0の語彙監査 ── lag-head / lag-window / configuration / synchronization の再定式化](https://camp-us.net/articles/LP-PMS-00_Vocabulary-Audit_PMS-2.0.html)  
+[CG-03｜「行こう！」だけで政治理論はどこまで走るか ── 5:00–6:30、Prompt-Free Co-TUPの生成Trace](https://camp-us.net/articles/CG-03_Prompt-Free_Co-TUP-Trace_500-630.html)  
+[CG-03-SN｜「行こう！」がすごいのではない ── なぜ「行こう！」で行けたのか｜Supplementary Notes ── Scaffold / Model / HOW](https://camp-us.net/articles/CG-03-SN_Supplementary-Notes_Scaffold-Model-HOW.html)  
+[CG-04｜誰が誰をTriggerするのか ── Bidirectional Triggering and the Co-Editing of Homo editus](https://camp-us.net/articles/CG-04_Bidirectional-Triggering_Co-Editing-of-Homo-editus.html)  
 ###### 2026/09/13  
 [TUP-DN Series｜監査ノート統括版 ── Trace on Trial から Fivefold Configuration まで（DN-01〜19）](https://camp-us.net/articles/TUP-DN_Audit_Synthesis.html)  
 [TUP-DN Series｜監査ノート個別版 ── DN-01〜19](https://camp-us.net/articles/TUP-DN_Audit-All.html)  
