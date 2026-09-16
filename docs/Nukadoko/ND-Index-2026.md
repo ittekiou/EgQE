@@ -59,7 +59,7 @@ Nukadoko とは、それを置く場所である。
 [ND-260904_difference_like-as-is](https://camp-us.net/Nukadoko/ND-260904_difference_like-as-is.html)  
 [ND-260906_Plank-Support-Theory](https://camp-us.net/Nukadoko/ND-260906_Plank-Support-Theory.html)  
 [ND-260907_Spiral-Probe](https://camp-us.net/Nukadoko/ND-260907_Spiral-Probe.html)  
-
+[CABA / TUP Memo｜光・影・Editus](https://camp-us.net/Nukadoko/CABA-TUP_Memo_2026-09-16.html)  
 
 [ND_filename](https://camp-us.net/Nukadoko/.html)  
 

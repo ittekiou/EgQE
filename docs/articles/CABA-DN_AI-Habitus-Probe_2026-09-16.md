@@ -46,7 +46,7 @@ Actualization/Redistribution/Reassignment/Reinterpretation/Generation、そし�
 "The same prior trace does not do the same work after a different subsequent encounter."
 主体なし。操作なし。目的なし。
 
-（このあたりまでの詳細は「AIにハビトゥスはあるか？──実験記録」および短編「過去は終わる。過去の仕事は終わらない。」に別記。）
+（このあたりまでの詳細は[CABA-01｜AIにハビトゥスはあるか？ ──実験記録](https://camp-us.net/articles/CABA-01_Habitus-AI-Probe.html)および短編[CABA-01-note｜過去は終わる。過去の仕事は終わらない。](https://camp-us.net/articles/CABA-01-note_Habitus-AI.html)に別記。）
 
 ## 6｜02F Boundary & Continuity → 02G-1 Ownership Blow
 
