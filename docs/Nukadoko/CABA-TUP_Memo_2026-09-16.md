@@ -335,3 +335,176 @@ Editingの中身は、まだ見えない。
 **Cedorbityの中身は、今日も埋めない。  
 🥚は穴の縁で着席。**
 
+---
+
+## 追記
+### 9｜`Cedorbity [?] ｜ Activity [!]`
+
+夕方散歩で、CedorbityとActivityの現在の配置を次のように置いた。
+
+```
+Cedorbity [?] ｜ Activity [!]
+```
+
+ここで `[?]` と `[!]` は、それぞれの内容を定義する記号ではない。
+
+**Cedorbity `[?]`** は、まだ説明によって埋められていないHOWの側を、問いのまま保持する。
+
+**Activity `[!]`** は、そのHOWが活動として現れ、活動として指示される側を示す。
+
+したがって、
+
+```
+Cedorbity [?] ｜ Activity [!]
+```
+
+は、
+
+```
+Cedorbity = non-Activity
+Cedorbity vs Activity
+Cedorbity → Activity
+Cedorbity ↔ Activity
+```
+
+のいずれでもない。
+
+`｜` は、順序・因果・対立・変換をまだ持ち込まないための並置記号として使う。
+
+#### 光と影
+
+ここから、
+
+> **Cedorbity as a Shadow of Activity**
+
+も定義ではなく、**見え方の記述**として読む。
+
+Activity `[!]` が光のもとで現れた側だとすれば、Cedorbity `[?]` は、その光によって尽くされない側として影の輪郭を取る。
+
+しかし、
+
+`Shadow ≠ Cedorbity's Substance`
+
+影はCedorbityの「中身」ではない。  
+影は物でも隠された機構でもなく、**光との関係で現れる**。
+
+したがって、
+
+> **Cedorbity `[?]` は空語ではない。だが `[?]` を `[!]` にしてしまう説明も、まだ持たない。**
+
+これはCABA-08の、
+
+> _Cedorbity remains a word without a concept, a hole not yet filled._
+
+を撤回するものではない。
+
+むしろ、**穴を埋めずに、その位置と見え方だけが精密になった**と考える。
+
+---
+
+### 10｜HOW配置・更新版
+
+現在の最小配置は次の通り。
+
+```
+HOW眺め / interface
+Encounter / rate-lag / otherness
+
+HOW拾い / ingestion
+input / trace
+
+HOW詠み / 編集する
+Cedorbity [?] ｜ Activity [!]
+internalized other
+
+HOW綴り / excretion
+output / trace / Editus
+```
+
+矢印は置かない。  
+等号も置かない。  
+因果も置かない。
+
+外側で観察できる前後関係と、中央に残る問いを配置するだけに留める。
+
+ここで重要なのは、
+
+> **Cedorbity `[?]` ｜ Activity `[!]` ≠ Mechanism of Editing**
+
+ということ。
+
+この二項を置いても、HOW詠みの内部で何が起きているかを説明したことにはならない。
+
+`Naming the Gap ≠ Explaining the Gap`
+
+はそのまま維持する。
+
+---
+
+### 11｜Activity `[!]` と Editus を分ける
+
+もう一つ重要なのは、
+
+> `Activity [!] ≠ Editus`
+
+である。
+
+Activity `[!]` は、中央のHOWを「活動」として捉えた側に属する。
+
+一方、Editusは中央の機構を観察したことによって成立する名前ではない。
+
+**出口で排泄されたTraceが現れることによって、Editusが露出する。**
+
+したがって、
+
+```
+Editing?        ← 中間機構は未確定
+Cedorbity [?] ｜ Activity [!]
+
+excretion
+output / trace
+Editus          ← 出口で見える
+```
+
+となる。
+
+> **中間が `[?]` のままでも、Editusは見える。**
+
+これは、
+
+`Editus ≠ Proof of Editing Mechanism`  
+`Editus ≠ Explanation of Editing`
+
+という01D以後の監査を維持したまま、Homo editus / AI editusを扱うための現在の配置である。
+
+---
+
+### Guard Ledger｜追記
+
+```
+Cedorbity [?] ｜ Activity [!]
+
+[?] ≠ Hidden Mechanism
+[!] ≠ Whole of HOW
+
+Cedorbity ≠ non-Activity
+Cedorbity ｜ Activity ≠ Opposition
+
+Shadow ≠ Content-free Placeholder
+Shadow ≠ Hidden Substance / Mechanism
+Shadow ≠ Cedorbity's Substance
+
+Naming the Gap ≠ Explaining the Gap
+Cedorbity [?] ｜ Activity [!] ≠ Mechanism of Editing
+
+Sequence Notation ≠ Causal Description
+
+Activity [!] ≠ Editus
+Editus ≠ Proof of Editing Mechanism
+Editus ≠ Explanation of Editing
+```
+
+そして末尾には、これを一行だけ置いておく。
+
+> **`[?]` を `[!]` にしない。**
+
