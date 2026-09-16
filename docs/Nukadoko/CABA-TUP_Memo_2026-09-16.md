@@ -510,3 +510,28 @@ Editus ≠ Explanation of Editing
 
 > **`[?]` を `[!]` にしない。**
 
+---
+
+### 12｜Nest memo｜Narrative
+
+`Cedorbity ｜ Activity` は、Activityだけでは語り切れないことを、その語れなさごと残す記法でもある。
+
+ここで、以前から扱ってきた **Narrative** の問題が再浮上した。
+
+> **narrativeで語れないshadow？**
+
+ただし、
+
+`Cedorbity ≠ non-Narrative`
+
+Narrativeそのものを閉包とみなさない。  
+問いはむしろ、
+
+> **Narrativeは何を照らし、何をshadowにするのか。**
+
+`Cedorbity ｜ Narrative` まで置けるかは未監査。
+
+**Next：Narrative坑道。今日はnest。** 🪺
+
+
+
