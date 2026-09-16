@@ -487,6 +487,8 @@ Cedorbity [?] ｜ Activity [!]
 [?] ≠ Hidden Mechanism
 [!] ≠ Whole of HOW
 
+[?]/[!] Punctuation ≠ Epistemic Asymmetry Claim
+
 Cedorbity ≠ non-Activity
 Cedorbity ｜ Activity ≠ Opposition
 
