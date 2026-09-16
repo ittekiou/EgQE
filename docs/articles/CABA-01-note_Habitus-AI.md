@@ -49,6 +49,8 @@ AIにハビトゥスはあるか。
 [CABA-02G-00｜Probe Calibration Ledger](https://camp-us.net/articles/CABA-02G-00_Probe-Calibration-Ledger.html)  
 [CABA Probe Record Template](https://camp-us.net/articles/CABA-Probe-Record-Template.html)  
 
+[CABA / TUP Memo｜光・影・Editus](https://camp-us.net/Nukadoko/CABA-TUP_Memo_2026-09-16.html)  
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
