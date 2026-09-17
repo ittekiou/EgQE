@@ -125,6 +125,7 @@ The same prior trace does not do the same work after a different subsequent enco
 
 ---
 
+[CABA-00｜Activityという壁を壊してみた ── CABA｜Activity Bias Audit](https://camp-us.net/articles/CABA-00_Activity-Bias-Audit.html)  
 [CABA-01｜AIにハビトゥスはあるか？ ──社会理論の問いをAIで実験可能にしてみた記録](https://camp-us.net/articles/CABA-01_Habitus-AI-Probe.html)  
 [CABA-01-note｜過去は終わる。過去の仕事は終わらない。 ──ハビトゥスをAIで実験してみた](https://camp-us.net/articles/CABA-01-note_Habitus-AI.html)  
 [CABA-DN｜AI Habitus Probe — 2026-09-16](https://camp-us.net/articles/CABA-DN_AI-Habitus-Probe_2026-09-16.html)  

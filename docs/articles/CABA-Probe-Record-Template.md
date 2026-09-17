@@ -38,6 +38,10 @@ Layer 2 = Trace Meaning / Trace Function・Status
 Actualization Probe(4節)で見つかった `Trace Content ≠ Trace Meaning ≠ Trace Function/Status` を、そのまま記録実務の層構造に転写したもの。
 
 ---
+
+[CABA-00｜Activityという壁を壊してみた ── CABA｜Activity Bias Audit](https://camp-us.net/articles/CABA-00_Activity-Bias-Audit.html)  
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 

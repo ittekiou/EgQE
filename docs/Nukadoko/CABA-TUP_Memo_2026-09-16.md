@@ -1,4 +1,9 @@
+---
+
+---
 ## CABA / TUP Memo｜光・影・Editus
+
+[CABA-00｜Activityという壁を壊してみた ── CABA｜Activity Bias Audit](https://camp-us.net/articles/CABA-00_Activity-Bias-Audit.html)  
 
 ### 2026-09-16 夕方散歩
 
@@ -329,8 +334,8 @@ Editingの中身は、まだ見えない。
 
 だから、
 
-> **編集する？——まだわからない。**  
-> **Editus？——Traceによって見える。**
+> **編集する？──まだわからない。**  
+> **Editus？──Traceによって見える。**
 
 **Cedorbityの中身は、今日も埋めない。  
 🥚は穴の縁で着席。**
