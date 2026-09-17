@@ -53,6 +53,13 @@ AIにハビトゥスはあるか。
 [CABA / TUP Memo｜光・影・Editus](https://camp-us.net/Nukadoko/CABA-TUP_Memo_2026-09-16.html)  
 
 ---
+
+[CABA-note_ディスタンクシオン_第3章_原典メモ](https://camp-us.net/assets/CABA-note_ディスタンクシオン_第3章_原典メモ.html)  
+[CABA-note_実践感覚_原典メモ_CABA05補強](https://camp-us.net/assets/CABA-note_実践感覚_原典メモ_CABA05補強.html)  
+[CABA-note_実践感覚_時間の働き章_原典メモ](https://camp-us.net/assets/CABA-note_実践感覚_時間の働き章_原典メモ.html)  
+[CABA-note_実践感覚_第9章_主観的なものの客観性_原典メモ](https://camp-us.net/assets/CABA-note_実践感覚_第9章_主観的なものの客観性_原典メモ.html)  
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
