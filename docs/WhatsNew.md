@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/17  
+[CABA-DN-02｜ハビトゥスという沼、エディトゥスという嶼 — 2026-09-17](https://camp-us.net/articles/CABA-DN-02_Habitus-Editus_2026-09-17.html)  
 ###### 2026/09/16  
 [CABA-00｜Activityという壁を壊してみた ── CABA｜Activity Bias Audit](https://camp-us.net/articles/CABA-00_Activity-Bias-Audit.html)  
 [CABA-01｜AIにハビトゥスはあるか？ ──社会理論の問いをAIで実験可能にしてみた記録](https://camp-us.net/articles/CABA-01_Habitus-AI-Probe.html)  
