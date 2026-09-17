@@ -41,6 +41,8 @@ Actualization Probe(4節)で見つかった `Trace Content ≠ Trace Meaning ≠
 
 [CABA-00｜Activityという壁を壊してみた ── CABA｜Activity Bias Audit](https://camp-us.net/articles/CABA-00_Activity-Bias-Audit.html)  
 
+[CABA / TUP Memo｜光・影・Editus](https://camp-us.net/Nukadoko/CABA-TUP_Memo_2026-09-16.html)  
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
