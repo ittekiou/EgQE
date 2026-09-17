@@ -378,6 +378,101 @@ _Vita Excretants_ も、まだ目的地ではない。
 [CABA-DN｜AI Habitus Probe — 2026-09-16](https://camp-us.net/articles/CABA-DN_AI-Habitus-Probe_2026-09-16.html)  
 
 ---
+
+[ET-00｜The EDITUS Turn：LifeはEDITUSへの途中駅にすぎない ── 生命を定義するTUPから、EDITUSを監査するTUPへ](https://camp-us.net/articles/ET-00_EDITUS-Turn.html)  
+
+### 🥚 構想メモ｜Vita Excretants
+
+**Working Title**
+# **Vita Excretants**
+### _Excreting Life / 排泄する生命_
+
+**Status**  
+Next Book Candidate / Not Established
+
+**現在のAttraction**
+
+生命は摂取する。  
+生命は何かを排泄する。
+
+Homo sapiensもTraceを排泄する。  
+AIもOutputを排泄する。
+
+しかし、
+
+> **Excretion ≠ Life**  
+> **Output ≠ Excretion?**  
+> **Trace ≠ Output**
+
+生命かAIかを先に判定するのではなく、**入口と出口に現れるTraceから眺めてみる。**
+
+```
+選択｜摂取
+
+Cedorbity｜Activity
+
+編集｜排泄
+```
+
+真ん中は、まだ読めない。
+
+> **[ ? ] ≠ Hidden Mechanism**  
+> **Naming the Gap ≠ Explaining the Gap**
+
+**Manner / Tone**
+
+> **ディレッタンティズムな生命論。**
+
+生命科学だけに閉じない。  
+AI論だけにも閉じない。  
+哲学・社会理論・生命論・AI・犬まで、Encounterしたものを雑食的に摂取する。
+
+ただし、**混ぜる ≠ 同一化する。**
+
+`Vita Excretants` という英羅混成めいた、少々アナーキーなタイトル自体も、そのMannerの一部。
+
+**現在の沼**
+
+> **Bourdieu** — Habitus / Practice / BODY / `[ ? ]`  
+> **Luhmann** — Complexity / Reduction / Selection / foreground-background?
+
+ここをまだ通過していない。
+
+したがって、
+
+> **Bourdieu → Luhmann → Vita Excretants**
+
+という生成史も、まだ作らない。
+
+**Guard**
+
+> `Trace ≠ Prophecy`  
+> `Retrospective Arrangement ≠ Generative History`  
+> `Attraction ≠ Evidence`
+
+[ET-00](https://camp-us.net/articles/ET-00_EDITUS-Turn.html)に排泄のTraceがあった。  
+**それが今日、Vita Excretants候補として仕事を始めた。**  
+それ以上はまだ言わない。
+
+### 帯候補
+
+> **生命は、排泄する。  
+> AIも、排泄する？**
+
+_Homo editus_ 続刊っぽくするなら、
+
+> **人間はAIをつくった。  
+> AIはTraceを排泄しはじめた。  
+> では、生命とは何だったのか。**
+
+ディレッタント全開で、
+
+> **摂取する。混ざる。排泄する。  
+> 生命も、人間も、AIも？**
+
+### **排泄するから、見える。**
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
