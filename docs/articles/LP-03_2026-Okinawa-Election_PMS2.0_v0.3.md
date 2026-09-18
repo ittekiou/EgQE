@@ -522,6 +522,10 @@ It does not fix the meaning space.**
 
 ---
 
+👉 [LP-03 v0.4｜2026年沖縄県知事選── PMS 2.0 Re-Audit](https://camp-us.net/articles/LP-03_v0.4_2026-Okinawa-Election_PMS2.0.html)  
+
+---
+
 [LP-03｜Development Notes v0.1](https://camp-us.net/articles/LP-03_Development-Notes_v0.1.html)  
 
 [LP-PMS-00｜政治的意味空間2.0の語彙監査 ── lag-head / lag-window / configuration / synchronization の再定式化](https://camp-us.net/articles/LP-PMS-00_Vocabulary-Audit_PMS-2.0.html)  

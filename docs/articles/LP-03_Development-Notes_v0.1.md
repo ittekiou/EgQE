@@ -240,6 +240,214 @@ _How does political transition become possible?_
 
 ---
 
+## v0.4
+#### **Re-Audit Matrix v0.1**
+
+**何が観測されたか**
+
+|Required Trace|Status|2026 New Trace|Re-Audit上の意味|
+|---|---|---|---|
+|**Age × Candidate**|**✓ OBSERVED**|共同：古謝は60代以下で上回り、10〜30代70％超。読売：70歳以上を除き古謝優位、18〜39歳では玉城の3倍超|年代差は残る。それでも広い年代から同一configurationへ収束。ただし60代は調査間差あり|
+|**Party support × Candidate**|**✓ OBSERVED**|共同：古謝＝自民・参政80％超、公明75.4％。玉城＝立民・共産・社民90％超|**party structure persisted**。意味的一様化ではない|
+|**Henoko preference × Candidate**|**△ QUALITATIVE ONLY**|QAB・沖縄タイムス・朝日：辺野古賛成者は古謝、反対者は玉城を「大半」が選択|**cross exists, numerical trace not public**|
+|**Priority issue × Candidate**|**✓ STRONGLY OBSERVED**|共同：経済49.5％→古謝78.7％／基地20.9％→玉城72.9％。読売でも経済系→古謝、基地→玉城|**異なるpriorityが異なるcandidate propensityを持ったまま、aggregateでは一候補へ収束**|
+|**2022 Vote × 2026 Vote**|**△ PARTIAL CROSS**|共同：2022玉城投票者の**30.8％→古謝**|incumbent coalition内部からのconfiguration shiftを直接観測|
+|**Unaffiliated × Candidate**|**✓ OBSERVED / CONFLICT**|共同：玉城56.2／古謝40.9。NHK系報道：古謝50％余で玉城を上回る|**調査主体によって方向まで反転**。単一説明への強いGuard|
+|**Municipality-level swing**|**✓ COMPLETE / ADMINISTRATIVE DATA**|古謝40/41市町村首位。2022玉城優位28自治体のうち27が反転|地理的に局所的な転換ではない|
+
+共同通信は**60投票所・回答2,909人**。上の経済／基地、前回投票、年代、党派、無党派、辺野古単純集計（賛成50.2％／反対43.8％）が同一調査から取れる。[熊日電子版｜熊本日日新聞社](https://kumanichi.com/articles/2035522?utm_source=chatgpt.com)
+
+読売は**96投票所・回答2,839人**。景気・物価20％、教育・子育て16％、県民所得15％、基地14％で、経済政策重視者の約7割が古謝、基地重視者の約8割が玉城。年代については70歳以上だけ玉城優位だった。[ライブドアニュース](https://news.livedoor.com/article/detail/32323935/?utm_source=chatgpt.com)
+
+QAB・沖縄タイムス・朝日の選挙前共同調査は**9月5〜6日、ネット調査会社4社のモニター、有効回答1,260件**。ここはさっき確認した点をさらに精密化できる。**辺野古移設だけでなく自衛隊「南西シフト」についても、賛成者の大半→古謝、反対者の大半→玉城**という定性的crossが実際に公開されている。ただし数値は非公表。[QAB 琉球朝日放送 | もっとドキドキQAB](https://www.qab.co.jp/quebee/video/26-09-07-rp01/?utm_source=chatgpt.com)
+
+### Matrixから直接言えること
+
+v0.3で待っていたTraceは、**7項目中5項目が観測可能、2項目が部分観測**になった。
+
+データが示しているのは、**heterogeneity disappeared**ではない。
+
+むしろ、**heterogeneity remained observable.**
+
+党派差がある。年代差がある。争点差がある。辺野古態度差もある。無党派については、**調査によって候補優位の方向すら違う**。
+
+にもかかわらず、**electoral configuration converged.**
+
+同じ選挙の中で、heterogeneity と convergence が同時に観測されている。
+
+特に強烈なのが **Priority issue × Candidate**。
+
+経済重視者の **78.7% → 古謝**。  
+基地重視者の **72.9% → 玉城**。[熊日電子版｜熊本日日新聞社](https://kumanichi.com/articles/2035522?utm_source=chatgpt.com)
+
+つまり、
+
+**Priority did not converge.  
+Candidate propensity differed by priority.  
+Yet the aggregate configuration converged.**
+
+辺野古も重要。
+
+共同では単純集計として、**賛成 50.2％ / 反対 43.8％** まで観測できる。[熊日電子版｜熊本日日新聞社](https://kumanichi.com/articles/2035522?utm_source=chatgpt.com)
+
+QAB系では、**Preference × intended Vote** の**方向**まで観測されている。[QAB 琉球朝日放送 | もっとドキドキQAB](https://www.qab.co.jp/quebee/video/26-09-07-rp01/?utm_source=chatgpt.com)
+
+だが、数値crossがない。だから、`Henoko preference caused the result`には行かない。
+
+むしろ、**Henoko Preference ≠ Henoko Priority ≠ Vote**というDevelopment NotesのGuardが、今のところ**破られていない**。
+
+---
+
+## Re-Audit Verdict｜2026-09-18
+
+Post-election data now permit a partial re-audit of the three Core Probes retained in LP-03 v0.3.
+
+### 1｜lag-head
+
+**RETAINED / NOT IDENTIFIED**
+
+Age, party support, issue priority, Henoko preference, and previous vote each expose different electoral divisions.
+
+None can be identified with `lag-head`.
+
+**Issue ≠ lag-head.**  
+**Preference ≠ lag-head.**  
+**Vote ≠ lag-head.**
+
+---
+
+### 2｜simultaneously permissible
+
+**SUPPORT STRENGTHENED**
+
+The new cross-tabulations show persistent heterogeneity across age, party support, issue priority, previous vote, and Henoko preference.
+
+Nevertheless, one electoral configuration became available across sufficiently many heterogeneous electorates to produce large-scale convergence.
+
+This supports—but does not directly prove—the v0.3 probe:
+
+> **the same configuration becomes simultaneously permissible**
+
+`permissible` remains a PMS analytical term, not a directly observed variable.
+
+---
+
+### 3｜directional synchronization
+
+**NOT ESTABLISHED**
+
+Large-scale convergence in vote does not establish convergence in political direction.
+
+Different issue priorities retained different candidate propensities.  
+Partisan divisions remained visible.  
+Unaffiliated-voter estimates differed across exit polls.  
+Henoko preference remained differentiated.
+
+Therefore:
+
+**Vote convergence ≠ Meaning convergence.**  
+**Vote convergence ≠ Directional synchronization.**
+
+---
+
+## Revised Transition
+
+`heterogeneous traces`
+
+→ `different preferences / priorities / partisan positions persist`
+
+→ `the same electoral configuration becomes simultaneously permissible`
+
+→ `large-scale configurational convergence`
+
+→ **without demonstrated semantic convergence or directional synchronization**
+
+---
+
+## Re-Audit Status
+
+The new data do not identify a common meaning behind the result.
+
+They strengthen a narrower claim:
+
+> **Political transition can occur through configurational convergence across heterogeneous electorates without demonstrated semantic agreement.**
+
+**Do not fit the data to PMS.  
+Re-audit PMS against the data.**
+
+---
+
+## Toward v0.5｜Re-Open Conditions
+
+LP-03 v0.4 is closed as of 2026-09-18.
+
+v0.5 should not be opened merely because additional commentary or interpretation appears.
+
+Re-open only if new Trace materially changes the available cross-structure.
+
+### Primary Re-Open Triggers
+
+1. **Henoko Preference × Actual Vote**
+    
+    - numerical election-day candidate cross
+        
+    - current status: qualitative / aggregate traces only
+        
+2. **2022 Vote × 2026 Vote**
+    
+    - complete transition matrix
+        
+    - current status: partial cross (`2022 Tamaki → 2026 Koja = 30.8%`)
+        
+3. **Multi-dimensional Cross**
+    
+    - e.g. `Age × Priority × Candidate`
+        
+    - `Unaffiliated × Priority × Candidate`
+        
+    - `Henoko Preference × Priority × Candidate`
+        
+
+### Re-Audit Questions
+
+If new Trace arrives, do not ask first:
+
+> What explains the election?
+
+Ask:
+
+> Does the new Trace alter any v0.4 verdict?
+
+Specifically:
+
+- Does it identify a plausible `lag-head`?
+    
+- Does it weaken or strengthen `simultaneously permissible`?
+    
+- Does it provide evidence for `directional synchronization`?
+    
+- Does it provide evidence for `semantic convergence`?
+    
+- Does it expose additional heterogeneity hidden by the existing cross-tabulations?
+    
+
+### Guard
+
+**More data ≠ v0.5.**
+
+**New interpretation ≠ v0.5.**
+
+**Only a materially new Trace that can re-audit the existing verdicts re-opens LP-03.**
+
+Until then:
+
+> **v0.4 remains closed.**
+
+👉 JP: [LP-03 v0.4｜2026年沖縄県知事選── PMS 2.0 Re-Audit](https://camp-us.net/articles/LP-03_v0.4_2026-Okinawa-Election_PMS2.0.html)  
+EN: [LP-03 v0.4｜2026 Okinawa Election — PMS 2.0 Re-Audit](https://camp-us.net/articles/LP-03_v0.4-EN_2026-Okinawa-Election_PMS2.0.html)  
+
+---
+
 # Drafts｜Appendix
 
 **V0.1**

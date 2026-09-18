@@ -19,6 +19,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/18  
+[LP-03 v0.4｜2026年沖縄県知事選── PMS 2.0 Re-Audit](https://camp-us.net/articles/LP-03_v0.4_2026-Okinawa-Election_PMS2.0.html)  
+[LP-03 v0.4｜2026 Okinawa Election — PMS 2.0 Re-Audit](https://camp-us.net/articles/LP-03_v0.4-EN_2026-Okinawa-Election_PMS2.0.html)  
 ###### 2026/09/17  
 [CABA-DN-02｜ハビトゥスという沼、エディトゥスという嶼 — 2026-09-17](https://camp-us.net/articles/CABA-DN-02_Habitus-Editus_2026-09-17.html)  
 ###### 2026/09/16  
