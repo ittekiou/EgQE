@@ -32,7 +32,7 @@ title: CABA-00｜Activityという壁を壊してみた ── CABA｜Activity B
 
 ## 2｜Activityを掘ったら、一枚岩ではなかった
 
-まず英語の`activity`自体を疑った。ギリシャ語のenergeia、ドイツ語のTätigkeit、ロシア語のдеятельность——これらを"activity"と訳すたび、それぞれ違う歴史の堆積が、無自覚に持ち込まれる。しかも、その堆積が持ち込まれたからといって、実際にその意味が発動するとは限らない。語に何が積まれているか（Stock）と、その使用でそれが効いたかどうか（Effect）は別の話だった。
+まず英語の`activity`自体を疑った。ギリシャ語のenergeia、ドイツ語のTätigkeit、ロシア語のдеятельность──これらを"activity"と訳すたび、それぞれ違う歴史の堆積が、無自覚に持ち込まれる。しかも、その堆積が持ち込まれたからといって、実際にその意味が発動するとは限らない。語に何が積まれているか（Stock）と、その使用でそれが効いたかどうか（Effect）は別の話だった。
 
 Illichを掘ると、意外な結果が出た。彼の主著『Tools for Conviviality』は、Activityを中心概念として置いていない。中心にあるのは自律と他律、道具と人間の関係だった。
 
@@ -50,7 +50,7 @@ Activityは、掘り始めた時点ですでに一枚岩ではなかった。
 
 ## 3｜主体を消せば済むわけでもなかった
 
-「Activityの奥には、行為する主体という亡霊が潜んでいるのではないか」——これが当初の疑いだった。だとすれば、主体を関係性(Relation)へ溶かしてしまえば片づく、と考えたくなる。
+「Activityの奥には、行為する主体という亡霊が潜んでいるのではないか」──これが当初の疑いだった。だとすれば、主体を関係性(Relation)へ溶かしてしまえば片づく、と考えたくなる。
 
 ここでBourdieuを掘った。そして、この道はすでに誰かが精密に歩いた後だと分かった。
 
@@ -60,7 +60,7 @@ Strategy ≠ Strategist
 Choice ≠ Decision  
 Body ≠ Carrier
 
-だから、「Activityには主体の亡霊がいる。ならば関係性へ移せばいい」というほど、話は単純ではなかった。Bourdieu自身の"the real is relational"(実在とは関係的である)という立場にすら、批判者から同じ問いが向けられていた——**関係性そのものが、新しい隠れた基盤になっていないか。**
+だから、「Activityには主体の亡霊がいる。ならば関係性へ移せばいい」というほど、話は単純ではなかった。Bourdieu自身の"the real is relational"(実在とは関係的である)という立場にすら、批判者から同じ問いが向けられていた──**関係性そのものが、新しい隠れた基盤になっていないか。**
 
 Relation ≠ Ground.
 
@@ -70,7 +70,7 @@ Relation ≠ Ground.
 
 Ricoeurを掘ると、視界がもう一段広がった。
 
-人生を物語ることを扱うNarrative Identity理論を見ていくと、遂行された行為(performed activity)だけでは、一つの人生を扱いきれないことが分かる。されたこと。ただ起きてしまったこと。身体。習慣。そして約束——性格や傾向がどれだけ変わっても、それでも「私」であり続けるための、行為とは別の錨。語りきれないもの、語ることで壊れてしまうものすら、人生の一部として残る。
+人生を物語ることを扱うNarrative Identity理論を見ていくと、遂行された行為(performed activity)だけでは、一つの人生を扱いきれないことが分かる。されたこと。ただ起きてしまったこと。身体。習慣。そして約束──性格や傾向がどれだけ変わっても、それでも「私」であり続けるための、行為とは別の錨。語りきれないもの、語ることで壊れてしまうものすら、人生の一部として残る。
 
 さらに手前まで戻ってみると、奇妙な一致が見えてきた。Activity Theoryには"raw material"(未だ整形されていない素材)があり、Bourdieuには"doxa"(議論の対象にすらならない前提)があり、Ricoeurには"involuntary"(非意志的なもの)がある。
 
@@ -98,7 +98,7 @@ Cedorbityには、まだ定義がない。概念ですらない。何を説明�
 
 Activityに影を見た。だから、Activityという壁を掘った。穴は開いた。
 
-しかし——
+しかし──
 
 **壁を壊した ≠ 向こう側を発見した。**
 
@@ -151,6 +151,7 @@ Word ≠ Concept ≠ Explanatory Work ≠ Theory／Positional Parallel ≠ Conte
 [CABA-01｜AIにハビトゥスはあるか？ ──社会理論の問いをAIで実験可能にしてみた記録](https://camp-us.net/articles/CABA-01_Habitus-AI-Probe.html)  
 [CABA-01-note｜過去は終わる。過去の仕事は終わらない。 ──ハビトゥスをAIで実験してみた](https://camp-us.net/articles/CABA-01-note_Habitus-AI.html)  
 [CABA-DN｜AI Habitus Probe — 2026-09-16](https://camp-us.net/articles/CABA-DN_AI-Habitus-Probe_2026-09-16.html)  
+[CABA-DN-02｜ハビトゥスという沼、エディトゥスという嶼 — 2026-09-17](https://camp-us.net/articles/CABA-DN-02_Habitus-Editus_2026-09-17.html)  
 [CABA-02G-00｜Probe Calibration Ledger](https://camp-us.net/articles/CABA-02G-00_Probe-Calibration-Ledger.html)  
 [CABA Probe Record Template](https://camp-us.net/articles/CABA-Probe-Record-Template.html)  
 
