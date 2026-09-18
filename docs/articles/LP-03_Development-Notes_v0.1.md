@@ -298,6 +298,16 @@ QAB系では、**Preference × intended Vote** の**方向**まで観測され�
 
 ---
 
+残っている本命は二つ。
+
+**① Henoko Preference × Actual Vote の数値cross**  
+現状は、事前調査の定性的crossまで。共同は辺野古賛否の全体値まで。もし投票日調査の候補別数値が出れば、`Preference ≠ Priority ≠ Vote` をもう一段監査できる。
+
+**② 2022 Vote × 2026 Vote のcomplete transition matrix**  
+現状は「2022玉城票の30.8% → 2026古謝」という部分Trace。完全matrixが出れば、**誰から誰へ動いたか**を、推測ではなく直接扱える。
+
+それに加えて、もし出れば面白いのが、**複数crossの重なり**。たとえば `Age × Priority × Candidate`、`Unaffiliated × Priority × Candidate`、`Henoko Preference × Priority × Candidate`。ここまで来ると「若者」「無党派」「経済」といった単独カテゴリーをmeaningにしてしまう誘惑を、かなり強く監査できる。
+
 ## Re-Audit Verdict｜2026-09-18
 
 Post-election data now permit a partial re-audit of the three Core Probes retained in LP-03 v0.3.
