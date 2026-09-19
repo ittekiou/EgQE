@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/19  
+[CABA-03｜Locus-Manner｜所作考 ── 主体を始発駅にしない](https://camp-us.net/articles/CABA-03_Locus-Manner.html)  
 ###### 2026/09/18  
 [LP-03 v0.4｜2026年沖縄県知事選── PMS 2.0 Re-Audit](https://camp-us.net/articles/LP-03_v0.4_2026-Okinawa-Election_PMS2.0.html)  
 [LP-03 v0.4｜2026 Okinawa Election — PMS 2.0 Re-Audit](https://camp-us.net/articles/LP-03_v0.4-EN_2026-Okinawa-Election_PMS2.0.html)  
