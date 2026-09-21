@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/21  
+[MC-RN-04｜過去の過去問題 ── 哲学は「過去」をどう問うてきたか｜Past Questions on the Past](https://camp-us.net/articles/MC-RN-04_Past-Questions-on-the-Past.html)  
 ###### 2026/09/19  
 [CABA-03｜Locus-Manner｜所作考 ── 主体を始発駅にしない](https://camp-us.net/articles/CABA-03_Locus-Manner.html)  
 ###### 2026/09/18  
