@@ -313,17 +313,17 @@ Paul Ricoeur, _La mémoire, l'histoire, l'oubli_ / _Memory, History, Forgetting_
 
 Jacques Derrida, _La voix et le phénomène_ / _Speech and Phenomena_.
 
-[Stanford Encyclopedia of Philosophy — Henri Bergson](https://plato.stanford.edu/entries/bergson/?utm_source=chatgpt.com)
+[Stanford Encyclopedia of Philosophy — Henri Bergson](https://plato.stanford.edu/entries/bergson/)
 
-[Stanford Encyclopedia of Philosophy — Edmund Husserl](https://plato.stanford.edu/entries/husserl/?utm_source=chatgpt.com)
+[Stanford Encyclopedia of Philosophy — Edmund Husserl](https://plato.stanford.edu/entries/husserl/)
 
-[Stanford Encyclopedia of Philosophy — Martin Heidegger](https://plato.stanford.edu/entries/heidegger/?utm_source=chatgpt.com)
+[Stanford Encyclopedia of Philosophy — Martin Heidegger](https://plato.stanford.edu/entries/heidegger/)
 
-[Stanford Encyclopedia of Philosophy — Paul Ricoeur](https://plato.stanford.edu/entries/ricoeur/?utm_source=chatgpt.com)
+[Stanford Encyclopedia of Philosophy — Paul Ricoeur](https://plato.stanford.edu/entries/ricoeur/)
 
-[Stanford Encyclopedia of Philosophy — Jacques Derrida](https://plato.stanford.edu/entries/derrida/?utm_source=chatgpt.com)
+[Stanford Encyclopedia of Philosophy — Jacques Derrida](https://plato.stanford.edu/entries/derrida/)
 
-[池田光穂「声と現象：La Voix et le phénomène, 1967」（解説・資料ページ）](https://navymule9.sakura.ne.jp/Voix_et_phenomene.html?utm_source=chatgpt.com)
+[池田光穂「声と現象：La Voix et le phénomène, 1967」（解説・資料ページ）](https://navymule9.sakura.ne.jp/Voix_et_phenomene.html)
 
 ---
 
