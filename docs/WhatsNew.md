@@ -22,6 +22,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/09/23  
 [CABA-03-RN｜「処」考 ── Editus ｜ 処](https://camp-us.net/articles/CABA-03-RN_yoru-sho_HOW-LOCUS.html)  
 [TUP-03｜Encounter論 序説 ── toward ｜ against としての遭遇Again](https://camp-us.net/articles/TUP-03_Encounter_toward-against_Again.html)  
+[ET-04｜Sapiensverbundenheit──Homo sapiens Bias Trace](https://camp-us.net/articles/ET-04_Sapiensverbundenheit_Homo-sapiens-Bias-Trace.html)  
 ###### 2026/09/21  
 [MC-RN-04｜過去の過去問題 ── 哲学は「過去」をどう問うてきたか｜Past Questions on the Past](https://camp-us.net/articles/MC-RN-04_Past-Questions-on-the-Past.html)  
 ###### 2026/09/19  
