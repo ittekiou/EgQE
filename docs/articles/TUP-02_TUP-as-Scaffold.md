@@ -3,6 +3,7 @@ layout: math
 title: TUP-02｜TUPという足場
 title_en: TUP-02｜TUP as Scaffold
 ---
+#### TUP-02
 # TUPという足場
 
 ## TUP as Scaffold
