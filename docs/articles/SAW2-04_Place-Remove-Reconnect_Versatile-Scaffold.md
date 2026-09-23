@@ -353,11 +353,19 @@ Practiceは、完成した足場の上で始まるのではない。
 - 分岐は発見されるだけでなく、あとから置かれうる。
 - 足場の更新は、後続の可能性だけでなく、先行する軌道の働き方も変えうる。
 - Floor / placing surface：露出。Groundとは未判定。
-- `Support → Locus`：Open。LocusをGround化しない。
+- `Support ｜ Locus`：Open。LocusをGround化しない。
 - Affordanceとの距離：Open。
 - Supportの配置・撤去・再配置による変化は、affordance vocabularyで十分に記述可能か：未監査。
 - **置ける。けれど、来ちゃう。**
 - Status: Scaffold / Manner / Support / Reconfiguration Open
+
+---
+
+**Next Mine｜Locus-Manner**  
+Floor / Sleeper / 几 / 処  
+`Support ｜ Locus`  
+支える／置く／据える／止まる──そのMannerによって、Locusはいかに露出するか。  
+**Status: Open / 未掘削**
 
 ---
 
