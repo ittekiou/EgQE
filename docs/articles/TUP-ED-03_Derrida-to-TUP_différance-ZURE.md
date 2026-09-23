@@ -23,7 +23,7 @@ title: TUP-ED-03｜デリダから「なぞり」へ ── Trace・différance�
 この意味での「なぞり」は、デリダの脱構築と深く響き合う。
 
 脱構築は、テキストの外部から破壊を加えることではない。  
-デリダ的読解は、まずテキストの内部へ入り、その構文を忠実になぞる。そのうえで、テキスト自身が維持しようとする二項対立や自己同一性の内部に、閉じきらない亀裂や痕跡を露出させる。  脱構築は「faithful」「interior」な読解から始まる、と整理されている。([哲学百科事典](https://iep.utm.edu/con-meta/?utm_source=chatgpt.com "Metaphilosophy"))
+デリダ的読解は、まずテキストの内部へ入り、その構文を忠実になぞる。そのうえで、テキスト自身が維持しようとする二項対立や自己同一性の内部に、閉じきらない亀裂や痕跡を露出させる。  脱構築は「faithful」「interior」な読解から始まる、と整理されている。([哲学百科事典](https://iep.utm.edu/con-meta/ "Metaphilosophy"))
 
 だから、脱構築を破壊として理解するよりも、
 
@@ -43,7 +43,7 @@ Traceという語は、TUPにとって中心的である。
 
 むしろ、現在や意味が完全に自己同一的なものとして成立できないこと、その成立そのものにすでに他者や差異が入り込んでいることを示す。
 
-脱構築が追うのは、哲学が外部として排除しようとしたものが、その内部に残しているtraceである。([哲学百科事典](https://iep.utm.edu/deconstruction/?utm_source=chatgpt.com "Deconstruction"))
+脱構築が追うのは、哲学が外部として排除しようとしたものが、その内部に残しているtraceである。([哲学百科事典](https://iep.utm.edu/deconstruction/ "Deconstruction"))
 
 つまり、
 
@@ -74,7 +74,7 @@ Traceは終点ではなく、
 
 デリダとのもう一つの重要な接点が、différanceである。
 
-différanceは、differenceとdeferralを重ね合わせた語であり、意味が差異によって成立すると同時に、その最終的な確定がつねに先送りされる運動を示す。([スタンフォード哲学百科辞典](https://plato.stanford.edu/archives/sum2023/entries/hermeneutics/?utm_source=chatgpt.com "Hermeneutics - Stanford Encyclopedia of Philosophy"))
+différanceは、differenceとdeferralを重ね合わせた語であり、意味が差異によって成立すると同時に、その最終的な確定がつねに先送りされる運動を示す。([スタンフォード哲学百科辞典](https://plato.stanford.edu/archives/sum2023/entries/hermeneutics/ "Hermeneutics - Stanford Encyclopedia of Philosophy"))
 
 ここで重要なのは、**まず完全な同一性があり、そのあとに差異が生じるのではない**という点である。
 
@@ -179,7 +179,7 @@ AIの応答とこちらの違和感がずれる。
 
 この意味で、なぞりは脱構築と近い。
 
-脱構築も、テキストを外部から否定するのではなく、内部をたどることで、そのテキスト自身が処理しきれない差異や二項対立の不安定さを露出させる。([哲学百科事典](https://iep.utm.edu/deconstruction/?utm_source=chatgpt.com "Deconstruction"))
+脱構築も、テキストを外部から否定するのではなく、内部をたどることで、そのテキスト自身が処理しきれない差異や二項対立の不安定さを露出させる。([哲学百科事典](https://iep.utm.edu/deconstruction/ "Deconstruction"))
 
 したがって、
 
@@ -428,11 +428,11 @@ re-Traceが可能だから、Updateが可能になる。
 
 デリダは、同一性の内部に差異があることを示した。
 
-différanceは、意味が差異と遅延によってしか成立しないことを示す。([スタンフォード哲学百科辞典](https://plato.stanford.edu/archives/sum2023/entries/hermeneutics/?utm_source=chatgpt.com "Hermeneutics - Stanford Encyclopedia of Philosophy"))
+différanceは、意味が差異と遅延によってしか成立しないことを示す。([スタンフォード哲学百科辞典](https://plato.stanford.edu/archives/sum2023/entries/hermeneutics/ "Hermeneutics - Stanford Encyclopedia of Philosophy"))
 
 脱構築は、その差異を外から持ち込むのではない。
 
-テキストをなぞり、その内部にすでに存在するtraceを露出する。([哲学百科事典](https://iep.utm.edu/deconstruction/?utm_source=chatgpt.com "Deconstruction"))
+テキストをなぞり、その内部にすでに存在するtraceを露出する。([哲学百科事典](https://iep.utm.edu/deconstruction/ "Deconstruction"))
 
 この意味で、
 

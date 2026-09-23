@@ -201,7 +201,7 @@ Schrödinger, _What Is Life?_ (1944) 第一読
 
 > 遺伝子には物理的構造があるはずだ
 
-という方向そのものはSchrödinger以前に存在する。1935年論文自身が、mutation実験とその物理分析からgeneとmutationの一般像を構築することを目的としている。[OUP Academic](https://academic.oup.com/chicago-scholarship-online/book/21283/chapter-abstract/180975969?utm_source=chatgpt.com)
+という方向そのものはSchrödinger以前に存在する。1935年論文自身が、mutation実験とその物理分析からgeneとmutationの一般像を構築することを目的としている。[OUP Academic](https://academic.oup.com/chicago-scholarship-online/book/21283/chapter-abstract/180975969)
 
 ---
 
@@ -221,7 +221,7 @@ rare physical event
 
 という問題と、それを**複数の安定状態＋状態遷移**で説明する骨格も継承項目に入れる。
 
-Schrödinger Chapter V自身が「Delbrück's Model」と明示していることとも整合する。[ケンブリッジ大学出版局](https://www.cambridge.org/core/books/what-is-life/delbrucks-model-discussed-and-tested/7350D7329F901A24F22EAEA7049A67ED?utm_source=chatgpt.com)
+Schrödinger Chapter V自身が「Delbrück's Model」と明示していることとも整合する。[ケンブリッジ大学出版局](https://www.cambridge.org/core/books/what-is-life/delbrucks-model-discussed-and-tested/7350D7329F901A24F22EAEA7049A67ED)
 
 ---
 
@@ -275,7 +275,7 @@ Schrödinger Chapter V自身が「Delbrück's Model」と明示しているこ�
 
 という方向へ進む。
 
-少なくとも現在確認できる史料では、Schrödingerが “aperiodic crystal” という語を最初に用いたとする結晶学史側の評価もある。[IUCr](https://www.iucr.org/news/newsletter/volume-32/number-2/aperiodic-crystal?utm_source=chatgpt.com)
+少なくとも現在確認できる史料では、Schrödingerが “aperiodic crystal” という語を最初に用いたとする結晶学史側の評価もある。[IUCr](https://www.iucr.org/news/newsletter/volume-32/number-2/aperiodic-crystal)
 
 したがって暫定的に、
 
@@ -293,7 +293,7 @@ Schrödinger Chapter V自身が「Delbrück's Model」と明示しているこ�
 
 これもかなり強い追加候補。
 
-Schrödingerは染色体について、個体の将来のdevelopmentと成熟後のfunctionに関わる **code-script** を含むものとして語る。aperiodic structureとcode-scriptは本文上かなり密接に接続されている。[PubMed Central (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10297223/?utm_source=chatgpt.com)
+Schrödingerは染色体について、個体の将来のdevelopmentと成熟後のfunctionに関わる **code-script** を含むものとして語る。aperiodic structureとcode-scriptは本文上かなり密接に接続されている。[PubMed Central (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10297223/)
 
 1935年論文が主として、
 
@@ -366,7 +366,7 @@ Schrödingerはそこから、
 
 特に **order from order** は、1935年のgene modelを生命一般の物理学的問題へ再配置する概念として重要な可能性がある。
 
-後世にもSchrödingerの生命論をこの二つのorder-generating processesで整理する研究は存在する。[サイエンスダイレクト](https://www.sciencedirect.com/science/article/abs/pii/S0022519308006693?utm_source=chatgpt.com)
+後世にもSchrödingerの生命論をこの二つのorder-generating processesで整理する研究は存在する。[サイエンスダイレクト](https://www.sciencedirect.com/science/article/abs/pii/S0022519308006693)
 
 ただし後世の整理を1944年本人の中心性へ逆投影しない。
 
@@ -421,7 +421,7 @@ Schrödingerはそこから、
 
 を入れていない。
 
-実際、Olbyの1971年論文はまさにSchrödingerをmolecular biology史の中で扱う歴史研究として存在する。[PubMed](https://pubmed.ncbi.nlm.nih.gov/11609432/?utm_source=chatgpt.com)
+実際、Olbyの1971年論文はまさにSchrödingerをmolecular biology史の中で扱う歴史研究として存在する。[PubMed](https://pubmed.ncbi.nlm.nih.gov/11609432/)
 
 ---
 
@@ -3275,7 +3275,7 @@ Schrödinger本文には、
 
 という1944年の空白は、1953年以後、少なくとも**DNAの分子構造**という水準では大幅に具体化された。
 
-さらにMeselsonとStahlは1958年、DNA複製後の娘分子が親由来のsubunitを一つずつ持つという結果を得て、semiconservative replicationを実験的に支持した。[PNAS](https://www.pnas.org/doi/10.1073/pnas.44.7.671?utm_source=chatgpt.com)
+さらにMeselsonとStahlは1958年、DNA複製後の娘分子が親由来のsubunitを一つずつ持つという結果を得て、semiconservative replicationを実験的に支持した。[PNAS](https://www.pnas.org/doi/10.1073/pnas.44.7.671)
 
 ここでは、
 
@@ -3311,9 +3311,9 @@ Schrödingerのaperiodic structureは、
 
 という問題へ変形する。
 
-1961年、NirenbergとMatthaeiは、polyuridylic acidがcell-free systemでpolyphenylalanine合成を指示することを示した。つまり核酸側の特定の配列が、特定のamino-acid outputへ対応することを実験的に示した。[PNAS](https://www.pnas.org/doi/10.1073/pnas.47.10.1588?utm_source=chatgpt.com)
+1961年、NirenbergとMatthaeiは、polyuridylic acidがcell-free systemでpolyphenylalanine合成を指示することを示した。つまり核酸側の特定の配列が、特定のamino-acid outputへ対応することを実験的に示した。[PNAS](https://www.pnas.org/doi/10.1073/pnas.47.10.1588)
 
-Crickも1958年の _On Protein Synthesis_ で、protein synthesisと遺伝情報伝達を分子レベルの問題として明示的に扱っている。[PubMed](https://pubmed.ncbi.nlm.nih.gov/13580867/?utm_source=chatgpt.com)
+Crickも1958年の _On Protein Synthesis_ で、protein synthesisと遺伝情報伝達を分子レベルの問題として明示的に扱っている。[PubMed](https://pubmed.ncbi.nlm.nih.gov/13580867/)
 
 したがって、
 
@@ -3354,7 +3354,7 @@ Crickも1958年の _On Protein Synthesis_ で、protein synthesisと遺伝情報
 
 など複数の機構へ分解されていく。
 
-JacobとMonodは1961年、protein synthesisを制御するgenetic regulatory mechanismsをモデル化した。[PubMed](https://pubmed.ncbi.nlm.nih.gov/13718526/?utm_source=chatgpt.com)
+JacobとMonodは1961年、protein synthesisを制御するgenetic regulatory mechanismsをモデル化した。[PubMed](https://pubmed.ncbi.nlm.nih.gov/13718526/)
 
 ここで重要なのは、
 
@@ -3439,7 +3439,7 @@ Schrödingerは生命がthermodynamic equilibriumへの崩壊を回避するこ�
 
 後継の非平衡熱力学では、問い方そのものが変わる。
 
-Prigogineの研究は、平衡から離れたirreversible processesのなかで秩序だった**dissipative structures**が成立しうることを理論化した。1977年のノーベル賞も、その貢献を「non-equilibrium thermodynamics、特にdissipative structuresの理論」として明示している。[ノーベル賞サイト](https://www.nobelprize.org/prizes/chemistry/1977/summary/?utm_source=chatgpt.com)
+Prigogineの研究は、平衡から離れたirreversible processesのなかで秩序だった**dissipative structures**が成立しうることを理論化した。1977年のノーベル賞も、その貢献を「non-equilibrium thermodynamics、特にdissipative structuresの理論」として明示している。[ノーベル賞サイト](https://www.nobelprize.org/prizes/chemistry/1977/summary/)
 
 ここで重要なのは、
 
@@ -3570,7 +3570,7 @@ dissipative structure理論が、
 
 ---
 
-Nicholson (2025)自身、Schrödingerのrigidity / specificityが生んだdeterministic engineering viewが現在の実験知見と緊張するとしている。[ケンブリッジ大学出版局](https://www.cambridge.org/core/elements/abs/what-is-life-revisited/E6B3EA136720CF50C9480ADB8F41A6F4?utm_source=chatgpt.com)  
+Nicholson (2025)自身、Schrödingerのrigidity / specificityが生んだdeterministic engineering viewが現在の実験知見と緊張するとしている。[ケンブリッジ大学出版局](https://www.cambridge.org/core/elements/abs/what-is-life-revisited/E6B3EA136720CF50C9480ADB8F41A6F4)  
 
 まさに「現在から何が見えるか」自体が歴史的位置を持つ。
 
@@ -3741,7 +3741,7 @@ systems biology、developmental biology、epigenetics、self-organization研究�
 
 # X-5｜「order」そのものが怪しくなった
 
-ここはNicholson 2025が重要である。[ケンブリッジ大学出版局](https://www.cambridge.org/core/elements/abs/what-is-life-revisited/E6B3EA136720CF50C9480ADB8F41A6F4?utm_source=chatgpt.com)
+ここはNicholson 2025が重要である。[ケンブリッジ大学出版局](https://www.cambridge.org/core/elements/abs/what-is-life-revisited/E6B3EA136720CF50C9480ADB8F41A6F4)
 
 Nicholsonは、Schrödingerのrigidity / specificity emphasisが、後のmolecular biologyにdeterministic / engineering view of the cellを形成する一因になったと論じ、その像が現在の実験的知見と緊張するとする。
 
@@ -3765,7 +3765,7 @@ Schrödingerの問いに答え続けた結果、
 
 > **生命にとって重要なのはorderなのか、それともorderとvariation / stochasticityを含む別のorganization概念なのか。**
 
-Nicholsonがまさにdeterminism / stochasticityを現在の再検討軸としていることは直接確認できる。[ケンブリッジ大学出版局](https://www.cambridge.org/core/elements/abs/what-is-life-revisited/E6B3EA136720CF50C9480ADB8F41A6F4?utm_source=chatgpt.com)
+Nicholsonがまさにdeterminism / stochasticityを現在の再検討軸としていることは直接確認できる。[ケンブリッジ大学出版局](https://www.cambridge.org/core/elements/abs/what-is-life-revisited/E6B3EA136720CF50C9480ADB8F41A6F4)
 
 ---
 
@@ -4095,7 +4095,7 @@ _Nature_ 171, 737–738 (1953).
 
 **現在：原論文本文を直接確認可能。**
 
-Nature公式ページ上に本文が掲載されており、論文がDNA構造を提案し、specific pairingからcopying mechanismが示唆されるという議論まで直接確認できる。[DOI](https://doi.org/10.1038/171737a0?utm_source=chatgpt.com)
+Nature公式ページ上に本文が掲載されており、論文がDNA構造を提案し、specific pairingからcopying mechanismが示唆されるという議論まで直接確認できる。[DOI](https://doi.org/10.1038/171737a0)
 
 ### 2-Bでの使用
 
@@ -4134,7 +4134,7 @@ _PNAS_ 44, 671–682 (1958).
 
 **現在：原論文PDFへの公式repository経路を確認。**
 
-CaltechAUTHORSに原論文PDFが収録され、書誌・abstract・PDFファイルの存在まで確認できる。[CaltechAUTHORS](https://authors.library.caltech.edu/records/pggy5-n0t48?utm_source=chatgpt.com)
+CaltechAUTHORSに原論文PDFが収録され、書誌・abstract・PDFファイルの存在まで確認できる。[CaltechAUTHORS](https://authors.library.caltech.edu/records/pggy5-n0t48)
 
 ### 2-Bでの使用
 
@@ -4168,9 +4168,9 @@ _Symposia of the Society for Experimental Biology_ 12, 138–163 (1958).
 
 ### Access state
 
-PubMedで書誌を直接確認できるが、abstractはない。[PubMed](https://pubmed.ncbi.nlm.nih.gov/13580867/?utm_source=chatgpt.com)
+PubMedで書誌を直接確認できるが、abstractはない。[PubMed](https://pubmed.ncbi.nlm.nih.gov/13580867/)
 
-一方、Wellcome CollectionにはCrick archive由来のreprintが存在し、14画像がオンライン閲覧可能であることまで確認できる。[Wellcome Collection](https://wellcomecollection.org/works/z3d5fnyg?utm_source=chatgpt.com)
+一方、Wellcome CollectionにはCrick archive由来のreprintが存在し、14画像がオンライン閲覧可能であることまで確認できる。[Wellcome Collection](https://wellcomecollection.org/works/z3d5fnyg)
 
 ### 2-Bでの使用
 
@@ -4204,7 +4204,7 @@ _PNAS_ 47, 1588–1602 (1961).
 
 **PMCで全文公開を直接確認。**
 
-ページ単位の原論文画像およびPDFが公開されている。[PubMed Central (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/223178/?utm_source=chatgpt.com)
+ページ単位の原論文画像およびPDFが公開されている。[PubMed Central (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/223178/)
 
 ### 2-Bでの使用
 
@@ -4240,11 +4240,11 @@ _Journal of Molecular Biology_ 3, 318–356 (1961).
 
 ### Access state
 
-PubMedでは書誌確認のみでabstractなし。[PubMed](https://pubmed.ncbi.nlm.nih.gov/13718526/?utm_source=chatgpt.com)
+PubMedでは書誌確認のみでabstractなし。[PubMed](https://pubmed.ncbi.nlm.nih.gov/13718526/)
 
 一方、publisherページでは論文冒頭のsummary相当部分が確認でき、
 
-**structural genes**と**regulator / operator genes**によるdouble genetic control、およびprotein synthesis rateのregulationという問題設定を直接確認できる。[サイエンスダイレクト](https://www.sciencedirect.com/science/article/abs/pii/S0022283661800727?utm_source=chatgpt.com)
+**structural genes**と**regulator / operator genes**によるdouble genetic control、およびprotein synthesis rateのregulationという問題設定を直接確認できる。[サイエンスダイレクト](https://www.sciencedirect.com/science/article/abs/pii/S0022283661800727)
 
 ### 2-Bでの使用
 
@@ -4285,9 +4285,9 @@ Nobel Prize公式資料を直接確認。
 
 > non-equilibrium thermodynamics、とくにdissipative structures理論への貢献
 
-であることを確認できる。[ノーベル賞サイト](https://www.nobelprize.org/nobel_prizes/chemistry/laureates/1977/?utm_source=chatgpt.com)
+であることを確認できる。[ノーベル賞サイト](https://www.nobelprize.org/nobel_prizes/chemistry/laureates/1977/)
 
-さらに授賞式講演では、環境とenergy exchangeするopen systemsがfar from equilibriumに置かれた場合、time / spaceにorderを持つstable systemsが形成されうる、というPrigogine研究の位置づけが説明されている。[ノーベル賞サイト](https://www.nobelprize.org/prizes/chemistry/1977/ceremony-speech/?utm_source=chatgpt.com)
+さらに授賞式講演では、環境とenergy exchangeするopen systemsがfar from equilibriumに置かれた場合、time / spaceにorderを持つstable systemsが形成されうる、というPrigogine研究の位置づけが説明されている。[ノーベル賞サイト](https://www.nobelprize.org/prizes/chemistry/1977/ceremony-speech/)
 
 ### 2-Bでの使用
 
@@ -4335,7 +4335,7 @@ Cambridge University Press, 2025.
 
 ここは今回更新する。
 
-Cambridge公式ページのsummaryだけでなく、**公式PDF本文への直接アクセス経路を確認した。** [Cambridge Resolve](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/E6B3EA136720CF50C9480ADB8F41A6F4/9781009578912AR.pdf/what_is_life_revisited.pdf?utm_source=chatgpt.com)
+Cambridge公式ページのsummaryだけでなく、**公式PDF本文への直接アクセス経路を確認した。** [Cambridge Resolve](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/E6B3EA136720CF50C9480ADB8F41A6F4/9781009578912AR.pdf/what_is_life_revisited.pdf)
 
 Cambridge summaryでは、
 
@@ -4345,7 +4345,7 @@ Cambridge summaryでは、
 - contemporary experimental findingsとの緊張
 - archival sourcesによるSchrödinger再解釈
 
-が著者自身の本書概要として明示されている。[ケンブリッジ大学出版局](https://www.cambridge.org/core/elements/abs/what-is-life-revisited/E6B3EA136720CF50C9480ADB8F41A6F4?utm_source=chatgpt.com)
+が著者自身の本書概要として明示されている。[ケンブリッジ大学出版局](https://www.cambridge.org/core/elements/abs/what-is-life-revisited/E6B3EA136720CF50C9480ADB8F41A6F4)
 
 ### これまでの使用
 

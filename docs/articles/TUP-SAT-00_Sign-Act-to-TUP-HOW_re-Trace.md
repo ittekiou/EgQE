@@ -677,41 +677,41 @@ TUPをHOWで完成させない。
 
 1. **HEG-2｜記号行為論2.0**  
     SATの出発点。「行為＝関係の更新」「主体＝行為から立ち上がる位相点」。  
-    [HEG-2｜記号行為論2.0](https://camp-us.net/articles/HEG-2_SAT_JP.html?utm_source=chatgpt.com)
+    [HEG-2｜記号行為論2.0](https://camp-us.net/articles/HEG-2_SAT_JP.html)
     
 2. **HEG-2｜Sign Act Theory 2.0**  
     **Sign as Act / Sign := ActΔR** の杭。Ⅰの直接参照。  
-    [HEG-2｜Sign Act Theory 2.0](https://camp-us.net/articles/HEG-2_SAT-2.html?utm_source=chatgpt.com)
+    [HEG-2｜Sign Act Theory 2.0](https://camp-us.net/articles/HEG-2_SAT-2.html)
     
 3. **TU-HEG-2｜記号行為論3.0──TUP**  
     SAT→TUPの接続点。  
     **Every Sign Act is a Trace Updating Practice.**  
-    [TU-HEG-2｜記号行為論3.0──TUP](https://camp-us.net/articles/TU-HEG-2_Sign-Act-Theory-3.0_TUP.html?utm_source=chatgpt.com)
+    [TU-HEG-2｜記号行為論3.0──TUP](https://camp-us.net/articles/TU-HEG-2_Sign-Act-Theory-3.0_TUP.html)
     
 4. **TU-TUT-01｜TUTからTUP**  
     Ⅲの「Traceは生成の始点」「Traceが生成を駆動する」の歴史的Trace。  
-    [TU-TUT-01｜TUTからTUP](https://camp-us.net/articles/TU-TUT-01_TUT-to-TUP.html?utm_source=chatgpt.com)
+    [TU-TUT-01｜TUTからTUP](https://camp-us.net/articles/TU-TUT-01_TUT-to-TUP.html)
     
 5. **OR-00｜軌道構文論 序説**  
     ⅣへのZURE。「軌道とは痕跡の読解」「未来が過去に見つけた構文」。  
-    [OR-00｜軌道構文論 序説](https://camp-us.net/articles/OR-00_Orbital-Syntax.html?utm_source=chatgpt.com)
+    [OR-00｜軌道構文論 序説](https://camp-us.net/articles/OR-00_Orbital-Syntax.html)
     
 6. **OR-02｜軌道構文の軌道をなぞる**  
     **軌道論自身をre-Trace**。  
-    [OR-02｜軌道構文の軌道をなぞる](https://camp-us.net/articles/OR-02_ZURE_Orbit_re-TUP.html?utm_source=chatgpt.com)
+    [OR-02｜軌道構文の軌道をなぞる](https://camp-us.net/articles/OR-02_ZURE_Orbit_re-TUP.html)
     
 7. **TUP-01｜TUP-Again──How Is Updating?**  
     後半の主杭。「効く」への自己監査、矢印、WHAT→HOWまで一気貫通。  
-    [TUP-01｜TUP-Again──How Is Updating?](https://camp-us.net/articles/TUP-01_TUP-Again_How-Is-Updating.html?utm_source=chatgpt.com)  
+    [TUP-01｜TUP-Again──How Is Updating?](https://camp-us.net/articles/TUP-01_TUP-Again_How-Is-Updating.html)  
     [TUPは亡霊になりきらない── TUPである](https://note.com/takahashihajime/n/n843900753a1c)  
     
 8. **「意図せざる結果」とは、劇的ビフォーアフターの因果版である**  
     ⅤのSimulation Trace横坑。「効く」の時間方向を謎る。  
-    [「意図せざる結果」とは、劇的ビフォーアフターの因果版である](https://note.com/takahashihajime/n/n91688b9aa953?utm_source=chatgpt.com)
+    [「意図せざる結果」とは、劇的ビフォーアフターの因果版である](https://note.com/takahashihajime/n/n91688b9aa953)
     
 
-[TUP-GH-02｜Traceをre-TUPする](https://camp-us.net/articles/TUP-GH-02_Encounter-re-TUP_Trace.html?utm_source=chatgpt.com)  
-[SAW2-01｜Practice and Manner](https://camp-us.net/articles/SAW2-01_Practice-and-Manner.html?utm_source=chatgpt.com)  
+[TUP-GH-02｜Traceをre-TUPする](https://camp-us.net/articles/TUP-GH-02_Encounter-re-TUP_Trace.html)  
+[SAW2-01｜Practice and Manner](https://camp-us.net/articles/SAW2-01_Practice-and-Manner.html)  
 
 ---
 _EgQE — Echo-Genesis Qualia Engine_  

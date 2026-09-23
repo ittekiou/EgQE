@@ -218,7 +218,7 @@ $T$ の反復適用が固定点へ収束せず、しかし $C$ 内に有界に�
 - 東京大学 先端科学技術研究センター  
     「理想非結晶という新しい秩序状態の発見」  
     プレスリリース（2026年2月13日）  
-    [https://www.rcast.u-tokyo.ac.jp/ja/news/release/20260213.html](https://www.rcast.u-tokyo.ac.jp/ja/news/release/20260213.html?utm_source=chatgpt.com)
+    [https://www.rcast.u-tokyo.ac.jp/ja/news/release/20260213.html](https://www.rcast.u-tokyo.ac.jp/ja/news/release/20260213.html)
 
 ---
 

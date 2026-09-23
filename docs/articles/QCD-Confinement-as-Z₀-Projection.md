@@ -14,7 +14,7 @@ title_en: QCD Confinement as Z₀-Projection
 
 ### 要旨
 
-本短論は、STAR実験([Nature](https://www.nature.com/articles/s41586-025-09920-0?utm_source=chatgpt.com "Measuring spin correlation between quarks during QCD ..."))によって観測された Λ–Λ̄ スピン相関を、粒子生成の結果ではなく、**生成前関係の lag 的保存と投影**として再解釈する。  
+本短論は、STAR実験([Nature](https://www.nature.com/articles/s41586-025-09920-0 "Measuring spin correlation between quarks during QCD ..."))によって観測された Λ–Λ̄ スピン相関を、粒子生成の結果ではなく、**生成前関係の lag 的保存と投影**として再解釈する。  
 本結果は、量子真空を「無」ではなく **未分離関係生成場（R₀）** とみなす立場を、実験的に支持するものである。
 
 ### 再解釈の核心

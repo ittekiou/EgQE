@@ -5,7 +5,7 @@ subtitle: Why Spin Correlation Survives Confinement
 ---
 # **Declaration: Quantum Vacuum as R₀**
 
-本研究([Nature](https://www.nature.com/articles/s41586-025-09920-0?utm_source=chatgpt.com "Measuring spin correlation between quarks during QCD ..."))で報告されたスピン相関の保存は、量子真空が単なる「無」や確率的背景ではなく、**構造化された関係生成場であることを示す。**
+本研究([Nature](https://www.nature.com/articles/s41586-025-09920-0 "Measuring spin correlation between quarks during QCD ..."))で報告されたスピン相関の保存は、量子真空が単なる「無」や確率的背景ではなく、**構造化された関係生成場であることを示す。**
 
 我々はこれを次のように位置づける：
 

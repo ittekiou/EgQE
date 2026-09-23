@@ -248,7 +248,7 @@ Trace → Updating → Trace′ → re-Encounter
 
 AIは、TUPのRateを変えた。
 
-実際、LLMが情報解釈から反応までのlagを圧縮しうるという議論は、特定領域の研究でも現れ始めている。たとえば2026年の市場マイクロストラクチャ研究では、LLMによる高速なテキスト解釈を情報到来から市場反応までの「lag compression」の一経路として仮説化している。ここでのTUP-SRLはそれを一般理論として援用するものではないが、少なくとも「AI導入＝単なるStock増大ではなく処理間隔の変化」という観察とは共鳴する。[Taylor & Francis Online](https://www.tandfonline.com/doi/full/10.1080/23322039.2026.2683062?utm_source=chatgpt.com)
+実際、LLMが情報解釈から反応までのlagを圧縮しうるという議論は、特定領域の研究でも現れ始めている。たとえば2026年の市場マイクロストラクチャ研究では、LLMによる高速なテキスト解釈を情報到来から市場反応までの「lag compression」の一経路として仮説化している。ここでのTUP-SRLはそれを一般理論として援用するものではないが、少なくとも「AI導入＝単なるStock増大ではなく処理間隔の変化」という観察とは共鳴する。[Taylor & Francis Online](https://www.tandfonline.com/doi/full/10.1080/23322039.2026.2683062)
 
 ---
 

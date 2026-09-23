@@ -255,11 +255,11 @@ _How does political transition become possible?_
 |**Unaffiliated × Candidate**|**✓ OBSERVED / CONFLICT**|共同：玉城56.2／古謝40.9。NHK系報道：古謝50％余で玉城を上回る|**調査主体によって方向まで反転**。単一説明への強いGuard|
 |**Municipality-level swing**|**✓ COMPLETE / ADMINISTRATIVE DATA**|古謝40/41市町村首位。2022玉城優位28自治体のうち27が反転|地理的に局所的な転換ではない|
 
-共同通信は**60投票所・回答2,909人**。上の経済／基地、前回投票、年代、党派、無党派、辺野古単純集計（賛成50.2％／反対43.8％）が同一調査から取れる。[熊日電子版｜熊本日日新聞社](https://kumanichi.com/articles/2035522?utm_source=chatgpt.com)
+共同通信は**60投票所・回答2,909人**。上の経済／基地、前回投票、年代、党派、無党派、辺野古単純集計（賛成50.2％／反対43.8％）が同一調査から取れる。[熊日電子版｜熊本日日新聞社](https://kumanichi.com/articles/2035522)
 
-読売は**96投票所・回答2,839人**。景気・物価20％、教育・子育て16％、県民所得15％、基地14％で、経済政策重視者の約7割が古謝、基地重視者の約8割が玉城。年代については70歳以上だけ玉城優位だった。[ライブドアニュース](https://news.livedoor.com/article/detail/32323935/?utm_source=chatgpt.com)
+読売は**96投票所・回答2,839人**。景気・物価20％、教育・子育て16％、県民所得15％、基地14％で、経済政策重視者の約7割が古謝、基地重視者の約8割が玉城。年代については70歳以上だけ玉城優位だった。[ライブドアニュース](https://news.livedoor.com/article/detail/32323935/)
 
-QAB・沖縄タイムス・朝日の選挙前共同調査は**9月5〜6日、ネット調査会社4社のモニター、有効回答1,260件**。ここはさっき確認した点をさらに精密化できる。**辺野古移設だけでなく自衛隊「南西シフト」についても、賛成者の大半→古謝、反対者の大半→玉城**という定性的crossが実際に公開されている。ただし数値は非公表。[QAB 琉球朝日放送 | もっとドキドキQAB](https://www.qab.co.jp/quebee/video/26-09-07-rp01/?utm_source=chatgpt.com)
+QAB・沖縄タイムス・朝日の選挙前共同調査は**9月5〜6日、ネット調査会社4社のモニター、有効回答1,260件**。ここはさっき確認した点をさらに精密化できる。**辺野古移設だけでなく自衛隊「南西シフト」についても、賛成者の大半→古謝、反対者の大半→玉城**という定性的crossが実際に公開されている。ただし数値は非公表。[QAB 琉球朝日放送 | もっとドキドキQAB](https://www.qab.co.jp/quebee/video/26-09-07-rp01/)
 
 ### Matrixから直接言えること
 
@@ -278,7 +278,7 @@ v0.3で待っていたTraceは、**7項目中5項目が観測可能、2項目が
 特に強烈なのが **Priority issue × Candidate**。
 
 経済重視者の **78.7% → 古謝**。  
-基地重視者の **72.9% → 玉城**。[熊日電子版｜熊本日日新聞社](https://kumanichi.com/articles/2035522?utm_source=chatgpt.com)
+基地重視者の **72.9% → 玉城**。[熊日電子版｜熊本日日新聞社](https://kumanichi.com/articles/2035522)
 
 つまり、
 
@@ -288,9 +288,9 @@ Yet the aggregate configuration converged.**
 
 辺野古も重要。
 
-共同では単純集計として、**賛成 50.2％ / 反対 43.8％** まで観測できる。[熊日電子版｜熊本日日新聞社](https://kumanichi.com/articles/2035522?utm_source=chatgpt.com)
+共同では単純集計として、**賛成 50.2％ / 反対 43.8％** まで観測できる。[熊日電子版｜熊本日日新聞社](https://kumanichi.com/articles/2035522)
 
-QAB系では、**Preference × intended Vote** の**方向**まで観測されている。[QAB 琉球朝日放送 | もっとドキドキQAB](https://www.qab.co.jp/quebee/video/26-09-07-rp01/?utm_source=chatgpt.com)
+QAB系では、**Preference × intended Vote** の**方向**まで観測されている。[QAB 琉球朝日放送 | もっとドキドキQAB](https://www.qab.co.jp/quebee/video/26-09-07-rp01/)
 
 だが、数値crossがない。だから、`Henoko preference caused the result`には行かない。
 
