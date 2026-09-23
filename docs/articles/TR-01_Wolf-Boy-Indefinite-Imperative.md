@@ -3,9 +3,9 @@
 本稿は、以下の二つの論稿で提起された「不定言命法」の倫理学的・実装美学的基盤を踏まえている。  
 それらを前提に、寓話を題材とした「調整層」の構想を展開する。
 
-- ZQ006｜[**Ethics of the Indefinite Imperative**](https://camp-us.net/articles/ZQ006_Ethics-of-the-Indefinite-Imperative.html?utm_source=chatgpt.com)（不定言命法の倫理学）
+- ZQ006｜[**Ethics of the Indefinite Imperative**](https://camp-us.net/articles/ZQ006_Ethics-of-the-Indefinite-Imperative.html)（不定言命法の倫理学）
     
-- FK-03｜[**Aesthetics of Implementing the Indefinite Imperative**](https://camp-us.net/articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.html?utm_source=chatgpt.com)（不定言命法の実装美学）
+- FK-03｜[**Aesthetics of Implementing the Indefinite Imperative**](https://camp-us.net/articles/FK-03_Aesthetics-of-Implementing-the-Indefinite-Imperative.html)（不定言命法の実装美学）
 
 ---
 

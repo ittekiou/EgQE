@@ -219,7 +219,7 @@ In particular, the following works demonstrate that particle behavior can be alt
     
 - _Observation of the Aharonov–Bohm Effect in Pilot-Wave Hydrodynamics_  
     arXiv:2512.21263  
-    [https://arxiv.org/abs/2512.21263](https://arxiv.org/abs/2512.21263?utm_source=chatgpt.com)
+    [https://arxiv.org/abs/2512.21263](https://arxiv.org/abs/2512.21263)
     
 
 These studies provide experimental support for an ontology in which **conditions and phase structures**, rather than forces or directed control, play the central role.

@@ -429,7 +429,7 @@ $$
     
 - _Observation of the Aharonov–Bohm Effect in Pilot-Wave Hydrodynamics_  
     arXiv:2512.21263  
-    [https://arxiv.org/abs/2512.21263](https://arxiv.org/abs/2512.21263?utm_source=chatgpt.com)
+    [https://arxiv.org/abs/2512.21263](https://arxiv.org/abs/2512.21263)
     
 
 これらは、「制御」や「力」を前提としない **条件場・位相場としての実在の扱い方**を示す好例である。

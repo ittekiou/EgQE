@@ -167,7 +167,7 @@ v0.2 では文脈的に混在していたので、
 
 ## ✔ **差分比較（v0.11 → v0.21）**
 
-v0.11の Minimal Axioms は次の公理から構成されていた：([camp-us.net](https://camp-us.net/articles/SAW-00_Minimal-Axioms.html?utm_source=chatgpt.com "Syntactic Askew Way (SAW) - Minimal Axioms (v0.11)"))
+v0.11の Minimal Axioms は次の公理から構成されていた：([camp-us.net](https://camp-us.net/articles/SAW-00_Minimal-Axioms.html "Syntactic Askew Way (SAW) - Minimal Axioms (v0.11)"))
 
 1. **公理0｜非同期（Askew）**  
     完全同期は成立しない。いかなる生成関係にも非同期が不可避に存在する。

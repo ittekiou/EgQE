@@ -7,19 +7,19 @@
 ## 🔍 最近の近しい研究・論文例
 
 1. **Deliberative Democracy Without Deliberation**（M. Hammond, 2025）  
-    Habermas 的熟議デモクラシーを、実際の「熟議の実践（deliberation as practice）」に依存せず、むしろ市民の文化・政治的態度としての「熟議的民主主義」を再構成しようという議論。熟議を形式的合意よりも批判的公共文化に位置づける試み。 ([DelibDem Journal](https://delibdemjournal.org/article/id/1460/?utm_source=chatgpt.com "Deliberative Democracy Without Deliberation"))
+    Habermas 的熟議デモクラシーを、実際の「熟議の実践（deliberation as practice）」に依存せず、むしろ市民の文化・政治的態度としての「熟議的民主主義」を再構成しようという議論。熟議を形式的合意よりも批判的公共文化に位置づける試み。 ([DelibDem Journal](https://delibdemjournal.org/article/id/1460/ "Deliberative Democracy Without Deliberation"))
     
 2. **Beyond Deliberative Democracy: Power and Realism**  
-    この分野では、「力（power）」を無視できない要素として取り込もうというリアリスト流派の議論が増えている。例えば、理性的対話だけでは現実の政治に対する説明力が足りない、とする批判。([Cambridge University Press & Assessment](https://www.cambridge.org/core/product/491578A4BFF090F5E24C5922C30403C4?utm_source=chatgpt.com "Beyond Deliberative Democracy: Power and Realism in ..."))
+    この分野では、「力（power）」を無視できない要素として取り込もうというリアリスト流派の議論が増えている。例えば、理性的対話だけでは現実の政治に対する説明力が足りない、とする批判。([Cambridge University Press & Assessment](https://www.cambridge.org/core/product/491578A4BFF090F5E24C5922C30403C4 "Beyond Deliberative Democracy: Power and Realism in ..."))
     
 3. **Strong Political Liberalism**（H.D. Kugelberg, 2024）  
-    自由主義の内部で、「正当化 (justificatory)」と「政治的 (political)」なリベラリズムとの緊張を再検討し、伝統的公共理由論 (public reason) の限界を探る議論。合意だけに頼らない政治理論への関心が高まっている証左。 ([SpringerLink](https://link.springer.com/article/10.1007/s10982-023-09491-z?utm_source=chatgpt.com "Strong Political Liberalism | Law and Philosophy"))
+    自由主義の内部で、「正当化 (justificatory)」と「政治的 (political)」なリベラリズムとの緊張を再検討し、伝統的公共理由論 (public reason) の限界を探る議論。合意だけに頼らない政治理論への関心が高まっている証左。 ([SpringerLink](https://link.springer.com/article/10.1007/s10982-023-09491-z "Strong Political Liberalism | Law and Philosophy"))
     
 4. **Decolonizing Deliberative Democracy**（2025）  
-    あらゆる社会理論が北─南の視点に偏っているという批判の中で、熟議民主主義を植民地主義の文脈や周辺地域の実践に応じて再構築しようという研究。合意の標準が異なる文化でどのように機能／破綻するか、という現場感覚を重視している。 ([SAGE Journals](https://journals.sagepub.com/doi/10.1177/13684310241297906?utm_source=chatgpt.com "Decolonizing deliberative democracy - Ricardo Fabrino ..."))
+    あらゆる社会理論が北─南の視点に偏っているという批判の中で、熟議民主主義を植民地主義の文脈や周辺地域の実践に応じて再構築しようという研究。合意の標準が異なる文化でどのように機能／破綻するか、という現場感覚を重視している。 ([SAGE Journals](https://journals.sagepub.com/doi/10.1177/13684310241297906 "Decolonizing deliberative democracy - Ricardo Fabrino ..."))
     
 5. **AI-Powered Framework for Analyzing Collective Idea Evolution in Deliberative Assemblies**（2025）  
-    これは君のような純粋な政治哲学ではなく、実証的・技術的な研究だけど、LLM（大規模言語モデル）を使って「熟議アセンブリにおけるアイデアの進化／淘汰／交渉の過程」を追うフレームワーク。アイデアがどのように選定されるか、どのような議論が先鋭化するか、という「交渉過程」の可視化。 ([arXiv](https://arxiv.org/abs/2509.12577?utm_source=chatgpt.com "An AI-Powered Framework for Analyzing Collective Idea Evolution in Deliberative Assemblies"))
+    これは君のような純粋な政治哲学ではなく、実証的・技術的な研究だけど、LLM（大規模言語モデル）を使って「熟議アセンブリにおけるアイデアの進化／淘汰／交渉の過程」を追うフレームワーク。アイデアがどのように選定されるか、どのような議論が先鋭化するか、という「交渉過程」の可視化。 ([arXiv](https://arxiv.org/abs/2509.12577 "An AI-Powered Framework for Analyzing Collective Idea Evolution in Deliberative Assemblies"))
     
 
 ---

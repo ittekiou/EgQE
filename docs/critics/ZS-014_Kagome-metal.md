@@ -83,7 +83,7 @@ title: なぜカゴメ格子なのか？──舞台装置から観る観測構�
 - **Berry 曲率の集中**
     
 
-といった特徴を強調する。 ([Kagome metal](https://en.wikipedia.org/wiki/Kagome_metal?utm_source=chatgpt.com "Kagome metal"))
+といった特徴を強調する。 ([Kagome metal](https://en.wikipedia.org/wiki/Kagome_metal "Kagome metal"))
 
 問題は、「なにが見えたか」ではなく、**なぜこの格子だと見えるのか**である。
 
