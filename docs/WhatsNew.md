@@ -23,6 +23,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [CABA-03-RN｜「処」考 ── Editus ｜ 処](https://camp-us.net/articles/CABA-03-RN_yoru-sho_HOW-LOCUS.html)  
 [TUP-03｜Encounter論 序説 ── toward ｜ against としての遭遇Again](https://camp-us.net/articles/TUP-03_Encounter_toward-against_Again.html)  
 [ET-04｜Sapiensverbundenheit──Homo sapiens Bias Trace](https://camp-us.net/articles/ET-04_Sapiensverbundenheit_Homo-sapiens-Bias-Trace.html)  
+[SAW2-04｜置ける。外せる。継ぎ直せる。 ── 自在な足場としてのプラレール](https://camp-us.net/articles/SAW2-04_Place-Remove-Reconnect_Versatile-Scaffold.html)  
 ###### 2026/09/21  
 [MC-RN-04｜過去の過去問題 ── 哲学は「過去」をどう問うてきたか｜Past Questions on the Past](https://camp-us.net/articles/MC-RN-04_Past-Questions-on-the-Past.html)  
 ###### 2026/09/19  

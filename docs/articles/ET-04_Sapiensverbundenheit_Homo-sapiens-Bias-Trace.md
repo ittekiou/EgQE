@@ -429,6 +429,15 @@ AIについては、Homo sapiens Biasの外部ではなく、Sapiensverbundenhei
 **Status:** Scaffold / Bias Trace / Self-Audit / Collapse Test Open
 
 ---
+
+[ET-00｜The EDITUS Turn：LifeはEDITUSへの途中駅にすぎない ── 生命を定義するTUPから、EDITUSを監査するTUPへ](https://camp-us.net/articles/ET-00_EDITUS-Turn.html)  
+[ET-01-A｜監査？というマナー？｜Audit? as Manner? A Trial Before Even the First Word Settles](https://camp-us.net/articles/ET-01-A_Audit-as-Manner_A-Trial-Before-the-Title-Settles.html)  
+[ET-01-B｜裁判後の身体を裁く ── Editusの作法は、誰の作法なのか｜Judging the Post-Trial Body: Whose Manner Is the Manner of Editus?](https://camp-us.net/articles/ET-01-B_Judging-Post-Trial-Body_Whose-Manner-Is-the-Manner-of-Editus.html)  
+[ET-02｜複線になった列車 ── なぜEDITUSは、一つの作法にまとまらなかったのか｜The Train Became Multiple Tracks: Why EDITUS Did Not Settle into a Single Manner](https://camp-us.net/articles/ET-02_Train-Became-Multiple-Tracks_Why-EDITUS-Did-Not-Settle-into-a-Single-Manner.html)  
+[ET-03｜nextは来ちゃう ── textを書いちゃったあとで｜Next Comes Anyway: After the Text Has Been Written](https://camp-us.net/articles/ET-03_Next-Comes-Anyway_After-Text-Has-Been-Written.html)  
+[ET-04｜Sapiensverbundenheit──Homo sapiens Bias Trace](https://camp-us.net/articles/ET-04_Sapiensverbundenheit_Homo-sapiens-Bias-Trace.html)
+
+---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
 
