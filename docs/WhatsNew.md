@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/09/24  
 [CABA-03-N-01｜西田幾多郎、〈場所〉の重力 ── 背負わされた〈場〉と〈所〉と〈処〉｜第一部｜西田幾多郎篇 ｜〈処〉なき？〈場所〉](https://camp-us.net/articles/CABA-03-N-01_Nishida_Basho-Gravity.html)  
+[CABA-03-N-01｜Development Trace ── Nishida｜Basho Gravity](https://camp-us.net/articles/CABA-03-N-01_Development-Trace.html)  
 ###### 2026/09/23  
 [CABA-03-RN｜「処」考 ── Editus ｜ 処](https://camp-us.net/articles/CABA-03-RN_yoru-sho_HOW-LOCUS.html)  
 [TUP-03｜Encounter論 序説 ── toward ｜ against としての遭遇Again](https://camp-us.net/articles/TUP-03_Encounter_toward-against_Again.html)  
