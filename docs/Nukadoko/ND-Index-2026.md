@@ -62,6 +62,8 @@ Nukadoko とは、それを置く場所である。
 [CABA / TUP Memo｜光・影・Editus](https://camp-us.net/Nukadoko/CABA-TUP_Memo_2026-09-16.html)  
 [ND_Authorship_Nukadoko_2026-09-20](https://camp-us.net/Nukadoko/ND_Authorship_Nukadoko_2026-09-20.html)  
 [ND-260921_Excretion-Editus-Origin](https://camp-us.net/Nukadoko/ND-260921_Excretion-Editus-Origin.html)  
+[ND-260924_Derrida_lag-Again-Next](https://camp-us.net/Nukadoko/ND-260924_Derrida_lag-Again-Next.html)  
+
 
 
 [ND_filename](https://camp-us.net/Nukadoko/.html)  
