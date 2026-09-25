@@ -34,6 +34,46 @@ title: VA-01-DN｜『存在と時間』における副詞配置・翻訳・Work�
 
 ---
 
+**FIXED（order）/ CROSS-CHECKED（page）｜Heidegger §18, S.86**
+
+原文配置：
+
+`je schon immer`
+
+`d. h.`
+
+`je immer schon`
+
+Macquarrie & Robinson, _Being and Time_ (1962), p.119 n. に引用されたドイツ語原文で、以下の配置を確認。
+
+> `Dasein verweist sich je schon immer ... d. h. es lässt je immer schon ... Seiendes als Zuhandenes begegnen.`
+
+`d. h.` = `das heißt`.
+
+原著頁は S.86 とクロスチェック。
+
+**Status: ORDER VERIFIED IN GERMAN QUOTATION / ORIGINAL PAGE CROSS-CHECKED**
+
+**Guard:** ニーマイヤー版当該頁そのものの現物確認は未了。現物確認後に `PRIMARY / VERIFIED` へ昇格可能。
+
+---
+
+**ADDITIONAL CONFIGURATION｜Heidegger §15, S.68**
+
+`je immer`
+
+> `Zum Sein von Zeug gehört je immer ein Zeugganzes ...`
+
+§15には、`je schon`、`schon immer` に加えて、`schon` を含まない `je immer` も現れる。
+
+本稿では意味またはWorkを分析しない。配置在庫としてのみ記録。
+
+> **Occurrence ≠ Meaning.**
+
+**Status: CROSS-CHECKED / PRIMARY PAGE TO VERIFY DIRECTLY**
+
+---
+
 **FIXED｜Mishima 2013**
 
 三島憲一「書評『ハンス＝ゲオルグ・ガーダマーの政治哲学――解釈学的政治理論の地平』（加藤哲理著、創文社、2012年）」『社会思想史研究』37号、2013年、243–250頁。
@@ -50,6 +90,8 @@ title: VA-01-DN｜『存在と時間』における副詞配置・翻訳・Work�
 **Status: PRIMARY / VERIFIED**
 
 **Guard:** 三島の `schon` 解釈は三島の見解として帰属させる。Duden等の一般的語義記述へ昇格させない。
+
+**Source Guard:** 加藤『ハンス＝ゲオルグ・ガーダマーの政治哲学』7頁および対応するガーダマー原文は、本稿では未確認。加藤訳に関する記述は三島（2013, 249頁）に帰属させる。
 
 ---
 
@@ -274,6 +316,16 @@ Questions:
 
 **Status: OPEN / SEPARATE PROJECT**
 
+**Audit Note**
+
+三島（2013）は本稿で二度現れるが、同じ仕事をしていない。
+
+§2では、`schon immer / immer schon` の日常語におけるOrder問題への先行指摘。
+
+§6では、「つねにすでに」の翻訳・受容上の常套化への先行指摘。
+
+> **Same source ≠ Same work.**
+
 ---
 
 ### 7｜Reception → Translation ?
@@ -399,8 +451,10 @@ Candidate filename:
 
 は、**それぞれ別のLocusとして並んだ**。
 
+**Mishima 2013 appears twice in VA-01, but does different work in each locus. Same source ≠ Same work.**
+
 ---
-© 2025 K.E. Itekki  
+© 2026 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
 wandering the labyrinth of syntax,  
 drawing constellations through shared echoes.
