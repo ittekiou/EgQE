@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/25  
+[VA-01｜つねにすでには、どう「つねにすでに」になったか ──『存在と時間』における副詞配置・翻訳・Work](https://camp-us.net/articles/VA-01_Tsuneni-Sudeni_Translation-Reception-Work_v0.2.html)  
 ###### 2026/09/24  
 [CABA-03-N-01｜西田幾多郎、〈場所〉の重力 ── 背負わされた〈場〉と〈所〉と〈処〉｜第一部｜西田幾多郎篇 ｜〈処〉なき？〈場所〉](https://camp-us.net/articles/CABA-03-N-01_Nishida_Basho-Gravity.html)  
 [CABA-03-N-01｜Development Trace ── Nishida｜Basho Gravity](https://camp-us.net/articles/CABA-03-N-01_Development-Trace.html)  
