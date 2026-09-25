@@ -194,4 +194,4 @@ Mapでは
 
 > **「今日の気づき」は理論内容ではなく生成過程のログ**
 
-👉 [ND-260727b_Institution_](https://camp-us.net/Nukadoko/ND-260727b_Institution_.html)  
+👉 [ND-260727b_Institution_b](https://camp-us.net/Nukadoko/ND-260727b_Institution_b.html)  
