@@ -1506,6 +1506,10 @@ within another continuing sequence.**
 底本本文は「東京朝日新聞」初出（1909年6月21日）による。
 
 ---
+
+[CABA-03-K-03-DN｜Development Note｜それからの「それから」── 「それから」79件・「仕舞」32件 採取台帳と稿の生成記録](https://camp-us.net/articles/CABA-03-K-03-DN_sorekara_Development-Note.html)  
+
+---
 © 2026 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
 wandering the labyrinth of syntax,  

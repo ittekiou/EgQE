@@ -24,6 +24,7 @@ From Noise to Notation. From Dialogue to Discovery.
 [CABA-03-K-01-DN｜Development Note｜無彼の羅生門 ── こ・そ・あ・ど 全件採取台帳と稿の生成記録](https://camp-us.net/articles/CABA-03-K-01-DN_kosoado_Development-Note.html)  
 [CABA-03-K-02｜彼の針山と蜘蛛の糸 ── 彼処は何処にあるのか](https://camp-us.net/articles/CABA-03-K-02_ano-hariyama-to-kumonoito.html)  
 [CABA-03-K-03 ｜それからの「それから」 ──「それ」から何処へ｜補論：それからはどう仕舞うのか ──「仕舞」の振る舞い](https://camp-us.net/articles/CABA-03-K-03_sorekara_no_sorekara.html)  
+[CABA-03-K-03-DN｜Development Note｜それからの「それから」── 「それから」79件・「仕舞」32件 採取台帳と稿の生成記録](https://camp-us.net/articles/CABA-03-K-03-DN_sorekara_Development-Note.html)  
 ###### 2026/09/25  
 [VA-01｜つねにすでには、どう「つねにすでに」になったか ──『存在と時間』における副詞配置・翻訳・Work](https://camp-us.net/articles/VA-01_Tsuneni-Sudeni_Translation-Reception-Work_v0.2.html)  
 ###### 2026/09/24  
