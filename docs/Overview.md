@@ -60,4 +60,4 @@ EgQE の宇宙はこの三位一体で駆動する。
 
 
 ---
-[index](EgQE/docs/index.md)  
+[index](index.md)  
