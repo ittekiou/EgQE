@@ -450,6 +450,10 @@ title: CABA-03-K-02｜彼の針山と蜘蛛の糸 ── 彼処は何処にあ�
 芥川龍之介「蜘蛛の糸」[青空文庫](https://www.aozora.gr.jp/cards/000879/files/92_14545.html)・新字新仮名版。底本『芥川龍之介全集2』ちくま文庫。初出『赤い鳥』1918年7月。
 
 ---
+
+[CABA-03-K-02-DN｜Development Note｜彼の針山と蜘蛛の糸──採取台帳と視点の監査記録](https://camp-us.net/articles/CABA-03-K-02-DN_kumonoito_Development-Note.html)  
+
+---
 © 2026 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
 wandering the labyrinth of syntax,  
