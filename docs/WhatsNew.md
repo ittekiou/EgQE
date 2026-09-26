@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/27  
+[OR-03｜軌道を見てしまう ── Trajectory, Locus, and Manner｜それから？](https://camp-us.net/articles/OR-03_Trajectory-Locus-Manner.html)  
 ###### 2026/09/26  
 [CABA-03-K-01｜無彼の羅生門 ── 此処と其処の楼上](https://camp-us.net/articles/CABA-03-K-01_no-a-rashomon.html)  
 [CABA-03-K-02｜彼の針山と蜘蛛の糸 ── 彼処は何処にあるのか](https://camp-us.net/articles/CABA-03-K-02_ano-hariyama-to-kumonoito.html)  
