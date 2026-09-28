@@ -2,6 +2,7 @@
 layout: math
 title: SAW-AM-05｜Reading AI — The Bridge Was Not There｜その横板は、そこにはなかった。
 ---
+### SAW AJIWAI manner
 # SAW-AM-05｜Reading AI — The Bridge Was Not There
 
 ## その横板は、そこにはなかった。
