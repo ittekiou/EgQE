@@ -26,9 +26,9 @@ title: archive index｜EgQE
 
 ---
 
-
-[15_ミルズ、その後。_1](https://camp-us.net/archive/15_ミルズ、その後。_1.html)  
 [15_ミルズ、その後。](https://camp-us.net/archive/15_ミルズ、その後。.html)  
-[ミルズ、その後。](https://camp-us.net/archive/ミルズ、その後。.html)  
+[15_ミルズ、その後。_log](https://camp-us.net/archive/15_ミルズ、その後。_log.html)  
+[ミルズ、その後。v0.1](https://camp-us.net/archive/ミルズ、その後。.html)  
 
 [15-2_修士論文・助手論文の読解記録――講評と課題](https://camp-us.net/archive/15-2_修士論文・助手論文の読解記録――講評と課題.html)  
+
