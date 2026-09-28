@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/28  
+[SAW-AM-05｜Reading AI — The Bridge Was Not There｜その横板は、そこにはなかった。](https://camp-us.net/Echodemy/SAW-AM-05_Reading-AI_Bridge-Was-Not-There.html)  
 ###### 2026/09/27  
 [OR-03｜軌道を見てしまう ── Trajectory, Locus, and Manner｜それから？](https://camp-us.net/articles/OR-03_Trajectory-Locus-Manner.html)  
 [MC-RN-05｜過去は終いに軌道になる ── Past, Trajectory, and Manner](https://camp-us.net/articles/MC-RN-05_Past-Trajectory-Manner.html)  
