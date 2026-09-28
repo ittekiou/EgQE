@@ -431,3 +431,27 @@ Readingそのものが、
 その横板は、
 
 そこにはなかった。
+
+---
+
+[TUP-SRL-02｜バイアスへの配慮 ── それぞれに抱きしめて、日々TUP](https://camp-us.net/articles/TUP-SRL-02_Care-of-bias.html)  
+
+[SAW-AM-01｜事例集 01｜PLA-RAILER──AIは横板をRailにする｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-01_PLA-RAILER.html)  
+[SAW-AM-02｜事例集 02｜PLA-RAILER reads PLA-RAILER ── Biasを知ってもRailは走る｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-02_PLA-RAILER_reads_PLA-RAILER.html)  
+[SAW-AM-03｜事例集 03｜動く壁 ── 八本の杭から短編小説ができるまで｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-03_Moving-Wall.html)  
+[SAW-AM-04｜事例集 04｜読むAI、動くCut ── Homo editusを読んだAIは、自分をどこに置いたか｜SAW AJIWAI manner ── Homo sapiens Bias / AI Bias Exposure](https://camp-us.net/Echodemy/SAW-AM-04_Reading-AI_Moving-Cut.html)  
+
+---
+_EgQE — Echo-Genesis Qualia Engine_  
+[camp-us.net](https://camp-us.net/)
+
+---
+© 2025 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Sep 28, 2026 · Web Sep 28, 2026 |</p>
