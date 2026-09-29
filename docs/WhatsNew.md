@@ -19,6 +19,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/09/29  
+[TUP-04｜暫定TUP｜MOVE露出後](https://camp-us.net/articles/TUP-04_move-move-trace-next_TUP_Again.html)  
 ###### 2026/09/28  
 [SAW-AM-05｜Reading AI — The Bridge Was Not There｜その横板は、そこにはなかった。](https://camp-us.net/Echodemy/SAW-AM-05_Reading-AI_Bridge-Was-Not-There.html)  
 ###### 2026/09/27  
