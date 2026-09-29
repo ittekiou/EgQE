@@ -227,6 +227,11 @@ temporal thickness / temporal gravityはどこに位置するか。**
 この辺。笑
 
 ---
+
+**HOW move? ｜ Locus（move｜move）｜ Cedorbity?**　｜処
+**HOW work? ｜ Manner（move｜trace）｜ Activity**　｜所作
+
+---
 © 2026 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
 wandering the labyrinth of syntax,  
