@@ -66,6 +66,7 @@ Nukadoko とは、それを置く場所である。
 
 ## Oct
 [OM-RN-01｜生成AIなき時代のホモ・サピエンス哲学 ──大森荘蔵を、生成AIのいる場所から読む](https://camp-us.net/Nukadoko/OM-RN-01_Generative-AI-and-Omori_Nukadoko.html)  
+[OM-RN-01_Generative-AI-and-Omori_Nukadokov0.2](https://camp-us.net/Nukadoko/OM-RN-01_Generative-AI-and-Omori_Nukadokov0.2.html)  
 
 
 [ND_filename](https://camp-us.net/Nukadoko/.html)  
