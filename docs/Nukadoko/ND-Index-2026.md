@@ -63,6 +63,7 @@ Nukadoko とは、それを置く場所である。
 [ND-260921_Excretion-Editus-Origin](https://camp-us.net/Nukadoko/ND-260921_Excretion-Editus-Origin.html)  
 [ND-260924_Derrida_lag-Again-Next](https://camp-us.net/Nukadoko/ND-260924_Derrida_lag-Again-Next.html)  
 [カタ論｜余白生成メモ](https://camp-us.net/Nukadoko/ND-260930_kata-theory.html)  
+[ND-261001_Prompt-Camera](https://camp-us.net/Nukadoko/ND-261001_Prompt-Camera.html)  
 
 ## Oct
 [OM-RN-01｜生成AIなき時代のホモ・サピエンス哲学 ──大森荘蔵を、生成AIのいる場所から読む](https://camp-us.net/Nukadoko/OM-RN-01_Generative-AI-and-Omori_Nukadoko.html)  
