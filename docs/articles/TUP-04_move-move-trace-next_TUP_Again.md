@@ -2,6 +2,7 @@
 layout: math
 title: TUP-04｜暫定TUP｜MOVE露出後
 ---
+#### TUP-04
 # 暫定TUP｜MOVE露出後
 
 完成した定義ではない。  
@@ -230,6 +231,14 @@ temporal thickness / temporal gravityはどこに位置するか。**
 
 **HOW move? ｜ Locus（move｜move）｜ Cedorbity?**　｜処
 **HOW work? ｜ Manner（move｜trace）｜ Activity**　｜所作
+
+---
+
+[TUP-01｜TUP-Again ──「何が更新するか」から「更新はいかにあるか」へ｜ From “What Updates?” to “How Is Updating?”](https://camp-us.net/articles/TUP-01_TUP-Again_How-Is-Updating.html)  
+[TUP-02｜TUPという足場｜TUP as Scaffold](https://camp-us.net/articles/TUP-02_TUP-as-Scaffold.html)  
+[TUP-03｜Encounter論 序説 ── toward ｜ against としての遭遇Again](https://camp-us.net/articles/TUP-03_Encounter_toward-against_Again.html)  
+[TUP-04｜暫定TUP｜MOVE露出後](https://camp-us.net/articles/TUP-04_move-move-trace-next_TUP_Again.html)  
+[TUP-05｜TUP観測マナー ── 編輯はどう見えるのか](https://camp-us.net/articles/TUP-05_Observation-manner_How-Edit-appear.html)  
 
 ---
 © 2026 K.E. Itekki  

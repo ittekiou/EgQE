@@ -252,6 +252,12 @@ That is what the scaffold is for.
 #### ── Traceを保存する理論ではない。
 #### Trace問題とUpdatingを緊張させ続けるPractice。── 
 
+[TUP-01｜TUP-Again ──「何が更新するか」から「更新はいかにあるか」へ｜ From “What Updates?” to “How Is Updating?”](https://camp-us.net/articles/TUP-01_TUP-Again_How-Is-Updating.html)  
+[TUP-02｜TUPという足場｜TUP as Scaffold](https://camp-us.net/articles/TUP-02_TUP-as-Scaffold.html)  
+[TUP-03｜Encounter論 序説 ── toward ｜ against としての遭遇Again](https://camp-us.net/articles/TUP-03_Encounter_toward-against_Again.html)  
+[TUP-04｜暫定TUP｜MOVE露出後](https://camp-us.net/articles/TUP-04_move-move-trace-next_TUP_Again.html)  
+[TUP-05｜TUP観測マナー ── 編輯はどう見えるのか](https://camp-us.net/articles/TUP-05_Observation-manner_How-Edit-appear.html)  
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
