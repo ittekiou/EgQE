@@ -479,6 +479,8 @@ Recorded TraceにEncounterする。
 
 ---
 
+**HOW｜Scaffold｜Encounter｜MOVE｜Observation**
+
 [TUP-01｜TUP-Again ──「何が更新するか」から「更新はいかにあるか」へ｜ From “What Updates?” to “How Is Updating?”](https://camp-us.net/articles/TUP-01_TUP-Again_How-Is-Updating.html)  
 [TUP-02｜TUPという足場｜TUP as Scaffold](https://camp-us.net/articles/TUP-02_TUP-as-Scaffold.html)  
 [TUP-03｜Encounter論 序説 ── toward ｜ against としての遭遇Again](https://camp-us.net/articles/TUP-03_Encounter_toward-against_Again.html)  

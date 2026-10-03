@@ -258,6 +258,8 @@ That is what the scaffold is for.
 [TUP-04｜暫定TUP｜MOVE露出後](https://camp-us.net/articles/TUP-04_move-move-trace-next_TUP_Again.html)  
 [TUP-05｜TUP観測マナー ── 編輯はどう見えるのか](https://camp-us.net/articles/TUP-05_Observation-manner_How-Edit-appear.html)  
 
+**HOW｜Scaffold｜Encounter｜MOVE｜Observation**
+
 ---
 _EgQE — Echo-Genesis Qualia Engine_  
 [camp-us.net](https://camp-us.net/)
