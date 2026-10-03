@@ -157,9 +157,13 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 [ZURE Inter-Phase Publisher](https://camp-us.net/E-Zypp/E-Zypp.html)  
 [研究成果 公開・保存・流通 運用ポリシー｜Research Output Publication, Archiving, and Circulation Policy](https://camp-us.net/Echodemy/Policy_Research-Output.html)  
 
-## **EAT-IF ── Another Locus for Trace.**  
+## EAT-IF
+
+**Exodus A Trace Inherit Fork｜詠トレース**  
+![e-tif](./assets/e-tif.png)  
+Another Locus for Trace.  
 **READ EgQE. WRITE EAT-IF.**  
-![e-tif](./assets/e-tif.png)**EAT-IF** ── _Exodus A Trace Inherit Fork｜詠トレース_  
+
 GitHub｜[https://github.com/ittekiou/EAT-IF](https://github.com/ittekiou/EAT-IF)  
 Web｜[https://ittekiou.github.io/EAT-IF/](https://ittekiou.github.io/EAT-IF/)  
 
