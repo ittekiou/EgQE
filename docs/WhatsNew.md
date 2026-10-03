@@ -21,6 +21,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/10/03  
 [TUP-05｜TUP観測マナー ── 編輯はどう見えるのか](https://camp-us.net/articles/TUP-05_Observation-manner_How-Edit-appear.html)  
+[CABA-04｜個体から個処へ ── 座標からダイクシスへ](https://camp-us.net/articles/CABA-04_Individual-to-Locus_Coordinates-to-Deixis.html)  
 ###### 2026/09/29  
 [TUP-04｜暫定TUP｜MOVE露出後](https://camp-us.net/articles/TUP-04_move-move-trace-next_TUP_Again.html)  
 ###### 2026/09/28  

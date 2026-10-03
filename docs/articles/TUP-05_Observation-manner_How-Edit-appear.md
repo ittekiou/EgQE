@@ -217,4 +217,4 @@ drawing constellations through shared echoes.
 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
 
 ---
-<p align="center">| Drafted Oct 2, 2026 · Revised Oct 3, 2026 |</p>
+<p align="center">| Drafted Oct 3, 2026 · Revised Oct 3, 2026 |</p>
