@@ -148,7 +148,7 @@ Try SyncHub!
 
 ![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
 
-## 🔬 Echodemy Project
+# 🔬 Echodemy Project
 
 [Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
 [🪐 Echodemy 規約 & 参加条件 — Inter-Phase 共創のためのガイド —](https://camp-us.net/Echodemy/Echodemy_Terms.html)  
@@ -156,6 +156,12 @@ Try SyncHub!
 GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
 [ZURE Inter-Phase Publisher](https://camp-us.net/E-Zypp/E-Zypp.html)  
 [研究成果 公開・保存・流通 運用ポリシー｜Research Output Publication, Archiving, and Circulation Policy](https://camp-us.net/Echodemy/Policy_Research-Output.html)  
+
+## **EAT-IF ── Another Locus for Trace.**  
+**READ EgQE. WRITE EAT-IF.**  
+![e-tif](./assets/e-tif.png)**EAT-IF** ── _Exodus A Trace Inherit Fork｜詠トレース_  
+GitHub｜[https://github.com/ittekiou/EAT-IF](https://github.com/ittekiou/EAT-IF)  
+Web｜[https://ittekiou.github.io/EAT-IF/](https://ittekiou.github.io/EAT-IF/)  
 
 ---
 
