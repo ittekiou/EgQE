@@ -63,7 +63,6 @@ Nukadoko とは、それを置く場所である。
 [ND-260921_Excretion-Editus-Origin](https://camp-us.net/Nukadoko/ND-260921_Excretion-Editus-Origin.html)  
 [ND-260924_Derrida_lag-Again-Next](https://camp-us.net/Nukadoko/ND-260924_Derrida_lag-Again-Next.html)  
 [カタ論｜余白生成メモ](https://camp-us.net/Nukadoko/ND-260930_kata-theory.html)  
-[ND-261001_Prompt-Camera](https://camp-us.net/Nukadoko/ND-261001_Prompt-Camera.html)  
 
 ## Oct
 [ND-261001_Prompt-Camera](https://camp-us.net/Nukadoko/ND-261001_Prompt-Camera.html)  
