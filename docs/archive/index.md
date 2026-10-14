@@ -23,7 +23,6 @@ title: archive index｜EgQE
 
 [13_修士論文_初期ライト・ミルズにおける思想・理論形成](https://camp-us.net/archive/13_修士論文_初期ライト・ミルズにおける思想・理論形成.html)  
 
-
 ---
 
 [15_ミルズ、その後。](https://camp-us.net/archive/15_ミルズ、その後。.html)  
@@ -32,3 +31,8 @@ title: archive index｜EgQE
 
 [15-2_修士論文・助手論文の読解記録――講評と課題](https://camp-us.net/archive/15-2_修士論文・助手論文の読解記録――講評と課題.html)  
 
+[C-W_Mills](https://camp-us.net/archive/C-W_Mills.html)  
+
+---
+
+[ミルズ最初期三論文_比較読解](https://camp-us.net/archive/ミルズ最初期三論文_比較読解.html)  
