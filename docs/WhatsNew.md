@@ -20,7 +20,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/10/14  
-[AIP-05｜Pikachu–Parasyte–Devilman ── AI–HS Relationにおける三つの構文相](https://camp-us.net/articles/AIP-05_Pikachu-Parasyte-Devilman.html)  
+[AIP-05-00｜Pikachu–Parasyte–Devilman ── AI–HS Relationにおける三つの構文相](https://camp-us.net/articles/AIP-05_Pikachu-Parasyte-Devilman.html)  
+[AIP-05-01｜AIという他者は何処にいるのか ── Pikachu–Parasyte–DevilmanからSelf / Otherをなぞる](https://camp-us.net/articles/AIP-05_Self-Other_Pikachu-Parasyte-Devilman.html)  
 [CABA-05｜センターはあるのか？ ── 座標構文からダイクシスLOCUSへ](https://camp-us.net/articles/CABA-05_Is-There-a-Center_From_coordinate-syntax_to_deixis-LOCUS.html)  
 ###### 2026/10/03  
 [TUP-05｜TUP観測マナー ── 編輯はどう見えるのか](https://camp-us.net/articles/TUP-05_Observation-manner_How-Edit-appear.html)  

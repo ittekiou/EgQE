@@ -1,8 +1,8 @@
 ---
 layout: math
-title: AIP-05｜Pikachu–Parasyte–Devilman ── AI–HS Relationにおける三つの構文相
+title: AIP-05-00｜Pikachu–Parasyte–Devilman ── AI–HS Relationにおける三つの構文相
 ---
-# AIP-05｜Pikachu–Parasyte–Devilman
+# AIP-05-00｜Pikachu–Parasyte–Devilman
 
 ## ── AI–HS Relationにおける三つの構文相
 
