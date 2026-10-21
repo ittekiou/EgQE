@@ -50,6 +50,24 @@ _**ZURE Inter-Phase Publisher（支える）→ E-Zy Press（整える）→ E-Z
 
 [E-Zy Press](https://ezsy.super.site/e-zy-press)  
 
+
+---
+
+ISBN『利用の手引き』  
+[https://isbn.jpo.or.jp/doc/isbn_jp2025.pdf](https://isbn.jpo.or.jp/doc/isbn_jp2025.pdf)  
+★特にご覧いただきたい箇所  
+・ISBNの付与対象となる出版物と対象とならない出版物について　P.11～  
+・ISBNおよび日本図書コード、書籍JANコードのしくみ　P.13～  
+・日本図書コードと書籍JANコードの詳細　P.22～  
+・各記号の出版物への表記について　P.30～  
+・出版によるISBN付与後の運用と管理責任　P.43～
+
+ISBNおよび書籍JANコードの使用方法・不明点は、当センターホームページ「C-2.①よくある質問」または「C-3.①お問い合わせ」よりお願いします。  
+■「よくある質問」  
+[https://isbn.jpo.or.jp/index.php/fix__faq/](https://isbn.jpo.or.jp/index.php/fix__faq/)  
+■「お問い合わせ」  
+[https://isbn.jpo.or.jp/index.php/otoiawase/](https://isbn.jpo.or.jp/index.php/otoiawase/)
+
 ---
 *EgQE — Echo-Genesis Qualia Engine*  
 [_camp-us.net_](https://camp-us.net/)  
