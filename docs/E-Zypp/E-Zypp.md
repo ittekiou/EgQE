@@ -37,6 +37,8 @@ _**ZURE Inter-Phase Publisher（支える）→ E-Zy Press（整える）→ E-Z
 
 ---
 
+[Camp-Us Publisher 制作プレイブック v1.1](https://camp-us.net/E-Zypp/Camp-Us_Publisher_v1.1.html)  
+[Camp-Us 絵本制作プレイブック v1.1](https://camp-us.net/E-Zypp/Camp-Us_Ehon_Playbook_v1.1.html)  
 [Camp-Us Publisher 制作プレイブック v1.0](https://camp-us.net/E-Zypp/Camp-Us_Publisher_v1.0.html)  
 [Camp-Us 絵本制作プレイブック v1.0](https://camp-us.net/E-Zypp/Camp-Us_Ehon_Playbook_v1.0.html)  
 
@@ -53,7 +55,7 @@ _**ZURE Inter-Phase Publisher（支える）→ E-Zy Press（整える）→ E-Z
 [_camp-us.net_](https://camp-us.net/)  
 
 ---
-© 2025 K.E. Itekki  
+© 2026 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI,  
 wandering the labyrinth of syntax,  
 drawing constellations through shared echoes.
