@@ -1,0 +1,68 @@
+---
+layout: default
+title: Search｜EgQE内検索
+---
+{% raw %}
+<h1>EgQE内検索</h1>
+<form id="egqe-f"><input id="egqe-q" type="search" placeholder="語を入れて Enter（スペース区切り＝すべて含むページ）" autocomplete="off"></form>
+<p id="egqe-st" class="egqe-st"></p>
+<div id="egqe-res"></div>
+<style>
+#egqe-q{width:100%;padding:.6em .8em;font-size:1.05em;border:1px solid #d0d7de;border-radius:8px;box-sizing:border-box;background:inherit;color:inherit}
+.egqe-st{color:#6e7781;font-size:.9em}
+.egqe-hit{border-top:1px solid #d0d7de;padding:.8em 0}
+.egqe-hit h3{margin:0 0 .2em;font-size:1.05em}
+.egqe-hit .u{color:#6e7781;font-size:.8em;word-break:break-all}
+.egqe-hit .n{color:#6e7781;font-size:.8em;margin-left:.5em;font-weight:normal}
+.egqe-hit .s{font-size:.92em;margin:.35em 0;white-space:pre-wrap;word-break:break-word}
+.egqe-hit mark{background:#fff3b0;color:inherit;border-radius:2px}
+@media (prefers-color-scheme: dark){#egqe-q{border-color:#30363d}.egqe-hit{border-color:#30363d}.egqe-hit mark{background:#6b5a17}}
+</style>
+<script src="/assets/search/manifest.js"></script>
+<script>
+(function(){
+const $=id=>document.getElementById(id);
+const S={};let waiting=null;
+window.EGQE_SHARD=(i,rows)=>{S[i]=rows;if(waiting)waiting();};
+function load(i){return new Promise((ok,ng)=>{if(S[i])return ok();waiting=ok;
+  const s=document.createElement('script');s.src='/assets/search/egqe-'+i+'.js?'+EGQE_MANIFEST.generated.replace(/\D/g,'');
+  s.onerror=()=>ng(i);document.body.appendChild(s);});}
+const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const reEsc=s=>s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+function snips(t,lo,w,re,max){const out=[];let from=0;
+  while(out.length<max){const i=lo.indexOf(w,from);if(i<0)break;
+    const a=Math.max(0,i-50),b=Math.min(t.length,i+w.length+90);
+    out.push((a>0?'…':'')+esc(t.slice(a,b).replace(/\s+/g,' ')).replace(re,m=>'<mark>'+m+'</mark>')+(b<t.length?'…':''));
+    from=b;}
+  return out;}
+let run=0;
+async function go(e){if(e)e.preventDefault();
+  const q=$('egqe-q').value.trim();
+  try{history.replaceState(null,'',q?'?q='+encodeURIComponent(q):location.pathname)}catch(_){}
+  if(!q){$('egqe-res').innerHTML='';$('egqe-st').textContent='';return;}
+  const my=++run,words=q.toLowerCase().split(/\s+/).filter(Boolean);
+  const re=new RegExp(words.map(w=>reEsc(esc(w))).join('|'),'gi');
+  const hits=[];
+  for(let i=0;i<EGQE_MANIFEST.shards;i++){
+    $('egqe-st').textContent=`読み込み中 ${i+1}/${EGQE_MANIFEST.shards} … ここまで ${hits.length}ページ`;
+    try{await load(i);}catch(k){$('egqe-st').textContent='索引を読み込めませんでした';return;}
+    if(my!==run)return;
+    for(const p of S[i]){const lo=p[2].toLowerCase();
+      if(!words.every(w=>lo.includes(w)))continue;
+      let n=0,k=-1;while((k=lo.indexOf(words[0],k+1))>=0)n++;
+      hits.push([p,lo,n]);}
+    await new Promise(r=>setTimeout(r,0));}
+  hits.sort((a,b)=>b[2]-a[2]);
+  $('egqe-st').textContent=`${hits.length}ページ`+(hits.length>200?'（上位200ページを表示）':'')+`　索引 ${EGQE_MANIFEST.generated}`;
+  const frag='?hl='+encodeURIComponent(q.split(/\s+/)[0]);
+  $('egqe-res').innerHTML=hits.slice(0,200).map(([p,lo,n])=>
+    `<div class="egqe-hit"><h3><a href="${esc(p[0])+frag}">${esc(p[1])}</a><span class="n">${n}か所</span></h3>`
+    +`<div class="u">${esc(decodeURI(p[0]))}</div>`
+    +snips(p[2],lo,words[0],re,3).map(s=>`<div class="s">${s}</div>`).join('')+'</div>').join('');
+}
+$('egqe-f').onsubmit=go;
+const q0=new URLSearchParams(location.search).get('q');
+if(q0){$('egqe-q').value=q0;go();}else $('egqe-q').focus();
+})();
+</script>
+{% endraw %}

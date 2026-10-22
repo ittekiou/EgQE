@@ -1,0 +1,43 @@
+# EgQE を GitHub Pages に公開する（全文検索の索引づくり付き）
+# 流れ：md から索引を作る → GitHub Pages と同じ Jekyll で HTML にする → 公開
+# 使うには：Settings → Pages → Build and deployment → Source を「GitHub Actions」にする
+name: Deploy EgQE (with search)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Build search index
+        run: python3 tools/build_search_index.py docs
+      - name: Build with Jekyll (same as classic GitHub Pages)
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./docs
+          destination: ./_site
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

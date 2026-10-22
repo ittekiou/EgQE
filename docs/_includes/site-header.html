@@ -3,9 +3,20 @@
   <a href="{{ '/Echodemy.html' | relative_url }}">Echodemy</a>
   <a href="{{ '/AME.html'      | relative_url }}">AI Meets Echoes</a>
   <a href="{{ '/WhatsNew.html' | relative_url }}">Releases</a>
+  <a href="{{ '/search.html'   | relative_url }}">Search</a>
 </nav>
 <style>
 .egqe-nav{background:#111;padding:.6rem 1rem;display:flex;gap:1.25rem;flex-wrap:wrap}
 .egqe-nav a{color:#fff;text-decoration:none;font-weight:600}
 .egqe-nav a:hover{text-decoration:underline}
 </style>
+<script>/* EgQE内検索：?hl=語 で来たら、本文で最初に出てくる箇所に印をつけてそこへ移動 */
+window.addEventListener('load',function(){try{
+  var q=new URLSearchParams(location.search).get('hl'),root=document.querySelector('.markdown-body');
+  if(!q||!root)return;var lo=q.toLowerCase(),w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT),n;
+  while((n=w.nextNode())){var i=n.nodeValue.toLowerCase().indexOf(lo);if(i<0)continue;
+    var r=document.createRange();r.setStart(n,i);r.setEnd(n,i+q.length);
+    var m=document.createElement('mark');m.style.cssText='background:#fff3b0;color:#111;border-radius:2px;outline:2px solid #e0a020';
+    r.surroundContents(m);m.scrollIntoView({block:'center'});break;}
+}catch(e){}});
+</script>
