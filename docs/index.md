@@ -21,6 +21,12 @@ subtitle: Inter-Phase is the syntactic field where co-creation occurs.
     </text>
   </svg>
 </div>
+---
+## EgQE内検索
+
+↪️ [Search](https://camp-us.net/search.html)  
+
+---
 
 _**lag begins, hinge binds, pivot turns, ΔZ encounters, memory persists, and lag begins...**_  
 ### 思考は違和感から始まる──
@@ -60,11 +66,6 @@ Try SyncHub!
 ## A Fresh Leaf Emerges.
 
 [EgQE Atlas 2.0｜構文地図｜Part II:Lag-Relational Syntax Architecture](https://camp-us.net/Echodemy/EgQE_Atlas-02.html)  
-
----
-## EgQE内検索
-
-↪️ [EgQE内検索](https://camp-us.net/search.html)  
 
 ---
 
