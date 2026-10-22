@@ -65,7 +65,7 @@ Try SyncHub!
 
 [EgQE Atlas 2.0｜構文地図｜Part II:Lag-Relational Syntax Architecture](https://camp-us.net/Echodemy/EgQE_Atlas-02.html)  
 
-## EgQE内検索
+## EgQE内検索（灯欄窓｜Transnomado）
 
 ↪️ [Search](https://camp-us.net/search.html)  
 
