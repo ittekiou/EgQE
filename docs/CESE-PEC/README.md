@@ -1,3 +1,8 @@
+---
+layout: math
+title: CESE PEC 💩｜排泄猛者倶楽部
+---
+
 # CESE PEC 💩
 
 **排泄猛者倶楽部**
