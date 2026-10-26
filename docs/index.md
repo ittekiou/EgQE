@@ -77,6 +77,12 @@ Try SyncHub!
 
 ---
 
+## LINK
+
+[CESE PEC 💩](https://camp-us.net/CESE-PEC/README.html)  
+
+---
+
 # Principia Naturae
 
 ![PRINCIPIA-NATURAE](./assets/PRINCIPIA-NATURAE.png)  
