@@ -22,6 +22,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/10/26  
+
+
 ###### 2026/10/23  
 [灯欄窓ができるまで──検索窓は20分で開き、足場は8時間かけて組まれた](https://camp-us.net/index/Transnomado.html)  
 ###### 2026/10/14  
