@@ -2,7 +2,6 @@
 layout: math
 title: CESE PEC 💩｜排泄猛者倶楽部
 ---
-
 # CESE PEC 💩
 
 **排泄猛者倶楽部**
@@ -29,7 +28,7 @@ title: CESE PEC 💩｜排泄猛者倶楽部
 
 - **こえだめ案内所 ℹ️** — GitHub Issues
   ここにあるよ。あそこにもあるよ。
-- **地下茎型こえだめ 🌱** — [Are.na](https://www.are.na/kei-itteki/tracentrance)  
+- **地下茎型こえだめ 🌱** — [玄関｜Tracentrance 🥚 Are.na](https://www.are.na/kei-itteki/tracentrance)  
   勝手につながり、枝分かれする。
 - **各自の排泄場所 💩** — note / KDP / Podcast / 個人サイト / GitHub / [CESE PEC｜The Excreta Pit 🌱](https://www.are.na/cese-pec-the-rhizome-pit-a7jqy-i3aee) / その他
 
