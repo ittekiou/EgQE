@@ -119,7 +119,7 @@
   const grid = list => `<div class="grid">${list.map(card).join('')}</div>`;
 
   function render() {
-    const mags = data.magazines;
+    const mags = data.magazines.filter(m => !m.hidden && m.title);
     let html = '';
     if (view === 'shelf') {
       for (const s of data.shelves) {
@@ -128,7 +128,8 @@
         html += `<section class="shelf"><h2>${esc(s.name)}</h2>${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}<div class="board">${grid(list)}</div></section>`;
       }
       const loose = mags.filter(m => !data.shelves.some(s => s.id === m.shelf));
-      if (loose.length) html += `<section class="shelf"><h2>🌱 まだ棚のないもの</h2><div class="board">${grid(loose)}</div></section>`;
+      loose.sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
+      if (loose.length) html += `<section class="shelf"><h2>🌱 まだ棚のないもの</h2><p class="note">${loose.length}冊。これから棚に分ける。</p><div class="board">${grid(loose)}</div></section>`;
     } else if (view === 'recent') {
       const list = [...mags].sort((a, b) => (b.latest_at ? Date.parse(b.latest_at) : 0) - (a.latest_at ? Date.parse(a.latest_at) : 0));
       html = `<section class="shelf"><h2>🍮 新着順</h2><p class="note">記事が最近届いた順。手で決めた棚の並びは、そのまま残っています。</p><div class="board">${grid(list)}</div></section>`;
