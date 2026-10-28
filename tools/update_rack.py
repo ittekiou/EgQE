@@ -80,6 +80,38 @@ def read_cover(mag_url):
     return html.unescape(m.group(1)) if m else ""
 
 
+ROW_KEEP = 12     # 新刊・図書だよりの段に並べる数
+
+
+def read_row(feed_url):
+    """Are.na の棚や Substack など、ふつうのRSSから「段」の中身を読む。
+    画像は enclosure → media:thumbnail → 本文中の最初の <img> の順に探す。
+    リンクは <source url>（Are.na なら Amazon の商品ページ）があればそれを使う。"""
+    root = ET.fromstring(fetch(feed_url))
+    out = []
+    for it in root.iter("item"):
+        img = ""
+        enc = it.find("enclosure")
+        if enc is not None and (enc.get("type", "image").startswith("image")) and enc.get("url"):
+            img = enc.get("url")
+        if not img:
+            th = it.find(f"{MEDIA}thumbnail")
+            if th is not None:
+                img = th.get("url") or (th.text or "").strip()
+        if not img:
+            desc = html.unescape(it.findtext("description") or "")
+            m = re.search(r'<img[^>]+src=["\']([^"\']+)', desc)
+            img = html.unescape(m.group(1)) if m else ""
+        src = it.find("source")
+        link = src.get("url") if src is not None and src.get("url") else (it.findtext("link") or "").strip()
+        out.append({
+            "title": (it.findtext("title") or "").strip(),
+            "url": link,
+            "image": img,
+            "date": to_iso(it.findtext("pubDate") or ""),
+        })
+    return [x for x in out if x["title"]][:ROW_KEEP]
+
 def main(path):
     with open(path, encoding="utf-8") as f:
         rack = json.load(f)
@@ -114,6 +146,16 @@ def main(path):
                 print(f"no cover {m['id']}: {e}", file=sys.stderr)
             time.sleep(PAUSE)
         print(f"ok {m['id']}: {m['title'][:30]}")
+
+    for row in rack.get("rows", []):
+        if not row.get("feed"):
+            continue
+        try:
+            row["items"] = read_row(row["feed"])
+            print(f"ok row {row.get('id')}: {len(row['items'])}")
+        except Exception as e:
+            print(f"skip row {row.get('id')}: {e}", file=sys.stderr)
+        time.sleep(PAUSE)
 
     rack["updated"] = datetime.now(JST).replace(microsecond=0).isoformat()
     with open(path, "w", encoding="utf-8") as f:
