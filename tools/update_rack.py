@@ -32,7 +32,7 @@ DESC_MAX = 80     # 説明文を自動で入れるときの最大文字数
 
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml;q=0.9, text/html;q=0.8, */*;q=0.5"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read()
 
