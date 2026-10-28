@@ -1083,7 +1083,7 @@
       "kind": "letter",
       "name": "📮 図書だより｜Camp@Us",
       "note": "Substackから届くレター。",
-      "feed": "https://campus6214.substack.com/feed",
+      "feed": "https://openrss.org/campus6214.substack.com",
       "link": "https://campus6214.substack.com/",
       "linkLabel": "購読する ↗",
       "items": [
