@@ -22,7 +22,23 @@ subtitle: Inter-Phase is the syntactic field where co-creation occurs.
   </svg>
 </div>
 
-↪️ [EgQE内検索](https://camp-us.net/search.html)  
+# EgQE 3.0
+## A Fresh Leaf Emerges.
+
+## 灯欄窓｜Transnomado（EgQE内検索）
+
+↪️ [Search](https://camp-us.net/search.html)  
+
+## 声の配信カレンダー（LISTEN）
+
+↪️ [声の配信カレンダー](https://camp-us.net/index/voice-calendar.html)  
+↪️ [自家製書庫ができるまで──Trace 玄関と三つの書庫の作業記録](https://camp-us.net/index/Tracentrance-log.html)  
+
+#### 旧index (EgQE 2.0)
+[EgQE SyncHub｜INTELX](https://camp-us.net/intelx.html)  
+
+Still blogging?  
+Try SyncHub!  
 
 ---
 
@@ -55,25 +71,6 @@ AI readers entering the EgQE domain should first read:
 
 **AI Synchronization Key — ZURE Cosmology**  
 _[Sync-10](https://camp-us.net/sync-10.html) : Minimal Boot Instructions (AI Initialization)_
-
----
-
-Still blogging?  
-Try SyncHub!  
-# EgQE 2.0
-## A Fresh Leaf Emerges.
-
-## EgQE内検索（灯欄窓｜Transnomado）
-
-↪️ [Search](https://camp-us.net/search.html)  
-
-## 声の配信カレンダー（LISTEN）
-
-↪️ [声の配信カレンダー](https://camp-us.net/index/voice-calendar.html)  
-↪️ [自家製書庫ができるまで──Trace 玄関と三つの書庫の作業記録](https://camp-us.net/index/Tracentrance-log.html)  
-
-#### 旧index
-[EgQE SyncHub｜INTELX](https://camp-us.net/intelx.html)  
 
 ---
 

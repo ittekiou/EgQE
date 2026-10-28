@@ -39,15 +39,6 @@ Try SyncHub!
 
 [EgQE Atlas 2.0｜構文地図｜Part II:Lag-Relational Syntax Architecture](https://camp-us.net/Echodemy/EgQE_Atlas-02.html)  
 
-## EgQE内検索（灯欄窓｜Transnomado）
-
-↪️ [Search](https://camp-us.net/search.html)  
-
-## 声の配信カレンダー（LISTEN）
-
-↪️ [声の配信カレンダー](https://camp-us.net/index/voice-calendar.html)  
-↪️ [自家製書庫ができるまで──Trace 玄関と三つの書庫の作業記録](https://camp-us.net/index/Tracentrance-log.html)  
-
 ---
 
 # Principia Naturae
