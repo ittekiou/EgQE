@@ -3,25 +3,52 @@
   "subtitle": "一狄 啓のnoteマガジン書庫",
   "updated": "2026-10-28T18:45:00+09:00",
   "shelves": [
-    { "id": "publish", "name": "📚 書く・出す", "note": "本になる。束になる。" },
-    { "id": "trace", "name": "🐜 届く・拾う", "note": "AIと考えたTraceを拾い集める。" },
-    { "id": "walk", "name": "🚶 歩く・物語", "note": "爺さんたちと路地裏を歩く。" }
+    {
+      "id": "publish",
+      "name": "📚 書く・出す",
+      "note": "本になる。束になる。"
+    },
+    {
+      "id": "trace",
+      "name": "🐜 届く・拾う",
+      "note": "AIと考えたTraceを拾い集める。"
+    },
+    {
+      "id": "walk",
+      "name": "🚶 歩く・物語",
+      "note": "爺さんたちと路地裏を歩く。"
+    }
   ],
   "magazines": [
     {
       "id": "mfada14db3463",
       "title": "KDP ×BBB ×BGM ──AI時代のKindle出版術",
       "url": "https://note.com/takahashihajime/m/mfada14db3463",
-      "cover": "",
+      "cover": "https://assets.st-note.com/production/uploads/images/323993447/49bf72dee21eb93c7f1b398a77264b7d.png?width=432&dpr=2",
       "description": "書いていたら、本になった。",
-      "count": null,
+      "count": 32,
       "shelf": "publish",
       "order": 1,
       "latest_at": "2026-10-28T14:30:00+09:00",
       "latest": [
-        { "title": "Amazon længs できました──呼吸と言葉の野良書棚", "url": "https://note.com/takahashihajime/n/n98e64ce50ab3", "date": "2026-10-28T14:30:00+09:00", "thumb": "https://assets.st-note.com/production/uploads/images/329424903/rectangle_large_type_2_ff0d14b2b1a619998ebb5472691e4aa6.png?width=800" },
-        { "title": "喋りまくったつもりが、案外少なかった", "url": "https://note.com/takahashihajime/n/n5115d240101c", "date": "2026-10-23T12:02:23+09:00", "thumb": "https://assets.st-note.com/production/uploads/images/327451882/rectangle_large_type_2_a5c162743797acaa7a8677c175719638.png?width=800" },
-        { "title": "ひとり出版者が生まれた ── ココ、いい此処なれ。2026年10月21日", "url": "https://note.com/takahashihajime/n/n758b8b6749e8", "date": "2026-10-21T23:00:00+09:00", "thumb": "https://assets.st-note.com/production/uploads/images/326952924/rectangle_large_type_2_5a61c4dd024cd576ea447319f0f215d9.png?width=800" }
+        {
+          "title": "Amazon længs できました──呼吸と言葉の野良書棚",
+          "url": "https://note.com/takahashihajime/n/n98e64ce50ab3",
+          "date": "2026-10-28T14:30:00+09:00",
+          "thumb": "https://assets.st-note.com/production/uploads/images/329424903/rectangle_large_type_2_ff0d14b2b1a619998ebb5472691e4aa6.png?width=800"
+        },
+        {
+          "title": "喋りまくったつもりが、案外少なかった",
+          "url": "https://note.com/takahashihajime/n/n5115d240101c",
+          "date": "2026-10-23T12:02:23+09:00",
+          "thumb": "https://assets.st-note.com/production/uploads/images/327451882/rectangle_large_type_2_a5c162743797acaa7a8677c175719638.png?width=800"
+        },
+        {
+          "title": "ひとり出版者が生まれた ── ココ、いい此処なれ。2026年10月21日",
+          "url": "https://note.com/takahashihajime/n/n758b8b6749e8",
+          "date": "2026-10-21T23:00:00+09:00",
+          "thumb": "https://assets.st-note.com/production/uploads/images/326952924/rectangle_large_type_2_5a61c4dd024cd576ea447319f0f215d9.png?width=800"
+        }
       ]
     },
     {
@@ -112,15 +139,25 @@
       "id": "mc681cb1902ef",
       "title": "えぷた爺さん界隈を徘徊する──頃合を抜けたら其処は界隈だった",
       "url": "https://note.com/takahashihajime/m/mc681cb1902ef",
-      "cover": "",
+      "cover": "https://assets.st-note.com/production/uploads/images/327087452/1cb0bf8692c599018bbcfc72e54ec53b.png?width=432&dpr=2",
       "description": "ソクラテスを連れて、路地裏を歩く。",
-      "count": null,
+      "count": 2,
       "shelf": "walk",
       "order": 1,
       "latest_at": "2026-10-28T16:00:00+09:00",
       "latest": [
-        { "title": "路地裏のソクラテス｜界隈辺 予告編", "url": "https://note.com/takahashihajime/n/nf9aa2fdf944b", "date": "2026-10-28T16:00:00+09:00", "thumb": "https://assets.st-note.com/production/uploads/images/327091673/rectangle_large_type_2_d3f6b9024f31c6603669c8fa94d4f2b2.png?width=800" },
-        { "title": "えぷた爺さんの路地裏散歩── 簡単には片つかない", "url": "https://note.com/takahashihajime/n/n40ea37e1b859", "date": "2026-10-27T16:00:00+09:00", "thumb": "https://assets.st-note.com/production/uploads/images/327077092/rectangle_large_type_2_175a11c72936a741616e420c61a61599.png?width=800" }
+        {
+          "title": "路地裏のソクラテス｜界隈辺 予告編",
+          "url": "https://note.com/takahashihajime/n/nf9aa2fdf944b",
+          "date": "2026-10-28T16:00:00+09:00",
+          "thumb": "https://assets.st-note.com/production/uploads/images/327091673/rectangle_large_type_2_d3f6b9024f31c6603669c8fa94d4f2b2.png?width=800"
+        },
+        {
+          "title": "えぷた爺さんの路地裏散歩── 簡単には片つかない",
+          "url": "https://note.com/takahashihajime/n/n40ea37e1b859",
+          "date": "2026-10-27T16:00:00+09:00",
+          "thumb": "https://assets.st-note.com/production/uploads/images/327077092/rectangle_large_type_2_175a11c72936a741616e420c61a61599.png?width=800"
+        }
       ]
     },
     {
