@@ -37,6 +37,16 @@
   .shelf h2{font-size:18px;margin:0;font-weight:600}
   .shelf .note{color:var(--sub);font-size:13px;margin:2px 0 12px}
   .board{border-bottom:6px solid var(--wood);border-radius:0 0 3px 3px;padding-bottom:18px}
+  .books{display:flex;gap:14px;overflow-x:auto;padding:4px 2px 14px;scroll-snap-type:x proximity}
+  .book{flex:none;width:118px;text-decoration:none;scroll-snap-align:start}
+  .book .bc{display:block;width:118px;aspect-ratio:2/3;background:var(--tag);border-radius:3px;overflow:hidden;box-shadow:var(--shadow);position:relative}
+  .book .bc img{width:100%;height:100%;object-fit:cover;display:block;position:relative}
+  .book .bc .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;padding:8px;text-align:center;font-size:11px;color:var(--sub)}
+  .book.letter,.book.letter .bc{width:150px}
+  .book.letter .bc{aspect-ratio:1/1}
+  .book .bd{display:block;font-size:11px;color:var(--sub);margin-top:2px}
+  .book .bt{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:12px;line-height:1.45;margin-top:6px}
+  .book:hover .bt{text-decoration:underline}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:18px}
   .card{background:var(--paper);border:1px solid var(--line);border-radius:6px;overflow:hidden;
     box-shadow:var(--shadow);display:flex;flex-direction:column;transition:transform .15s}
@@ -86,6 +96,7 @@
     <p>No Rail. No Track. Next Nest.</p>
     <p>Now Emulsifying! ／ Half-Cooked, Always. ／ Stocked, Stirred, Fermented.</p>
     <p>共同の野良ラックは <a href="https://www.are.na/dream-no-track-kuykyopogvu/note-rack">note RACK｜Are.na</a> へ。</p>
+    <p>新刊の棚にはAmazonアソシエイトリンクを含みます（PR）。Amazonのアソシエイトとして、一狄 啓（Kei Itteki）は適格販売により収入を得ています。</p>
   </footer>
 </div>
 
@@ -121,6 +132,15 @@
 
   const grid = list => `<div class="grid">${list.map(card).join('')}</div>`;
 
+  function rowsHtml() {
+    return (data.rows || []).filter(r => r.items && r.items.length).map(r => {
+      const cls = r.kind === 'letter' ? 'book letter' : 'book';
+      const items = r.items.map(x => `<a class="${cls}" href="${esc(x.url)}"><span class="bc"><span class="ph">${esc(x.title)}</span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${r.kind === 'letter' && x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`).join('');
+      const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : ''].filter(Boolean).join('　');
+      return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="books">${items}</div></div></section>`;
+    }).join('');
+  }
+
   function render() {
     const mags = data.magazines.filter(m => !m.hidden && m.title);
     let html = '';
@@ -135,12 +155,12 @@
       if (loose.length) html += `<section class="shelf"><h2>🌱 まだ棚のないもの</h2><p class="note">${loose.length}冊。これから棚に分ける。</p><div class="board">${grid(loose)}</div></section>`;
     } else if (view === 'recent') {
       const list = [...mags].sort((a, b) => (b.latest_at ? Date.parse(b.latest_at) : 0) - (a.latest_at ? Date.parse(a.latest_at) : 0));
-      html = `<section class="shelf"><h2>🍮 新着順</h2><p class="note">記事が最近届いた順。手で決めた棚の並びは、そのまま残っています。</p><div class="board">${grid(list)}</div></section>`;
+      html = `<section class="shelf"><h2>📬 新着順</h2><p class="note">記事が最近届いた順。手で決めた棚の並びは、そのまま残っています。</p><div class="board">${grid(list)}</div></section>`;
     } else {
       const list = [...mags].sort((a, b) => a.title.localeCompare(b.title, 'ja'));
       html = `<section class="shelf"><h2>📚 ぜんぶ</h2><p class="note">${mags.length}冊</p><div class="board">${grid(list)}</div></section>`;
     }
-    $rack.innerHTML = html;
+    $rack.innerHTML = rowsHtml() + html;
     document.querySelectorAll('.bar button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.view === view)));
   }
 

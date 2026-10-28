@@ -1066,5 +1066,27 @@
       "latest_at": null,
       "latest": []
     }
+  ],
+  "rows": [
+    {
+      "id": "books",
+      "kind": "book",
+      "name": "🍮 新刊｜Just Out",
+      "note": "焼きたての本。Amazonへ。",
+      "feed": "https://www.are.na/kei-itteki/just-out/feed/rss",
+      "link": "https://www.are.na/kei-itteki/just-out",
+      "linkLabel": "Are.naの棚 ↗",
+      "items": []
+    },
+    {
+      "id": "letters",
+      "kind": "letter",
+      "name": "📮 図書だより｜Camp@Us",
+      "note": "Substackから届くレター。",
+      "feed": "https://campus6214.substack.com/feed",
+      "link": "https://campus6214.substack.com/",
+      "linkLabel": "購読する ↗",
+      "items": []
+    }
   ]
 }
