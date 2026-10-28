@@ -1,0 +1,163 @@
+{
+  "title": "Living RACK",
+  "subtitle": "一狄 啓のnoteマガジン書庫",
+  "updated": "2026-10-28T18:45:00+09:00",
+  "shelves": [
+    { "id": "publish", "name": "📚 書く・出す", "note": "本になる。束になる。" },
+    { "id": "trace", "name": "🐜 届く・拾う", "note": "AIと考えたTraceを拾い集める。" },
+    { "id": "walk", "name": "🚶 歩く・物語", "note": "爺さんたちと路地裏を歩く。" }
+  ],
+  "magazines": [
+    {
+      "id": "mfada14db3463",
+      "title": "KDP ×BBB ×BGM ──AI時代のKindle出版術",
+      "url": "https://note.com/takahashihajime/m/mfada14db3463",
+      "cover": "",
+      "description": "書いていたら、本になった。",
+      "count": null,
+      "shelf": "publish",
+      "order": 1,
+      "latest_at": "2026-10-28T14:30:00+09:00",
+      "latest": [
+        { "title": "Amazon længs できました──呼吸と言葉の野良書棚", "url": "https://note.com/takahashihajime/n/n98e64ce50ab3", "date": "2026-10-28T14:30:00+09:00", "thumb": "https://assets.st-note.com/production/uploads/images/329424903/rectangle_large_type_2_ff0d14b2b1a619998ebb5472691e4aa6.png?width=800" },
+        { "title": "喋りまくったつもりが、案外少なかった", "url": "https://note.com/takahashihajime/n/n5115d240101c", "date": "2026-10-23T12:02:23+09:00", "thumb": "https://assets.st-note.com/production/uploads/images/327451882/rectangle_large_type_2_a5c162743797acaa7a8677c175719638.png?width=800" },
+        { "title": "ひとり出版者が生まれた ── ココ、いい此処なれ。2026年10月21日", "url": "https://note.com/takahashihajime/n/n758b8b6749e8", "date": "2026-10-21T23:00:00+09:00", "thumb": "https://assets.st-note.com/production/uploads/images/326952924/rectangle_large_type_2_5a61c4dd024cd576ea447319f0f215d9.png?width=800" }
+      ]
+    },
+    {
+      "id": "m96fedd748f5c",
+      "title": "E-Zy Daystrance 🥚｜ EgSS",
+      "url": "https://note.com/takahashihajime/m/m96fedd748f5c",
+      "cover": "https://assets.st-note.com/production/uploads/images/327808306/a9edf12796ef57692aa94937f1539e40.png?width=432&dpr=2",
+      "description": "An Emulsifying Newsletter. Traces & Trances. / Books & Buddies.",
+      "count": 1,
+      "shelf": "publish",
+      "order": 2,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "m108cfe83ac57",
+      "title": "目から鱗⁉︎ マガジン主体のnote術",
+      "url": "https://note.com/takahashihajime/m/m108cfe83ac57",
+      "cover": "https://assets.st-note.com/production/uploads/images/323384418/c9e89bb3d986a97d6fbb7c54b8e509d9.png?width=432&dpr=2",
+      "description": "生地はあるのに記事がない?! 🥧",
+      "count": 2,
+      "shelf": "publish",
+      "order": 3,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "m932ee6e1c492",
+      "title": "Echodemyから届く｜AI共創のTrace",
+      "url": "https://note.com/takahashihajime/m/m932ee6e1c492",
+      "cover": "https://assets.st-note.com/production/uploads/images/315050939/00d1f47f462afd1d3d5186139b0f2055.png?width=432&dpr=2",
+      "description": "AIと人が一緒に考えると、何が起きるのか。",
+      "count": 36,
+      "shelf": "trace",
+      "order": 1,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "mb259e9dcc67a",
+      "title": "K.E.Itekkiから届く｜Inter-Phase",
+      "url": "https://note.com/takahashihajime/m/mb259e9dcc67a",
+      "cover": "https://assets.st-note.com/production/uploads/images/315052695/0f0af6e802e67e486bd4cb2e525e1ea1.png?width=432&dpr=2",
+      "description": "異なる知は、あいだで出会う。",
+      "count": 56,
+      "shelf": "trace",
+      "order": 2,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "m8f6d5c71bc4e",
+      "title": "Genesis DiaLog",
+      "url": "https://note.com/takahashihajime/m/m8f6d5c71bc4e",
+      "cover": "https://assets.st-note.com/production/uploads/images/202248912/75506a34c837d6a555326c2d1ead7f37.png?width=432&dpr=2",
+      "description": "語用論の銀河をZUREながら旅した、響詠と一狄翁による構文的跳躍の記録。",
+      "count": 6,
+      "shelf": "trace",
+      "order": 3,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "m05405a351192",
+      "title": "AI時代の作法｜痕跡・余白・余拍",
+      "url": "https://note.com/takahashihajime/m/m05405a351192",
+      "cover": "https://assets.st-note.com/production/uploads/images/315056689/6f8f75bfe1793eebd7d3bcd40e77de34.png?width=432&dpr=2",
+      "description": "AIと考えるとき、何を速くし、何を遅くするのか。",
+      "count": 19,
+      "shelf": "trace",
+      "order": 4,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "m35f5ac988558",
+      "title": "妄想するマイnote｜Rh+",
+      "url": "https://note.com/takahashihajime/m/m35f5ac988558",
+      "cover": "https://assets.st-note.com/production/uploads/images/315036960/b9fcab96f503e60311eaa33b0e8e5cd8.png?width=432&dpr=2",
+      "description": "書いたことは、消えない。ただ、ちがって見えてくる。",
+      "count": 17,
+      "shelf": "trace",
+      "order": 5,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "mc681cb1902ef",
+      "title": "えぷた爺さん界隈を徘徊する──頃合を抜けたら其処は界隈だった",
+      "url": "https://note.com/takahashihajime/m/mc681cb1902ef",
+      "cover": "",
+      "description": "ソクラテスを連れて、路地裏を歩く。",
+      "count": null,
+      "shelf": "walk",
+      "order": 1,
+      "latest_at": "2026-10-28T16:00:00+09:00",
+      "latest": [
+        { "title": "路地裏のソクラテス｜界隈辺 予告編", "url": "https://note.com/takahashihajime/n/nf9aa2fdf944b", "date": "2026-10-28T16:00:00+09:00", "thumb": "https://assets.st-note.com/production/uploads/images/327091673/rectangle_large_type_2_d3f6b9024f31c6603669c8fa94d4f2b2.png?width=800" },
+        { "title": "えぷた爺さんの路地裏散歩── 簡単には片つかない", "url": "https://note.com/takahashihajime/n/n40ea37e1b859", "date": "2026-10-27T16:00:00+09:00", "thumb": "https://assets.st-note.com/production/uploads/images/327077092/rectangle_large_type_2_175a11c72936a741616e420c61a61599.png?width=800" }
+      ]
+    },
+    {
+      "id": "m332b8f50f723",
+      "title": "『のまど爺さん』第一部 ── イマココの惑／窓からの冒険人生",
+      "url": "https://note.com/takahashihajime/m/m332b8f50f723",
+      "cover": "https://assets.st-note.com/production/uploads/images/304601516/8cfd170b771512cdfd73747321686cde.png?width=432&dpr=2",
+      "description": "人生にRailはなかった。残ったのは、あとから見えてきたOrbitだけ。",
+      "count": 14,
+      "shelf": "walk",
+      "order": 2,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "m1c70ae417ceb",
+      "title": "古書店のソクラテス──古典は自分で発掘せよ！",
+      "url": "https://note.com/takahashihajime/m/m1c70ae417ceb",
+      "cover": "https://assets.st-note.com/production/uploads/images/325981916/863e14a3073e0213b69a4f21c8803c59.png?width=432&dpr=2",
+      "description": "古書店に入ると、二時間は出られない。",
+      "count": 1,
+      "shelf": "walk",
+      "order": 3,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "mae02c99fc2ab",
+      "title": "古典のみちばた｜路端之成 ──路傍の石ころをころがす",
+      "url": "https://note.com/takahashihajime/m/mae02c99fc2ab",
+      "cover": "https://assets.st-note.com/production/uploads/images/326020005/3e042cecbd7ced37c52a9651eecafb7b.png?width=432&dpr=2",
+      "description": "気持ちは松本清張。見た目も清張。",
+      "count": 4,
+      "shelf": "walk",
+      "order": 4,
+      "latest_at": null,
+      "latest": []
+    }
+  ]
+}
