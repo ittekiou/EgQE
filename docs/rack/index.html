@@ -26,6 +26,8 @@
   header .sub{color:var(--sub);margin:4px 0 0}
   header .motto{margin:14px 0 0;font-size:15px}
   header .motto b{font-weight:600}
+  header .mini{margin:6px 0 0;font-size:12px;color:var(--sub);letter-spacing:.02em}
+  header .mini a{color:var(--sub)}
   .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:24px 0 8px}
   .bar button{font:inherit;font-size:14px;border:1px solid var(--line);background:var(--paper);color:var(--ink);
     padding:6px 14px;border-radius:999px;cursor:pointer}
@@ -68,11 +70,12 @@
     <h1 id="title">Living RACK</h1>
     <p class="sub" id="subtitle">noteマガジン書庫</p>
     <p class="motto"><b>束はnoteに。表紙はここに。</b>　表紙と棚は手で並べる。新着は勝手に届く。</p>
+    <p class="mini">No Rail. No Track. Next Nest.　Now Emulsifying!　<a href="https://www.are.na/dream-no-track-kuykyopogvu/note-rack">note RACK ↗</a></p>
   </header>
 
   <div class="bar" role="group" aria-label="並べ方">
-    <button data-view="shelf" aria-pressed="true">棚ごと</button>
-    <button data-view="recent" aria-pressed="false">新着順</button>
+    <button data-view="recent" aria-pressed="true">新着順</button>
+    <button data-view="shelf" aria-pressed="false">棚ごと</button>
     <button data-view="all" aria-pressed="false">ぜんぶ</button>
     <span class="stamp" id="stamp"></span>
   </div>
@@ -90,8 +93,8 @@
 (() => {
   const NEW_DAYS = 7;
   const $rack = document.getElementById('rack');
-  let data = null, view = 'shelf';
-  try { view = localStorage.getItem('rack-view') || 'shelf'; } catch (e) {}
+  let data = null, view = 'recent';
+  try { view = localStorage.getItem('rack-view') || 'recent'; } catch (e) {}
 
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const ymd = iso => { const d = new Date(iso); return isNaN(d) ? '' : `${d.getFullYear()}.${String(d.getMonth()+1).padStart(2,'0')}.${String(d.getDate()).padStart(2,'0')}`; };
@@ -103,7 +106,7 @@
     const cover = img
       ? `<span class="ph">${esc(m.title)}</span><img src="${esc(img)}" alt="" loading="lazy" style="position:relative" onerror="this.remove()">${fallback ? '<span class="auto">最新記事の画像</span>' : ''}`
       : `<span class="ph">${esc(m.title)}</span>`;
-    const latest = (m.latest || []).slice(0, 3).map(a =>
+    const latest = (m.latest || []).slice(0, isNew(m.latest_at) ? 5 : 3).map(a =>
       `<li><time datetime="${esc(a.date)}">${ymd(a.date)}</time><a href="${esc(a.url)}">${esc(a.title)}</a></li>`).join('');
     const meta = [m.count != null ? `${m.count}本` : '', m.latest_at ? `最終更新 ${ymd(m.latest_at)}` : ''].filter(Boolean).join('　');
     return `<article class="card">
