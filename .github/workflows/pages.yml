@@ -6,6 +6,8 @@ name: Deploy EgQE (with search)
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: "17 */6 * * *"   # 6時間ごとに公開し直す（Living RACK の新着を取りに行くため）
   workflow_dispatch:
 
 permissions:
@@ -25,6 +27,9 @@ jobs:
       - uses: actions/configure-pages@v5
       - name: Build search index
         run: python3 tools/build_search_index.py docs
+      - name: Refresh Living RACK (note RSS)
+        run: python3 tools/update_rack.py docs/rack/rack.json
+        continue-on-error: true   # noteが応答しなくても、サイトの公開は止めない
       - name: Build with Jekyll (same as classic GitHub Pages)
         uses: actions/jekyll-build-pages@v1
         with:
