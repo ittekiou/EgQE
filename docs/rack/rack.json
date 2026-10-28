@@ -1086,7 +1086,26 @@
       "feed": "https://campus6214.substack.com/feed",
       "link": "https://campus6214.substack.com/",
       "linkLabel": "購読する ↗",
-      "items": []
+      "items": [
+        {
+          "title": "E-Zy Daystrance 🥚｜創刊号",
+          "url": "https://campus6214.substack.com/p/e-zy-daystrance",
+          "image": "https://substackcdn.com/image/fetch/$s_!Mesv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c4600-5c55-497d-b2bd-1114d5e2f9b2_1214x1295.png",
+          "date": "2026-10-24T09:43:30+09:00"
+        },
+        {
+          "title": "pre-πed lag letter 🌗 OBOROMOOON 🌙 mooon lite express",
+          "url": "https://campus6214.substack.com/p/pre-ed-lag-letter-oboromooon-mooon-7dd",
+          "image": "https://substackcdn.com/image/fetch/$s_!imL4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f29053d-f42f-4056-b762-e11420feaed3_1254x1254.png",
+          "date": "2026-10-07T19:55:54+09:00"
+        },
+        {
+          "title": "pre-πed lag letter 🌕 OBOROMOOON 🌙 mooon lite express",
+          "url": "https://campus6214.substack.com/p/pre-ed-lag-letter-oboromooon-mooon-68c",
+          "image": "https://substackcdn.com/image/fetch/$s_!imL4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f29053d-f42f-4056-b762-e11420feaed3_1254x1254.png",
+          "date": "2026-09-29T11:59:01+09:00"
+        }
+      ]
     }
   ]
 }
