@@ -1,7 +1,7 @@
 {
   "title": "Living RACK",
   "subtitle": "一狄 啓のnoteマガジン書庫",
-  "updated": "2026-10-28T18:45:00+09:00",
+  "updated": "2026-10-28T20:50:00+09:00",
   "shelves": [
     {
       "id": "publish",
@@ -107,7 +107,7 @@
       "description": "語用論の銀河をZUREながら旅した、響詠と一狄翁による構文的跳躍の記録。",
       "count": 6,
       "shelf": "trace",
-      "order": 3,
+      "order": 4,
       "latest_at": null,
       "latest": []
     },
@@ -119,7 +119,7 @@
       "description": "AIと考えるとき、何を速くし、何を遅くするのか。",
       "count": 19,
       "shelf": "trace",
-      "order": 4,
+      "order": 5,
       "latest_at": null,
       "latest": []
     },
@@ -131,7 +131,7 @@
       "description": "書いたことは、消えない。ただ、ちがって見えてくる。",
       "count": 17,
       "shelf": "trace",
-      "order": 5,
+      "order": 6,
       "latest_at": null,
       "latest": []
     },
@@ -180,7 +180,7 @@
       "description": "古書店に入ると、二時間は出られない。",
       "count": 1,
       "shelf": "walk",
-      "order": 3,
+      "order": 4,
       "latest_at": null,
       "latest": []
     },
@@ -192,7 +192,67 @@
       "description": "気持ちは松本清張。見た目も清張。",
       "count": 4,
       "shelf": "walk",
+      "order": 5,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "m55046e86fd10",
+      "title": "一狄翁の全Trace｜全記事定期購読",
+      "url": "https://note.com/takahashihajime/m/m55046e86fd10",
+      "cover": "https://assets.st-note.com/production/uploads/images/315042342/d00912ec4980c3a9e00063ca57814ee6.png?width=432&dpr=2",
+      "description": "書いたものを、ぜんぶ置いておく。",
+      "count": null,
+      "shelf": "publish",
+      "order": 0,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "m4f10c70534da",
+      "title": "Areå.na｜アリ穴 🐜──増殖するAre.naドリーム",
+      "url": "https://note.com/takahashihajime/m/m4f10c70534da",
+      "cover": "https://assets.st-note.com/production/uploads/images/329447359/ea85292131c4a3179d1d2f530e424cf2.png?width=432&dpr=2",
+      "description": "Are.naで遊んでいたら、穴が増え、棚ができ、巣がつながった。",
+      "count": 5,
+      "shelf": "publish",
       "order": 4,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "me4cbed937644",
+      "title": "AI -ZIN- Letter｜月刊 noteマガジン",
+      "url": "https://note.com/takahashihajime/m/me4cbed937644",
+      "cover": "https://assets.st-note.com/production/uploads/images/318716924/834360ba2329f7480c7ffd5868d9dd69.png?width=432&dpr=2",
+      "description": "AIには、いろんな意味がある。",
+      "count": 3,
+      "shelf": "publish",
+      "order": 5,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "mb682f3ac29d8",
+      "title": "EgQE Satellite｜理論の軌道通信",
+      "url": "https://note.com/takahashihajime/m/mb682f3ac29d8",
+      "cover": "https://assets.st-note.com/production/uploads/images/315051770/6d9599fb450d5ea3c9402375d21e75bf.png?width=432&dpr=2",
+      "description": "理論は、完成してから届くとは限らない。",
+      "count": 21,
+      "shelf": "trace",
+      "order": 3,
+      "latest_at": null,
+      "latest": []
+    },
+    {
+      "id": "m57dd725eeaac",
+      "title": "何処へ？── 不可逆更新する現在",
+      "url": "https://note.com/takahashihajime/m/m57dd725eeaac",
+      "cover": "https://assets.st-note.com/production/uploads/images/319829472/a463f9ae945c70aafec18d4f37c9184a.png?width=432&dpr=2",
+      "description": "パンドラの箱は、とうの昔に開いている。",
+      "count": 20,
+      "shelf": "walk",
+      "order": 3,
       "latest_at": null,
       "latest": []
     }
