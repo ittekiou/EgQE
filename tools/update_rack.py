@@ -26,7 +26,7 @@ from datetime import datetime, timezone, timedelta
 JST = timezone(timedelta(hours=9))
 MEDIA = "{http://search.yahoo.com/mrss/}"
 UA = "LivingRACK/0.2 (+https://camp-us.net/rack/)"
-KEEP = 3          # 一冊あたり残す新着の数
+KEEP = 5          # 一冊あたり残す新着の数（ページでは入荷中だけ5件、ほかは3件）
 PAUSE = 1.0       # 一回ごとの待ち時間（秒）。noteに負担をかけない
 DESC_MAX = 80     # 説明文を自動で入れるときの最大文字数
 
