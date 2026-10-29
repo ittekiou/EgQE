@@ -1,6 +1,6 @@
 {
   "title": "Living RACK",
-  "subtitle": "一狄 啓のnoteマガジン書庫",
+  "subtitle": "SCREP -処-｜新刊のある古書店",
   "updated": "2026-10-28T21:40:00+09:00",
   "shelves": [
     {
@@ -1071,7 +1071,7 @@
     {
       "id": "books",
       "kind": "book",
-      "name": "🍮 新刊｜Just Out",
+      "name": "🍮 新刊本｜Just Out",
       "note": "焼きたての本。Amazonへ。",
       "feed": "https://www.are.na/kei-itteki/just-out/feed/rss",
       "link": "https://www.are.na/kei-itteki/just-out",
@@ -1082,7 +1082,7 @@
     {
       "id": "letters",
       "kind": "letter",
-      "name": "📮 図書だより｜Camp@Us",
+      "name": "📮 便り｜EgSS",
       "note": "Substackから届くレター。号を出したら、RSSを貼って入荷。",
       "feed": "file:docs/rack/feeds/substack.xml",
       "link": "https://campus6214.substack.com/",
@@ -1111,8 +1111,8 @@
     {
       "id": "voice",
       "kind": "audio",
-      "name": "🎙 声の棚",
-      "note": "一人語りのポッドキャスト。読むならLISTEN、聞く・見るならstand.fmとYouTube。",
+      "name": "🎙 聲｜E-Try Cast",
+      "note": "一人語りのポッドキャスト。読むならLISTEN、聞くならstand.fm、見るならYouTube。",
       "link": "https://www.youtube.com/@Camp_us_6214",
       "linkLabel": "YouTube ↗",
       "groups": [
@@ -1121,19 +1121,27 @@
           "feeds": [
             "https://listen.style/following/rss?token=eyJpdiI6IitVa1dSS2RJM1p2bG45R01rdEpWcWc9PSIsInZhbHVlIjoiYkt6VnJCNVhCbU5xY0NuZUlLd09IQT09IiwibWFjIjoiNDViNzVkZTkyNDgwZDcyZjFjNDg1MDNmNDMxNjc2MDdmYjcxODIxZWU5OTBjMDJlMzlkZjRiYTA5OWFlODYzYiIsInRhZyI6IiJ9"
           ],
-          "keep": 10,
+          "keep": 5,
           "items": []
         },
         {
-          "label": "stand.fm・YouTube",
+          "label": "stand.fm",
           "feeds": [
-            "https://stand.fm/rss/64350aa79afdfc28ca754fac",
+            "https://stand.fm/rss/64350aa79afdfc28ca754fac"
+          ],
+          "keep": 3,
+          "items": []
+        },
+        {
+          "label": "YouTube",
+          "feeds": [
             [
               "https://www.youtube.com/feeds/videos.xml?channel_id=UCvePxKHHum_KbF2MGdga7BA",
-              "https://www.youtube.com/feeds/videos.xml?playlist_id=UUvePxKHHum_KbF2MGdga7BA"
+              "https://www.youtube.com/feeds/videos.xml?playlist_id=UUvePxKHHum_KbF2MGdga7BA",
+              "file:docs/rack/feeds/youtube.xml"
             ]
           ],
-          "keep": 10,
+          "keep": 5,
           "items": []
         }
       ]

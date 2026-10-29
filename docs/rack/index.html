@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Living RACK｜noteマガジン書庫</title>
-<meta name="description" content="束はnoteに。表紙はここに。一狄 啓のnoteマガジンを、表紙を向けて並べる書庫。">
+<title>Living RACK｜SCREP -処-</title>
+<meta name="description" content="SCREP -処-｜新刊のある古書店。新刊本、便り、聲、雑誌を、表紙を向けて並べる。">
 <style>
   :root{
     --bg:#f4efe6; --paper:#fbf8f2; --ink:#2b2621; --sub:#6f665c; --line:#ddd3c4;
@@ -28,6 +28,8 @@
   header .motto b{font-weight:600}
   header .mini{margin:6px 0 0;font-size:12px;color:var(--sub);letter-spacing:.02em}
   header .mini a{color:var(--sub)}
+  .maghead{margin-bottom:0}
+  .maghead + .bar{margin-top:6px}
   .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:24px 0 8px}
   .bar button{font:inherit;font-size:14px;border:1px solid var(--line);background:var(--paper);color:var(--ink);
     padding:6px 14px;border-radius:999px;cursor:pointer}
@@ -48,7 +50,7 @@
   .book.video .bc{aspect-ratio:16/9}
   .book .bd{display:block;font-size:11px;color:var(--sub);margin-top:2px}
   .gsep{flex:none;align-self:stretch;width:1px;background:var(--line);margin:0 6px}
-  .glabel{flex:none;writing-mode:vertical-rl;font-size:11px;color:var(--sub);letter-spacing:.1em;padding:2px 0}
+  .glabel{flex:none;scroll-snap-align:start;writing-mode:vertical-rl;font-size:11px;color:var(--sub);letter-spacing:.1em;padding:2px 0}
   .book .bt{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:12px;line-height:1.45;margin-top:6px}
   .book:hover .bt{text-decoration:underline}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:18px}
@@ -82,11 +84,14 @@
 <div class="wrap">
   <header>
     <h1 id="title">Living RACK</h1>
-    <p class="sub" id="subtitle">noteマガジン書庫</p>
-    <p class="motto"><b>束はnoteに。表紙はここに。</b>　表紙と棚は手で並べる。新着は勝手に届く。</p>
+    <p class="sub" id="subtitle">SCREP -処-｜新刊のある古書店</p>
+    <p class="motto"><b>束はあちこちに。表紙はここに。</b>　表紙と棚は手で並べる。新着は勝手に届く。</p>
     <p class="mini">No Rail. No Track. Next Nest.　Now Emulsifying!　<a href="https://www.are.na/dream-no-track-kuykyopogvu/note-rack">note RACK ↗</a></p>
   </header>
 
+  <div id="rows"></div>
+
+  <section class="shelf maghead"><h2>📬 雑誌｜SCREP -処-</h2><p class="note">noteのマガジン。並べ方を選べます。</p></section>
   <div class="bar" role="group" aria-label="並べ方">
     <button data-view="recent" aria-pressed="true">新着順</button>
     <button data-view="shelf" aria-pressed="false">棚ごと</button>
@@ -163,12 +168,13 @@
       if (loose.length) html += `<section class="shelf"><h2>🌱 まだ棚のないもの</h2><p class="note">${loose.length}冊。これから棚に分ける。</p><div class="board">${grid(loose)}</div></section>`;
     } else if (view === 'recent') {
       const list = [...mags].sort((a, b) => (b.latest_at ? Date.parse(b.latest_at) : 0) - (a.latest_at ? Date.parse(a.latest_at) : 0));
-      html = `<section class="shelf"><h2>📬 新着順</h2><p class="note">記事が最近届いた順。手で決めた棚の並びは、そのまま残っています。</p><div class="board">${grid(list)}</div></section>`;
+      html = `<section class="shelf"><h2>新着順</h2><p class="note">記事が最近届いた順。手で決めた棚の並びは、そのまま残っています。</p><div class="board">${grid(list)}</div></section>`;
     } else {
       const list = [...mags].sort((a, b) => a.title.localeCompare(b.title, 'ja'));
-      html = `<section class="shelf"><h2>📚 ぜんぶ</h2><p class="note">${mags.length}冊</p><div class="board">${grid(list)}</div></section>`;
+      html = `<section class="shelf"><h2>ぜんぶ</h2><p class="note">${mags.length}冊</p><div class="board">${grid(list)}</div></section>`;
     }
-    $rack.innerHTML = rowsHtml() + html;
+    document.getElementById('rows').innerHTML = rowsHtml();
+    $rack.innerHTML = html;
     document.querySelectorAll('.bar button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.view === view)));
   }
 
