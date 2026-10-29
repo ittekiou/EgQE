@@ -1145,6 +1145,18 @@
           "items": []
         }
       ]
+    },
+    {
+      "id": "papers",
+      "kind": "paper",
+      "position": "after",
+      "name": "📜 紀要｜EgQE",
+      "note": "camp-us.net の論文と研究ノート。新しい順に12件。",
+      "source": "whatsnew:docs/WhatsNew.md",
+      "keep": 12,
+      "link": "https://camp-us.net/WhatsNew.html",
+      "linkLabel": "更新情報 ↗",
+      "items": []
     }
   ]
 }

@@ -51,6 +51,21 @@
   .book .bd{display:block;font-size:11px;color:var(--sub);margin-top:2px}
   .gsep{flex:none;align-self:stretch;width:1px;background:var(--line);margin:0 6px}
   .glabel{flex:none;scroll-snap-align:start;writing-mode:vertical-rl;font-size:11px;color:var(--sub);letter-spacing:.1em;padding:2px 0}
+  .papers{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+  .paper{display:flex;flex-direction:column;gap:4px;background:var(--paper);border:1px solid var(--line);border-left:4px solid var(--wood);border-radius:4px;padding:10px 12px;text-decoration:none;box-shadow:var(--shadow)}
+  .paper:hover .pt{text-decoration:underline}
+  .paper .pc{font-size:11px;color:var(--sub);letter-spacing:.04em}
+  .paper .pt{font-size:14px;line-height:1.5;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .paper .pd{font-size:11px;color:var(--sub);margin-top:auto}
+  .more{display:block;margin:14px auto 0;font:inherit;font-size:14px;border:1px solid var(--line);background:var(--paper);color:var(--ink);padding:8px 20px;border-radius:999px;cursor:pointer}
+  details.shelfbox{border-bottom:1px solid var(--line);padding:6px 0}
+  details.shelfbox > summary{cursor:pointer;list-style:none;display:flex;align-items:baseline;gap:10px;padding:8px 0}
+  details.shelfbox > summary::-webkit-details-marker{display:none}
+  details.shelfbox > summary::before{content:"▸";color:var(--sub);font-size:12px;transition:transform .15s}
+  details.shelfbox[open] > summary::before{transform:rotate(90deg)}
+  details.shelfbox > summary h3{margin:0;font-size:17px}
+  details.shelfbox > summary .cnt{font-size:12px;color:var(--sub)}
+  details.shelfbox .grid{margin:8px 0 16px}
   .book .bt{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:12px;line-height:1.45;margin-top:6px}
   .book:hover .bt{text-decoration:underline}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:18px}
@@ -101,6 +116,8 @@
 
   <main id="rack"></main>
 
+  <div id="rows-after"></div>
+
   <footer>
     <p>Living RACKs　愛称 LiRax（リラックス）</p>
     <p>No Rail. No Track. Next Nest.</p>
@@ -114,7 +131,8 @@
 (() => {
   const NEW_DAYS = 7;
   const $rack = document.getElementById('rack');
-  let data = null, view = 'recent';
+  let data = null, view = 'recent', showAll = false;
+  const FIRST = 8;   // 新着順で最初に見せる冊数
   try { view = localStorage.getItem('rack-view') || 'recent'; } catch (e) {}
 
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -142,10 +160,24 @@
 
   const grid = list => `<div class="grid">${list.map(card).join('')}</div>`;
 
-  function rowsHtml() {
+  function papersHtml(r) {
+    const items = (r.items || []);
+    if (!items.length) return '';
+    const cards = items.map(x => {
+      const i = x.title.indexOf('｜');
+      const code = i > 0 && i < 24 ? x.title.slice(0, i) : '';
+      const title = code ? x.title.slice(i + 1) : x.title;
+      return `<a class="paper" href="${esc(x.url)}">${code ? `<span class="pc">${esc(code)}</span>` : ''}<span class="pt">${esc(title)}</span>${x.date ? `<span class="pd">${ymd(x.date)}</span>` : ''}</a>`;
+    }).join('');
+    const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : ''].filter(Boolean).join('　');
+    return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="papers">${cards}</div></div></section>`;
+  }
+
+  function rowsHtml(pos) {
     const card = (x, kind) => `<a class="book ${kind}" href="${esc(x.url)}"><span class="bc"><span class="ph">${esc(x.title)}</span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${kind !== 'book' && x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`;
-    return (data.rows || []).map(r => {
+    return (data.rows || []).filter(r => (r.position || 'before') === pos).map(r => {
       const kind = r.kind || 'book';
+      if (kind === 'paper') return papersHtml(r);
       const groups = r.groups || [r];
       const parts = groups.filter(g => g.items && g.items.length).map((g, i) =>
         (i ? '<span class="gsep"></span>' : '') + (g.label && r.groups ? `<span class="glabel">${esc(g.label)}</span>` : '') + g.items.map(x => card(x, kind)).join(''));
@@ -159,24 +191,31 @@
     const mags = data.magazines.filter(m => !m.hidden && m.title);
     let html = '';
     if (view === 'shelf') {
-      for (const s of data.shelves) {
-        const list = mags.filter(m => m.shelf === s.id).sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
+      for (const sh of data.shelves) {
+        const list = mags.filter(m => m.shelf === sh.id).sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
         if (!list.length) continue;
-        html += `<section class="shelf"><h2>${esc(s.name)}</h2>${s.note ? `<p class="note">${esc(s.note)}</p>` : ''}<div class="board">${grid(list)}</div></section>`;
+        const fresh = list.filter(m => isNew(m.latest_at)).length;
+        html += `<details class="shelfbox"><summary><h3>${esc(sh.name)}</h3><span class="cnt">${list.length}冊${fresh ? `・入荷${fresh}` : ''}</span></summary>${sh.note ? `<p class="note">${esc(sh.note)}</p>` : ''}${grid(list)}</details>`;
       }
-      const loose = mags.filter(m => !data.shelves.some(s => s.id === m.shelf));
+      const loose = mags.filter(m => !data.shelves.some(sh => sh.id === m.shelf));
       loose.sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
-      if (loose.length) html += `<section class="shelf"><h2>🌱 まだ棚のないもの</h2><p class="note">${loose.length}冊。これから棚に分ける。</p><div class="board">${grid(loose)}</div></section>`;
+      if (loose.length) html += `<details class="shelfbox"><summary><h3>🌱 まだ棚のないもの</h3><span class="cnt">${loose.length}冊</span></summary>${grid(loose)}</details>`;
+      html = `<section class="shelf"><h2>棚ごと</h2><p class="note">棚の名前を押すと開きます。</p>${html}</section>`;
     } else if (view === 'recent') {
       const list = [...mags].sort((a, b) => (b.latest_at ? Date.parse(b.latest_at) : 0) - (a.latest_at ? Date.parse(a.latest_at) : 0));
-      html = `<section class="shelf"><h2>新着順</h2><p class="note">記事が最近届いた順。手で決めた棚の並びは、そのまま残っています。</p><div class="board">${grid(list)}</div></section>`;
+      const shown = showAll ? list : list.slice(0, FIRST);
+      const rest = list.length - shown.length;
+      html = `<section class="shelf"><h2>新着順</h2><p class="note">記事が最近届いた順。手で決めた棚の並びは、そのまま残っています。</p><div class="board">${grid(shown)}${rest > 0 ? `<button class="more" id="more">もっと見る（あと${rest}冊）</button>` : (showAll && list.length > FIRST ? `<button class="more" id="more">たたむ</button>` : '')}</div></section>`;
     } else {
       const list = [...mags].sort((a, b) => a.title.localeCompare(b.title, 'ja'));
       html = `<section class="shelf"><h2>ぜんぶ</h2><p class="note">${mags.length}冊</p><div class="board">${grid(list)}</div></section>`;
     }
-    document.getElementById('rows').innerHTML = rowsHtml();
+    document.getElementById('rows').innerHTML = rowsHtml('before');
+    document.getElementById('rows-after').innerHTML = rowsHtml('after');
     $rack.innerHTML = html;
     document.querySelectorAll('.bar button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.view === view)));
+    const more = document.getElementById('more');
+    if (more) more.addEventListener('click', () => { showAll = !showAll; render(); if (!showAll) document.querySelector('.maghead').scrollIntoView({behavior: 'smooth'}); });
   }
 
   document.querySelectorAll('.bar button').forEach(b => b.addEventListener('click', () => {
