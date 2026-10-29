@@ -224,39 +224,46 @@ def fill_group(grp, rid, sort=True):
         grp["items"] = got[:grp.get("keep", ROW_KEEP)]
 
 
-FEED_KEEP = 60    # 棚のRSS（feed.xml）に載せる数
+FEED_KEEP = 20    # 一本のRSSに載せる数（リーダー側は前の分を覚えているので、少なめでよい）
 PAGE = SITE + "/rack/"
+PR_NOTE = "新刊の項目にはAmazonアソシエイトリンクを含みます（PR）。"
 
 
-def write_feed(rack, out):
-    """棚の新着を、一本のRSS（rack/feed.xml）に書き出す。
-    本・便り・聲・紀要・雑誌の記事を、新しい順に FEED_KEEP 件。リンクは元の場所へ。
-    雑誌は冊ごとではなく記事ごとに数える（同じ日に同じ冊へ何本入っても取りこぼさない）。"""
-    from xml.sax.saxutils import escape as esc
-    from email.utils import format_datetime
-    entries = []
+def collect_entries(rack):
+    """棚の中身を、RSSの一項目ずつに並べる。どの段・どの棚のものかの札を付けておく。
+    雑誌は冊ごとではなく記事ごと（同じ日に同じ冊へ何本入っても取りこぼさない）。"""
+    out = []
 
-    def add(it, cat, pr=False):
+    def add(it, cat, tags, pr=False):
         if it.get("title") and it.get("url"):
-            entries.append((it.get("date") or "", it["title"], it["url"],
-                            it.get("image") or it.get("thumb") or "", cat, pr))
+            out.append({"date": it.get("date") or "", "title": it["title"], "url": it["url"],
+                        "image": it.get("image") or it.get("thumb") or "",
+                        "cat": cat, "tags": tags, "pr": pr})
 
     for row in rack.get("rows", []):
-        name = row.get("name", "")
+        name, rid = row.get("name", ""), row.get("id", "")
         pr = row.get("kind") == "book"              # 新刊の段はAmazonアソシエイトリンク
         for grp in (row.get("groups") or [row]):
             cat = name + ("｜" + grp["label"] if grp.get("label") and grp is not row else "")
             for it in grp.get("items", []):
-                add(it, cat, pr)
+                add(it, cat, {"row:" + rid}, pr)
     for m in rack.get("magazines", []):
-        if not m.get("hidden"):
-            for it in m.get("latest", []):          # 記事ごと（同じ記事が複数の冊にあっても、下で一つにまとめる）
-                add(it, "📬 雑誌｜" + (m.get("title") or ""))
+        if m.get("hidden"):
+            continue
+        tags = {"row:magazines", "shelf:" + (m.get("shelf") or "")}
+        for it in m.get("latest", []):
+            add(it, "📬 雑誌｜" + (m.get("title") or ""), tags)
+    return out
 
+
+def write_feed(entries, out, title, desc, page=PAGE):
+    """entries を新しい順に FEED_KEEP 件、RSS 2.0 で書き出す。同じURLは一つにまとめる。"""
+    from xml.sax.saxutils import escape as esc
+    from email.utils import format_datetime
     seen, items = set(), []
-    for e in sorted(entries, key=lambda e: e[0], reverse=True):
-        if e[2] not in seen:
-            seen.add(e[2])
+    for e in sorted(entries, key=lambda e: e["date"], reverse=True):
+        if e["url"] not in seen:
+            seen.add(e["url"])
             items.append(e)
     items = items[:FEED_KEEP]
 
@@ -266,38 +273,57 @@ def write_feed(rack, out):
         except Exception:
             return ""
 
-    now = format_datetime(datetime.now(JST).replace(microsecond=0))
+    name = out.replace("\\", "/").rsplit("/", 1)[-1]
+    if any(e["pr"] for e in items):
+        desc += PR_NOTE
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">',
         "<channel>",
-        "<title>Living RACKs｜SCREP -処-</title>",
-        f"<link>{PAGE}</link>",
-        f'<atom:link href="{PAGE}feed.xml" rel="self" type="application/rss+xml"/>',
-        "<description>" + esc("束はあちこちに。表紙はここに。本・便り・聲・雑誌・紀要の新着。"
-                              "新刊の項目にはAmazonアソシエイトリンクを含みます（PR）。") + "</description>",
+        f"<title>{esc(title)}</title>",
+        f"<link>{page}</link>",
+        f'<atom:link href="{PAGE}{name}" rel="self" type="application/rss+xml"/>',
+        f"<description>{esc(desc)}</description>",
         "<language>ja</language>",
-        f"<lastBuildDate>{now}</lastBuildDate>",
+        f"<lastBuildDate>{format_datetime(datetime.now(JST).replace(microsecond=0))}</lastBuildDate>",
     ]
-    for date, title, url, img, cat, pr in items:
-        desc = esc(cat) + ("（PR）" if pr else "")
-        if img:
-            desc += esc(f'<br><img src="{img}" alt="">')
+    for e in items:
+        d = esc(e["cat"]) + ("（PR）" if e["pr"] else "")
+        if e["image"]:
+            d += esc(f'<br><img src="{e["image"]}" alt="">')
         lines += ["<item>",
-                  f"<title>{esc(title)}</title>",
-                  f"<link>{esc(url)}</link>",
-                  f'<guid isPermaLink="true">{esc(url)}</guid>',
-                  f"<category>{esc(cat)}</category>",
-                  f"<description>{desc}</description>"]
-        if rfc(date):
-            lines.append(f"<pubDate>{rfc(date)}</pubDate>")
-        if img:
-            lines.append(f'<media:thumbnail url="{esc(img)}"/>')
+                  f"<title>{esc(e['title'])}</title>",
+                  f"<link>{esc(e['url'])}</link>",
+                  f'<guid isPermaLink="true">{esc(e["url"])}</guid>',
+                  f"<category>{esc(e['cat'])}</category>",
+                  f"<description>{d}</description>"]
+        if rfc(e["date"]):
+            lines.append(f"<pubDate>{rfc(e['date'])}</pubDate>")
+        if e["image"]:
+            lines.append(f'<media:thumbnail url="{esc(e["image"])}"/>')
         lines.append("</item>")
     lines += ["</channel>", "</rss>", ""]
     with open(out, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
     print(f"feed: {len(items)} items -> {out}")
+
+
+def write_feeds(rack, folder):
+    """ぜんぶ（feed.xml）、段ごと（feed-books.xml など）、雑誌の棚ごと（feed-shelf-walk.xml など）。"""
+    import os
+    entries = collect_entries(rack)
+    base = "Living RACKs｜SCREP -処-"
+    motto = "束はあちこちに。表紙はここに。"
+    write_feed(entries, os.path.join(folder, "feed.xml"), base,
+               motto + "本・便り・聲・雑誌・紀要の新着。")
+    for row in rack.get("rows", []) + [{"id": "magazines", "name": "📬 雑誌｜SCREP -処-"}]:
+        sub = [e for e in entries if "row:" + row["id"] in e["tags"]]
+        write_feed(sub, os.path.join(folder, f"feed-{row['id']}.xml"),
+                   f"{base}｜{row['name']}", motto + row.get("note", ""))
+    for sh in rack.get("shelves", []):
+        sub = [e for e in entries if "shelf:" + sh["id"] in e["tags"]]
+        write_feed(sub, os.path.join(folder, f"feed-shelf-{sh['id']}.xml"),
+                   f"{base}｜{sh['name']}", motto + "noteマガジンの棚。" + sh.get("note", ""))
 
 
 def main(path):
@@ -374,7 +400,7 @@ def main(path):
     # 同じ中身を、RSSでも配る（rack.json の隣に feed.xml）
     import os
     try:
-        write_feed(rack, os.path.join(os.path.dirname(path) or ".", "feed.xml"))
+        write_feeds(rack, os.path.dirname(path) or ".")
     except Exception as e:
         print(f"no feed: {e}", file=sys.stderr)
 
