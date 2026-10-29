@@ -32,6 +32,9 @@ DESC_MAX = 80     # 説明文を自動で入れるときの最大文字数
 
 
 def fetch(url):
+    if url.startswith("file:"):                     # 爺さんが手で貼ったRSS（リポジトリの中のファイル）
+        with open(url[5:], "rb") as f:
+            return f.read().strip()
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml;q=0.9, text/html;q=0.8, */*;q=0.5"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read()
@@ -166,21 +169,27 @@ def read_row(feed_url, sort=True):
 def fill_group(grp, rid, sort=True):
     """feed が一本なら "feed"、いくつも混ぜるなら "feeds": [...]。
     一本でも取れたら items を入れ替え、全部だめなら前の中身のまま。"""
-    urls = [feed_url_of({"feed": f}) for f in grp.get("feeds", [])] or [feed_url_of(grp)]
-    urls = [u for u in urls if u]
-    if not urls:
+    # feeds の一つが ["A", "B"] のような並びなら、A がだめなときだけ B を試す（予備の住所）
+    feeds = grp.get("feeds") or [grp.get("feed")]
+    feeds = [f for f in feeds if f]
+    if not feeds:
         return
     got, ok = [], 0
-    for url in urls:
-        try:
-            got += read_row(url, sort)
-            ok += 1
-            print(f"ok row {rid}: {url[:60]}")
-        except Exception as e:
-            print(f"skip row {rid}: {url[:60]}: {e}", file=sys.stderr)
-        time.sleep(PAUSE)
+    for f in feeds:
+        for url in [feed_url_of({"feed": x}) for x in (f if isinstance(f, list) else [f])]:
+            if not url:
+                continue
+            try:
+                got += read_row(url, sort)
+                ok += 1
+                print(f"ok row {rid}: {url[:60]}")
+                time.sleep(PAUSE)
+                break
+            except Exception as e:
+                print(f"skip row {rid}: {url[:60]}: {e}", file=sys.stderr)
+                time.sleep(PAUSE)
     if ok:
-        if len(urls) > 1:
+        if len(feeds) > 1:
             got.sort(key=lambda x: x["date"] or "", reverse=True)
         grp["items"] = got[:grp.get("keep", ROW_KEEP)]
 
