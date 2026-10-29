@@ -30,6 +30,8 @@ jobs:
       - name: Refresh Living RACK (note RSS)
         run: python3 tools/update_rack.py docs/rack/rack.json
         continue-on-error: true   # noteが応答しなくても、サイトの公開は止めない
+        env:
+          LISTEN_FEED: ${{ secrets.LISTEN_FEED }}
       - name: Build with Jekyll (same as classic GitHub Pages)
         uses: actions/jekyll-build-pages@v1
         with:
