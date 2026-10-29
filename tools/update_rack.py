@@ -80,37 +80,110 @@ def read_cover(mag_url):
     return html.unescape(m.group(1)) if m else ""
 
 
-ROW_KEEP = 12     # 新刊・図書だよりの段に並べる数
+ROW_KEEP = 12     # 新刊・図書だより・声・映像の段に並べる数
+ITUNES = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
+ATOM = "{http://www.w3.org/2005/Atom}"
+YT = "{http://www.youtube.com/xml/schemas/2015}"
 
 
-def read_row(feed_url):
-    """Are.na の棚や Substack など、ふつうのRSSから「段」の中身を読む。
-    画像は enclosure → media:thumbnail → 本文中の最初の <img> の順に探す。
-    リンクは <source url>（Are.na なら Amazon の商品ページ）があればそれを使う。"""
+def any_date(s):
+    """RSS（RFC 822）でも Atom（ISO 8601）でも、日本時間のISOにする。"""
+    s = (s or "").strip()
+    if not s:
+        return None
+    try:
+        return datetime.fromisoformat(s.replace("Z", "+00:00")).astimezone(JST).isoformat()
+    except ValueError:
+        return to_iso(s)
+
+
+def feed_url_of(row):
+    """feed が "env:名前" なら、GitHub の Secrets から渡された環境変数を使う。
+    （鍵の入ったURLを、公開の台帳に書かないため）"""
+    f = row.get("feed") or ""
+    if f.startswith("env:"):
+        import os
+        return os.environ.get(f[4:], "")
+    return f
+
+
+def item_image(it, fallback=""):
+    enc = it.find("enclosure")
+    if enc is not None and enc.get("url") and enc.get("type", "").startswith("image"):
+        return enc.get("url")
+    for th in it.iter(f"{MEDIA}thumbnail"):          # note / YouTube（media:group の中）
+        u = th.get("url") or (th.text or "").strip()
+        if u:
+            return u
+    im = it.find(f"{ITUNES}image")                  # ポッドキャスト
+    if im is not None and im.get("href"):
+        return im.get("href")
+    desc = html.unescape(it.findtext("description") or "")
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)', desc)
+    if m:
+        return html.unescape(m.group(1))
+    return fallback
+
+
+def read_row(feed_url, sort=True):
+    """RSS（Are.na・Substack・LISTEN・stand.fm）でも Atom（YouTube）でも、「段」の中身を読む。
+    Are.na の <source url>（Amazon の商品ページ）があれば、そちらをリンクにする。"""
     root = ET.fromstring(fetch(feed_url))
     out = []
-    for it in root.iter("item"):
-        img = ""
-        enc = it.find("enclosure")
-        if enc is not None and (enc.get("type", "image").startswith("image")) and enc.get("url"):
-            img = enc.get("url")
-        if not img:
-            th = it.find(f"{MEDIA}thumbnail")
-            if th is not None:
-                img = th.get("url") or (th.text or "").strip()
-        if not img:
-            desc = html.unescape(it.findtext("description") or "")
-            m = re.search(r'<img[^>]+src=["\']([^"\']+)', desc)
-            img = html.unescape(m.group(1)) if m else ""
-        src = it.find("source")
-        link = src.get("url") if src is not None and src.get("url") else (it.findtext("link") or "").strip()
-        out.append({
-            "title": (it.findtext("title") or "").strip(),
-            "url": link,
-            "image": img,
-            "date": to_iso(it.findtext("pubDate") or ""),
-        })
-    return [x for x in out if x["title"]][:ROW_KEEP]
+    if root.tag == f"{ATOM}feed":                   # YouTube など
+        for e in root.iter(f"{ATOM}entry"):
+            link = ""
+            for l in e.findall(f"{ATOM}link"):
+                if l.get("rel", "alternate") == "alternate":
+                    link = l.get("href", "")
+            out.append({
+                "title": (e.findtext(f"{ATOM}title") or "").strip(),
+                "url": link,
+                "image": item_image(e),
+                "date": any_date(e.findtext(f"{ATOM}published") or e.findtext(f"{ATOM}updated")),
+            })
+    else:
+        ch = root.find("channel")
+        ch_img = ""
+        if ch is not None:
+            ci = ch.find(f"{ITUNES}image")
+            ch_img = (ci.get("href") if ci is not None else "") or (ch.findtext("image/url") or "")
+        for it in root.iter("item"):
+            src = it.find("source")
+            link = src.get("url") if src is not None and src.get("url") else (it.findtext("link") or "").strip()
+            out.append({
+                "title": (it.findtext("title") or "").strip(),
+                "url": link,
+                "image": item_image(it, ch_img),
+                "date": any_date(it.findtext("pubDate")),
+            })
+    out = [x for x in out if x["title"]]
+    if sort:
+        out.sort(key=lambda x: x["date"] or "", reverse=True)
+    return out[:ROW_KEEP]
+
+
+def fill_group(grp, rid, sort=True):
+    """feed が一本なら "feed"、いくつも混ぜるなら "feeds": [...]。
+    一本でも取れたら items を入れ替え、全部だめなら前の中身のまま。"""
+    urls = [feed_url_of({"feed": f}) for f in grp.get("feeds", [])] or [feed_url_of(grp)]
+    urls = [u for u in urls if u]
+    if not urls:
+        return
+    got, ok = [], 0
+    for url in urls:
+        try:
+            got += read_row(url, sort)
+            ok += 1
+            print(f"ok row {rid}: {url[:60]}")
+        except Exception as e:
+            print(f"skip row {rid}: {url[:60]}: {e}", file=sys.stderr)
+        time.sleep(PAUSE)
+    if ok:
+        if len(urls) > 1:
+            got.sort(key=lambda x: x["date"] or "", reverse=True)
+        grp["items"] = got[:grp.get("keep", ROW_KEEP)]
+
 
 def main(path):
     with open(path, encoding="utf-8") as f:
@@ -148,14 +221,9 @@ def main(path):
         print(f"ok {m['id']}: {m['title'][:30]}")
 
     for row in rack.get("rows", []):
-        if not row.get("feed"):
-            continue
-        try:
-            row["items"] = read_row(row["feed"])
-            print(f"ok row {row.get('id')}: {len(row['items'])}")
-        except Exception as e:
-            print(f"skip row {row.get('id')}: {e}", file=sys.stderr)
-        time.sleep(PAUSE)
+        # 段の中を仕切るときは "groups": [{label, feeds, keep}, ...]。仕切らないなら段そのものが一つの組
+        for grp in (row.get("groups") or [row]):
+            fill_group(grp, row.get("id"), row.get("sort", True))
 
     rack["updated"] = datetime.now(JST).replace(microsecond=0).isoformat()
     with open(path, "w", encoding="utf-8") as f:
