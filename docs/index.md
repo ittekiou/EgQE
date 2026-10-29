@@ -30,6 +30,11 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 
 ↪️ [Search](https://camp-us.net/search.html)  
 
+# Living RACKs  
+愛称 _LiRax（リラックス）_  
+
+📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/)  
+
 ## 声の配信カレンダー（LISTEN）
 
 ↪️ [声の配信カレンダー](https://camp-us.net/index/voice-calendar.html)  
