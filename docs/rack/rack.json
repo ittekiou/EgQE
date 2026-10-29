@@ -1083,8 +1083,8 @@
       "id": "letters",
       "kind": "letter",
       "name": "📮 図書だより｜Camp@Us",
-      "note": "Substackから届くレター。",
-      "feed": "https://openrss.org/campus6214.substack.com",
+      "note": "Substackから届くレター。号を出したら、RSSを貼って入荷。",
+      "feed": "file:docs/rack/feeds/substack.xml",
       "link": "https://campus6214.substack.com/",
       "linkLabel": "購読する ↗",
       "items": [
@@ -1128,7 +1128,10 @@
           "label": "stand.fm・YouTube",
           "feeds": [
             "https://stand.fm/rss/64350aa79afdfc28ca754fac",
-            "https://www.youtube.com/feeds/videos.xml?channel_id=UCvePxKHHum_KbF2MGdga7BA"
+            [
+              "https://www.youtube.com/feeds/videos.xml?channel_id=UCvePxKHHum_KbF2MGdga7BA",
+              "https://www.youtube.com/feeds/videos.xml?playlist_id=UUvePxKHHum_KbF2MGdga7BA"
+            ]
           ],
           "keep": 10,
           "items": []
