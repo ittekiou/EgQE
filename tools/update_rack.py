@@ -224,6 +224,82 @@ def fill_group(grp, rid, sort=True):
         grp["items"] = got[:grp.get("keep", ROW_KEEP)]
 
 
+FEED_KEEP = 60    # 棚のRSS（feed.xml）に載せる数
+PAGE = SITE + "/rack/"
+
+
+def write_feed(rack, out):
+    """棚の新着を、一本のRSS（rack/feed.xml）に書き出す。
+    本・便り・聲・紀要・雑誌の記事を、新しい順に FEED_KEEP 件。リンクは元の場所へ。
+    雑誌は冊ごとではなく記事ごとに数える（同じ日に同じ冊へ何本入っても取りこぼさない）。"""
+    from xml.sax.saxutils import escape as esc
+    from email.utils import format_datetime
+    entries = []
+
+    def add(it, cat, pr=False):
+        if it.get("title") and it.get("url"):
+            entries.append((it.get("date") or "", it["title"], it["url"],
+                            it.get("image") or it.get("thumb") or "", cat, pr))
+
+    for row in rack.get("rows", []):
+        name = row.get("name", "")
+        pr = row.get("kind") == "book"              # 新刊の段はAmazonアソシエイトリンク
+        for grp in (row.get("groups") or [row]):
+            cat = name + ("｜" + grp["label"] if grp.get("label") and grp is not row else "")
+            for it in grp.get("items", []):
+                add(it, cat, pr)
+    for m in rack.get("magazines", []):
+        if not m.get("hidden"):
+            for it in m.get("latest", []):          # 記事ごと（同じ記事が複数の冊にあっても、下で一つにまとめる）
+                add(it, "📬 雑誌｜" + (m.get("title") or ""))
+
+    seen, items = set(), []
+    for e in sorted(entries, key=lambda e: e[0], reverse=True):
+        if e[2] not in seen:
+            seen.add(e[2])
+            items.append(e)
+    items = items[:FEED_KEEP]
+
+    def rfc(d):
+        try:
+            return format_datetime(datetime.fromisoformat(d))
+        except Exception:
+            return ""
+
+    now = format_datetime(datetime.now(JST).replace(microsecond=0))
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">',
+        "<channel>",
+        "<title>Living RACKs｜SCREP -処-</title>",
+        f"<link>{PAGE}</link>",
+        f'<atom:link href="{PAGE}feed.xml" rel="self" type="application/rss+xml"/>',
+        "<description>" + esc("束はあちこちに。表紙はここに。本・便り・聲・雑誌・紀要の新着。"
+                              "新刊の項目にはAmazonアソシエイトリンクを含みます（PR）。") + "</description>",
+        "<language>ja</language>",
+        f"<lastBuildDate>{now}</lastBuildDate>",
+    ]
+    for date, title, url, img, cat, pr in items:
+        desc = esc(cat) + ("（PR）" if pr else "")
+        if img:
+            desc += esc(f'<br><img src="{img}" alt="">')
+        lines += ["<item>",
+                  f"<title>{esc(title)}</title>",
+                  f"<link>{esc(url)}</link>",
+                  f'<guid isPermaLink="true">{esc(url)}</guid>',
+                  f"<category>{esc(cat)}</category>",
+                  f"<description>{desc}</description>"]
+        if rfc(date):
+            lines.append(f"<pubDate>{rfc(date)}</pubDate>")
+        if img:
+            lines.append(f'<media:thumbnail url="{esc(img)}"/>')
+        lines.append("</item>")
+    lines += ["</channel>", "</rss>", ""]
+    with open(out, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    print(f"feed: {len(items)} items -> {out}")
+
+
 def main(path):
     with open(path, encoding="utf-8") as f:
         rack = json.load(f)
@@ -294,6 +370,13 @@ def main(path):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(rack, f, ensure_ascii=False, indent=2)
         f.write("\n")
+
+    # 同じ中身を、RSSでも配る（rack.json の隣に feed.xml）
+    import os
+    try:
+        write_feed(rack, os.path.join(os.path.dirname(path) or ".", "feed.xml"))
+    except Exception as e:
+        print(f"no feed: {e}", file=sys.stderr)
 
 
 if __name__ == "__main__":
