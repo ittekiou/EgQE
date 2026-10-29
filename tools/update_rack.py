@@ -168,6 +168,33 @@ def read_row(feed_url, sort=True):
     return out[:ROW_KEEP]
 
 
+SITE = "https://camp-us.net"
+
+
+def read_whatsnew(path, keep=10):
+    """camp-us.net の WhatsNew.md から、日付の見出し（###### 2026/10/26）の下にあるリンクを新しい順に拾う。
+    見出しより上（目次・常設リンク）は読まない。"""
+    out, date = [], None
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            m = re.match(r"^#{2,6}\s*(\d{4})/(\d{1,2})/(\d{1,2})\s*$", line)
+            if m:
+                y, mo, d = map(int, m.groups())
+                date = datetime(y, mo, d, tzinfo=JST).isoformat()
+                continue
+            if not date:
+                continue
+            for t, u in re.findall(r"\[([^\]]+)\]\(([^)\s]+)\)", line):
+                if u.startswith("/"):
+                    u = SITE + u
+                if u.endswith(".md"):
+                    u = u[:-3] + ".html"
+                out.append({"title": t.strip(), "url": u, "image": "", "date": date})
+                if len(out) >= keep:
+                    return out
+    return out
+
+
 def fill_group(grp, rid, sort=True):
     """feed が一本なら "feed"、いくつも混ぜるなら "feeds": [...]。
     一本でも取れたら items を入れ替え、全部だめなら前の中身のまま。"""
@@ -233,6 +260,14 @@ def main(path):
 
     for row in rack.get("rows", []):
         # 段の中を仕切るときは "groups": [{label, feeds, keep}, ...]。仕切らないなら段そのものが一つの組
+        src = row.get("source", "")
+        if src.startswith("whatsnew:"):
+            try:
+                row["items"] = read_whatsnew(src[9:], row.get("keep", 10))
+                print(f"ok row {row.get('id')}: {len(row['items'])}")
+            except Exception as e:
+                print(f"skip row {row.get('id')}: {e}", file=sys.stderr)
+            continue
         for grp in (row.get("groups") or [row]):
             fill_group(grp, row.get("id"), row.get("sort", True))
 
