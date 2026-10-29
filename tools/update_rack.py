@@ -227,6 +227,24 @@ def main(path):
     with open(path, encoding="utf-8") as f:
         rack = json.load(f)
 
+    # 新しいマガジン：docs/rack/feeds/magazines.txt に書かれた /m/ の URL のうち、台帳にない冊を足す
+    # （棚は空のまま＝「まだ棚のないもの」。題名と表紙はこのあと自動で入る）
+    txt = rack.get("magazine_list", "docs/rack/feeds/magazines.txt")
+    try:
+        with open(txt, encoding="utf-8") as f:
+            listed = re.findall(r"/m/(m[0-9a-f]{12})", f.read())
+        have = {m["id"] for m in rack["magazines"]}
+        n = 0
+        for mid in dict.fromkeys(listed):
+            if mid not in have:
+                rack["magazines"].append({"id": mid, "title": "", "cover": "", "description": "",
+                                          "count": None, "shelf": "", "order": 900 + n,
+                                          "latest_at": None, "latest": []})
+                n += 1
+        print(f"magazines.txt: {len(set(listed))} listed, {n} new")
+    except FileNotFoundError:
+        pass
+
     for m in rack["magazines"]:
         m.setdefault("url", f"https://note.com/takahashihajime/m/{m['id']}")
         try:
