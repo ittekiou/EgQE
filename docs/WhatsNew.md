@@ -24,6 +24,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/10/29  
+[TUP-RN-01｜なぞりかたの文明論 ──リニア炎上文明とノンリニアEnjoy文明（v0.5）](https://camp-us.net/articles/TUP-RN-01_NAZORU-Manners_Civilization-of-Tracing_v0.5.html)  
+[TUP-RN-01｜なぞりかたの文明論 ──リニア炎上文明とノンリニアEnjoy文明（v0.3）](https://camp-us.net/articles/TUP-RN-01_NAZORU-Manners_Civilization-of-Tracing_v0.3.html)  
 ###### 2026/10/28  
 📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/) 
 ###### 2026/10/26  
