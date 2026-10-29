@@ -113,7 +113,7 @@
 
   <div id="rows"></div>
 
-  <section class="shelf maghead"><h2>📬 雑誌｜SCREP -処-</h2><p class="note">noteのマガジン。並べ方を選べます。</p></section>
+  <section class="shelf maghead"><h2>📬 雑誌｜SCREP -処-</h2><p class="note">noteのマガジン。並べ方を選べます。　<a href="feed-magazines.xml">📡 RSS</a></p></section>
   <div class="bar" role="group" aria-label="並べ方">
     <button data-view="recent" aria-pressed="true">新着順</button>
     <button data-view="shelf" aria-pressed="false">棚ごと</button>
@@ -130,6 +130,7 @@
     <p>No Rail. No Track. Next Nest.</p>
     <p>Now Emulsifying! ／ Half-Cooked, Always. ／ Stocked, Stirred, Fermented.</p>
     <p>共同の野良ラックは <a href="https://www.are.na/dream-no-track-kuykyopogvu/note-rack">note RACK｜Are.na</a> へ。密林書棚は <a href="https://www.are.na/dream-no-track-kuykyopogvu/amazon-laengs">Amazon længs｜Are.na</a> へ。</p>
+    <p>📡 RSS：<a href="feed.xml">ぜんぶ</a>｜<a href="feed-books.xml">新刊本</a>｜<a href="feed-letters.xml">便り</a>｜<a href="feed-voice.xml">聲</a>｜<a href="feed-magazines.xml">雑誌</a>｜<a href="feed-papers.xml">紀要</a>（雑誌の棚ごとのRSSは「棚ごと」の中に）</p>
     <p>新刊の棚にはAmazonアソシエイトリンクを含みます（PR）。Amazonのアソシエイトとして、一狄 啓（Kei Itteki）は適格販売により収入を得ています。</p>
   </footer>
 </div>
@@ -176,7 +177,7 @@
       const title = code ? x.title.slice(i + 1) : x.title;
       return `<a class="paper" href="${esc(x.url)}">${code ? `<span class="pc">${esc(code)}</span>` : ''}<span class="pt">${esc(title)}</span>${x.date ? `<span class="pd">${ymd(x.date)}</span>` : ''}</a>`;
     }).join('');
-    const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : ''].filter(Boolean).join('　');
+    const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : '', `<a href="feed-${esc(r.id)}.xml">📡 RSS</a>`].filter(Boolean).join('　');
     return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="papers">${cards}</div></div></section>`;
   }
 
@@ -189,7 +190,7 @@
       const parts = groups.filter(g => g.items && g.items.length).map((g, i) =>
         (i ? '<span class="gsep"></span>' : '') + (g.label && r.groups ? `<span class="glabel">${esc(g.label)}</span>` : '') + g.items.map(x => card(x, kind)).join(''));
       if (!parts.length) return '';
-      const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : ''].filter(Boolean).join('　');
+      const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : '', `<a href="feed-${esc(r.id)}.xml">📡 RSS</a>`].filter(Boolean).join('　');
       return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="books">${parts.join('')}</div></div></section>`;
     }).join('');
   }
@@ -202,7 +203,7 @@
         const list = mags.filter(m => m.shelf === sh.id).sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
         if (!list.length) continue;
         const fresh = list.filter(m => isNew(m.latest_at)).length;
-        html += `<details class="shelfbox"><summary><h3>${esc(sh.name)}</h3><span class="cnt">${list.length}冊${fresh ? `・入荷${fresh}` : ''}</span></summary>${sh.note ? `<p class="note">${esc(sh.note)}</p>` : ''}${grid(list)}</details>`;
+        html += `<details class="shelfbox"><summary><h3>${esc(sh.name)}</h3><span class="cnt">${list.length}冊${fresh ? `・入荷${fresh}` : ''}</span></summary><p class="note">${sh.note ? esc(sh.note) + '　' : ''}<a href="feed-shelf-${esc(sh.id)}.xml">📡 この棚のRSS</a></p>${grid(list)}</details>`;
       }
       const loose = mags.filter(m => !data.shelves.some(sh => sh.id === m.shelf));
       loose.sort((a, b) => (a.order ?? 999) - (b.order ?? 999));
