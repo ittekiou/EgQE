@@ -9,7 +9,9 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ## 灯欄窓｜Transnomado
 ↪️ [EgQE内検索](https://camp-us.net/search.html)  
+# Living RACKs｜ _LiRax（リラックス）_  
 
+📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/)  
 ### 地層の化石
 ###### [踊り場001｜2025/07/04- 2025/09/21](/stair_landing-001.md)  
 ###### [踊り場002｜2025/09/22- 2025/12/21](https://camp-us.net/stair_landing-002.html)  
@@ -23,6 +25,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/10/28  
+📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/) 
 ###### 2026/10/26  
 ↪️ [声の配信カレンダー](https://camp-us.net/index/voice-calendar.html)  
 ↪️ [自家製書庫ができるまで──Trace 玄関と三つの書庫の作業記録](https://camp-us.net/index/Tracentrance-log.html)  
