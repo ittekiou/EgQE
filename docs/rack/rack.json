@@ -1076,7 +1076,8 @@
       "feed": "https://www.are.na/kei-itteki/just-out/feed/rss",
       "link": "https://www.are.na/kei-itteki/just-out",
       "linkLabel": "Are.naの棚 ↗",
-      "items": []
+      "items": [],
+      "sort": false
     },
     {
       "id": "letters",
@@ -1104,6 +1105,33 @@
           "url": "https://campus6214.substack.com/p/pre-ed-lag-letter-oboromooon-mooon-68c",
           "image": "https://substackcdn.com/image/fetch/$s_!imL4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f29053d-f42f-4056-b762-e11420feaed3_1254x1254.png",
           "date": "2026-09-29T11:59:01+09:00"
+        }
+      ]
+    },
+    {
+      "id": "voice",
+      "kind": "audio",
+      "name": "🎙 声の棚",
+      "note": "一人語りのポッドキャスト。読むならLISTEN、聞く・見るならstand.fmとYouTube。",
+      "link": "https://www.youtube.com/@Camp_us_6214",
+      "linkLabel": "YouTube ↗",
+      "groups": [
+        {
+          "label": "LISTEN 文字起こしつき",
+          "feeds": [
+            "https://listen.style/following/rss?token=eyJpdiI6IitVa1dSS2RJM1p2bG45R01rdEpWcWc9PSIsInZhbHVlIjoiYkt6VnJCNVhCbU5xY0NuZUlLd09IQT09IiwibWFjIjoiNDViNzVkZTkyNDgwZDcyZjFjNDg1MDNmNDMxNjc2MDdmYjcxODIxZWU5OTBjMDJlMzlkZjRiYTA5OWFlODYzYiIsInRhZyI6IiJ9"
+          ],
+          "keep": 10,
+          "items": []
+        },
+        {
+          "label": "stand.fm・YouTube",
+          "feeds": [
+            "https://stand.fm/rss/64350aa79afdfc28ca754fac",
+            "https://www.youtube.com/feeds/videos.xml?channel_id=UCvePxKHHum_KbF2MGdga7BA"
+          ],
+          "keep": 10,
+          "items": []
         }
       ]
     }

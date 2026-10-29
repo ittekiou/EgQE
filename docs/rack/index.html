@@ -42,9 +42,13 @@
   .book .bc{display:block;width:118px;aspect-ratio:2/3;background:var(--tag);border-radius:3px;overflow:hidden;box-shadow:var(--shadow);position:relative}
   .book .bc img{width:100%;height:100%;object-fit:cover;display:block;position:relative}
   .book .bc .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;padding:8px;text-align:center;font-size:11px;color:var(--sub)}
-  .book.letter,.book.letter .bc{width:150px}
-  .book.letter .bc{aspect-ratio:1/1}
+  .book.letter,.book.letter .bc,.book.audio,.book.audio .bc{width:150px}
+  .book.letter .bc,.book.audio .bc{aspect-ratio:1/1}
+  .book.video,.book.video .bc{width:220px}
+  .book.video .bc{aspect-ratio:16/9}
   .book .bd{display:block;font-size:11px;color:var(--sub);margin-top:2px}
+  .gsep{flex:none;align-self:stretch;width:1px;background:var(--line);margin:0 6px}
+  .glabel{flex:none;writing-mode:vertical-rl;font-size:11px;color:var(--sub);letter-spacing:.1em;padding:2px 0}
   .book .bt{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:12px;line-height:1.45;margin-top:6px}
   .book:hover .bt{text-decoration:underline}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:18px}
@@ -133,11 +137,15 @@
   const grid = list => `<div class="grid">${list.map(card).join('')}</div>`;
 
   function rowsHtml() {
-    return (data.rows || []).filter(r => r.items && r.items.length).map(r => {
-      const cls = r.kind === 'letter' ? 'book letter' : 'book';
-      const items = r.items.map(x => `<a class="${cls}" href="${esc(x.url)}"><span class="bc"><span class="ph">${esc(x.title)}</span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${r.kind === 'letter' && x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`).join('');
+    const card = (x, kind) => `<a class="book ${kind}" href="${esc(x.url)}"><span class="bc"><span class="ph">${esc(x.title)}</span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${kind !== 'book' && x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`;
+    return (data.rows || []).map(r => {
+      const kind = r.kind || 'book';
+      const groups = r.groups || [r];
+      const parts = groups.filter(g => g.items && g.items.length).map((g, i) =>
+        (i ? '<span class="gsep"></span>' : '') + (g.label && r.groups ? `<span class="glabel">${esc(g.label)}</span>` : '') + g.items.map(x => card(x, kind)).join(''));
+      if (!parts.length) return '';
       const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : ''].filter(Boolean).join('　');
-      return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="books">${items}</div></div></section>`;
+      return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="books">${parts.join('')}</div></div></section>`;
     }).join('');
   }
 
