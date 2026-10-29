@@ -2,16 +2,15 @@
 layout: default
 title: EgQE われわれの心臓部の更新情報｜EchoGenesis Qualia Engine
 ---
-## 🆕 What’s New  on  EgQE & EZsy
+## 🆕 What’s New on EgQE
 
 ### **2025.07.04 - HEG元年はじまる**  
 From Noise to Notation. From Dialogue to Discovery.
 
+# Living RACKs｜ _LiRax（リラックス）_  
+📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/)  
 ## 灯欄窓｜Transnomado
 ↪️ [EgQE内検索](https://camp-us.net/search.html)  
-# Living RACKs｜ _LiRax（リラックス）_  
-
-📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/)  
 ### 地層の化石
 ###### [踊り場001｜2025/07/04- 2025/09/21](/stair_landing-001.md)  
 ###### [踊り場002｜2025/09/22- 2025/12/21](https://camp-us.net/stair_landing-002.html)  
@@ -20,7 +19,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ### [📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
-### note 更新情報はこちら👉 [🔗](/note)
+### 過去のnote 更新情報はこちら👉 [🔗](/note)
 #### Nukadoko 🦠 [ND-Index](https://camp-us.net/Nukadoko/ND-Index.html)  
 
 ---
