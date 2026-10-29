@@ -123,10 +123,11 @@ def item_image(it, fallback=""):
     im = it.find(f"{ITUNES}image")                  # ポッドキャスト
     if im is not None and im.get("href"):
         return im.get("href")
-    desc = html.unescape(it.findtext("description") or "")
-    m = re.search(r'<img[^>]+src=["\']([^"\']+)', desc)
-    if m:
-        return html.unescape(m.group(1))
+    CONTENT = "{http://purl.org/rss/1.0/modules/content/}encoded"
+    for body in (it.findtext("description"), it.findtext(CONTENT)):   # Medium は本文（content:encoded）の中
+        m = re.search(r'<img[^>]+src=["\']([^"\']+)', html.unescape(body or ""))
+        if m:
+            return html.unescape(m.group(1))
     return fallback
 
 
