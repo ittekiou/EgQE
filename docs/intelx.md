@@ -2,8 +2,11 @@
 layout: math
 title: EgQE SyncHub  EchoGenesis Qualia Engine｜INTELX
 ---
+🏠 [EgQE SyncHub｜INDEX](https://camp-us.net/index.html)  
 ## 灯欄窓｜Transnomado
 ↪️ [EgQE内検索](https://camp-us.net/search.html)  
+## _LiRax（リラックス）_  
+📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/)    
 
 ---
 
