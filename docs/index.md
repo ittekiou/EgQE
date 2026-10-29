@@ -2,6 +2,7 @@
 layout: math
 title: EgQE SyncHub  EchoGenesis Qualia Engine｜INDEX
 subtitle: Inter-Phase is the syntactic field where co-creation occurs.
+description: 書く。置く。つながる。乳化する。camp-us.net の論文と研究ノート。
 ---
 ---
 <!-- EgQE ロゴ -->
