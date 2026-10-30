@@ -222,6 +222,9 @@ def fill_group(grp, rid, sort=True):
         if len(feeds) > 1:
             got.sort(key=lambda x: x["date"] or "", reverse=True)
         grp["items"] = got[:grp.get("keep", ROW_KEEP)]
+        if grp.get("image") is False:           # 表紙を拾わない組（Discourse は絵文字やアイコンが拾われるため）
+            for x in grp["items"]:
+                x["image"] = ""
 
 
 FEED_KEEP = 20    # 一本のRSSに載せる数（リーダー側は前の分を覚えているので、少なめでよい）
