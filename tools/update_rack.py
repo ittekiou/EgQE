@@ -125,9 +125,10 @@ def item_image(it, fallback=""):
         return im.get("href")
     CONTENT = "{http://purl.org/rss/1.0/modules/content/}encoded"
     for body in (it.findtext("description"), it.findtext(CONTENT)):   # Medium は本文（content:encoded）の中
-        m = re.search(r'<img[^>]+src=["\']([^"\']+)', html.unescape(body or ""))
-        if m:
-            return html.unescape(m.group(1))
+        for m in re.finditer(r'<img[^>]+src=["\']([^"\']+)', html.unescape(body or "")):
+            u = html.unescape(m.group(1))
+            if not re.search(r"emoji|avatar", u):    # 絵文字や顔アイコンは表紙にしない（Discourse など）
+                return u
     return fallback
 
 
@@ -156,7 +157,12 @@ def read_row(feed_url, sort=True):
             ch_img = (ci.get("href") if ci is not None else "") or (ch.findtext("image/url") or "")
         for it in root.iter("item"):
             src = it.find("source")
-            link = src.get("url") if src is not None and src.get("url") else (it.findtext("link") or "").strip()
+            su = src.get("url", "") if src is not None else ""
+            # Are.na の <source> は Amazon の商品ページ。Discourse の <source> は RSS 自身なので使わない
+            if su and not re.search(r"\.(rss|xml)(\?|$)", su) and su != feed_url:
+                link = su
+            else:
+                link = (it.findtext("link") or "").strip()
             out.append({
                 "title": (it.findtext("title") or "").strip(),
                 "url": link,
