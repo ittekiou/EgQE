@@ -2,7 +2,6 @@
 layout: math
 title: "SD-RACK v0.1｜Static-Dynamic RACK: Minimal Construction Manual"
 description: 静的に建てる。動的につながる。
-image: /assets/ogorigin.png
 ---
 # SD-RACK v0.1
 
