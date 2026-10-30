@@ -1157,6 +1157,33 @@
       "link": "https://camp-us.net/WhatsNew.html",
       "linkLabel": "更新情報 ↗",
       "items": []
+    },
+    {
+      "id": "forum",
+      "kind": "letter",
+      "position": "after",
+      "name": "🐣 伝処｜BBB's ☕️",
+      "note": "E-Zy Press のフォーラム。話題と書き込みの新着。",
+      "link": "https://ez.discourse.group/",
+      "linkLabel": "のぞく ↗",
+      "groups": [
+        {
+          "label": "新しい話題",
+          "feeds": [
+            "https://ez.discourse.group/latest.rss"
+          ],
+          "keep": 3,
+          "image": false
+        },
+        {
+          "label": "新しい書き込み",
+          "feeds": [
+            "https://ez.discourse.group/posts.rss"
+          ],
+          "keep": 3,
+          "image": false
+        }
+      ]
     }
   ]
 }
