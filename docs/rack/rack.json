@@ -1147,6 +1147,44 @@
       ]
     },
     {
+      "id": "blog",
+      "kind": "letter",
+      "name": "✒️｜Blog",
+      "note": "メインは「こえとことばのブログ」。媒体ごとに新着を並べています。",
+      "groups": [
+        {
+          "label": "メイン｜こえとことばのブログ（はてな）",
+          "feed": "https://jimt.hatenablog.com/feed",
+          "keep": 5,
+          "items": []
+        },
+        {
+          "label": "アメブロ｜jimt",
+          "feed": "https://rssblog.ameba.jp/jimt/rss20.xml",
+          "keep": 5,
+          "items": []
+        },
+        {
+          "label": "しずかなインターネット｜LiRax",
+          "feed": "https://sizu.me/lirax/rss",
+          "keep": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "monologue",
+      "kind": "letter",
+      "name": "💬 店主｜ひとりごと",
+      "note": "Blueskyから届く、店主のひとりごと。",
+      "feed": "https://bsky.app/profile/campus6214.substack.com/rss",
+      "link": "https://bsky.app/profile/campus6214.substack.com",
+      "linkLabel": "Bluesky ↗",
+      "keep": 5,
+      "excerpt": true,
+      "items": []
+    },
+    {
       "id": "papers",
       "kind": "paper",
       "position": "after",
