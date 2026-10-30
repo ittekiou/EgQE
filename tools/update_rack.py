@@ -149,7 +149,7 @@ def excerpt(body):
 
 
 def read_row(feed_url, sort=True):
-    """RSS（Are.na・Substack・LISTEN・stand.fm）でも Atom（YouTube）でも、「段」の中身を読む。
+    """RSS（Are.na・Substack・LISTEN・stand.fm・ブログ・Bluesky）でも Atom（YouTube・はてな）でも、「段」の中身を読む。
     Are.na の <source url>（Amazon の商品ページ）があれば、そちらをリンクにする。"""
     root = ET.fromstring(fetch(feed_url))
     out = []
@@ -163,6 +163,8 @@ def read_row(feed_url, sort=True):
                 "title": (e.findtext(f"{ATOM}title") or "").strip(),
                 "url": link,
                 "image": item_image(e),
+                "who": (e.findtext(f"{ATOM}author/{ATOM}name") or "").strip(),
+                "text": excerpt(e.findtext(f"{ATOM}summary") or e.findtext(f"{ATOM}content")),
                 "date": any_date(e.findtext(f"{ATOM}published") or e.findtext(f"{ATOM}updated")),
             })
     else:
