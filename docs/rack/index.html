@@ -77,6 +77,17 @@
   .text-cover:not(.memo) .cover-title{-webkit-line-clamp:3;flex:none}
   .text-cover.has-image .ph{visibility:hidden}
   .text-cover.has-image .bc{border-top:1px solid var(--line)}
+  /* 伝処の文字投稿は、談話室に貼られた便箋。 */
+  .forum-card .notice{display:none}
+  .book.forum-card:not(.has-image){width:190px}
+  .forum-card:not(.has-image) > .bc,.forum-card:not(.has-image) > .bt,.forum-card:not(.has-image) > .bx,.forum-card:not(.has-image) > .bd{display:none}
+  .forum-card:not(.has-image) .notice{position:relative;display:flex;flex-direction:column;gap:10px;height:260px;padding:22px 14px 12px;background:var(--paper);border:1px solid var(--line);border-top:3px solid var(--wood);border-radius:2px;box-shadow:var(--shadow);text-align:left}
+  .notice::before{content:"";position:absolute;top:7px;left:calc(50% - 3px);width:6px;height:6px;border-radius:50%;background:var(--wood)}
+  .notice-who{font-size:11px;color:var(--sub);display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden;flex:none}
+  .notice-title{font-family:"Hiragino Mincho ProN","Noto Serif JP",serif;font-size:15px;line-height:1.5;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;overflow-wrap:anywhere;flex:none}
+  .notice-text{font-size:11px;line-height:1.6;color:var(--sub);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;overflow-wrap:anywhere;flex:none}
+  .notice-date{font-size:11px;color:var(--sub);margin-top:auto}
+  .forum-card:hover .notice-title{text-decoration:underline}
   .gsep{flex:none;align-self:stretch;width:1px;background:var(--line);margin:0 6px}
   .glabel{flex:none;scroll-snap-align:start;writing-mode:vertical-rl;font-size:11px;color:var(--sub);letter-spacing:.1em;padding:2px 0}
   .papers{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
@@ -205,6 +216,11 @@
   function rowsHtml(pos) {
     const originalCard = (x, kind) => `<a class="book ${kind}" href="${esc(x.url)}"><span class="bc"><span class="ph">${esc(x.title)}</span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${x.text ? `<span class="bx">${x.who ? `<b>${esc(x.who)}</b>：` : ''}${esc(x.text)}</span>` : ''}${kind !== 'book' && x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`;
     const card = (x, kind, r, g, groupIndex) => {
+      if (r.id === 'forum') {
+        const notice = `<span class="notice"><span class="notice-who">${esc(x.who || g.label || '伝処')}</span><span class="notice-title">${esc(x.title)}</span>${x.text ? `<span class="notice-text">${esc(x.text)}</span>` : ''}${x.date ? `<time class="notice-date" datetime="${esc(x.date)}">${ymd(x.date)}</time>` : ''}</span>`;
+        // 画像がある場合は従来表示。読込失敗時も掲示カードに切り替える。
+        return originalCard(x, kind).replace(`class="book ${kind}"`, `class="book ${kind} forum-card${x.image ? ' has-image' : ''}"`).replace('onerror="this.remove()"', `onerror="this.closest('a').classList.remove('has-image');this.remove()"`).replace('</a>', notice + '</a>');
+      }
       if (r.id !== 'blog' && r.id !== 'monologue') return originalCard(x, kind);
       const memo = r.id === 'monologue';
       const source = memo ? '店主のひとりごと' : (g.label || 'Blog');
