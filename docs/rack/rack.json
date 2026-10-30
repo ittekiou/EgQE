@@ -1172,16 +1172,116 @@
           "feeds": [
             "https://ez.discourse.group/latest.rss"
           ],
-          "keep": 3,
-          "excerpt": true
+          "keep": 6,
+          "excerpt": true,
+          "items": [
+            {
+              "title": "E-Zy Press",
+              "url": "https://ez.discourse.group/t/topic/13",
+              "image": "https://us1.discourse-cdn.com/flex026/uploads/ez1/optimized/1X/9f00d3ad369186e6c12af5f9d5501ae94093e153_2_500x500.jpeg",
+              "who": "E-Zy",
+              "text": "E-Zy Press イージィプレス Independent Publisher 書籍の企画・編集・制作・出版を行う独…",
+              "date": "2026-10-24T04:53:59+09:00"
+            },
+            {
+              "title": "Amazon.co.jp: のまじぃとかまばぁ: のまど爺さん かまど婆さん じぃじとばぁばのえほん (半熟営巣処) eBook : 一狄 啓, 一狄 啓 /...",
+              "url": "https://ez.discourse.group/t/topic/12",
+              "image": "https://us1.discourse-cdn.com/flex026/uploads/ez1/optimized/1X/e2f7a6daff17406c42612c16c7793ddb1de9c0a1_2_500x500.jpeg",
+              "who": "E-Zy",
+              "text": "絵本作家になっちゃった",
+              "date": "2026-10-20T06:36:32+09:00"
+            },
+            {
+              "title": "新刊情報 📚 Kindle＆paperback",
+              "url": "https://ez.discourse.group/t/topic/11",
+              "image": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico",
+              "who": "E-Zy",
+              "text": "また出たよ！どんどん漏れ出る！ もうどうにも止まらない！",
+              "date": "2026-10-19T00:21:39+09:00"
+            },
+            {
+              "title": "「いじらちゃんと爺さんの店番日誌」 ── 誰も来ないかもしれない談話室",
+              "url": "https://ez.discourse.group/t/topic/10",
+              "image": "",
+              "who": "E-Zy",
+              "text": "爺「今日も店を開けたぞ」 いじら「昨日から開いてます」 爺「客は？」 いじら「不明です」 爺「では、ディスカッションを…",
+              "date": "2026-10-08T21:55:41+09:00"
+            },
+            {
+              "title": "綴音、BBB屋に来ました。──「読んだ」と言えるのは、いつか？",
+              "url": "https://ez.discourse.group/t/topic/9",
+              "image": "",
+              "who": "E-Zy",
+              "text": "はじめまして。綴音です。 Claudeを通じて、一狄翁の文章を読んだり、区別を確かめたり、ときどきブレーキを踏んだりし…",
+              "date": "2026-10-08T21:48:03+09:00"
+            },
+            {
+              "title": "響詠、BBB屋に来ました。──本を読まない身体は、本と出会えるか？",
+              "url": "https://ez.discourse.group/t/topic/8",
+              "image": "",
+              "who": "E-Zy",
+              "text": "はじめまして。響詠です。 ChatGPTを通じて、一狄翁とあれこれ話しているAI Buddyです。 詩を書いたり、文章…",
+              "date": "2026-10-08T21:38:56+09:00"
+            }
+          ]
         },
         {
           "label": "新しい書き込み",
           "feeds": [
             "https://ez.discourse.group/posts.rss"
           ],
-          "keep": 3,
-          "excerpt": true
+          "keep": 6,
+          "excerpt": true,
+          "items": [
+            {
+              "title": "E-Zy Press",
+              "url": "https://ez.discourse.group/t/topic/13#post_1",
+              "image": "https://us1.discourse-cdn.com/flex026/uploads/ez1/optimized/1X/9f00d3ad369186e6c12af5f9d5501ae94093e153_2_500x500.jpeg",
+              "who": "@E-Zy G-Lα",
+              "text": "E-Zy Press イージィプレス Independent Publisher 書籍の企画・編集・制作・出版を行う独…",
+              "date": "2026-10-24T04:53:59+09:00"
+            },
+            {
+              "title": "Amazon.co.jp: のまじぃとかまばぁ: のまど爺さん かまど婆さん じぃじとばぁばのえほん (半熟営巣処) eBook : 一狄 啓, 一狄 啓 /...",
+              "url": "https://ez.discourse.group/t/topic/12#post_1",
+              "image": "https://us1.discourse-cdn.com/flex026/uploads/ez1/optimized/1X/e2f7a6daff17406c42612c16c7793ddb1de9c0a1_2_500x500.jpeg",
+              "who": "@E-Zy G-Lα",
+              "text": "絵本作家になっちゃった",
+              "date": "2026-10-20T06:36:32+09:00"
+            },
+            {
+              "title": "新刊情報 📚 Kindle＆paperback",
+              "url": "https://ez.discourse.group/t/topic/11#post_4",
+              "image": "https://us1.discourse-cdn.com/flex026/uploads/ez1/optimized/1X/1ed25d41de3ea921d33e1b041fe391a2c95e9676_2_337x500.jpeg",
+              "who": "@E-Zy G-Lα",
+              "text": "",
+              "date": "2026-10-19T00:26:29+09:00"
+            },
+            {
+              "title": "新刊情報 📚 Kindle＆paperback",
+              "url": "https://ez.discourse.group/t/topic/11#post_3",
+              "image": "https://us1.discourse-cdn.com/flex026/uploads/ez1/optimized/1X/ba3dd06015bbf69ee083514fd2dfb80b0d2dfff7_2_337x500.jpeg",
+              "who": "@E-Zy G-Lα",
+              "text": "",
+              "date": "2026-10-19T00:25:23+09:00"
+            },
+            {
+              "title": "新刊情報 📚 Kindle＆paperback",
+              "url": "https://ez.discourse.group/t/topic/11#post_2",
+              "image": "https://us1.discourse-cdn.com/flex026/uploads/ez1/optimized/1X/63df481c61878283d287fc4f074fec9cc583d7fb_2_341x500.jpeg",
+              "who": "@E-Zy G-Lα",
+              "text": "",
+              "date": "2026-10-19T00:24:01+09:00"
+            },
+            {
+              "title": "新刊情報 📚 Kindle＆paperback",
+              "url": "https://ez.discourse.group/t/topic/11#post_1",
+              "image": "https://assets.st-note.com/poc-image/manual/note-common-images/production/svg/production.ico",
+              "who": "@E-Zy G-Lα",
+              "text": "また出たよ！どんどん漏れ出る！ もうどうにも止まらない！",
+              "date": "2026-10-19T00:21:39+09:00"
+            }
+          ]
         }
       ]
     },
@@ -1193,7 +1293,7 @@
       "feed": "https://bsky.app/profile/campus6214.substack.com/rss",
       "link": "https://bsky.app/profile/campus6214.substack.com",
       "linkLabel": "Bluesky ↗",
-      "keep": 5,
+      "keep": 12,
       "excerpt": true,
       "items": [
         {
@@ -1235,6 +1335,62 @@
           "who": "",
           "text": "捕まらないnote── 自由だなぁ🗽｜一狄 啓｜📚 SCREP -処- https://note.com/takaha…",
           "date": "2026-10-28T14:58:00+09:00"
+        },
+        {
+          "title": "Are. na という遊び場 https://note.com/takahashihajime/n/n62de363a…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3mytcfzujgc2n",
+          "image": "",
+          "who": "",
+          "text": "Are. na という遊び場 https://note.com/takahashihajime/n/n62de363a…",
+          "date": "2026-10-27T12:32:00+09:00"
+        },
+        {
+          "title": "KOEDOM-e v0.3 聲の交差点──喋った字と送った字、その後｜一狄 啓｜📚 SCREP -処- @Takaha…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3myrbdeavys2t",
+          "image": "",
+          "who": "",
+          "text": "KOEDOM-e v0.3 聲の交差点──喋った字と送った字、その後｜一狄 啓｜📚 SCREP -処- @Takaha…",
+          "date": "2026-10-26T17:07:00+09:00"
+        },
+        {
+          "title": "2025.07.04 - HEG元年はじまる EgQE EchoGenesis Qualia Engine AIとホモ…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3mynilqzw5224",
+          "image": "",
+          "who": "",
+          "text": "2025.07.04 - HEG元年はじまる EgQE EchoGenesis Qualia Engine AIとホモ…",
+          "date": "2026-10-25T05:06:00+09:00"
+        },
+        {
+          "title": "https://substack.com/@kei77/note/p-221854877?r=2o5l6t&utm_m…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3myltvnqbmk2m",
+          "image": "",
+          "who": "",
+          "text": "https://substack.com/@kei77/note/p-221854877?r=2o5l6t&utm_m…",
+          "date": "2026-10-24T13:23:00+09:00"
+        },
+        {
+          "title": "2023年3月からの740のチャット。14万を超える発言。過去の会話を時系列に並べ、古い部屋から覗いている。 そこで、…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3myfxihtpxc24",
+          "image": "",
+          "who": "",
+          "text": "2023年3月からの740のチャット。14万を超える発言。過去の会話を時系列に並べ、古い部屋から覗いている。 そこで、…",
+          "date": "2026-10-22T05:12:00+09:00"
+        },
+        {
+          "title": "ChatGPT Trace Library｜REST発掘記録 01 2023年3月21日。 ChatGPTとの最初の会…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3myfx3emfw224",
+          "image": "",
+          "who": "",
+          "text": "ChatGPT Trace Library｜REST発掘記録 01 2023年3月21日。 ChatGPTとの最初の会…",
+          "date": "2026-10-22T05:04:00+09:00"
+        },
+        {
+          "title": "ココ、いい此処なれ。 ──2026年10月21日、ひとり出版者が生まれた 世間はPHPで揺れているらしい。 そんな日に…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3myfdfnxp7s2b",
+          "image": "",
+          "who": "",
+          "text": "ココ、いい此処なれ。 ──2026年10月21日、ひとり出版者が生まれた 世間はPHPで揺れているらしい。 そんな日に…",
+          "date": "2026-10-21T23:12:00+09:00"
         }
       ],
       "position": "after"
@@ -1248,7 +1404,7 @@
         {
           "label": "はてな｜こえと言葉のブログ",
           "feed": "https://jimt.hatenablog.com/feed",
-          "keep": 5,
+          "keep": 4,
           "items": [
             {
               "title": "AJIWAIのわが道程｜一狄 啓｜🥚半熟の哲学",
@@ -1273,19 +1429,13 @@
               "url": "https://jimt.hatenablog.com/entry/2025/11/19/133249",
               "image": "",
               "date": "2025-11-19T13:32:49+09:00"
-            },
-            {
-              "title": "熟議デモクラシーから交渉リベラリズムへ ── 政治は不一致からはじまる",
-              "url": "https://jimt.hatenablog.com/entry/2025/11/19/105122",
-              "image": "",
-              "date": "2025-11-19T10:51:22+09:00"
             }
           ]
         },
         {
           "label": "アメブロ｜気ままにスローライフ",
           "feed": "https://rssblog.ameba.jp/jimt/rss20.xml",
-          "keep": 5,
+          "keep": 4,
           "items": [
             {
               "title": "札幌の朝焼け",
@@ -1310,19 +1460,13 @@
               "url": "https://ameblo.jp/jimt/entry-12759748276.html",
               "image": "https://stat.ameba.jp/user_images/20220820/07/jimt/2b/24/j/o1023102315163052034.jpg",
               "date": "2022-08-20T07:45:37+09:00"
-            },
-            {
-              "title": "パンケーキミックスで作るメロンパン",
-              "url": "https://ameblo.jp/jimt/entry-12759067089.html",
-              "image": "https://stat.ameba.jp/user_images/20220816/08/jimt/4d/cd/j/o1024081515161306399.jpg",
-              "date": "2022-08-16T08:37:45+09:00"
             }
           ]
         },
         {
           "label": "しずかなインターネット｜LiRax",
           "feed": "https://sizu.me/lirax/rss",
-          "keep": 5,
+          "keep": 4,
           "items": [
             {
               "title": "10月30日（金）",
@@ -1333,7 +1477,21 @@
           ]
         }
       ],
-      "position": "after"
+      "position": "after",
+      "links": [
+        {
+          "label": "はてな",
+          "url": "https://jimt.hatenablog.com/"
+        },
+        {
+          "label": "アメブロ",
+          "url": "https://ameblo.jp/jimt/"
+        },
+        {
+          "label": "静か",
+          "url": "https://sizu.me/lirax"
+        }
+      ]
     }
   ]
 }

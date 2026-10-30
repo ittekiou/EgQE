@@ -58,6 +58,25 @@
   .book .bd{display:block;font-size:11px;color:var(--sub);margin-top:2px}
   .book .bx{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;font-size:11px;line-height:1.5;color:var(--sub);margin-top:3px}
   .book .bx b{font-weight:600;color:var(--ink,inherit)}
+  /* 画像のないブログは文字の装丁、ひとりごとは店主のメモ。 */
+  .text-cover .bc{border:1px solid var(--line);border-top:3px solid var(--wood);background:var(--paper)}
+  .text-cover .bc .ph{position:absolute;align-items:flex-start;justify-content:flex-start;flex-direction:column;gap:12px;padding:12px;text-align:left;color:var(--ink)}
+  .text-cover .cover-source{flex:none;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:10px;line-height:1.5;color:var(--sub)}
+  .text-cover .cover-title{font-family:"Hiragino Mincho ProN","Noto Serif JP",serif;font-size:15px;line-height:1.6;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;overflow-wrap:anywhere}
+  .text-cover:not(.has-image) > .bt,.text-cover:not(.has-image) > .bx{display:none}
+  .text-cover:not(.has-image):hover .cover-title{text-decoration:underline}
+  .text-cover.source-hatena .bc{background:color-mix(in srgb,var(--paper) 88%,#b49b6b)}
+  .text-cover.source-ameba .bc{background:color-mix(in srgb,var(--paper) 88%,#86a087)}
+  .text-cover.source-sizu .bc{background:color-mix(in srgb,var(--paper) 88%,#8fa4b4)}
+  .text-cover.source-ameba .cover-title{font-family:inherit;font-size:14px}
+  .text-cover.source-sizu .cover-title{font-weight:400;letter-spacing:.04em}
+  .book.memo,.book.memo .bc{width:180px}
+  .book.memo:not(.has-image) .bc{aspect-ratio:auto;height:185px;border-top:0;border-radius:1px;box-shadow:0 2px 5px rgba(60,40,20,.08);background:repeating-linear-gradient(to bottom,transparent 0,transparent 23px,var(--line) 24px),var(--paper)}
+  .memo .bc .ph{padding:14px;gap:8px}
+  .memo .cover-title{font-family:inherit;font-size:13px;line-height:24px;-webkit-line-clamp:5}
+  .text-cover:not(.memo) .cover-title{-webkit-line-clamp:3;flex:none}
+  .text-cover.has-image .ph{visibility:hidden}
+  .text-cover.has-image .bc{border-top:1px solid var(--line)}
   .gsep{flex:none;align-self:stretch;width:1px;background:var(--line);margin:0 6px}
   .glabel{flex:none;scroll-snap-align:start;writing-mode:vertical-rl;font-size:11px;color:var(--sub);letter-spacing:.1em;padding:2px 0}
   .papers{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
@@ -184,16 +203,23 @@
   }
 
   function rowsHtml(pos) {
-    const card = (x, kind) => `<a class="book ${kind}" href="${esc(x.url)}"><span class="bc"><span class="ph">${esc(x.title)}</span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${x.text ? `<span class="bx">${x.who ? `<b>${esc(x.who)}</b>：` : ''}${esc(x.text)}</span>` : ''}${kind !== 'book' && x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`;
+    const originalCard = (x, kind) => `<a class="book ${kind}" href="${esc(x.url)}"><span class="bc"><span class="ph">${esc(x.title)}</span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${x.text ? `<span class="bx">${x.who ? `<b>${esc(x.who)}</b>：` : ''}${esc(x.text)}</span>` : ''}${kind !== 'book' && x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`;
+    const card = (x, kind, r, g, groupIndex) => {
+      if (r.id !== 'blog' && r.id !== 'monologue') return originalCard(x, kind);
+      const memo = r.id === 'monologue';
+      const source = memo ? '店主のひとりごと' : (g.label || 'Blog');
+      const sourceClass = memo ? 'memo' : ['source-hatena', 'source-ameba', 'source-sizu'][groupIndex] || '';
+      return `<a class="book ${kind} text-cover ${sourceClass}${x.image ? ' has-image' : ''}" href="${esc(x.url)}"><span class="bc"><span class="ph"><span class="cover-source">${esc(source)}</span><span class="cover-title">${esc(x.title)}</span></span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.closest('a').classList.remove('has-image');this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${x.text ? `<span class="bx">${x.who ? `<b>${esc(x.who)}</b>：` : ''}${esc(x.text)}</span>` : ''}${x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`;
+    };
     return (data.rows || []).filter(r => (r.position || 'before') === pos).map(r => {
       const kind = r.kind || 'book';
       if (kind === 'paper') return papersHtml(r);
       const groups = r.groups || [r];
-      const parts = groups.filter(g => g.items && g.items.length).map((g, i) =>
-        (i ? '<span class="gsep" role="separator" aria-orientation="vertical"></span>' : '') + (g.label && r.groups ? `<span class="glabel">${esc(g.label)}</span>` : '') + g.items.map(x => card(x, kind)).join(''));
+      const parts = groups.map((g, groupIndex) => ({g, groupIndex})).filter(({g}) => g.items && g.items.length).map(({g, groupIndex}, i) =>
+        (i ? '<span class="gsep" role="separator" aria-orientation="vertical"></span>' : '') + (g.label && r.groups ? `<span class="glabel">${esc(g.label)}</span>` : '') + (r.id === 'blog' ? g.items.slice(0, g.keep ?? 4) : g.items).map(x => card(x, kind, r, g, groupIndex)).join(''));
       if (!parts.length) return '';
-      const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : '', `<a href="feed-${esc(r.id)}.xml">📡 RSS</a>`].filter(Boolean).join('　');
-      return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="books">${parts.join('')}</div></div></section>`;
+      const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : '', ...(r.links || []).map(l => `<a href="${esc(l.url)}">${esc(l.label)}</a>`), `<a href="feed-${esc(r.id)}.xml">📡 RSS</a>`].filter(Boolean).join('　');
+      return `<section class="shelf" data-row="${esc(r.id)}"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="books">${parts.join('')}</div></div></section>`;
     }).join('');
   }
 
