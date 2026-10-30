@@ -19,6 +19,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
+from urllib.parse import urlsplit
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from datetime import datetime, timezone, timedelta
@@ -31,6 +32,12 @@ PAUSE = 1.0       # 一回ごとの待ち時間（秒）。noteに負担をか�
 DESC_MAX = 80     # 説明文を自動で入れるときの最大文字数
 
 
+def is_bluesky_rss(url):
+    parsed = urlsplit(url)
+    return (parsed.scheme == "https" and parsed.hostname == "bsky.app"
+            and parsed.path.startswith("/profile/") and parsed.path.endswith("/rss"))
+
+
 def fetch(url):
     if url.startswith("file:"):                     # 爺さんが手で貼ったRSS（リポジトリの中のファイル）
         with open(url[5:], "rb") as f:
@@ -38,8 +45,18 @@ def fetch(url):
         # ブラウザから写すと先頭に「This XML file does not appear…」の一行が付くので、最初の < より前は捨てる
         return data[data.find(b"<"):].strip()
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml;q=0.9, text/html;q=0.8, */*;q=0.5"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read()
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = r.read()
+            if is_bluesky_rss(url):
+                print(f"Bluesky RSS: HTTP {r.status}; Content-Type={r.headers.get('Content-Type', '')}; "
+                      f"bytes={len(data)}; final_url={r.geturl()}")
+            return data
+    except urllib.error.HTTPError as e:
+        if is_bluesky_rss(url):
+            print(f"Bluesky RSS: HTTP {e.code}; Content-Type={e.headers.get('Content-Type', '')}; "
+                  f"Retry-After={e.headers.get('Retry-After', '')}", file=sys.stderr)
+        raise
 
 
 def to_iso(pub):
@@ -152,6 +169,7 @@ def read_row(feed_url, sort=True):
     """RSS（Are.na・Substack・LISTEN・stand.fm・ブログ・Bluesky）でも Atom（YouTube・はてな）でも、「段」の中身を読む。
     Are.na の <source url>（Amazon の商品ページ）があれば、そちらをリンクにする。"""
     root = ET.fromstring(fetch(feed_url))
+    bluesky = is_bluesky_rss(feed_url)
     out = []
     if root.tag == f"{ATOM}feed":                   # YouTube など
         for e in root.iter(f"{ATOM}entry"):
@@ -182,7 +200,9 @@ def read_row(feed_url, sort=True):
             else:
                 link = (it.findtext("link") or "").strip()
             out.append({
-                "title": (it.findtext("title") or "").strip(),
+                # Bluesky公式RSSにはtitleがない。本文から表示・再配信用の見出しを補う。
+                "title": ((it.findtext("title") or "").strip()
+                          or (excerpt(it.findtext("description")) if bluesky else "")),
                 "url": link,
                 "image": item_image(it, ch_img),
                 "who": (it.findtext(f"{DC}creator") or "").strip(),
@@ -190,6 +210,10 @@ def read_row(feed_url, sort=True):
                 "date": any_date(it.findtext("pubDate")),
             })
     out = [x for x in out if x["title"]]
+    if bluesky:
+        out = [x for x in out if x["url"]]
+        if not out:
+            raise ValueError("Bluesky RSS: 表示できる投稿が0件（空配信・構造変更・本文/リンク欠落）。前回データを保持")
     if sort:
         out.sort(key=lambda x: x["date"] or "", reverse=True)
     return out[:ROW_KEEP]
@@ -236,13 +260,14 @@ def fill_group(grp, rid, sort=True):
             if not url:
                 continue
             try:
-                got += read_row(url, sort)
+                items = read_row(url, sort)
+                got += items
                 ok += 1
-                print(f"ok row {rid}: {url[:60]}")
+                print(f"ok row {rid}: {url[:60]} ({len(items)} items)")
                 time.sleep(PAUSE)
                 break
             except Exception as e:
-                print(f"skip row {rid}: {url[:60]}: {e}", file=sys.stderr)
+                print(f"skip row {rid}: {url[:60]}: {type(e).__name__}: {e}", file=sys.stderr)
                 time.sleep(PAUSE)
     if ok:
         if len(feeds) > 1:
