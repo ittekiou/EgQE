@@ -141,8 +141,9 @@ def excerpt(body):
     t = html.unescape(body or "")
     t = re.sub(r"<(aside|blockquote)[^>]*>.*?</\1>", " ", t, flags=re.S)   # 引用やリンクカードは除く
     t = re.sub(r"<[^>]+>", " ", t)
-    t = re.sub(r"(Read full topic|トピック全体を読む|続きを読む)", " ", t)
+    t = re.sub(r"(Read full topic|全?トピック(全体)?を読む|続きを読む)", " ", t)
     t = re.sub(r"\d+\s*(posts?|件の投稿)\s*-\s*\d+\s*(participants?|人の参加者)", " ", t)
+    t = re.sub(r"投稿\s*\d+\s*件\s*-\s*参加者[:：]?\s*\d+(\s*人)?", " ", t)   # 日本語表示の Discourse
     t = re.sub(r"\s+", " ", t).strip()
     return t if len(t) <= EXCERPT_MAX else t[:EXCERPT_MAX - 1] + "…"
 
