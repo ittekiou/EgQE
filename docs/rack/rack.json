@@ -1,7 +1,7 @@
 {
   "title": "Living RACKs",
   "subtitle": "SCREP -処-｜新刊のある古書店",
-  "updated": "2026-10-28T21:40:00+09:00",
+  "updated": "2026-10-30T16:05:33+09:00",
   "shelves": [
     {
       "id": "walk",
@@ -1147,44 +1147,6 @@
       ]
     },
     {
-      "id": "blog",
-      "kind": "letter",
-      "name": "✒️｜Blog",
-      "note": "メインは「こえとことばのブログ」。媒体ごとに新着を並べています。",
-      "groups": [
-        {
-          "label": "メイン｜こえとことばのブログ（はてな）",
-          "feed": "https://jimt.hatenablog.com/feed",
-          "keep": 5,
-          "items": []
-        },
-        {
-          "label": "アメブロ｜jimt",
-          "feed": "https://rssblog.ameba.jp/jimt/rss20.xml",
-          "keep": 5,
-          "items": []
-        },
-        {
-          "label": "しずかなインターネット｜LiRax",
-          "feed": "https://sizu.me/lirax/rss",
-          "keep": 5,
-          "items": []
-        }
-      ]
-    },
-    {
-      "id": "monologue",
-      "kind": "letter",
-      "name": "💬 店主｜ひとりごと",
-      "note": "Blueskyから届く、店主のひとりごと。",
-      "feed": "https://bsky.app/profile/campus6214.substack.com/rss",
-      "link": "https://bsky.app/profile/campus6214.substack.com",
-      "linkLabel": "Bluesky ↗",
-      "keep": 5,
-      "excerpt": true,
-      "items": []
-    },
-    {
       "id": "papers",
       "kind": "paper",
       "position": "after",
@@ -1222,6 +1184,156 @@
           "excerpt": true
         }
       ]
+    },
+    {
+      "id": "monologue",
+      "kind": "letter",
+      "name": "💬 店主｜ひとりごと",
+      "note": "Blueskyから届く、店主のひとりごと。",
+      "feed": "https://bsky.app/profile/campus6214.substack.com/rss",
+      "link": "https://bsky.app/profile/campus6214.substack.com",
+      "linkLabel": "Bluesky ↗",
+      "keep": 5,
+      "excerpt": true,
+      "items": [
+        {
+          "title": "更新情報 ℹ️ すべては此処 🈁 SCREP -処-｜新刊のある古書店 束はあちこちに。表紙はここに。 📡 RSSあり…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3mz2dcadwhk2n",
+          "image": "",
+          "who": "",
+          "text": "更新情報 ℹ️ すべては此処 🈁 SCREP -処-｜新刊のある古書店 束はあちこちに。表紙はここに。 📡 RSSあり…",
+          "date": "2026-10-30T07:36:00+09:00"
+        },
+        {
+          "title": "Living RACKs になりました https://note.com/takahashihajime/n/n9fe…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3myyjocb7yk26",
+          "image": "",
+          "who": "",
+          "text": "Living RACKs になりました https://note.com/takahashihajime/n/n9fe…",
+          "date": "2026-10-29T14:25:00+09:00"
+        },
+        {
+          "title": "雑誌コーナー 新着入荷続々 新古書乳化中 Living RACK camp-us.net/rack/ https://…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3myxllyv5zk2j",
+          "image": "",
+          "who": "",
+          "text": "雑誌コーナー 新着入荷続々 新古書乳化中 Living RACK camp-us.net/rack/ https://…",
+          "date": "2026-10-29T05:27:00+09:00"
+        },
+        {
+          "title": "Living RACK できました──新刊入荷＆新古書乳化する古書店｜📚 SCREP -処- https://note…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3mywuzou4ik2s",
+          "image": "",
+          "who": "",
+          "text": "Living RACK できました──新刊入荷＆新古書乳化する古書店｜📚 SCREP -処- https://note…",
+          "date": "2026-10-28T22:43:00+09:00"
+        },
+        {
+          "title": "捕まらないnote── 自由だなぁ🗽｜一狄 啓｜📚 SCREP -処- https://note.com/takaha…",
+          "url": "https://bsky.app/profile/campus6214.substack.com/post/3myw2zzqw222t",
+          "image": "",
+          "who": "",
+          "text": "捕まらないnote── 自由だなぁ🗽｜一狄 啓｜📚 SCREP -処- https://note.com/takaha…",
+          "date": "2026-10-28T14:58:00+09:00"
+        }
+      ],
+      "position": "after"
+    },
+    {
+      "id": "blog",
+      "kind": "letter",
+      "name": "✒️ Blog",
+      "note": "はてな、アメブロ、静かなインターネット。媒体ごとに新着を並べています。",
+      "groups": [
+        {
+          "label": "はてな｜こえと言葉のブログ",
+          "feed": "https://jimt.hatenablog.com/feed",
+          "keep": 5,
+          "items": [
+            {
+              "title": "AJIWAIのわが道程｜一狄 啓｜🥚半熟の哲学",
+              "url": "https://jimt.hatenablog.com/entry/2026/09/11/055245",
+              "image": "",
+              "date": "2026-09-11T05:52:45+09:00"
+            },
+            {
+              "title": "2025生誕祭｜「光の三詠」 から「HEG-Q」四重拍動構文体へ",
+              "url": "https://jimt.hatenablog.com/entry/2025/12/10/195227",
+              "image": "",
+              "date": "2025-12-10T19:52:27+09:00"
+            },
+            {
+              "title": "🎧📓 「三年三拍観測」 ー 3点観測シリーズ｜年末特別企画",
+              "url": "https://jimt.hatenablog.com/entry/332025",
+              "image": "",
+              "date": "2025-12-08T14:33:51+09:00"
+            },
+            {
+              "title": "構造から構文へ｜空間から時間へ｜余白論と時間論の新展開",
+              "url": "https://jimt.hatenablog.com/entry/2025/11/19/133249",
+              "image": "",
+              "date": "2025-11-19T13:32:49+09:00"
+            },
+            {
+              "title": "熟議デモクラシーから交渉リベラリズムへ ── 政治は不一致からはじまる",
+              "url": "https://jimt.hatenablog.com/entry/2025/11/19/105122",
+              "image": "",
+              "date": "2025-11-19T10:51:22+09:00"
+            }
+          ]
+        },
+        {
+          "label": "アメブロ｜気ままにスローライフ",
+          "feed": "https://rssblog.ameba.jp/jimt/rss20.xml",
+          "keep": 5,
+          "items": [
+            {
+              "title": "札幌の朝焼け",
+              "url": "https://ameblo.jp/jimt/entry-12762430598.html",
+              "image": "https://stat.ameba.jp/user_images/20220904/09/jimt/66/f1/j/o1024103515169884616.jpg",
+              "date": "2022-09-04T09:12:38+09:00"
+            },
+            {
+              "title": "秋空",
+              "url": "https://ameblo.jp/jimt/entry-12760636571.html",
+              "image": "https://stat.ameba.jp/user_images/20220825/08/jimt/89/84/j/o1024102415165327169.jpg",
+              "date": "2022-08-25T08:34:30+09:00"
+            },
+            {
+              "title": "秋空",
+              "url": "https://ameblo.jp/jimt/entry-12760276979.html",
+              "image": "https://stat.ameba.jp/user_images/20220823/07/jimt/83/a5/j/o1024082915164451017.jpg",
+              "date": "2022-08-23T07:55:47+09:00"
+            },
+            {
+              "title": "札幌はもう秋",
+              "url": "https://ameblo.jp/jimt/entry-12759748276.html",
+              "image": "https://stat.ameba.jp/user_images/20220820/07/jimt/2b/24/j/o1023102315163052034.jpg",
+              "date": "2022-08-20T07:45:37+09:00"
+            },
+            {
+              "title": "パンケーキミックスで作るメロンパン",
+              "url": "https://ameblo.jp/jimt/entry-12759067089.html",
+              "image": "https://stat.ameba.jp/user_images/20220816/08/jimt/4d/cd/j/o1024081515161306399.jpg",
+              "date": "2022-08-16T08:37:45+09:00"
+            }
+          ]
+        },
+        {
+          "label": "しずかなインターネット｜LiRax",
+          "feed": "https://sizu.me/lirax/rss",
+          "keep": 5,
+          "items": [
+            {
+              "title": "10月30日（金）",
+              "url": "https://sizu.me/lirax/posts/t5ww4dnb6mx8",
+              "image": "https://r2.sizu.me/users/81273/avatar.jpeg?v=1793340945907",
+              "date": "2026-10-30T15:10:20+09:00"
+            }
+          ]
+        }
+      ],
+      "position": "after"
     }
   ]
 }
