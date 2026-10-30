@@ -1172,14 +1172,16 @@
           "feeds": [
             "https://ez.discourse.group/latest.rss"
           ],
-          "keep": 3
+          "keep": 3,
+          "excerpt": true
         },
         {
           "label": "新しい書き込み",
           "feeds": [
             "https://ez.discourse.group/posts.rss"
           ],
-          "keep": 3
+          "keep": 3,
+          "excerpt": true
         }
       ]
     }

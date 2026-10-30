@@ -56,6 +56,8 @@
   .book.video,.book.video .bc{width:220px}
   .book.video .bc{aspect-ratio:16/9}
   .book .bd{display:block;font-size:11px;color:var(--sub);margin-top:2px}
+  .book .bx{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;font-size:11px;line-height:1.5;color:var(--sub);margin-top:3px}
+  .book .bx b{font-weight:600;color:var(--ink,inherit)}
   .gsep{flex:none;align-self:stretch;width:1px;background:var(--line);margin:0 6px}
   .glabel{flex:none;scroll-snap-align:start;writing-mode:vertical-rl;font-size:11px;color:var(--sub);letter-spacing:.1em;padding:2px 0}
   .papers{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
@@ -182,7 +184,7 @@
   }
 
   function rowsHtml(pos) {
-    const card = (x, kind) => `<a class="book ${kind}" href="${esc(x.url)}"><span class="bc"><span class="ph">${esc(x.title)}</span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${kind !== 'book' && x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`;
+    const card = (x, kind) => `<a class="book ${kind}" href="${esc(x.url)}"><span class="bc"><span class="ph">${esc(x.title)}</span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${x.text ? `<span class="bx">${x.who ? `<b>${esc(x.who)}</b>：` : ''}${esc(x.text)}</span>` : ''}${kind !== 'book' && x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`;
     return (data.rows || []).filter(r => (r.position || 'before') === pos).map(r => {
       const kind = r.kind || 'book';
       if (kind === 'paper') return papersHtml(r);
