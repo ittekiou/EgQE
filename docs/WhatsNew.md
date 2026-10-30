@@ -24,6 +24,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/10/30  
+[SD-RACK v0.1｜Static-Dynamic RACK: Minimal Construction Manual](https://camp-us.net/CESE-PEC/SD-RACK_Minimal-Construction-Manual_v0.1.html)  
 ###### 2026/10/29  
 [TUP-RN-01｜なぞりかたの文明論 ──リニア炎上文明とノンリニアEnjoy文明（v0.5）](https://camp-us.net/articles/TUP-RN-01_NAZORU-Manners_Civilization-of-Tracing_v0.5.html)  
 [TUP-RN-01｜なぞりかたの文明論 ──リニア炎上文明とノンリニアEnjoy文明（v0.3）](https://camp-us.net/articles/TUP-RN-01_NAZORU-Manners_Civilization-of-Tracing_v0.3.html)  
