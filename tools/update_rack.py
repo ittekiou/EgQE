@@ -132,6 +132,21 @@ def item_image(it, fallback=""):
     return fallback
 
 
+DC = "{http://purl.org/dc/elements/1.1/}"
+EXCERPT_MAX = 60
+
+
+def excerpt(body):
+    """本文の頭を、タグを外して短く。Discourse が足す「全文を読む」「N件の投稿」などは除く。"""
+    t = html.unescape(body or "")
+    t = re.sub(r"<(aside|blockquote)[^>]*>.*?</\1>", " ", t, flags=re.S)   # 引用やリンクカードは除く
+    t = re.sub(r"<[^>]+>", " ", t)
+    t = re.sub(r"(Read full topic|トピック全体を読む|続きを読む)", " ", t)
+    t = re.sub(r"\d+\s*(posts?|件の投稿)\s*-\s*\d+\s*(participants?|人の参加者)", " ", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    return t if len(t) <= EXCERPT_MAX else t[:EXCERPT_MAX - 1] + "…"
+
+
 def read_row(feed_url, sort=True):
     """RSS（Are.na・Substack・LISTEN・stand.fm）でも Atom（YouTube）でも、「段」の中身を読む。
     Are.na の <source url>（Amazon の商品ページ）があれば、そちらをリンクにする。"""
@@ -167,6 +182,8 @@ def read_row(feed_url, sort=True):
                 "title": (it.findtext("title") or "").strip(),
                 "url": link,
                 "image": item_image(it, ch_img),
+                "who": (it.findtext(f"{DC}creator") or "").strip(),
+                "text": excerpt(it.findtext("description")),
                 "date": any_date(it.findtext("pubDate")),
             })
     out = [x for x in out if x["title"]]
@@ -228,6 +245,10 @@ def fill_group(grp, rid, sort=True):
         if len(feeds) > 1:
             got.sort(key=lambda x: x["date"] or "", reverse=True)
         grp["items"] = got[:grp.get("keep", ROW_KEEP)]
+        for x in grp["items"]:
+            if not grp.get("excerpt"):          # 抜粋を見せる組（"excerpt": true）だけ残す
+                x.pop("who", None)
+                x.pop("text", None)
         if grp.get("image") is False:           # 表紙を拾わない組（Discourse は絵文字やアイコンが拾われるため）
             for x in grp["items"]:
                 x["image"] = ""
@@ -247,6 +268,7 @@ def collect_entries(rack):
         if it.get("title") and it.get("url"):
             out.append({"date": it.get("date") or "", "title": it["title"], "url": it["url"],
                         "image": it.get("image") or it.get("thumb") or "",
+                        "text": ((it.get("who") + "：") if it.get("who") else "") + (it.get("text") or ""),
                         "cat": cat, "tags": tags, "pr": pr})
 
     for row in rack.get("rows", []):
@@ -298,6 +320,8 @@ def write_feed(entries, out, title, desc, page=PAGE):
     ]
     for e in items:
         d = esc(e["cat"]) + ("（PR）" if e["pr"] else "")
+        if e.get("text"):
+            d += esc("<br>" + e["text"])
         if e["image"]:
             d += esc(f'<br><img src="{e["image"]}" alt="">')
         lines += ["<item>",
