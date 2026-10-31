@@ -49,7 +49,7 @@ _**ZURE Inter-Phase Publisher（支える）→ E-Zy Press（整える）→ E-Z
 ---
 
 [E-Zy Press](https://ezsy.super.site/e-zy-press)  
-
+[AImaizone](https://camp-us.net/AImyzone/index.html)  
 
 ---
 
