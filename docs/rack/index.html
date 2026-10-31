@@ -91,7 +91,13 @@
   .forum-card:hover .notice-title{text-decoration:underline}
   [data-row="books"] > .board{border-bottom:0;border-radius:0;padding-bottom:0}
   [data-row="books"]{border-bottom:6px solid var(--wood);border-radius:0 0 3px 3px;padding-bottom:18px}
-  .publisher-note{margin:18px 0 0;padding:14px 16px;border-left:3px solid var(--wood);background:var(--paper);border-radius:0 3px 3px 0}
+  .publisher-note{margin:18px 0 0;padding:14px 16px;border-left:3px solid var(--wood);background:var(--paper);border-radius:0 3px 3px 0;display:grid;grid-template-columns:minmax(0,1fr) 100px;gap:16px;align-items:center}
+  .publisher-copy{min-width:0}
+  .publisher-guide{display:block;width:100px;max-width:100%;height:auto}
+  @media(max-width:480px){
+    .publisher-note{grid-template-columns:minmax(0,1fr) 88px;gap:12px}
+    .publisher-guide{width:88px}
+  }
   .publisher-note h3{font-size:15px;font-weight:600;margin:0 0 5px}
   .publisher-note p{font-size:13px;color:var(--sub);margin:3px 0}
   .publisher-note a{display:inline-block;font-size:13px;margin-top:6px;text-underline-offset:3px}
@@ -240,7 +246,7 @@
       const groups = r.groups || [r];
       const parts = groups.map((g, groupIndex) => ({g, groupIndex})).filter(({g}) => g.items && g.items.length).map(({g, groupIndex}, i) =>
         (i ? '<span class="gsep" role="separator" aria-orientation="vertical"></span>' : '') + (g.label && r.groups ? `<span class="glabel">${esc(g.label)}</span>` : '') + (r.id === 'blog' ? g.items.slice(0, g.keep ?? 4) : g.items).map(x => card(x, kind, r, g, groupIndex)).join(''));
-      const publisher = r.id === 'books' ? `<aside class="publisher-note" aria-labelledby="publisher-title"><h3 id="publisher-title">E-Zy Press｜刊行書案内</h3><p>新刊のある古書店、SCREP -処-<br>札幌にある小さなひとり出版社です。</p><a href="https://ezsy.super.site/e-zy-press/bbb/bbbl">刊行書を見る</a></aside>` : '';
+      const publisher = r.id === 'books' ? `<aside class="publisher-note" aria-labelledby="publisher-title"><div class="publisher-copy"><h3 id="publisher-title">E-Zy Press｜刊行書案内</h3><p>新刊のある古書店、SCREP -処-<br>札幌にある小さなひとり出版社です。</p><a href="https://ezsy.super.site/e-zy-press/bbb/bbbl">刊行書を見る</a></div><img class="publisher-guide" src="assets/g-la.png" width="512" height="512" alt="E-Zy Pressの案内係・ジーラちゃん" loading="lazy"></aside>` : '';
       if (!parts.length) return publisher;
       const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : '', ...(r.links || []).map(l => `<a href="${esc(l.url)}">${esc(l.label)}</a>`), `<a href="feed-${esc(r.id)}.xml">📡 RSS</a>`].filter(Boolean).join('　');
       return `<section class="shelf" data-row="${esc(r.id)}"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="books">${parts.join('')}</div></div>${publisher}</section>`;
