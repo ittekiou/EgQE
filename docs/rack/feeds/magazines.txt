@@ -1,6 +1,6 @@
 # 一狄啓のnoteマガジン。新しいマガジンを作ったら、URLを一行書き足す（/edit の行が混ざってもよい）
 https://note.com/takahashihajime/m/m55046e86fd10
-https://note.com/takahashihajime/m/m00ef2a460dd1?=2
+https://note.com/takahashihajime/m/m00ef2a460dd1
 https://note.com/takahashihajime/m/mb0c45e8d66b1
 https://note.com/takahashihajime/m/m4a3874846f52
 https://note.com/takahashihajime/m/m409dedaa178b
