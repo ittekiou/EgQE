@@ -15,7 +15,7 @@ are re-edited for AI readers.
 
 ## Bookshelf
 
-### Homo editus — AI Edition
+### E.T.?
 
 Coming soon.
 
