@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RT.Pics｜休日散歩</title>
+<meta name="description" content="休日散歩｜Picnic Picks。LiRax の店先から、七枚の絵を持って出かける。開くたびに、ちがう七枚。">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://camp-us.net/pics/">
+<meta property="og:title" content="RT.Pics｜休日散歩｜Picnic Picks">
+<meta property="og:description" content="LiRax の店先から、七枚の絵を持って出かける。開くたびに、ちがう七枚。">
+<style>
+  /* 色は LiRax（/rack/）とそろえる */
+  :root{
+    --bg:#f4efe6; --paper:#fbf8f2; --ink:#2b2621; --sub:#6f665c; --line:#ddd3c4;
+    --wood:#8a6a48; --tag:#efe5d3; --shadow:0 1px 2px rgba(60,40,20,.08),0 6px 18px rgba(60,40,20,.08);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#1d1b18; --paper:#26231f; --ink:#ece6dc; --sub:#a59c90; --line:#3a352e;
+      --wood:#b38c62; --tag:#332e27; --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 18px rgba(0,0,0,.25);
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Hiragino Kaku Gothic ProN","Noto Sans JP",system-ui,sans-serif;line-height:1.6}
+  a{color:inherit}
+  .wrap{max-width:980px;margin:0 auto;padding:28px 16px 64px}
+  header h1{font-family:"Hiragino Mincho ProN","Noto Serif JP",serif;font-weight:600;
+    font-size:clamp(28px,5vw,44px);margin:0;letter-spacing:.02em}
+  header .sub{color:var(--sub);margin:4px 0 0}
+  header .motto{margin:14px 0 0;font-size:15px}
+  header .mini{margin:6px 0 0;font-size:12px;color:var(--sub)}
+  header .mini a,header .mini button{color:var(--sub)}
+  header .mini button{font:inherit;background:none;border:0;padding:0;text-decoration:underline;cursor:pointer}
+
+  .show{margin-top:28px;border-bottom:6px solid var(--wood);border-radius:0 0 3px 3px;padding-bottom:22px}
+  .pic{display:block;text-decoration:none}
+  .pic .fr{display:block;background:var(--tag);border-radius:3px;overflow:hidden;box-shadow:var(--shadow);position:relative}
+  .pic .fr img{width:100%;height:100%;object-fit:contain;display:block}  /* 本の表紙も横長の見出し画像も、切らずに額に収める */
+  .pic .ph{position:absolute;inset:0;display:none;align-items:center;justify-content:center;padding:12px;
+    text-align:center;font-family:"Hiragino Mincho ProN","Noto Serif JP",serif;font-size:14px;color:var(--sub)}
+  .pic.noimg .ph{display:flex}
+  .pic.noimg img{display:none}
+  .pic .cap{display:block;margin-top:6px}
+  .pic .t{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-size:13px;line-height:1.5}
+  .pic .m{display:block;font-size:11px;color:var(--sub);margin-top:2px}
+  .pic:hover .t{text-decoration:underline}
+
+  .big .fr{aspect-ratio:16/10;max-height:62vh;margin:0 auto}
+  .big .t{font-family:"Hiragino Mincho ProN","Noto Serif JP",serif;font-size:18px;-webkit-line-clamp:3}
+  .small{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:22px}
+  .small .fr{aspect-ratio:1/1}
+  @media (max-width:560px){ .small{grid-template-columns:repeat(2,1fr);gap:12px} }
+
+  .note{color:var(--sub);font-size:13px;margin:14px 0 0}
+  .err{color:var(--sub)}
+  footer{margin-top:36px;font-size:12px;color:var(--sub)}
+  footer a{color:var(--sub)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>RT.Pics</h1>
+    <p class="sub">休日散歩｜Picnic Picks</p>
+    <p class="motto">LiRax の店先から、七枚の絵を持って出かける。開くたびに、ちがう七枚。</p>
+    <p class="mini">📚 <a href="/rack/">LiRax｜Living RACKs へ</a>　<button type="button" id="again">↻ もう一度ひく</button></p>
+  </header>
+
+  <main id="show" class="show"><p class="err">絵を選んでいます…</p></main>
+  <p class="note">絵を押すと、元の場所へ。昔の棚に会いたくなったら、<a href="/rack/">LiRax</a> の中へどうぞ。</p>
+
+  <footer>
+    RT.Pics｜休日散歩｜Picnic Picks　·　絵と題名は <a href="/rack/">Living RACKs</a> の新着から。<br>
+    新刊の絵にはAmazonアソシエイトリンクを含みます（PR）。Amazonのアソシエイトとして、一狄 啓（Kei Itteki）は適格販売により収入を得ています。
+  </footer>
+</div>
+
+<script>
+(() => {
+  const SRC = '/rack/rack.json';   // LiRax の台帳をそのまま読む（新しく取りに行くものはない）
+  const N = 7;                      // 大きな一枚＋小さな六枚
+  const $show = document.getElementById('show');
+  let pool = [];
+
+  const esc = s => String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const ymd = d => { const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(d || ''); return m ? `${m[1]}.${m[2]}.${m[3]}` : ''; };
+  // 同じ記事・同じ本を二枚出さないための見分け（クエリと末尾の / を外したURL）
+  const key = u => String(u || '').replace(/[?#].*$/, '').replace(/\/+$/, '').toLowerCase();
+
+  // LiRax の台帳から、絵のある新着だけを集める（棚の名前も札として持っておく）
+  function collect(rack) {
+    const out = [];
+    const add = (it, cat, pr) => {
+      const image = it.image || it.thumb || '';
+      if (image && it.url && it.title) out.push({ title: it.title, url: it.url, image, date: it.date || '', cat, pr });
+    };
+    for (const row of rack.rows || []) {
+      const pr = row.kind === 'book';
+      for (const grp of (row.groups || [row])) {
+        if (grp.image === false) continue;
+        const cat = (row.name || '') + (grp !== row && grp.label ? '｜' + grp.label : '');
+        for (const it of grp.items || []) add(it, cat, pr);
+      }
+    }
+    for (const m of rack.magazines || []) {
+      if (m.hidden) continue;
+      for (const it of m.latest || []) add(it, '📬 雑誌｜' + (m.title || ''), false);
+    }
+    const seen = new Set();
+    return out.filter(e => { const k = key(e.url); if (seen.has(k)) return false; seen.add(k); return true; });
+  }
+
+  function rnd(n) {               // 0〜n-1 の乱数
+    try { const a = new Uint32Array(1); crypto.getRandomValues(a); return a[0] % n; }
+    catch (e) { return Math.floor(Math.random() * n); }
+  }
+  function draw(list, n) {        // 新しいものも古いものも同じくじ。最初の一枚が主役。
+    const a = list.slice();
+    for (let i = a.length - 1; i > 0; i--) { const j = rnd(i + 1); [a[i], a[j]] = [a[j], a[i]]; }
+    return a.slice(0, n);
+  }
+
+  function tile(e, cls) {
+    const meta = [e.cat, ymd(e.date)].filter(Boolean).join('　') + (e.pr ? '（PR）' : '');
+    return `<a class="pic ${cls}" href="${esc(e.url)}">
+      <span class="fr"><img src="${esc(e.image)}" alt="${esc(e.title)}" loading="${cls === 'big' ? 'eager' : 'lazy'}"><span class="ph">${esc(e.title)}</span></span>
+      <span class="cap"><span class="t">${esc(e.title)}</span><span class="m">${esc(meta)}</span></span>
+    </a>`;
+  }
+
+  function show() {
+    if (!pool.length) { $show.innerHTML = '<p class="err">いま店先に出せる絵がありません。<a href="/rack/">LiRax</a> へどうぞ。</p>'; return; }
+    const seven = draw(pool, N);
+    $show.innerHTML = tile(seven[0], 'big') +
+      (seven.length > 1 ? `<div class="small">${seven.slice(1).map(e => tile(e, 'sm')).join('')}</div>` : '');
+    // 絵が読めなかったときは、題名だけの額にする
+    $show.querySelectorAll('.pic img').forEach(img => img.addEventListener('error', () => img.closest('.pic').classList.add('noimg')));
+  }
+
+  document.getElementById('again').addEventListener('click', show);
+
+  fetch(SRC, { cache: 'no-cache' })
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(j => { pool = collect(j); show(); })
+    .catch(() => { $show.innerHTML = '<p class="err">LiRax の台帳（/rack/rack.json）を読めませんでした。Webサーバーの上で開いてください。</p>'; });
+})();
+</script>
+</body>
+</html>
