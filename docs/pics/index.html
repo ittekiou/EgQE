@@ -33,6 +33,13 @@
   header .mini{margin:6px 0 0;font-size:12px;color:var(--sub)}
   header .mini a,header .mini button{color:var(--sub)}
   header .mini button{font:inherit;background:none;border:0;padding:0;text-decoration:underline;cursor:pointer}
+  /* 双子星：LiRax と RT.Pics の対の札（両ページ共通） */
+  .twins{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 4px;padding:0;list-style:none}
+  .twins a{display:inline-flex;align-items:baseline;gap:6px;padding:6px 14px;border-radius:999px;
+    border:1px solid var(--wood);color:var(--wood);background:var(--paper);text-decoration:none;font-size:14px;line-height:1.4}
+  .twins a small{font-size:11px;opacity:.85}
+  .twins a:hover{background:var(--tag)}
+  .twins a[aria-current="page"]{background:var(--wood);color:var(--bg);cursor:default}
 
   .show{margin-top:28px;border-bottom:6px solid var(--wood);border-radius:0 0 3px 3px;padding-bottom:22px}
   .pic{display:block;text-decoration:none}
@@ -65,7 +72,8 @@
     <h1>RT.Pics</h1>
     <p class="sub">休日散歩｜Picnic Picks</p>
     <p class="motto">LiRax の店先から、七枚の絵を持って出かける。開くたびに、ちがう七枚。</p>
-    <p class="mini">📚 <a href="/rack/">LiRax｜Living RACKs へ</a>　<button type="button" id="again">↻ もう一度ひく</button></p>
+    <ul class="twins" aria-label="双子のページ"><li><a href="/rack/">📚 LiRax <small>新着順</small></a></li><li><a href="/pics/" aria-current="page">🧺 RT.Pics <small>遭遇順</small></a></li></ul>
+    <p class="mini"><button type="button" id="again">↻ もう一度ひく</button></p>
   </header>
 
   <main id="show" class="show"><p class="err">絵を選んでいます…</p></main>
