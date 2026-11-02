@@ -1105,6 +1105,19 @@
       "sort": false
     },
     {
+      "id": "noton",
+      "kind": "magazine",
+      "position": "noton",
+      "name": "🐽 問屋｜noTon",
+      "note": "note RACK に貼られたマガジン。LiRax には並べず、/noton/ にだけ出す。",
+      "feed": "https://www.are.na/dream-no-track-kuykyopogvu/note-rack/feed/rss",
+      "link": "https://www.are.na/dream-no-track-kuykyopogvu/note-rack",
+      "linkLabel": "Are.naの棚 ↗",
+      "items": [],
+      "keep": 24,
+      "sort": false
+    },
+    {
       "id": "letters",
       "kind": "letter",
       "name": "📮 便り｜EgSS",
