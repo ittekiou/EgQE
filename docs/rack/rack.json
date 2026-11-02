@@ -1065,6 +1065,18 @@
       "order": 2,
       "latest_at": null,
       "latest": []
+    },
+    {
+      "id": "m4e4300e6e3ef",
+      "title": "",
+      "url": "https://note.com/takahashihajime/m/m4e4300e6e3ef",
+      "cover": "",
+      "description": "",
+      "count": null,
+      "shelf": "publish",
+      "order": 12,
+      "latest_at": null,
+      "latest": []
     }
   ],
   "rows": [
