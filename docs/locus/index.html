@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LOCUS｜此処</title>
+<meta name="description" content="此処が LOCUS。ここから飛べ。LiRax・RT.Pics・Stall・noTon の真ん中。">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://camp-us.net/locus/">
+<meta property="og:title" content="LOCUS｜此処">
+<meta property="og:description" content="ここから飛べ。">
+<style>
+  /* 色は四軒とそろえる */
+  :root{
+    --bg:#f4efe6; --paper:#fbf8f2; --ink:#2b2621; --sub:#6f665c; --line:#ddd3c4;
+    --wood:#8a6a48; --tag:#efe5d3; --shadow:0 1px 2px rgba(60,40,20,.08),0 6px 18px rgba(60,40,20,.08);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#1d1b18; --paper:#26231f; --ink:#ece6dc; --sub:#a59c90; --line:#3a352e;
+      --wood:#b38c62; --tag:#332e27; --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 18px rgba(0,0,0,.25);
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Hiragino Kaku Gothic ProN","Noto Sans JP",system-ui,sans-serif;line-height:1.6}
+  a{color:inherit}
+  .wrap{max-width:660px;margin:0 auto;padding:28px 16px 56px}
+
+  /* 十字：北＝noTon、南＝Stall、左＝LiRax、右＝RT.Pics、真ん中＝此処 */
+  .cross{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,auto);
+    gap:clamp(10px,2.4vw,20px);margin-top:8px}
+  .n{grid-column:2;grid-row:1} .w{grid-column:1;grid-row:2} .c{grid-column:2;grid-row:2}
+  .e{grid-column:3;grid-row:2} .s{grid-column:2;grid-row:3}
+
+  .shop{display:flex;flex-direction:column;text-decoration:none}
+  .shop .fr{display:block;aspect-ratio:1/1;background:var(--tag);border-radius:4px;overflow:hidden;
+    box-shadow:var(--shadow);position:relative;border:1px solid var(--line)}
+  .shop .fr img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s}
+  .shop:hover .fr img{transform:scale(1.04)}
+  .shop .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:clamp(28px,7vw,48px)}
+  .shop .fr img + .ph{display:none}
+  .shop .nm{margin-top:8px;text-align:center;font-size:clamp(13px,2.4vw,16px);font-weight:600;color:var(--wood);line-height:1.3}
+  .shop .nm small{display:block;font-weight:400;font-size:clamp(10px,1.8vw,12px);color:var(--sub)}
+  .shop .dir{position:absolute;top:6px;left:8px;font-size:11px;letter-spacing:.08em;color:#fff;
+    text-shadow:0 1px 3px rgba(0,0,0,.6)}
+
+  .c{display:flex;flex-direction:column;align-items:center;justify-content:center;aspect-ratio:1/1;
+    border-radius:50%;background:var(--wood);color:var(--bg);box-shadow:var(--shadow);align-self:start}
+  .c .here{font-family:"Hiragino Mincho ProN","Noto Serif JP",serif;font-weight:600;
+    font-size:clamp(30px,8vw,60px);line-height:1;letter-spacing:.06em}
+  .c .lc{font-size:clamp(10px,2vw,13px);letter-spacing:.3em;margin-top:6px;opacity:.9}
+
+  .motto{text-align:center;margin:28px 0 0;font-family:"Hiragino Mincho ProN","Noto Serif JP",serif;
+    font-size:clamp(18px,3.6vw,24px)}
+  .note{text-align:center;color:var(--sub);font-size:12px;margin:10px 0 0}
+  footer{margin-top:40px;font-size:12px;color:var(--sub);text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <main class="cross">
+    <a class="shop n" href="/noton/"><span class="fr"><span class="dir">N</span><span class="ph">🐽</span></span><span class="nm">🐽 noTon<small>接続順</small></span></a>
+    <a class="shop w" href="/rack/"><span class="fr"><span class="dir">L</span><span class="ph">📚</span></span><span class="nm">📚 LiRax<small>新着順</small></span></a>
+    <div class="c" aria-label="此処"><span class="here">此処</span><span class="lc">LOCUS</span></div>
+    <a class="shop e" href="/pics/"><span class="fr"><span class="dir">R</span><span class="ph">🧺</span></span><span class="nm">🧺 RT.Pics<small>遭遇順</small></span></a>
+    <a class="shop s" href="/stall/"><span class="fr"><span class="dir">S</span><span class="ph">🏕️</span></span><span class="nm">🏕️ Stall<small>陳列順</small></span></a>
+  </main>
+  <p class="motto">ここから飛べ。</p>
+  <p class="note">四つの窓の絵は、それぞれの店のいまの一枚。開くたびに、店の決まりで選び直す。</p>
+  <footer>LOCUS｜此処　·　<a href="/rack/">Living RACKs</a> の台帳から。</footer>
+</div>
+
+<script>
+(() => {
+  const esc = s => String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const rnd = n => { try { const a = new Uint32Array(1); crypto.getRandomValues(a); return a[0] % n; } catch (e) { return Math.floor(Math.random() * n); } };
+  const img = it => it && (it.image || it.thumb);
+
+  function put(cls, it) {
+    const fr = document.querySelector('.' + cls + ' .fr');
+    if (!fr || !img(it)) return;
+    const el = document.createElement('img');
+    el.src = img(it); el.alt = it.title || ''; el.loading = 'eager';
+    el.addEventListener('error', () => el.remove());
+    fr.insertBefore(el, fr.querySelector('.ph'));
+  }
+
+  fetch('/rack/rack.json', { cache: 'no-cache' })
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(j => {
+      const rows = j.rows || [];
+      const rowItems = id => { const r = rows.find(x => x.id === id) || {}; return (r.groups || [r]).flatMap(g => g.items || []); };
+      const shop = rows.filter(r => !['stall', 'noton'].includes(r.position || 'before'))
+        .flatMap(r => (r.groups || [r]).filter(g => g.image !== false).flatMap(g => g.items || []));
+      const mags = (j.magazines || []).filter(m => !m.hidden).flatMap(m => m.latest || []);
+      const lirax = shop.concat(mags).filter(img);
+
+      // 店の決まりで一枚ずつ
+      put('w', lirax.slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''))[0]);        // 新着順：いちばん新しい一枚
+      const all = lirax.concat(rowItems('stall'), rowItems('noton')).filter(img);
+      put('e', all[rnd(all.length || 1)]);                                                              // 遭遇順：くじの一枚
+      put('s', rowItems('stall').filter(img)[0]);                                                       // 陳列順：敷物の先頭
+      put('n', rowItems('noton').filter(img)[0]);                                                       // 接続順：帳場の先頭の一冊
+    })
+    .catch(() => {});   // 台帳が読めなくても、十字と札は出る
+})();
+</script>
+</body>
+</html>
