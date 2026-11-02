@@ -1092,6 +1092,19 @@
       "sort": false
     },
     {
+      "id": "stall",
+      "kind": "book",
+      "position": "stall",
+      "name": "🏕️ 露店｜Stall",
+      "note": "Amazon længs の敷物。LiRax には並べず、/stall/ にだけ出す。",
+      "feed": "https://www.are.na/dream-no-track-kuykyopogvu/amazon-laengs/feed/rss",
+      "link": "https://www.are.na/dream-no-track-kuykyopogvu/amazon-laengs",
+      "linkLabel": "Are.naの棚 ↗",
+      "items": [],
+      "keep": 24,
+      "sort": false
+    },
+    {
       "id": "letters",
       "kind": "letter",
       "name": "📮 便り｜EgSS",
