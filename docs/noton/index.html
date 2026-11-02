@@ -56,6 +56,11 @@
   .ware .t{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
     font-size:14px;line-height:1.5;margin-top:8px}
   .ware:hover .t{text-decoration:underline}
+  /* 絵のないカード（文字だけのカード・ほかのチャンネルへのつなぎ）は、帳場の下に札として並べる */
+  .slips{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:10px;margin-top:4px}
+  .slip{display:inline-block;padding:8px 14px;border:1px solid var(--line);border-left:3px solid var(--wood);
+    background:var(--paper);border-radius:2px;text-decoration:none;font-size:13px;color:var(--ink)}
+  .slip:hover{background:var(--tag)}
 
   .err{color:var(--sub);grid-column:1/-1}
   .note{color:var(--sub);font-size:13px;margin:14px 0 0}
@@ -99,21 +104,23 @@
     return a;
   }
 
+  const CHANNEL = 'https://www.are.na/dream-no-track-kuykyopogvu/note-rack';
+  // 行き先が外の住所でなければ（文字だけのカードなど）、note RACK のチャンネルへ
+  const go = u => (/^https?:\/\//.test(u || '') && !/camp-us\.net/.test(u)) ? u : CHANNEL;
+
   function tile(x) {
-    return `<a class="ware" href="${esc(x.url)}">
-      <span class="fr">${x.image ? `<img src="${esc(x.image)}" alt="${esc(x.title)}" loading="lazy">` : ''}<span class="ph">${esc(x.title)}</span></span>
+    return `<a class="ware" href="${esc(go(x.url))}">
+      <span class="fr"><img src="${esc(x.image)}" alt="${esc(x.title)}" loading="lazy"><span class="ph">${esc(x.title)}</span></span>
       <span class="t">${esc(x.title)}</span>
     </a>`;
   }
+  const slip = x => `<a class="slip" href="${esc(go(x.url))}">${esc(x.title)}</a>`;
 
   function lay(list) {
     if (!list.length) { $mat.innerHTML = '<p class="err">いま帳場にマガジンがありません。<a href="/rack/">LiRax</a> へどうぞ。</p>'; return; }
-    $mat.innerHTML = list.map(tile).join('');
-    $mat.querySelectorAll('.ware').forEach(w => {
-      const img = w.querySelector('img');
-      if (!img) w.classList.add('noimg');
-      else img.addEventListener('error', () => w.classList.add('noimg'));
-    });
+    const withImg = list.filter(x => x.image), without = list.filter(x => !x.image);
+    $mat.innerHTML = withImg.map(tile).join('') + (without.length ? `<div class="slips">${without.map(slip).join('')}</div>` : '');
+    $mat.querySelectorAll('.ware img').forEach(img => img.addEventListener('error', () => img.closest('.ware').classList.add('noimg')));
   }
 
 
@@ -121,7 +128,7 @@
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(j => {
       const row = (j.rows || []).find(r => r.id === ROW) || {};
-      wares = (row.items || []).filter(x => x.url && x.title);
+      wares = (row.items || []).filter(x => x.title);
       lay(wares);                     // Are.na でつないだ順
     })
     .catch(() => { $mat.innerHTML = '<p class="err">LiRax の台帳（/rack/rack.json）を読めませんでした。Webサーバーの上で開いてください。</p>'; });
