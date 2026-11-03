@@ -60,6 +60,8 @@
   .motto{text-align:center;margin:26px 0 0;font-family:"Hiragino Mincho ProN","Noto Serif JP",serif}
   .motto .la{display:block;font-style:italic;font-size:clamp(20px,4vw,28px);letter-spacing:.02em}
   .motto .ja{display:block;font-size:clamp(14px,2.8vw,17px);color:var(--sub);margin-top:4px}
+  .motto.head{margin:0 0 22px}
+  .motto.head + .cross ~ .motto{margin-top:22px}
   .ask{text-align:center;margin:12px 0 0;font-size:13px;color:var(--sub);letter-spacing:.02em}
   .note{text-align:center;color:var(--sub);font-size:12px;margin:10px 0 0}
   footer{margin-top:40px;font-size:12px;color:var(--sub);text-align:center}
@@ -67,14 +69,15 @@
 </head>
 <body>
 <div class="wrap">
+  <p class="motto head"><span class="la" lang="la">Hic LOCUS, hinc salta.</span></p>
   <main class="cross">
-    <a class="shop n" href="/noton/"><span class="fr"><span class="ph">🐽</span></span><span class="nm">🐽 noTon<small>接続順</small></span></a>
-    <a class="shop w" href="/rack/"><span class="fr"><span class="ph">📚</span></span><span class="nm">📚 LiRax<small>新着順</small></span></a>
+    <a class="shop n" href="/noton/"><span class="fr"><span class="ph">🐽</span></span><span class="nm">🐽 noTon<small>接続</small></span></a>
+    <a class="shop w" href="/rack/"><span class="fr"><span class="ph">📚</span></span><span class="nm">📚 LiRax<small>新着</small></span></a>
     <div class="c" aria-label="此処"><div class="ov"><span class="d dn">N</span><span class="d dl">L</span><span class="d dr">R</span><span class="d ds">S</span><span class="here">此処</span><span class="lc">LOCUS</span></div></div>
-    <a class="shop e" href="/pics/"><span class="fr"><span class="ph">🧺</span></span><span class="nm">🧺 RT.Pics<small>遭遇順</small></span></a>
-    <a class="shop s" href="/stall/"><span class="fr"><span class="ph">🏕️</span></span><span class="nm">🏕️ Stall<small>陳列順</small></span></a>
+    <a class="shop e" href="/pics/"><span class="fr"><span class="ph">🧺</span></span><span class="nm">🧺 RT.Pics<small>遭遇</small></span></a>
+    <a class="shop s" href="/stall/"><span class="fr"><span class="ph">🏕️</span></span><span class="nm">🏕️ Stall<small>陳列</small></span></a>
   </main>
-  <p class="motto"><span class="la" lang="la">Hic LOCUS, hinc salta.</span><span class="ja">此処が LOCUS。此処から跳べ。</span></p>
+  <p class="motto"><span class="ja">此処が LOCUS。此処から跳べ。</span></p>
   <p class="ask" lang="en">Jump where? — Here, the LOCUS.</p>
   <p class="note">四つの窓の絵は、それぞれの店のいまの一枚。開くたびに、店の決まりで選び直す。</p>
   <footer>LOCUS｜此処　·　<a href="/rack/">Living RACKs</a> の台帳から。</footer>
