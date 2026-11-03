@@ -71,6 +71,12 @@ Nukadoko とは、それを置く場所である。
 [ND-261003_editus-LOCUS](https://camp-us.net/Nukadoko/ND-261003_editus-LOCUS.html)  
 [ND-261008_プラスチックワード考察_作業ノート](https://camp-us.net/Nukadoko/ND-261008_プラスチックワード考察_作業ノート.html)  
 
+## Nov
+[ND-261102_deixis](https://camp-us.net/Nukadoko/ND-261102_deixis.html)  
+
+
+
+
 
 [ND_filename](https://camp-us.net/Nukadoko/.html)  
 

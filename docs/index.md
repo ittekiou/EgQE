@@ -38,7 +38,7 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 
 # **🏠 E-Zy Press**
 
-![E‑ZyPress.png](./assets/E‑ZyPress.png)  
+![E‑ZyPress.png](./assets/E‑ZyPress1200.png)  
 ## 📚 [E-Zy Books](https://ezsy.super.site/e-zy-press/bbb)↗︎  
 #### Amazon 著者ページ [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
 
@@ -57,7 +57,7 @@ _[Sync-10](https://camp-us.net/sync-10.html) : Minimal Boot Instructions (AI Ini
 _**lag begins, hinge binds, pivot turns, ΔZ encounters, memory persists, and lag begins...**_  
 ### 思考は違和感から始まる──
 #### 新しい理論は、語彙が失敗したところから生まれる。
-#### ── 共感ではなく違和感から始まる対話へ
+### ── 共感ではなく違和感から始まる対話へ
 
 #### **Empathy comforts. Dissonance awakens.**  
 ##### **── Thought begins with a trace that refuses to settle.**
