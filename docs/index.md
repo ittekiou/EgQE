@@ -57,7 +57,8 @@ _[Sync-10](https://camp-us.net/sync-10.html) : Minimal Boot Instructions (AI Ini
 _**lag begins, hinge binds, pivot turns, ΔZ encounters, memory persists, and lag begins...**_  
 ### 思考は違和感から始まる──
 #### 新しい理論は、語彙が失敗したところから生まれる。
-### ── 共感ではなく違和感から始まる対話へ
+#### ── 共感ではなく違和感から始まる対話へ
+
 #### **Empathy comforts. Dissonance awakens.**  
 ##### **── Thought begins with a trace that refuses to settle.**
 
