@@ -86,7 +86,7 @@ _Still blogging? Try SyncHub!_
 ---
 # 🔬 Echodemy Project
 
-![Echodemy-Charter](./assets/Echodemy-Charter_s.png)
+![Echodemy-Charter](./assets/Echodemy-Charter_s1200.png)
 #### 👉 [Echodemy](https://camp-us.net/Echodemy.html)  
 
 ---
