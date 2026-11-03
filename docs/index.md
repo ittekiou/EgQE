@@ -31,16 +31,16 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 
 ### ↪️ [Search](https://camp-us.net/search.html)  
 
+# **LoCo-Mo** 🧭  
+#### ──いつも。ここから。  
+![LoCo-Mo](./assets/LoCo-Mo.png)  
+## 🧭 [**LOCUS**｜此処](https://camp-us.net/locus/)  
+
 # **🏠 E-Zy Press**
 
 ![E‑ZyPress.png](./assets/E‑ZyPress.png)  
 ## 📚 [E-Zy Press](https://ezsy.super.site/e-zy-press/bbb)↗︎  
-### Amazon 著者ページ [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
-
-# **LoCo-Mo** 🧭  
-#### ──いつも。ここから。  
-![LoCo-Mo](./assets/LoCo-Mo.png)  
-### 🧭 [**LOCUS**｜此処](https://camp-us.net/locus/)  
+#### Amazon 著者ページ [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
 
 ---
 # SyncHub — EgQE
