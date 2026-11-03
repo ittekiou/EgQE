@@ -26,12 +26,13 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 # EgQE 3.0
 ## A Fresh Leaf Emerges.
 
-## 灯欄窓｜Transnomado（EgQE内検索）
+## 灯欄窓
+### Transnomado（EgQE内検索）
 
 ↪️ [Search](https://camp-us.net/search.html)  
 
-# Living RACKs  
-愛称 _LiRax（リラックス）_  
+## Living RACKs  
+#### 愛称 _LiRax（リラックス）_  
 
 📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/)  
 
