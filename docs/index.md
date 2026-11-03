@@ -24,16 +24,16 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 </div>
 
 # EgQE 3.0
-## A Fresh Leaf Emerges.
+#### A Fresh Leaf Emerges.
 
-## 灯欄窓
-### Transnomado（EgQE内検索）
+#### Transnomado
+## 灯欄窓（EgQE内検索）
 
 ↪️ [Search](https://camp-us.net/search.html)  
 
 ## **LoCo-Mo** 🧭  
 #### ──いつも。ここから。  
-
+![LoCo-Mo](./assets/LoCo-Mo.png)  
 🧭 [**LOCUS**｜此処](https://camp-us.net/locus/)  
 
 ---
