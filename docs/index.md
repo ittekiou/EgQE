@@ -103,6 +103,7 @@ _Still blogging? Try SyncHub!_
 
 - [EZsy](https://ezsy.super.site/) – _Echodemic ZURE Syntax Yard_  
 - [K.E. Itekki PROFILE](./PROFILE.md)  
+
 ### 🐜 [Areå.na](https://www.are.na/kei-itteki/tracentrance)↗︎  
 [🌳Amazon længs](https://www.are.na/dream-no-track-kuykyopogvu/amazon-laengs)  [🌿 note RACK](https://www.are.na/dream-no-track-kuykyopogvu/note-rack)  [CESE PEC 💩](https://camp-us.net/CESE-PEC/README.html)↗︎  
 - ☕️ Patreon: [Whispering Garden of Echoes](https://www.patreon.com/c/campus6214/about)  
