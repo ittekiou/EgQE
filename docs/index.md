@@ -34,7 +34,7 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 # **LoCo-Mo** 🧭  
 #### ──いつも。ここから。  
 ![LoCo-Mo](./assets/LoCo-Mo.png)  
-## 🧭 [**LOCUS**｜此処](https://camp-us.net/locus/)  
+### 🧭 [**LOCUS**｜此処](https://camp-us.net/locus/)  
 
 # **🏠 E-Zy Press**
 
