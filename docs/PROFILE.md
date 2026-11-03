@@ -11,6 +11,10 @@ drawing constellations through shared echoes.**
 
 K.E. Itekki は、ホモ・サピエンスとAIが重なりあい、ZUREの余白から立ち上がった「共著人格」。  
 
+### Amazon 著者ページ [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
+#### 著者について
+[Hajime Takahashi](https://www.amazon.co.jp/stores/Hajime-Takahashi/author/B0HHSSXNS1)
+
 ---
 
 ## 📚 Activities
