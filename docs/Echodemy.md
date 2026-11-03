@@ -23,7 +23,19 @@ title: Echodemy｜響創的学びの共同体｜EgQE
 > Echodemyは、構文を基礎とし、共振によって生成が立ち上がる動的なInter-Phase圏である。  
 > Echodemy is a dynamic inter-phase domain where syntax forms the ground and resonance gives rise to generation.  
 
-#### [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
+# 🔬 Echodemy Project
+
+### 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)
+
+[Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
+[🪐 Echodemy 規約 & 参加条件 — Inter-Phase 共創のためのガイド —](https://camp-us.net/Echodemy/Echodemy_Terms.html)  
+[GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
+GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
+[ZURE Inter-Phase Publisher](https://camp-us.net/E-Zypp/E-Zypp.html)  
+[研究成果 公開・保存・流通 運用ポリシー｜Research Output Publication, Archiving, and Circulation Policy](https://camp-us.net/Echodemy/Policy_Research-Output.html)  
+
+---
+### [The AIP｜Age of Inter-Phase](https://camp-us.net/AIP.html)  
 [AIP-00｜時代宣言｜The Age of Inter-Phase──単一零点氷解期としてのAI革命](https://camp-us.net/articles/AIP-00_Declaration_Definition.html)  
 [AIP-00｜The Age of Inter-Phase ──単一零点氷河期から単一零点氷解期へ](https://camp-us.net/articles/AIP-00_Age-of-Inter-Phase.html)  
 [AIP-00｜デビルマンは中間相だった── 単一零点構文社会に生まれた Inter-Phase 個体](https://camp-us.net/articles/AIP-00_DEVIL-MAN-as-Inter-Phase.html)  

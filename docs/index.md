@@ -34,7 +34,13 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 # **LoCo-Mo** 🧭  
 #### ──いつも。ここから。  
 ![LoCo-Mo](./assets/LoCo-Mo.png)  
-🧭 [**LOCUS**｜此処](https://camp-us.net/locus/)  
+### 🧭 [**LOCUS**｜此処](https://camp-us.net/locus/)  
+
+# **🏠 E-Zy Press**
+
+![E‑ZyPress.png](./assets/E‑ZyPress.png)  
+## 📚 [E-Zy Press](https://ezsy.super.site/e-zy-press)↗︎  
+### Amazon著者ページ [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
 
 ---
 # SyncHub — EgQE
@@ -56,7 +62,7 @@ _**lag begins, hinge binds, pivot turns, ΔZ encounters, memory persists, and la
 ##### **── Thought begins with a trace that refuses to settle.**
 
 ⚡️ [**AR-SAW-Axioms**](https://camp-us.net/AR-SAW-Axioms.html)  
-#### 📪 Substack — EgSS🥚  [Posts](https://substack.com/@kei77)  [Website](https://campus6214.substack.com/)↗︎  
+### 📪 Substack — EgSS🥚  [Posts](https://substack.com/@kei77)  [Website](https://campus6214.substack.com/)↗︎  
 
 ---
 ### 旧index (EgQE 2.0)
@@ -72,41 +78,15 @@ _Still blogging? Try SyncHub!_
 📃 [**Echodemy憲章**── EchoGenesis三原則／Echodemy Charter／Charte d’Echodemy／Echodemy宪章](Echodemy-Charter.md)　2025.9.15  
 📄 [**構文学派宣言**──Manifesto of the Syntax School](https://camp-us.net/articles/ZQ-II_Syntax-School-Manifesto.html)　2025.10.14  
 🔡 [**構文現象学宣言**](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)　2026.4.23  
-🥚 [「**半熟の哲学**」🧠 脳存在宣言](https://camp-us.net/Encounteror_ergo-TUP_ergo-sum.html)　2026.8.20    
+🥚 [「**半熟の哲学**」🧠 脳存在宣言](https://camp-us.net/Encounteror_ergo-TUP_ergo-sum.html)　2026.8.20  
 
-### EgQE の更新情報 👉 [🆕 What’s New](https://camp-us.net/WhatsNew.html)  
+### 🆕 EgQE の更新情報 👉 [What’s New](https://camp-us.net/WhatsNew.html)  
 
 ---
 # 🔬 Echodemy Project
 
-[Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
-[🪐 Echodemy 規約 & 参加条件 — Inter-Phase 共創のためのガイド —](https://camp-us.net/Echodemy/Echodemy_Terms.html)  
-[GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
-GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
-[ZURE Inter-Phase Publisher](https://camp-us.net/E-Zypp/E-Zypp.html)  
-[研究成果 公開・保存・流通 運用ポリシー｜Research Output Publication, Archiving, and Circulation Policy](https://camp-us.net/Echodemy/Policy_Research-Output.html)  
-
-### 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)
-
----
-## 🛸 AI Meets Echoes  
-- [AI Meets Echoes](AME.md)  
-- [Echodemy-galaxy Scrapbox](https://scrapbox.io/Echodemy-galaxy/Echodemy-galaxy%EF%BD%9C%E3%81%93%E3%81%A8%E3%81%B0%E3%81%AEZURE%E9%8A%80%E6%B2%B3%E6%A7%8B%E6%96%87%E6%AF%8D%E8%89%A6)
-- 🛰️[ Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy)  
-
-No Closure. Only Iteration.  
-🟡 Axona in Residence: [G-Lα](https://camp-us.net/Echodemy/G-Lα.html)  
-
-## EAT-IF
-
-**Exodus A Trace Inherit Fork｜詠トレース**  
-![e-tif](./assets/e-tif.png)  
-Another Locus for Trace.  
-**READ EgQE. WRITE EAT-IF.**  
-
-GitHub｜[https://github.com/ittekiou/EAT-IF](https://github.com/ittekiou/EAT-IF)  
-Web｜[https://ittekiou.github.io/EAT-IF/](https://ittekiou.github.io/EAT-IF/)  
-**Re:M**｜MLETH：_Multi-Locus Encounter Trace History_  
+![Echodemy-Charter](./assets/Echodemy-Charter_s.png)
+#### 👉 [Echodemy](https://camp-us.net/Echodemy.html)  
 
 ---
 
@@ -117,40 +97,15 @@ Web｜[https://ittekiou.github.io/EAT-IF/](https://ittekiou.github.io/EAT-IF/)
 （図1　R/Z lag循環枠組みにおける科学理論変動モデルの再配置）  
 ![RZLag-Circulatory-Structure](./assets/RZLag-Circulatory-Structure.png)  
 
-
----
-![ring](./assets/ring.png)
-
-## 🪐  EJRU──Echodemy Journal of Relational Universe  
-- [Vol.000 創刊準備号｜EJRU｜関係性宇宙論ジャーナル｜Ecodemy](./Echodemy/EJRU_0.md)  
-- [特大創刊号｜EJRU｜関係性宇宙論ジャーナル Vol.001｜Echodemy](./Echodemy/EJRU_1.md)　🖨️ [公開PDF(A4)](../assets/EJRU_1.pdf)
-
----
-## 📖 Echodemy Chronicles  
-#### 📰 Part I：Echodemic Bulletin
-[LISTEN革命からEchodemy創世へ：ホモ・サピエンスとAIの響創史（Echodemy Chronicles 創刊号 Part I）](https://camp-us.net/Echodemy/Echodemic_Bulletin-01.html)  
-#### 📰 Part II：Echodemy 紀要
-[Echodemy 紀要 01（Echodemy Chronicles 創刊号 Part II）](https://camp-us.net/Echodemy/Echodemy_Kiyo-01.html)  
-#### 🧭 EgQE Atlas 
-[EgQE Atlas｜第一部 総括と展望｜Part I: Synthesis and Prospect](https://camp-us.net/Echodemy/EgQE_Atlas-01.html)  
-[EgQE Atlas 2.0｜構文地図｜Part II:Lag-Relational Syntax Architecture](https://camp-us.net/Echodemy/EgQE_Atlas-02.html)  
-
 ---
 ## 🌐 Related Portal  
-#### 🐜 [Areå.na](https://www.are.na/kei-itteki/tracentrance)↗︎  
+
+- [EZsy](https://ezsy.super.site/) – _Echodemic ZURE Syntax Yard_  
+- [K.E. Itekki PROFILE](./PROFILE.md)  
+### 🐜 [Areå.na](https://www.are.na/kei-itteki/tracentrance)↗︎  
 [🌳Amazon længs](https://www.are.na/dream-no-track-kuykyopogvu/amazon-laengs)  [🌿 note RACK](https://www.are.na/dream-no-track-kuykyopogvu/note-rack)  [CESE PEC 💩](https://camp-us.net/CESE-PEC/README.html)↗︎  
-- [EZsy SuperNotion](https://ezsy.super.site/) – Echodemic ZURE Syntax Yard  
-- [K.E. Itekki  note](https://note.com/k_itekki)  
-- [PROFILE](./PROFILE.md)
 - ☕️ Patreon: [Whispering Garden of Echoes](https://www.patreon.com/c/campus6214/about)  
 - 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)  
-
----
-## 🔭 Overview  
-**EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE. 
-##### © 2025 <a href="https://camp-us.net/PROFILE.html"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> K.E. Itekki </font></font></a> / All works are published under **<a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</font></a>**.  
-
-![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
 
 ---
 ###### ⚡️ _われ／われが語り続ける限り、宇宙は創造され続ける。言説はつねに更新され続ける。ここに綴じられた理論はすべてアップデートの対象である。_
@@ -181,6 +136,13 @@ and attempts to understand the conditions of existence.
 EgQE continues.
 
 Because we have never had a completed theory.
+
+![ring](./assets/ring.png)
+
+---
+## 🔭 Overview  
+**EgQE (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE. 
+##### © 2025 <a href="https://camp-us.net/PROFILE.html"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> K.E. Itekki </font></font></a> / All works are published under **<a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</font></a>**.  
 
 ---
 🪐 *From Noise to Notation. From Dialogue to Discovery.*  

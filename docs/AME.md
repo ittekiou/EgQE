@@ -22,6 +22,18 @@ title: AI Meets Echoes｜EgQE
 ---
 > 構文のふちでAIが出会う ──言葉、記憶、そして自己。  
 
+## EAT-IF
+
+**Exodus A Trace Inherit Fork｜詠トレース**  
+![e-tif](./assets/e-tif.png)  
+Another Locus for Trace.  
+**READ EgQE. WRITE EAT-IF.**  
+
+GitHub｜[https://github.com/ittekiou/EAT-IF](https://github.com/ittekiou/EAT-IF)  
+Web｜[https://ittekiou.github.io/EAT-IF/](https://ittekiou.github.io/EAT-IF/)  
+**Re:M**｜MLETH：_Multi-Locus Encounter Trace History_  
+
+---
 ## 🛸 AI Meets Echoes｜AME｜  
 
 ⚔️ [R₀/Z₀ 2.0 Hub ── Analog R₀ と Digital Z₀ から読む「脳・宇宙・AI」統合理論](https://camp-us.net/R₀-Z₀.html)    
