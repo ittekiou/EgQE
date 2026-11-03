@@ -31,15 +31,17 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 
 ↪️ [Search](https://camp-us.net/search.html)  
 
-## Living RACKs  
-#### 愛称 _LiRax（リラックス）_  
+## **LoCo-Mo** 🧭  
+#### ──いつも。ここから。  
 
-📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/)  
+🧭 [**LOCUS**｜此処](https://camp-us.net/locus/)  
 
-## 声の配信カレンダー（LISTEN）
+---
+### 旧index (EgQE 2.0)
+[EgQE SyncHub｜INTELX](https://camp-us.net/intelx.html)  
 
-↪️ [声の配信カレンダー](https://camp-us.net/index/voice-calendar.html)  
-↪️ [自家製書庫ができるまで──Trace 玄関と三つの書庫の作業記録](https://camp-us.net/index/Tracentrance-log.html)  
+Still blogging?  
+Try SyncHub!  
 
 ---
 
@@ -78,11 +80,10 @@ _[Sync-10](https://camp-us.net/sync-10.html) : Minimal Boot Instructions (AI Ini
 [CESE PEC 💩](https://camp-us.net/CESE-PEC/README.html)  
 
 ---
-### 旧index (EgQE 2.0)
-[EgQE SyncHub｜INTELX](https://camp-us.net/intelx.html)  
+## 声の配信カレンダー（LISTEN）
 
-Still blogging?  
-Try SyncHub!  
+↪️ [声の配信カレンダー](https://camp-us.net/index/voice-calendar.html)  
+↪️ [自家製書庫ができるまで──Trace 玄関と三つの書庫の作業記録](https://camp-us.net/index/Tracentrance-log.html)  
 
 ---
 
