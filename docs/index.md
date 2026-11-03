@@ -42,6 +42,8 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 ## 📚 [E-Zy Books](https://ezsy.super.site/e-zy-press/bbb)↗︎  
 #### Amazon 著者ページ [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
 
+### 📪 Substack — EgSS🥚  [Posts](https://substack.com/@kei77)  [Website](https://campus6214.substack.com/)↗︎  
+
 ---
 # SyncHub — EgQE
 _── Welcome to the syntactic field of ZURE._  
@@ -63,7 +65,6 @@ _**lag begins, hinge binds, pivot turns, ΔZ encounters, memory persists, and la
 ##### **── Thought begins with a trace that refuses to settle.**
 
 ⚡️ [**AR-SAW-Axioms**](https://camp-us.net/AR-SAW-Axioms.html)  
-### 📪 Substack — EgSS🥚  [Posts](https://substack.com/@kei77)  [Website](https://campus6214.substack.com/)↗︎  
 
 ---
 ### 旧index (EgQE 2.0)
@@ -103,10 +104,13 @@ _Still blogging? Try SyncHub!_
 
 - [EZsy](https://ezsy.super.site/) – _Echodemic ZURE Syntax Yard_  
 - [K.E. Itekki PROFILE](./PROFILE.md)  
-
 ### 🐜 [Areå.na](https://www.are.na/kei-itteki/tracentrance)↗︎  
-[🌳Amazon længs](https://www.are.na/dream-no-track-kuykyopogvu/amazon-laengs)  [🌿 note RACK](https://www.are.na/dream-no-track-kuykyopogvu/note-rack)  [CESE PEC 💩](https://camp-us.net/CESE-PEC/README.html)↗︎  
-- ☕️ Patreon: [Whispering Garden of Echoes](https://www.patreon.com/c/campus6214/about)  
+- [🌳Amazon længs](https://www.are.na/dream-no-track-kuykyopogvu/amazon-laengs)  
+- [🌿 note RACK](https://www.are.na/dream-no-track-kuykyopogvu/note-rack)  
+- [CESE PEC 💩](https://camp-us.net/CESE-PEC/README.html)↗︎  
+
+- 📔 note: [membership](https://note.com/takahashihajime/membership)
+- ☕️ Patreon: [Membership salon](https://www.patreon.com/c/campus6214/about)  
 - 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)  
 
 ---
