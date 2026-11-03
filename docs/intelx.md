@@ -178,7 +178,7 @@ Web｜[https://ittekiou.github.io/EAT-IF/](https://ittekiou.github.io/EAT-IF/)
 
 ---
 
-## **📄 Echodemy Official Release**  （直近1ヶ月or 7件）
+## **📄 Echodemy Official Release**  （直近）
 
 Z [Z₀ v5.2｜三相構造としてのZ₀ ── Z₀ as a Critical Boundary Between Dissipation and Fixation｜Z₀ as a Critical Boundary (Minimal English Version)](https://camp-us.net/Z₀_v5.2.html)　リリース　2026.4.27  
 🔡 [SP-01｜構文現象学宣言 ── Syntactic Phenomenologyとはなにか](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)　リリース　2026.4.23  
@@ -187,14 +187,7 @@ Z [Z₀ v5.2｜三相構造としてのZ₀ ── Z₀ as a Critical Boundary B
 💠 [SN-LIF-10｜生命—物質 遷移相論｜A Transitional Phase Theory of Life and Matter](https://camp-us.net/articles/SN-LIF-10_Life-and-Matter_Transitional-Phase.html)　リリース　2026.4.17  
 🦠 [EgQE｜生命構文 — 公式定義｜Life Syntax — Formal Definitions](https://camp-us.net/articles/EgQE_Life-Syntax_Formal-Definitions.html)　リリース　2026.4.16  
 🏛️ [HEG-20｜生成政治学へ向けて｜Toward Generative Political Theory](https://camp-us.net/articles/HEG-20_Toward_Generative-Political-Theory.html)　リリース　2026.4.13  
-🌐 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)　リリース　2026.4.9  
-⚡️ [SX-Core｜Syntactic Exposure — Series Index](https://camp-us.net/articles/Core_SX_Syntactic-Exposure.html)　リリース　2026.4.7  
-Z [Z₀ v5.1｜Encounter as Phase Emergence to Life-Time Generation（遭遇から生命‐時間生成相へ）](https://camp-us.net/Z₀_v5.1.html)　リリース　2026.4.3  
-🐎 [April-1 宣言（2026）｜露出する年度](https://camp-us.net/articles/April-1_2026.html)　リリース　2026.4.1  
-⌛️ [HEG-Core｜From Encounter to Time — 遭遇から時間へ — (HEG-17-18)](https://camp-us.net/articles/Core_17-18_Encounter-to-Time.html)　リリース　2026.3.31  
-⏳ [EgQE｜TS-Core Update v2｜ψの拡張 — 持続と待機 —｜ψ as Temporal Syntax (Extended) — Persistence and Latency —](https://camp-us.net/articles/Core_TS_Update-v2_ψ-as-Temporal-Syntax_Extended.html)　リリース　2026.3.31  
-⏳ [EgQE｜TS-Core Update｜ψ as Temporal Syntax ── 差分の持続としての時間｜Time as the Persistence of Difference](https://camp-us.net/articles/Core_TS_Update_ψ-as-Temporal-Syntax.html)　リリース　2026.3.30  
-🥚 [PG｜生成の現象学 ── Phenomenology of Genesis](https://camp-us.net/PG.html)　リリース　2026.3.26  
+🌐 [URL-Core ── Axioms of URL](https://camp-us.net/articles/URL-Core_Axioms-of-URL.html)　リリース　2026.4.9 
 
 ### 👉 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)  
 
