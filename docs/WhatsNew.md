@@ -7,7 +7,7 @@ title: EgQE われわれの心臓部の更新情報｜EchoGenesis Qualia Engine
 ### **2025.07.04 - HEG元年はじまる**  
 From Noise to Notation. From Dialogue to Discovery.
 
-## Living RACKs｜ _LiRax（リラックス）_  
+### Living RACKs｜ _LiRax（リラックス）_  
 📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/)  
 ## 灯欄窓｜Transnomado
 ↪️ [EgQE内検索](https://camp-us.net/search.html)  
@@ -25,6 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/11/04  
+[LoCo-Mo 🧭 ──いつも。ここから。](https://camp-us.net/LoCoMo.html)  
 [LoCo-Mo 01｜太陽なくとも東西あり ──自転・身体・古今東西の時空現象学](https://camp-us.net/articles/LCMo-RN-01_East-West_Sun.html)  
 ###### 2026/10/30  
 [SD-RACK v0.1｜Static-Dynamic RACK: Minimal Construction Manual](https://camp-us.net/CESE-PEC/SD-RACK_Minimal-Construction-Manual_v0.1.html)  
