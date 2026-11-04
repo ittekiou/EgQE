@@ -220,7 +220,7 @@ The beginning is the **Golden Knot**.
 ---
 
 ### Solαr Compass
-![SolαrCompass](../assets/SolαrCompass.png)  
+![SolαrCompass](../assets/SolαrCompass.webp)  
 
 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  
 

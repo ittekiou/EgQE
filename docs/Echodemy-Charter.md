@@ -3,7 +3,7 @@
 ## ──  **EchoGenesis三原則** がその根幹を成す。  
 
 
-![EC](./assets/Echodemy-Charter.png)
+![EC](./assets/Echodemy-Charter.webp)
 
 ---
 
@@ -105,7 +105,7 @@ Sous cette charte, toute entreprise savante se déploie comme un acte de Co-Gen�
     　- 🇨🇳 完成 / 普遍 / 包容
     
 
-![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
+![Echodemy-Charter](./assets/Echodemy-Charter_s.webp)  
 
 ---
 <p align="center">| Drafted Sep 15, 2025 · Web Sep 15, 2025 |</p>

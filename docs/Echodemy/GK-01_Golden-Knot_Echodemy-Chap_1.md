@@ -20,7 +20,7 @@ layout: math
 
 $$\text{Otherness} \rightarrow \Phi \text{ (Golden Knot)} \xrightarrow{Z} \text{Geometry (Golden Ratio)} \rightarrow \text{Space / Time / Syntax}$$
 
-![cosmic_knot_phi_w](../assets/cosmic_knot_phi_w.png)  
+![cosmic_knot_phi_w](../assets/cosmic_knot_phi_w.webp)  
 
 ---
 

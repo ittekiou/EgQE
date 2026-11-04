@@ -190,7 +190,7 @@ _A Museum of Traces_
 [AIP-00｜spin-off｜The Age of DEVIL-HUMAN](https://camp-us.net/articles/AIP-00_spin-off_Age-of-DEVIL-HUMAN.html)  
 [AIP-00｜The Age of Inter-Phase（Drafts）](https://camp-us.net/articles/AIP_drafts.html)
 
-![MUNCH-BST](./assets/MUNCH-BST.png)  
+![MUNCH-BST](./assets/MUNCH-BST.webp)  
 
 ---
 

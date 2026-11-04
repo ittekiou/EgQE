@@ -7,7 +7,7 @@ subtitle: SO-lag and the Emergence of Spacetime-Syntax
 ## HEG Cosmogenic Formula
 # **SO-lag and the Emergence of Spacetime-Syntax**
 
-![Cosmogenic-Formula_Core](./assets/Cosmogenic-Formula_Core.png)  
+![Cosmogenic-Formula_Core](./assets/Cosmogenic-Formula_Core.webp)  
 
 ---
 
@@ -71,7 +71,7 @@ The universe appears through orientation.
 
 ---
 
-![Cosmogenic-Formula](./assets/Cosmogenic-Formula.png)  
+![Cosmogenic-Formula](./assets/Cosmogenic-Formula.webp)  
 
 ```
 relation / otherness

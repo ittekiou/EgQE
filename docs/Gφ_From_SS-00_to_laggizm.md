@@ -36,7 +36,7 @@ R → lag → Z → R
 変換そのものが図の中心に置かれていた。  
 まだ名前はなかったが、**rate** はすでにそこにいた。
 
-![RZLag-Circulatory-Structure](./assets/RZLag-Circulatory-Structure.png)  
+![RZLag-Circulatory-Structure](./assets/RZLag-Circulatory-Structure.webp)  
 [SS-00｜科学更新の構造](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)  
 
 ---
@@ -142,7 +142,7 @@ _Draft 0.1 — Non-closure formulation_
 
 ---
 
-![φ-G](./assets/φ-G.png)  
+![φ-G](./assets/φ-G.webp)  
 [φGenesisism 宣言](https://camp-us.net/Gφ.html)  
 
 ![Genesisism](./assets/Genesisism.png)  

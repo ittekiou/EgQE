@@ -157,7 +157,7 @@ lag循環は、単なる動態ではない。
 
 👉 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)  
 （図1　R/Z lag循環枠組みにおける科学理論変動モデルの再配置）  
-![RZLag-Circulatory-Structure](../assets/RZLag-Circulatory-Structure.png)  
+![RZLag-Circulatory-Structure](../assets/RZLag-Circulatory-Structure.webp)  
 
 ---
 

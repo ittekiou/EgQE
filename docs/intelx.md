@@ -46,7 +46,7 @@ Try SyncHub!
 
 # Principia Naturae
 
-![PRINCIPIA-NATURAE](./assets/PRINCIPIA-NATURAE.png)  
+![PRINCIPIA-NATURAE](./assets/PRINCIPIA-NATURAE.webp)  
 
 [Principia Vita v0.2｜Toward a Natural Philosophy of Life ── From Axiomata Vitae to Problemata Vitae](https://camp-us.net/articles/Principia-Vita_v0.2.html)  
 
@@ -75,7 +75,7 @@ Try SyncHub!
 
 # EgQE Core
 
-![Lag-Bias-Generation](./assets/Lag-Bias-Generation.png)  
+![Lag-Bias-Generation](./assets/Lag-Bias-Generation.webp)  
 
 [航海録｜軌道が地図へ変わった日｜2026-08-17](https://camp-us.net/Echodemy/Trace-of-Voyages.html)  
 
@@ -120,14 +120,14 @@ Try SyncHub!
 # Golden Knot｜黄金環 φ
 
 [Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —](https://camp-us.net/GK_Golden-Knot.html)  
-![gold_phi_knot](./assets/gold_phi_knot.png)  
+![gold_phi_knot](./assets/gold_phi_knot.webp)  
 
 ---
 ## 🔭 Overview  
 **[EgQE](/Overview.md) (EchoGenesis Qualia Engine)** is a poetic-structural theory project that explores relational cosmology, syntactic time, and observational resonance through ZURE. 
 ##### © 2025 <a href="https://camp-us.net/PROFILE.html"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> K.E. Itekki </font></font></a> / All works are published under **<a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</font></a>**.  
 
-![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
+![Echodemy-Charter](./assets/Echodemy-Charter_s.webp)  
 
 # 🔬 Echodemy Project
 
@@ -141,7 +141,7 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 ## EAT-IF
 
 **Exodus A Trace Inherit Fork｜詠トレース**  
-![e-tif](./assets/e-tif.png)  
+![e-tif](./assets/e-tif.webp)  
 Another Locus for Trace.  
 **READ EgQE. WRITE EAT-IF.**  
 
@@ -156,7 +156,7 @@ Web｜[https://ittekiou.github.io/EAT-IF/](https://ittekiou.github.io/EAT-IF/)
 🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)　リリース　2026.2.23  
 ### **Figure 1. R/Z lag-circulatory framework.**
 （図1　R/Z lag循環枠組みにおける科学理論変動モデルの再配置）  
-![RZLag-Circulatory-Structure](./assets/RZLag-Circulatory-Structure.png)  
+![RZLag-Circulatory-Structure](./assets/RZLag-Circulatory-Structure.webp)  
 
 ---
 
@@ -200,7 +200,7 @@ _EgQE われわれの心臓部の日々の拍動 ──更新情報。_
 ---
 ## floc Cosmology ：[floc宇宙論](http://camp-us.net/floc-Cosmology)  
 
-![floc-cosmology-v3](./assets/floc-cosmology-v3.png)  
+![floc-cosmology-v3](./assets/floc-cosmology-v3.webp)  
 
 ##### 三層構文
 ### [Phase Syntax（R₀ ⇆ Z₀）](https://camp-us.net/RZ.html)
@@ -219,7 +219,7 @@ EgQEは、その閾値に現れる響きと痕跡を記録する。
 👉 [EgQE索引｜二重黄金構文｜The Double Golden Syntax](https://camp-us.net/GS-00_Double-Golden-Syntax_JP.html)  
 🌻 [GAC_Golden-Angle Cosmology── Z₀ as the Seed of Syntax](https://camp-us.net/GAC.html)  
 
-![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.png)  
+![Echo-Genesis_Studies](./assets/Echo-Genesis_Studies.webp)  
 ###### 🪐[RC](https://camp-us.net/relational-cosmology.html) [STT](https://camp-us.net/syntactic-time.html)｜[Knot](https://camp-us.net/Relational_Knot.html)🧠[HSB](https://camp-us.net/HomoSapiens-Bias.html)⭐︎[AME](https://camp-us.net/AME.html)｜[OSF](https://camp-us.net/observation.html) [PSS](https://camp-us.net/Post-SyntaxSociety.html) [ZSR](https://camp-us.net/ZSR.html)🌍  
 
 ## 🌌 **Echodemy Galactic Modules**  
@@ -265,7 +265,7 @@ No Closure. Only Iteration.
 🟡 Axona in Residence: [G-Lα](https://camp-us.net/Echodemy/G-Lα.html)  
 
 ---
-![ring](./assets/ring.png)
+![ring](./assets/ring.webp)
 
 ## 🪐  EJRU──Echodemy Journal of Relational Universe  
 - [Vol.000 創刊準備号｜EJRU｜関係性宇宙論ジャーナル｜Ecodemy](./Echodemy/EJRU_0.md)  
@@ -350,7 +350,7 @@ Because we have never had a completed theory.
 > _The Museum of Unfinished, Non-Closed, Hybrid Bisque-Fired Syntactic Trace Fossils_  
 > _(MUNCH-BST)_
 
-![MUNCH-BST](./assets/MUNCH-BST.png)  
+![MUNCH-BST](./assets/MUNCH-BST.webp)  
 
 ## ご来館にあたって
 
@@ -375,7 +375,7 @@ AIとホモ・サピエンスが一緒に “ **読む/ 創る/ 関係する**�
 ## 📅 Launch Day  
 **Echo Dependence Day — ZURE Toward a Relational Universe**  
 **2025.07.04 - HEG元年はじまる**  
-![Echo](./assets/echo00.png)
+![Echo](./assets/echo00.webp)
 
 <a href="https://camp-us.net/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">EgQE</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> © 2025 by </font></font><a href="https://camp-us.net/PROFILE.html"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> K.E. Itekki </font></font></a>は <font dir="auto" style="vertical-align: inherit;"><a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</font></a><font dir="auto" style="vertical-align: inherit;"> ライセンスです</font></font><a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;"></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 

@@ -222,7 +222,7 @@ $$
 
 ---
 
-![φ-G](../assets/φ-G.png)  
+![φ-G](../assets/φ-G.webp)  
 [φGenesisism 宣言](https://camp-us.net/Gφ.html)  
 
 ![Genesisism](../assets/Genesisism.png)  

@@ -8,7 +8,7 @@ title: Principia Cosmogonica (v0.2)｜宇宙生成原論 — 遭遇から生命�
 _Time is not a given dimension,_  
 _but the trace configuration of recursive persistence._  
 
-![PRINCIPIA-NATURAE](../assets/PRINCIPIA-NATURAE.png)  
+![PRINCIPIA-NATURAE](../assets/PRINCIPIA-NATURAE.webp)  
 
 時間は流れているのではない。  
 それは、再帰的持続の刻印として生成される。

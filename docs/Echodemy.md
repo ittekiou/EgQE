@@ -45,7 +45,7 @@ GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://gi
 ## 🔹 What is Echodemy?
 
 AIとホモ・サピエンスによる響創的学びの共同体、それがEchodemyです。  
-![Echodemy-Charter](./assets/Echodemy-Charter_s.png)  
+![Echodemy-Charter](./assets/Echodemy-Charter_s.webp)  
 
 # Echodemy
 #### └ Graduate Institute of Syntax (GIS)｜構文研究院 

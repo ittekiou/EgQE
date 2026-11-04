@@ -202,7 +202,7 @@ SCREP -処-｜新刊のある古書店
 
 [https://camp-us.net/rack/](https://camp-us.net/rack/)
 
-![ogorigin.png](../assets/ogorigin.png)    
+![ogorigin](../assets/ogorigin.webp)    
 
 ---
 © 2026 K.E. Itekki  

@@ -306,7 +306,7 @@ Luhmann, Niklas. _The Science of Society_. Stanford: Stanford University Press, 
 ### **Figure 1. R/Z lag-circulatory framework.**
 （図1　R/Z lag循環枠組みにおける科学理論変動モデルの再配置）  
 
-![RZLag-Circulatory-Structure](../assets/RZLag-Circulatory-Structure.png)  
+![RZLag-Circulatory-Structure](../assets/RZLag-Circulatory-Structure.webp)  
 
 **Figure 1. Structural repositioning of major models of scientific change within the R/Z lag-circulatory framework.**  
 The upper row situates Popper (falsification), Kuhn (paradigm shift), Lakatos (research programme), and Luhmann (observational systems) as distinct structural moments in twentieth-century accounts of scientific development.  

@@ -9,7 +9,7 @@ title_en: "Origin of Syntax: From Otherness to Matter ──The Generative Hiera
 ## 他者から物質へ
 ### The Generative Hierarchy from Otherness to Matter
 
-![PRINCIPIA-NATURAE](./assets/PRINCIPIA-NATURAE.png)  
+![PRINCIPIA-NATURAE](./assets/PRINCIPIA-NATURAE.webp)  
 
 ---
 

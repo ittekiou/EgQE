@@ -15,7 +15,7 @@ title: Φ｜黄金環 φ｜φ as the Golden Knot — From Ratio to Knot —
 
 The ratio is the **trace of the knot**.
 
-![gold_phi_knot_b](./assets/gold_phi_knot_b.png)  
+![gold_phi_knot_b](./assets/gold_phi_knot_b.webp)  
 
 ---
 
@@ -73,7 +73,7 @@ Golden Ratio → Geometry
 ```
 
 ### Solαr Compass
-![SolαrCompass](./assets/SolαrCompass.png)  
+![SolαrCompass](./assets/SolαrCompass.webp)  
  
 [GK-00｜黄金比のトポロジー転回 ──黄金環としての φ — Ratio から Knot へ —｜The Topological Turn of the Golden Ratio: φ as the Golden Knot](https://camp-us.net/articles/GK-00_Topological-Turn-of-Golden-Ratio.html)  
 [GK-01｜他者性と黄金環Φ ──黄金比のトポロジー転回に関する短論 — Ratio から Knot へ —｜Otherness and the Golden Knot: A Short Note on the Topological Origin of the Golden Ratio](https://camp-us.net/articles/GK-01_Otherness_Topological-Origin-of-Golden-Ratio.html)  

@@ -5,7 +5,7 @@ title: Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative
 # **Gφ-INDEX-01｜Inter-Phase Hub**
 ## **— 生成構造のハブ / The Generative Hub —**
 
-![φ-G](./assets/φ-G.png)  
+![φ-G](./assets/φ-G.webp)  
 
 ---
 

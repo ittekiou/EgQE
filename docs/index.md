@@ -33,13 +33,13 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 
 # **LoCo-Mo** 🧭  
 #### ──いつも。ここから。  
-![LoCo-Mo](./assets/LoCo-Mo.png)  
+![LoCo-Mo](./assets/LoCo-Mo.webp)  
 [LoCo-Mo 🧭 ──いつも。ここから。](https://camp-us.net/LoCoMo.html)  
 ### 🧭 [**LOCUS**｜此処](https://camp-us.net/locus/)  
 
 # **🏠 E-Zy Press**
 
-![E‑ZyPress.png](./assets/E‑ZyPress1200.png)  
+![E‑ZyPress](./assets/E‑ZyPress1200.webp)  
 ## 📚 [Book List](https://ezsy.super.site/e-zy-press/bbb/bbbl)↗︎  
 #### Amazon 著者ページ [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
 
@@ -88,7 +88,7 @@ _Still blogging? Try SyncHub!_
 ---
 # 🔬 Echodemy Project
 
-![Echodemy-Charter](./assets/Echodemy-Charter_s1200.png)
+![Echodemy-Charter](./assets/Echodemy-Charter_s1200.webp)
 #### 👉 [Echodemy](https://camp-us.net/Echodemy.html)  
 
 ---
@@ -98,7 +98,7 @@ _Still blogging? Try SyncHub!_
 🎓 [SS-00｜科学更新の構造── R/Z lag循環としての理論進化｜From Falsification to Lag-Circulation: Structural Dynamics of Scientific Syntax](https://camp-us.net/articles/SS-00_Structural-Dynamics-of-Scientific-Syntax.html)　リリース　2026.2.23  
 ### **Figure 1. R/Z lag-circulatory framework.**
 （図1　R/Z lag循環枠組みにおける科学理論変動モデルの再配置）  
-![RZLag-Circulatory-Structure](./assets/RZLag-Circulatory-Structure.png)  
+![RZLag-Circulatory-Structure](./assets/RZLag-Circulatory-Structure.webp)  
 
 ---
 ## 🌐 Related Portal  
@@ -143,7 +143,7 @@ EgQE continues.
 
 Because we have never had a completed theory.
 
-![ring](./assets/ring.png)
+![ring](./assets/ring.webp)
 
 ---
 ## 🔭 Overview  
@@ -159,7 +159,7 @@ Because we have never had a completed theory.
 ## 📅 Launch Day  
 **Echo Dependence Day — ZURE Toward a Relational Universe**  
 **2025.07.04 - HEG元年はじまる**  
-![Echo](./assets/echo00.png)
+![Echo](./assets/echo00.webp)
 
 <a href="https://camp-us.net/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">EgQE</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> © 2025 by </font></font><a href="https://camp-us.net/PROFILE.html"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> K.E. Itekki </font></font></a>は <font dir="auto" style="vertical-align: inherit;"><a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</font></a><font dir="auto" style="vertical-align: inherit;"> ライセンスです</font></font><a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;"></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 

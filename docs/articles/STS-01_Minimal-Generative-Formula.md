@@ -8,7 +8,7 @@ title_en: "STS-01｜HEG Ultra-Minimal Core: Minimal Generative Formula"
 # HEG 完全ミニマルコア
 ## HEG Ultra-Minimal Core
 
-![Cosmogenic-Formula](../assets/Cosmogenic-Formula.png)  
+![Cosmogenic-Formula](../assets/Cosmogenic-Formula.webp)  
 
 ---
 

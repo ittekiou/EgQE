@@ -167,7 +167,7 @@ _向きを持ったとき世界は時間になった_
 ![Genesisism](../assets/Genesisism.png)  
 [Gφ-INDEX-01｜Inter-Phase Hub — 生成構造のハブ / The Generative Hub —](https://camp-us.net/Gφ-INDEX-01_Inter-Phase-Hub.html)  
 
-![φ-G](../assets/φ-G.png)  
+![φ-G](../assets/φ-G.webp)  
 [φGenesisism 宣言](https://camp-us.net/Gφ.html)  
 
 ---

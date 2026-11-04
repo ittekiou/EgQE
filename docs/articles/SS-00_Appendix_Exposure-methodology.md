@@ -207,7 +207,7 @@ R/Z lag循環は、理論内容の優劣を即断するための装置という�
 ### **Figure 1. R/Z lag-circulatory framework.**
 （図1　R/Z lag循環枠組みにおける科学理論変動モデルの再配置）  
 
-![RZLag-Circulatory-Structure](../assets/RZLag-Circulatory-Structure.png)  
+![RZLag-Circulatory-Structure](../assets/RZLag-Circulatory-Structure.webp)  
 
 **図1　R/Z lag循環枠組みにおける科学理論変動モデルの再配置**  
 上段は、ポパー（反証）、クーン（パラダイム転換）、ラカトシュ（研究プログラム）、ルーマン（観察理論）を、20世紀科学理論変動論の主要構造として位置づける。  

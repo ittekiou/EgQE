@@ -105,7 +105,7 @@ HEG-16：拘り（êthos）＝生成の粘性（持続の質）　（価値に�
 [HEG-16｜可視化の構文論 ── なぜsupportは見えないのか｜Syntax of Visibility — Why Does Support Remain Invisible?](https://camp-us.net/articles/HEG-16_Syntax-of-Visibility.html)  
 [HEG-16｜bind(SO, RZ) ── supportの構文的定義｜bind(SO, RZ) — A Syntactic Definition of Support](https://camp-us.net/articles/HEG-16_Syntactic-Definition-of-Support.html)  
 
-![Lag-Bias-Generation](./assets/Lag-Bias-Generation.png)  
+![Lag-Bias-Generation](./assets/Lag-Bias-Generation.webp)  
 
 ---
 *EgQE — Echo-Genesis Qualia Engine*  

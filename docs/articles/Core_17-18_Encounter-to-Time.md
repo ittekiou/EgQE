@@ -10,7 +10,7 @@ title_en: HEG-Core｜From Encounter to Time (HEG-17-18)
 Persistence orders.  
 Maintenance stabilizes.**
 
-![Lag-Bias-Generation](../assets/Lag-Bias-Generation.png)  
+![Lag-Bias-Generation](../assets/Lag-Bias-Generation.webp)  
 
 ---
 

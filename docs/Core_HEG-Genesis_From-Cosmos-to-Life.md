@@ -142,7 +142,7 @@ persistence は「ある／ない」ではない。
 
 ---
 
-![Lag-Bias-Generation](./assets/Lag-Bias-Generation.png)  
+![Lag-Bias-Generation](./assets/Lag-Bias-Generation.webp)  
 
 ### HEG-14-16
 ## 生成の現象学へ

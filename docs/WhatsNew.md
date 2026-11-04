@@ -464,4 +464,4 @@ From Noise to Notation. From Dialogue to Discovery.
 #### 🏙 **EZsy**   [**ezsy.super.site**](https://ezsy.super.site/)  
 #### 🛰 **EgQE**  [**camp-us.net**](https://camp-us.net/)    
 
-![ring](./assets/ring.png)
+![ring](./assets/ring.webp)

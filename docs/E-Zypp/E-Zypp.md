@@ -5,7 +5,7 @@ layout: math
 # $E–Zypp$ 
 # **_感じる  支える  整える_**
 
-![E-Zypp](../assets/E-Zypp.png)  
+![E-Zypp](../assets/E-Zypp.webp)  
 # ZURE Inter-Phase Publisher / E-Zy Press / E-Zypp
 
 _**ZURE Inter-Phase Publisher（支える）→ E-Zy Press（整える）→ E-Zypp（感じる）**_

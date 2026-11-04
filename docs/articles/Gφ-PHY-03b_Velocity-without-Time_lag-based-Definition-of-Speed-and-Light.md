@@ -136,7 +136,7 @@ _Draft 0.1 — Non-closure formulation_
 
 ---
 
-![φ-G](../assets/φ-G.png)  
+![φ-G](../assets/φ-G.webp)  
 
 ![Genesisism](../assets/Genesisism.png)  
 [φGenesisism 宣言](https://camp-us.net/Gφ.html)  

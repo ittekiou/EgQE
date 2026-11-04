@@ -248,7 +248,7 @@ _A tear in the membrane. When density reaches its limit, syntax opens toward the
 
 ---
 
-![φ-G](./assets/φ-G.png)  
+![φ-G](./assets/φ-G.webp)  
 
 ---
 

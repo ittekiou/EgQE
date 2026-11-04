@@ -111,7 +111,7 @@ observation
 > The universe updates — lag by lag.**
 
 ### Solαr Compass
-![SolαrCompass](../assets/SolαrCompass.png)  
+![SolαrCompass](../assets/SolαrCompass.webp)  
 
 ---
 
