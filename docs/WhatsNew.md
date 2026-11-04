@@ -24,6 +24,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/11/04  
+[LoCo-Mo 01｜太陽なくとも東西あり ──自転・身体・古今東西の時空現象学](https://camp-us.net/articles/LCMo-RN-01_East-West_Sun.html)  
 ###### 2026/10/30  
 [SD-RACK v0.1｜Static-Dynamic RACK: Minimal Construction Manual](https://camp-us.net/CESE-PEC/SD-RACK_Minimal-Construction-Manual_v0.1.html)  
 [RN-RSnS-01｜HOW遭遇？──誰が、なにを、どう届けるのか｜RSSからSNSへ、そしてRSnSへ](https://camp-us.net/CESE-PEC/RN-RSnS-01_How-Encounter_Who-What-How-Deliver.html)  
