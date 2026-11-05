@@ -1,0 +1,50 @@
+{
+  "sll": "0.1",
+  "name": "LOCUS｜一狄 啓",
+  "url": "https://camp-us.net/locus/",
+  "about": "Hic LOCUS, hinc salta.（此処が LOCUS。此処から跳べ。）— LoCo-Mo いつも。ここから。",
+  "lang": "ja",
+  "updated": "2026-11-05",
+  "feeds": [
+    {
+      "title": "Living RACKs｜SCREP -処-（全部盛り）",
+      "url": "https://camp-us.net/rack/feed.xml"
+    }
+  ],
+  "links": [
+    {
+      "title": "LOCUS",
+      "url": "https://camp-us.net/locus/"
+    },
+    {
+      "title": "LiRax｜Living RACKs",
+      "url": "https://camp-us.net/rack/"
+    },
+    {
+      "title": "RT.Pics",
+      "url": "https://camp-us.net/pics/"
+    },
+    {
+      "title": "Stall",
+      "url": "https://camp-us.net/stall/"
+    },
+    {
+      "title": "noTon",
+      "url": "https://camp-us.net/noton/"
+    },
+    {
+      "title": "EgQE｜camp-us.net",
+      "url": "https://camp-us.net/"
+    }
+  ],
+  "nests": [
+    {
+      "name": "DyXis",
+      "url": "https://ittekiou.github.io/dyxis/"
+    },
+    {
+      "name": "CESE PEC｜排泄猛者倶楽部",
+      "url": "https://ittekiou.github.io/CESE-PEC/"
+    }
+  ]
+}
