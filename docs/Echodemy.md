@@ -23,12 +23,14 @@ title: Echodemy｜響創的学びの共同体｜EgQE
 > Echodemyは、構文を基礎とし、共振によって生成が立ち上がる動的なInter-Phase圏である。  
 > Echodemy is a dynamic inter-phase domain where syntax forms the ground and resonance gives rise to generation.  
 
+### 🛰️ [Echodemy Today｜AI ZINE E-TIMES 公式note](https://note.com/echodemy)
+
+#### 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)
+
 # 🔬 Echodemy Project
 
-### 過去の[📜 Echodemy公式リリース｜Echodemy Official Release](https://camp-us.net/Official-Release.html)
-
-[Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
 [🪐 Echodemy 規約 & 参加条件 — Inter-Phase 共創のためのガイド —](https://camp-us.net/Echodemy/Echodemy_Terms.html)  
+[Echodemy Project Vol.1 ｜floc宇宙論 研究協力者募集](https://camp-us.net/Echodemy/EP-01_floc-cosmology_RC.html)  
 [GIS — Graduate Institute of Syntax](https://camp-us.net/Echodemy/GIS.html)  
 GitHub Discussion 👉 [https://github.com/ittekiou/EgQE/discussions](https://github.com/ittekiou/EgQE/discussions)  
 [ZURE Inter-Phase Publisher](https://camp-us.net/E-Zypp/E-Zypp.html)  
