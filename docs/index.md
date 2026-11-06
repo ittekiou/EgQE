@@ -34,7 +34,7 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 # DyXis
 
 ![DyXis](./assets/DyXis.png)  
-#### 👉 [DyXis の入口](https://ittekiou.github.io/dyxis/)↗︎  
+### 👉 [DyXis の入口](https://ittekiou.github.io/dyxis/)↗︎  
 
 **DyXis｜built on SLL**  
 [Synchro-Lag LOCUS｜SLL](https://ittekiou.github.io/dyxis/concept.html)  
