@@ -4,6 +4,7 @@ title: Search｜EgQE内検索
 ---
 {% raw %}
 <h1>灯欄窓｜Transnomado（EgQE内検索）</h1>
+<figure id="egqe-win" class="egqe-win"><img src="/assets/Transnomado.webp" alt="灯欄窓｜Transnomado" loading="eager"></figure>
 <form id="egqe-f"><input id="egqe-q" type="search" placeholder="語を入れて Enter（スペース区切り＝すべて含むページ）" autocomplete="off"></form>
 <p id="egqe-st" class="egqe-st"></p>
 <div id="egqe-res"></div>
@@ -16,6 +17,9 @@ title: Search｜EgQE内検索
 .egqe-hit .n{color:#6e7781;font-size:.8em;margin-left:.5em;font-weight:normal}
 .egqe-hit .s{font-size:.92em;margin:.35em 0;white-space:pre-wrap;word-break:break-word}
 .egqe-hit mark{background:#fff3b0;color:inherit;border-radius:2px}
+.egqe-win{margin:0 0 1em}
+.egqe-win img{display:block;width:100%;height:auto;border-radius:6px}
+.egqe-win[hidden]{display:none}
 @media (prefers-color-scheme: dark){#egqe-q{border-color:#30363d}.egqe-hit{border-color:#30363d}.egqe-hit mark{background:#6b5a17}}
 </style>
 <script src="/assets/search/manifest.js"></script>
@@ -38,6 +42,7 @@ function snips(t,lo,w,re,max){const out=[];let from=0;
 let run=0;
 async function go(e){if(e)e.preventDefault();
   const q=$('egqe-q').value.trim();
+  $('egqe-win').hidden=!!q;
   try{history.replaceState(null,'',q?'?q='+encodeURIComponent(q):location.pathname)}catch(_){}
   if(!q){$('egqe-res').innerHTML='';$('egqe-st').textContent='';return;}
   const my=++run,words=q.toLowerCase().split(/\s+/).filter(Boolean);
@@ -61,6 +66,7 @@ async function go(e){if(e)e.preventDefault();
     +snips(p[2],lo,words[0],re,3).map(s=>`<div class="s">${s}</div>`).join('')+'</div>').join('');
 }
 $('egqe-f').onsubmit=go;
+$('egqe-q').addEventListener('input',()=>{if(!$('egqe-q').value.trim())go();});
 const q0=new URLSearchParams(location.search).get('q');
 if(q0){$('egqe-q').value=q0;go();}else $('egqe-q').focus();
 })();
