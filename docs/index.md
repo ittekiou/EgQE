@@ -31,6 +31,14 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 ![Transnomado](./assets/Transnomado.webp)  
 ### ↪️ [Search](https://camp-us.net/search.html)  
 
+# DyXis
+
+![DyXis](./assets/DyXis.png)  
+#### 👉 [DyXis の入口](https://ittekiou.github.io/dyxis/)  
+
+**DyXis｜built on SLL**  
+Synchro-Lag LOCUS｜SLL  
+
 # **LoCo-Mo** 🧭  
 #### ──いつも。ここから。  
 ![LoCo-Mo](./assets/LoCo-Mo.webp)  
