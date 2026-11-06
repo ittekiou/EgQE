@@ -27,9 +27,9 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 # EgQE 3.0
 
 #### Transnomado
-## 灯欄窓（EgQE内検索）
+## 灯欄窓
 ![Transnomado](./assets/Transnomado.webp)  
-### ↪️ [Search](https://camp-us.net/search.html)  
+### ↪️ [Search](https://camp-us.net/search.html)（EgQE内検索）  
 
 # DyXis
 
