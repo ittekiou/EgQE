@@ -29,8 +29,8 @@ title: AI Meets Echoes｜EgQE
 Another Locus for Trace.  
 **READ EgQE. WRITE EAT-IF.**  
 
-GitHub｜[https://github.com/ittekiou/EAT-IF](https://github.com/ittekiou/EAT-IF)  
 Web｜[https://ittekiou.github.io/EAT-IF/](https://ittekiou.github.io/EAT-IF/)  
+GitHub｜[https://github.com/ittekiou/EAT-IF](https://github.com/ittekiou/EAT-IF)  
 **Re:M**｜MLETH：_Multi-Locus Encounter Trace History_  
 
 ---
