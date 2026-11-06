@@ -34,10 +34,10 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 # DyXis
 
 ![DyXis](./assets/DyXis.png)  
-#### 👉 [DyXis の入口](https://ittekiou.github.io/dyxis/)  
+#### 👉 [DyXis の入口](https://ittekiou.github.io/dyxis/)↗︎  
 
 **DyXis｜built on SLL**  
-Synchro-Lag LOCUS｜SLL  
+[Synchro-Lag LOCUS｜SLL](https://ittekiou.github.io/dyxis/concept.html)  
 
 # **LoCo-Mo** 🧭  
 #### ──いつも。ここから。  
@@ -51,7 +51,7 @@ Synchro-Lag LOCUS｜SLL
 ## 📚 [Book List](https://ezsy.super.site/e-zy-press/bbb/bbbl)↗︎  
 #### Amazon 著者ページ [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
 
-### 📪 Substack — EgSS🥚  [Posts](https://substack.com/@kei77)  [Website](https://campus6214.substack.com/)↗︎  
+### 📪 Substack — EgSS🥚  [Posts](https://substack.com/@kei77)｜ [Website](https://campus6214.substack.com/)↗︎  
 
 ---
 # SyncHub — EgQE
