@@ -1,10 +1,11 @@
+
 <!doctype html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>LOCUS｜此処</title>
-<meta name="description" content="此処が LOCUSじゃ。ここから飛べ。LiRax・RT.Pics・Stall・noTon の真ん中。">
+<meta name="description" content="此処が LOCUSじゃ。此処から跳べ。LiRax・RT.Pics・Stall・noTon の真ん中。">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://camp-us.net/locus/">
 <meta property="og:title" content="LOCUS｜此処">
@@ -14,161 +15,484 @@
 <link rel="apple-touch-icon" href="/locus/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="512x512" href="/locus/icon-512.png">
 <meta name="apple-mobile-web-app-title" content="LOCUS">
+
 <style>
   /* 色は四軒とそろえる */
-  :root{
-    --bg:#f4efe6; --paper:#fbf8f2; --ink:#2b2621; --sub:#6f665c; --line:#ddd3c4;
-    --wood:#8a6a48; --tag:#efe5d3; --shadow:0 1px 2px rgba(60,40,20,.08),0 6px 18px rgba(60,40,20,.08);
+  :root {
+    --bg:#f4efe6;
+    --paper:#fbf8f2;
+    --ink:#2b2621;
+    --sub:#6f665c;
+    --line:#ddd3c4;
+    --wood:#8a6a48;
+    --tag:#efe5d3;
+    --shadow:0 1px 2px rgba(60,40,20,.08),
+             0 6px 18px rgba(60,40,20,.08);
   }
-  @media (prefers-color-scheme: dark){
-    :root:not([data-theme="light"]){
-      --bg:#1d1b18; --paper:#26231f; --ink:#ece6dc; --sub:#a59c90; --line:#3a352e;
-      --wood:#b38c62; --tag:#332e27; --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 18px rgba(0,0,0,.25);
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg:#1d1b18;
+      --paper:#26231f;
+      --ink:#ece6dc;
+      --sub:#a59c90;
+      --line:#3a352e;
+      --wood:#b38c62;
+      --tag:#332e27;
+      --shadow:0 1px 2px rgba(0,0,0,.3),
+               0 6px 18px rgba(0,0,0,.25);
     }
   }
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--ink);
-    font-family:"Hiragino Kaku Gothic ProN","Noto Sans JP",system-ui,sans-serif;line-height:1.6}
-  a{color:inherit}
-  .wrap{max-width:780px;margin:0 auto;padding:28px 16px 56px}
 
-  /* 十字：北＝noTon、南＝Stall、左＝LiRax、右＝RT.Pics、真ん中＝此処 */
-  /* 十字の大きさは画面の高さに合わせる：四方が一度に見えるように */
-  .cross{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,auto);
-    gap:clamp(10px,2.6cqw,22px);width:clamp(300px,calc(100vh - 200px),100%);margin:8px auto 0;container-type:inline-size}
-  .n{grid-column:2;grid-row:1} .w{grid-column:1;grid-row:2} .c{grid-column:2;grid-row:2}
-  .e{grid-column:3;grid-row:2} .s{grid-column:2;grid-row:3}
+  * { box-sizing:border-box; }
 
-  .shop{display:flex;flex-direction:column;text-decoration:none}
-  .shop .fr{display:block;aspect-ratio:1/1;background:var(--tag);border-radius:4px;overflow:hidden;
-    box-shadow:var(--shadow);position:relative;border:1px solid var(--line)}
-  .shop .fr img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s}
-  .shop:hover .fr img{transform:scale(1.04)}
-  .shop .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:clamp(28px,9cqw,64px)}
-  .shop .fr img + .ph{display:none}
-  .shop .nm{margin-top:8px;text-align:center;font-size:clamp(13px,2.6cqw,19px);font-weight:600;color:var(--wood);line-height:1.3}
-  .shop .nm small{display:block;font-weight:400;font-size:clamp(10px,1.8cqw,13px);color:var(--sub)}
+  body {
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:"Hiragino Kaku Gothic ProN",
+      "Noto Sans JP",system-ui,sans-serif;
+    line-height:1.6;
+  }
 
-  /* 真ん中：此処の楕円。縁に N・S・L・R を置く（窓の絵には何も載せない） */
-  .c{align-self:start;aspect-ratio:1/1;display:flex;align-items:center;justify-content:center}
-  .ov{position:relative;width:112%;height:88%;border-radius:50%;background:var(--wood);color:var(--bg);
-    box-shadow:var(--shadow),inset 0 0 0 clamp(4px,1vw,7px) var(--wood),inset 0 0 0 calc(clamp(4px,1vw,7px) + 1px) color-mix(in srgb,var(--bg) 45%,transparent);
-    display:flex;flex-direction:column;align-items:center;justify-content:center}
-  .ov .d{position:absolute;font-family:"Hiragino Mincho ProN","Noto Serif JP",serif;font-weight:600;
-    font-size:clamp(11px,3cqw,22px);letter-spacing:.04em;line-height:1;opacity:.95}
-  .ov .dn{top:6%;left:50%;transform:translateX(-50%)} .ov .ds{bottom:6%;left:50%;transform:translateX(-50%)}
-  .ov .dl{left:7%;top:50%;transform:translateY(-50%)} .ov .dr{right:7%;top:50%;transform:translateY(-50%)}
-  .c .here{font-family:"Hiragino Mincho ProN","Noto Serif JP",serif;font-weight:600;
-    font-size:clamp(20px,6cqw,52px);line-height:1;letter-spacing:.06em}
-  .c .lc{font-size:clamp(8px,1.7cqw,14px);letter-spacing:.3em;margin-top:4px;opacity:.9}
+  a { color:inherit; }
 
-  .motto{text-align:center;margin:26px 0 0;font-family:"Hiragino Mincho ProN","Noto Serif JP",serif}
-  .motto .la{display:block;font-style:italic;font-size:clamp(20px,4vw,28px);letter-spacing:.02em}
-  .motto .ja{display:block;font-size:clamp(14px,2.8vw,17px);color:var(--sub);margin-top:4px}
-  .motto.head{margin:0 0 22px}
-  .motto.head + .cross ~ .motto{margin-top:22px}
-  .ask{text-align:center;margin:12px 0 0;font-size:13px;color:var(--sub);letter-spacing:.02em}
-  .note{text-align:center;color:var(--sub);font-size:12px;margin:10px 0 0}
-  footer{margin-top:40px;font-size:12px;color:var(--sub);text-align:center}
+  .wrap {
+    max-width:780px;
+    margin:0 auto;
+    padding:28px 16px 56px;
+  }
 
+  /* 十字：北=noTon、南=Stall、
+     左=LiRax、右=RT.Pics、中央=此処 */
+  .cross {
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    grid-template-rows:repeat(3,auto);
+    gap:clamp(10px,2.6cqw,22px);
+    width:clamp(300px,calc(100vh - 200px),100%);
+    margin:8px auto 0;
+    container-type:inline-size;
+  }
+
+  .n { grid-column:2;grid-row:1; }
+  .w { grid-column:1;grid-row:2; }
+  .c { grid-column:2;grid-row:2; }
+  .e { grid-column:3;grid-row:2; }
+  .s { grid-column:2;grid-row:3; }
+
+  .shop {
+    display:flex;
+    flex-direction:column;
+    text-decoration:none;
+  }
+
+  .shop .fr {
+    display:block;
+    aspect-ratio:1/1;
+    background:var(--tag);
+    border-radius:4px;
+    overflow:hidden;
+    box-shadow:var(--shadow);
+    position:relative;
+    border:1px solid var(--line);
+  }
+
+  .shop .fr img {
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    display:block;
+    transition:transform .4s;
+  }
+
+  .shop:hover .fr img {
+    transform:scale(1.04);
+  }
+
+  .shop .ph {
+    position:absolute;
+    inset:0;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:clamp(28px,9cqw,64px);
+  }
+
+  .shop .fr img + .ph {
+    display:none;
+  }
+
+  .shop .nm {
+    margin-top:8px;
+    text-align:center;
+    font-size:clamp(13px,2.6cqw,19px);
+    font-weight:600;
+    color:var(--wood);
+    line-height:1.3;
+  }
+
+  .shop .nm small {
+    display:block;
+    font-weight:400;
+    font-size:clamp(10px,1.8cqw,13px);
+    color:var(--sub);
+  }
+
+  /* 中央：此処の楕円 */
+  .c {
+    align-self:start;
+    aspect-ratio:1/1;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+
+  .ov {
+    position:relative;
+    width:112%;
+    height:88%;
+    border-radius:50%;
+    background:var(--wood);
+    color:var(--bg);
+    box-shadow:
+      var(--shadow),
+      inset 0 0 0 clamp(4px,1vw,7px) var(--wood),
+      inset 0 0 0 calc(clamp(4px,1vw,7px) + 1px)
+        color-mix(in srgb,var(--bg) 45%,transparent);
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+  }
+
+  .ov .d {
+    position:absolute;
+    font-family:"Hiragino Mincho ProN",
+      "Noto Serif JP",serif;
+    font-weight:600;
+    font-size:clamp(11px,3cqw,22px);
+    letter-spacing:.04em;
+    line-height:1;
+    opacity:.95;
+  }
+
+  .ov .dn {
+    top:6%;
+    left:50%;
+    transform:translateX(-50%);
+  }
+
+  .ov .ds {
+    bottom:6%;
+    left:50%;
+    transform:translateX(-50%);
+  }
+
+  .ov .dl {
+    left:7%;
+    top:50%;
+    transform:translateY(-50%);
+  }
+
+  .ov .dr {
+    right:7%;
+    top:50%;
+    transform:translateY(-50%);
+  }
+
+  .c .here {
+    font-family:"Hiragino Mincho ProN",
+      "Noto Serif JP",serif;
+    font-weight:600;
+    font-size:clamp(20px,6cqw,52px);
+    line-height:1;
+    letter-spacing:.06em;
+  }
+
+  .c .lc {
+    font-size:clamp(8px,1.7cqw,14px);
+    letter-spacing:.3em;
+    margin-top:4px;
+    opacity:.9;
+  }
+
+  /* 標語と説明 */
+  .motto {
+    text-align:center;
+    margin:26px 0 0;
+    font-family:"Hiragino Mincho ProN",
+      "Noto Serif JP",serif;
+  }
+
+  .motto .la {
+    display:block;
+    font-style:italic;
+    font-size:clamp(20px,4vw,28px);
+    letter-spacing:.02em;
+  }
+
+  .motto .ja {
+    display:block;
+    font-size:clamp(14px,2.8vw,17px);
+    color:var(--sub);
+    margin-top:4px;
+  }
+
+  .motto.head {
+    margin:0 0 22px;
+  }
+
+  .motto.head + .cross ~ .motto {
+    margin-top:22px;
+  }
+
+  .ask {
+    text-align:center;
+    margin:12px 0 0;
+    font-size:13px;
+    color:var(--sub);
+    letter-spacing:.02em;
+  }
+
+  .note {
+    text-align:center;
+    color:var(--sub);
+    font-size:12px;
+    margin:10px 0 0;
+  }
+
+  /* DyXis：控えめな道標 */
 .dyxis-link {
-  margin: 28px auto 36px;
-  padding: 16px 12px;
-  max-width: 300px;
+  margin: 18px auto 12px;
+  padding: 8px 10px;
+  max-width: 220px;
   text-align: center;
-  border-top: 1px solid #d7c9b5;
-  border-bottom: 1px solid #d7c9b5;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
 }
 
 .dyxis-link a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 5px;
-  color: #79634e;
+  gap: 2px;
+  color: var(--wood);
   text-decoration: none;
 }
 
 .dyxis-name {
-  font-size: 1.15rem;
-  font-weight: 700;
-  letter-spacing: .05em;
-}
-
-.dyxis-copy {
-  font-size: .82rem;
+  font-size: 13px;
+  font-weight: 600;
   letter-spacing: .03em;
 }
 
-.dyxis-sub {
-  font-size: .72rem;
-  opacity: .7;
+.dyxis-copy {
+  font-size: 10px;
+  letter-spacing: .02em;
 }
 
-.dyxis-link a:hover .dyxis-name,
-.dyxis-link a:focus-visible .dyxis-name {
-  text-decoration: underline;
-  text-underline-offset: 4px;
+.dyxis-sub {
+  font-size: 9px;
+  opacity: .75;
 }
+
+
+  footer {
+    margin-top:40px;
+    font-size:12px;
+    color:var(--sub);
+    text-align:center;
+  }
 </style>
 </head>
+
 <body>
 <div class="wrap">
-  <p class="motto head"><span class="la" lang="la">Hic LOCUS, hinc salta.</span></p>
+
+  <p class="motto head">
+    <span class="la" lang="la">
+      Hic LOCUS, hinc salta.
+    </span>
+  </p>
+
   <main class="cross">
-    <a class="shop n" href="/noton/"><span class="fr"><span class="ph">🐽</span></span><span class="nm">🐽 noTon<small>接続</small></span></a>
-    <a class="shop w" href="/rack/"><span class="fr"><span class="ph">📚</span></span><span class="nm">📚 LiRax<small>新着</small></span></a>
-    <div class="c" aria-label="此処"><div class="ov"><span class="d dn">N</span><span class="d dl">L</span><span class="d dr">R</span><span class="d ds">S</span><span class="here">此処</span><span class="lc">LOCUS</span></div></div>
-    <a class="shop e" href="/pics/"><span class="fr"><span class="ph">🧺</span></span><span class="nm">🧺 RT.Pics<small>遭遇</small></span></a>
-    <a class="shop s" href="/stall/"><span class="fr"><span class="ph">🏕️</span></span><span class="nm">🏕️ Stall<small>陳列</small></span></a>
+
+    <a class="shop n" href="/noton/">
+      <span class="fr">
+        <span class="ph">🐽</span>
+      </span>
+      <span class="nm">
+        🐽 noTon
+        <small>接続</small>
+      </span>
+    </a>
+
+    <a class="shop w" href="/rack/">
+      <span class="fr">
+        <span class="ph">📚</span>
+      </span>
+      <span class="nm">
+        📚 LiRax
+        <small>新着</small>
+      </span>
+    </a>
+
+    <div class="c" aria-label="此処">
+      <div class="ov">
+        <span class="d dn">N</span>
+        <span class="d dl">L</span>
+        <span class="d dr">R</span>
+        <span class="d ds">S</span>
+        <span class="here">此処</span>
+        <span class="lc">LOCUS</span>
+      </div>
+    </div>
+
+    <a class="shop e" href="/pics/">
+      <span class="fr">
+        <span class="ph">🧺</span>
+      </span>
+      <span class="nm">
+        🧺 RT.Pics
+        <small>遭遇</small>
+      </span>
+    </a>
+
+    <a class="shop s" href="/stall/">
+      <span class="fr">
+        <span class="ph">🏕️</span>
+      </span>
+      <span class="nm">
+        🏕️ Stall
+        <small>陳列</small>
+      </span>
+    </a>
+
   </main>
-  <p class="motto"><span class="ja">此処が LOCUSじゃ。此処から跳べ。</span></p>
-  <p class="ask" lang="en">Jump where? — Here, the LOCUS.</p>
-  <p class="note">四つの窓の絵は、それぞれの店のいまの一枚。開くたびに、店の決まりで選び直す。</p>
-<div class="dyxis-link">
-  <a href="https://ittekiou.github.io/dyxis/">
-    <span class="dyxis-name">DyXis ↗</span>
-    <span class="dyxis-copy">LOCUS. Not One Next.</span>
-    <span class="dyxis-sub">SNS Next ≠ SNS.</span>
-  </a>
-</div>
-  <footer>LOCUS｜此処　·　<a href="/rack/">Living RACKs</a> の台帳から。</footer>
+
+  <p class="motto">
+    <span class="ja">
+      此処が LOCUSじゃ。此処から跳べ。
+    </span>
+  </p>
+
+  <p class="ask" lang="en">
+    Jump where? — Here, the LOCUS.
+  </p>
+
+  <p class="note">
+    四つの窓の絵は、それぞれの店のいまの一枚。
+    開くたびに、店の決まりで選び直す。
+  </p>
+
+  <!-- DyXisへの道標 -->
+  <div class="dyxis-link">
+    <a href="https://ittekiou.github.io/dyxis/">
+      <span class="dyxis-name">DyXis ↗</span>
+      <span class="dyxis-copy">LOCUS. Not One Nest.</span>
+      <span class="dyxis-sub">SNS Next ≠ SNS.</span>
+    </a>
+  </div>
+
+  <footer>
+    LOCUS｜此処　·　
+    <a href="/rack/">Living RACKs</a> の台帳から。
+  </footer>
+
 </div>
 
 <script>
 (() => {
-  const esc = s => String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const rnd = n => { try { const a = new Uint32Array(1); crypto.getRandomValues(a); return a[0] % n; } catch (e) { return Math.floor(Math.random() * n); } };
+  const esc = s => String(s || '').replace(
+    /[&<>"']/g,
+    c => ({
+      '&':'&amp;',
+      '<':'&lt;',
+      '>':'&gt;',
+      '"':'&quot;',
+      "'":'&#39;'
+    }[c])
+  );
+
+  const rnd = n => {
+    try {
+      const a = new Uint32Array(1);
+      crypto.getRandomValues(a);
+      return a[0] % n;
+    } catch (e) {
+      return Math.floor(Math.random() * n);
+    }
+  };
+
   const img = it => it && (it.image || it.thumb);
 
   function put(cls, it) {
     const fr = document.querySelector('.' + cls + ' .fr');
     if (!fr || !img(it)) return;
+
     const el = document.createElement('img');
-    el.src = img(it); el.alt = it.title || ''; el.loading = 'eager';
+    el.src = img(it);
+    el.alt = it.title || '';
+    el.loading = 'eager';
     el.addEventListener('error', () => el.remove());
+
     fr.insertBefore(el, fr.querySelector('.ph'));
   }
 
-  fetch('/rack/rack.json', { cache: 'no-cache' })
-    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  fetch('/rack/rack.json', { cache:'no-cache' })
+    .then(r => {
+      if (!r.ok) throw new Error(r.status);
+      return r.json();
+    })
     .then(j => {
       const rows = j.rows || [];
-      const rowItems = id => { const r = rows.find(x => x.id === id) || {}; return (r.groups || [r]).flatMap(g => g.items || []); };
-      const shop = rows.filter(r => !['stall', 'noton'].includes(r.position || 'before'))
-        .flatMap(r => (r.groups || [r]).filter(g => g.image !== false).flatMap(g => g.items || []));
-      const mags = (j.magazines || []).filter(m => !m.hidden).flatMap(m => m.latest || []);
+
+      const rowItems = id => {
+        const r = rows.find(x => x.id === id) || {};
+        return (r.groups || [r]).flatMap(g => g.items || []);
+      };
+
+      const shop = rows
+        .filter(r => !['stall','noton'].includes(r.position || 'before'))
+        .flatMap(r =>
+          (r.groups || [r])
+            .filter(g => g.image !== false)
+            .flatMap(g => g.items || [])
+        );
+
+      const mags = (j.magazines || [])
+        .filter(m => !m.hidden)
+        .flatMap(m => m.latest || []);
+
       const lirax = shop.concat(mags).filter(img);
 
-      // 店の決まりで一枚ずつ
-      put('w', lirax.slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''))[0]);        // 新着順：いちばん新しい一枚
-      const all = lirax.concat(rowItems('stall'), rowItems('noton')).filter(img);
-      put('e', all[rnd(all.length || 1)]);                                                              // 遭遇順：くじの一枚
-      put('s', rowItems('stall').filter(img)[0]);                                                       // 陳列順：敷物の先頭
-      put('n', rowItems('noton').filter(img)[0]);                                                       // 接続順：帳場の先頭の一冊
+      // 新着順：いちばん新しい一枚
+      put(
+        'w',
+        lirax.slice().sort(
+          (a,b) => (b.date || '').localeCompare(a.date || '')
+        )[0]
+      );
+
+      // 遭遇順：くじの一枚
+      const all = lirax
+        .concat(rowItems('stall'),rowItems('noton'))
+        .filter(img);
+
+      put('e', all[rnd(all.length || 1)]);
+
+      // 陳列順：敷物の先頭
+      put('s', rowItems('stall').filter(img)[0]);
+
+      // 接続順：帳場の先頭の一冊
+      put('n', rowItems('noton').filter(img)[0]);
     })
-    .catch(() => {});   // 台帳が読めなくても、十字と札は出る
+    .catch(() => {
+      // 台帳が読めなくても十字と札は出る
+    });
 })();
 </script>
+
 </body>
 </html>
