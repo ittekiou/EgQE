@@ -26,7 +26,7 @@ title: CESE PEC 💩｜排泄猛者倶楽部
 
 #### DyXis Commons｜CESE PEC｜排泄猛者倶楽部
 🪺 [CESE PEC｜排泄猛者倶楽部｜別荘（ComMounds 型））](https://ittekiou.github.io/CESE-PEC/)   
-#### Are.na Sunday Review｜Trace Stock
+#### Trace Stock｜Are.na Sunday Review
 🐜 [ARENA-TRACE — Are.naとの遭遇](https://camp-us.net/CESE-PEC/Are.na_SundayReview)
 
 ## どこ？ ここにも！ 出た！

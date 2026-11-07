@@ -1,10 +1,10 @@
 ---
 layout: math
-title_en: Are.na Sunday Review｜Trace Stock
+title_en: Trace Stock｜Are.na Sunday Review
 title: ARENA-TRACE — Are.naとの遭遇
 ---
 ### ARENA-TRACE — Are.naとの遭遇
-# Are.na Sunday Review｜Trace Stock
+# Trace Stock｜Are.na Sunday Review
 
 [ASR-2026-11-01｜Trace Stock](https://camp-us.net/CESE-PEC/ASR-2026-11-01.html)  
 
