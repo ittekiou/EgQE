@@ -112,10 +112,10 @@ _Still blogging? Try SyncHub!_
 ## 🌐 Related Portal  
 
 - [EZsy](https://ezsy.super.site/) – _Echodemic ZURE Syntax Yard_  
+- [CESE PEC 💩](https://camp-us.net/CESE-PEC/README.html)  
 ### 🐜 [Areå.na](https://www.are.na/kei-itteki/tracentrance)↗︎  
 - [🌳Amazon længs](https://www.are.na/dream-no-track-kuykyopogvu/amazon-laengs)  
 - [🌿 note RACK](https://www.are.na/dream-no-track-kuykyopogvu/note-rack)  
-- [CESE PEC 💩](https://camp-us.net/CESE-PEC/README.html)  
 
 - 📔 note: [membership](https://note.com/takahashihajime/membership)
 - ☕️ Patreon: [Membership salon](https://www.patreon.com/c/campus6214/about)  
