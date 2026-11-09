@@ -24,7 +24,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
-
+###### 2026/11/09  
+[DyXis 🧭 ──LOCUS. Not One Next.](https://camp-us.net/DyXis.html)  
 ###### 2026/11/04  
 [LoCo-Mo 🧭 ──いつも。ここから。](https://camp-us.net/LoCoMo.html)  
 [LoCo-Mo 01｜太陽なくとも東西あり ──自転・身体・古今東西の時空現象学](https://camp-us.net/articles/LCMo-RN-01_East-West_Sun.html)  
