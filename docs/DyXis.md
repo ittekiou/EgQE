@@ -53,6 +53,12 @@ WEST も EAST も、ひとつではない。
 - 別荘：[DyXis Commons](https://ittekiou.github.io/dyxis/commons.html) ・ [CESE PEC｜排泄猛者倶楽部](https://ittekiou.github.io/CESE-PEC/)  
 
 ![DyXis_nest](./assets/DyXis_nest.webp)  
+Kindle E-ZY Press BOOKS 📕 [DyXis](https://www.amazon.co.jp/dp/4911970006?th=1&linkCode=ll2&tag=hatenadia0516-22&linkId=c38d9ce7da85b1df75c85d0a91189043&ref_=as_li_ss_tl)↗︎  
+
+> 新しいSNSをつくる本ではありません。一人の人間と何人かのAIたちが、あれこれ話しながら、Webの上に小さな仕組み「**DyXis**」を置いていった記録です。  
+> ──自分の場所に、小さな名札を一枚置く。  
+> **Genesis**（誕生記）と**Exodus**（巣立ち編）の二つの入口から読めます。_日英併記版。_
+
 ### 🧭 此処へ
 
 - [LoCo-Mo 🧭 ──いつも。ここから。](https://camp-us.net/LoCoMo.html)  
