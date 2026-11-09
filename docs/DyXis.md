@@ -66,8 +66,14 @@ WEST も EAST も、ひとつではない。
 
 ### ──SNS Next ≠ SNS.
 
-![DyXis Compass](DyXis_Compass.webp)
+![DyXis Compass](./assets/DyXis_Compass.webp)
 
 ![DyXis](./assets/DyXis.png)  
 
 ![DyXis_arhizome](./assets/DyXis_arhizome.webp)  
+
+**DyXis**  
+**LOCUS.**  
+**Not One Next.**  
+**SNS Next ≠ SNS.**
+
