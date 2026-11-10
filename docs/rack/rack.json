@@ -1094,7 +1094,7 @@
     {
       "id": "arena",
       "kind": "video",
-      "name": "🐜 Are.na｜アリ穴",
+      "name": "🐜 Areå.na｜アリ穴",
       "note": "遊び場の棚に、新しく貼ったもの。",
       "feed": "https://www.are.na/kei-itteki/feed/rss",
       "link": "https://www.are.na/kei-itteki",
@@ -1104,7 +1104,8 @@
       "sort": true,
       "skip_dupes_of": ["books"],
       "channels_apart": true,
-      "link_to": "arena"
+      "link_to": "arena",
+      "accumulate": "https://camp-us.net/rack/rack.json"
     },
     {
       "id": "stall",
