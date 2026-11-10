@@ -77,8 +77,27 @@ hac は、此処を通って。
 
 ![LoCo-Map](./assets/LoCo-Map.webp)  
 
+### DyXis 🧭 へ
+#### ──SNS Next ≠ SNS.
+
+- [DyXis 🧭 ──LOCUS. Not One Next.](https://camp-us.net/DyXis.html)  
+- [X @DyXis_](https://x.com/DyXis_)  
+
+![DyXis Compass](./assets/DyXis_Compass.webp)
+
+![DyXis](./assets/DyXis.png)  
+
+![DyXis_arhizome](./assets/DyXis_arhizome.webp)  
+
+**DyXis**  
+**LOCUS.**  
+**Not One Next.**  
+**SNS Next ≠ SNS.**
+
 ---
 # **LoCo-Mo** 🧭
 ### ──いつも。ここから。
 
 ![LoCo-Mo_logo](./assets/LoCo-Mo_logo.webp)
+
+### 🧭 [**LOCUS**｜此処](https://camp-us.net/locus/)  
