@@ -252,6 +252,26 @@ def read_whatsnew(path, keep=10):
     return out
 
 
+_PREV = {}
+
+
+def previous_group(url, rid, label=None):
+    """前回公開した rack.json から、同じ段（と組）の中身を読む。読めなければ空。"""
+    if url not in _PREV:
+        try:
+            _PREV[url] = json.loads(fetch(url).decode("utf-8"))
+        except Exception as e:
+            print(f"no previous rack ({url}): {e}", file=sys.stderr)
+            _PREV[url] = {}
+    for row in _PREV[url].get("rows", []):
+        if row.get("id") != rid:
+            continue
+        for g in (row.get("groups") or [row]):
+            if (g.get("label") if row.get("groups") else None) == label:
+                return g
+    return {}
+
+
 def fill_group(grp, rid, sort=True):
     """feed が一本なら "feed"、いくつも混ぜるなら "feeds": [...]。
     一本でも取れたら items を入れ替え、全部だめなら前の中身のまま。"""
@@ -287,6 +307,18 @@ def fill_group(grp, rid, sort=True):
             for x in got:
                 if x.get("block"):
                     x["url"] = x["block"]
+        acc = grp.get("accumulate")             # 溜めていく段：前回並んでいたものの上に、新しく来たものを重ねる
+        if acc:
+            prev = previous_group(acc, rid, grp.get("label") if grp.get("feeds") or grp.get("label") else None)
+            have = {x.get("url") for x in got}
+            got += [x for x in prev.get("items", []) if x.get("url") and x.get("url") not in have]
+            if sort:
+                got.sort(key=lambda x: x["date"] or "", reverse=True)
+            if grp.get("channels_apart"):
+                seen = {c.get("url") for c in grp.get("channels", [])}
+                grp["channels"] = (grp.get("channels", []) + [c for c in prev.get("channels", []) if c.get("url") not in seen])
+                grp["channels"].sort(key=lambda c: c.get("date") or "", reverse=True)
+                grp["channels"] = grp["channels"][:grp.get("channels_keep", 6)]
         grp["items"] = got[:grp.get("keep", ROW_KEEP)]
         for x in grp["items"]:
             if not grp.get("excerpt"):          # 抜粋を見せる組（"excerpt": true）だけ残す
