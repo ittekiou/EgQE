@@ -168,7 +168,11 @@ def excerpt(body):
 def read_row(feed_url, sort=True):
     """RSS（Are.na・Substack・LISTEN・stand.fm・ブログ・Bluesky）でも Atom（YouTube・はてな）でも、「段」の中身を読む。
     Are.na の <source url>（Amazon の商品ページ）があれば、そちらをリンクにする。"""
-    root = ET.fromstring(fetch(feed_url))
+    data = fetch(feed_url)
+    # Are.na の RSS には、住所の中の & がそのまま入っていることがある（XML としては壊れている）。
+    # 名前の付いていない & だけを &amp; に直してから読む
+    data = re.sub(rb"&(?!(?:[A-Za-z][A-Za-z0-9]*|#[0-9]+|#x[0-9A-Fa-f]+);)", b"&amp;", data)
+    root = ET.fromstring(data)
     bluesky = is_bluesky_rss(feed_url)
     out = []
     if root.tag == f"{ATOM}feed":                   # YouTube など
@@ -195,11 +199,13 @@ def read_row(feed_url, sort=True):
             src = it.find("source")
             su = src.get("url", "") if src is not None else ""
             # Are.na の <source> は Amazon の商品ページ。Discourse の <source> は RSS 自身なので使わない
+            own = (it.findtext("link") or "").strip()
             if su and not re.search(r"\.(rss|xml)(\?|$)", su) and su != feed_url:
                 link = su
             else:
-                link = (it.findtext("link") or "").strip()
+                link = own
             out.append({
+                "block": own,                     # Are.na ならブロックのページ（重なりの照合と、Are.na へ飛ばす段のため）
                 # Bluesky公式RSSにはtitleがない。本文から表示・再配信用の見出しを補う。
                 "title": ((it.findtext("title") or "").strip()
                           or (excerpt(it.findtext("description")) if bluesky else "")),
@@ -272,6 +278,15 @@ def fill_group(grp, rid, sort=True):
     if ok:
         if len(feeds) > 1:
             got.sort(key=lambda x: x["date"] or "", reverse=True)
+        if grp.get("channels_apart"):           # Are.na の全体フィード：新しくできた棚（チャンネル）はブロックと分けて、添え書きにする
+            chans = [x for x in got if re.match(r"^https://www\.are\.na/[^/]+/[^/]+/?$", x.get("block") or "")
+                     and "/block/" not in (x.get("block") or "")]
+            got = [x for x in got if x not in chans]
+            grp["channels"] = [{"title": x["title"], "url": x["block"], "date": x["date"]} for x in chans][:grp.get("channels_keep", 6)]
+        if grp.get("link_to") == "arena":       # 押したら Are.na のブロックのページへ（貼った先ではなく、Are.na の見せ方で）
+            for x in got:
+                if x.get("block"):
+                    x["url"] = x["block"]
         grp["items"] = got[:grp.get("keep", ROW_KEEP)]
         for x in grp["items"]:
             if not grp.get("excerpt"):          # 抜粋を見せる組（"excerpt": true）だけ残す
@@ -452,6 +467,27 @@ def main(path):
             continue
         for grp in (row.get("groups") or [row]):
             fill_group(grp, row.get("id"), row.get("sort", True))
+
+    # 段どうしの重なり：「"skip_dupes_of": ["books"]」と書いた段からは、
+    # その段（新刊本など）にもう並んでいるのと同じリンク先を外す。新刊は新刊の段にだけ並べる。
+    byid = {r.get("id"): r for r in rack.get("rows", [])}
+    for row in rack.get("rows", []):
+        for oid in row.get("skip_dupes_of", []):
+            other = byid.get(oid) or {}
+            seen = {u for g in (other.get("groups") or [other]) for x in g.get("items", [])
+                    for u in (x.get("url"), x.get("block")) if u}
+            for grp in (row.get("groups") or [row]):
+                before = len(grp.get("items", []))
+                grp["items"] = [x for x in grp.get("items", [])
+                                if x.get("url") not in seen and x.get("block") not in seen]
+                if before != len(grp["items"]):
+                    print(f"row {row.get('id')}: {before - len(grp['items'])} items also in {oid}, skipped")
+
+    # 照合用の block は台帳に残さない
+    for row in rack.get("rows", []):
+        for grp in (row.get("groups") or [row]):
+            for x in grp.get("items", []):
+                x.pop("block", None)
 
     rack["updated"] = datetime.now(JST).replace(microsecond=0).isoformat()
     with open(path, "w", encoding="utf-8") as f:
