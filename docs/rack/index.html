@@ -276,7 +276,7 @@
       const publisher = r.id === 'books' ? `<aside class="publisher-note" aria-labelledby="publisher-title"><div class="publisher-copy"><h3 id="publisher-title">E-Zy Press｜刊行書案内</h3><p>新刊のある古書店、SCREP -処-<br>札幌にある小さなひとり出版社です。</p><a href="https://ezsy.super.site/e-zy-press/bbb/bbbl">刊行書を見る</a></div><img class="publisher-guide" src="assets/g-la.png" width="512" height="512" alt="E-Zy Pressの案内係・ジーラちゃん" loading="lazy"></aside>` : '';
       if (!parts.length) return publisher;
       const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : '', ...(r.links || []).map(l => `<a href="${esc(l.url)}">${esc(l.label)}</a>`), `<a href="feed-${esc(r.id)}.xml">📡 RSS</a>`].filter(Boolean).join('　');
-      const chans = (r.channels || []).length ? `<p class="chans">新しい棚：${r.channels.map(c => `<a href="${esc(c.url)}">${esc(c.title)}</a>`).join('')}</p>` : '';
+      const chans = (r.channels || []).length ? `<p class="chans">新着の棚：${r.channels.map(c => `<a href="${esc(c.url)}">${esc(c.title)}</a>`).join('')}</p>` : '';
       return `<section class="shelf" data-row="${esc(r.id)}"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="books">${parts.join('')}</div>${chans}</div>${publisher}</section>`;
     }).join('');
   }
