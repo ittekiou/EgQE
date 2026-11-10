@@ -1101,8 +1101,10 @@
       "linkLabel": "Are.na ↗",
       "keep": 12,
       "items": [],
-      "sort": false,
-      "skip_dupes_of": ["books"]
+      "sort": true,
+      "skip_dupes_of": ["books"],
+      "channels_apart": true,
+      "link_to": "arena"
     },
     {
       "id": "stall",
