@@ -60,6 +60,8 @@
   .book .bc img{width:100%;height:100%;object-fit:cover;display:block;position:relative}
   /* 新刊本の段だけは、横に広い絵本の表紙も切らずに枠へ収める */
   [data-row="books"] .book .bc img{object-fit:contain}
+  /* Are.na の段も、縦長の絵や文字の画像を切らずに枠へ収める */
+  [data-row="arena"] .book .bc img{object-fit:contain;background:var(--paper)}
   .book .bc .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;padding:8px;text-align:center;font-size:11px;color:var(--sub)}
   .book.letter,.book.letter .bc,.book.audio,.book.audio .bc{width:150px}
   .book.letter .bc,.book.audio .bc{aspect-ratio:1/1}
