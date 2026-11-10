@@ -72,6 +72,8 @@ Kindle [E-ZY Press BOOKS](https://ezsy.super.site/e-zy-press/bbb/bbbl) 📕 [DyX
 
 ### ──SNS Next ≠ SNS.
 
+👉 [X @DyXis_](https://x.com/DyXis_)  
+
 ![DyXis Compass](./assets/DyXis_Compass.webp)
 
 ![DyXis](./assets/DyXis.png)  
