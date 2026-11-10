@@ -111,6 +111,10 @@
   .publisher-note h3{font-size:15px;font-weight:600;margin:0 0 5px}
   .publisher-note p{font-size:13px;color:var(--sub);margin:3px 0}
   .publisher-note a{display:inline-block;font-size:13px;margin-top:6px;text-underline-offset:3px}
+  /* Are.na の段：新しくできた棚（チャンネル）は、段の下に小さな札で */
+  .chans{display:flex;flex-wrap:wrap;gap:6px;align-items:baseline;margin:10px 0 0;font-size:12px;color:var(--sub)}
+  .chans a{border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:2px 10px;text-decoration:none;color:var(--ink)}
+  .chans a:hover{border-color:var(--wood)}
   .gsep{flex:none;align-self:stretch;width:1px;background:var(--line);margin:0 6px}
   .glabel{flex:none;scroll-snap-align:start;writing-mode:vertical-rl;font-size:11px;color:var(--sub);letter-spacing:.1em;padding:2px 0}
   .papers{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
@@ -193,7 +197,7 @@
     <p>No Rail. No Track. Next Nest.</p>
     <p>Now Emulsifying! ／ Half-Cooked, Always. ／ Stocked, Stirred, Fermented.</p>
     <p>共同の野良ラックは <a href="https://www.are.na/dream-no-track-kuykyopogvu/note-rack">note RACK｜Are.na</a> へ。密林書棚は <a href="https://www.are.na/dream-no-track-kuykyopogvu/amazon-laengs">Amazon længs｜Are.na</a> へ。</p>
-    <p>📡 RSS：<a href="feed.xml">ぜんぶ</a>｜<a href="feed-books.xml">新刊本</a>｜<a href="feed-letters.xml">便り</a>｜<a href="feed-voice.xml">聲</a>｜<a href="feed-blog.xml">Blog</a>｜<a href="feed-monologue.xml">ひとりごと</a>｜<a href="feed-magazines.xml">雑誌</a>｜<a href="feed-papers.xml">紀要</a>｜<a href="feed-forum.xml">伝処</a>（雑誌の棚ごとのRSSは「棚ごと」の中に）</p>
+    <p>📡 RSS：<a href="feed.xml">ぜんぶ</a>｜<a href="feed-books.xml">新刊本</a>｜<a href="feed-arena.xml">Are.na</a>｜<a href="feed-letters.xml">便り</a>｜<a href="feed-voice.xml">聲</a>｜<a href="feed-blog.xml">Blog</a>｜<a href="feed-monologue.xml">ひとりごと</a>｜<a href="feed-magazines.xml">雑誌</a>｜<a href="feed-papers.xml">紀要</a>｜<a href="feed-forum.xml">伝処</a>（雑誌の棚ごとのRSSは「棚ごと」の中に）</p>
     <p>新刊の棚にはAmazonアソシエイトリンクを含みます（PR）。Amazonのアソシエイトとして、一狄 啓（Kei Itteki）は適格販売により収入を得ています。</p>
   </footer>
 </div>
@@ -267,7 +271,8 @@
       const publisher = r.id === 'books' ? `<aside class="publisher-note" aria-labelledby="publisher-title"><div class="publisher-copy"><h3 id="publisher-title">E-Zy Press｜刊行書案内</h3><p>新刊のある古書店、SCREP -処-<br>札幌にある小さなひとり出版社です。</p><a href="https://ezsy.super.site/e-zy-press/bbb/bbbl">刊行書を見る</a></div><img class="publisher-guide" src="assets/g-la.png" width="512" height="512" alt="E-Zy Pressの案内係・ジーラちゃん" loading="lazy"></aside>` : '';
       if (!parts.length) return publisher;
       const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : '', ...(r.links || []).map(l => `<a href="${esc(l.url)}">${esc(l.label)}</a>`), `<a href="feed-${esc(r.id)}.xml">📡 RSS</a>`].filter(Boolean).join('　');
-      return `<section class="shelf" data-row="${esc(r.id)}"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="books">${parts.join('')}</div></div>${publisher}</section>`;
+      const chans = (r.channels || []).length ? `<p class="chans">新しい棚：${r.channels.map(c => `<a href="${esc(c.url)}">${esc(c.title)}</a>`).join('')}</p>` : '';
+      return `<section class="shelf" data-row="${esc(r.id)}"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="books">${parts.join('')}</div>${chans}</div>${publisher}</section>`;
     }).join('');
   }
 
