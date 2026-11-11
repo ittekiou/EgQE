@@ -15,11 +15,6 @@ description: SNS Next ≠ SNS.──Not One Nest. Not One Next.
 
 * * *
 
-### 🌇 WEST｜Return · Restock
-
-回収・新着。撒いたものが戻ってきて、棚に並び直る。  
-例：[LiRax｜SCREP -処-](https://camp-us.net/rack/)
-
 ### 🌅 EAST｜Encounter · Edit
 
 更新・遭遇。出会って、書き換わって、また出ていく。  
@@ -27,8 +22,13 @@ description: SNS Next ≠ SNS.──Not One Nest. Not One Next.
 
 ### 🪧 NORTH｜Signpost · Stitch
 
-立札・接続。巣の前に名札を一枚立てて、巣と巣を縫い合わせる。  
-例：[名札をつくる](https://ittekiou.github.io/dyxis/maker.html)
+立札・接続。巣の前に札を一枚立てて、巣と巣を縫い合わせる。  
+例：[札をつくる](https://ittekiou.github.io/dyxis/maker.html)
+
+### 🌇 WEST｜Return · Restock
+
+回収・新着。撒いたものが戻ってきて、棚に並び直る。  
+例：[LiRax｜SCREP -処-](https://camp-us.net/rack/)
 
 ### 🏕️ SOUTH｜Street · Stall
 
@@ -37,8 +37,8 @@ description: SNS Next ≠ SNS.──Not One Nest. Not One Next.
 
 * * *
 
-東西は流れ。東で生まれ、西で拾われる。  
-南北は広がり。立札で縫い合わされ、通りに店が並ぶ。  
+**東西は流れ**。東で生まれ、西で拾われる。  
+**南北は広がり**。立札で縫い合わされ、通りに店が並ぶ。  
 
 WEST も EAST も、ひとつではない。  
 どの巣にも、それぞれの西と東がある。  
@@ -51,6 +51,7 @@ WEST も EAST も、ひとつではない。
 - [はじめての方へ](https://ittekiou.github.io/dyxis/guide.html) ・ [English](https://ittekiou.github.io/dyxis/guide-en.html)  
 - [巣をつくる](https://ittekiou.github.io/dyxis/maker.html)  
 - 別荘：[DyXis Commons](https://ittekiou.github.io/dyxis/commons.html) ・ [CESE PEC｜排泄猛者倶楽部](https://ittekiou.github.io/CESE-PEC/)  
+- 私書箱を借りる：[CHIC TEC｜繭topia](https://ittekiou.github.io/CHIC-TEC/)  
 
 ![DyXis_nest](./assets/DyXis_nest.webp)  
 Kindle [E-Zy Press BOOKS](https://ezsy.super.site/e-zy-press/bbb/bbbl) 📕 [DyXis](https://www.amazon.co.jp/dp/4911970006?th=1&linkCode=ll2&tag=hatenadia0516-22&linkId=c38d9ce7da85b1df75c85d0a91189043&ref_=as_li_ss_tl)↗︎  
