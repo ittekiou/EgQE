@@ -7,7 +7,9 @@ title: BOOK BODY Buddies
 ![BBBG](./assets/BBBG.webp)  
 ## 📚 [Book List](https://ezsy.super.site/e-zy-press/bbb/bbbl)↗︎  
 
-![20261112.png](./assets/20261112.png)  2026/11/12 updated
+![20261112.png](./assets/20261112.png)  
+2026/11/12 updated  
+#### Amazon author page [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
 
 ---
 
@@ -15,22 +17,20 @@ title: BOOK BODY Buddies
 
 ![E‑ZyPress](./assets/E‑ZyPress1200.webp)  
 [🏠 E-Zy Press ── Books & Beyond](https://ezsy.super.site/e-zy-press)  
-#### Amazon author page [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
 
 ---
 
 # DyXis
-### 🪺 [日本語](https://ittekiou.github.io/dyxis/) ・ [English](https://ittekiou.github.io/dyxis/guide-en.html) ・ [简体中文](https://ittekiou.github.io/dyxis/digest-zh-hans.html) ・ [繁體中文](https://ittekiou.github.io/dyxis/digest-zh-hant.html) ・ [한국어](https://ittekiou.github.io/dyxis/digest-ko.html)↗︎  
+#### 🪺 [日本語](https://ittekiou.github.io/dyxis/) ・ [English](https://ittekiou.github.io/dyxis/guide-en.html) ・ [简体中文](https://ittekiou.github.io/dyxis/digest-zh-hans.html) ・ [繁體中文](https://ittekiou.github.io/dyxis/digest-zh-hant.html) ・ [한국어](https://ittekiou.github.io/dyxis/digest-ko.html)↗︎  
+DyXis is **a loose way of connecting the "places of your own" scattered across the internet**.  
 
 ![DyXis](./assets/DyXis.png)  
-[X｜@DyXis_](https://x.com/DyXis_)↗︎  
-_DyXis｜built on SLL/JP_  
+[X｜@DyXis_](https://x.com/DyXis_) ↗︎  
+_**DyXis｜built on SLL/JP**｜There is no central server, no sign-up, and no follow button. No one is managing the whole._
 
 # **LoCo-Mo** 🧭  
 #### ──いつも。ここから。  
-![LoCo-Mo](./assets/LoCo-Mo.webp)  
-[LoCo-Mo 🧭 ──いつも。ここから。](https://camp-us.net/LoCoMo.html)  
-### 🧭 [**LOCUS**｜此処](https://camp-us.net/locus/)  
+[LoCo-Mo 🧭](https://camp-us.net/LoCoMo.html)  
 
 ---
 
