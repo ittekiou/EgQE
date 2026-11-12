@@ -12,6 +12,34 @@ title: BOOK BODY Buddies
 #### Amazon author page [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
 
 ---
+### **E-Zy Press / BOOK BODY Buddies**
+
+## **AUTHOR-DIRECT PRICE／著者直販価格**
+
+**01**｜Homo editus ── The Editing Species, the Edited Species　¥1000  ~~$12.99~~  
+**02**｜Homo editus──編集する種、編集される種　¥1000  ~~¥1650~~  
+**03**｜Canis lupus EDITUS: How Chance Became Again　¥1200  ~~$12.99~~  
+**04**｜Canis lupus EDITUS──たまたまは、なぜ「また」になったのか　¥1300  ~~¥1650~~  
+**05**｜台本通りのソクラテス ── 歩きながら、考えてきた。　¥1000  ~~¥1500~~  
+**06**｜Socrates, Just Be Yourself? ──The Script of the Self　¥1000  ~~$11.99~~  
+**07**｜自分通りのソクラテス ── 自分で歩く、ということ。　¥1200  ~~¥1650~~  
+**08**｜Homo excretus: Life That Excretes, Life That Is Excreted　¥1000  ~~$12.99~~  
+**09**｜Homo excretus ── 排泄する生命、排泄される生命　¥1000  ~~¥1500~~  
+**10**｜予定通りのソクラテス ── 予定外が想定外を誘発する　¥1600  ~~¥2200~~  
+**11**｜Socrates, According to Plan: When the Unplanned Triggers the Unforeseen　¥1600  ~~$15.99~~  
+**12**｜古本通りのソクラテス　¥1600  ~~¥2200~~  
+**13**｜のまじぃとかまばぁ ── のまど爺さん かまど婆さん　¥1200  ~~¥1650~~  
+**14**｜E.T.: Editus Transcendence? ── 未知との遭遇 We are not alone.　¥800  ~~¥1100~~  
+**15**｜DyXis: SNS Next ≠ SNS.（English–Japanese bilingual edition.）　¥800  ~~¥1100~~  
+**16**｜DyXis: SNS Next ≠ SNS.（English edition.）  Kindle only  
+
+**Cash Only /** **現金のみ**  
+
+**BLACK BITTER BIASED**  
+**BOOK BODY Buddy.**  
+**E-Zy Press｜半熟営巣処**  
+
+---
 
 # **🏠 E-Zy Press**
 
