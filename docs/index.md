@@ -49,6 +49,7 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 # **🏠 E-Zy Press**
 
 ![E‑ZyPress](./assets/E‑ZyPress1200.webp)  
+[🏠 E-Zy Press ── Books & Beyond](https://ezsy.super.site/e-zy-press)  
 ## 📚 [Book List](https://ezsy.super.site/e-zy-press/bbb/bbbl)↗︎  
 #### Amazon 著者ページ [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
 
