@@ -1137,16 +1137,24 @@
       "id": "letters",
       "kind": "letter",
       "name": "📮 便り｜EgSS",
-      "note": "Substack と Medium のレター。",
-      "link": "https://campus6214.substack.com/",
+      "note": "Substack（Camp@Us・DyXis 🪺）と Medium のレター。",
+      "link": "https://substack.com/@kei77",
       "linkLabel": "購読する ↗",
       "groups": [
         {
-          "label": "Substack",
+          "label": "Camp@Us",
           "feeds": [
             "file:docs/rack/feeds/substack.xml"
           ],
-          "keep": 8,
+          "keep": 4,
+          "items": []
+        },
+        {
+          "label": "DyXis 🪺",
+          "feeds": [
+            "file:docs/rack/feeds/dyxis-substack.xml"
+          ],
+          "keep": 4,
           "items": []
         },
         {
@@ -1157,7 +1165,7 @@
               "file:docs/rack/feeds/medium.xml"
             ]
           ],
-          "keep": 8,
+          "keep": 4,
           "items": []
         }
       ]
