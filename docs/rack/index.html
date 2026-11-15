@@ -167,7 +167,8 @@
   .wm{margin:14px 0 0;padding:12px 14px;background:var(--paper);border:1px solid var(--line);border-left:3px solid var(--wood);border-radius:0 3px 3px 0}
   .wm h3{font-size:14px;font-weight:600;margin:0 0 6px}
   .wm h4{font-size:12px;font-weight:600;color:var(--sub);margin:10px 0 4px}
-  .wm ul{list-style:none;margin:0;padding:0;font-size:13px}
+  .wm ul{list-style:none;margin:0;padding:0;font-size:13px;display:grid;grid-template-columns:repeat(auto-fill,minmax(400px,1fr));gap:0 24px}
+  .wm .more{margin:10px 0 0;font-size:13px;padding:4px 16px}
   .wm li{margin:4px 0;display:flex;flex-wrap:wrap;gap:4px 8px;align-items:baseline}
   .wm .who{font-weight:600}
   .wm .kind{font-size:11px;color:var(--sub);border:1px solid var(--line);border-radius:999px;padding:0 6px}
@@ -240,7 +241,8 @@
   const KIND = { 'in-reply-to': '返信', 'like-of': 'いいね', 'repost-of': 'リポスト', 'bookmark-of': 'ブックマーク', 'mention-of': '言及', 'rsvp': 'RSVP' };
   const hostOf = u => { try { return new URL(u).host; } catch (e) { return ''; } };
   // 届いた言及は、Actions が一日に数回 webmention.io から仕入れて rack/webmentions.json に残している
-  let WMALL = [];
+  let WMALL = [], wmOpen = false;
+  const WM_FIRST = 6;   // 紀要の棚の下に最初に見せる件数
   async function loadWM() {
     try {
       const r = await fetch('webmentions.json', { cache: 'no-cache' });
@@ -259,11 +261,18 @@
     const to = titleOf ? titleOf(m['wm-target']) : '';
     return `<li><span class="who">${esc(who)}</span><span class="kind">${esc(kind)}</span>${to ? `<span>→ ${esc(to)}</span>` : ''}<a href="${esc(src)}">${esc(m.name || '元の場所')}</a>${when ? `<time datetime="${esc(when)}">${ymd(when)}</time>` : ''}</li>`;
   }
-  function wmBlock(list, titleOf) {
+  function wmBlock(list, titleOf, limit) {
     if (!list.length) return '';
     const sorted = [...list].sort((a, b) => Date.parse(b['wm-received'] || 0) - Date.parse(a['wm-received'] || 0));
-    const ext = sorted.filter(m => !isOwn(m['wm-source'] || m.url)), own = sorted.filter(m => isOwn(m['wm-source'] || m.url));
-    return `<aside class="wm" aria-label="届いた言及"><h3>📮 届いた言及｜Webmention</h3>${ext.length ? `<ul>${ext.map(m => wmLine(m, titleOf)).join('')}</ul>` : ''}${own.length ? `<h4>自分の便りから</h4><ul>${own.map(m => wmLine(m, titleOf)).join('')}</ul>` : ''}<p class="note2">camp-us.net に、外のページから届いた知らせ（一日に数回まとめて仕入れる）。言及は参照であって、交流や同意を意味しない。</p></aside>`;
+    let ext = sorted.filter(m => !isOwn(m['wm-source'] || m.url)), own = sorted.filter(m => isOwn(m['wm-source'] || m.url));
+    let rest = 0;
+    if (limit) {   // 外からのものを先に、残りの枠を自分の便りに
+      const e = ext.slice(0, limit), o = own.slice(0, Math.max(0, limit - e.length));
+      rest = list.length - e.length - o.length; ext = e; own = o;
+    }
+    const btn = limit && rest > 0 ? `<button class="more" id="wm-more">もっと見る（あと${rest}件）</button>`
+      : (!limit && list.length > WM_FIRST ? `<button class="more" id="wm-more">たたむ</button>` : '');
+    return `<aside class="wm" aria-label="届いた言及"><h3>📮 届いた言及｜Webmention <small style="font-weight:400;color:var(--sub)">${list.length}件</small></h3>${ext.length ? `<ul>${ext.map(m => wmLine(m, titleOf)).join('')}</ul>` : ''}${own.length ? `<h4>自分の便りから</h4><ul>${own.map(m => wmLine(m, titleOf)).join('')}</ul>` : ''}${btn}<p class="note2">camp-us.net に、外のページから届いた知らせ（一日に数回まとめて仕入れる）。言及は参照であって、交流や同意を意味しない。古いものも消さずに残している。</p></aside>`;
   }
 
   function card(m) {
@@ -300,9 +309,9 @@
     const titles = {}; items.forEach(x => { titles[wmKey(x.url)] = x.title; });
     // 紀要の棚の下には、camp-us.net 全体に届いた言及を出す（棚にない記事宛ては、住所で示す）
     const pathOf = u => { try { return decodeURIComponent(new URL(u).pathname); } catch (e) { return u; } };
-    const wm = wmBlock(WMALL, u => titles[wmKey(u)] || pathOf(u));
+    const wm = wmBlock(WMALL, u => titles[wmKey(u)] || pathOf(u), wmOpen ? 0 : WM_FIRST);
     const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : '', `<a href="feed-${esc(r.id)}.xml">📡 RSS</a>`].filter(Boolean).join('　');
-    return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="papers">${cards}</div></div>${wm}</section>`;
+    return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="papers">${cards}</div>${wm}</div></section>`;
   }
 
   function rowsHtml(pos) {
@@ -360,6 +369,8 @@
     document.getElementById('rows-after').innerHTML = rowsHtml('after');
     $rack.innerHTML = html;
     document.querySelectorAll('.bar button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.view === view)));
+    const wmm = document.getElementById('wm-more');
+    if (wmm) wmm.addEventListener('click', () => { wmOpen = !wmOpen; render(); });
     const more = document.getElementById('more');
     if (more) more.addEventListener('click', () => { showAll = !showAll; render(); if (!showAll) document.querySelector('.maghead').scrollIntoView({behavior: 'smooth'}); });
   }
