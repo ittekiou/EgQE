@@ -125,6 +125,25 @@ _Still blogging? Try SyncHub!_
 - ☕️ Patreon: [Membership salon](https://www.patreon.com/c/campus6214/about)  
 - 📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)  
 
+### EgQE / Ittekiou
+
+- X：[@ittekiou](https://x.com/ittekiou)
+    
+- Bluesky：[campus6214.substack.com](https://bsky.app/profile/campus6214.substack.com)
+    
+- GitHub：[EgQE](https://github.com/ittekiou/EgQE)
+    
+- GitHubプロフィール：[ittekiou](https://github.com/ittekiou)
+    
+
+### DyXis
+
+- X：[@DyXis_](https://x.com/DyXis_)
+    
+- Bluesky：[dyxis.substack.com](https://bsky.app/profile/dyxis.substack.com)
+    
+- GitHub：[dyxis](https://github.com/ittekiou/dyxis)
+
 ---
 ###### ⚡️ _われ／われが語り続ける限り、宇宙は創造され続ける。言説はつねに更新され続ける。ここに綴じられた理論はすべてアップデートの対象である。_
 

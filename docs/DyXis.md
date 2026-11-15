@@ -73,7 +73,10 @@ Kindle [E-Zy Press BOOKS](https://ezsy.super.site/e-zy-press/bbb/bbbl) 📕 [DyX
 
 ### ──SNS Next ≠ SNS.
 
-👉 [X @DyXis_](https://x.com/DyXis_)  
+- X：[@DyXis_](https://x.com/DyXis_)
+    
+- Bluesky：[dyxis.substack.com](https://bsky.app/profile/dyxis.substack.com)
+    
 
 ![DyXis Compass](./assets/DyXis_Compass.webp)
 
@@ -85,6 +88,8 @@ Kindle [E-Zy Press BOOKS](https://ezsy.super.site/e-zy-press/bbb/bbbl) 📕 [DyX
 **LOCUS.**  
 **Not One Next.**  
 **SNS Next ≠ SNS.**
+
+[Gardens Above, Rhizomes Below: An Encounter with Digital Gardening, and an Experiment in Connecting Independent Gardens](https://camp-us.net/rhizomatic-multiplicity.html)  
 
 ---
 
