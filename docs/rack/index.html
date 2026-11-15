@@ -11,6 +11,7 @@
 <meta property="og:description" content="新刊のある古書店。束はあちこちに。表紙はここに。新刊本・便り・聲・雑誌・紀要が、勝手に入荷する。">
 <meta property="og:image" content="https://camp-us.net/rack/og.png">
 <link rel="alternate" type="application/rss+xml" title="Living RACKs" href="https://camp-us.net/rack/feed.xml">
+<link rel="webmention" href="https://webmention.io/camp-us.net/webmention">
 <meta name="twitter:card" content="summary_large_image">
 <style>
   :root{
@@ -161,6 +162,17 @@
   .latest time{flex:none;color:var(--sub);font-size:11px;font-variant-numeric:tabular-nums}
   .latest a{text-decoration:none;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
   .latest a:hover{text-decoration:underline}
+  /* 紀要の棚に届いた言及（Webmention） */
+  .paper .wmn{align-self:flex-start;font-size:11px;color:var(--wood);border:1px solid var(--line);border-radius:999px;padding:0 7px;margin-top:2px}
+  .wm{margin:14px 0 0;padding:12px 14px;background:var(--paper);border:1px solid var(--line);border-left:3px solid var(--wood);border-radius:0 3px 3px 0}
+  .wm h3{font-size:14px;font-weight:600;margin:0 0 6px}
+  .wm h4{font-size:12px;font-weight:600;color:var(--sub);margin:10px 0 4px}
+  .wm ul{list-style:none;margin:0;padding:0;font-size:13px}
+  .wm li{margin:4px 0;display:flex;flex-wrap:wrap;gap:4px 8px;align-items:baseline}
+  .wm .who{font-weight:600}
+  .wm .kind{font-size:11px;color:var(--sub);border:1px solid var(--line);border-radius:999px;padding:0 6px}
+  .wm time{font-size:11px;color:var(--sub);font-variant-numeric:tabular-nums}
+  .wm .note2{font-size:11px;color:var(--sub);margin:8px 0 0}
   footer{margin-top:56px;color:var(--sub);font-size:13px;border-top:1px solid var(--line);padding-top:16px}
   footer p{margin:4px 0}
   .err{background:var(--paper);border:1px solid var(--line);padding:16px;border-radius:6px}
@@ -219,6 +231,45 @@
   const ymd = iso => { const d = new Date(iso); return isNaN(d) ? '' : `${d.getFullYear()}.${String(d.getMonth()+1).padStart(2,'0')}.${String(d.getDate()).padStart(2,'0')}`; };
   const isNew = iso => iso && (Date.now() - new Date(iso)) < NEW_DAYS * 864e5;
 
+  // ---- Webmention：紀要の棚に並ぶ記事に届いた言及を、webmention.io から読む ----
+  let WM = null;   // { key: [mention, ...] }
+  const wmKey = u => { try { const x = new URL(u, location.href); return (x.host + x.pathname).toLowerCase().replace(/\.html$/, '').replace(/\/$/, ''); } catch (e) { return ''; } };
+  // 自分の便り（note の自分のアカウントと camp-us.net）からの言及は、見出しを分ける
+  const OWN = [/^note\.com\/(takahashihajime|k_itekki|echodemy|egqe)(\/|$)/i, /^camp-us\.net(\/|$)/i];
+  const isOwn = u => { try { const x = new URL(u); return OWN.some(re => re.test(x.host + x.pathname)); } catch (e) { return false; } };
+  const KIND = { 'in-reply-to': '返信', 'like-of': 'いいね', 'repost-of': 'リポスト', 'bookmark-of': 'ブックマーク', 'mention-of': '言及', 'rsvp': 'RSVP' };
+  const hostOf = u => { try { return new URL(u).host; } catch (e) { return ''; } };
+  async function loadWM(urls) {
+    const targets = new Set();
+    urls.forEach(u => { if (!u) return; targets.add(u); targets.add(/\.html$/.test(u) ? u.replace(/\.html$/, '') : u.replace(/\/?$/, '') + '.html'); });
+    if (!targets.size) return;
+    const q = [...targets].map(t => 'target[]=' + encodeURIComponent(t)).join('&');
+    try {
+      const r = await fetch('https://webmention.io/api/mentions.jf2?per-page=100&' + q);
+      if (!r.ok) return;
+      const j = await r.json();
+      WM = {};
+      for (const m of (j.children || [])) {
+        const k = wmKey(m['wm-target']);
+        (WM[k] = WM[k] || []).push(m);
+      }
+    } catch (e) {}
+  }
+  function wmLine(m, titleOf) {
+    const src = m.url || m['wm-source'] || '';
+    const who = (m.author && m.author.name) || hostOf(m['wm-source'] || src) || '（不明）';
+    const kind = KIND[m['wm-property']] || '言及';
+    const when = m.published || m['wm-received'];
+    const to = titleOf ? titleOf(m['wm-target']) : '';
+    return `<li><span class="who">${esc(who)}</span><span class="kind">${esc(kind)}</span>${to ? `<span>→ ${esc(to)}</span>` : ''}<a href="${esc(src)}">${esc(m.name || '元の場所')}</a>${when ? `<time datetime="${esc(when)}">${ymd(when)}</time>` : ''}</li>`;
+  }
+  function wmBlock(list, titleOf) {
+    if (!list.length) return '';
+    const sorted = [...list].sort((a, b) => Date.parse(b['wm-received'] || 0) - Date.parse(a['wm-received'] || 0));
+    const ext = sorted.filter(m => !isOwn(m['wm-source'] || m.url)), own = sorted.filter(m => isOwn(m['wm-source'] || m.url));
+    return `<aside class="wm" aria-label="届いた言及"><h3>📮 届いた言及｜Webmention</h3>${ext.length ? `<ul>${ext.map(m => wmLine(m, titleOf)).join('')}</ul>` : ''}${own.length ? `<h4>自分の便りから</h4><ul>${own.map(m => wmLine(m, titleOf)).join('')}</ul>` : ''}<p class="note2">この棚の記事に、外のページから届いた知らせ。言及は参照であって、交流や同意を意味しない。</p></aside>`;
+  }
+
   function card(m) {
     const fallback = !m.cover && m.latest && m.latest[0] && m.latest[0].thumb;
     const img = m.cover || fallback;
@@ -244,13 +295,17 @@
     const items = (r.items || []);
     if (!items.length) return '';
     const cards = items.map(x => {
+      const n = WM ? (WM[wmKey(x.url)] || []).length : 0;
       const i = x.title.indexOf('｜');
       const code = i > 0 && i < 24 ? x.title.slice(0, i) : '';
       const title = code ? x.title.slice(i + 1) : x.title;
-      return `<a class="paper" href="${esc(x.url)}">${code ? `<span class="pc">${esc(code)}</span>` : ''}<span class="pt">${esc(title)}</span>${x.date ? `<span class="pd">${ymd(x.date)}</span>` : ''}</a>`;
+      return `<a class="paper" href="${esc(x.url)}">${code ? `<span class="pc">${esc(code)}</span>` : ''}<span class="pt">${esc(title)}</span>${x.date ? `<span class="pd">${ymd(x.date)}</span>` : ''}${n ? `<span class="wmn" title="届いた言及">📮${n}</span>` : ''}</a>`;
     }).join('');
+    const titles = {}; items.forEach(x => { titles[wmKey(x.url)] = x.title; });
+    const wmList = WM ? items.flatMap(x => WM[wmKey(x.url)] || []) : [];
+    const wm = wmBlock(wmList, u => titles[wmKey(u)] || '');
     const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : '', `<a href="feed-${esc(r.id)}.xml">📡 RSS</a>`].filter(Boolean).join('　');
-    return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="papers">${cards}</div></div></section>`;
+    return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="papers">${cards}</div></div>${wm}</section>`;
   }
 
   function rowsHtml(pos) {
@@ -326,6 +381,8 @@
       if (j.subtitle) document.getElementById('subtitle').textContent = j.subtitle;
       if (j.updated) document.getElementById('stamp').textContent = `棚の最終更新 ${ymd(j.updated)}`;
       render();
+      const paperUrls = (j.rows || []).filter(r => r.kind === 'paper').flatMap(r => (r.items || []).map(x => x.url));
+      loadWM(paperUrls).then(() => { if (WM) render(); });
     })
     .catch(() => {
       $rack.innerHTML = '<p class="err">rack.json を読み込めませんでした。GitHub Pages など、Webサーバーの上で開いてください（ファイルを直接ダブルクリックすると読めません）。</p>';
