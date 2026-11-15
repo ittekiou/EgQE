@@ -1,4 +1,4 @@
-<!-- 届いた言及（Webmention）：このページ宛てのものだけを、webmention.io から読んで出す。なければ何も出さない。 -->
+<!-- 届いた言及（Webmention）：/rack/webmentions.json から、このページ宛てのものだけを出す。なければ何も出さない。 -->
 <section id="wm" class="wm" hidden aria-label="届いた言及">
   <h2>📮 届いた言及｜Webmention</h2>
   <ul id="wm-ext"></ul>
@@ -26,15 +26,14 @@
   const isOwn = u => { try { const x = new URL(u); return OWN.some(re => re.test(x.host + x.pathname)); } catch (e) { return false; } };
   const KIND = { 'in-reply-to': '返信', 'like-of': 'いいね', 'repost-of': 'リポスト', 'bookmark-of': 'ブックマーク', 'mention-of': '言及', 'rsvp': 'RSVP' };
 
-  // このページの住所。.html のあり・なしの両方で問い合わせる
-  const here = location.origin + location.pathname;
-  const alt = /\.html$/.test(here) ? here.replace(/\.html$/, '') : (/\/$/.test(here) ? '' : here + '.html');
-  const q = [here, alt].filter(Boolean).map(t => 'target[]=' + encodeURIComponent(t)).join('&');
+  // 届いた言及は、Actions が一日に数回仕入れて /rack/webmentions.json に残している。このページ宛てのものだけを出す
+  const key = u => { try { const x = new URL(u, location.href); return (x.host + x.pathname).toLowerCase().replace(/\.html$/, '').replace(/\/$/, ''); } catch (e) { return ''; } };
+  const here = key(location.href);
 
-  fetch('https://webmention.io/api/mentions.jf2?per-page=100&' + q)
+  fetch('/rack/webmentions.json', { cache: 'no-cache' })
     .then(r => r.ok ? r.json() : null)
     .then(j => {
-      const list = (j && j.children) || [];
+      const list = ((j && j.items) || []).filter(m => !m.hidden && key(m['wm-target']) === here);
       if (!list.length) return;
       list.sort((a, b) => Date.parse(b['wm-received'] || 0) - Date.parse(a['wm-received'] || 0));
       const line = m => {
