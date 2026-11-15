@@ -24,6 +24,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/11/15  
+[SLR — Synchro-Lag Rhizome｜SLR / SLRT / SLL / DyXis / DiGRhiC｜概念整理メモ v0.3](https://camp-us.net/SLR.html)  
 ###### 2026/11/09  
 [DyXis 🧭 ──LOCUS. Not One Next.](https://camp-us.net/DyXis.html)  
 ###### 2026/11/04  

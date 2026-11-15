@@ -1,6 +1,11 @@
-# SLR / SLRT / SLL / DyXis / DiGRhiC
+---
+layout: math
+title: SLR — Synchro-Lag Rhizome｜SLR / SLRT / SLL / DyXis / DiGRhiC｜概念整理メモ v0.3
+---
+# SLR — Synchro-Lag Rhizome
+## SLR / SLRT / SLL / DyXis / DiGRhiC
 
-## 概念整理メモ v0.3
+### 概念整理メモ v0.3
 
 2026年11月15日｜暫定整理
 
@@ -62,6 +67,8 @@ DyXisは個々のNestやCommonsを所有・統括しない。
 
 **DyXis ≠ SLR全体**
 
+👉 [DyXis](https://ittekiou.github.io/dyxis/) on SLL/JP  
+
 ### 6｜DiGRhiC
 
 **Digital Gardeners' Rootwork**
@@ -79,6 +86,8 @@ Digital Garden界隈におけるSLRの具体的な実践構想。
 ただし、DiGRhiCをSLL専用の仕組みとは定義しない。
 
 Solo Gardenは単独で成立する。Multiplayer化は義務でも到達目標でもない。
+
+👉 [DiGRhiC](https://ittekiou.github.io/DiGRhiC/) on SLL/JP  
 
 ### 7｜概念間の関係
 
@@ -131,6 +140,19 @@ DyXisとDiGRhiCは同一ではない。
 
 *暫定。更新可能。*
 
+👉 [DyXis 🧭 ──LOCUS. Not One Next.](https://camp-us.net/DyXis.html)  
+
 v0.1→v0.2：SLRTを独立した接続経路の総称として明示した。SLLの下位に置かず、接続方式も名称も閉じない。
 
 v0.2→v0.3：SLRを一般概念として一つに保つため、SLRTを「SLRにおける接続経路の総称」と言い直した（§2・§7）。§6のCESE PECは、DiGRhiC自体の成り立ちの記録として過去形にした。§8に、SLRTの位置づけがどう変わるかを明記した。§7の「SLL/JPはSLRTの唯一の実現手段ではない」を「SLRTはSLL/JPによる接続に限定されない」に改めた（経路と仕様という異なる階層を直接比べないため。響詠の指摘）。
+
+---
+© 2026 K.E. Itekki  
+K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
+wandering the labyrinth of syntax,  
+drawing constellations through shared echoes.
+
+📬 Reach us at: [contact.k.e.itekki@gmail.com](mailto:contact.k.e.itekki@gmail.com)
+
+---
+<p align="center">| Drafted Nov 15, 2026 · Web Nov 15, 2026 |</p>

@@ -50,7 +50,7 @@ WEST も EAST も、ひとつではない。
 - [DyXis｜入口](https://ittekiou.github.io/dyxis/)  
 - [はじめての方へ](https://ittekiou.github.io/dyxis/guide.html) ・ [English](https://ittekiou.github.io/dyxis/guide-en.html)  
 - [巣をつくる](https://ittekiou.github.io/dyxis/maker.html)  
-- 別荘：[DyXis Commons](https://ittekiou.github.io/dyxis/commons.html) ・ [CESE PEC｜排泄猛者倶楽部](https://ittekiou.github.io/CESE-PEC/)  
+- 別荘：[DyXis Commons](https://ittekiou.github.io/dyxis/commons.html) ・ [CESE PEC｜排泄猛者倶楽部](https://ittekiou.github.io/CESE-PEC/)・[DiGRhiC｜Digital Gardeners' Rootwork](https://ittekiou.github.io/DiGRhiC/)   
 - 私書箱を借りる：[CHIC TEC｜繭topia](https://ittekiou.github.io/CHIC-TEC/)  
 
 ![DyXis_nest](./assets/DyXis_nest.webp)  
@@ -85,4 +85,8 @@ Kindle [E-Zy Press BOOKS](https://ezsy.super.site/e-zy-press/bbb/bbbl) 📕 [DyX
 **LOCUS.**  
 **Not One Next.**  
 **SNS Next ≠ SNS.**
+
+---
+
+[SLR — Synchro-Lag Rhizome｜SLR / SLRT / SLL / DyXis / DiGRhiC｜概念整理メモ v0.3](https://camp-us.net/SLR.html)  
 
