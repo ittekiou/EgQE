@@ -1,0 +1,55 @@
+<!-- 届いた言及（Webmention）：このページ宛てのものだけを、webmention.io から読んで出す。なければ何も出さない。 -->
+<section id="wm" class="wm" hidden aria-label="届いた言及">
+  <h2>📮 届いた言及｜Webmention</h2>
+  <ul id="wm-ext"></ul>
+  <h3 id="wm-own-h" hidden>自分の便りから</h3>
+  <ul id="wm-own"></ul>
+  <p class="wm-note">このページに、外のページから届いた知らせ。言及は参照であって、交流や同意を意味しない。</p>
+</section>
+<style>
+  .wm{margin:3em 0 1em;padding:12px 14px;border-top:1px solid #ddd3c4;font-size:14px}
+  .wm h2{font-size:15px;margin:0 0 6px}
+  .wm h3{font-size:13px;color:#6f665c;margin:12px 0 4px}
+  .wm ul{list-style:none;margin:0;padding:0}
+  .wm li{margin:4px 0;display:flex;flex-wrap:wrap;gap:4px 8px;align-items:baseline}
+  .wm .who{font-weight:600}
+  .wm .kind{font-size:11px;color:#6f665c;border:1px solid #ddd3c4;border-radius:999px;padding:0 6px}
+  .wm time,.wm .wm-note{font-size:11px;color:#6f665c}
+</style>
+<script>
+(() => {
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const ymd = iso => { const d = new Date(iso); return isNaN(d) ? '' : `${d.getFullYear()}.${String(d.getMonth()+1).padStart(2,'0')}.${String(d.getDate()).padStart(2,'0')}`; };
+  const hostOf = u => { try { return new URL(u).host; } catch (e) { return ''; } };
+  // 自分の便り（note の自分のアカウントと camp-us.net）
+  const OWN = [/^note\.com\/(takahashihajime|k_itekki|echodemy|egqe)(\/|$)/i, /^camp-us\.net(\/|$)/i];
+  const isOwn = u => { try { const x = new URL(u); return OWN.some(re => re.test(x.host + x.pathname)); } catch (e) { return false; } };
+  const KIND = { 'in-reply-to': '返信', 'like-of': 'いいね', 'repost-of': 'リポスト', 'bookmark-of': 'ブックマーク', 'mention-of': '言及', 'rsvp': 'RSVP' };
+
+  // このページの住所。.html のあり・なしの両方で問い合わせる
+  const here = location.origin + location.pathname;
+  const alt = /\.html$/.test(here) ? here.replace(/\.html$/, '') : (/\/$/.test(here) ? '' : here + '.html');
+  const q = [here, alt].filter(Boolean).map(t => 'target[]=' + encodeURIComponent(t)).join('&');
+
+  fetch('https://webmention.io/api/mentions.jf2?per-page=100&' + q)
+    .then(r => r.ok ? r.json() : null)
+    .then(j => {
+      const list = (j && j.children) || [];
+      if (!list.length) return;
+      list.sort((a, b) => Date.parse(b['wm-received'] || 0) - Date.parse(a['wm-received'] || 0));
+      const line = m => {
+        const src = m.url || m['wm-source'] || '';
+        const who = (m.author && m.author.name) || hostOf(m['wm-source'] || src) || '（不明）';
+        const when = m.published || m['wm-received'];
+        return `<li><span class="who">${esc(who)}</span><span class="kind">${esc(KIND[m['wm-property']] || '言及')}</span><a href="${esc(src)}">${esc(m.name || '元の場所')}</a>${when ? `<time datetime="${esc(when)}">${ymd(when)}</time>` : ''}</li>`;
+      };
+      const own = list.filter(m => isOwn(m['wm-source'] || m.url));
+      const ext = list.filter(m => !isOwn(m['wm-source'] || m.url));
+      document.getElementById('wm-ext').innerHTML = ext.map(line).join('');
+      document.getElementById('wm-own').innerHTML = own.map(line).join('');
+      document.getElementById('wm-own-h').hidden = !own.length;
+      document.getElementById('wm').hidden = false;
+    })
+    .catch(() => {});
+})();
+</script>
