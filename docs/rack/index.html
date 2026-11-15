@@ -239,20 +239,16 @@
   const isOwn = u => { try { const x = new URL(u); return OWN.some(re => re.test(x.host + x.pathname)); } catch (e) { return false; } };
   const KIND = { 'in-reply-to': '返信', 'like-of': 'いいね', 'repost-of': 'リポスト', 'bookmark-of': 'ブックマーク', 'mention-of': '言及', 'rsvp': 'RSVP' };
   const hostOf = u => { try { return new URL(u).host; } catch (e) { return ''; } };
-  async function loadWM(urls) {
-    const targets = new Set();
-    urls.forEach(u => { if (!u) return; targets.add(u); targets.add(/\.html$/.test(u) ? u.replace(/\.html$/, '') : u.replace(/\/?$/, '') + '.html'); });
-    if (!targets.size) return;
-    const q = [...targets].map(t => 'target[]=' + encodeURIComponent(t)).join('&');
+  // 届いた言及は、Actions が一日に数回 webmention.io から仕入れて rack/webmentions.json に残している
+  let WMALL = [];
+  async function loadWM() {
     try {
-      const r = await fetch('https://webmention.io/api/mentions.jf2?per-page=100&' + q);
+      const r = await fetch('webmentions.json', { cache: 'no-cache' });
       if (!r.ok) return;
       const j = await r.json();
+      WMALL = (j.items || []).filter(m => !m.hidden);
       WM = {};
-      for (const m of (j.children || [])) {
-        const k = wmKey(m['wm-target']);
-        (WM[k] = WM[k] || []).push(m);
-      }
+      for (const m of WMALL) { const k = wmKey(m['wm-target']); (WM[k] = WM[k] || []).push(m); }
     } catch (e) {}
   }
   function wmLine(m, titleOf) {
@@ -267,7 +263,7 @@
     if (!list.length) return '';
     const sorted = [...list].sort((a, b) => Date.parse(b['wm-received'] || 0) - Date.parse(a['wm-received'] || 0));
     const ext = sorted.filter(m => !isOwn(m['wm-source'] || m.url)), own = sorted.filter(m => isOwn(m['wm-source'] || m.url));
-    return `<aside class="wm" aria-label="届いた言及"><h3>📮 届いた言及｜Webmention</h3>${ext.length ? `<ul>${ext.map(m => wmLine(m, titleOf)).join('')}</ul>` : ''}${own.length ? `<h4>自分の便りから</h4><ul>${own.map(m => wmLine(m, titleOf)).join('')}</ul>` : ''}<p class="note2">この棚の記事に、外のページから届いた知らせ。言及は参照であって、交流や同意を意味しない。</p></aside>`;
+    return `<aside class="wm" aria-label="届いた言及"><h3>📮 届いた言及｜Webmention</h3>${ext.length ? `<ul>${ext.map(m => wmLine(m, titleOf)).join('')}</ul>` : ''}${own.length ? `<h4>自分の便りから</h4><ul>${own.map(m => wmLine(m, titleOf)).join('')}</ul>` : ''}<p class="note2">camp-us.net に、外のページから届いた知らせ（一日に数回まとめて仕入れる）。言及は参照であって、交流や同意を意味しない。</p></aside>`;
   }
 
   function card(m) {
@@ -302,8 +298,9 @@
       return `<a class="paper" href="${esc(x.url)}">${code ? `<span class="pc">${esc(code)}</span>` : ''}<span class="pt">${esc(title)}</span>${x.date ? `<span class="pd">${ymd(x.date)}</span>` : ''}${n ? `<span class="wmn" title="届いた言及">📮${n}</span>` : ''}</a>`;
     }).join('');
     const titles = {}; items.forEach(x => { titles[wmKey(x.url)] = x.title; });
-    const wmList = WM ? items.flatMap(x => WM[wmKey(x.url)] || []) : [];
-    const wm = wmBlock(wmList, u => titles[wmKey(u)] || '');
+    // 紀要の棚の下には、camp-us.net 全体に届いた言及を出す（棚にない記事宛ては、住所で示す）
+    const pathOf = u => { try { return decodeURIComponent(new URL(u).pathname); } catch (e) { return u; } };
+    const wm = wmBlock(WMALL, u => titles[wmKey(u)] || pathOf(u));
     const note = [r.note ? esc(r.note) : '', r.link ? `<a href="${esc(r.link)}">${esc(r.linkLabel || '↗')}</a>` : '', `<a href="feed-${esc(r.id)}.xml">📡 RSS</a>`].filter(Boolean).join('　');
     return `<section class="shelf"><h2>${esc(r.name)}</h2>${note ? `<p class="note">${note}</p>` : ''}<div class="board"><div class="papers">${cards}</div></div>${wm}</section>`;
   }
@@ -381,8 +378,7 @@
       if (j.subtitle) document.getElementById('subtitle').textContent = j.subtitle;
       if (j.updated) document.getElementById('stamp').textContent = `棚の最終更新 ${ymd(j.updated)}`;
       render();
-      const paperUrls = (j.rows || []).filter(r => r.kind === 'paper').flatMap(r => (r.items || []).map(x => x.url));
-      loadWM(paperUrls).then(() => { if (WM) render(); });
+      loadWM().then(() => { if (WM) render(); });
     })
     .catch(() => {
       $rack.innerHTML = '<p class="err">rack.json を読み込めませんでした。GitHub Pages など、Webサーバーの上で開いてください（ファイルを直接ダブルクリックすると読めません）。</p>';
