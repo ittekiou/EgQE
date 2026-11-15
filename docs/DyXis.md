@@ -91,6 +91,8 @@ Kindle [E-Zy Press BOOKS](https://ezsy.super.site/e-zy-press/bbb/bbbl) 📕 [DyX
 
 [Gardens Above, Rhizomes Below: An Encounter with Digital Gardening, and an Experiment in Connecting Independent Gardens](https://camp-us.net/rhizomatic-multiplicity.html)  
 
+🌱🪺 🐜
+
 ---
 
 [SLR — Synchro-Lag Rhizome｜SLR / SLRT / SLL / DyXis / DiGRhiC｜概念整理メモ v0.3](https://camp-us.net/SLR.html)  

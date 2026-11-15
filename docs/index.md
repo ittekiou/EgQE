@@ -95,6 +95,9 @@ _Still blogging? Try SyncHub!_
 🔡 [**構文現象学宣言**](https://camp-us.net/articles/SP-01_Syntactic-Phenomenology.html)　2026.4.23  
 🥚 [「**半熟の哲学**」🧠 脳存在宣言](https://camp-us.net/Encounteror_ergo-TUP_ergo-sum.html)　2026.8.20  
 
+### 🌱🪺 🐜
+[Gardens Above, Rhizomes Below: An Encounter with Digital Gardening, and an Experiment in Connecting Independent Gardens](https://camp-us.net/rhizomatic-multiplicity.html)  
+
 ### 🆕 EgQE の更新情報 👉 [What’s New](https://camp-us.net/WhatsNew.html)  
 
 ---
