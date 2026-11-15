@@ -7,11 +7,11 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "17 */6 * * *"   # 6時間ごとに公開し直す（Living RACK の新着を取りに行くため）
+    - cron: "17 */6 * * *"   # 6時間ごとに公開し直す（Living RACK の新着と、届いた言及を取りに行くため）
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write   # 届いた言及（webmentions.json）を箱に残すため
   pages: write
   id-token: write
 
@@ -32,6 +32,20 @@ jobs:
         continue-on-error: true   # noteが応答しなくても、サイトの公開は止めない
         env:
           LISTEN_FEED: ${{ secrets.LISTEN_FEED }}
+      - name: Refresh webmentions (webmention.io)
+        run: python3 tools/update_webmentions.py docs/rack/webmentions.json docs/rack/webmentions-hide.txt
+        continue-on-error: true   # webmention.io が応答しなくても、サイトの公開は止めない
+        env:
+          WEBMENTION_IO_TOKEN: ${{ secrets.WEBMENTION_IO_TOKEN }}
+      - name: Keep webmentions in the box (only when changed)
+        continue-on-error: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/rack/webmentions.json 2>/dev/null || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -m "Collect webmentions"
+          git push || (git pull --rebase --autostash && git push)
       - name: Build with Jekyll (same as classic GitHub Pages)
         uses: actions/jekyll-build-pages@v1
         with:
