@@ -7,6 +7,7 @@ title: ARENA-TRACE — Are.naとの遭遇
 # Trace Stock｜Are.na Sunday Review
 
 [ASR-2026-11-01｜Trace Stock](https://camp-us.net/CESE-PEC/ASR-2026-11-01.html)  
+[ASR-2026-11-15｜Trace Stock](https://camp-us.net/CESE-PEC/ASR-2026-11-15.html)  
 
 
 🐜 [Are.na](https://www.are.na/)でつながる👉 [CESE PEC｜The Rhizome Pit 🌱](https://www.are.na/cese-pec-the-rhizome-pit-a7jqy-i3aee)  
