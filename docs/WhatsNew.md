@@ -27,7 +27,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ###### 2026/11/16  
 [ASR-2026-11-15｜Trace Stock｜Are.na Sunday Review](https://camp-us.net/CESE-PEC/ASR-2026-11-15.html) 
 ###### 2026/11/15  
-[庭から庭へ。──Webmention実践帖](https://camp-us.net/CESE-PEC/webmention-practice.html)  
+[庭から庭へ。──Webmention実践帖](https://camp-us.net/webmention-practice.html)  
 [Gardens Above, Rhizomes Below: An Encounter with Digital Gardening, and an Experiment in Connecting Independent Gardens](https://camp-us.net/rhizomatic-multiplicity.html)  
 [SLR — Synchro-Lag Rhizome｜SLR / SLRT / SLL / DyXis / DiGRhiC｜概念整理メモ v0.3](https://camp-us.net/SLR.html)  
 ###### 2026/11/09  
