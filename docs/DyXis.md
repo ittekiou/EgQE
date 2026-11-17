@@ -60,14 +60,30 @@ Kindle [E-Zy Press BOOKS](https://ezsy.super.site/e-zy-press/bbb/bbbl) 📕 [DyX
 > 新しいSNSをつくる本ではありません。一人の人間と何人かのAIたちが、あれこれ話しながら、Webの上に小さな仕組み「**DyXis**」を置いていった記録です。──自分の場所に、小さな名札を一枚置く。  
 > **Genesis**（誕生記）と**Exodus**（巣立ち編）の二つの入口から読めます。_日英併記版。_
 
-### 🧭 此処へ
-
-- [LoCo-Mo 🧭 ──いつも。ここから。](https://camp-us.net/LoCoMo.html)  
-- [LOCUS｜此処](https://camp-us.net/locus/)  
-
-![LoCo-Mo](./assets/LoCo-Mo.webp)  
-
 * * *
+
+# DiGRhiC｜Digital Gardeners' Rootwork
+
+**Digital Gardens Rhizomatically Connected**  
+_From Solo Gardens to Multiplayer Gardens._  
+
+🐜 [DiGRhiC｜Digital Gardeners' Rootwork](https://ittekiou.github.io/DiGRhiC/)   
+#### From Solo to Multiplayer?
+
+🪴 Inspired by [Maggie Appleton's _A Brief History & Ethos of the Digital Garden_](https://maggieappleton.com/garden-history).
+
+🌏 [Gardens Above, Rhizomes Below: An Encounter with Digital Gardening, and an Experiment in Connecting Independent Gardens](https://camp-us.net/rhizomatic-multiplicity.html)  
+
+🌱🪺🐜🌏
+
+_Perhaps the boundary of a garden is not quite where we thought it was._  
+
+![EarthInAPot](./assets/EarthInAPot.jpg)  
+#### 📗 [Earth in a Pot: Was It Ever Solo?](https://www.amazon.com/dp/B0HRTJB72G)  
+_Who owns the garden?_  
+_Where does it end?_  
+
+---
 
 # DyXis 🧭
 
@@ -77,6 +93,7 @@ Kindle [E-Zy Press BOOKS](https://ezsy.super.site/e-zy-press/bbb/bbbl) 📕 [DyX
     
 - Bluesky：[dyxis.substack.com](https://bsky.app/profile/dyxis.substack.com)
     
+- GitHub：[dyxis](https://github.com/ittekiou/dyxis)
 
 ![DyXis Compass](./assets/DyXis_Compass.webp)
 
@@ -89,11 +106,16 @@ Kindle [E-Zy Press BOOKS](https://ezsy.super.site/e-zy-press/bbb/bbbl) 📕 [DyX
 **Not One Next.**  
 **SNS Next ≠ SNS.**
 
-[Gardens Above, Rhizomes Below: An Encounter with Digital Gardening, and an Experiment in Connecting Independent Gardens](https://camp-us.net/rhizomatic-multiplicity.html)  
-
-🌱🪺 🐜
-
 ---
 
 [SLR — Synchro-Lag Rhizome｜SLR / SLRT / SLL / DyXis / DiGRhiC｜概念整理メモ v0.3](https://camp-us.net/SLR.html)  
+
+---
+
+### 🧭 LOCUS｜此処へ
+
+- [LoCo-Mo 🧭 ──いつも。ここから。](https://camp-us.net/LoCoMo.html)  
+- [LOCUS｜此処](https://camp-us.net/locus/)  
+
+![LoCo-Mo](./assets/LoCo-Mo.webp)  
 
