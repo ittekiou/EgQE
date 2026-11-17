@@ -62,7 +62,7 @@ Kindle [E-Zy Press BOOKS](https://ezsy.super.site/e-zy-press/bbb/bbbl) 📕 [DyX
 
 * * *
 
-# DiGRhiC｜Digital Gardeners' Rootwork
+# 🪴 DiGRhiC｜Digital Gardeners' Rootwork
 
 **Digital Gardens Rhizomatically Connected**  
 _From Solo Gardens to Multiplayer Gardens._  
