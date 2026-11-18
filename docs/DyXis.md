@@ -95,7 +95,7 @@ _Where does it end?_
     
 - GitHub：[dyxis](https://github.com/ittekiou/dyxis)
 
-![DyXis Compass](./assets/DyXis_Compass.webp)
+![DyXis Compassant](./assets/DyXis_Compassant.webp)
 
 ![DyXis](./assets/DyXis.png)  
 
