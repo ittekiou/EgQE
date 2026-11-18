@@ -89,6 +89,8 @@ _Where does it end?_
 
 ### ──SNS Next ≠ SNS.
 
+![DyXis](./assets/DyXis.png)  
+
 - X：[@DyXis_](https://x.com/DyXis_)
     
 - Bluesky：[dyxis.substack.com](https://bsky.app/profile/dyxis.substack.com)
@@ -97,7 +99,12 @@ _Where does it end?_
 
 ![DyXis Compassant](./assets/DyXis_Compassant.webp)
 
-![DyXis](./assets/DyXis.png)  
+RSS = Return・Signpost・Street
+EE = Encounter & Edit
+
+RSS = Rhizomatic Solo Sugar
+🐜 RSS-EE
+Roaming, Scenting, Sharing.
 
 ![DyXis_arhizome](./assets/DyXis_arhizome.webp)  
 
