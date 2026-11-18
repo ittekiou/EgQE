@@ -1467,6 +1467,7 @@
           "label": "はてな｜こえと言葉のブログ",
           "feed": "https://jimt.hatenablog.com/feed",
           "keep": 4,
+          "excerpt": true,
           "items": [
             {
               "title": "AJIWAIのわが道程｜一狄 啓｜🥚半熟の哲学",
