@@ -1,9 +1,9 @@
 ---
 layout: math
-title: DyXis 🧭 ──LOCUS. Not One Next.
+title: DyXis 🐜 ──LOCUS. Not One Next.
 description: SNS Next ≠ SNS.──Not One Nest. Not One Next.
 ---
-# DyXis 🧭
+# DyXis 🐜
 
 ### ──LOCUS. Not One Next.
 

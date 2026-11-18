@@ -34,7 +34,7 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 # DyXis
 
 ![DyXis](./assets/DyXis.png)  
-🐜 [DyXis 🧭 ──LOCUS. Not One Next.](https://camp-us.net/DyXis.html)  
+🪺 [DyXis 🐜 ──LOCUS. Not One Next.](https://camp-us.net/DyXis.html)  
 🪴 [Gardens Above, Rhizomes Below](https://camp-us.net/rhizomatic-multiplicity.html)  
 ### 🪺 👉 [DyXis の入口](https://ittekiou.github.io/dyxis/)↗︎  
 
