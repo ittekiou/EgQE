@@ -89,7 +89,7 @@ _Where does it end?_
 
 ### ──SNS Next ≠ SNS.
 
-![DyXis](./assets/DyXis.png)  
+![DyXis_banner](./assets/DyXis_banner.png)  
 
 - X：[@DyXis_](https://x.com/DyXis_)
     
