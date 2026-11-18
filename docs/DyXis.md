@@ -99,11 +99,11 @@ _Where does it end?_
 
 ![DyXis Compassant](./assets/DyXis_Compassant.webp)
 
-RSS = Return・Signpost・Street
-EE = Encounter & Edit
+RSS = Return・Signpost・Street  
+EE = Encounter & Edit  
 
-RSS = Rhizomatic Solo Sugar
-🐜 RSS-EE
+RSS = Rhizomatic Solo Sugar  
+🐜 RSS-EE  
 Roaming, Scenting, Sharing.
 
 ![DyXis_arhizome](./assets/DyXis_arhizome.webp)  
