@@ -330,7 +330,7 @@
       const memo = r.id === 'monologue';
       const source = memo ? '店主のひとりごと' : (g.label || 'Blog');
       const sourceClass = memo ? 'memo' : ['source-hatena', 'source-ameba', 'source-sizu'][groupIndex] || '';
-      return `<a class="book ${kind} text-cover ${sourceClass}${x.image ? ' has-image' : ''}" href="${esc(x.url)}"><span class="bc"><span class="ph"><span class="cover-source">${esc(source)}</span><span class="cover-title">${esc(x.title)}</span></span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.closest('a').classList.remove('has-image');this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${x.text ? `<span class="bx">${x.who ? `<b>${esc(x.who)}</b>：` : ''}${esc(x.text)}</span>` : ''}${x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`;
+      return `<a class="book ${kind} text-cover ${sourceClass}${x.image ? ' has-image' : ''}" href="${esc(x.url)}"><span class="bc"><span class="ph"><span class="cover-source">${esc(source)}</span><span class="cover-title">${esc(x.title)}</span></span>${x.image ? `<img src="${esc(x.image)}" alt="" loading="lazy" onerror="this.closest('a').classList.remove('has-image');this.remove()">` : ''}</span><span class="bt">${esc(x.title)}</span>${x.text ? `<span class="bx">${esc(x.text)}</span>` : ''}${x.date ? `<span class="bd">${ymd(x.date)}</span>` : ''}</a>`;
     };
     return (data.rows || []).filter(r => (r.position || 'before') === pos).map(r => {
       const kind = r.kind || 'book';
