@@ -1,6 +1,6 @@
 ---
 layout: math
-title: "DiGCoM 🌱｜Digital Garden Composting Midden: デジタルガーデン堆肥化システム（Concept Note v0.1）"
+title: "DiGCoM 🌱｜Digital Garden Composting Midden: デジタルガーデン堆肥貝塚（Concept Note v0.1）"
 ---
 # DiGCoM 🌱
 ### Digital Garden Composting Midden

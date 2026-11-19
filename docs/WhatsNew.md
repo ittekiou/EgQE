@@ -25,7 +25,7 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/11/19  
-[DiGCoM 🌱｜Digital Garden Composting Midden: デジタルガーデン堆肥化システム（Concept Note v0.1）](https://camp-us.net/DiGCoM/DiGCoM_Digital-Garden-Composting-Midden_Concept-Notev0.1.html)  
+[DiGCoM 🌱｜Digital Garden Composting Midden: デジタルガーデン堆肥貝塚（Concept Note v0.1）](https://camp-us.net/DiGCoM/DiGCoM_Digital-Garden-Composting-Midden_Concept-Notev0.1.html)  
 [庭解剖探検隊｜A系列 二日付制の普及史 集約 v0.1 Open](https://camp-us.net/DiGRhiC/DR_A0_two-dates_summary_v0.1_open.html)  
 [庭解剖探検隊｜A-3 V2→V3の継承 v0.1](https://camp-us.net/DiGRhiC/DR_A3_v2-to-v3_inheritance_v0.1.html)  
 [庭解剖探検隊｜A-2 V1→V2の移行と二日付の一括付与 v0.1](https://camp-us.net/DiGRhiC/DR_A2_v1-to-v2_migration_v0.1.html)  
