@@ -4,7 +4,7 @@ title: "DiGCoM 🌱｜Digital Garden Composting Midden: デジタルガーデン
 ---
 # DiGCoM 🌱
 ### Digital Garden Composting Midden
-#### デジタルガーデン堆肥化システム
+#### デジタルガーデン堆肥貝塚
 
 **Concept Note v0.1 Fixed｜2026.11.17**
 
