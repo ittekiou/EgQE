@@ -24,6 +24,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/11/20  
+[BT-00｜境界論序説 ──TUPする実装は境界を生成する](https://camp-us.net/articles/BT-00_Introduction-to-Boundary-Theory.html)  
 ###### 2026/11/19  
 [DiGCoM 🌱｜Digital Garden Composting Midden: デジタルガーデン堆肥貝塚（Concept Note v0.1）](https://camp-us.net/DiGCoM/DiGCoM_Digital-Garden-Composting-Midden_Concept-Notev0.1.html)  
 [庭解剖探検隊｜A系列 二日付制の普及史 集約 v0.1 Open](https://camp-us.net/DiGRhiC/DR_A0_two-dates_summary_v0.1_open.html)  
