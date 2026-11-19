@@ -86,6 +86,8 @@ LiRaxなどの仕組みを通じて、分散した場所の更新情報を集め
 
 次の創作が生まれなくてもよい。
 
+![DiGCoM](../assets/DiGCoM.png)  
+
 ## 4｜LiRax・DyXis・DiGRhiCとの関係
 
 DiGCoMは、これらを一つのシステムに統合するための上位プラットフォームではない。
