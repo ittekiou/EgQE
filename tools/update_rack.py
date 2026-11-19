@@ -5,6 +5,7 @@ rack.json の各マガジンについて、マガジンURL + "/rss" を読み、
 最新3件の記事と最終更新日時（latest / latest_at）を書き込む。
 
 手で書いた項目（title / description / cover / shelf / order）はそのまま使う。
+ただし shelves.txt（棚割りの台帳）があれば、棚（shelves）と各冊の shelf / order はそちらから写す。
 空になっている項目だけ、ここで埋める：
   - title, description … RSS のマガジン名と説明から
   - cover              … マガジンのページの og:image から
@@ -434,6 +435,30 @@ def write_feeds(rack, folder):
                    f"{base}｜{sh['name']}", motto + "noteマガジンの棚。" + sh.get("note", ""))
 
 
+def read_shelves(path):
+    """shelves.txt を読む。「## 棚id 名前 ｜ 添え書き」が棚、その下のマガジンURLが中身（並び順のまま）。
+    返り値：(棚の一覧, {マガジンid: (棚id, 棚の中の順)})"""
+    shelves, place, cur, n = [], {}, None, 0
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or (line.startswith("#") and not line.startswith("## ")):
+                continue
+            if line.startswith("## "):
+                head = line[3:].strip()
+                head, _, note = head.partition("｜")
+                sid, _, name = head.strip().partition(" ")
+                cur = {"id": sid, "name": name.strip(), "note": note.strip()}
+                shelves.append(cur)
+                n = 0
+                continue
+            m = re.search(r"/m/(m[0-9a-f]{12})", line)
+            if m and cur:
+                n += 1
+                place.setdefault(m.group(1), (cur["id"], n))   # 二つの棚に書いたら、先のほうを使う
+    return shelves, place
+
+
 def main(path):
     with open(path, encoding="utf-8") as f:
         rack = json.load(f)
@@ -453,6 +478,31 @@ def main(path):
                                           "latest_at": None, "latest": []})
                 n += 1
         print(f"magazines.txt: {len(set(listed))} listed, {n} new")
+    except FileNotFoundError:
+        pass
+
+    # 棚割り：docs/rack/feeds/shelves.txt があれば、棚の一覧と各冊の棚・順をそこから写す
+    # （書いていない冊は棚を空に＝「まだ棚のないもの」。shelves.txt にだけ書いた冊も、ここで台帳に足す）
+    stxt = rack.get("shelf_list", "docs/rack/feeds/shelves.txt")
+    try:
+        shelves, place = read_shelves(stxt)
+        rack["shelves"] = shelves
+        have = {m["id"] for m in rack["magazines"]}
+        for mid in place:
+            if mid not in have:
+                rack["magazines"].append({"id": mid, "title": "", "cover": "", "description": "",
+                                          "count": None, "shelf": "", "order": 0,
+                                          "latest_at": None, "latest": []})
+        loose = 0
+        for m in rack["magazines"]:
+            if m["id"] in place:
+                m["shelf"], m["order"] = place[m["id"]]
+            else:
+                m["shelf"] = ""
+                if (m.get("order") or 0) < 900:
+                    m["order"] = 900 + loose
+                loose += 1
+        print(f"shelves.txt: {len(shelves)} shelves, {len(place)} placed, {loose} not on a shelf")
     except FileNotFoundError:
         pass
 
