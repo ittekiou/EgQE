@@ -24,6 +24,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/11/19  
+[DiGCoM 🌱｜Digital Garden Composting System: デジタルガーデン堆肥化システム（Concept Note v0.1）](https://camp-us.net/DiGCoM/DiGCoM_Digital-Garden-Composting-System_Concept-Notev0.1.html)  
 ###### 2026/11/16  
 [ASR-2026-11-15｜Trace Stock｜Are.na Sunday Review](https://camp-us.net/CESE-PEC/ASR-2026-11-15.html) 
 ###### 2026/11/15  
