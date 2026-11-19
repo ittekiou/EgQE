@@ -1,9 +1,9 @@
 ---
 layout: math
-title: "DiGCoM 🌱｜Digital Garden Composting System: デジタルガーデン堆肥化システム（Concept Note v0.1）"
+title: "DiGCoM 🌱｜Digital Garden Composting Midden: デジタルガーデン堆肥化システム（Concept Note v0.1）"
 ---
 # DiGCoM 🌱
-### Digital Garden Composting System
+### Digital Garden Composting Midden
 #### デジタルガーデン堆肥化システム
 
 **Concept Note v0.1 Fixed｜2026.11.17**
@@ -14,7 +14,7 @@ title: "DiGCoM 🌱｜Digital Garden Composting System: デジタルガーデン
 
 ## 1｜DiGCoMとは何か
 
-DiGCoM（Digital Garden Composting System）は、独立した複数のメディアで生まれた文章や表現の痕跡を、RSSなどを通じて集め、次の創作や再編集につなげていく分散型の循環システムである。
+DiGCoM（Digital Garden Composting Midden）は、独立した複数のメディアで生まれた文章や表現の痕跡を、RSSなどを通じて集め、次の創作や再編集につなげていく分散型の循環システムである。
 
 新しい投稿プラットフォームではない。
 
@@ -256,7 +256,7 @@ DiGCoMは、さらに別の問いを置く。
 
 そして、また別の芽が出るかもしれない。
 
-**DiGCoM — Digital Garden Composting System.**
+**DiGCoM — Digital Garden Composting Midden.**
 
 *Distributed Creation. Automatic Collection. Unexpected Growth.*
 

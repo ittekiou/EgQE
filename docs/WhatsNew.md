@@ -25,7 +25,15 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 
 ###### 2026/11/19  
-[DiGCoM 🌱｜Digital Garden Composting System: デジタルガーデン堆肥化システム（Concept Note v0.1）](https://camp-us.net/DiGCoM/DiGCoM_Digital-Garden-Composting-System_Concept-Notev0.1.html)  
+[DiGCoM 🌱｜Digital Garden Composting Midden: デジタルガーデン堆肥化システム（Concept Note v0.1）](https://camp-us.net/DiGCoM/DiGCoM_Digital-Garden-Composting-Midden_Concept-Notev0.1.html)  
+[庭解剖探検隊｜A系列 二日付制の普及史 集約 v0.1 Open](https://camp-us.net/DiGRhiC/DR_A0_two-dates_summary_v0.1_open.html)  
+[庭解剖探検隊｜A-3 V2→V3の継承 v0.1](https://camp-us.net/DiGRhiC/DR_A3_v2-to-v3_inheritance_v0.1.html)  
+[庭解剖探検隊｜A-2 V1→V2の移行と二日付の一括付与 v0.1](https://camp-us.net/DiGRhiC/DR_A2_v1-to-v2_migration_v0.1.html)  
+[庭解剖探検隊｜A 二日付制の普及史（V1）集計 v0.1](https://camp-us.net/DiGRhiC/DR_A1_two-dates_v1-census_v0.1.html)  
+[庭解剖探検隊｜標本01 観測記録 v0.1.1](https://camp-us.net/DiGRhiC/DR_02_specimen01_roam-garden_v0.1.1.html)  
+[庭解剖探検隊｜標本01 観測記録 v0.1](https://camp-us.net/DiGRhiC/DR_02_specimen01_roam-garden_v0.1.html)  
+[庭解剖探検隊｜記録 2026-11-19（調査設計 v0.3 Fixed）](https://camp-us.net/DiGRhiC/DR_01_design_v0.3_fixed.html)  
+[庭解剖探検隊｜中間報告 v0.1](https://camp-us.net/DiGRhiC/DR_00_interim-report_v0.1_kyoei.html)  
 ###### 2026/11/16  
 [ASR-2026-11-15｜Trace Stock｜Are.na Sunday Review](https://camp-us.net/CESE-PEC/ASR-2026-11-15.html) 
 ###### 2026/11/15  
