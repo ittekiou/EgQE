@@ -31,7 +31,7 @@ table th, table td {
   white-space: normal;    /* 改行を許可 */
   line-break: strict;
   word-break: keep-all;   /* 日本語を変な位置で切らない */
-  overflow-wrap: anywhere;
+  overflow-wrap: normal;     /* anywhere だと Safari で列が一文字幅まで縮む */
 }
 
 /* 長文列用に最小幅を広めに確保（すべての列に効く）*/
@@ -75,7 +75,7 @@ table td:last-child {
 .markdown-body table td{
   white-space: normal !important;
   word-break: keep-all;
-  overflow-wrap: anywhere;
+  overflow-wrap: normal;     /* anywhere だと Safari で列が一文字幅まで縮む */
   vertical-align: top;
 }
 
