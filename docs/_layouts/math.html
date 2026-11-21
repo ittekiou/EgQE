@@ -8,7 +8,20 @@
   {% include og.html %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
+
+  <!-- カード（md の頭に image: があるページだけ） -->
+  {% if page.image %}
+  {% if page.image contains '://' %}{% assign og_image = page.image %}{% else %}{% assign og_image = page.image | prepend: 'https://camp-us.net' %}{% endif %}
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="EgQE">
+  <meta property="og:title" content="{{ page.title | default: site.title | default: 'EgQE' }}">
+  {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% endif %}
+  <meta property="og:url" content="https://camp-us.net{{ page.url }}">
+  <meta property="og:image" content="{{ og_image }}">
+  <meta name="twitter:card" content="summary_large_image">
+  {% endif %}
   
+  <!-- EgQE favicon（md の頭に favicon: があれば、そのページだけ差し替え） -->
   <!-- EgQE favicon（md の頭に favicon: があれば、そのページだけ差し替え） -->
   <link rel="icon" type="image/png" href="{{ page.favicon | default: '/favicon-egqe.png' }}">
   <link rel="apple-touch-icon" href="{{ page.apple_touch_icon | default: page.favicon | default: '/apple-touch-icon.png' }}">
