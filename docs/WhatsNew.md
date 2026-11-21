@@ -24,6 +24,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/11/21  
+[BT-RN-01｜境界論の先行研究マップ──三つの系譜](https://camp-us.net/articles/BT-RN-01_Prior-Research-Map_Boundary-Theory_Three-Lineages.html)  
 ###### 2026/11/20  
 [BT-00｜境界論序説 ──TUPする実装は境界を生成する](https://camp-us.net/articles/BT-00_Introduction-to-Boundary-Theory.html)  
 ###### 2026/11/19  
