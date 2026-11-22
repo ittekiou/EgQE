@@ -1,6 +1,9 @@
 ---
 layout: math
 title: LoCo-Mo 🧭 ──いつも。ここから。
+image: https://camp-us.net//assets/LoCo-Mo_cover.png
+favicon: https://ittekiou.github.io/DiGRhiC/favicon.png
+description: LoCo-Mo 🧭 ──いつも。ここから。どのページにも、それぞれの「此処」がある。五つの此処。四つの店先と、ひとつの玄関。
 ---
 # **LoCo-Mo** 🧭
 ### ──いつも。ここから。
