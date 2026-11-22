@@ -2,6 +2,7 @@
 layout: math
 title: DyXis 🐜 ──LOCUS. Not One Next.
 image: https://ittekiou.github.io/dyxis/ogp/dyxis.png
+favicon: https://ittekiou.github.io/dyxis/favicon.png
 description: SNS Next ≠ SNS.──Not One Nest. Not One Next.
 ---
 # DyXis 🐜
