@@ -3,7 +3,7 @@ layout: math
 title: DyXis 🐜 ──LOCUS. Not One Next.
 image: https://ittekiou.github.io/dyxis/ogp/dyxis.png
 favicon: https://ittekiou.github.io/dyxis/favicon.png
-description: SNS Next ≠ SNS.──所在地不明のSNSから、イマココのDyXisへ──自分だけの庭づくり、此処 からはじめてみませんか？
+description: SNS Next ≠ SNS.所在地不明のSNSから、イマココのDyXisへ──此処からはじめる自分だけの庭づくり。
 ---
 # DyXis 🐜
 
