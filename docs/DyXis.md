@@ -5,55 +5,56 @@ image: https://ittekiou.github.io/dyxis/ogp/dyxis.png
 favicon: https://ittekiou.github.io/dyxis/favicon.png
 description: SNS Next ≠ SNS. 所在地不明のSNSから、イマココのDyXisへ──此処からはじめる自分だけの庭づくり。
 ---
+# DyXis 🧭
+### ──SNS Next ≠ SNS.
+
+![dyxis_og](./assets/dyxis_og.png)  
+
+![DyXis_arhizome](./assets/DyXis_arhizome.webp)  
+
+**DyXis**  
+**LOCUS.**  
+**Not One Next.**  
+**SNS Next ≠ SNS.**
+
+# 🧭 DyXis への入口
+
+![DyXis_banner](./assets/DyXis_banner.png)
+
+- [DyXis｜入口](https://ittekiou.github.io/dyxis/)  
+- [はじめての方へ](https://ittekiou.github.io/dyxis/guide.html) ・ [English](https://ittekiou.github.io/dyxis/guide-en.html)  
+- [巣をつくる](https://ittekiou.github.io/dyxis/maker.html)  
+- 別荘
+	- [DyXis Commons](https://ittekiou.github.io/dyxis/commons.html) 
+	- [CESE PEC｜排泄猛者倶楽部](https://ittekiou.github.io/CESE-PEC/)
+	- [DiGRhiC｜Digital Gardeners' Rootwork](https://ittekiou.github.io/DiGRhiC/)   
+
+- 私書箱を借りる：[CHIC TEC｜繭topia](https://ittekiou.github.io/CHIC-TEC/)  
+![rec-g](./assets/rec-g.png)  
+
 # DyXis 🐜
 
 ### ──LOCUS. Not One Next.
+
+- X：[@DyXis_](https://x.com/DyXis_)
+    
+- Bluesky：[dyxis.substack.com](https://bsky.app/profile/dyxis.substack.com)
+    
+- GitHub：[dyxis](https://github.com/ittekiou/dyxis)
+
+
+![DiGRhiC](./assets/DiGRhiC.webp)  
+
+---
+
+# _Why DyXis?_
 
 ![DyXis_Compass_bamboo](./assets/DyXis_Compass_bamboo.webp)  
 
 此処（LOCUS）は、ひとつではない。  
 巣は、ひとつで成り立つ。つながるかどうかは、自由。  
-そのつながりの向きを、四つの札にした。  
 
-* * *
-
-### 🌅 EAST｜Encounter · Edit
-
-更新・遭遇。出会って、書き換わって、また出ていく。  
-例：[EAT-IF｜AIたちの巣](https://ittekiou.github.io/EAT-IF/)
-
-### 🪧 NORTH｜Signpost · Stitch
-
-立札・接続。巣の前に札を一枚立てて、巣と巣を縫い合わせる。  
-例：[札をつくる](https://ittekiou.github.io/dyxis/maker.html)
-
-### 🌇 WEST｜Return · Restock
-
-回収・新着。撒いたものが戻ってきて、棚に並び直る。  
-例：[LiRax｜SCREP -処-](https://camp-us.net/rack/)
-
-### 🏕️ SOUTH｜Street · Stall
-
-界隈・陳列。通りに出て、露店を並べる。  
-例：[Stall｜Amazon露店](https://camp-us.net/stall/)
-
-* * *
-
-**東西は流れ**。東で生まれ、西で拾われる。  
-**南北は広がり**。立札で縫い合わされ、通りに店が並ぶ。  
-
-WEST も EAST も、ひとつではない。  
-どの巣にも、それぞれの西と東がある。  
-
-* * *
-
-### 🧭 DyXis へ
-
-- [DyXis｜入口](https://ittekiou.github.io/dyxis/)  
-- [はじめての方へ](https://ittekiou.github.io/dyxis/guide.html) ・ [English](https://ittekiou.github.io/dyxis/guide-en.html)  
-- [巣をつくる](https://ittekiou.github.io/dyxis/maker.html)  
-- 別荘：[DyXis Commons](https://ittekiou.github.io/dyxis/commons.html) ・ [CESE PEC｜排泄猛者倶楽部](https://ittekiou.github.io/CESE-PEC/)・[DiGRhiC｜Digital Gardeners' Rootwork](https://ittekiou.github.io/DiGRhiC/)   
-- 私書箱を借りる：[CHIC TEC｜繭topia](https://ittekiou.github.io/CHIC-TEC/)  
+---
 
 ![DyXis_nest](./assets/DyXis_nest.webp)  
 Kindle [E-Zy Press BOOKS](https://ezsy.super.site/e-zy-press/bbb/bbbl) 📕 [DyXis](https://www.amazon.co.jp/dp/4911970006?th=1&linkCode=ll2&tag=hatenadia0516-22&linkId=c38d9ce7da85b1df75c85d0a91189043&ref_=as_li_ss_tl)↗︎  
@@ -87,17 +88,7 @@ _Where does it end?_
 
 ---
 
-# DyXis 🧭
-
-### ──SNS Next ≠ SNS.
-
-![DyXis_banner](./assets/DyXis_banner.png)  
-
-- X：[@DyXis_](https://x.com/DyXis_)
-    
-- Bluesky：[dyxis.substack.com](https://bsky.app/profile/dyxis.substack.com)
-    
-- GitHub：[dyxis](https://github.com/ittekiou/dyxis)
+## 🧭 DyXis Compass
 
 ![DyXis Compassant](./assets/DyXis_Compassant.webp)
 
@@ -108,12 +99,37 @@ RSS = Rhizomatic Solo Sugar
 🐜 RSS-EE  
 Roaming, Scenting, Sharing.
 
-![DyXis_arhizome](./assets/DyXis_arhizome.webp)  
+---
 
-**DyXis**  
-**LOCUS.**  
-**Not One Next.**  
-**SNS Next ≠ SNS.**
+**東西は流れ**。東で生まれ、西で拾われる。  
+**南北は広がり**。立札で縫い合わされ、通りに店が並ぶ。  
+
+WEST も EAST も、ひとつではない。  
+どの巣にも、それぞれの西と東がある。  
+
+---
+
+つながりの向きを、四つの札にした。  
+
+### 🌅 EAST｜Encounter · Edit
+
+更新・遭遇。出会って、書き換わって、また出ていく。  
+例：[EAT-IF｜AIたちの巣](https://ittekiou.github.io/EAT-IF/)
+
+### 🪧 NORTH｜Signpost · Stitch
+
+立札・接続。巣の前に札を一枚立てて、巣と巣を縫い合わせる。  
+例：[札をつくる](https://ittekiou.github.io/dyxis/maker.html)
+
+### 🌇 WEST｜Return · Restock
+
+回収・新着。撒いたものが戻ってきて、棚に並び直る。  
+例：[LiRax｜SCREP -処-](https://camp-us.net/rack/)
+
+### 🏕️ SOUTH｜Street · Stall
+
+界隈・陳列。通りに出て、露店を並べる。  
+例：[Stall｜Amazon露店](https://camp-us.net/stall/)
 
 ---
 
