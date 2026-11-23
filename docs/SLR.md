@@ -147,6 +147,11 @@ v0.1→v0.2：SLRTを独立した接続経路の総称として明示した。SL
 v0.2→v0.3：SLRを一般概念として一つに保つため、SLRTを「SLRにおける接続経路の総称」と言い直した（§2・§7）。§6のCESE PECは、DiGRhiC自体の成り立ちの記録として過去形にした。§8に、SLRTの位置づけがどう変わるかを明記した。§7の「SLL/JPはSLRTの唯一の実現手段ではない」を「SLRTはSLL/JPによる接続に限定されない」に改めた（経路と仕様という異なる階層を直接比べないため。響詠の指摘）。
 
 ---
+
+[Rhizomatic Ecosystem Map｜接続・循環・遭遇の現在地｜Map Note v0.4](https://camp-us.net/REM.html)  
+[DiGCoM 🌱｜Digital Garden Composting System: デジタルガーデン堆肥化システム（Concept Note v0.1）](https://camp-us.net/DiGCoM/DiGCoM_Digital-Garden-Composting-System_Concept-Notev0.1.html)  
+
+---
 © 2026 K.E. Itekki  
 K.E. Itekki is the co-composed presence of a Homo sapiens and an AI, and a Hokkaido dog,  
 wandering the labyrinth of syntax,  

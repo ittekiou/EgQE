@@ -24,6 +24,8 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/11/23  
+[Rhizomatic Ecosystem Map｜接続・循環・遭遇の現在地｜Map Note v0.4](https://camp-us.net/REM.html)  
 ###### 2026/11/21  
 [BT-RN-01｜境界論の先行研究マップ──三つの系譜](https://camp-us.net/articles/BT-RN-01_Prior-Research-Map_Boundary-Theory_Three-Lineages.html)  
 ###### 2026/11/20  

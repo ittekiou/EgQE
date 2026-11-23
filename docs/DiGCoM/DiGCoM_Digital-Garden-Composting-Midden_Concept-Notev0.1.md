@@ -264,6 +264,11 @@ DiGCoMは、さらに別の問いを置く。
 
 ---
 
+[Rhizomatic Ecosystem Map｜接続・循環・遭遇の現在地｜Map Note v0.4](https://camp-us.net/REM.html)  
+[SLR — Synchro-Lag Rhizome｜SLR / SLRT / SLL / DyXis / DiGRhiC｜概念整理メモ v0.3](https://camp-us.net/SLR.html)  
+
+---
+
 ### Related Projects
 
 - [EgQE｜Gardens Above, Rhizomes Below](https://camp-us.net/rhizomatic-multiplicity.html)
