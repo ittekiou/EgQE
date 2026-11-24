@@ -18,7 +18,7 @@ description: SNS Next ≠ SNS. 所在地不明のSNSから、イマココのDyXi
 **SNS Next ≠ SNS.**
 
 # 🐜 DyXis への道案内
-#### 🐣 [DyXis Guide｜EZsy](https://ezsy.super.site/dyxis)  
+### 🐣 [DyXis Guide｜EZsy](https://ezsy.super.site/dyxis)  
 
 ---
 
