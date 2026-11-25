@@ -24,6 +24,10 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ---
 
+###### 2026/11/25  
+[MBIG-01｜Midnight Baseball — Invisible Ground: 証明の証明論と構文論的エポケー（v1.0）](https://camp-us.net/articles/MBIG-01_Midnight-Baseball_Invisible-Ground_v1.0.html)  
+[MBIG-00｜Midnight Baseball — Invisible Ground: 証明の証明論と構文論的エポケー（v0.1）](https://camp-us.net/articles/MBIG-00_Midnight-Baseball_Invisible-Ground_v0.1.html)  
+[MBIG-00-DN｜Midnight Baseball — Invisible Ground: 証明の証明論と構文論的エポケー（改稿記録）](https://camp-us.net/articles/MBIG-00-DN_Midnight-Baseball_Invisible-Ground_DN.html)  
 ###### 2026/11/23  
 [Rhizomatic Ecosystem Map｜接続・循環・遭遇の現在地｜Map Note v0.4](https://camp-us.net/REM.html)  
 [ASR-2026-11-22｜Trace Stock｜Are.na Sunday Review](https://camp-us.net/CESE-PEC/ASR-2026-11-22.html) 
