@@ -10,8 +10,8 @@ From Noise to Notation. From Dialogue to Discovery.
 ---
 ### 灯欄窓｜Transnomado
 ## ↪️ [EgQE内検索](https://camp-us.net/search.html)  
-### Living RACKs｜ _LiRax（リラックス）_  
-#### 📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/)  
+#### Living RACKs｜ _LiRax（リラックス）_  
+### 📚 [SCREP -処-｜新刊のある古書店](https://camp-us.net/rack/)  
 
 ---
 ### 地層の化石
