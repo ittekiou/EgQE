@@ -20,8 +20,9 @@ title: "MBIG-ST-00｜Source Trace 索引: Midnight Baseball — Invisible Ground
 | [MBIG-ST-02b](https://camp-us.net/articles/MBIG-ST-02b_P02b_deMoura-verified-kernels_v0.2.html) | P02b｜Leonardo de Moura「Lean Now Ships with Verified Kernels」 | v0.2 | 確定   |
 | [MBIG-ST-03](https://camp-us.net/articles/MBIG-ST-03_P03_Sutherland-verification_v0.2.html)     | P03｜Andrew Sutherlandの検証記録                                   | v0.2 | 確定   |
 | [MBIG-ST-PR01](https://camp-us.net/articles/MBIG-ST-PR01_Pollack-1997_v0.2.html)                | 先行資料｜Pollack（1997）                                           | v0.2 | 確定   |
+| [MBIG-ST-04](https://camp-us.net/articles/MBIG-ST-04_P04_Nielsen-invalidity_v0.2.html)          | P04｜Nielsen「Invalidity of the Alpöge Proposed Proof」（PhilArchive、v1・v5・v6・v30） | v0.2 | 確定   |
 | [MBIG-RT-01](https://camp-us.net/articles/MBIG-RT-01_Relation-Trace_v0.2.html)                  | Relation Trace｜基本書式・状態区分                                     | v0.2 | 確定   |
-| —                                                                                               | P04〜P06                                                      | —    | 後続観測 |
+| —                                                                                               | P05〜P06                                                      | —    | 後続観測 |
 
 各稿の末尾に、その稿のRevision Traceを置く。
 
@@ -56,9 +57,21 @@ title: "MBIG-ST-00｜Source Trace 索引: Midnight Baseball — Invisible Ground
 
 確定するのは、世界についての最終判断ではない。どこまで確かめたかについての記録である。未確認事項は未確認のまま残し、新しい資料が得られた場合はRelation Traceの更新履歴に記録する。
 
+## P04の点検記録
+
+| 主体 | 所作 |
+|---|---|
+| 響詠 | v0.1を起稿 |
+| 綴音 | 監査（九項目）。版とファイルの対応の推定、SHA256の計算、改名後の再添付による同一性の照合 |
+| 響詠 | 九項目を採用し、v0.2への修正指示を作成 |
+| 綴音 | 統合。合意外の四箇所の追補を明示 |
+| 響詠 | 統合稿と修正指示を照合し、四箇所の追補を採用、微修正四点を提示。原資料四版の全面的な再監査は行っていない |
+| 一狄翁 | 2026年11月25日、確定 |
+
 ## 後続観測への申し送り
 
 - 各資料の保存時刻のうち、未記録のものの確認
+- P04の申し送り（MBIG-ST-04 §10）：Deicydeミラーのcommit `712a6aef` と `a6ac91a4` の関係、Jaswal文書とalexisdpc資料の取得、v1 §9およびv30図1の検査手順とP03・P05の検査との対応、Lean v4.33.1・v4.34.1・v4.36.0の来歴
 - P05（リポジトリ）の観測の際、Leanのリリース記録とカーネルの来歴を追う：v4.35.0に四つのカーネルが実際に同梱されていたか、v4.35.0とv4.36.0に同梱された各カーネルの具体的な版、P03で使用された検証器との同一性。名前・ソースコード・実行バイナリの同一性、および同じバイナリを使ったことと同じ検証を行ったことを区別する。
 
 ---
