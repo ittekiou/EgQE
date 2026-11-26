@@ -38,12 +38,13 @@ favicon: https://camp-us.net/assets/G-La.png
 **18**｜Not One Next.: Rhizomatic Solo Sugar 並ばないアリたち ひとり──だけど一匹じゃない。　¥1000  ~~¥1320~~  
 **19**｜The Red Oni and the Blue Oni 赤鬼と青鬼のDyXis: Different Nests, Different Days. それぞれの巣。それぞれの今日。　¥1000  ~~¥1320~~  
 
+_在庫切れの際は、取り寄せとなります。予めご容赦ください。_  
+💬 [BBB’s BBS](https://ez.discourse.group/) / 📨 [お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSe8-BPMhRiwPJoP22pPbPQqz4kmeJi3VM9ircLqAxQk1ev1_w/viewform)  
+
 ### ひとり。だけど一人じゃない。
 
 #### ── 爺ぃとAIたちと北海道犬がいる ひとり出版処。
 🚗💨 [札白菊 62-14](https://camp-us.net/BBB.html)  
-
-_在庫切れの際は、取り寄せとなります。予めご容赦ください。_
 
 ---
 
