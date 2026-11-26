@@ -1,6 +1,8 @@
 ---
 layout: math
 title: BOOK BODY Buddies
+image: https://camp-us.net/assets/E-Zypp.webp
+favicon: https://camp-us.net/assets/G-La.png
 ---
 # BOOK BODY Buddies
 
@@ -32,6 +34,9 @@ title: BOOK BODY Buddies
 **14**｜E.T.: Editus Transcendence? ── 未知との遭遇 We are not alone.　¥800  ~~¥1100~~  
 **15**｜DyXis: SNS Next ≠ SNS.（English–Japanese bilingual edition.）　¥800  ~~¥1100~~  
 **16**｜DyXis: SNS Next ≠ SNS.（English edition.）  Kindle only  
+**17**｜Earth in a Pot: 鉢植えの地球: Was It Ever Solo?: ひとり──だけど一人じゃない。　¥900  ~~¥1320~~  
+**18**｜Not One Next.: Rhizomatic Solo Sugar 並ばないアリたち ひとり──だけど一匹じゃない。　¥900  ~~¥1320~~  
+**19**｜The Red Oni and the Blue Oni 赤鬼と青鬼のDyXis: Different Nests, Different Days. それぞれの巣。それぞれの今日。　¥900  ~~¥1320~~  
 
 **Cash Only /** **現金のみ**  
 
