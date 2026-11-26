@@ -58,6 +58,16 @@ favicon: https://camp-us.net/assets/G-La.png
 
 ![サイト情報 - BOOK BODY Buddies｜BBB @E-Zy](https://assets.super.so/e07cd1a6-3874-4bbe-8b28-699be1e9e60c/images/94a4a955-6033-4455-ad79-442a3916a280/2b9c9999f531a550d64797d5eaf96e0b2b129410.png?width=1600)
 
+# 📚 **SCREP -処-。**  
+### 新刊のある古書店。
+
+**_Huc nova veniunt, hic lege._**  
+![LiRax_800](./assets/LiRax_800.webp)  
+
+### 📚 [LiRax｜新着情報](https://camp-us.net/rack/)  
+
+---
+
 ## 🐜 DyXis
 ### 新しいSNSを作らない。
 ### ──SNS Next ≠ SNS.
