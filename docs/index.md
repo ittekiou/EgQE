@@ -54,7 +54,8 @@ description: 書く。置く。つながる。乳化する。camp-us.net の論�
 ## 📚 [Book List](https://ezsy.super.site/e-zy-press/bbb/bbbl)↗︎  
 #### Amazon 著者ページ [日本語 ↗](https://www.amazon.co.jp/stores/author/B0HHNH3JNP)｜[English ↗](https://www.amazon.co.jp/stores/Itekki-K.E/author/B0HHVQBD2V)  
 
-### 📪 Substack — EgSS🥚  [Posts](https://substack.com/@kei77)｜ [Website](https://campus6214.substack.com/)↗︎  
+### 📪 Substack — EgSS🥚  [Posts](https://substack.com/@kei77)｜ [Camp@Us](https://campus6214.substack.com/)｜[DyXis](https://dyxis.substack.com/)↗︎  
+      
 
 ---
 # SyncHub — EgQE

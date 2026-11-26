@@ -44,6 +44,8 @@ description: SNS Next ≠ SNS. 所在地不明のSNSから、イマココのDyXi
 - X：[@DyXis_](https://x.com/DyXis_)
     
 - Bluesky：[dyxis.substack.com](https://bsky.app/profile/dyxis.substack.com)
+	
+- Substack：[dyxis.substack.com](https://dyxis.substack.com/)
     
 - GitHub：[dyxis](https://github.com/ittekiou/dyxis)
 
