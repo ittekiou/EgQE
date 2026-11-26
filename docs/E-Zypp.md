@@ -2,7 +2,7 @@
 layout: math
 title: E-Zypp｜札幌のひとり出版者 📚 E-Zy Press
 description: ひとり。だけど一人じゃない。ココ、いい此処なれ。🏠 E-Zy Press｜爺ぃとAIたちと北海道犬がいる ひとり出版者。
-image: https://camp-us.net/assets/E-Zypp.webp
+image: https://camp-us.net/assets/sho.webp
 favicon: https://camp-us.net/assets/G-La.png
 ---
 ## E-Zypp
@@ -13,6 +13,8 @@ favicon: https://camp-us.net/assets/G-La.png
 # 札幌のひとり出版処 📚 E-Zy Press
 
 ## ココ、いい此処なれ。
+
+![sho](./assets/sho.webp)  
 
 ## **AUTHOR-DIRECT see-saw PRICE／価格**
 
