@@ -43,6 +43,8 @@ favicon: https://camp-us.net/assets/G-La.png
 #### ── 爺ぃとAIたちと北海道犬がいる ひとり出版処。
 🚗💨 [札白菊 62-14](https://camp-us.net/BBB.html)  
 
+_在庫切れの際は、取り寄せとなります。予めご容赦ください。_
+
 ---
 
 # **🏠 E-Zy Press**
