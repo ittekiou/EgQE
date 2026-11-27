@@ -1461,12 +1461,12 @@
       "id": "blog",
       "kind": "letter",
       "name": "✒️ Blog",
-      "note": "はてな、アメブロ、静かなインターネット。媒体ごとに新着を並べています。",
+      "note": "はてな、アメブロ、静かなインターネット、Blogger。媒体ごとに新着を並べています。",
       "groups": [
         {
           "label": "はてな｜こえと言葉のブログ",
           "feed": "https://jimt.hatenablog.com/feed",
-          "keep": 4,
+          "keep": 3,
           "excerpt": true,
           "items": [
             {
@@ -1498,7 +1498,7 @@
         {
           "label": "アメブロ｜気ままにスローライフ",
           "feed": "https://rssblog.ameba.jp/jimt/rss20.xml",
-          "keep": 4,
+          "keep": 3,
           "items": [
             {
               "title": "札幌の朝焼け",
@@ -1529,7 +1529,7 @@
         {
           "label": "しずかなインターネット｜LiRax",
           "feed": "https://sizu.me/lirax/rss",
-          "keep": 4,
+          "keep": 3,
           "items": [
             {
               "title": "10月30日（金）",
@@ -1538,6 +1538,13 @@
               "date": "2026-10-30T15:10:20+09:00"
             }
           ]
+        },
+        {
+          "label": "Blogger｜Camp@Us 北海道犬のいる宿",
+          "feed": "https://campus6214.blogspot.com/feeds/posts/default",
+          "keep": 3,
+          "excerpt": true,
+          "items": []
         }
       ],
       "position": "after",
@@ -1553,7 +1560,8 @@
         {
           "label": "静か",
           "url": "https://sizu.me/lirax"
-        }
+        },
+        { "label": "Blogger", "url": "https://campus6214.blogspot.com/" }
       ]
     }
   ]
