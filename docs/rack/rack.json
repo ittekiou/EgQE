@@ -1203,7 +1203,7 @@
               "file:docs/rack/feeds/youtube.xml"
             ]
           ],
-          "keep": 5,
+          "keep": 4,
           "items": []
         }
       ]
