@@ -30,6 +30,7 @@ From Noise to Notation. From Dialogue to Discovery.
 
 ###### 2026/11/28  
 [LLR-00｜リンクとリングの政治経済学／考古学｜研究構想 v0.1](https://camp-us.net/LRR/LRR-00_Links-Rings-Rhizomes_v0.1.html)  
+[LRR-AR-01｜関係を記述するということ ── XFNとFOAFの初期発掘 v0.1](https://camp-us.net/LRR/LRR-AR-01_XFN-FOAF_v0.1.html)  
 ###### 2026/11/25  
 [MBIG-01｜Midnight Baseball — Invisible Ground: 証明の証明論と構文論的エポケー（v1.0）](https://camp-us.net/articles/MBIG-01_Midnight-Baseball_Invisible-Ground_v1.0.html)  
 [MBIG-00｜Midnight Baseball — Invisible Ground: 証明の証明論と構文論的エポケー（v0.1）](https://camp-us.net/articles/MBIG-00_Midnight-Baseball_Invisible-Ground_v0.1.html)  
