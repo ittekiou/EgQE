@@ -4,6 +4,9 @@ title: BOOK BODY Buddies
 image: https://camp-us.net/assets/E-Zypp.webp
 favicon: https://camp-us.net/assets/G-La.png
 ---
+## E-Zypp
+
+# Digital KOSHOTEN -処-
 # BOOK BODY Buddies
 
 ![BBBG](./assets/BBBG.webp)  
@@ -17,6 +20,7 @@ favicon: https://camp-us.net/assets/G-La.png
 ### **E-Zy Press / BOOK BODY Buddies**
 
 ## **AUTHOR-DIRECT PRICE／著者直販価格**
+### Rate for guests and friends
 
 **01**｜Homo editus ── The Editing Species, the Edited Species　¥1000  ~~$12.99~~  
 **02**｜Homo editus──編集する種、編集される種　¥1000  ~~¥1650~~  
